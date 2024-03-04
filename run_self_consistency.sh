@@ -5,9 +5,7 @@ export SLEEP=40
 
 
 export MODEL=gpt-3.5-turbo-0301
-#export OPENAI_API_KEY=sk-fluQKnfYDVHPYcWiBeA6C6C18b1d44709e870454B4B941F4
-#export OPENAI_API_BASE=https://1api.onekey.asia/v1
-export OPENAI_API_KEY=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
+export OPENAI_API_KEY=sk-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 export OPENAI_API_BASE=https://api.openai.com/v1
 
 
