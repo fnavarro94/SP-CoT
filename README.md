@@ -2,7 +2,7 @@
 
 This repository contains the code and data for the paper **[Self-prompted Chain-of-Thought on Large Language Models for Open-domain Multi-hop Reasoning](https://aclanthology.org/2023.findings-emnlp.179/) (EMNLP 2023)**.
 
-![image-20240304131436898](img/overview.png)
+![overview](img/overview.png)
 
 ## 1. Paper Abstract
 
@@ -45,7 +45,7 @@ Please modify the arguments in `run_preprocess.sh` file to preprocess the raw fi
 
 This repository provides the code for the self-generation phase. Here, we provide our self-generated data for the experiments in the paper. You can find them in the `data/self-prompt-cot/pseudo_dataset.json` directory. You can also generate the self-generated data by running the self-generation phase below. The self-generated data (Topics) by each model is available in the `data/self-prompt-cot/$MODEL/` directory.
 
-![image-20240304131508732](img/self-generation.png)
+![self-generation](img/self-generation.png)
 
 #### Step 1: Topic Generation
 
@@ -79,7 +79,7 @@ Also supported are:
 
 ### 3.3 Phase 2: Self-Prompted Inference
 
-![image-20240304131539641](img/inference.png)
+![inference](img/inference.png)
 
 #### Step 1: Build demonstrations
 
