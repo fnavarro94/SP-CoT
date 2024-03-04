@@ -19,6 +19,12 @@ In open-domain question-answering (ODQA), most existing questions require single
 
 ## 3. Usage
 
+To install the required packages, you can use the following command:
+
+```bash
+pip install -r requirements.txt
+```
+
 - The scripts with suffix `_$MODEL` are for the model-specific experiments. Please modify the arguments in these scripts to reproduce the experiments for different models.
 - The scripts without certain suffix are for the general experiments. The default model is `gpt-3.5-turbo-0301`. Please modify the arguments in these scripts to reproduce the experiments for different models.
 
