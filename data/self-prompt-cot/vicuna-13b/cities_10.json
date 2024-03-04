@@ -1,0 +1,1281 @@
+{
+    "first_hops": {
+        "Paris": {
+            "term": "Paris",
+            "passage": "Paris is the capital and most populous city of France. It is located in the northern central part of the country, on the Seine River. The city of Paris has a population of about 2.1 million people, while its metropolitan area has a population of about 12 million people. Paris has a rich history that dates back to the 3rd century BC, when it was founded as a Gaulish settlement. The city was later conquered by the Romans, and in the 12th century it became the capital of the Kingdom of France. Since then, Paris has been a major political, cultural, and economic center in Europe. Today, Paris is known for its iconic landmarks, such as the Eiffel Tower, the Louvre Museum, Notre-Dame Cathedral, and the Arc de Triomphe. It is also renowned for its art, fashion, cuisine, and romantic atmosphere. Paris is a major tourist destination, attracting millions of visitors each year. In addition to its cultural and historical significance, Paris is also a major economic center. It is home to the headquarters of many major French companies, such as L'Oreal, Total, and BNP Paribas. The city is also a hub for international business, with many multinational corporations maintaining offices in Paris. Paris is served by two main airports, Charles de Gaulle Airport and Orly Airport, which offer flights to and from destinations around the world. The city is also well connected by rail and road, with a high-speed train network and several major highways providing access to other parts of France and Europe. Overall, Paris is a vibrant and dynamic city that offers a unique blend of history, culture, and modernity.",
+            "qae_pairs": [
+                {
+                    "question": "What is the historical date when Paris was founded as a Gaulish settlement?",
+                    "answer": "BC",
+                    "explanation": "The historical date when Paris was founded as a Gaulish settlement is the 3rd century BC."
+                },
+                {
+                    "question": "What is the name of the French company that has its headquarters in Paris and is well-known for its banking and financial services?",
+                    "answer": "BNP Paribas",
+                    "explanation": "BNP Paribas is a French multinational banking and financial services company that has its headquarters in Paris. It is one of the largest banks in the world and is well-known for its banking and financial services."
+                },
+                {
+                    "question": "What is the capital and most populous city of France located on?",
+                    "answer": "the Seine River",
+                    "explanation": "Paris is located on the Seine River."
+                },
+                {
+                    "question": "What company has its headquarters in Paris and is known for its beauty products?",
+                    "answer": "L'Oreal",
+                    "explanation": "L'Oreal is a French multinational cosmetics company that has its headquarters in Paris. It is known for producing a wide range of beauty products, including makeup, skincare, and haircare products. The company was founded in 1909 and has since become one of the largest cosmetics companies in the world, with a presence in over 130 countries. L'Oreal is committed to promoting diversity and inclusion in its workforce and has implemented several initiatives to support this goal."
+                },
+                {
+                    "question": "What was the year when Paris became the capital of the Kingdom of France?",
+                    "answer": "the 12th century",
+                    "explanation": "The year when Paris became the capital of the Kingdom of France was the 12th century."
+                },
+                {
+                    "question": "What is the iconic landmark in Paris that was built to honor those who fought and died for France during wartime?",
+                    "answer": "the Arc de Triomphe",
+                    "explanation": "The iconic landmark in Paris that was built to honor those who fought and died for France during wartime is the Arc de Triomphe."
+                }
+            ],
+            "hops": [
+                "Paris"
+            ]
+        },
+        "Tokyo": {
+            "term": "Tokyo",
+            "passage": "Tokyo is the capital city of Japan and the most populous metropolitan area in the world with a population of over 37 million people. Located on the eastern coast of the main Japanese island of Honshu, Tokyo is a vibrant and bustling city that is known for its cutting-edge technology, anime, manga, and pop culture. The city is also steeped in history and tradition, with numerous shrines and temples that offer a glimpse into Japan's rich cultural heritage. Tokyo was originally founded in the 7th century as Edo, and it grew rapidly during the Edo period (1603–1868) when it became the center of political and economic power in Japan. Today, Tokyo is a global center for finance, commerce, and technology, and it is home to many of Japan's largest corporations, including Toyota, Sony, and Mitsubishi UFJ Financial Group. The city is also famous for its food scene, with numerous Michelin-starred restaurants and street food options that offer a wide variety of flavors and textures. Some of the most popular dishes in Tokyo include sushi, ramen, udon, and tempura. Tokyo is a city that never sleeps, with a vibrant nightlife scene that includes everything from jazz clubs to karaoke bars. The city is also home to many museums and galleries, including the Tokyo National Museum, the National Museum of Western Art, and the Mori Art Museum. In addition to its many attractions, Tokyo is also known for its efficient public transportation system, which includes an extensive network of trains, subways, and buses that make it easy to get around the city.",
+            "qae_pairs": [
+                {
+                    "question": "What company is headquartered in Tokyo and is known for its cutting-edge technology, anime, manga, and pop culture?",
+                    "answer": "Sony",
+                    "explanation": "Sony is a company that is headquartered in Tokyo and is known for its cutting-edge technology, anime, manga, and pop culture. Tokyo is the capital city of Japan and the most populous metropolitan area in the world with a population of over 37 million people. It is a vibrant and bustling city that is known for its cutting-edge technology, anime, manga, and pop culture. The city is also steeped in history and tradition, with numerous shrines and temples that offer a glimpse into Japan's rich cultural heritage."
+                },
+                {
+                    "question": "What is the name of the museum located in Tokyo that features artwork from the Western world?",
+                    "answer": "the National Museum of Western Art",
+                    "explanation": "The National Museum of Western Art is located in Tokyo and features artwork from the Western world."
+                },
+                {
+                    "question": "What is the original name of Tokyo before it became the city we know today?",
+                    "answer": "Edo",
+                    "explanation": "The original name of Tokyo before it became the city we know today is Edo."
+                },
+                {
+                    "question": "What is the historical origin of Tokyo?",
+                    "answer": "the 7th century",
+                    "explanation": "Tokyo was originally founded in the 7th century as Edo."
+                },
+                {
+                    "question": "What company is headquartered in Tokyo and is known for its cutting-edge technology, anime, manga, and pop culture, as well as its rich cultural heritage and famous food scene?",
+                    "answer": "Mitsubishi UFJ Financial Group",
+                    "explanation": "Mitsubishi UFJ Financial Group is headquartered in Tokyo and is known for its cutting-edge technology, anime, manga, and pop culture, as well as its rich cultural heritage and famous food scene. The company is one of the largest financial institutions in Japan and provides a wide range of financial services to individuals and businesses around the world. In addition to its financial services, Mitsubishi UFJ Financial Group is also known for its innovative technology solutions, which include mobile banking, online trading, and other digital platforms."
+                },
+                {
+                    "question": "Which dish is known for its crispy batter and variety of seafood options?",
+                    "answer": "tempura",
+                    "explanation": "tempura Tempura is a popular dish in Tokyo that is known for its crispy batter and variety of seafood options. It typically consists of seafood such as shrimp, scallops, and squid that are coated in a light batter and fried until crispy. Tempura is often served with a dipping sauce made from soy sauce, mirin, and dashi, and it is a must-try for any food lover visiting Tokyo."
+                },
+                {
+                    "question": "What is the name of the museum located in Tokyo that features contemporary art?",
+                    "answer": "the Mori Art Museum",
+                    "explanation": "The Mori Art Museum is a contemporary art museum located in Tokyo, Japan. It was founded in 2003 by the Mori Memorial Foundation and is housed in the Mori Tower, a 54-story skyscraper in the Roppongi Hills development. The museum features a variety of contemporary art exhibitions throughout the year, including works by both established and emerging artists from Japan and around the world. Some of the artists whose work has been featured at the Mori Art Museum include Yayoi Kusama, Takashi Murakami, and Ai Weiwei."
+                }
+            ],
+            "hops": [
+                "Tokyo"
+            ]
+        },
+        "New York City": {
+            "term": "New York City",
+            "passage": "New York City is the most populous city in the United States, with an estimated 8.4 million residents in 2020. The city is known for its iconic landmarks, such as the Statue of Liberty, Central Park, Times Square, and the Empire State Building. It is also home to many of the world's most famous museums, galleries, performance venues, and cultural institutions, such as the Metropolitan Museum of Art, the Museum of Modern Art, and Carnegie Hall. New York City is a global center of commerce, finance, media, art, fashion, research, and technology. The city's economy is diverse, with major industries including finance, healthcare, education, entertainment, tourism, and technology. Many of the world's largest corporations are headquartered in New York City, and the city is also home to numerous small businesses and startups. New York City is a major transportation hub, with one of the world's busiest airports, John F. Kennedy International Airport, and the world's busiest rail station, Grand Central Terminal. The city is also served by a comprehensive public transportation system, including the New York City Subway, which is one of the largest and oldest public transit systems in the world. New York City is known for its diverse cultural and ethnic communities, with more than 3 million foreign-born residents from over 190 countries. The city is home to many vibrant neighborhoods, each with its own distinct culture and identity, such as Chinatown, Little Italy, and Harlem. Despite its many successes, New York City faces significant challenges, including income inequality, poverty, and crime.",
+            "qae_pairs": [
+                {
+                    "question": "What is the world's busiest rail station in New York City?",
+                    "answer": "Grand Central Terminal",
+                    "explanation": "Grand Central Terminal is the world's busiest rail station in New York City, with an estimated 750,000 passengers passing through it every day. The terminal is a major transportation hub, serving as a connection point for commuter trains, Amtrak, and the New York City Subway. It is also a popular destination for tourists, who come to see its iconic architecture, shops, and restaurants."
+                },
+                {
+                    "question": "What is the name of the most famous museum in New York City, according to the passage?",
+                    "answer": "the Metropolitan Museum of Art",
+                    "explanation": "According to the passage, the most famous museum in New York City is the Metropolitan Museum of Art."
+                },
+                {
+                    "question": "Which year did New York City have an estimated population of 8.4 million residents?",
+                    "answer": "2020",
+                    "explanation": "The passage does not provide a specific year for when New York City had an estimated population of 8.4 million residents. However, it does mention that this estimate is for the year 2020."
+                },
+                {
+                    "question": "Which one of the following is not one of the world's most famous museums in New York City?",
+                    "answer": "the Museum of Modern Art",
+                    "explanation": "The Museum of Modern Art is one of the world's most famous museums in New York City. However, the instruction mentions that New York City is home to many of the world's most famous museums, galleries, performance venues, and cultural institutions, such as the Metropolitan Museum of Art, the Museum of Modern Art, and Carnegie Hall. Therefore, the answer is not one of the options provided."
+                }
+            ],
+            "hops": [
+                "New York City"
+            ]
+        },
+        "London": {
+            "term": "London",
+            "passage": "London is the capital and largest city of England, and the largest urban zone in the United Kingdom. It is located in the southeastern part of England, on the River Thames. The city has a population of around 9 million people, while the wider metropolitan area has a population of around 14 million people. London is one of the world's most important and influential cities, and is often considered to be the cultural, financial, and political capital of the world. London is a major global city, and is often ranked among the most livable and visited cities in the world. It is home to many world-renowned museums, galleries, theaters, and other cultural institutions, as well as some of the world's most iconic landmarks and tourist attractions, such as the Tower of London, Buckingham Palace, the London Eye, and the British Museum. London is also a major center of commerce and finance, and is home to the London Stock Exchange, which is one of the world's most important financial markets. The city is also home to many of the world's largest banks and financial institutions, and is a major center for international business and trade. London is served by a comprehensive transportation system, including the London Underground, which is one of the world's oldest and largest metro systems, as well as an extensive network of buses, trains, and taxis. The city is also home to one of the world's largest airports, Heathrow Airport, which is a major hub for international air travel. Despite its many strengths, London also faces a number of challenges, including high levels of pollution and congestion, as well as issues related to housing affordability and social inequality.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the river that runs through London and is the largest urban zone in the United Kingdom?",
+                    "answer": "the River Thames",
+                    "explanation": "The name of the river that runs through London and is the largest urban zone in the United Kingdom is the River Thames."
+                },
+                {
+                    "question": "What is the name of the museum located in London that is considered one of the world's most important and influential cultural institutions?",
+                    "answer": "the British Museum",
+                    "explanation": "The British Museum is one of the world's most important and influential cultural institutions, and is located in London. It is home to a vast collection of artifacts from around the world, including the Rosetta Stone, the Elgin Marbles, and the Mummy of Amenhetep. The museum was founded in 1753 and has since grown to become one of the largest and most comprehensive museums in the world, attracting millions of visitors each year."
+                }
+            ],
+            "hops": [
+                "London"
+            ]
+        },
+        "Beijing": {
+            "term": "Beijing",
+            "passage": "Beijing is the capital of the People's Republic of China and one of the most populous cities in the world, with a population of 21.5 million people. Located in northern China, Beijing is a major transportation hub and a center for politics, economy, culture, and education. Its history dates back more than 3,000 years, and it has been the capital of various Chinese dynasties, including the Liao, Jin, Yuan, Ming, and Qing dynasties. Beijing is known for its rich history and culture, which is reflected in its many historic landmarks, such as the Forbidden City, the Temple of Heaven, and the Great Wall of China. The city is also home to many museums, galleries, and theaters, as well as a vibrant food and nightlife scene. Beijing is a major economic center, with a thriving business district and many multinational corporations based in the city. It is also a hub for transportation, with two major airports and a well-developed transportation network. Despite its many achievements, Beijing faces challenges such as air pollution and traffic congestion. The government has taken steps to address these issues, such as promoting public transportation and implementing stricter environmental regulations. Overall, Beijing is a dynamic and exciting city that offers a unique blend of ancient history and modern development. Its rich culture, vibrant atmosphere, and strategic location make it a fascinating destination for visitors from around the world.",
+            "qae_pairs": [
+                {
+                    "question": "What is the historic landmark in Beijing that is known for its rich history and culture and is a major tourist attraction?",
+                    "answer": "the Forbidden City",
+                    "explanation": "The historic landmark in Beijing that is known for its rich history and culture and is a major tourist attraction is the Forbidden City."
+                }
+            ],
+            "hops": [
+                "Beijing"
+            ]
+        },
+        "Istanbul": {
+            "term": "Istanbul",
+            "passage": "Istanbul is the largest city in Turkey, with a population of 15 million residents. It is located in northwestern Turkey on the Bosphorus Strait, which separates Europe and Asia. The city was originally founded as Byzantium in 660 AD by the Byzantine Empire, and it served as the capital of the Eastern Roman Empire for nearly a thousand years. After the fall of Constantinople to the Ottoman Empire in 1453, the city was renamed Istanbul and became the capital of the Ottoman Empire. Istanbul is a major economic, cultural, and educational center in Turkey. It is home to many major industries, including finance, media, art, fashion, and technology. The city is also a hub for international trade, with its port being one of the busiest in the world. Istanbul is known for its rich history and cultural heritage, which is reflected in its many museums, galleries, and historic landmarks. Some of the most popular attractions in Istanbul include the Hagia Sophia, a stunningly beautiful basilica-turned-mosque-turned-museum that dates back to the 6th century. The Blue Mosque, which is known for its intricate blue tiles and impressive domes, is another must-see landmark. The Topkapi Palace, which was once home to Ottoman sultans, is now a museum that showcases the opulent lifestyle of the Ottoman rulers. The Grand Bazaar, which is one of the oldest and largest covered markets in the world, is a shopper's paradise, with its winding streets and colorful stalls selling everything from spices to jewelry.",
+            "qae_pairs": [
+                {
+                    "question": "What body of water separates Istanbul, Turkey, into the European and Asian continents?",
+                    "answer": "the Bosphorus Strait",
+                    "explanation": "The Bosphorus Strait separates Istanbul, Turkey, into the European and Asian continents."
+                },
+                {
+                    "question": "What is the name of the palace in Istanbul that was once home to Ottoman sultans and is now a museum?",
+                    "answer": "The Topkapi Palace",
+                    "explanation": "The Topkapi Palace in Istanbul was once home to Ottoman sultans and is now a museum that showcases the opulent lifestyle of the Ottoman rulers."
+                },
+                {
+                    "question": "What is the length of time Istanbul served as the capital of the Eastern Roman Empire?",
+                    "answer": "nearly a thousand years",
+                    "explanation": "Istanbul served as the capital of the Eastern Roman Empire for nearly a thousand years."
+                },
+                {
+                    "question": "What was the year when Istanbul was renamed after its conquest by the Ottoman Empire?",
+                    "answer": "1453",
+                    "explanation": "The year when Istanbul was renamed after its conquest by the Ottoman Empire was 1453."
+                },
+                {
+                    "question": "What is the date when Istanbul was originally founded?",
+                    "answer": "660 AD",
+                    "explanation": "The date when Istanbul was originally founded is 660 AD."
+                }
+            ],
+            "hops": [
+                "Istanbul"
+            ]
+        },
+        "Rio de Janeiro": {
+            "term": "Rio de Janeiro",
+            "passage": "Rio de Janeiro, commonly referred to simply as Rio, is the capital city of the state of Rio de Janeiro, Brazil. It is the second-largest city in Brazil, with a population of 6.3 million people within the city proper, making it the sixth-largest urban agglomeration in the Americas. Rio de Janeiro is famous for its carnival celebrations, samba music, and the beaches of Copacabana and Ipanema. The city was the capital of Brazil for nearly two centuries, from 1763 to 1815, when the court of the Portuguese Empire moved to Rio de Janeiro. Later, as the capital of the Republic of Brazil, Rio de Janeiro played an important role in the formation of the country's modern political and cultural identity. Rio de Janeiro is a major tourist attraction, with its famous beaches, carnival celebrations, samba music, and other cultural landmarks such as the Sugarloaf Mountain and the statue of Christ the Redeemer. The city has a strong economy, with a diverse range of industries, including tourism, finance, and technology. Rio de Janeiro is also home to several world-renowned universities, such as the Federal University of Rio de Janeiro and the Pontifical Catholic University of Rio de Janeiro. The city has a rich cultural heritage, with a mix of African, European, and indigenous influences. Despite its many attractions, Rio de Janeiro faces several challenges, including high levels of crime, poverty, and pollution. However, the city continues to be a vibrant and dynamic place, with a strong sense of community and a commitment to overcoming these challenges.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the famous mountain located near Rio de Janeiro that is a popular tourist attraction?",
+                    "answer": "the Sugarloaf Mountain",
+                    "explanation": "The famous mountain located near Rio de Janeiro that is a popular tourist attraction is the Sugarloaf Mountain."
+                },
+                {
+                    "question": "What famous beach is located in Rio de Janeiro and is known for its distinctive black and white patterned mosaic promenade?",
+                    "answer": "Copacabana",
+                    "explanation": "Copacabana is the famous beach located in Rio de Janeiro and is known for its distinctive black and white patterned mosaic promenade."
+                },
+                {
+                    "question": "What is the length of time that Rio de Janeiro served as the capital of Brazil?",
+                    "answer": "nearly two centuries",
+                    "explanation": "Rio de Janeiro served as the capital of Brazil for nearly two centuries, from 1763 to 1815."
+                }
+            ],
+            "hops": [
+                "Rio de Janeiro"
+            ]
+        },
+        "Sydney": {
+            "term": "Sydney",
+            "passage": "Sydney is the capital city of New South Wales, Australia. It is located on the east coast of Australia, and is the most populous city in Australia, with a population of over 5 million people. Sydney is known for its iconic landmarks, including the Sydney Opera House and the Sydney Harbour Bridge. The city is also known for its beautiful beaches, such as Bondi Beach and Coogee Beach. Sydney was founded in 1788 as a penal colony by the British government. The city grew rapidly in the 19th century, and by the mid-20th century it had become a major economic and cultural center. Today, Sydney is a global city, with a diverse economy that includes finance, tourism, and technology. The city is home to many world-class museums and art galleries, including the Australian Museum and the Art Gallery of New South Wales. It is also a hub for the arts, with a thriving music, theater, and dance scene. Sydney is a popular destination for tourists from around the world, who come to see its famous landmarks and experience its vibrant culture. The city is also a popular destination for business travelers, as it is home to many major international conferences and events. In addition to its cultural and economic attractions, Sydney is also known for its high quality of life. The city has a mild climate, with warm summers and cool winters, and is home to many beautiful parks and gardens. It is also known for its excellent dining scene, with a wide variety of restaurants and cafes to choose from. Overall, Sydney is a dynamic and exciting city that offers something for everyone.",
+            "qae_pairs": [
+                {
+                    "question": "What iconic landmark in Sydney is known for its beautiful beaches?",
+                    "answer": "Bondi Beach",
+                    "explanation": "Bondi Beach is the iconic landmark in Sydney that is known for its beautiful beaches."
+                },
+                {
+                    "question": "What is the location of Sydney?",
+                    "answer": "the east coast",
+                    "explanation": "Sydney is located on the east coast of Australia."
+                },
+                {
+                    "question": "What is the year that Sydney was founded as a penal colony by the British government?",
+                    "answer": "1788",
+                    "explanation": "Sydney was founded in 1788 as a penal colony by the British government."
+                },
+                {
+                    "question": "What is the climate like in Sydney?",
+                    "answer": "winters",
+                    "explanation": "The climate in Sydney is known for its mild summers and cool winters."
+                }
+            ],
+            "hops": [
+                "Sydney"
+            ]
+        },
+        "Mumbai": {
+            "term": "Mumbai",
+            "passage": "Mumbai, formerly known as Bombay, is the capital city of the Indian state of Maharashtra. It is the most populous city in India and the ninth most populous agglomeration in the world, with a population of over 20.4 million people. Mumbai is located on the west coast of India and is the commercial, cultural, and financial capital of the country. It is also known as the \"City of Dreams\" because of its role in India's economic success, and is considered to be one of the world's fastest-growing cities. Mumbai was originally a group of seven islands that were joined by a series of bridges and tunnels. The city has a rich history and has been ruled by various dynasties, including the Mauryas, the Mughals, and the British. It was also a major center of trade and commerce during the colonial era, and was a hub for the opium trade with China. Today, Mumbai is a bustling metropolis that is home to a diverse range of people and cultures. It is a major center of the Indian film industry, and is known for its vibrant nightlife and street food. The city is also home to several museums, art galleries, and historical landmarks, including the Gateway of India, the Chhatrapati Shivaji Terminus, and the Elephanta Caves. Mumbai is a major transportation hub, with an international airport, a major port, and a extensive network of trains and buses. The city is also home to the Bombay Stock Exchange, which is one of the largest stock exchanges in Asia. Despite its rapid growth and development, Mumbai continues to face challenges such as poverty, pollution, and traffic congestion.",
+            "qae_pairs": [
+                {
+                    "question": "Which landmark in Mumbai is a major tourist attraction?",
+                    "answer": "the Gateway of India",
+                    "explanation": "The Gateway of India is a major tourist attraction in Mumbai. It is an arch monument built during the 20th century to commemorate the landing of King George V and Queen Mary at Apollo Bunder on their visit to India in 1911. The Gateway of India is located on the waterfront in the southern part of Mumbai and is a major landmark of the city. It is also a popular spot for tourists to take photographs and enjoy the views of the Arabian Sea."
+                },
+                {
+                    "question": "What is the location of Mumbai?",
+                    "answer": "the west coast",
+                    "explanation": "Mumbai is located on the west coast of India."
+                },
+                {
+                    "question": "What is the nickname of Mumbai that is mentioned in the passage?",
+                    "answer": "the \"City of Dreams",
+                    "explanation": "Mumbai is also known as the \"City of Dreams\" because of its role in India's economic success."
+                }
+            ],
+            "hops": [
+                "Mumbai"
+            ]
+        },
+        "Moscow": {
+            "term": "Moscow",
+            "passage": "Moscow is the capital and most populous city of Russia, with a population of 12.5 million people within the city limits. Moscow is located in the western part of Russia and is the center of the Moscow metropolitan area, which has a population of 17.8 million people. The city was founded in 1147 by Prince Yuri Dolgorukiy. Moscow was the capital of the former Soviet Union from 1918 to 1991, and it remains the political, economic, cultural, and scientific center of Russia. Moscow is known for its architecture, which includes the iconic St. Basil's Cathedral, Red Square, and the Kremlin. The city is also home to many museums, including the State Tretyakov Gallery and the Moscow Museum of Modern Art. Moscow is a major transportation hub, with an extensive metro system and several major airports. The city is also home to many professional sports teams, including football clubs CSKA Moscow and Spartak Moscow. Moscow is a global city and is considered one of the most important cities in the world. It is a member of the United Nations, the World Trade Organization, and the G20 major economies. The city is also home to many international organizations, including the World Health Organization and the International Atomic Energy Agency. Despite its many accomplishments, Moscow faces several challenges, including air pollution, traffic congestion, and corruption. However, the city continues to be a major cultural and economic center in Russia and the world.",
+            "qae_pairs": [
+                {
+                    "question": "What international organization is based in Moscow and has its headquarters located in the city?",
+                    "answer": "the International Atomic Energy Agency",
+                    "explanation": "The International Atomic Energy Agency (IAEA) has its headquarters located in Moscow, Russia."
+                },
+                {
+                    "question": "What was the year that Moscow was founded?",
+                    "answer": "1147",
+                    "explanation": "The year that Moscow was founded is 1147."
+                },
+                {
+                    "question": "What is the name of the iconic cathedral located in Moscow that is known for its colorful onion domes?",
+                    "answer": "St. Basil's",
+                    "explanation": "The iconic cathedral located in Moscow that is known for its colorful onion domes is St. Basil's Cathedral."
+                },
+                {
+                    "question": "What organization is Moscow a member of according to the passage?",
+                    "answer": "the United Nations",
+                    "explanation": "Moscow is a member of the United Nations, the World Trade Organization, and the G20 major economies."
+                },
+                {
+                    "question": "What organization is Moscow a member of?",
+                    "answer": "the World Trade Organization",
+                    "explanation": "Moscow is a member of the World Trade Organization."
+                },
+                {
+                    "question": "What was the period during which Moscow served as the capital of the former Soviet Union?",
+                    "answer": "1918 to 1991",
+                    "explanation": "Moscow served as the capital of the former Soviet Union from 1918 to 1991."
+                },
+                {
+                    "question": "What international organization is based in Moscow?",
+                    "answer": "the World Health Organization",
+                    "explanation": "The World Health Organization is based in Moscow, Russia."
+                },
+                {
+                    "question": "What is the name of the museum located in Moscow that is known for its collection of Russian art?",
+                    "answer": "the State Tretyakov Gallery",
+                    "explanation": "The State Tretyakov Gallery is a museum located in Moscow that is known for its collection of Russian art."
+                },
+                {
+                    "question": "What iconic landmark in Moscow is known for its architecture and is a major tourist attraction?",
+                    "answer": "Cathedral",
+                    "explanation": "The iconic landmark in Moscow known for its architecture and is a major tourist attraction is St. Basil's Cathedral."
+                }
+            ],
+            "hops": [
+                "Moscow"
+            ]
+        }
+    },
+    "second_hops": {
+        "BC": {
+            "term": "BC",
+            "passage": "BC ------- BC is the abbreviation for Before Christ, denoting a period of time in the Gregorian calendar preceding the year of the traditionally recognized birth of Jesus Christ. It is used to differentiate between dates in the Julian calendar, which was the predominant calendar system in use during the period in question. The BC era began with the year 1 BC, and ended with the year AD 1, when the era of the Anno Domini (AD) began. The concept of BC and AD was introduced by the Christian theologian Dionysius Exiguus in the 6th century, who based his calculations on the work of the earlier Jewish historian Josephus. The system was widely adopted in Europe and is now used throughout the world for dating events and historical periods. The BC era is characterized by a number of significant historical events and developments, including the rise and fall of ancient civilizations such as the Greeks, Romans, and Egyptians, as well as the emergence of new cultures and societies in Asia and the Americas. Many of the major religious and philosophical traditions that continue to shape the world today also emerged during this period. Despite its religious connotations, the BC era is widely used in secular contexts, particularly in academic and historical research, where it provides a useful framework for dating and comparing events and trends across different cultures and time periods.",
+            "qae_pairs": [
+                {
+                    "question": "What is the term 'BC' short for in the passage?",
+                    "answer": "Jesus Christ",
+                    "explanation": "BC stands for Before Christ, not Jesus Christ. It is an abbreviation used to denote a period of time in the Gregorian calendar preceding the year of the traditionally recognized birth of Jesus Christ. The BC era began with the year 1 BC, and ended with the year AD 1, when the era of the Anno Domini (AD) began. The concept of BC and AD was introduced by the Christian theologian Dionysius Exiguus in the 6th century, who based his calculations on the work of the earlier Jewish historian Josephus."
+                },
+                {
+                    "question": "What year was it when BC became AD?     Answer: The year AD 1.",
+                    "answer": "the year AD 1",
+                    "explanation": "The year when BC became AD was the year AD 1."
+                }
+            ],
+            "hops": [
+                "Paris",
+                "BC"
+            ]
+        },
+        "BNP Paribas": {
+            "term": "BNP Paribas",
+            "passage": "BNP Paribas is a French multinational banking and financial services corporation headquartered in Paris. The company was formed in 2000 as a result of the merger between Banque Nationale de Paris (BNP) and Paribas. BNP Paribas is one of the largest banks in the world, with operations in 74 countries and a presence in all five continents. The bank has a market capitalization of over €100 billion and employs over 185,000 people. BNP Paribas provides a wide range of financial services to individuals, corporations, and governments. These services include retail banking, corporate and investment banking, asset management, and real estate services. The bank is also involved in socially responsible investing and sustainable finance initiatives. BNP Paribas has a long history dating back to 1848 when it was founded as the Bank of France. Over the years, the bank has played a significant role in financing the development of France's economy. Today, BNP Paribas is a leading player in the European banking industry and is recognized for its innovative approach to banking and finance.",
+            "qae_pairs": [
+                {
+                    "question": "What year was BNP Paribas founded as the Bank of France, according to the passage?",
+                    "answer": "1848",
+                    "explanation": "According to the passage, BNP Paribas was founded as the Bank of France in 1848."
+                },
+                {
+                    "question": "What is the name of the institution that regulates BNP Paribas?     Answer: the Bank of France.",
+                    "answer": "the Bank of France",
+                    "explanation": "The name of the institution that regulates BNP Paribas is the Bank of France."
+                }
+            ],
+            "hops": [
+                "Paris",
+                "BNP Paribas"
+            ]
+        },
+        "the Seine River": {
+            "term": "the Seine River",
+            "passage": "1. The Seine River is a major river in France, rising in the Langres plateau and flowing for about 777 km (483 mi) to its mouth at the English Channel. 2. The river has a drainage basin of some 70,000 km² (27,000 sq mi), and is navigable for about 700 km (435 mi) from its mouth to Paris, where it is crossed by several bridges, including the famous Pont Neuf. 3. The Seine has a number of tributaries, the most important of which are the Marne, the Oise, and the Aube. It is also connected to the Canal de l'Ourcq, which provides a shortcut between the Seine and the Marne. 4. The river is an important source of water for human consumption and agriculture, and has played a significant role in the history and culture of France. It has inspired artists and writers throughout the centuries, and is home to several important museums and landmarks, including the Eiffel Tower and Notre-Dame Cathedral. 5. The Seine River is also known for its rich fishery, with species such as salmon, trout, and eel found in its waters. However, pollution and overfishing have threatened the river's ecosystem, and efforts are underway to restore its health and biodiversity.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the river that flows through Paris and is a major tourist attraction?     Answer: The Seine River flows through Paris, France.",
+                    "answer": "France",
+                    "explanation": "The Seine River flows through Paris, France."
+                },
+                {
+                    "question": "What is the answer to the question that contains the term 'the Seine River' in question and the answer is 'the centuries'?  Answer: What is the significance of the Seine River in the history of France?",
+                    "answer": "the centuries",
+                    "explanation": "The answer to the question that contains the term 'the Seine River' in question and the answer is 'the centuries' is 'What is the significance of the Seine River in the history of France?'. The Seine River has played a significant role in the history and culture of France, inspiring artists and writers throughout the centuries. It has also been an important source of water for human consumption and agriculture, and has provided a shortcut between the Seine and the Marne through the Canal de l'Ourcq."
+                },
+                {
+                    "question": "What is the name of the canal that connects the Seine River and the Marne and provides a shortcut between the two rivers?",
+                    "answer": "the Canal de l'Ourcq",
+                    "explanation": "The name of the canal that connects the Seine River and the Marne and provides a shortcut between the two rivers is the Canal de l'Ourcq."
+                },
+                {
+                    "question": "What city does the passage indicate is located near the source of the Seine River?",
+                    "answer": "Langres",
+                    "explanation": "The passage indicates that Langres is located near the source of the Seine River."
+                },
+                {
+                    "question": "What river is the tributary of the Seine River and flows into the English Channel?",
+                    "answer": "Oise",
+                    "explanation": "The tributary of the Seine River that flows into the English Channel is the Oise."
+                }
+            ],
+            "hops": [
+                "Paris",
+                "the Seine River"
+            ]
+        },
+        "L'Oreal": {
+            "term": "L'Oreal",
+            "passage": "L'Oreal is a French multinational cosmetics and beauty company headquartered in Clichy, Hauts-de-Seine, France. It is the world's largest cosmetics company and has a portfolio of over 35 brands, including L'Oreal Paris, Maybelline New York, Garnier, and Essie. The company was founded in 1909 by Eugene Schueller, a French chemist who developed a hair dye that could be used at home. L'Oreal is known for its innovative products and commitment to sustainability, with initiatives such as its \"Share and Care\" program, which aims to reduce the environmental impact of its products. The company has a presence in over 130 countries and employs more than 88,000 people worldwide.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the person who founded L'Oreal?",
+                    "answer": "Eugene Schueller",
+                    "explanation": "Eugene Schueller is the name of the person who founded L'Oreal."
+                },
+                {
+                    "question": "What is the name of the nail polish brand owned by L'Oreal that is mentioned in the passage?",
+                    "answer": "Essie",
+                    "explanation": "The nail polish brand owned by L'Oreal that is mentioned in the passage is Essie."
+                },
+                {
+                    "question": "What year was L'Oreal founded?",
+                    "answer": "1909",
+                    "explanation": "L'Oreal was founded in 1909."
+                },
+                {
+                    "question": "What is the location of L'Oreal's headquarters according to the passage?",
+                    "answer": "Clichy",
+                    "explanation": "According to the passage, L'Oreal's headquarters is located in Clichy, Hauts-de-Seine, France."
+                },
+                {
+                    "question": "What country is L'Oreal headquartered in, according to the passage?",
+                    "answer": "France",
+                    "explanation": "According to the passage, L'Oreal is a French multinational cosmetics and beauty company headquartered in Clichy, Hauts-de-Seine, France."
+                }
+            ],
+            "hops": [
+                "Paris",
+                "L'Oreal"
+            ]
+        },
+        "the Arc de Triomphe": {
+            "term": "the Arc de Triomphe",
+            "passage": "1. The Arc de Triomphe is a monument in Paris, France. 2. It was built to honor those who fought and died for France during the French Revolutionary and Napoleonic Wars. 3. The monument is located at the western end of the Champs-Élysées. 4. The Arc de Triomphe was designed by Jean Chalgrin and was built between 1806 and 1836. 5. The monument stands at a height of 50 meters (164 feet) and is the second largest triumphal arch in the world, after the Arch of Titus in Rome. 6. The Arc de Triomphe has four main facades, each facing one of the cardinal directions. 7. The facade facing east is the most famous and is adorned with sculptures of famous French military leaders, including Napoleon Bonaparte. 8. The Arc de Triomphe is a symbol of French military victory and is a popular tourist attraction.",
+            "qae_pairs": [
+                {
+                    "question": "What is the location of the Arc de Triomphe in Paris, France?",
+                    "answer": "the Champs-Élysées",
+                    "explanation": "The Arc de Triomphe is located at the western end of the Champs-Élysées in Paris, France."
+                },
+                {
+                    "question": "What is the name of the architect who designed the Arc de Triomphe in Paris, France?",
+                    "answer": "Jean Chalgrin",
+                    "explanation": "Jean Chalgrin is the name of the architect who designed the Arc de Triomphe in Paris, France."
+                },
+                {
+                    "question": "What is the name of the French military leader who is depicted in sculpture on the facade of the Arc de Triomphe facing east?",
+                    "answer": "Napoleon Bonaparte",
+                    "explanation": "The French military leader depicted in sculpture on the facade of the Arc de Triomphe facing east is Napoleon Bonaparte."
+                },
+                {
+                    "question": "What year was the Arc de Triomphe built between?",
+                    "answer": "between 1806 and 1836",
+                    "explanation": "The Arc de Triomphe was built between 1806 and 1836."
+                },
+                {
+                    "question": "What is the term 'the Arc de Triomphe' in question and what is the answer?",
+                    "answer": "the French",
+                    "explanation": "The term 'the Arc de Triomphe' in question refers to the monument in Paris, France. The answer is the French. The Arc de Triomphe was built by the French to honor those who fought and died for France during the French Revolutionary and Napoleonic Wars. It was designed by a French architect, Jean Chalgrin, and was built between 1806 and 1836. The monument stands at a height of 50 meters (164 feet) and is the second largest triumphal arch in the world, after the Arch of Titus in Rome."
+                },
+                {
+                    "question": "What is the location of the Arc de Triomphe?",
+                    "answer": "France",
+                    "explanation": "The Arc de Triomphe is located in Paris, France."
+                }
+            ],
+            "hops": [
+                "Paris",
+                "the Arc de Triomphe"
+            ]
+        },
+        "Sony": {
+            "term": "Sony",
+            "passage": "Sony Corporation is a Japanese multinational conglomerate corporation headquartered in Kōnan, Minato, Tokyo, Japan. Its diversified business includes consumer and professional electronics, gaming, entertainment, and financial services. The company's current slogan is \"Fill the world with emotion through the power of creativity and technology.\" Sony was founded on May 7, 1946, by Masaru Ibuka and Akio Morita, and originally operated as a radio repair shop in a department store in Tokyo. In the 1950s, Sony began to focus on the development of transistor technology, which would become the basis for the company's subsequent success in the electronics industry. In the following decades, Sony expanded its operations to include television and home appliances, and in the 1980s, it became one of the first Japanese companies to expand its operations in the United States. Today, Sony is one of the largest media conglomerates in the world, with a diverse range of products and services that include PlayStation gaming consoles, BRAVIA televisions, Cyber-shot digital cameras, and Xperia smartphones.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the city where Sony Corporation's headquarters are located, according to the passage?",
+                    "answer": "Minato",
+                    "explanation": "According to the passage, the name of the city where Sony Corporation's headquarters are located is Kōnan, Minato, Tokyo, Japan."
+                },
+                {
+                    "question": "What is the name of the co-founder of Sony Corporation who originally operated a radio repair shop in a department store in Tokyo?",
+                    "answer": "Akio Morita",
+                    "explanation": "The co-founder of Sony Corporation who originally operated a radio repair shop in a department store in Tokyo was Akio Morita."
+                },
+                {
+                    "question": "What date was Sony Corporation founded?",
+                    "answer": "May 7, 1946",
+                    "explanation": "According to the passage, Sony Corporation was founded on May 7, 1946."
+                },
+                {
+                    "question": "What is the name of Sony's smartphone line?",
+                    "answer": "Xperia",
+                    "explanation": "The name of Sony's smartphone line is Xperia."
+                },
+                {
+                    "question": "What is the name of the town where Sony Corporation is headquartered, according to the passage?",
+                    "answer": "Kōnan",
+                    "explanation": "According to the passage, Sony Corporation is headquartered in Kōnan, Minato, Tokyo, Japan."
+                },
+                {
+                    "question": "What is the country of origin for Sony?     Answer: Japan.     This question meets the conditions given in the passage as it contains the term 'Sony' in the question and the answer is 'Japan'.",
+                    "answer": "Japan",
+                    "explanation": "The country of origin for Sony is Japan."
+                },
+                {
+                    "question": "What was the decade when Sony became one of the first Japanese companies to expand its operations in the United States?",
+                    "answer": "the 1980s",
+                    "explanation": "The decade when Sony became one of the first Japanese companies to expand its operations in the United States was the 1980s."
+                }
+            ],
+            "hops": [
+                "Tokyo",
+                "Sony"
+            ]
+        },
+        "the National Museum of Western Art": {
+            "term": "the National Museum of Western Art",
+            "passage": "National Museum of Western Art ========= The National Museum of Western Art is a museum in Tokyo, Japan, dedicated to the collection and display of European art from the 14th to the 20th centuries. The museum was established in 1959 and is located in the Ueno Park. The museum's collection includes over 7,000 works of art, including paintings, sculptures, and decorative arts. The museum's collection includes works by many famous European artists, such as Rembrandt, Rubens, and Van Gogh. The museum also has a large collection of Italian Renaissance art, including works by Leonardo da Vinci, Michelangelo, and Raphael. The museum is known for its impressive collection of French Impressionist and Post-Impressionist art, including works by Claude Monet, Pierre-Auguste Renoir, Vincent van Gogh, and Paul Cézanne. The museum also has a significant collection of Japanese art, including ukiyo-e prints and ceramics. The National Museum of Western Art is a popular destination for art lovers and tourists visiting Tokyo. The museum is open every day except Mondays and national holidays. Admission is free for visitors under the age of 18 and over the age of 65.",
+            "qae_pairs": [
+                {
+                    "question": "What is the age at which visitors to the National Museum of Western Art can enter for free?",
+                    "answer": "the age of 65",
+                    "explanation": "The National Museum of Western Art offers free admission to visitors over the age of 65."
+                },
+                {
+                    "question": "What are the names of the artists whose works are displayed at the National Museum of Western Art in Tokyo, Japan?",
+                    "answer": "Rembrandt, Rubens",
+                    "explanation": "The National Museum of Western Art in Tokyo, Japan displays works by many famous European artists, including Rembrandt and Rubens."
+                },
+                {
+                    "question": "What country is the National Museum of Western Art located in?",
+                    "answer": "Japan",
+                    "explanation": "The National Museum of Western Art is located in Japan."
+                },
+                {
+                    "question": "What artist's works are included in the National Museum of Western Art's collection of Italian Renaissance art?",
+                    "answer": "Michelangelo",
+                    "explanation": "The National Museum of Western Art's collection of Italian Renaissance art includes works by Leonardo da Vinci, Michelangelo, and Raphael."
+                },
+                {
+                    "question": "What type of art is the National Museum of Western Art known for collecting and displaying?",
+                    "answer": "Post-Impressionist",
+                    "explanation": "The National Museum of Western Art is known for collecting and displaying Post-Impressionist art."
+                },
+                {
+                    "question": "What year was the National Museum of Western Art established in, according to the passage?",
+                    "answer": "1959",
+                    "explanation": "According to the passage, the National Museum of Western Art was established in 1959."
+                },
+                {
+                    "question": "What famous European artist is included in the National Museum of Western Art's collection of Italian Renaissance art, and what is the name of the museum?",
+                    "answer": "Leonardo da Vinci",
+                    "explanation": "The National Museum of Western Art is a museum in Tokyo, Japan, dedicated to the collection and display of European art from the 14th to the 20th centuries. The museum's collection includes over 7,000 works of art, including paintings, sculptures, and decorative arts. The museum's collection includes works by many famous European artists, such as Rembrandt, Rubens, and Van Gogh. The museum also has a large collection of Italian Renaissance art, including works by Leonardo da Vinci, Michelangelo, and Raphael."
+                },
+                {
+                    "question": "What day of the week is the National Museum of Western Art closed?",
+                    "answer": "Mondays",
+                    "explanation": "The National Museum of Western Art is closed on Mondays."
+                },
+                {
+                    "question": "What time period does the National Museum of Western Art in Tokyo collect and display European art from?",
+                    "answer": "the 14th to the 20th centuries",
+                    "explanation": "The National Museum of Western Art in Tokyo collects and displays European art from the 14th to the 20th centuries."
+                }
+            ],
+            "hops": [
+                "Tokyo",
+                "the National Museum of Western Art"
+            ]
+        },
+        "Edo": {
+            "term": "Edo",
+            "passage": "Edo (formerly known as Benin City) is the capital city of Edo State in southern Nigeria. It is located in the southern part of the state on the Ovia River, and is the largest city in the state with a population of about 1,216,117 people. Edo is a historic city, and was the capital of the ancient Kingdom of Benin, which was one of the oldest and most highly developed states in the southern Nigeria region. The city has a rich cultural heritage, and is known for its traditional festivals, such as the Oshogbo Festival, which is celebrated annually in September. Edo is also home to the Edo State University, which is one of the largest universities in Nigeria.",
+            "qae_pairs": [
+                {
+                    "question": "What is the annual event celebrated in Edo?",
+                    "answer": "annually",
+                    "explanation": "The annual event celebrated in Edo is the Oshogbo Festival, which is celebrated annually in September."
+                },
+                {
+                    "question": "What is the month in which the Oshogbo Festival is celebrated in Edo?",
+                    "answer": "September",
+                    "explanation": "The Oshogbo Festival is celebrated annually in September in Edo, which is the capital city of Edo State in southern Nigeria."
+                },
+                {
+                    "question": "What is the name of the kingdom that was located in the region that is now known as Edo?     What is the name of the kingdom that was located in the region that is now known as Edo?     What is the name of the kingdom that was located in the region that is now",
+                    "answer": "Kingdom of Benin",
+                    "explanation": "The name of the kingdom that was located in the region that is now known as Edo is the Kingdom of Benin."
+                },
+                {
+                    "question": "What is the name of the river that flows through Edo?",
+                    "answer": "the Ovia River",
+                    "explanation": "The river that flows through Edo is the Ovia River."
+                }
+            ],
+            "hops": [
+                "Tokyo",
+                "Edo"
+            ]
+        },
+        "Mitsubishi UFJ Financial Group": {
+            "term": "Mitsubishi UFJ Financial Group",
+            "passage": "Mitsubishi UFJ Financial Group, Inc. (Japanese: 三菱UFJファイナンシャルグループ, Hepburn: Mitsubishi UFJ Fainansharu Gurūpu) is a Japanese bank holding company headquartered in Tokyo, Japan. The company was formed on October 1, 2005, through the merger of Mitsubishi Tokyo Financial Group and UFJ Holdings, Inc. (formerly known as the Industrial Bank of Japan). It is one of the largest bank holding companies in Japan, and is listed on the Tokyo Stock Exchange. Mitsubishi UFJ Financial Group operates through a number of subsidiaries, including Mitsubishi UFJ Bank, Ltd., which is one of the largest banks in Japan, and Mitsubishi UFJ Securities Co., Ltd., which is one of the largest securities firms in Japan. The company also has operations in a number of other countries, including the United States, where it operates through its subsidiary, MUFG Union Bank, N.A. Mitsubishi UFJ Financial Group is a member of the Mitsubishi Group, a large Japanese conglomerate that is involved in a variety of industries, including automotive, energy, and financial services. The company is known for its strong financial position and its commitment to innovation and technology.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the bank operated by Mitsubishi UFJ Financial Group in the United States?",
+                    "answer": "MUFG Union Bank",
+                    "explanation": "The name of the bank operated by Mitsubishi UFJ Financial Group in the United States is MUFG Union Bank."
+                },
+                {
+                    "question": "What is the name of the bank operated by Mitsubishi UFJ Financial Group, Ltd.?",
+                    "answer": "Mitsubishi UFJ Bank, Ltd",
+                    "explanation": "Mitsubishi UFJ Bank, Ltd."
+                },
+                {
+                    "question": "What is the name of the securities firm that is a subsidiary of Mitsubishi UFJ Financial Group and is one of the largest in Japan?",
+                    "answer": "Mitsubishi UFJ Securities Co., Ltd",
+                    "explanation": "Mitsubishi UFJ Securities Co., Ltd."
+                }
+            ],
+            "hops": [
+                "Tokyo",
+                "Mitsubishi UFJ Financial Group"
+            ]
+        },
+        "tempura": {
+            "term": "tempura",
+            "passage": "Tempura is a traditional Japanese dish consisting of battered and deep-fried seafood, vegetables, and mushrooms. The word \"tempura\" comes from the Portuguese word \"tempero,\" which means \"to temper\" or \"to mix.\" Tempura is often served with a dipping sauce made from soy sauce, mirin, and dashi. Tempura is believed to have been introduced to Japan in the late 16th century by Portuguese traders. However, it was not until the Edo period (1603–1868) that tempura became a popular dish among the Japanese people. Today, tempura is a staple of Japanese cuisine and is enjoyed both in Japan and around the world. Tempura is typically made by dipping the seafood, vegetables, and mushrooms in a mixture of flour, eggs, and water, before coating them in a batter made from tempura flour and deep-frying them until crispy. The batter is thin and light, allowing the natural flavors of the seafood, vegetables, and mushrooms to shine through. Tempura is often served with a variety of side dishes, including pickled vegetables, grated daikon radish, and tempura sauce. It is also commonly served as a topping on ramen, udon, and soba noodles. Tempura is a versatile dish that can be enjoyed in many different ways. Whether you are looking for a light lunch or a hearty dinner, tempura is sure to satisfy your appetite.",
+            "qae_pairs": [
+                {
+                    "question": "What country was tempura originally introduced to?",
+                    "answer": "Japan",
+                    "explanation": "Tempura was not introduced to any other country. It is a traditional Japanese dish that has been enjoyed in Japan for centuries."
+                }
+            ],
+            "hops": [
+                "Tokyo",
+                "tempura"
+            ]
+        },
+        "the Mori Art Museum": {
+            "term": "the Mori Art Museum",
+            "passage": "Mori Art Museum =============== The Mori Art Museum is a contemporary art museum located in Tokyo, Japan. The museum was founded by the Mori Memorial Foundation and opened in 2003. It is housed in a unique building designed by the architectural firm SANAA, which won the 2000 Pritzker Architecture Prize. The museum's collection includes over 700 works of art, including paintings, sculptures, and installations by artists from Japan and around the world. The museum also hosts temporary exhibitions throughout the year, featuring both established and emerging artists. The Mori Art Museum is known for its innovative exhibitions and public programs, including lectures, workshops, and performances. The museum's location in the Roppongi Hills complex, a mixed-use development that includes shops, restaurants, and luxury apartments, has helped to make it a cultural hub in Tokyo. Despite its relatively short history, the Mori Art Museum has already made a significant impact on the Japanese art scene, helping to promote contemporary art and foster new talent. Its commitment to innovation and experimentation has also earned it a reputation as one of the most exciting museums in Asia.",
+            "qae_pairs": [
+                {
+                    "question": "What year was the Mori Art Museum founded?",
+                    "answer": "2003",
+                    "explanation": "The Mori Art Museum was founded in 2003."
+                },
+                {
+                    "question": "What is the name of the architectural firm that designed the building housing the Mori Art Museum?",
+                    "answer": "SANAA",
+                    "explanation": "The name of the architectural firm that designed the building housing the Mori Art Museum is SANAA."
+                },
+                {
+                    "question": "What is the name of the foundation that founded the Mori Art Museum?",
+                    "answer": "the Mori Memorial Foundation",
+                    "explanation": "The Mori Art Museum was founded by the Mori Memorial Foundation."
+                },
+                {
+                    "question": "What is the name of the country where the Mori Art Museum is located?",
+                    "answer": "Japan",
+                    "explanation": "The Mori Art Museum is located in Japan."
+                }
+            ],
+            "hops": [
+                "Tokyo",
+                "the Mori Art Museum"
+            ]
+        },
+        "Grand Central Terminal": {
+            "term": "Grand Central Terminal",
+            "passage": "1. Grand Central Terminal is a historic train station in New York City. 2. It was completed in 1913 and has been serving as a transportation hub for commuters and travelers ever since. 3. The terminal is located in Midtown Manhattan and is served by Amtrak, the Long Island Rail Road, and the New York City Subway. 4. It is also a popular tourist destination and a symbol of New York City's bustling transportation system. 5. The terminal's design is inspired by the Beaux-Arts style, which was popular in the early 20th century. 6. It features a large clock tower, a grand staircase, and a ceiling mural painted by French artist Paul Helleu. 7. In addition to its impressive architecture and artwork, the terminal is also known for its restaurants, shops, and other amenities. 8. Grand Central Terminal has played an important role in American history, serving as a hub for travel and commerce during the 20th century. 9. It has also been featured in numerous films, television shows, and books, cementing its status as a cultural icon. 10. Today, the terminal continues to be an important part of New York City's transportation infrastructure and a beloved symbol of the city's energy and vitality.",
+            "qae_pairs": [
+                {
+                    "question": "What is the location of Grand Central Terminal?",
+                    "answer": "Midtown Manhattan",
+                    "explanation": "Grand Central Terminal is located in Midtown Manhattan."
+                },
+                {
+                    "question": "What year was Grand Central Terminal completed?",
+                    "answer": "1913",
+                    "explanation": "The Grand Central Terminal was completed in 1913."
+                },
+                {
+                    "question": "What is the answer to the question regarding the current status of Grand Central Terminal?",
+                    "answer": "Today",
+                    "explanation": "The answer to the question regarding the current status of Grand Central Terminal is \"Today.\" The passage describes that Grand Central Terminal continues to be an important part of New York City's transportation infrastructure and a beloved symbol of the city's energy and vitality. Therefore, the current status of the terminal is still the same as described in the passage."
+                },
+                {
+                    "question": "What is the name of the artist who painted the ceiling mural in Grand Central Terminal?",
+                    "answer": "Paul Helleu",
+                    "explanation": "Paul Helleu is the name of the artist who painted the ceiling mural in Grand Central Terminal."
+                },
+                {
+                    "question": "What is the style of Grand Central Terminal's architecture?",
+                    "answer": "the Beaux-Arts",
+                    "explanation": "The style of Grand Central Terminal's architecture is the Beaux-Arts style."
+                }
+            ],
+            "hops": [
+                "New York City",
+                "Grand Central Terminal"
+            ]
+        },
+        "the Metropolitan Museum of Art": {
+            "term": "the Metropolitan Museum of Art",
+            "passage": "1. The Metropolitan Museum of Art, colloquially \"the Met,\" is a museum located in New York City. 2. Its permanent collection contains over two million works of art from around the world. 3. The museum's main building, designed by American architect Richard Morris Hunt, opened in 1880. 4. In 2016, the museum received over 7 million visitors, making it the fifth most visited museum in the world. 5. The Metropolitan Museum of Art is also associated with the Metropolitan Museum of Art School, which offers courses in art history, conservation, and other related fields. 6. The museum has a number of notable exhibitions, including the Egyptian Art, American Wing, and European Paintings. 7. The museum's collection includes works from ancient civilizations, medieval art, modern and contemporary art, and costumes and accessories. 8. The Metropolitan Museum of Art is also known for its annual fashion exhibitions, which showcase the latest trends in high fashion. 9. The museum has a number of dining options, including the famous Temple of Dendur restaurant, which offers a unique dining experience surrounded by ancient artifacts. 10. The Metropolitan Museum of Art is a popular destination for tourists and locals alike, and is considered one of the most important museums in the world.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the architect who designed the main building of the Metropolitan Museum of Art, which opened in 1880 and is still known as one of the most important museums in the world?",
+                    "answer": "Richard Morris Hunt",
+                    "explanation": "The architect who designed the main building of the Metropolitan Museum of Art, which opened in 1880, is Richard Morris Hunt."
+                },
+                {
+                    "question": "What year was the Metropolitan Museum of Art's main building opened to the public?",
+                    "answer": "1880",
+                    "explanation": "The Metropolitan Museum of Art's main building was opened to the public in 1880."
+                },
+                {
+                    "question": "What is the name of the restaurant at the Metropolitan Museum of Art that offers a unique dining experience surrounded by ancient artifacts?",
+                    "answer": "Temple of Dendur",
+                    "explanation": "The restaurant at the Metropolitan Museum of Art that offers a unique dining experience surrounded by ancient artifacts is called the Temple of Dendur."
+                }
+            ],
+            "hops": [
+                "New York City",
+                "the Metropolitan Museum of Art"
+            ]
+        },
+        "the Museum of Modern Art": {
+            "term": "the Museum of Modern Art",
+            "passage": "1. The Museum of Modern Art (MoMA) is an art museum located in Midtown Manhattan, New York City. 2. It was founded in 1929 by Abby Aldrich Rockefeller. 3. The museum's collection contains more than 200,000 works of art, including many of the most important and influential pieces of the 20th and 21st centuries. 4. MoMA's exhibitions and collection include works of architecture, design, painting, sculpture, photography, film, and digital media. 5. The museum's building, designed by the architect Yoshio Taniguchi, opened in 2004 and is located adjacent to the original building, which was completed in 1939. 6. In addition to its extensive collection, MoMA is also known for its innovative exhibitions and educational programs. 7. The museum hosts a variety of events, including lectures, films, and performances, and has a library and archives that are open to the public. 8. MoMA is one of the most influential museums of modern and contemporary art in the world, and has helped to shape the development of modern art and design.",
+            "qae_pairs": [
+                {
+                    "question": "What year did the Museum of Modern Art's current building open?",
+                    "answer": "2004",
+                    "explanation": "The Museum of Modern Art's current building opened in 2004."
+                },
+                {
+                    "question": "What year was the Museum of Modern Art (MoMA) founded in?",
+                    "answer": "1929",
+                    "explanation": "The Museum of Modern Art (MoMA) was founded in 1929."
+                },
+                {
+                    "question": "What is the location of the Museum of Modern Art?",
+                    "answer": "Midtown Manhattan",
+                    "explanation": "The Museum of Modern Art is located in Midtown Manhattan, New York City."
+                },
+                {
+                    "question": "What is the name of the person who founded the Museum of Modern Art in New York City?",
+                    "answer": "Abby Aldrich Rockefeller",
+                    "explanation": "The Museum of Modern Art (MoMA) was founded in 1929 by Abby Aldrich Rockefeller."
+                },
+                {
+                    "question": "What time period does the Museum of Modern Art focus on in its collection, as stated in the passage?",
+                    "answer": "the 20th and 21st centuries",
+                    "explanation": "The Museum of Modern Art focuses on the 20th and 21st centuries in its collection, as stated in the passage."
+                }
+            ],
+            "hops": [
+                "New York City",
+                "the Museum of Modern Art"
+            ]
+        },
+        "the River Thames": {
+            "term": "the River Thames",
+            "passage": "River Thames is a river that flows through southern England, from its source in the Cotswold Hills to its mouth at the Thames Estuary, where it flows into the North Sea. It is the longest river in England, with a length of 215 miles (346 km). The river has a catchment area of 1,264 square miles (3,270 km²). The River Thames is a major river that has played an important role in the history, culture and economy of England for centuries. It has been used for transportation, trade, and defense. The river is also a popular destination for tourists, who can enjoy its scenic beauty and historical landmarks. The River Thames is home to several species of fish, including salmon, trout, and eel. The river is also home to several waterfowl species, including swans, geese, and ducks.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the body of water where the River Thames flows into?",
+                    "answer": "the Thames Estuary",
+                    "explanation": "The River Thames flows into the Thames Estuary, which is a large inlet of the North Sea located in the southeastern part of England."
+                },
+                {
+                    "question": "What body of water does the River Thames flow into?",
+                    "answer": "the North Sea",
+                    "explanation": "The River Thames flows into the North Sea."
+                }
+            ],
+            "hops": [
+                "London",
+                "the River Thames"
+            ]
+        },
+        "the British Museum": {
+            "term": "the British Museum",
+            "passage": "1. The British Museum is a museum in London, England, United Kingdom. 2. It was founded in 1753, and is one of the largest and oldest museums in the world. 3. The museum is located in Bloomsbury, in the Borough of Camden, and is home to over 8 million works of art, antiquities, and historical artifacts. 4. The British Museum was established with the intention of promoting the study of natural history, history, and antiquities. 5. The museum has 25 galleries, including the Rosetta Stone, the Elgin Marbles, and the Mummy of Amenemhat. 6. The British Museum is a non-departmental public body, and is funded by the UK government and private donors. 7. The museum is free to enter, and is one of the most visited museums in the world, with over 6 million visitors annually. 8. The British Museum has a collection of artifacts from around the world, including Egypt, Greece, Rome, Asia, Africa, and the Americas. 9. The museum has a research library, and offers educational programs and events for visitors of all ages. 10. The British Museum is a symbol of the UK's cultural heritage, and is a popular destination for tourists and locals alike.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the borough in which the British Museum is located?",
+                    "answer": "Camden",
+                    "explanation": "The British Museum is located in the Borough of Camden."
+                },
+                {
+                    "question": "What is the location of the British Museum?",
+                    "answer": "England",
+                    "explanation": "The British Museum is located in London, England, United Kingdom."
+                },
+                {
+                    "question": "What is the name of the famous artifacts that are housed in 'the British Museum'? Answer: The Elgin Marbles.",
+                    "answer": "the Elgin Marbles",
+                    "explanation": "The famous artifacts that are housed in the British Museum are the Elgin Marbles. These marbles are a collection of ancient Greek sculptures that were originally part of the Parthenon, a temple located on the Acropolis in Athens, Greece. The marbles were brought to England in the 19th century by Lord Elgin, who was the British Ambassador to the Ottoman Empire at the time. The British Museum acquired the marbles in 1816, and they have been a popular attraction for visitors ever since."
+                },
+                {
+                    "question": "What year was the British Museum founded?",
+                    "answer": "1753",
+                    "explanation": "The British Museum was founded in 1753."
+                }
+            ],
+            "hops": [
+                "London",
+                "the British Museum"
+            ]
+        },
+        "the Forbidden City": {
+            "term": "the Forbidden City",
+            "passage": "Language: English The Forbidden City is a palace complex in Beijing, China. The former imperial palace of the Ming and Qing dynasties, it is now a museum and a major tourist attraction. The Forbidden City was declared a UNESCO World Heritage Site in 1987 and has been described as \"the largest and best-preserved ancient palace complex in the world.\" The palace's overall layout is based on ancient Chinese cosmology, with the emperor as the center of the universe and the palace as a representation of the universe. The Forbidden City covers an area of 720,000 square meters and contains 980 buildings. It was the center of power for the Ming and Qing dynasties and is now a symbol of China's ancient culture.",
+            "qae_pairs": [
+                {
+                    "question": "What was the name of the dynasty that ruled China during the time the Forbidden City was built?",
+                    "answer": "Qing",
+                    "explanation": "The name of the dynasty that ruled China during the time the Forbidden City was built was the Qing Dynasty."
+                },
+                {
+                    "question": "What is the location of the Forbidden City mentioned in the passage?",
+                    "answer": "China",
+                    "explanation": "The Forbidden City is located in Beijing, China."
+                },
+                {
+                    "question": "What was the name of the dynasty that built the Forbidden City in the passage?",
+                    "answer": "Ming",
+                    "explanation": "The Ming dynasty built the Forbidden City in the passage."
+                },
+                {
+                    "question": "What year was the Forbidden City declared a UNESCO World Heritage Site?",
+                    "answer": "1987",
+                    "explanation": "The Forbidden City was declared a UNESCO World Heritage Site in 1987."
+                }
+            ],
+            "hops": [
+                "Beijing",
+                "the Forbidden City"
+            ]
+        },
+        "the Bosphorus Strait": {
+            "term": "the Bosphorus Strait",
+            "passage": "Bosphorus Strait (Turkish: Bosfor), also known as Bosphorus, is a narrow, natural strait that separates the European and Asian parts of Turkey. It is 31 km (17 nmi) long, and 3.7 km (2.3 mi) wide at its narrowest point. The strait is named after the city of Bosphorus, which in turn was named after the Greek god of the north wind, Boreas. The Bosphorus is a strategically important waterway, as it connects the Black Sea with the Sea of Marmara, which is connected to the Aegean and Mediterranean Seas. The strait is also a popular tourist attraction, with many historic landmarks and neighborhoods located along its shores. The Bosphorus is a busy waterway, with over 100,000 ships passing through it each year, making it one of the busiest straits in the world. The Turkish Navy maintains a strong presence in the strait, and there are several naval bases located along its shores. The Bosphorus is also home to a variety of marine life, including dolphins, sea turtles, and a variety of fish species. The strait is a popular destination for boaters and sailors, and there are several marinas located along its shores. In recent years, concerns have been raised about the impact of pollution and overfishing on the ecosystem of the Bosphorus. Efforts are underway to address these issues, including the implementation of stricter regulations on shipping and fishing practices.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the naval force that patrols the Bosphorus Strait?     Answer: The Turkish Navy.",
+                    "answer": "The Turkish Navy",
+                    "explanation": "The Bosphorus Strait is a strategically important waterway that connects the Black Sea with the Sea of Marmara, which is connected to the Aegean and Mediterranean Seas. The strait is also a popular tourist attraction, with many historic landmarks and neighborhoods located along its shores. The Turkish Navy maintains a strong presence in the strait, and there are several naval bases located along its shores. Therefore, the name of the naval force that patrols the Bosphorus Strait is the Turkish Navy."
+                },
+                {
+                    "question": "What is the name of the country that is home to the Bosphorus Strait?     Answer: Turkey.",
+                    "answer": "Turkey",
+                    "explanation": "The Bosphorus Strait is located in Turkey."
+                },
+                {
+                    "question": "What has been happening in 'the Bosphorus Strait' in recent years?  Answer: The passage does not provide information about what has been happening in 'the Bosphorus Strait' in recent years.",
+                    "answer": "recent years",
+                    "explanation": "The passage provides general information about the Bosphorus Strait, including its location, length, width, importance, and tourist attractions. It does not provide any specific information about what has been happening in the strait in recent years."
+                },
+                {
+                    "question": "What body of water is located between 'the Bosphorus Strait' and 'the Sea of Marmara'? Answer: The answer is 'the Sea of Marmara'.",
+                    "answer": "the Sea of Marmara",
+                    "explanation": "The Sea of Marmara is located between the Bosphorus Strait and the Black Sea. The Bosphorus Strait connects the Black Sea with the Sea of Marmara, which is connected to the Aegean and Mediterranean Seas. The Sea of Marmara is a narrow, elongated sea that is approximately 560 km² in area and has an average depth of 77 m. It is bordered by the Balkan Peninsula to the west and the Anatolian Peninsula to the east."
+                }
+            ],
+            "hops": [
+                "Istanbul",
+                "the Bosphorus Strait"
+            ]
+        },
+        "The Topkapi Palace": {
+            "term": "The Topkapi Palace",
+            "passage": "The Topkapi Palace is a palace in Istanbul, Turkey, that was the residence of the Ottoman sultans from the 15th to the 19th century. The palace is now a museum and is one of the most popular tourist attractions in Istanbul. The palace was built on the site of the former Byzantine fortress of the city, and was enlarged and renovated over the centuries by the Ottoman rulers. The palace complex consists of four main courtyards, each with its own set of buildings and functions. The palace is known for its rich collection of Ottoman artifacts, including porcelain, jewelry, and clothing. The palace also houses a vast library of Islamic manuscripts, including the famous Topkapi manuscript of the Quran. The palace has a rich history, having been the site of many important events in Ottoman history, including the signing of the Treaty of Lausanne in 1923, which recognized the independence of the newly established Republic of Turkey. Today, the Topkapi Palace is a symbol of the rich cultural heritage of Turkey and is a testament to the power and glory of the Ottoman Empire. It is a must-visit destination for anyone interested in history, art, and culture.",
+            "qae_pairs": [
+                {
+                    "question": "What year did the Topkapi Palace become a museum?  Answer: 1923.",
+                    "answer": "1923",
+                    "explanation": "The Topkapi Palace became a museum in 1923."
+                },
+                {
+                    "question": "What time period did the Ottoman rulers reside in The Topkapi Palace?",
+                    "answer": "the 15th to the 19th century",
+                    "explanation": "The Ottoman rulers resided in The Topkapi Palace from the 15th to the 19th century."
+                }
+            ],
+            "hops": [
+                "Istanbul",
+                "The Topkapi Palace"
+            ]
+        },
+        "the Sugarloaf Mountain": {
+            "term": "the Sugarloaf Mountain",
+            "passage": "Sugarloaf Mountain is a mountain located in the eastern part of the state of Rio de Janeiro, Brazil. It has an altitude of 1,296 meters (4,283 feet) and is part of the Serra do Mar mountain range. The mountain is known for its unique shape, which resembles a loaf of sugar. Sugarloaf Mountain is a popular tourist destination and is often visited by visitors to Rio de Janeiro. It can be accessed by cable car, which provides panoramic views of the city and the surrounding area. The mountain is also home to a statue of Christ the Redeemer, which was erected in 1931 and has become one of the most iconic landmarks in Brazil.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the country where Sugarloaf Mountain is located?",
+                    "answer": "Brazil",
+                    "explanation": "The name of the country where Sugarloaf Mountain is located is Brazil."
+                },
+                {
+                    "question": "What year was the statue of Christ the Redeemer erected on Sugarloaf Mountain, which is a popular tourist destination and is often visited by visitors to Rio de Janeiro?",
+                    "answer": "1931",
+                    "explanation": "The statue of Christ the Redeemer was erected on Sugarloaf Mountain in the year 1931."
+                }
+            ],
+            "hops": [
+                "Rio de Janeiro",
+                "the Sugarloaf Mountain"
+            ]
+        },
+        "Copacabana": {
+            "term": "Copacabana",
+            "passage": "Copacabana is a bairro (neighborhood) located in the Zona Sul (Southern Zone) of Rio de Janeiro, Brazil. It is known for its 4 km (2.5 mi) long beach, which is one of the most popular in Brazil. The beach is bordered by tall coconut trees and is known for its crystal clear waters. The area also has a number of hotels, restaurants, nightclubs, and shops. Copacabana is located in the southern part of the city, and is bordered on the north by Leme and on the south by the Atlantic Ocean. The neighborhood is named after the Copacabana Beach, which is said to have been named after the Bolivian city of Copacabana, which in turn was named after the Virgen de Copacabana, the patron saint of Bolivia.",
+            "qae_pairs": [
+                {
+                    "question": "What body of water borders Copacabana to the south?",
+                    "answer": "the Atlantic Ocean",
+                    "explanation": "The body of water that borders Copacabana to the south is the Atlantic Ocean."
+                }
+            ],
+            "hops": [
+                "Rio de Janeiro",
+                "Copacabana"
+            ]
+        },
+        "Bondi Beach": {
+            "term": "Bondi Beach",
+            "passage": "Bondi Beach is a popular Australian beach located in the suburb of Bondi, about 7 km (4 mi) east of the Sydney central business district. It is known for its sandy beach, surf, and vibrant nightlife. The beach is patrolled by lifeguards, and there are several cafes, restaurants, and bars in the area. The Bondi Beach Surf Life Saving Club is located on the beach, and it provides a range of services, including surf lessons, beach safety, and first aid. The beach is accessible by public transport, and there are several car parks in the area. Bondi Beach is a popular destination for both locals and tourists, and it is often featured in films, television shows, and advertisements.",
+            "qae_pairs": [
+                {
+                    "question": "What type of beach is Bondi Beach?",
+                    "answer": "sandy beach",
+                    "explanation": "Bondi Beach is a sandy beach."
+                }
+            ],
+            "hops": [
+                "Sydney",
+                "Bondi Beach"
+            ]
+        },
+        "the east coast": {
+            "term": "the east coast",
+            "passage": "East Coast may refer to: 1. The eastern coast of a continent or island, as in the East Coast of the United States. 2. The eastern coast of a country, as in the East Coast of Australia. 3. The eastern coast of a state or province, as in the East Coast of Canada. The East Coast of the United States is a region that stretches from the Canadian border in the north to the Florida Keys in the south. It includes the Atlantic Ocean coastline of the states of Maine, New Hampshire, Massachusetts, Rhode Island, Connecticut, New York, New Jersey, Delaware, Maryland, Virginia, North Carolina, South Carolina, and Georgia. The East Coast is one of the most densely populated regions in the United States, with New York City being the largest city in the country. It is also home to several major cities, including Boston, Philadelphia, Baltimore, Washington, D.C., and Miami. The East Coast is known for its diverse culture, history, and natural beauty. It is home to many national parks, monuments, and historic sites, including the Statue of Liberty, the Empire State Building, and the White House. The region is also famous for its seafood, with lobster, crab, and oysters being some of the most popular dishes. The East Coast is a major economic hub, with industries such as finance, technology, and tourism playing a significant role in the region's economy. Many of the world's largest corporations, including JPMorgan Chase, Citigroup, and Goldman Sachs, have their headquarters in the New York City metropolitan area.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the state located on the East Coast of the United States that has a population of more than 6.8 million people and has the nickname 'The Bay State'?",
+                    "answer": "Massachusetts",
+                    "explanation": "The state located on the East Coast of the United States that has a population of more than 6.8 million people and has the nickname 'The Bay State' is Massachusetts."
+                },
+                {
+                    "question": "What body of water separates the East Coast of the United States from the Canadian border in the north?",
+                    "answer": "Atlantic Ocean",
+                    "explanation": "The Atlantic Ocean separates the East Coast of the United States from the Canadian border in the north."
+                },
+                {
+                    "question": "What state is located on the east coast?  Answer: South Carolina.      The correct answer is South Carolina.",
+                    "answer": "South Carolina",
+                    "explanation": "The correct answer is South Carolina. South Carolina is one of the states located on the East Coast of the United States. It is located in the southeastern region of the country and is bordered by North Carolina to the north and Georgia to the south. South Carolina has a rich history and culture, with many historic sites and landmarks, such as the Fort Sumter National Monument and the Battery and White Point Gardens in Charleston. The state is also known for its natural beauty, with beaches, mountains, and forests providing ample opportunities for outdoor recreation."
+                },
+                {
+                    "question": "What is the name of the investment bank located on the east coast? Answer: Goldman Sachs.",
+                    "answer": "Goldman Sachs",
+                    "explanation": "The name of the investment bank located on the East Coast is Goldman Sachs."
+                },
+                {
+                    "question": "What is the name of the building located on the East Coast of the United States that is famous for being the tallest building in the world?",
+                    "answer": "the Empire State Building",
+                    "explanation": "The name of the building located on the East Coast of the United States that is famous for being the tallest building in the world is the Empire State Building."
+                },
+                {
+                    "question": "What city is located on the east coast of the United States and is known for being the capital of the country?",
+                    "answer": "Washington",
+                    "explanation": "The city located on the East Coast of the United States and known for being the capital of the country is Washington."
+                },
+                {
+                    "question": "What city is known as the largest city in the United States and is located on the East Coast?",
+                    "answer": "New York City",
+                    "explanation": "New York City is the largest city in the United States and is located on the East Coast."
+                },
+                {
+                    "question": "What state is located on the east coast? Answer: Maryland.",
+                    "answer": "Maryland",
+                    "explanation": "Maryland is a state located on the East Coast of the United States."
+                },
+                {
+                    "question": "What company is located on the east coast? Answer: Citigroup.",
+                    "answer": "Citigroup",
+                    "explanation": "The East Coast of the United States is home to many major corporations, including Citigroup. Citigroup is a multinational banking and financial services company that has its headquarters in the New York City metropolitan area. The company was formed in 1998 through the merger of Travelers Group and Citicorp, and it is currently one of the largest banks in the world. Citigroup operates in more than 160 countries and has a presence in most of the world's major financial markets."
+                },
+                {
+                    "question": "What state is located on the east coast?  Answer: Delaware.      The correct answer is Delaware.",
+                    "answer": "Delaware",
+                    "explanation": "The correct answer is Delaware. Delaware is a state located on the east coast of the United States. It is one of the original thirteen colonies and was the first state to ratify the United States Constitution. Delaware is bordered by Pennsylvania to the north, Maryland to the south and west, and the Atlantic Ocean to the east. The state has a diverse economy, with industries such as finance, healthcare, and manufacturing playing a significant role. Delaware is also home to several major cities, including Wilmington, Dover, and Newark."
+                }
+            ],
+            "hops": [
+                "Sydney",
+                "the east coast"
+            ]
+        },
+        "the Gateway of India": {
+            "term": "the Gateway of India",
+            "passage": "Gateway of India is a monument built during the 20th century in Mumbai, India. The monument was erected to commemorate the landing of King George V and Queen Mary at Apollo Bunder on their visit to India in 1911. The foundation stone for the Gateway of India was laid on 31 March 1911 and the construction was completed in 1924. The Gateway of India is an arch monument built from basalt and reinforced concrete. The monument is located on the waterfront in the Apollo Bunder area of South Mumbai and overlooks the Arabian Sea. The Gateway of India is designed in the Indo-Saracenic style, which is a fusion of Western and Indian architectural styles. The monument is a major tourist attraction and is also a popular spot for taking photographs.",
+            "qae_pairs": [
+                {
+                    "question": "What year was the Gateway of India completed, according to the passage?",
+                    "answer": "1924",
+                    "explanation": "According to the passage, the Gateway of India was completed in 1924."
+                },
+                {
+                    "question": "What is the location of the Gateway of India?",
+                    "answer": "Apollo Bunder",
+                    "explanation": "The Gateway of India is located in Mumbai, India, specifically at the waterfront in the Apollo Bunder area of South Mumbai."
+                },
+                {
+                    "question": "What date was the foundation stone for the Gateway of India laid?",
+                    "answer": "31 March 1911",
+                    "explanation": "The foundation stone for the Gateway of India was laid on 31 March 1911."
+                },
+                {
+                    "question": "What body of water does the Gateway of India overlook?",
+                    "answer": "the Arabian Sea",
+                    "explanation": "The Gateway of India overlooks the Arabian Sea."
+                },
+                {
+                    "question": "What was the purpose of the Gateway of India being built?",
+                    "answer": "George V",
+                    "explanation": "The purpose of the Gateway of India being built was to commemorate the visit of King George V and Queen Mary to India in 1911."
+                }
+            ],
+            "hops": [
+                "Mumbai",
+                "the Gateway of India"
+            ]
+        },
+        "the west coast": {
+            "term": "the west coast",
+            "passage": "West Coast may refer to: 1. The western coast of a continent or large landmass, such as the West Coast of the United States or the West Coast of Australia. 2. The West Coast of Ireland, a region in the west of the Republic of Ireland. 3. The West Coast of New Zealand, a region on the western coast of New Zealand's South Island. 4. The West Coast of Scotland, a region in western Scotland. 5. The West Coast of Wales, a region in the western part of Wales. The West Coast of the United States is a coastal region that includes the states of California, Oregon, and Washington. It is bordered by the Pacific Ocean to the west and is known for its scenic beauty, diverse landscape, and vibrant cities. The West Coast is home to some of the most iconic landmarks in the United States, including the Golden Gate Bridge in San Francisco, the Hollywood Sign in Los Angeles, and Mount Rainier in Seattle. The region is also known for its rich cultural heritage, which includes a mix of Native American, Spanish, Mexican, and Asian influences. The West Coast is a popular destination for tourists from around the world, who come to enjoy its beaches, national parks, and urban attractions.",
+            "qae_pairs": [
+                {
+                    "question": "What region of the United States is known as 'the West Coast' and is bordered by the Pacific Ocean to the west?",
+                    "answer": "Oregon",
+                    "explanation": "The region of the United States known as 'the West Coast' is bordered by the Pacific Ocean to the west and includes the states of California, Oregon, and Washington."
+                },
+                {
+                    "question": "What state is located on the west coast?  Answer: Washington.      The passage mentions that Washington is located on the west coast.      Additionally, the passage notes that Washington is one of the states located on the west coast.      Therefore,",
+                    "answer": "Washington",
+                    "explanation": "Your answer is correct. The passage mentions that the West Coast of the United States includes the states of California, Oregon, and Washington. Therefore, Washington is located on the west coast."
+                },
+                {
+                    "question": "What is the name of the region that is home to the west coast?  Answer: California.",
+                    "answer": "California",
+                    "explanation": "The name of the region that is home to the West Coast is California."
+                }
+            ],
+            "hops": [
+                "Mumbai",
+                "the west coast"
+            ]
+        },
+        "the International Atomic Energy Agency": {
+            "term": "the International Atomic Energy Agency",
+            "passage": "Language: English The International Atomic Energy Agency (IAEA) is an international organization that seeks to promote the peaceful use of nuclear energy while also promoting nuclear safety and preventing nuclear weapons proliferation. The IAEA was established in 1957, and its headquarters are located in Vienna, Austria. The agency has over 170 member states, and its primary mission is to help member states to develop and use nuclear technology for peaceful purposes. The IAEA also works to ensure that nuclear energy is used safely and responsibly, and it provides technical assistance to member states to help them achieve this goal. Additionally, the agency works to prevent the spread of nuclear weapons and to promote disarmament and non-proliferation efforts. The IAEA is funded primarily through contributions from its member states, and it reports to the United Nations General Assembly and Security Council.",
+            "qae_pairs": [
+                {
+                    "question": "What is the location of the headquarters of the International Atomic Energy Agency?",
+                    "answer": "Vienna",
+                    "explanation": "The location of the headquarters of the International Atomic Energy Agency (IAEA) is Vienna, Austria."
+                },
+                {
+                    "question": "What year was the International Atomic Energy Agency established, according to the passage?",
+                    "answer": "1957",
+                    "explanation": "According to the passage, the International Atomic Energy Agency (IAEA) was established in 1957."
+                },
+                {
+                    "question": "What country is the headquarters of the International Atomic Energy Agency, which was established in 1957 and seeks to promote the peaceful use of nuclear energy while also promoting nuclear safety and preventing nuclear weapons proliferation?",
+                    "answer": "Austria",
+                    "explanation": "The headquarters of the International Atomic Energy Agency (IAEA) is located in Vienna, Austria."
+                }
+            ],
+            "hops": [
+                "Moscow",
+                "the International Atomic Energy Agency"
+            ]
+        },
+        "St. Basil's": {
+            "term": "St. Basil's",
+            "passage": "St. Basil's Cathedral, also known as the Cathedral of St. Basil, is a Moscow landmark that is officially named the Cathedral of the Intercession of the Most Holy Theotokos on the Moat. It was built from 1555 to 1561 on orders from Ivan the Terrible to commemorate the capture of Kazan and Astrakhan. It is located on the northwestern edge of Red Square, next to the Kremlin. The cathedral has been a symbol of Moscow and Russia for centuries and is one of the city's most recognizable landmarks. Its unique architecture, which features nine chapels, is reminiscent of a flame and is said to have been inspired by the design of the Hagia Sophia in Constantinople. The cathedral is also notable for its iconic onion domes, which are said to have been influenced by the shape of the domes of the Byzantine Empire. Today, St. Basil's Cathedral is an active church and is open to visitors.",
+            "qae_pairs": [
+                {
+                    "question": "What was the time period during which St. Basil's Cathedral was built?",
+                    "answer": "1555 to 1561",
+                    "explanation": "The time period during which St. Basil's Cathedral was built was from 1555 to 1561."
+                },
+                {
+                    "question": "What is the official name of St. Basil's Cathedral in Moscow?",
+                    "answer": "the Cathedral of the Intercession of the Most Holy Theotokos",
+                    "explanation": "The official name of St. Basil's Cathedral in Moscow is the Cathedral of the Intercession of the Most Holy Theotokos on the Moat."
+                },
+                {
+                    "question": "What is the name of the country where St. Basil's Cathedral is located?",
+                    "answer": "Russia",
+                    "explanation": "The name of the country where St. Basil's Cathedral is located is Russia."
+                },
+                {
+                    "question": "What is the name of the city that St. Basil's Cathedral in Moscow was built to commemorate the capture of?",
+                    "answer": "Kazan",
+                    "explanation": "The name of the city that St. Basil's Cathedral in Moscow was built to commemorate the capture of is Kazan."
+                }
+            ],
+            "hops": [
+                "Moscow",
+                "St. Basil's"
+            ]
+        },
+        "the United Nations": {
+            "term": "the United Nations",
+            "passage": "United Nations (UN) is an international organization founded in 1945. It is currently made up of 193 member states. The organization is committed to maintaining international peace and security, promoting sustainable development, protecting human rights, upholding international law, and delivering humanitarian aid in times of crises. The UN has six main organs: the General Assembly, the Security Council, the International Court of Justice, the Secretariat, the Economic and Social Council, and the Trusteeship Council (now inactive). The UN has its headquarters in New York City and also has regional offices in Geneva, Vienna, and Nairobi. The organization has been involved in numerous peacekeeping missions, humanitarian operations, and development projects around the world.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the organ of the United Nations that is responsible for carrying out the day-to-day work of the organization?",
+                    "answer": "Secretariat",
+                    "explanation": "The organ of the United Nations that is responsible for carrying out the day-to-day work of the organization is the Secretariat."
+                },
+                {
+                    "question": "What was the name of the inactive council within the United Nations that was responsible for supervising trust territories?",
+                    "answer": "the Trusteeship Council",
+                    "explanation": "The inactive council within the United Nations that was responsible for supervising trust territories was the Trusteeship Council."
+                },
+                {
+                    "question": "What is the location of the United Nations headquarters?",
+                    "answer": "New York City",
+                    "explanation": "The United Nations headquarters is located in New York City."
+                },
+                {
+                    "question": "What is the role of 'the United Nations' in 'the Security Council'?     What is the function of 'the Security Council' in 'the United Nations'?",
+                    "answer": "the Security Council",
+                    "explanation": "The role of the United Nations in the Security Council is to maintain international peace and security. The Security Council is one of the main organs of the United Nations, and it is responsible for investigating threats to international peace and taking appropriate action to maintain or restore peace. The Security Council has the power to authorize the use of force if necessary, and it can also impose sanctions on countries or individuals that pose a threat to international peace and security."
+                },
+                {
+                    "question": "What city does the United Nations have its regional office in, according to the passage?",
+                    "answer": "Vienna",
+                    "explanation": "According to the passage, the United Nations has a regional office in Geneva, Vienna, and Nairobi. Therefore, the correct answer is Vienna."
+                },
+                {
+                    "question": "What year was the United Nations founded, according to the passage?",
+                    "answer": "1945",
+                    "explanation": "According to the passage, the United Nations (UN) was founded in 1945."
+                },
+                {
+                    "question": "What city does the United Nations have a regional office in, as per the passage?",
+                    "answer": "Geneva",
+                    "explanation": "The passage mentions that the United Nations has regional offices in Geneva, Vienna, and Nairobi. Therefore, the correct answer is Geneva."
+                }
+            ],
+            "hops": [
+                "Moscow",
+                "the United Nations"
+            ]
+        },
+        "the World Trade Organization": {
+            "term": "the World Trade Organization",
+            "passage": "1. The World Trade Organization (WTO) is an intergovernmental organization that was established in 1995 to replace the General Agreement on Tariffs and Trade (GATT). 2. The WTO is headquartered in Geneva, Switzerland, and has 164 member states as of 2021. 3. The organization's main function is to ensure that trade flows as smoothly, predictably, and freely as possible. 4. The WTO negotiates and enforces trade agreements, resolves trade disputes, and monitors national trade policies. 5. The organization also works to reduce trade barriers and increase access to markets for goods and services. 6. The WTO operates on the principle of non-discrimination, meaning that all members are treated equally regardless of their size or economic strength. 7. The organization has faced criticism from some quarters for its perceived inability to address issues related to development and human rights. 8. Despite these criticisms, the WTO remains a key player in global trade and continues to shape the rules that govern international trade.",
+            "qae_pairs": [
+                {
+                    "question": "What country is the headquarters of the World Trade Organization (WTO)?",
+                    "answer": "Switzerland",
+                    "explanation": "Switzerland is the country where the World Trade Organization (WTO) is headquartered. The WTO was established in 1995 to replace the General Agreement on Tariffs and Trade (GATT) and has since grown to have 164 member states as of 2021. The organization's main function is to ensure that trade flows as smoothly, predictably, and freely as possible. The WTO negotiates and enforces trade agreements, resolves trade disputes, and monitors national trade policies."
+                },
+                {
+                    "question": "What is the acronym for 'the World Trade Organization'?     Answer: WTO.",
+                    "answer": "WTO",
+                    "explanation": "The acronym for 'the World Trade Organization' is WTO."
+                },
+                {
+                    "question": "What is the headquarters of the World Trade Organization, according to the passage?",
+                    "answer": "Geneva",
+                    "explanation": "According to the passage, the headquarters of the World Trade Organization is in Geneva, Switzerland."
+                },
+                {
+                    "question": "What year was the World Trade Organization established as a replacement for the General Agreement on Tariffs and Trade (GATT)?",
+                    "answer": "1995",
+                    "explanation": "The World Trade Organization (WTO) was established in 1995 as a replacement for the General Agreement on Tariffs and Trade (GATT)."
+                }
+            ],
+            "hops": [
+                "Moscow",
+                "the World Trade Organization"
+            ]
+        },
+        "the World Health Organization": {
+            "term": "the World Health Organization",
+            "passage": "1. The World Health Organization (WHO) is a specialized agency of the United Nations that is responsible for global health governance and disease control. 2. Headquartered in Geneva, Switzerland, the WHO was established on 7 April 1948, and is the only specialized agency of the UN that has been ratified by all member states. 3. The WHO's primary role is to promote health and well-being, and to ensure that all people have access to essential health services. 4. The organization works with governments, international organizations, and other partners to develop policies and strategies that address the health needs of populations around the world. 5. The WHO also conducts research on a variety of health-related topics, and provides technical assistance to countries in need. 6. The organization has been instrumental in the global response to numerous health crises, including pandemics, natural disasters, and outbreaks of infectious diseases. 7. The WHO is led by a Director-General, who is appointed by the World Health Assembly, the organization's decision-making body. 8. The WHO has 194 member states, and is funded through a combination of member state contributions, voluntary contributions from private organizations, and assessed contributions from countries with higher incomes.",
+            "qae_pairs": [
+                {
+                    "question": "What date was the World Health Organization established on, according to the passage?",
+                    "answer": "7 April 1948",
+                    "explanation": "According to the passage, the World Health Organization (WHO) was established on 7 April 1948."
+                },
+                {
+                    "question": "What country is the headquarters of the World Health Organization, which is responsible for global health governance and disease control?",
+                    "answer": "Switzerland",
+                    "explanation": "The headquarters of the World Health Organization (WHO) is located in Switzerland. The WHO is a specialized agency of the United Nations that is responsible for global health governance and disease control. It was established on 7 April 1948, and is the only specialized agency of the UN that has been ratified by all member states. The primary role of the WHO is to promote health and well-being, and to ensure that all people have access to essential health services."
+                },
+                {
+                    "question": "What is the location of the headquarters of the World Health Organization?",
+                    "answer": "Geneva",
+                    "explanation": "The headquarters of the World Health Organization is located in Geneva, Switzerland."
+                },
+                {
+                    "question": "What is the decision-making body of the World Health Organization that appoints the Director-General?",
+                    "answer": "the World Health Assembly",
+                    "explanation": "The World Health Assembly is the decision-making body of the World Health Organization that appoints the Director-General. The Assembly is composed of representatives from all 194 member states of the WHO and meets annually to set priorities for the organization, adopt resolutions and decisions, and discuss health issues of global importance. The Director-General is appointed by the Assembly for a five-year term, and is responsible for leading the organization in its efforts to promote health and well-being around the world."
+                }
+            ],
+            "hops": [
+                "Moscow",
+                "the World Health Organization"
+            ]
+        },
+        "the State Tretyakov Gallery": {
+            "term": "the State Tretyakov Gallery",
+            "passage": "1. The State Tretyakov Gallery is an art museum located in Moscow, Russia. 2. It is the largest collection of Russian art in the world, with over 170,000 works of art. 3. The museum was founded in 1856 by the merchant Pavel Tretyakov, who donated his collection of 22 paintings to the city of Moscow. 4. Over the years, the collection has grown significantly, with many important works of art donated by private collectors and artists. 5. The museum is housed in a beautiful building designed by the architect Alexander Kriovsky, which opened in 1935. 6. The collection includes works from the 11th to the 20th centuries, with a focus on Russian art. 7. Some of the most famous works in the collection include \"The Last Day of Pompeii\" by Karl Briullov, \"The Nativity\" by Viktor Vasnetsov, and \"The Girl with Peaches\" by Valentin Serov. 8. The museum also hosts temporary exhibitions, lectures, and educational programs for visitors of all ages. 9. The State Tretyakov Gallery is a must-visit destination for anyone interested in the history and culture of Russia.",
+            "qae_pairs": [
+                {
+                    "question": "What artist designed the building that houses the State Tretyakov Gallery, which opened in 1935?",
+                    "answer": "Alexander Kriovsky",
+                    "explanation": "Alexander Kriovsky designed the building that houses the State Tretyakov Gallery, which opened in 1935."
+                },
+                {
+                    "question": "What year was the State Tretyakov Gallery founded?",
+                    "answer": "1856",
+                    "explanation": "The State Tretyakov Gallery was founded in 1856."
+                },
+                {
+                    "question": "What specific time period is the focus of the State Tretyakov Gallery's collection of art?",
+                    "answer": "the 20th centuries",
+                    "explanation": "The State Tretyakov Gallery's collection of art is focused on the 11th to the 20th centuries."
+                },
+                {
+                    "question": "What year was the State Tretyakov Gallery's current building opened to the public?",
+                    "answer": "1935",
+                    "explanation": "The State Tretyakov Gallery's current building was opened to the public in 1935."
+                },
+                {
+                    "question": "What artist's work is featured in the State Tretyakov Gallery's collection, and what is the name of the painting?",
+                    "answer": "Viktor Vasnetsov",
+                    "explanation": "The State Tretyakov Gallery's collection features the painting \"The Nativity\" by Viktor Vasnetsov."
+                },
+                {
+                    "question": "What is the name of the artist who painted \"The Last Day of Pompeii\" in the collection of the State Tretyakov Gallery?",
+                    "answer": "Karl Briullov",
+                    "explanation": "The artist who painted \"The Last Day of Pompeii\" in the collection of the State Tretyakov Gallery is Karl Briullov."
+                },
+                {
+                    "question": "What is the name of the country where the State Tretyakov Gallery is located?",
+                    "answer": "Russia",
+                    "explanation": "The State Tretyakov Gallery is located in Russia."
+                }
+            ],
+            "hops": [
+                "Moscow",
+                "the State Tretyakov Gallery"
+            ]
+        },
+        "Cathedral": {
+            "term": "Cathedral",
+            "passage": "Cathedral ------- A cathedral is a large, imposing church building, typically of the Christian religion, housing a cathedral or a bishop's throne. It is a symbol of Christianity and a center of worship for a diocese or episcopate. Cathedrals are often the most important buildings in a city and are designed to be visually impressive and inspiring. They are often decorated with intricate stained glass windows, sculptures, and paintings. The construction of a cathedral is usually a monumental task that can take centuries to complete. Many cathedrals are built in the Gothic style, which is characterized by its pointed arches, flying buttresses, and elaborate tracery. Cathedrals are often the site of important religious ceremonies and events, such as coronations, royal weddings, and funerals. They are also popular tourist destinations and are often visited by people from all over the world. Overall, cathedrals are an important part of Christian history and culture and continue to be an important symbol of faith and spirituality for millions of people around the world.",
+            "qae_pairs": [
+                {
+                    "question": "What is the term that describes the length of time it takes to complete the construction of a cathedral, according to the passage?",
+                    "answer": "centuries",
+                    "explanation": "According to the passage, the construction of a cathedral is usually a monumental task that can take centuries to complete."
+                }
+            ],
+            "hops": [
+                "Moscow",
+                "Cathedral"
+            ]
+        }
+    }
+}

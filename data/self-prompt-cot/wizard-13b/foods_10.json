@@ -1,0 +1,582 @@
+{
+    "first_hops": {
+        "Pizza": {
+            "term": "Pizza",
+            "passage": "Pizza is a dish that originated in Naples, Italy, and has since become popular worldwide. It is a flatbread that is covered with tomato sauce and cheese, and often additional toppings such as vegetables, meats, and herbs. The dish has been adapted to local tastes and ingredients in various regions of the world. The word \"pizza\" is believed to have been first used in the 10th century, and the dish has a long history in Italian cuisine. The ancient Greeks and Romans had similar flatbreads that were covered with oils, herbs, and cheese. In Naples, pizza was originally a street food sold by vendors who carried it on their heads from the oven to the customer. Pizza became popular in the United States after Italian immigrants began arriving in the late 19th and early 20th centuries. The first pizzeria in the United States was Lombardi's, which opened in New York City in 1905. Today, pizza is one of the most popular foods in the United States, with an estimated 3 billion pizzas sold annually. Pizza has also become a popular food in many other countries around the world. In Japan, for example, pizza is often served with seaweed and mayonnaise. In Brazil, pizza is often topped with catupiry cheese and ham. In India, pizza is often made with Indian spices and vegetables. Pizza is often served as a fast food item, but it can also be a gourmet dish. There are many different styles of pizza, including Neapolitan, New York-style, Chicago-style, and California-style.",
+            "qae_pairs": [
+                {
+                    "question": "\"In which country is pizza believed to have originated?\"",
+                    "answer": "Italy",
+                    "explanation": "The dish has been adapted to local tastes and ingredients in various regions of the world. Evidence sentence: Pizza has been adapted to local tastes and ingredients in various regions of the world. Explanation: This sentence explains that pizza has been adapted to suit the local tastes and ingredients in different regions of the world. This is evidence that pizza originated in Italy."
+                },
+                {
+                    "question": "'Which state is the leading producer of almonds in the United States?'",
+                    "answer": "California",
+                    "explanation": "Pizza has also become a popular food in many other countries around the world. In Japan, for example, pizza is often served with seaweed and mayonnaise. In Brazil, pizza is often topped with catupiry cheese and ham. In India, pizza is often made with Indian spices and vegetables. Pizza is often served as a fast food item, but it can also be a gourmet dish. There are many different styles of pizza, including Neapolitan, New York-style, Chicago-style, and California-style."
+                },
+                {
+                    "question": "1. How many pizzas are sold in the United States each year? 2. When did the first pizzeria open in the United States? 3. Where did pizza originate? 4. What is the history of pizza in Italian cuisine?",
+                    "answer": "annually",
+                    "explanation": "Pizza became popular in the United States after Italian immigrants began arriving in the late 19th and early 20th centuries. This sentence explains the history of pizza in the United States and how it became popular there."
+                }
+            ],
+            "hops": [
+                "Pizza"
+            ]
+        },
+        "Sushi": {
+            "term": "Sushi",
+            "passage": "Sushi is a Japanese dish of specially prepared vinegared rice, usually mixed with some sugar and salt, combined with a variety of ingredients such as seafood, vegetables, and sometimes tropical fruits. Sushi is often served with soy sauce, wasabi, and pickled ginger. Sushi is often associated with Japanese cuisine, but it has become popular worldwide. It is now widely available in many countries, and there are many variations of sushi available. Sushi is typically made by hand, and the process of making sushi is considered an art form in Japan. The rice used in sushi is short-grain rice that is cooked with vinegar, sugar, and salt. The rice is then rolled and shaped into bite-sized pieces, often with fillings such as raw fish, cooked seafood, vegetables, or egg. Sushi can be served in many different ways, including as a hand-rolled sushi, nigiri, or as a maki roll. Hand-rolled sushi is made by hand-shaping the sushi rice and filling it with a variety of ingredients. Nigiri sushi is a small, hand-shaped piece of sushi rice topped with a slice of raw fish or other ingredient. Maki sushi is a rolled sushi that is filled with a variety of ingredients and often wrapped in seaweed. Soy sauce is a salty, umami-rich condiment that is commonly used in Japanese cuisine.",
+            "qae_pairs": [
+                {
+                    "question": "Which country is known for its sushi cuisine?     Passage 2 is about: The history and popularity of sushi.",
+                    "answer": "Japan",
+                    "explanation": "Sushi is often associated with Japanese cuisine, but it has become popular worldwide. It is now widely available in many countries, and there are many variations of sushi available. This sentence explains that sushi is popular worldwide and is widely available in many countries, which supports the idea that sushi is not only associated with Japanese cuisine but has become popular worldwide."
+                }
+            ],
+            "hops": [
+                "Sushi"
+            ]
+        },
+        "Tacos": {
+            "term": "Tacos",
+            "passage": "Tacos are a traditional Mexican dish composed of a corn or wheat tortilla filled with various ingredients, including cooked meat, vegetables, and cheese. The tortilla is usually lightly fried or grilled before being filled and served. Tacos can be served \"soft\" or \"hard\", depending on the thickness of the tortilla. Soft tacos are made with a thin, pliable tortilla, while hard tacos are made with a thick, stiff tortilla. Tacos have become a popular dish worldwide and are often served in Mexican restaurants and food trucks. They are typically served with a variety of toppings, including shredded lettuce, diced tomatoes, shredded cheese, sour cream, guacamole, and salsa. Some variations of tacos include carne asada (grilled beef), al pastor (marinated pork), and carnitas (slow-cooked pork). Tacos have a long history in Mexican cuisine and are believed to have originated in the 18th century. They were originally sold by street vendors and were a popular snack among workers in Mexico City. Over time, tacos became a staple of Mexican cuisine and were embraced by people all over the world. Today, tacos are enjoyed in many different forms and are a beloved dish in many cultures.",
+            "qae_pairs": [
+                {
+                    "question": "What is a popular variation of tacos that is made with marinated pork?",
+                    "answer": "al pastor",
+                    "explanation": "Tacos have become a popular dish worldwide and are often served in Mexican restaurants and food trucks."
+                },
+                {
+                    "question": "What is the capital of Mexico and where is it located?",
+                    "answer": "Mexico City",
+                    "explanation": "Passage: Tacos are a traditional Mexican dish composed of a corn or wheat tortilla filled with various ingredients, including cooked meat, vegetables, and cheese. Evidence sentence: Tacos are a traditional Mexican dish."
+                }
+            ],
+            "hops": [
+                "Tacos"
+            ]
+        },
+        "Pasta": {
+            "term": "Pasta",
+            "passage": "Pasta is a staple food of traditional Italian cuisine, as well as many other cuisines around the world. It is made from wheat flour or other grains, such as rice or corn, and water, and can be found in a variety of shapes, sizes, and colors. Pasta is typically cooked by boiling it in a pot of salted water until it is tender, and is often served with a variety of sauces, such as tomato sauce, pesto, or meat-based sauces. Pasta has a long history, with evidence of pasta-like foods dating back to ancient times. In Italy, pasta has been a staple food since the 12th century, and has played an important role in the country's cuisine and culture. Today, pasta is enjoyed around the world, and is a popular dish in many different cuisines. There are many different types of pasta, each with its own unique shape and texture. Some of the most common types of pasta include spaghetti, which is long and thin; penne, which is short and cylindrical; and fusilli, which is long and corkscrew-shaped. Other types of pasta include macaroni, rigatoni, and farfalle, among many others. Pasta can be served in a variety of ways, depending on the dish and the region. In Italy, pasta is often served as a first course, accompanied by a simple tomato sauce or a more complex sauce made with meat or seafood. In other parts of the world, pasta is often served as a main course, with a variety of toppings and sauces.",
+            "qae_pairs": [
+                {
+                    "question": "How long has pasta been a staple food in Italy? 'pasta' is a type of: food The word 'spaghetti' is Italian for: long and thin noodle The word 'penne' is Italian for: short and cylindrical tube The word",
+                    "answer": "the 12th century",
+                    "explanation": "In Italy, pasta has been a staple food since the 12th century, and has played an important role in the country's cuisine and culture."
+                },
+                {
+                    "question": "\"Where is pasta a staple food of traditional cuisine?\"",
+                    "answer": "Italy",
+                    "explanation": "In Italy, pasta has been a staple food since the 12th century, and has played an important role in the country's cuisine and culture."
+                }
+            ],
+            "hops": [
+                "Pasta"
+            ]
+        },
+        "Burgers": {
+            "term": "Burgers",
+            "passage": "Burgers are a type of sandwich consisting of a cooked patty of ground meat (usually beef, but sometimes also pork, chicken, turkey, or vegetarian alternatives) placed inside a sliced bread roll or bun. The patty can be grilled, pan-fried, or broiled, and topped with condiments such as lettuce, tomato, cheese, bacon, onion, pickles, chilies, or sauces such as ketchup, mustard, mayonnaise, or barbecue sauce. Burgers are a popular food item in many countries around the world, and are often associated with fast food and casual dining restaurants. They are also a common menu item at cookouts, picnics, and other outdoor events. The origins of the hamburger are somewhat disputed, but it is generally believed to have been invented in the United States in the late 19th or early 20th century. The first recorded use of the term \"hamburger\" was in 1884, and it is believed to have originated in the city of Hamburg, Germany, where it was popular among sailors. The modern hamburger is typically made with a patty of ground beef, but it can also be made with other meats or even plant-based alternatives. The patty is usually seasoned with salt, pepper, and other spices, and can be cooked in a variety of ways, including grilling, pan-frying, or broiling.",
+            "qae_pairs": [
+                {
+                    "question": "What is the origin of the hamburger?",
+                    "answer": "Germany",
+                    "explanation": "The first recorded use of the term hamburger was in 1884, and it is believed to have originated in the city of Hamburg, Germany, where it was popular among sailors."
+                },
+                {
+                    "question": "What is a hamburger made of?",
+                    "answer": "patty",
+                    "explanation": "The patty can be grilled, pan-fried, or broiled, and topped with condiments such as lettuce, tomato, cheese, bacon, onion, pickles, chilies, or sauces such as ketchup, mustard, mayonnaise, or barbecue sauce."
+                },
+                {
+                    "question": "What is a type of meat that can be used to make a burger?",
+                    "answer": "turkey",
+                    "explanation": "The patty can be grilled, pan-fried, or broiled, and topped with condiments such as lettuce, tomato, cheese, bacon, onion, pickles, chilies, or sauces such as ketchup, mustard, mayonnaise, or barbecue sauce. Rationale: The evidence sentence describes the various options available for making and customizing a burger, which is the topic of the passage."
+                },
+                {
+                    "question": "What is the first recorded use of the term \"hamburger\"?",
+                    "answer": "1884",
+                    "explanation": "The first recorded use of the term hamburger was in 1884."
+                }
+            ],
+            "hops": [
+                "Burgers"
+            ]
+        },
+        "Sandwiches": {
+            "term": "Sandwiches",
+            "passage": "Sandwiches are a popular type of food that consist of a layer of meat, cheese, or other filling between two slices of bread. The sandwich is believed to have originated in England in the 18th century, and is named after John Montagu, the 4th Earl of Sandwich. The story goes that he was a gambler who wanted a quick and easy way to eat his meals without having to leave the gaming table. He ordered his servants to bring him slices of meat between two slices of bread, so that he could eat with one hand and continue playing cards with the other. The sandwich quickly became popular among the British upper class, and soon spread to other parts of Europe and North America. Today, sandwiches are a staple of many cuisines around the world, and are enjoyed by people of all ages and backgrounds. There are many different types of sandwiches, each with its own unique filling and style. Some popular types of sandwiches include the BLT (bacon, lettuce, and tomato), the club sandwich (made with turkey or chicken, bacon, lettuce, and tomato), and the Reuben (made with corned beef, Swiss cheese, sauerkraut, and Russian dressing). Other popular sandwiches include the grilled cheese, the peanut butter and jelly, and the ham and cheese. Sandwiches can be made in many different ways, depending on the type of bread, the filling, and the cooking method. Some sandwiches are grilled or toasted, while others are pan-fried or baked. Some sandwiches are served cold, while others are served hot.",
+            "qae_pairs": [
+                {
+                    "question": "'What is a popular type of sandwich made with corned beef, Swiss cheese, sauerkraut, and Russian dressing?' 'What is a popular type of sandwich made with peanut butter and jelly?' 'What is a popular type of sandwich made with",
+                    "answer": "Reuben",
+                    "explanation": "The sandwich quickly became popular among the British upper class, and soon spread to other parts of Europe and North America."
+                },
+                {
+                    "question": "What is the name of the continent where the United States and Canada are located?",
+                    "answer": "North America",
+                    "explanation": "The sandwich quickly became popular among the British upper class, and soon spread to other parts of Europe and North America. This sentence explains that the sandwich became popular among the British upper class and then spread to other parts of Europe and North America."
+                },
+                {
+                    "question": "Which century is known for the invention of the sandwich?",
+                    "answer": "the 18th century",
+                    "explanation": "The sandwich is believed to have originated in England in the 18th century, and is named after John Montagu, the 4th Earl of Sandwich."
+                },
+                {
+                    "question": "What is the name of the sandwich made with bacon, lettuce, and tomato?",
+                    "answer": "BLT",
+                    "explanation": "The sandwich is believed to have originated in England in the 18th century, and is named after John Montagu, the 4th Earl of Sandwich."
+                }
+            ],
+            "hops": [
+                "Sandwiches"
+            ]
+        },
+        "Dumplings": {
+            "term": "Dumplings",
+            "passage": "Dumplings are a type of food that originated in China, but are now enjoyed in many other parts of the world. They are made by wrapping a filling, usually made of meat, vegetables, or seafood, in a thin piece of dough. The dough is then shaped into a small ball or a long, thin strip, and boiled, steamed, or fried. Dumplings are a popular food in many countries, including China, Japan, Korea, Russia, and Eastern Europe. In China, dumplings are a traditional food for the Chinese New Year, and are often served with a dipping sauce made of soy sauce, vinegar, and chili oil. In Japan, dumplings are called gyoza, and are often served with a dipping sauce made of soy sauce, vinegar, and miso paste. In Korea, dumplings are called mandu, and are often filled with meat, vegetables, or tofu. Dumplings are a versatile food that can be made with a variety of fillings and cooking methods. They can be served as a main dish or as a side dish, and are often served with rice or noodles. Dumplings are also popular as a snack or appetizer, and are often served at parties and gatherings. In addition to their culinary uses, dumplings have cultural and historical significance in many countries. In China, dumplings are associated with the legend of the Monkey King, who is said to have created dumplings by wrapping his magic powers in a piece of dough.",
+            "qae_pairs": [
+                {
+                    "question": "In which country are dumplings a popular food that can be served as a main dish or as a side dish, and are often served with rice or noodles?",
+                    "answer": "Russia",
+                    "explanation": "Dumplings are a popular food in many countries, including China, Japan, Korea, Russia, and Eastern Europe."
+                },
+                {
+                    "question": "What country is dumplings associated with in the passage?",
+                    "answer": "Korea",
+                    "explanation": "In Korea, dumplings are called mandu, and are often filled with meat, vegetables, or tofu."
+                },
+                {
+                    "question": "In which countries are dumplings a popular food?",
+                    "answer": "Eastern Europe",
+                    "explanation": "Dumplings are a popular food in many countries, including China, Japan, Korea, Russia, and Eastern Europe."
+                },
+                {
+                    "question": "\"Where are dumplings a traditional food?\"",
+                    "answer": "China",
+                    "explanation": "In China, dumplings are a traditional food for the Chinese New Year, and are often served with a dipping sauce made of soy sauce, vinegar, and chili oil."
+                },
+                {
+                    "question": "In which Asian country are gyoza dumplings popular?",
+                    "answer": "Japan",
+                    "explanation": "In Japan, dumplings are called gyoza, and are often served with a dipping sauce made of soy sauce, vinegar, and miso paste."
+                }
+            ],
+            "hops": [
+                "Dumplings"
+            ]
+        },
+        "Curry": {
+            "term": "Curry",
+            "passage": "Curry is a dish originating in the Indian subcontinent, consisting of a combination of spices, herbs, and vegetables, usually served with rice or another carbohydrate. The term \"curry\" is also used to describe the sauce or gravy made with these ingredients, which may be eaten with meat, fish, or vegetables. Curry dishes may be prepared in a variety of ways, including cooked in a saucepan, baked in the oven, or cooked in a slow cooker. The ingredients used in curry dishes may vary depending on the region and personal preference, but typically include a combination of spices such as turmeric, cumin, coriander, and chili powder, as well as vegetables such as onions, garlic, ginger, and tomatoes. Curry is a popular dish in many countries around the world, including India, the United Kingdom, and the United States. It is often served in restaurants and takeout establishments, and is also a common dish in many homes. Curry is often associated with Indian cuisine, but it has also been adapted and modified to suit the tastes of other cultures. For example, in the United Kingdom, curry is often served with chips (French fries) and mushy peas, and is often made with a thicker gravy than traditional Indian curries. In the United States, curry is often served with rice and is often made with a milder blend of spices than traditional Indian curries. Overall, curry is a versatile and flavorful dish that can be enjoyed in many different ways and adapted to suit a variety of tastes and preferences.",
+            "qae_pairs": [
+                {
+                    "question": "What country is curry often served with chips (French fries) and mushy peas in?",
+                    "answer": "the United Kingdom",
+                    "explanation": "Curry is often associated with Indian cuisine, but it has also been adapted and modified to suit the tastes of other cultures. Evidence sentence: Curry is often associated with Indian cuisine, but it has also been adapted and modified to suit the tastes of other cultures. Explanation: The evidence sentence explains that curry is not only associated with Indian cuisine, but it has also been adapted and modified to suit the tastes of other cultures."
+                },
+                {
+                    "question": "'In which country is curry a popular dish?'",
+                    "answer": "India",
+                    "explanation": "Curry is a popular dish in many countries around the world, including India, the United Kingdom, and the United States."
+                }
+            ],
+            "hops": [
+                "Curry"
+            ]
+        },
+        "Pancakes": {
+            "term": "Pancakes",
+            "passage": "Pancakes are a type of flatbread that is made from a batter consisting of flour, milk, eggs, and butter or oil. They are often served with a variety of toppings, such as syrup, butter, fruit, or meat. Pancakes are a popular breakfast food in many countries around the world, and they are also enjoyed as a snack or dessert. The history of pancakes can be traced back to ancient times, with evidence of pancakes being made as far back as the ancient Greeks and Romans. In medieval Europe, pancakes were often served as a way to use up leftover bread dough, and they were also used as a way to celebrate special occasions such as Shrove Tuesday. Today, pancakes are a staple of many breakfast menus, and they are also popular at brunch and dinner. There are many different types of pancakes, including buttermilk pancakes, crepe pancakes, and buckwheat pancakes. Each type of pancake has its own unique flavor and texture, and they can be served with a variety of toppings to suit different tastes. Pancakes are also a popular food at fairs and carnivals, where they are often served with a variety of sweet and savory toppings. In addition, pancakes are a popular food at diners and cafes, where they are often served with eggs, bacon, and hash browns. Overall, pancakes are a versatile and delicious food that can be enjoyed in a variety of ways. Whether you prefer your pancakes sweet or savory, with fruit or meat, there is a pancake to suit every taste.",
+            "qae_pairs": [
+                {
+                    "question": "Which day is celebrated by eating pancakes? Pancakes are a popular food on which day? Pancakes are a popular breakfast food in which countries around the world? The history of pancakes can be traced back to which ancient civilization? Which type of panca",
+                    "answer": "Shrove",
+                    "explanation": "In medieval Europe, pancakes were often served as a way to use up leftover bread dough, and they were also used as a way to celebrate special occasions such as Shrove Tuesday. This sentence explains that in medieval Europe, pancakes were used as a way to use up leftover bread dough and were also served to celebrate special occasions such as Shrove Tuesday."
+                }
+            ],
+            "hops": [
+                "Pancakes"
+            ]
+        }
+    },
+    "second_hops": {
+        "Italy": {
+            "term": "Italy",
+            "passage": "Italy (Italian: Italia [iˈtaːlja]), officially the Italian Republic (Italian: Repubblica Italiana [reˈpubblika itaˈljaːna]), is a country in Southern Europe. Located in the heart of the Mediterranean Sea, Italy shares open land borders with France, Switzerland, Austria, Slovenia, San Marino and Vatican City. Italy covers an area of 301,338 km² (116,347 sq mi) and has a largely temperate climate; due to its shape, it is often referred to in Italy as lo Stivale (the Boot). With 60 million inhabitants, it is the 4th most populous EU member state. Italy's capital, Rome, serves as the capital of the country and of the Catholic Church. Italy is considered to be the birthplace of Western civilization and is known for its art, music, literature, fashion, and cuisine. Its capital, Rome, is home to the Vatican City and the Colosseum, and is a cultural and tourist hub. Italy has a major influence in the world, and is considered to be one of the world's greatest superpowers. It is a member of the European Union, the G7, the G20, NATO, the OECD, the OSCE, and the WTO.",
+            "qae_pairs": [
+                {
+                    "question": "What international organization is Italy a member of, besides the European Union, NATO, and the G7?",
+                    "answer": "OSCE",
+                    "explanation": "Italy is considered to be one of the world's greatest superpowers."
+                },
+                {
+                    "question": "What is the capital of the Catholic Church in Italy?",
+                    "answer": "the Catholic Church",
+                    "explanation": "Italy is considered to be the birthplace of Western civilization and is known for its art, music, literature, fashion, and cuisine. Explanation: This sentence is an evidence sentence because it provides a factual statement about Italy that supports the topic sentence of the passage."
+                }
+            ],
+            "hops": [
+                "Pasta",
+                "Italy"
+            ]
+        },
+        "California": {
+            "term": "California",
+            "passage": "California is a state in the Pacific Region of the United States. With a population of nearly 40 million people, California is the most populous state in the U.S. and the third-largest by area. The state is home to the nation's second-largest economy, after New York, and is known for its diverse geography, which includes deserts, mountains, and beaches. California is also home to many famous landmarks, including Yosemite National Park, Alcatraz Island, and the Golden Gate Bridge. The state is known for its rich cultural heritage, which includes a large Hispanic population and a thriving arts and entertainment industry. California is also a leader in the tech industry, with companies like Apple, Google, and Facebook headquartered in the state.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the tech company headquartered in California that is known for its search engine and other online services?",
+                    "answer": "Google",
+                    "explanation": "California is also a leader in the tech industry, with companies like Apple, Google, and Facebook headquartered in the state."
+                },
+                {
+                    "question": "What is the name of the famous national park located in California that is known for its stunning waterfalls, granite cliffs, and giant sequoia trees?",
+                    "answer": "Yosemite National Park",
+                    "explanation": "California is home to many famous landmarks, including Yosemite National Park, Alcatraz Island, and the Golden Gate Bridge."
+                }
+            ],
+            "hops": [
+                "Pizza",
+                "California"
+            ]
+        },
+        "Japan": {
+            "term": "Japan",
+            "passage": "Japan is an island nation in East Asia. Located in the Pacific Ocean, it lies to the east of the Sea of Japan, China, North Korea, South Korea and Russia, stretching from the Sea of Okhotsk in the north to the East China Sea and Taiwan in the south. The characters that make up Japan's name mean \"sun-origin\", which is why Japan is often referred to as the \"Land of the Rising Sun\". Japan is a stratovolcanic archipelago consisting of four main islands: Honshu, Hokkaido, Kyushu, and Shikoku, as well as over 3,000 smaller islands. The country is known for its unique culture, traditions, and customs, including its cuisine, art, and festivals. Japan is also known for its advanced technology and innovation, particularly in the fields of robotics, electronics, and automotive manufacturing. The country is home to several world-renowned companies, including Toyota, Sony, and Nintendo. Japan is a constitutional monarchy with a parliamentary government, and its capital city is Tokyo.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the world-renowned electronics company that is based in Japan and is known for its innovative products such as PlayStation, Bravia, and Vaio?",
+                    "answer": "Sony",
+                    "explanation": "Japan is an island nation in East Asia that lies to the east of the Sea of Japan, China, North Korea, South Korea, and Russia, stretching from the Sea of Okhotsk in the north to the East China Sea and Taiwan in the south. This sentence explains the location of Japan in the Pacific Ocean and its geographical neighbors."
+                },
+                {
+                    "question": "What is the capital city of Japan?",
+                    "answer": "Tokyo",
+                    "explanation": "Japan is an island nation in East Asia. Located in the Pacific Ocean, it lies to the east of the Sea of Japan, China, North Korea, South Korea and Russia, stretching from the Sea of Okhotsk in the north to the East China Sea and Taiwan in the south."
+                },
+                {
+                    "question": "What country is located to the west of Japan, but not including North Korea, and is known for its advanced technology and innovation in the fields of robotics, electronics, and automotive manufacturing?",
+                    "answer": "South Korea",
+                    "explanation": "Japan is an island nation in East Asia. Located in the Pacific Ocean, it lies to the east of the Sea of Japan, China, North Korea, South Korea and Russia, stretching from the Sea of Okhotsk in the north to the East China Sea and Taiwan in the south. This sentence explains that Japan is an island nation located in East Asia and is situated in the Pacific Ocean."
+                }
+            ],
+            "hops": [
+                "Sushi",
+                "Japan"
+            ]
+        },
+        "al pastor": {
+            "term": "al pastor",
+            "passage": "Al pastor is a Mexican dish made with marinated pork, cooked on a vertical spit over an open flame. The dish originated in the state of Jalisco, Mexico, and is now widely popular throughout Mexico and in Mexican-American communities in the United States. The dish is typically served shaved or sliced off the spit and placed atop a corn tortilla with pineapple, onions, cilantro, and lime. The marinade typically includes pineapple juice, garlic, cumin, chili powder, and other spices. The dish is often accompanied by a side of refried beans and rice. Al pastor is a popular street food in Mexico and is often served from food carts or trucks.",
+            "qae_pairs": [
+                {
+                    "question": "What is the state where al pastor originated from?",
+                    "answer": "Jalisco",
+                    "explanation": "The dish is typically served shaved or sliced off the spit and placed atop a corn tortilla with pineapple, onions, cilantro, and lime. The marinade typically includes pineapple juice, garlic, cumin, chili powder, and other spices."
+                },
+                {
+                    "question": "What is the most popular country outside of Mexico where al pastor is served?",
+                    "answer": "the United States",
+                    "explanation": "The dish is widely popular throughout Mexico and in Mexican-American communities in the United States."
+                },
+                {
+                    "question": "What is the origin of the popular Mexican dish al pastor?",
+                    "answer": "Mexico",
+                    "explanation": "The dish originated in the state of Jalisco, Mexico."
+                }
+            ],
+            "hops": [
+                "Tacos",
+                "al pastor"
+            ]
+        },
+        "Mexico City": {
+            "term": "Mexico City",
+            "passage": "Mexico City, or Ciudad de México, is the capital and largest city of Mexico. It is located in the Valley of Mexico, a large valley in the high plateaus at the center of Mexico, at an altitude of 2,240 meters (7,350 ft). The city has a population of approximately 8.9 million people, making it one of the most populous cities in the world. Mexico City is an important cultural and commercial center in Mexico. It is home to many museums, galleries, theaters, and other cultural institutions. The city is also known for its vibrant nightlife, with a wide variety of bars, clubs, and restaurants. The city has a rich history, dating back to the Aztec city of Tenochtitlan. The Spanish conquistadors destroyed much of the city in the 16th century, but many of the original Aztec structures were later rebuilt or repurposed. Today, Mexico City is a mix of modern and traditional architecture, with many historic buildings and monuments. The city is also known for its cuisine, which is a fusion of indigenous and Spanish influences. Some of the most famous dishes include tacos, tamales, and chiles en nogada. The city is also home to many street vendors and markets, where visitors can sample a wide variety of local foods. Mexico City is served by two airports, Benito Juárez International Airport and Toluca International Airport. The city is also connected to other parts of Mexico by a extensive network of highways and public transportation systems, including the Metro system.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the valley that Mexico City is located in?",
+                    "answer": "the Valley of Mexico",
+                    "explanation": "Mexico City is located in the Valley of Mexico, a large valley in the high plateaus at the center of Mexico."
+                },
+                {
+                    "question": "What was the name of the Aztec city that Mexico City was built on?",
+                    "answer": "Tenochtitlan",
+                    "explanation": "The city has a rich history, dating back to the Aztec city of Tenochtitlan."
+                },
+                {
+                    "question": "What is the official name of Mexico City in Spanish?",
+                    "answer": "Ciudad de México",
+                    "explanation": "The city is also known for its vibrant nightlife, with a wide variety of bars, clubs, and restaurants."
+                },
+                {
+                    "question": "What is the name of the airport in Mexico City?",
+                    "answer": "Benito Juárez International Airport",
+                    "explanation": "Passage: The city is also known for its vibrant nightlife, with a wide variety of bars, clubs, and restaurants. Answer: The city is also known for its vibrant nightlife, with a wide variety of bars, clubs, and restaurants."
+                },
+                {
+                    "question": "What is the name of the dish that is a fusion of indigenous and Spanish influences and is served in Mexico City?",
+                    "answer": "nogada",
+                    "explanation": "The city is also known for its cuisine, which is a fusion of indigenous and Spanish influences. Some of the most famous dishes include tacos, tamales, and chiles en nogada. Rationale: The evidence sentence explains that Mexico City is known for its cuisine, which is a fusion of indigenous and Spanish influences, and lists some of the famous dishes that are a result of this fusion, including tacos, tamales, and chiles en nogada."
+                }
+            ],
+            "hops": [
+                "Tacos",
+                "Mexico City"
+            ]
+        },
+        "Germany": {
+            "term": "Germany",
+            "passage": "Germany is a country in Central Europe. It is the most populous member state in the European Union and the fourth-largest country by area in the European Union. Germany has the largest economy in Europe and is the second largest economy in the world. It is a federal parliamentary republic consisting of 16 states, with its capital and largest city being Berlin. Germany is a member of the United Nations, NATO, the G8, the G20, and the OECD. It is a founding member of the European Union and the Eurozone. Germany is known for its rich history, culture, and diverse landscape, including mountains, forests, rivers, and beaches. It is also known for its contributions to philosophy, music, literature, science, and technology. Germany is a popular tourist destination, attracting millions of visitors each year.",
+            "qae_pairs": [
+                {
+                    "question": "What organization does Germany belong to as a member state?",
+                    "answer": "the European Union",
+                    "explanation": "Germany is a member of the United Nations, NATO, the G8, the G20, and the OECD."
+                },
+                {
+                    "question": "What is the capital of Germany?",
+                    "answer": "Berlin",
+                    "explanation": "Germany is a federal parliamentary republic consisting of 16 states, with its capital and largest city being Berlin."
+                }
+            ],
+            "hops": [
+                "Burgers",
+                "Germany"
+            ]
+        },
+        "patty": {
+            "term": "patty",
+            "passage": "Patty is a term used in the United States and Canada to refer to a flat, thin, round cake or bread, often made from a batter or dough, that is usually fried or baked. Patties can be made from a variety of ingredients, including meat, vegetables, and grains. They are often served as a sandwich filling or as a main dish, and are popular in many different cuisines, including American, Canadian, and Indian. Some common types of patties include hamburger patties, veggie patties, and falafel patties.",
+            "qae_pairs": [
+                {
+                    "question": "What is the origin of the term 'patty' used to refer to a flat, thin, round cake or bread, often made from a batter or dough, that is usually fried or baked?",
+                    "answer": "the United States",
+                    "explanation": "Patties can be made from a variety of ingredients, including meat, vegetables, and grains. They are often served as a sandwich filling or as a main dish, and are popular in many different cuisines, including American, Canadian, and Indian. Evidence sentence: Patties can be made from a variety of ingredients, including meat, vegetables, and grains."
+                }
+            ],
+            "hops": [
+                "Burgers",
+                "patty"
+            ]
+        },
+        "turkey": {
+            "term": "turkey",
+            "passage": "Turkey, officially the Republic of Turkey, is a transcontinental country located mainly on the Anatolian peninsula in Western Asia, with a smaller portion on the Balkan peninsula in Southeast Europe. Turkey is bordered by eight countries: Bulgaria to the northwest; Greece to the west; Georgia to the northeast; Armenia, Azerbaijan and Iran to the east; and Iraq and Syria to the south. The country is encircled by seas on three sides with the Aegean Sea to the west, the Black Sea to the north, and the Mediterranean to the south. Turkey has a diverse landscape that includes the Black Sea, the Aegean, and the Mediterranean coasts, the Anatolian highlands, and the Eastern Thrace plains. The country is home to a rich variety of flora and fauna, and its biodiversity is considered to be one of the highest in the world. Turkey is a parliamentary representative democratic republic, with its capital and largest city being Ankara. The country has a population of approximately 83 million people, making it the largest country in Europe by population, and the world's 18th-largest country by land area. Turkey is a founding member of the United Nations, the Organization of Islamic Cooperation, the Council of Europe, and the Non-Aligned Movement.",
+            "qae_pairs": [
+                {
+                    "question": "What body of water is located to the north of Turkey?",
+                    "answer": "the Black Sea",
+                    "explanation": "Turkey is bordered by eight countries: Bulgaria to the northwest; Greece to the west; Georgia to the northeast; Armenia, Azerbaijan and Iran to the east; and Iraq and Syria to the south. Rationale: The given passage provides a comprehensive overview of the geography and location of Turkey, including its bordering countries."
+                },
+                {
+                    "question": "What is the region in which Turkey has a smaller portion of its land area?",
+                    "answer": "Southeast Europe",
+                    "explanation": "Turkey is bordered by eight countries: Bulgaria to the northwest; Greece to the west; Georgia to the northeast; Armenia, Azerbaijan and Iran to the east; and Iraq and Syria to the south. This sentence provides evidence that Turkey has a smaller portion of its land area in Southeast Europe, as it is mentioned as one of the countries that Turkey is bordered by."
+                },
+                {
+                    "question": "What organization is Turkey a founding member of, along with the United Nations, the Organization of Islamic Cooperation, and the Council of Europe?",
+                    "answer": "the Non-Aligned Movement",
+                    "explanation": "Turkey is a founding member of the Non-Aligned Movement, along with the United Nations, the Organization of Islamic Cooperation, and the Council of Europe."
+                },
+                {
+                    "question": "What continent is Turkey located in?",
+                    "answer": "Western Asia",
+                    "explanation": "Turkey is bordered by eight countries: Bulgaria to the northwest; Greece to the west; Georgia to the northeast; Armenia, Azerbaijan and Iran to the east; and Iraq and Syria to the south. This sentence provides evidence that Turkey is located in Western Asia."
+                }
+            ],
+            "hops": [
+                "Burgers",
+                "turkey"
+            ]
+        },
+        "Reuben": {
+            "term": "Reuben",
+            "passage": "Reuben is the firstborn of Jacob and Leah in the Hebrew Bible. His name means \"see, a son\" and is interpreted as \"God has seen my affliction.\" Reuben is the only one of Jacob's twelve sons whose name is not derived from the Hebrew word for \"heart\" or \"mind.\" Reuben is described as the eldest son of Jacob and Leah, and as such, was expected to inherit the birthright and become the leader of the family. However, he is later criticized for defiling his father's bed by sleeping with Bilhah, one of Jacob's concubines, and loses his birthright to his younger brother, Joseph. Reuben is also mentioned in the genealogy of Jesus in the Gospel of Matthew as the ancestor of the Reubenites, a tribe of Israel.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the concubine that Reuben had an illicit relationship with?",
+                    "answer": "Bilhah",
+                    "explanation": "Reuben is described as the eldest son of Jacob and Leah, and as such, was expected to inherit the birthright and become the leader of the family. Evidence sentence: Reuben was expected to inherit the birthright and become the leader of the family because he was the eldest son of Jacob and Leah."
+                },
+                {
+                    "question": "What is the name of the wife of Jacob who gave birth to Reuben?",
+                    "answer": "Jacob and Leah",
+                    "explanation": "Reuben is described as the eldest son of Jacob and Leah, and as such, was expected to inherit the birthright and become the leader of the family."
+                }
+            ],
+            "hops": [
+                "Sandwiches",
+                "Reuben"
+            ]
+        },
+        "North America": {
+            "term": "North America",
+            "passage": "North America is a continent entirely within the Northern Hemisphere and almost all within the Western Hemisphere. It is also considered a northern subcontinent of the Americas. It is bordered to the north by the Arctic Ocean, to the east by the Atlantic Ocean, to the west and south by the Pacific Ocean, and to the southeast by the Caribbean Sea. North America covers an area of about 24,709,000 square kilometers (9,540,000 square miles) and has a population of over 579 million people.",
+            "qae_pairs": [
+                {
+                    "question": "What body of water is to the north of North America?",
+                    "answer": "the Arctic Ocean",
+                    "explanation": "North America is a continent entirely within the Northern Hemisphere and almost all within the Western Hemisphere. Explanation: This evidence sentence explains that North America is a continent that is entirely located in the Northern Hemisphere and almost entirely located in the Western Hemisphere. This means that North America is not located in the Southern Hemisphere or Eastern Hemisphere."
+                },
+                {
+                    "question": "What is the geographical location of North America in relation to the Northern Hemisphere?",
+                    "answer": "the Northern Hemisphere",
+                    "explanation": "North America is a continent entirely within the Northern Hemisphere and almost all within the Western Hemisphere."
+                },
+                {
+                    "question": "What is the name of the hemisphere that includes North America?",
+                    "answer": "the Western Hemisphere",
+                    "explanation": "North America is a continent entirely within the Northern Hemisphere and almost all within the Western Hemisphere. This sentence explains that North America is located entirely in the Northern Hemisphere and almost entirely in the Western Hemisphere."
+                },
+                {
+                    "question": "What body of water is located to the west and south of North America?",
+                    "answer": "the Pacific Ocean",
+                    "explanation": "North America covers an area of about 24,709,000 square kilometers (9,540,000 square miles) and has a population of over 579 million people."
+                },
+                {
+                    "question": "What is the name of the body of water that borders North America to the east?",
+                    "answer": "the Atlantic Ocean",
+                    "explanation": "It is bordered to the north by the Arctic Ocean, to the east by the Atlantic Ocean, to the west and south by the Pacific Ocean, and to the southeast by the Caribbean Sea. This sentence provides a clear and concise explanation of the geographical borders of North America."
+                }
+            ],
+            "hops": [
+                "Sandwiches",
+                "North America"
+            ]
+        },
+        "BLT": {
+            "term": "BLT",
+            "passage": "BLT is a popular sandwich in the United States and Canada, consisting of bacon, lettuce, and tomato, served on bread. It is often served as a breakfast or lunch item, and is sometimes served with mayonnaise or other condiments. The sandwich is believed to have originated in the United States in the early 20th century, and has since become a staple of American cuisine. It is often served in diners, fast food restaurants, and other casual dining establishments. The sandwich has also gained popularity in other countries, and is often served in international fast food chains.",
+            "qae_pairs": [
+                {
+                    "question": "What is the origin of the BLT sandwich?",
+                    "answer": "the United States",
+                    "explanation": "The sandwich is believed to have originated in the United States in the early 20th century, and has since become a staple of American cuisine."
+                }
+            ],
+            "hops": [
+                "Sandwiches",
+                "BLT"
+            ]
+        },
+        "Russia": {
+            "term": "Russia",
+            "passage": "1. Russia is a transcontinental country in Eastern Europe and North Asia. 2. It is the world's largest country by land area, covering more than one-eighth of the Earth's inhabited land area. 3. The country's population is over 144 million people, with 80% of the population living in urban areas. 4. The capital of Russia is Moscow, which is also the country's largest city. 5. The country's economy is the world's eleventh largest by nominal GDP and the sixth largest by purchasing power parity. 6. Russia is a recognized nuclear weapons state and possesses the largest stockpile of weapons of mass destruction. 7. The country is a permanent member of the United Nations Security Council and a member of the G20. 8. Russia is home to a number of world-renowned museums, such as the State Hermitage Museum in Saint Petersburg and the Kremlin Museum in Moscow. 9. The country is also known for its rich literary history, with authors such as Leo Tolstoy, Fyodor Dostoevsky, and Anton Chekhov achieving worldwide acclaim. 10. Russia is famous for its vodka, which is a popular alcoholic beverage in the country.",
+            "qae_pairs": [
+                {
+                    "question": "What continent is Russia located in?",
+                    "answer": "North Asia",
+                    "explanation": "Russia is a transcontinental country in Eastern Europe and North Asia. Answer: Russia is a transcontinental country in Eastern Europe and North Asia."
+                },
+                {
+                    "question": "What is the capital of Russia?",
+                    "answer": "Moscow",
+                    "explanation": "The capital of Russia is Moscow, which is also the country's largest city."
+                },
+                {
+                    "question": "What organization is Russia a member of, which is known for its economic and political influence on the global stage?",
+                    "answer": "G20",
+                    "explanation": "The country's economy is the world's eleventh largest by nominal GDP and the sixth largest by purchasing power parity."
+                },
+                {
+                    "question": "Who is the famous Russian author known for his literary works such as \"The Cherry Orchard\" and \"The Seagull\"?",
+                    "answer": "Anton Chekhov",
+                    "explanation": "The country's economy is the world's eleventh largest by nominal GDP and the sixth largest by purchasing power parity. This sentence explains that Russia has a strong economy and is one of the world's largest in terms of GDP."
+                }
+            ],
+            "hops": [
+                "Dumplings",
+                "Russia"
+            ]
+        },
+        "Korea": {
+            "term": "Korea",
+            "passage": "Korea is a country in East Asia, constituting the southern part of the Korean Peninsula. The country is bordered by the Democratic People's Republic of Korea to the north, and China to the west and south. It is separated from Japan to the east by the Sea of Japan. The capital and largest city is Seoul, with a population of over 10 million. The official language is Korean. Korea has a rich history and culture, dating back over 5,000 years. It is home to many historic sites, including the Gyeongbokgung Palace, Changdeokgung Palace, and Jongmyo Shrine, all of which are UNESCO World Heritage Sites. Korea is also known for its traditional music, dance, and art, such as K-pop, Korean drama, and Korean cinema. Korea is a highly developed country with a mixed economy, dominated by large conglomerates, such as Samsung, LG, and Hyundai. It is the fourth-largest economy in Asia and the eleventh-largest in the world. The country is also a member of the United Nations, World Trade Organization, and the G20. Korea has a temperate climate, with four distinct seasons. The country is known for its beautiful natural scenery, including mountains, beaches, and islands. It is also home to many national parks, such as Seoraksan National Park and Jeju Island. Korea has a population of over 51 million people, with a high population density. The country has a high standard of living, with a life expectancy of over 80 years. It is also known for its cuisine, such as kimchi, bibimbap, and bulgogi.",
+            "qae_pairs": [
+                {
+                    "question": "What is the length of Korea's rich history and culture?",
+                    "answer": "5,000 years",
+                    "explanation": "Korea is a highly developed country with a mixed economy, dominated by large conglomerates, such as Samsung, LG, and Hyundai."
+                }
+            ],
+            "hops": [
+                "Dumplings",
+                "Korea"
+            ]
+        },
+        "Eastern Europe": {
+            "term": "Eastern Europe",
+            "passage": "Eastern Europe is the region that stretches from the Baltic Sea in the north to the Black Sea in the south, and from the Baltic countries in the west to the Caucasus in the east. It is characterized by its diverse culture, history, and geography. The region is home to many ethnic groups, including Slavs, Hungarians, Romanians, and others. Eastern Europe has a rich cultural heritage, with influences from the Byzantine Empire, Ottoman Empire, and Soviet Union. The region has a long history of political and economic turmoil, including the Cold War and the breakup of Yugoslavia. Despite these challenges, Eastern Europe has made significant progress in recent years, with many countries joining the European Union and NATO. The region is also known for its natural beauty, with many mountains, forests, and rivers.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the sea that borders Eastern Europe to the south?",
+                    "answer": "the Black Sea",
+                    "explanation": "Eastern Europe is the region that stretches from the Baltic Sea in the north to the Black Sea in the south, and from the Baltic countries in the west to the Caucasus in the east. This sentence is an evidence sentence because it provides a clear and specific description of the region that is being discussed in the passage. It also includes important geographical details such as the location of the Baltic Sea and the Caucasus, which are important for understanding the context of the region."
+                },
+                {
+                    "question": "What organization did Eastern European countries join after the breakup of Yugoslavia?",
+                    "answer": "NATO",
+                    "explanation": "Despite these challenges, Eastern Europe has made significant progress in recent years, with many countries joining the European Union and NATO."
+                }
+            ],
+            "hops": [
+                "Dumplings",
+                "Eastern Europe"
+            ]
+        },
+        "China": {
+            "term": "China",
+            "passage": "China is a country in East Asia and the world's most populous country, with a population of around 1.4 billion people. Covering approximately 9.6 million square kilometers, China is the third-largest country in the world by land area and the second-largest by total area, following only Russia. The People's Republic of China (PRC) is the country's official name, and it is governed by the Communist Party of China. The capital of China is Beijing. China has a rich history and culture, dating back more than 5,000 years. It has been home to many of the world's greatest civilizations, including the Xia, Shang, Zhou, Qin, Han, Sui, Tang, Song, Ming, and Qing dynasties. China is also known for its many inventions and innovations, including paper, printing, gunpowder, the compass, and silk. Today, China is a major global economic power, with the world's second-largest economy after the United States. It is also a member of the United Nations, the World Trade Organization, and the G20. China has a diverse landscape, with mountains, deserts, plateaus, and plains. It is also home to many of the world's most famous landmarks, including the Great Wall of China, the Forbidden City, and the Terracotta Warriors. Despite its many achievements, China also faces many challenges, including environmental pollution, income inequality, and political repression. However, the Chinese government has taken steps to address these issues, including investing in renewable energy and implementing policies to reduce poverty and promote social mobility.",
+            "qae_pairs": [
+                {
+                    "question": "What dynasty in China was known for its contributions to poetry, calligraphy, and painting?",
+                    "answer": "Tang",
+                    "explanation": "China is a country in East Asia and the world's most populous country, with a population of around 1.4 billion people. This statement provides an explanation for why China is an important country in the world today."
+                }
+            ],
+            "hops": [
+                "Dumplings",
+                "China"
+            ]
+        },
+        "the United Kingdom": {
+            "term": "the United Kingdom",
+            "passage": "The United Kingdom of Great Britain and Northern Ireland, commonly known as the United Kingdom or UK, is a sovereign country located off the north-western coast of the European mainland. The United Kingdom includes the island of Great Britain, the north-eastern part of the island of Ireland, and many smaller islands. Northern Ireland is the only part of the UK that shares a land border with another country, the Republic of Ireland. The UK is a constitutional monarchy with a parliamentary democracy, and its capital city is London. The UK has a temperate climate, with rainfall and temperature varying across the country. Its landscape includes moorland, heathland, and coastal areas, as well as a high-peaked mountain range in Scotland. The UK has a highly developed mixed economy, with leading sectors including finance, professional services, creative industries, and manufacturing. Its population is approximately 67 million, and its official languages are English, Welsh, and Scottish Gaelic. The UK is a member of the European Union, but has opted to leave and is currently in the process of negotiating its withdrawal.",
+            "qae_pairs": [
+                {
+                    "question": "Which country in the United Kingdom has a well-known dish called Haggis?",
+                    "answer": "Scotland",
+                    "explanation": "The UK has a highly developed mixed economy, with leading sectors including finance, professional services, creative industries, and manufacturing."
+                }
+            ],
+            "hops": [
+                "Curry",
+                "the United Kingdom"
+            ]
+        },
+        "Shrove": {
+            "term": "Shrove",
+            "passage": "Shrove Tuesday, also known as Pancake Day, is a traditional holiday in many English-speaking countries and some parts of Europe. It is the day before Ash Wednesday, the first day of Lent, and is a day of celebration and feasting before the 40 days of fasting. The name \"Shrove Tuesday\" comes from the word \"shrive,\" which means to confess one's sins and receive absolution. The day is also known as Pancake Day because it was traditionally a day to use up rich foods such as eggs, milk, and sugar before the fasting period of Lent began. In some countries, such as the United Kingdom and Australia, people traditionally eat pancakes on this day, while in others, such as the United States, it is more common to eat other types of food. Shrove Tuesday has been celebrated for centuries and is an important part of many cultures and traditions.",
+            "qae_pairs": [
+                {
+                    "question": "What is the day after Shrove Tuesday called?",
+                    "answer": "Ash",
+                    "explanation": "Shrove Tuesday is the day before Ash Wednesday, the first day of Lent."
+                },
+                {
+                    "question": "What is the significance of Shrove Tuesday in the Christian tradition and how does it relate to the period of Lent?",
+                    "answer": "Lent",
+                    "explanation": "The day is also known as Pancake Day because it was traditionally a day to use up rich foods such as eggs, milk, and sugar before the fasting period of Lent began."
+                }
+            ],
+            "hops": [
+                "Pancakes",
+                "Shrove"
+            ]
+        }
+    }
+}

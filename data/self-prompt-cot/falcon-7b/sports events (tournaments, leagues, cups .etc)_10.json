@@ -1,0 +1,812 @@
+{
+    "first_hops": {
+        "FIFA World Cup": {
+            "term": "FIFA World Cup",
+            "passage": "[1]\n\"The 2010 FIFA World Cup was the tenth FIFA World Cup. The tournament was held from 11 June to 27 July 2010 in South Africa, with matches played across 12 cities in 11 countries. The 32 nations who participated were drawn into eight groups of four, and the top two teams in each group advanced to the knockout stages. A total of 64 games were played in South Africa, with only 23 matches in the knockout stage. The match schedule was completed before the end of the World Cup, making this tournament the fastest of the previous 9 World Cup's and one of the shortest FIFA World Cup's overall. The tournament is the first since 1998 in which a single goal was scored by an African team. The first goal in an African World Cup was scored in 2010.\"",
+            "qae_pairs": [
+                {
+                    "question": "When did the FIFA World Cup start in 2010?",
+                    "answer": "11 June to",
+                    "explanation": "2010 FIFA World Cup was held from 11 June to 27 July 2010."
+                },
+                {
+                    "question": "Which year was the last FIFA World Cup held?",
+                    "answer": "1998",
+                    "explanation": "[2] The 2006 FIFA World Cup was the ninth FIFA World Cup. The tournament was held from 9 July 2006 to 23 July 2006 in Germany. The 32 nations who participated were drawn into eight groups of four, and the top two teams in each group advanced to the knockout stage. A total of 64 matches were played in Germany, with only 23 matches in the knockout stage. The match schedule was completed before the end of the World Cup, making this tournament the fastest of the previous 8 World Cups and one of the shortest FIFA World Cups overall."
+                },
+                {
+                    "question": "When was the FIFA World Cup held in 2010?",
+                    "answer": "July 2010",
+                    "explanation": "2010 FIFA World Cup was held in South Africa from 11 June to 27 July 2010."
+                }
+            ],
+            "hops": [
+                "FIFA World Cup"
+            ]
+        },
+        "Wimbledon Championships": {
+            "term": "Wimbledon Championships",
+            "passage": "1980\nThe tennis championships at the All England Club in Wimbledon, Great Britain, held from 27 June - 10 July 1980. It was the first major tournament of the year, and the seventh consecutive tournament where a non-British won the Gentlemen's singles trophy. American Jimmy Connors was the winner, winning the final in straight sets 6-1, 6-2, 6-2, over the Czechoslovakian player Jan McNichols. The tournament also saw the debut of 1970s tennis stars Bjorn Borg and Roger Federer.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the tennis club in Wimbledon?",
+                    "answer": "the All England Club",
+                    "explanation": "The All England Club is a tennis club in London, England. It is the largest and most prestigious tennis club in the world, and is the only tennis club in the world to have its own grass courts. The club is located in Wimbledon, London, England. The club was founded in 1877 by the All England Club, and is the only tennis club in the world to have its own grass courts. The club is the home of the Wimbledon Championships, which is one of the four Grand Slam tennis tournaments. The club is also home to the worlds most famous tennis tournament, the Wimbledon Championships. The club is a"
+                },
+                {
+                    "question": "What is the name of the tennis tournament that takes place in London every year?",
+                    "answer": "Wimbledon",
+                    "explanation": "Wimbledon is the name of the tennis tournament that takes place in London every year."
+                }
+            ],
+            "hops": [
+                "Wimbledon Championships"
+            ]
+        },
+        "Super Bowl": {
+            "term": "Super Bowl",
+            "passage": ".. (the wikipedia link contains some minor errors, but can be corrected). \"The Super Bowl is the largest and longest annual event in the United States. The \"big game\" is an American tradition that originated in 1967 and has become the \"largest single-day event in the world. It is a commercial success, having generated more than $260 billion for the United States economy since its beginning. The NFL is the American Football Conference (AFC), and the American Football League (AFL) is the American Football Conference (AFC). Super Bowl XLVIII, on February 2, 2015, was the 48th Super Bowl, between the AFC champion New England Patriots and the NFC champion Seattle Seahawks. The event was held at the Mercedes-Benz Superdome in New Orleans, Louisiana. The game was broadcasted by CBS in 2015. Super Bowl XLVIII was also the last Super Bowl in which the AFC and AFC West divisions had separate names, as the current division designations are set to change for the 2016 season. In addition to the standard 32 teams of the NFL, one team in each division is in the running for Super Bowl XLIX, which will be played in February 1, 2015 at the New England Patriots' Gillette Stadium. Super Bowl XLVIII was also the first Super Bowl in which the game was streamed online.",
+            "qae_pairs": [
+                {
+                    "question": "Which team won the Super Bowl in 2015?",
+                    "answer": "New England Patriots",
+                    "explanation": "The Super Bowl XLVIII was held on February 2, 2015, between the AFC champion New England Patriots and the NFC champion Seattle Seahawks. The game was broadcasted by CBS in 2015. The Super Bowl XLVIII was also the last Super Bowl in which the AFC and AFC West divisions had separate names, as the current division designations are set to change for the 2016 season. In addition to the standard 32 teams of the NFL, one team in each division is in the running for Super Bowl XLIX, which will be played in February 1, 2015 at the New England"
+                },
+                {
+                    "question": "When did the Super Bowl begin?",
+                    "answer": "1967",
+                    "explanation": "The Super Bowl began in 1967, when the NFL and AFL merged. The merger was a result of the AFLs success in the 1960s, which led to the NFLs desire to expand its audience. The merger was finalized in 1966, and the Super Bowl was born."
+                },
+                {
+                    "question": "What is the name of the division in the NFL?",
+                    "answer": "the American Football Conference",
+                    "explanation": "The NFL is the American Football Conference (AFC), and the American Football League (AFL) is the American Football Conference (AFC)."
+                },
+                {
+                    "question": "Which division is the Super Bowl played in?",
+                    "answer": "AFC West",
+                    "explanation": "The Super Bowl is played between the AFC and NFC champions. The AFC is the American Football Conference, while the NFC is the National Football Conference. The AFC West is one of the four divisions in the NFL. The other three divisions are the AFC East, AFC North, and AFC South."
+                },
+                {
+                    "question": "What is the Super Bowl?",
+                    "answer": "annual",
+                    "explanation": "The Super Bowl is an annual event in the United States that originated in 1967. It is a commercial success, having generated more than $260 billion for the United States economy since its beginning. The NFL is the American Football Conference (AFC), and the American Football League (AFL) is the American Football Conference (AFC). Super Bowl XLVIII, on February 2, 2015, was the 48th Super Bowl, between the AFC champion New England Patriots and the NFC champion Seattle Seahawks. The event was held at the Mercedes-Benz Superdome in New Orleans, Louisiana"
+                },
+                {
+                    "question": "When is Super Bowl XLVIII?",
+                    "answer": "February 2, 2015",
+                    "explanation": "Super Bowl XLVIII means the 48th Super Bowl. It was held on February 2, 2015."
+                },
+                {
+                    "question": "What is the name of the company that broadcasts the Super Bowl?",
+                    "answer": "CBS",
+                    "explanation": "CBS is an American television network that is the flagship station of the CBS Corporation. It is the oldest of the three major television networks in the United States, and is the only one that has been in continuous operation since its inception in 1929. CBS is the only American television network to have broadcast every Super Bowl since its inception in 1967."
+                },
+                {
+                    "question": "What is the name of the city where the Super Bowl is held?",
+                    "answer": "New Orleans",
+                    "explanation": "Super Bowl XLVIII is the 48th Super Bowl, between the AFC champion New England Patriots and the NFC champion Seattle Seahawks. The event was held at the Mercedes-Benz Superdome in New Orleans, Louisiana."
+                },
+                {
+                    "question": "What is the name of the stadium where Super Bowl XLVIII was played?",
+                    "answer": "Gillette Stadium",
+                    "explanation": "Gillette Stadium is a professional football stadium located in Foxborough, Massachusetts. It is the home of the New England Patriots of the National Football League (NFL). The stadium was built in 1995 and has a seating capacity of 68,756. It is the largest stadium in the NFL and is the second largest stadium in the world. The stadium is also home to the New England Revolution of Major League Soccer."
+                },
+                {
+                    "question": "When is Super Bowl XLIX?",
+                    "answer": "February 1, 2015",
+                    "explanation": "2015 Super Bowl XLIX will be played on February 1, 2015 at Gillette Stadium in Foxborough, Massachusetts."
+                },
+                {
+                    "question": "What is the name of the state where Super Bowl XLVIII was held?",
+                    "answer": "Louisiana",
+                    "explanation": "Super Bowl XLVIII was held in New Orleans, Louisiana."
+                }
+            ],
+            "hops": [
+                "Super Bowl"
+            ]
+        },
+        "NBA Finals": {
+            "term": "NBA Finals",
+            "passage": "\"It is an annual basketball tournament, featuring the best players from the National Basketball Association (NBA). Currently, the championship trophy is a replica of the Oscar statue. This is the trophy that the championship team receives each year to honor them for winning the championship title in the NBA. The trophy is 27 inches in height, weighing 65 pounds, made of bronze. The trophy is the centerpiece of a parade that takes place in the winning city, and is also displayed in the trophy case, located outside of the NBA headquarters. The trophy is presented at an event held the night before the start of the championship series. The trophy is inscribed with the names of the 16 teams that participated in the playoffs, in addition to the names of the two teams that met in the NBA Finals.\" I was at the game where the Warriors and Cavaliers meet in 2015 for Game 7 of the finals. You could just see that LeBron had all his trophies and rings, including one that was larger than any of the others, and he did something that I think I've never seen before. After he was presented with the trophy in front of the crowd, he held the top of the trophy in front of his face and let the bottom of the trophy fall away so that the crowd could get a better view of all his trophies and rings, which were on the top of the trophy. I'm sure the guy who made the trophy did that as well.",
+            "qae_pairs": [
+                {
+                    "question": "What year did the Warriors win the NBA Finals?",
+                    "answer": "2015",
+                    "explanation": "The Golden State Warriors won the 2015 NBA Finals, defeating the Cleveland Cavaliers 4-1 in a series that went the distance. The Warriors won the championship in Game 7, 4-3, and became the first team in NBA history to win four championships in a row. The Warriors championship run was the longest in NBA history, surpassing the previous record of three championships in a row set by the Los Angeles Lakers in 2000. The Warriors championship run was also the first in NBA history to be accomplished in a span of four years. The Warriors championship run was also the first in NBA history"
+                },
+                {
+                    "question": "Who is the best basketball player in the world?",
+                    "answer": "LeBron",
+                    "explanation": "LeBron James is a professional basketball player who currently plays for the Los Angeles Lakers. He is considered one of the greatest basketball players of all time. He has won four NBA championships, and has been named the Most Valuable Player of the NBA four times. He has also been named to the All-NBA team 14 times. He is considered one of the best basketball players in the world, and is considered to be one of the best players in the history of the game. He is also considered one of the best players in the world, and is considered to be one of the best players in the world. He is considered"
+                },
+                {
+                    "question": "What is the name of the organization that runs the NBA?",
+                    "answer": "the National Basketball Association",
+                    "explanation": "The National Basketball Association (NBA) is a professional basketball league in North America. It is one of the four major sports leagues in North America, alongside the National Football League, Major League Baseball, and the National Hockey League. The NBA is the largest professional basketball league in the world, with 30 teams in the United States and Canada. The league is made up of 5 conferences, 4 divisions, and 32 teams. The NBA Finals is the culmination of the playoffs, which are held in May and June, and is the most watched event in the world. The championship trophy is a replica of the Oscar statue,"
+                }
+            ],
+            "hops": [
+                "NBA Finals"
+            ]
+        },
+        "UEFA Champions League": {
+            "term": "UEFA Champions League",
+            "passage": "1. The UEFA Champions League is a sports event that is organised by the Union of European Football Associations, and is the highest level of professional football in Europe. The main tournament, known as the UEFA Champions League, is held each year in June and July, and is the most popular football event in the world, as per its global audience. The tournament comprises of the best 32 teams in Europe, which include a mix of national teams and club teams. The UEFA Champions League is considered one of the most prestigious club competitions in the world. It is the most viewed sports event in the world, with an average of 170 million people across 215 countries tuning in to watch the final. The UEFA Champions League features teams from countries around the world. The competition is based on a single-match knockout system, in which teams compete in a knock-out stage in order to decide a winner. The winners of each group of four teams, as well as the two highest placed teams in the group stage, enter a playoff system, in which they will compete in a two-legged tie to be decided the winner. 2. The UEFA Champions League is a tournament that is organised annually by the Union of European football associations. The most prestigious club football event in the world is the UEFA Champions League. 2020–21 UEFA Champions League logo. The competition is held annually in June and July, with the most popular football event in the world, as per its global audience.",
+            "qae_pairs": [
+                {
+                    "question": "When is the UEFA Champions League held?",
+                    "answer": "June and July",
+                    "explanation": "The UEFA Champions League is held annually in June and July, with the most popular football event in the world, as per its global audience."
+                },
+                {
+                    "question": "Who is the governing body of European football?",
+                    "answer": "the Union of European Football Associations",
+                    "explanation": "The governing body of European football is the Union of European Football Associations (UEFA). It is responsible for organizing the UEFA Champions League, as well as other major tournaments such as the UEFA Europa League and UEFA Super Cup. The UEFA Champions League is the most prestigious club football event in the world, and is the most viewed sports event in the world. It is based on a single-match knockout system, in which teams compete in a knock-out stage in order to decide a winner. The winners of each group of four teams, as well as the two highest placed teams in the group stage, enter a playoff system, in"
+                },
+                {
+                    "question": "When is the UEFA Champions League held each year?",
+                    "answer": "annually",
+                    "explanation": "The UEFA Champions League is held annually in June and July."
+                }
+            ],
+            "hops": [
+                "UEFA Champions League"
+            ]
+        },
+        "French Open": {
+            "term": "French Open",
+            "passage": "2006: Men's singles\nThe 2006 French Open was the most successful edition of the event in terms of number of different players from different countries to make a last-64 appearance, but it still featured some surprising results and the \"out of nowhere\" victories. Many tennis experts believed that Roger Federer had little chance of winning, as he had not defeated a top-five player in a clay-court event all year. He was grouped with 15th-ranked David Nalbandian, the 2003 champion Fabrice Santoro, and 18th-ranked Gastón Gaudio. The Spaniard, who had lost in the first round the previous year, went out in the quarterfinals, after being sent home by a leg injury. In the semifinals, both Federer and Gaudio met the top seed, and both had to withdraw due to injuries. Thus, Federer lost in his second semifinal in a row. On the women's side, Venus Williams was the only top-10 player to reach the quarterfinals. She had no problems with the three seeded players on her side, but lost to unseeded French wildcard Nathalie Dechy in the quarters.",
+            "qae_pairs": [
+                {
+                    "question": "Who won the 2006 French Open mens singles?",
+                    "answer": "Roger Federer",
+                    "explanation": "2006 French Open mens singles champion Roger Federer."
+                },
+                {
+                    "question": "Who is the only woman to reach the quarterfinals in 2006 French Open?",
+                    "answer": "Nathalie Dechy",
+                    "explanation": "2006 French Open was the last French Open in which a non-French player was able to reach the quarterfinals. Nathalie Dechy, a French wildcard, defeated Venus Williams in the quarterfinals."
+                }
+            ],
+            "hops": [
+                "French Open"
+            ]
+        },
+        "Australian Open": {
+            "term": "Australian Open",
+            "passage": "[1] \"This entry is a stub. You might want to add some text to it. The article is an Australian open tennis tournament article which has not been created yet. They have not yet been written for each country and sport. They're all here to help you. To learn more about the Australian Open, see this article's about page. [/1] [/1] - \"The 2017 Australian Open is a grand slam tennis tournament that is played at the start of the year in January. It is staged in Melbourne, Australia. The tournament has become the first of the four Grand Slams to be staged in January, the others are the French Open, the Wimbledon Championships and the US Open. The event is the second oldest tournament in the world, next to the French Open, which started in 1905. [/1] [/1] - This is a stub. The article is an Australian Open tennis tournament article, it does not need to be completed.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the city where the Australian Open is held?",
+                    "answer": "Melbourne",
+                    "explanation": "The Australian Open is held in Melbourne, Victoria, Australia."
+                },
+                {
+                    "question": "Which tennis tournaments are the most prestigious?",
+                    "answer": "Grand Slams",
+                    "explanation": "Grand Slams are the most prestigious tennis tournaments in the world. They are the four major tournaments in the sport, and are held in the months of January, May, August, and November. The tournaments are held in the four major cities of the world: Melbourne, Australia, Paris, France, London, England, and New York, USA. The tournaments are the most prestigious because they are the only events where the top players in the world compete. The tournaments are also the most watched events in the world, with millions of viewers tuning in to watch the matches."
+                },
+                {
+                    "question": "Which is the second oldest tennis tournament in the world?",
+                    "answer": "the French Open",
+                    "explanation": "The French Open is the second oldest tennis tournament in the world, having started in 1905. The Australian Open is the second oldest grand slam tournament, having started in 1905, after the French Open."
+                },
+                {
+                    "question": "When was the Australian Open first held?",
+                    "answer": "1905",
+                    "explanation": "1905"
+                },
+                {
+                    "question": "When is the Australian Open held?",
+                    "answer": "January",
+                    "explanation": "[1] The Australian Open is held in January, which is the first month of the year. It is staged in Melbourne, Australia."
+                },
+                {
+                    "question": "What is the name of the country?",
+                    "answer": "Australia",
+                    "explanation": "[1] The Australian Open is a grand slam tennis tournament that is played at the start of the year in January. It is staged in Melbourne, Australia. The tournament has become the first of the four Grand Slams to be staged in January, the others are the French Open, the Wimbledon Championships and the US Open. The event is the second oldest tournament in the world, next to the French Open, which started in 1905. [/1] [/1] - The 2017 Australian Open is a grand slam tennis tournament that is played at the start of the year in January. It"
+                }
+            ],
+            "hops": [
+                "Australian Open"
+            ]
+        },
+        "Ryder Cup": {
+            "term": "Ryder Cup",
+            "passage": "2010 at Valhalla, KY.\nRyder Cup: 2010 at Valhalla, KY\nThe 2010 Ryder Cup was a professional men's golf tournament held on September 12–14, 2010 at Valhalla Country Club in Louisville, Kentucky. It was the 36th Ryder Cup to take place at Valhalla. A total of 8,000 tickets were sold to spectators. The defending champion, the United States, won the event on a 8–4 scoreline, the second-highest margin of victory in the event's history. The event began on September 12, on Thursday, and concluded on September 14, with the matches on the Valhalla course in the morning of Friday, and the final matches on the Palmer course. The teams were comprised of the leading 12 players in the world rankings as of August 29, 2010, excluding the automatic qualifying players. The United States team won for the first time since 2008 with a 13 3/4–8 3/4 win over Europe. In 1998, they had been defeated by Europe, who were seeking to win a record fifth time in a row. This year's event was the second time the US were defeated by Europe, following on from 1998, with a 13 3/4–8 3/4 defeat.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the golf course where the Ryder Cup was held in 2010?",
+                    "answer": "Valhalla Country Club",
+                    "explanation": "2010 Ryder Cup was held at Valhalla Country Club, Louisville, KY."
+                },
+                {
+                    "question": "Ryder Cup: 2010 at Valhalla, KY?",
+                    "answer": "September 12–14, 2010",
+                    "explanation": "2010 Ryder Cup was held from September 12–14, 2010 at Valhalla Country Club in Louisville, Kentucky."
+                },
+                {
+                    "question": "What is the name of the city where the Ryder Cup is held?",
+                    "answer": "Kentucky",
+                    "explanation": "Ryder Cup is a professional golf tournament, and the event is held at different locations each time. The 2010 Ryder Cup was held at Valhalla Country Club in Louisville, Kentucky."
+                },
+                {
+                    "question": "Who won the Ryder Cup in 2010?",
+                    "answer": "the United States",
+                    "explanation": "2010 Ryder Cup was held on Valhalla Country Club in Louisville, Kentucky, and the defending champion was the United States."
+                },
+                {
+                    "question": "What is the name of the city where the Ryder Cup was held in 2010?",
+                    "answer": "Louisville",
+                    "explanation": "2010 Ryder Cup was held at Valhalla Country Club in Louisville, Kentucky."
+                }
+            ],
+            "hops": [
+                "Ryder Cup"
+            ]
+        },
+        "Wimbledon Women": {
+            "term": "Wimbledon Women",
+            "passage": "[2] \"Wimbledon Women's Singles main draw\" (in English). Wimbledon Tennis Club. 12 June 2007. Retrieved 18 July 2008..\nOn the other hand, the 'Wimbledon Men's Singles main draw' has been running for over 130 years! It has not come up to the 'Wimbledon Men's Singles main draw' in its time and I am not sure if it has ever been mentioned that the 'Wimbledon women's singles' has been held for so long, but I have to admit it is amazing. It is not as old as the 'Wimbledon Men's Singles main draw', but if it had been around that time, it would have been a massive improvement! A very interesting bit of information I have stumbled upon today. Thanks to the person that shared the website on my site with the information! :)\nHi,\nthanks for the information. It's nice to learn that the wimbledon women's singles main draw has been running for over a hundred years. I'm guessing it must be a very exciting time for women playing tennis at wimbledon. I was surprised by the website's information on when women's tennis was first included. That would be so much to celebrate in the future years to come.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the website?",
+                    "answer": "Wimbledon Tennis Club",
+                    "explanation": "Wimbledon Tennis Club is the official website of the All England Club, the home of Wimbledon. It is the worlds most famous tennis tournament and the only one to be played on grass. The website is a great source of information for tennis fans, including the latest news, results, and player profiles. It also offers a range of interactive features, including a live score service, a match finder, and a video player. The website is free to access and is available in several languages, including English, French, German, and Spanish. It is a great resource for tennis fans of all ages and is definitely worth a visit."
+                },
+                {
+                    "question": "When did womens tennis first become part of the Wimbledon main draw?",
+                    "answer": "12 June 2007",
+                    "explanation": "Wimbledon Womens Singles main draw (in English). Wimbledon Tennis Club. 12 June 2007. Retrieved 18 July 2008. Thanks for the information. I am a big tennis fan, and I love the Wimbledon tournament. I am curious to know how long the womens singles main draw has been running. I am guessing it must be a very exciting time for women playing tennis at Wimbledon."
+                }
+            ],
+            "hops": [
+                "Wimbledon Women"
+            ]
+        }
+    },
+    "second_hops": {
+        "the All England Club": {
+            "term": "the All England Club",
+            "passage": "For nearly 200 years, the All England Club has been the home of tennis, and the headquarters of one of the world’s leading tennis clubs. The club was founded on the 14th August 1858, 200 years ago today, by a group of 28 amateur sportsmen. It is the first and only sports club to be founded in a modern country house (Eaton House), and the club has been at the center of British tennis for 200 years. The club is not associated with the British Royal Family, the current family head is King George VI. In 1937 the members voted for the first time to move the Wimbledon headquarters to the All England Club, but Wimbledon has been able to remain at its current location in SW19. To read more about the All England Club, please go here.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the building where the All England Club was founded?",
+                    "answer": "Eaton House",
+                    "explanation": "“Eaton House” was the name of the house where the All England Club was founded. The house was built in 1718, and was the home of the Duke of Wellington, who was the Prime Minister of the United Kingdom at the time. The house was built in the style of the English country house, and was designed by the architect John Nash. The house was built on the site of the old All England Club, which was founded in 1858."
+                },
+                {
+                    "question": "What is the name of the tennis tournament held at the All England Club every year in July?",
+                    "answer": "Wimbledon",
+                    "explanation": "Wimbledon is the name of the tennis tournament held at the All England Club every year in July. The tournament is the oldest tennis tournament in the world, and is the only one to be held in a modern country house. The tournament is held in the month of July, and is the only one of the four Grand Slam tournaments to be held in the UK. The tournament is the only one of the four Grand Slam tournaments to be held in a modern country house, and is the only one to be held in the month of July."
+                },
+                {
+                    "question": "When was the All England Club founded?",
+                    "answer": "200 years ago",
+                    "explanation": "200 years ago today, on the 14th August 1858, the All England Club was founded by a group of 28 amateur sportsmen."
+                },
+                {
+                    "question": "\nWho is the King of the All England Club?",
+                    "answer": "King George VI",
+                    "explanation": "The All England Club is the oldest tennis club in the world, and the club has been at the center of British tennis for 200 years. The club is not associated with the British Royal Family, and the current family head is King George VI. The club has been able to remain at its current location in SW19, and the current headquarters is the All England Club. The club has been founded on the 14th August 1858, 200 years ago today, by a group of 28 amateur sportsmen. The club is not associated with the British Royal Family, and the current family head is King George VI."
+                },
+                {
+                    "question": "What is the date of the All England Clubs founding?",
+                    "answer": "the 14th August 1858",
+                    "explanation": "200 years ago today, on the 14th August 1858, the All England Club was founded by a group of 28 amateur sportsmen."
+                }
+            ],
+            "hops": [
+                "Wimbledon Championships",
+                "the All England Club"
+            ]
+        },
+        "Wimbledon": {
+            "term": "Wimbledon",
+            "passage": "\"Each year, Wimbledon is held at The All England Club in London, England, over two weeks in late June and early July. The tournament is considered the'mother of all tennis tournaments' and is one of the biggest events in the world. Each year, it attracts a large number of the world's top tennis players, both male and female, from all over the world. The tournament has been held since 1877, when the All England Club was founded and has been held every year since. The tournament features singles and doubles competitions in both men's and women's categories, as well as mixed doubles. The weeklong event usually consists of a warm-up week leading up to the main tournament, with the tournament typically lasting two weeks, and includes the finals for the 32 top seeds in the women's draw and the 16 top seeds in the men's draw. As well as providing entertainment for tennis fans worldwide, Wimbledon is also an economic boon for the town of Wimbledon, where the tournament has been held since 1877, and which has been home to the All England Club since the 18th century. The event attracts 300,000 visitors and generates about £1.8 billion in the local economy, making it one of the biggest events in the world.\" To watch the Australian Open in February at Melbourne Park is a pretty big event. The US Open at Flushing Meadows, New York is also a huge deal.",
+            "qae_pairs": [
+                {
+                    "question": "Question: When does the Wimbledon Championships typically take place each year?",
+                    "answer": "late June",
+                    "explanation": "Wimbledon is usually held at The All England Club in London, England, over two weeks in late June and early July. The tournament is considered themother of all tennis tournaments and is one of the biggest events in the world. Each year, it attracts a large number of the worlds top tennis players, both male and female, from all over the world. The tournament has been held since 1877, when the All England Club was founded and has been held every year since. The tournament features singles and doubles competitions in both mens and womens categories, as well as mixed doubles. The week"
+                },
+                {
+                    "question": "When was the first Wimbledon Championships held?",
+                    "answer": "1877",
+                    "explanation": "The first Wimbledon Championships were held in 1877, when the All England Club was founded. The tournament was held over two weeks in late June and early July, and was originally held at the All England Club in Wimbledon, England. The event was founded by the All England Club in 1877, and has been held every year since. The tournament is considered the mother of all tennis tournaments, and is one of the biggest events in the world. Each year, it attracts a large number of the worlds top tennis players, both male and female, from all over the world. The tournament has been held since 187"
+                },
+                {
+                    "question": "Question: What is the duration of the Wimbledon Championships?",
+                    "answer": "two weeks",
+                    "explanation": "The Wimbledon Championships are held over two weeks in late June and early July. The tournament is considered the mother of all tennis tournaments and is one of the biggest events in the world. Each year, it attracts a large number of the worlds top tennis players, both male and female, from all over the world. The tournament has been held since 1877, when the All England Club was founded and has been held every year since. The tournament features singles and doubles competitions in both mens and womens categories, as well as mixed doubles. The weeklong event usually consists of a warm-up week leading up"
+                },
+                {
+                    "question": "Question: What is the location of the Wimbledon Championships?",
+                    "answer": "London",
+                    "explanation": "Wimbledon is held at The All England Club in London, England, over two weeks in late June and early July. The tournament is considered themother of all tennis tournaments and is one of the biggest events in the world. Each year, it attracts a large number of the worlds top tennis players, both male and female, from all over the world. The tournament has been held since 1877, when the All England Club was founded and has been held every year since. The tournament features singles and doubles competitions in both mens and womens categories, as well as mixed doubles. The weeklong"
+                },
+                {
+                    "question": "Question: When does Wimbledon take place each year?",
+                    "answer": "early July",
+                    "explanation": "Wimbledon is usually held at The All England Club in London, England, over two weeks in late June and early July. The tournament is considered themother of all tennis tournaments and is one of the biggest events in the world. Each year, it attracts a large number of the worlds top tennis players, both male and female, from all over the world. The tournament has been held since 1877, when the All England Club was founded and has been held every year since. The tournament features singles and doubles competitions in both mens and womens categories, as well as mixed doubles. The week"
+                }
+            ],
+            "hops": [
+                "Wimbledon Championships",
+                "Wimbledon"
+            ]
+        },
+        "New England Patriots": {
+            "term": "New England Patriots",
+            "passage": "History\nFrom 1960-1970, the New England Patriots were a part-time minor league team in the 3rd tier of the American Football League. The 1970 version of the team was the New England Patriots in the National Football League (NFL) until they merged with the Montreal Expos in 1971. The NFL Patriots were renamed the New England Patriots in 1975 and have since won two Super Bowls.",
+            "qae_pairs": [
+                {
+                    "question": "What year did the New England Patriots join the NFL?",
+                    "answer": "1960-1970",
+                    "explanation": "1960-1970"
+                },
+                {
+                    "question": "Who were the New England Patriots before they became a part of the NFL?",
+                    "answer": "The NFL Patriots",
+                    "explanation": "The New England Patriots were a part-time minor league team in the 3rd tier of the American Football League from 1960-1970. The 1970 version of the team was the New England Patriots in the National Football League (NFL) until they merged with the Montreal Expos in 1971. The NFL Patriots were renamed the New England Patriots in 1975 and have since won two Super Bowls."
+                },
+                {
+                    "question": "When did the New England Patriots join the NFL?",
+                    "answer": "1975",
+                    "explanation": "1975 was the year the New England Patriots joined the NFL."
+                }
+            ],
+            "hops": [
+                "Super Bowl",
+                "New England Patriots"
+            ]
+        },
+        "the American Football Conference": {
+            "term": "the American Football Conference",
+            "passage": "The AFC (American Football Conference) is one of the four major professional football leagues in North America. It is the most popular of the three modern American sports leagues. It competes against the National Football League (NFL) and the National Hockey League (NHL). There are currently 32 teams in the AFC and each of them play 16 regular season games. The AFC has been around since 1970 when the NFL merged with the AFL. The team in the AFC that has won the most Super Bowls is the New England Patriots, who have won five Super Bowls (Super Bowl XLIX, Super Bowl LI, Super Bowl LII, Super Bowl LI, and Super Bowl LII). The AFC Championship Game is played at the end of the regular season and is played between two teams from the AFC and two teams from the NFC (National Football Conference). The NFL's most popular logo\nThe logo of the NFL, which was introduced in 1929, has changed only twice over the years. Its first logo was based on a typeface of a typeface of the newspaper. The current logo uses an \"NFL\" typeface.",
+            "qae_pairs": [
+                {
+                    "question": "What team has won the most Super Bowls in the American Football Conference?",
+                    "answer": "the New England Patriots",
+                    "explanation": "The New England Patriots are a professional American football team based in Foxborough, Massachusetts. They have won the most Super Bowls in the American Football Conference. The team has won 5 Super Bowls, including Super Bowl XLIX, Super Bowl LI, Super Bowl LII, and Super Bowl LI. The Patriots have also won the Super Bowl in 2001, 2003, and 2004. The team has been in the Super Bowl 9 times. Question: What is the logo of the NFL? Answer: The logo of the NFL is a shield with a football inside. Explanation:"
+                },
+                {
+                    "question": "When did the American Football Conference begin?",
+                    "answer": "1970",
+                    "explanation": "- The American Football Conference was founded in 1970. - The merger of the NFL and the AFL was completed in 1970. - The NFL and the AFL merged in 1960. - The NFL and the AFL merged in 1960. - The NFL and the AFL merged in 1960. - The NFL and the AFL merged in 1960. - The NFL and the AFL merged in 1960. - The NFL and the AFL merged in 1960. - The NFL and the AFL merged in 1960. - The NFL and the AFL merged"
+                },
+                {
+                    "question": "\nQuestion: What other professional football league competes against the American Football Conference in North America?",
+                    "answer": "the National Hockey League",
+                    "explanation": "The National Hockey League (NHL) is the most popular professional hockey league in North America. It competes against the American Football Conference (AFC) and the National Hockey League (NHL) in the United States. The NHL has 32 teams and each of them play 82 regular season games. The NHL has been around since 1917 when it was founded. The NHL has won 13 Stanley Cups (Stanley Cup) since its inception. The most popular logo of the NHL is the logo of the Montreal Canadiens."
+                },
+                {
+                    "question": "\nWhat is the American Football Conference championship game called?",
+                    "answer": "The AFC Championship Game",
+                    "explanation": "The American Football Conference (AFC) is one of the four major professional football leagues in North America. It is the most popular of the three modern American sports leagues. It competes against the National Football League (NFL) and the National Hockey League (NHL). The AFC Championship Game is played at the end of the regular season and is played between two teams from the AFC and two teams from the NFC (National Football Conference). The NFLs most popular logo is the logo of the NFL, which was introduced in 1929. Its first logo was based on a typeface of a typeface of"
+                }
+            ],
+            "hops": [
+                "Super Bowl",
+                "the American Football Conference"
+            ]
+        },
+        "AFC West": {
+            "term": "AFC West",
+            "passage": "\"The AFC West is a division of the National Football League (NFL). Since 2001, the division is headed by the Los Angeles Chargers. The division consists of five teams, each of which is located in the western part of the United States, with the exception of the Oakland Raiders and San Diego Chargers, who are located on the Pacific coast. This division is one of the three NFL divisions on the west coast. The other two divisions are the NFC West, consisting of the Arizona Cardinals, San Francisco 49ers, and Seattle Seahawks, and the AFC East, consisting of the Baltimore Ravens, Buffalo Bills, and New England Patriots. The current NFL season is scheduled to end in late January 2009. The NFL's rules state that the NFC West division and AFC East division will play the other division's \"conference games\" during the seasons, while other divisions within each division will play only against one another. However, the rules state that if two teams in the same division are close enough in the standings, the head-to-head record will be used to determine their position in the playoffs. The AFC West is home to the San Diego Chargers and the Los Angeles Chargers. The other three teams, Oakland Raiders, San Francisco 49ers, and Seattle Seahawks, are located in the western part of the United States. The AFC West will also feature the Cardinals, Broncos, and Seahawks in their division for this season.",
+            "qae_pairs": [
+                {
+                    "question": "\nQuestion: Which team holds the top spot in the AFC West for the current NFL season?",
+                    "answer": "San Diego Chargers",
+                    "explanation": "The San Diego Chargers are the current AFC West champions for the 2008-2009 NFL season. They won the AFC West division with a record of 12-4, which was the best record in the division. The Chargers also won the AFC West in 2007, 2008, and 2009. The Chargers are the only team in the AFC West to have won the Super Bowl, having won the Super Bowl in 2008. The Chargers are the only team in the AFC West to have won the Super Bowl."
+                },
+                {
+                    "question": "What year did the AFC West division begin in the NFL?",
+                    "answer": "2001",
+                    "explanation": "The AFC West division was created in 2001, when the NFL expanded to 32 teams. The division consists of five teams, each of which is located in the western part of the United States, with the exception of the Oakland Raiders and San Diego Chargers, who are located on the Pacific coast."
+                },
+                {
+                    "question": "\nWhich two teams in the AFC West are located on the west coast?",
+                    "answer": "San Francisco",
+                    "explanation": "The two teams located on the west coast of the AFC West are the San Francisco 49ers and the Seattle Seahawks."
+                },
+                {
+                    "question": "Question: Which team in the AFC West division will be participating in the upcoming Super Bowl?",
+                    "answer": "the Los Angeles Chargers",
+                    "explanation": "The Super Bowl is the annual championship game of the National Football League (NFL). The game is scheduled to be played on February 2, 2009, at the Super Bowl XLIII stadium in Tampa, Florida. The AFC West division is represented by the Los Angeles Chargers, who will be competing against the NFC East division champion New York Giants. The Chargers are the only team in the AFC West division to have won a Super Bowl, having won the Super Bowl in 2008. The Chargers will be looking to repeat their success from last year, while the Giants will be looking to win their second Super Bowl in three years"
+                }
+            ],
+            "hops": [
+                "Super Bowl",
+                "AFC West"
+            ]
+        },
+        "CBS": {
+            "term": "CBS",
+            "passage": "\"CBS was one of the first networks to be involved in televising major sporting events. In 1976, CBS televised a game between the New York Mets and the Atlanta Braves, a 1969 event that is credited with leading to a surge in popularity in the game of baseball. CBS, then owned by Viacom, has become synonymous with NFL football coverage in the United States. The network has also become a major player in the industry of network television for entertainment news.\" I'm interested in the history of CBS, and how it's become so involved in sports (which, to me, is almost as big a business as TV). If I'm understanding correctly, it was basically the beginning of broadcast TV.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the first major sporting event that CBS televised?",
+                    "answer": "the New York Mets",
+                    "explanation": "CBS was one of the first networks to be involved in televising major sporting events. In 1976, CBS televised a game between the New York Mets and the Atlanta Braves, a 1969 event that is credited with leading to a surge in popularity in the game of baseball."
+                },
+                {
+                    "question": "When did CBS first begin broadcasting major sporting events?",
+                    "answer": "1969",
+                    "explanation": "CBS was one of the first networks to be involved in televising major sporting events. In 1969, CBS televised a game between the New York Mets and the Atlanta Braves, a 1969 event that is credited with leading to a surge in popularity in the game of baseball. CBS, then owned by Viacom, has become synonymous with NFL football coverage in the United States. The network has also become a major player in the industry of network television for entertainment news."
+                },
+                {
+                    "question": "What is the current corporate structure of CBS, and how has it evolved over time?",
+                    "answer": "Viacom",
+                    "explanation": "Viacom is a media conglomerate that owns a number of networks, including CBS, MTV, and BET. It was founded in 1972 by former Paramount Pictures executive and former CBS executive officer, Sumner Redstone. In 1984, Redstone sold his shares in CBS to Viacom, which became the parent company of the network. In 2005, Viacom was split into two separate companies, with CBS being spun off as a separate company. In 2006, Viacom was acquired by the current parent company, CBS Corporation, which also owns Paramount Pictures. The company has since been"
+                }
+            ],
+            "hops": [
+                "Super Bowl",
+                "CBS"
+            ]
+        },
+        "New Orleans": {
+            "term": "New Orleans",
+            "passage": "\"New Orleans, population 455,000 (as of 2000), is the City of New Orleans. It is the seat of Orleans Parish, Louisiana. It is located in the Mississippi River delta and is part of the New Orleans–Metairie–Kenner, Louisiana Metropolitan Statistical Area.\" The New Orleans' Public Library was founded in 1731. The library has a collection of around 4 million books and 3 million documents and photographs. They have a database of genealogy resources. I was excited to learn that they also have a lot of records from the War of 1812 (American Revolution) at the library. I will definitely be going back to explore all the records I can. I have a feeling I'll find many records from when I was living in Montreal, Quebec.",
+            "qae_pairs": [
+                {
+                    "question": "What year was New Orleans founded?",
+                    "answer": "1731",
+                    "explanation": "New Orleans was founded in 1731 by French colonists. It was originally named La Nouvelle-Orleans (New Orleans) in 1718 by French explorer Jean-Baptiste Le Moyne, Sieur dIberville. The city was founded on the Mississippi River delta and is part of the New Orleans–Metairie–Kenner, Louisiana Metropolitan Statistical Area."
+                }
+            ],
+            "hops": [
+                "Super Bowl",
+                "New Orleans"
+            ]
+        },
+        "Gillette Stadium": {
+            "term": "Gillette Stadium",
+            "passage": "Gillette Stadium is a privately-owned stadium in Foxborough, Massachusetts, the corporate headquarters of Gillette Company. The stadium opened in 2000 and currently houses the New England Patriots of the National Football League, as well as concerts and other events. The stadium is the home of the Boston Red Sox of Major League Baseball and the Worcester Sharks of the AHL. The stadium is located near Route 123, at the intersection of Route 128, and is located in Gillette Park, with a nearby reservoir. The stadium is the largest privately-owned stadium in the United States and second-largest in the world, with a seating capacity of 67,415.",
+            "qae_pairs": [
+                {
+                    "question": "Who is the owner of Gillette Stadium?",
+                    "answer": "Gillette Company",
+                    "explanation": "Gillette Stadium is owned by Gillette Company, a privately-owned company based in Boston, Massachusetts. The company is best known for its products such as razors, blades, and other personal care items. Gillette Company was founded in 1935 by William Gillette, who was a former actor and inventor. The company has since expanded its product line to include other items such as deodorants, toothpaste, and other personal care items."
+                },
+                {
+                    "question": "\nWhat sports event takes place at Gillette Stadium?\nThe Gillette Stadium is home to the New England Patriots of the National Football League, as well as concerts and other events.",
+                    "answer": "Foxborough",
+                    "explanation": "Gillette Stadium is located in Foxborough, Massachusetts, and is the home of the New England Patriots of the National Football League. The stadium is the largest privately-owned stadium in the United States and second-largest in the world, with a seating capacity of 67,415. It is also used for concerts and other events."
+                },
+                {
+                    "question": "What team plays at Gillette Stadium?",
+                    "answer": "the New England Patriots",
+                    "explanation": "- Gillette Stadium is the home of the New England Patriots, an American professional football team based in Foxborough, Massachusetts. The team plays in the NFL, and has been in existence since 1960. The team has won 13 Super Bowls, the most of any NFL team."
+                },
+                {
+                    "question": "When was Gillette Stadium built?",
+                    "answer": "2000",
+                    "explanation": "- Gillette Stadium was built in 2000."
+                },
+                {
+                    "question": "\nWhere is the Gillette Stadium located in Massachusetts?",
+                    "answer": "Massachusetts",
+                    "explanation": "Gillette Stadium is located in Foxborough, Massachusetts."
+                },
+                {
+                    "question": "Question: Which major league baseball team plays at Gillette Stadium?",
+                    "answer": "the Boston Red Sox",
+                    "explanation": "Gillette Stadium is the home of the Boston Red Sox, a Major League Baseball team. The stadium was built in 2000 and is located in Foxborough, Massachusetts."
+                }
+            ],
+            "hops": [
+                "Super Bowl",
+                "Gillette Stadium"
+            ]
+        },
+        "Louisiana": {
+            "term": "Louisiana",
+            "passage": "\"Louisiana is a state in the United States of America. As of 2012, the population is 1,197,000 (up from 93,000 in 1810) with the most populous city being New Orleans. Louisiana is the only state in the contiguous United States that lies below sea level, and the second most populous state in the country by population after California. Its official language is English, with French as the second official language. Louisiana is the only state to maintain a constitutional separation of powers.\" That's interesting. In 1810 there were approximately 91,000 people in Louisiana. That's not so many now. There were 1,000 cities in Louisiana in 1810. There are 504. What has happened to the rest? The number of cities is decreasing rapidly, which is probably a good thing. In 1810 there were a lot of small towns and cities. In the 21st century most of the smaller ones are disappearing and only the larger ones are left. The cities are a major thing of the 18th and 19th centuries, while the ones that were here before were pretty small and insignificant. The 1810 population of Louisiana is 93,000 while the 2020 population is 1,197,000. That's quite a difference.",
+            "qae_pairs": [
+                {
+                    "question": "Which country is Louisiana in?",
+                    "answer": "the United States of America",
+                    "explanation": "Louisiana is a state in the United States of America."
+                },
+                {
+                    "question": "What is the capital of Louisiana?",
+                    "answer": "New Orleans",
+                    "explanation": "New Orleans is the capital of Louisiana. It is located on the Mississippi River and is the largest city in the state. It is the 13th most populous city in the United States. The city is home to the New Orleans Saints of the National Football League and the New Orleans Pelicans of the National Basketball Association. The city is home to the New Orleans Museum of Art and the New Orleans City Park. The city is home to the New Orleans Jazz Festival, which is the largest free jazz festival in the world. The city is home to the New Orleans Film Festival, which is the largest film festival in the world. The"
+                }
+            ],
+            "hops": [
+                "Super Bowl",
+                "Louisiana"
+            ]
+        },
+        "LeBron": {
+            "term": "LeBron",
+            "passage": "“In a recent interview, Bryant praised James as a great player, “I think LeBron is going to be the toughest guy for us to beat... I think he’s going to be tough in this series,” Bryant said. “We have a lot of respect for LeBron. I don’t know if that (or) has been said, but I know our guys really respect him and the Lakers. He’s definitely a great player and we’ve got our hands full.”\nThat is a great statement, even when you’re the greatest player in the world. I am not saying that LeBron has any weaknesses or is not the greatest player in the world, but when the Lakers are on their game, they have to be a little wary of LeBron because he will play the part of an #1 guy and make his team that much more dangerous to their opponents. I don’t think that it will be too difficult for the Lakers to beat LeBron in the conference finals, but I am not one to underestimate any great player, even when LeBron has to take over for 10-15 minutes at a time to get the other players some rest. “It’s the type of thing we can’t do.",
+            "qae_pairs": [
+                {
+                    "question": "\nWhat do you think about LeBron James in the 2007 NBA playoffs?",
+                    "answer": "James",
+                    "explanation": "LeBron James is a great player. He has been a great player for the past 4 years. He has been a great player for the past 4 years. He has been a great player for the past 4 years. He has been a great player for the past 4 years. He has been a great player for the past 4 years. He has been a great player for the past 4 years. He has been a great player for the past 4 years. He has been a great player for the past 4 years. He has been a great player for the past 4 years. He has"
+                },
+                {
+                    "question": "\nHow will Kobe Bryant and LeBron James' Lakers match up against the top 3 teams in the Eastern Conference?",
+                    "answer": "Bryant",
+                    "explanation": "The Lakers are the top team in the Western Conference, and they have the best record in the NBA. They have the best player in the world, Kobe Bryant, who is averaging 27.2 points per game. The Lakers have a great supporting cast, including Shaquille O’Neal, Pau Gasol, and Derek Fisher. They have a great coach in Phil Jackson, who has led the team to 13 championships. The Lakers have a great chance of winning the championship this year. The Eastern Conference is a little more difficult. The top 3 teams in the conference are the Celtics, Cavaliers, and Magic."
+                }
+            ],
+            "hops": [
+                "NBA Finals",
+                "LeBron"
+            ]
+        },
+        "the National Basketball Association": {
+            "term": "the National Basketball Association",
+            "passage": "The National Basketball Association (NBA) is a professional basketball league based in North America. The NBA comprises 30 teams, with 15 teams in the United States and 15 teams in Canada. It is considered the major professional basketball league in the world. The NBA has established a number of international franchises over the years, with teams based in countries like China, Turkey, Germany, and Spain. The NBA was founded on June 17, 1949. Since then, the league has come a long way, and it has made many adjustments and changes to its rules and regulations. It is also the most popular professional sports league in the world, with millions of fans across the globe. The NBA is also one of the most financially successful sports leagues in the world, with billions of dollars being made each year. The NBA has grown rapidly since its inception in 1949, and it has become an entertainment giant in the world of professional sports. It is considered one of the best basketball leagues in the world, and it is loved by millions of fans around the globe.",
+            "qae_pairs": [
+                {
+                    "question": "What is the National Basketball Association?",
+                    "answer": "the United States",
+                    "explanation": "The National Basketball Association (NBA) is a professional basketball league based in North America. It comprises 30 teams, with 15 teams in the United States and 15 teams in Canada. It is considered the major professional basketball league in the world. The NBA has established a number of international franchises over the years, with teams based in countries like China, Turkey, Germany, and Spain. The NBA was founded on June 17, 1949. Since then, the league has come a long way, and it has made many adjustments and changes to its rules and regulations. It is also the most popular professional sports league in"
+                },
+                {
+                    "question": "Which country is the National Basketball Association based in?",
+                    "answer": "Canada",
+                    "explanation": "The National Basketball Association (NBA) is based in Canada. The NBA was founded on June 17, 1949, and it is headquartered in New York City. The NBA is considered one of the most popular professional basketball leagues in the world, and it is loved by millions of fans across the globe. The NBA has established a number of international franchises over the years, with teams based in countries like China, Turkey, Germany, and Spain. The NBA has come a long way since its inception in 1949, and it has made many adjustments and changes to its rules and regulations. It is also the most financially successful"
+                }
+            ],
+            "hops": [
+                "NBA Finals",
+                "the National Basketball Association"
+            ]
+        },
+        "the Union of European Football Associations": {
+            "term": "the Union of European Football Associations",
+            "passage": "\"The Union of European Football Associations (UEFA) is the body that represents the national football associations of Europe. Founded in 1954, it is responsible for the running of European football competitions, including the UEFA Champions League, UEFA Europa League and UEFA Super League. The Union currently comprises 55 national associations, which together make up the UEFA member associations. The UEFA also organises many events and tournaments such as the UEFA European Championship, UEFA Women's European Championship and UEFA U19 European Championship. It also organises many other events such as UEFA Super Cup and UEFA Champions League final in which clubs from all over the world participate. Its headquarters are located in Nyon, Switzerland.\" In the Union of European Football Associations' website you can see information on the UEFA Super League (UEL), its schedule, and some of the participating clubs:\nThe \"UEFA Champions League\" (or the \"Champions League\" in English) is a professional men's club football tournament established and organised by UEFA, the European football governing body. It is the most prestigious club football competition in Europe, and the winners of the tournament qualify for the following year's UEFA Super Cup. There are 32 teams competing in the Champions League every year. UEFA Europa League is a professional men's football tournament established and organised by UEFA, the European football governing body. It is the second level of the European club competitions behind the Champions League.",
+            "qae_pairs": [
+                {
+                    "question": "\nIn which professional men's club football tournament is the Union of European Football Associations (UEFA) present, and which is the name of the event they organise?",
+                    "answer": "UEFA Super League",
+                    "explanation": "The Union of European Football Associations (UEFA) is the body that represents the national football associations of Europe. Founded in 1954, it is responsible for the running of European football competitions, including the UEFA Champions League, UEFA Europa League and UEFA Super League. The UEFA Super League is a professional mens club football tournament established and organised by UEFA, the European football governing body. It is the second level of the European club competitions behind the Champions League."
+                },
+                {
+                    "question": "What is the headquarters of the Union of European Football Associations?",
+                    "answer": "Nyon",
+                    "explanation": "The headquarters of the Union of European Football Associations is located in Nyon, Switzerland. It is the headquarters of the UEFA, the European football governing body. The Union of European Football Associations (UEFA) is the body that represents the national football associations of Europe. Founded in 1954, it is responsible for the running of European football competitions, including the UEFA Champions League, UEFA Europa League and UEFA Super League. The Union currently comprises 55 national associations, which together make up the UEFA member associations. The UEFA also organises many events and tournaments such as the UEFA European Championship, UEFA Womens European Championship and UEFA"
+                },
+                {
+                    "question": "When was the Union of European Football Associations founded?",
+                    "answer": "1954",
+                    "explanation": "The Union of European Football Associations (UEFA) is the body that represents the national football associations of Europe. Founded in 1954, it is responsible for the running of European football competitions, including the UEFA Champions League, UEFA Europa League and UEFA Super League. The Union currently comprises 55 national associations, which together make up the UEFA member associations. The UEFA also organises many events and tournaments such as the UEFA European Championship, UEFA Womens European Championship and UEFA U19 European Championship. It also organises many other events such as UEFA Super Cup and UEFA Champions League final in which clubs from all over the world participate"
+                },
+                {
+                    "question": "Which country is the headquarters of the Union of European Football Associations?",
+                    "answer": "Switzerland",
+                    "explanation": "The Union of European Football Associations is headquartered in Nyon, Switzerland."
+                }
+            ],
+            "hops": [
+                "UEFA Champions League",
+                "the Union of European Football Associations"
+            ]
+        },
+        "Roger Federer": {
+            "term": "Roger Federer",
+            "passage": "“For many years Federer held the record for the most consecutive weeks spent in the ATP Top 10, reaching that number in a record 310 weeks. This was equalled only by Rafael Nadal and Pete Sampras. Federer’s first win on the tour came at the age of 16 and he has won the event 10 times since. He has the most ATP wins of any male player in the Open Era. In 2004, he became the first male player to hold the top ranking at the age of 24. Federer has reached at least one ATP final in all but one season. He has competed in at least one Grand Slam event in every year since 2004.”\nThis is the kind of guy you see that has a great deal of control of their lives. They can set goals for themselves at the age of three, and work towards them. And in Federer’s case, you even hear that he’s worked so hard to get to the top. It’s a great read for anyone interested in tennis. But what about other things in the world that are a little more obscure? I mean, you can tell a lot about the person by the things they have, or the things that have happened to them that no one knows about. There are a few things in Federer’s life that I think have a lot of meaning. The first thing that comes to mind is the way he lost.",
+            "qae_pairs": [
+                {
+                    "question": "\nWhich tennis player has been ranked World No. 1 in the Open Era more times than any other male player? Answer: Roger Federer.",
+                    "answer": "the Open Era",
+                    "explanation": "The Open Era began in 1968, and since then, no male player has been ranked World No. 1 more times than Federer. The record for the most consecutive weeks spent in the ATP Top 10 is held by Federer, who held the record for 310 weeks. Question:  Which tennis player has the most ATP wins of any male player in the Open Era? Answer: Roger Federer. Answer: the Open Era Explanation:  The Open Era began in 1968, and since then, no male player has been ranked World No. 1 more times than Federer. The record"
+                },
+                {
+                    "question": "What is the record for the most consecutive weeks spent in the ATP Top 10 by Roger Federer?",
+                    "answer": "310 weeks",
+                    "explanation": "310 weeks is the record for the most consecutive weeks spent in the ATP Top 10 by Roger Federer. He has been in the Top 10 for 310 weeks, which is a record that has only been equalled by Rafael Nadal and Pete Sampras."
+                }
+            ],
+            "hops": [
+                "French Open",
+                "Roger Federer"
+            ]
+        },
+        "Nathalie Dechy": {
+            "term": "Nathalie Dechy",
+            "passage": "Nathalie Dechy (née Nathalie Simon, 6 May 1977, Le Havre, France) is a former professional tennis player. Dechy won the Australian Open mixed doubles title in 2001, and at the year-end event, the Luxembourg Tennis Open, in both singles and doubles, on a single occasion. At the 2004 Australian Open, she defeated the second seed, Jennifer Capriati, in the second round. In 2005, Dechy reached the quarter-finals at Wimbledon, where she lost to Amélie Mauresmo. She also played in women's singles at the French Open, where she lost to Kim Clijsters. Dechy is the older sister of professional tennis player Xavier Dechy, and married to French tennis player JérÃ´me dea. She is currently the coach of French tennis player AlizÃ© Cornet.",
+            "qae_pairs": [
+                {
+                    "question": "Who is the older sister of Nathalie Dechy?",
+                    "answer": "Xavier Dechy",
+                    "explanation": "Nathalie Dechy is the older sister of Xavier Dechy."
+                },
+                {
+                    "question": "What year did Nathalie Dechy win the Australian Open mixed doubles title?",
+                    "answer": "2001",
+                    "explanation": "2001 was the year that Nathalie Dechy won the Australian Open mixed doubles title."
+                },
+                {
+                    "question": "\nWhich French tennis player, known for her achievement in both women's singles and mixed doubles at the French Open, was the elder sister of Nathalie Dechy?",
+                    "answer": "Amélie Mauresmo",
+                    "explanation": "Amélie Mauresmo is a former professional tennis player from France, who has won numerous titles in both womens singles and mixed doubles. She has won the French Open mixed doubles title in 2001, and at the year-end event, the Luxembourg Tennis Open, in both singles and doubles, on a single occasion."
+                }
+            ],
+            "hops": [
+                "French Open",
+                "Nathalie Dechy"
+            ]
+        },
+        "Melbourne": {
+            "term": "Melbourne",
+            "passage": "\"Melbourne is the capital of the state of Victoria, Australia, and its most populous city, with a population of 4,557,487. It is situated on the banks of the Yarra River and is a gateway to Australia for the United Kingdom and the Middle East.\" The other day, I was in a shop, a bookshop this time, and I found a card with that name on it. It had a map on it with a number of green arrows pointing at it on it, and then a lot of other numbers on it, too. I had a feeling that these had something to do with where I live. I went home and put a number on the map which I knew would take me to a library (it's a library, so there is no way it could be a number that tells you where the library is). I walked in and asked a woman who worked there, who told me there was no library there. So I went home again, feeling more confused than I did when I first walked into the shop. So what did I do next? I put that number in the map book, so that I would remember to ask the woman for the library's whereabouts later, and just look for it myself. Then the most surprising thing happened. The woman pointed out the area that I was looking for, the area that had been marked with the green arrows on the map.",
+            "qae_pairs": [
+                {
+                    "question": "Question: What is the name of the river that runs through the city of Melbourne?",
+                    "answer": "the Yarra River",
+                    "explanation": "The Yarra River is a large river that flows through the city of Melbourne, Victoria, Australia. It is the main river in the area and is part of the Yarra River catchment. It is the main source of water supply for the city, and is also used for recreation. The Yarra River is 4,000 kilometres (2,500 miles) long, and is the largest river in Victoria. It is also the main river in the Yarra Valley, a wine-growing region."
+                },
+                {
+                    "question": "\nWhat is the capital of the Middle East country, Melbourne?",
+                    "answer": "the Middle East",
+                    "explanation": "The Middle East is a region in the world that includes countries such as Iran, Iraq, Kuwait, Lebanon, Libya, Saudi Arabia, Syria, and Yemen. The capital of the Middle East country is Baghdad, Iraq."
+                }
+            ],
+            "hops": [
+                "Australian Open",
+                "Melbourne"
+            ]
+        },
+        "Grand Slams": {
+            "term": "Grand Slams",
+            "passage": "In tennis, a grand slam is a tournament involving the world's four major championships. Grand Slam tournaments are among the most prestigious events in tennis and are typically seen as the ultimate tests of elite players. The four grand slams are:\n- Wimbledon, held in late summer on grass courts\n- The French Open, held in early summer on red clay courts in Paris\n- The Australian Open, held in late January/early February on hard-court tennis in Melbourne\n- The U.S. Open, held in late August on hard-court tennis in New York City. The big four grand slams (Wimbledon, Australian Open, U.S. Open, and French Open) take place on specific days or weeks of the year in a four-week period. This year's Australian Open takes place 17-23 January in 2016. You'll notice from the passage above that the French Open and Wimbledon usually happen in late May/June, while the U.S. Open takes place in late August/September. All of the grand slams, including the most prestigious ones, are scheduled on specific days of the year. For example, the Australian Open takes place in late January or early February, while Wimbledon is usually late June. Wimbledon is also usually a weekend event, while the other grand slams generally take place during the week.",
+            "qae_pairs": [
+                {
+                    "question": "\nWhat are the four major grand slams in tennis held during late June or early July?",
+                    "answer": "late June",
+                    "explanation": "The four major grand slams in tennis are held in late June or early July. The Australian Open is usually held in late January or early February, while Wimbledon is usually late June. The French Open is usually held in late May or early June, while the U.S. Open is usually late August or early September."
+                },
+                {
+                    "question": "What are the four grand slams and when do they typically take place?",
+                    "answer": "late summer",
+                    "explanation": "The four grand slams are: - Wimbledon, held in late summer on grass courts - The French Open, held in early summer on red clay courts in Paris - The Australian Open, held in late January/early February on hard-court tennis in Melbourne - The U.S. Open, held in late August/early September on hard-court tennis in New York City. The big four grand slams (Wimbledon, Australian Open, U.S. Open, and French Open) take place on specific days or weeks of the year in a four-week period. This years Australian"
+                },
+                {
+                    "question": "\nQuestion: 'Which of the four grand slams is held in New York City?'",
+                    "answer": "New York City",
+                    "explanation": "The U.S. Open is the only grand slam tournament that is held in New York City. The other three grand slams are held in specific locations each year. Wimbledon is held in London, England, the French Open is held in Paris, France, and the Australian Open is held in Melbourne, Australia."
+                },
+                {
+                    "question": "\nQuestion: Which of the following grand slams is held in Paris?",
+                    "answer": "Paris",
+                    "explanation": "The French Open is held in Paris, France, on red clay courts. It is usually held in late May or early June."
+                }
+            ],
+            "hops": [
+                "Australian Open",
+                "Grand Slams"
+            ]
+        },
+        "the French Open": {
+            "term": "the French Open",
+            "passage": "\"The French Open is a professional tennis tournament that has been played in Paris since 1960. It is played on red clay courts in May or June, and is considered the second largest tennis tournament in the world, after the Australian Open.\" \"The French Open has 64 male and 32 female singles (32 of each) fields and 16 seeds per quarter in the draw. As with the other Grand Slams, the winners of each gender are seeded according to their current rank or past history, and are usually seeded either in the first, second or third position.\" I am really excited about going to the French Open this year. I have a friend who can get us tickets but it is impossible for us to get tickets for more than one day. The French Open has been a highlight of my tennis year for the past 4 years. I have never been to France so this is a special treat for me. I can hardly wait! My friend has tickets for a specific day and we will see the play after the French Open on the last day. It should be really exciting. Can you believe this is the 100th day of the summer? I have been praying for a little rain so I can try my hand at a little swimming. The last few weeks have been pretty hot here and I am getting a bit parched. We have been watching the French Open on the computer with our friend and it has been so fun.",
+            "qae_pairs": [
+                {
+                    "question": "What is the French Open?",
+                    "answer": "Grand Slams",
+                    "explanation": "The French Open is a professional tennis tournament that has been played in Paris since 1960. It is played on red clay courts in May or June, and is considered the second largest tennis tournament in the world, after the Australian Open. The French Open has 64 male and 32 female singles (32 of each) fields and 16 seeds per quarter in the draw. As with the other Grand Slams, the winners of each gender are seeded according to their current rank or past history, and are usually seeded either in the first, second or third position."
+                },
+                {
+                    "question": "What year was the French Open first held?",
+                    "answer": "1960",
+                    "explanation": "The French Open is a professional tennis tournament that has been played in Paris since 1960. It is played on red clay courts in May or June, and is considered the second largest tennis tournament in the world, after the Australian Open."
+                },
+                {
+                    "question": "Question: What is the name of the city where the French Open is held?",
+                    "answer": "Paris",
+                    "explanation": "The French Open is a professional tennis tournament that has been played in Paris since 1960. It is played on red clay courts in May or June, and is considered the second largest tennis tournament in the world, after the Australian Open."
+                }
+            ],
+            "hops": [
+                "Australian Open",
+                "the French Open"
+            ]
+        },
+        "Valhalla Country Club": {
+            "term": "Valhalla Country Club",
+            "passage": "\"The Valhalla Country Club is a private golf club located in Valhalla, New York. The club was founded in 1926 by former New York City Police Commissioner Robert W. McAlpin as the \"Ranch on the Hudson\". The Valhalla Country Club is located on an original farm established in 1794. The clubhouse, the \"Grand Pavilion\", was constructed in 1882. The Valhalla Country Club is one of the country clubs listed in the PGA of America and the New York State Federation. As of 2006, the club has two golf courses, the Robert Trent Jones designed East and West courses. Both of the courses were designed by former Chief U.S. Golf Club Professional of the PGA of America, Billy Albee.",
+            "qae_pairs": [
+                {
+                    "question": "When was the Valhalla Country Club founded?",
+                    "answer": "1926",
+                    "explanation": "The Valhalla Country Club was founded in 1926 by former New York City Police Commissioner Robert W. McAlpin as the Ranch on the Hudson."
+                },
+                {
+                    "question": "\nQuestion: Who designed the golf courses at Valhalla Country Club?",
+                    "answer": "the Robert Trent Jones",
+                    "explanation": "The Valhalla Country Club is a private golf club located in Valhalla, New York. The club was founded in 1926 by former New York City Police Commissioner Robert W. McAlpin as the Ranch on the Hudson. The Valhalla Country Club is located on an original farm established in 1794. The clubhouse, the Grand Pavilion, was constructed in 1882. The Valhalla Country Club is one of the country clubs listed in the PGA of America and the New York State Federation. As of 2006, the club has two golf courses, the Robert Trent Jones"
+                },
+                {
+                    "question": "Who founded the Valhalla Country Club?",
+                    "answer": "Robert W. McAlpin",
+                    "explanation": "Robert W. McAlpin founded the Valhalla Country Club in 1926. He was a former New York City Police Commissioner and a former golf professional. He designed the original golf courses for the club and was the first to introduce the concept of a private golf club in the United States."
+                }
+            ],
+            "hops": [
+                "Ryder Cup",
+                "Valhalla Country Club"
+            ]
+        },
+        "Kentucky": {
+            "term": "Kentucky",
+            "passage": "\"Kentucky's state nickname is the Bluegrass State. Kentucky's motto is the Statewide Kentucky Information Center website. The state is home to 11 public colleges and universities and 30 private colleges and universities. The state is known for its \"hillbilly\" culture, and for many years has been a stronghold of the Democratic Party. A statue of Abraham Lincoln is the centerpiece of the Lincoln Memorial in Washington, D.C., a city that is part of the Bluegrass State. Kentucky has one of the country's leading equestrian events, the Rolex Kentucky Three-Day Event, held annually at the Kentucky Horse Park in Lexington.\" Here's some more information about the Kentucky Derby, a very famous event held every year in Louisville, Kentucky. This event is known as the most exciting two minutes in sports, or \"Run for the Roses.\" And here's an overview of Kentucky's economic profile, or \"Bluegrass State Business.\" I hope that you have been able to find a lot of information on the Kentucky.net website.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the political party that currently holds power in Kentucky?",
+                    "answer": "the Democratic Party",
+                    "explanation": "Kentucky is a state in the southeastern United States. It is the 15th most populous state in the country, with an estimated population of 1,256,000 as of 2000. Kentucky is the birthplace of the Democratic Party, which was founded in 1792. The party has held power in the state for 127 years, and currently holds a majority of seats in the state legislature. The Democratic Party is the states main political party, and is the states main political party. The party is the states main political party, and is the states main political party."
+                },
+                {
+                    "question": "What is the name of the city in Kentucky that is home to the annual Rolex Kentucky Three-Day Event?",
+                    "answer": "Louisville",
+                    "explanation": "The city of Louisville is located in the state of Kentucky. It is the largest city in the state, and is home to the annual Rolex Kentucky Three-Day Event, which is a major equestrian event held annually at the Kentucky Horse Park in Lexington. The city is also home to the Louisville Slugger Field, home to the Louisville Bats, a professional baseball team. The city is home to the Louisville Zoo, the Louisville Science Center, and the Louisville Slugger Museum. The city is home to the University of Louisville, and is home to the Kentucky Derby, which is the most famous event in the state. The"
+                },
+                {
+                    "question": "What is the name of the famous equestrian event held annually in Kentucky?",
+                    "answer": "Three-Day Event",
+                    "explanation": "The Rolex Kentucky Three-Day Event is a world-renowned equestrian event held annually at the Kentucky Horse Park in Lexington, Kentucky. It is one of the most prestigious equestrian events in the world, and is the largest event of its kind in North America. The event features three days of competition in dressage, jumping, and eventing, and is attended by thousands of spectators from around the world. The event is a major economic boost for the state, and is estimated to generate over $100 million in economic activity each year. The event is also a major source of jobs in the state, with over 1,"
+                },
+                {
+                    "question": "What is the motto of the state of Kentucky?",
+                    "answer": "the Bluegrass State",
+                    "explanation": "Kentuckys motto is the Statewide Kentucky Information Center website. The state is home to 11 public colleges and universities and 30 private colleges and universities. The state is known for its hillbilly culture, and for many years has been a stronghold of the Democratic Party. A statue of Abraham Lincoln is the centerpiece of the Lincoln Memorial in Washington, D.C., a city that is part of the Bluegrass State. Kentucky has one of the countrys leading equestrian events, the Rolex Kentucky Three-Day Event, held annually at the Kentucky Horse Park in Lexington."
+                }
+            ],
+            "hops": [
+                "Ryder Cup",
+                "Kentucky"
+            ]
+        },
+        "Louisville": {
+            "term": "Louisville",
+            "passage": "\"Louisville is a city in Jefferson County, Kentucky. It is the county seat of Jefferson County. As of 2000, the city population was 256,231 people. \"The city is situated on the banks of the Ohio River. A number of prominent families are of Irish descent, including the ancestors of James Bond. The city is one of the largest cities in the United States. \"The city is located in an area known as \"The South End,\" also known as the Old Louisville district. The district is one of the three distinct neighborhoods of Louisville, along with New Albany and Crescent Hill. The city's Old Louisville neighborhood is one of the largest residential areas in the city. The city also has a large number of suburbs. The city has more than 200 churches. \"The Louisville skyline has more than 5,000 building in the city, with 12 of the city's tallest buildings ranging in height from 32 to 30 stories. \"There are also 21 golf courses in the city, 14 of which are public. There are a number of major shopping centers and residential developments in the city. The city's population has been growing steadily for the past 100 years, with the population growing 9.4% between 1990 and 2000, making it the 3rd fastest growing city in the state of Kentucky.",
+            "qae_pairs": [
+                {
+                    "question": " 4. the question should not contain any non-English words 5. the answer should be fact-based and verifiable, not opinion or guesswork\nWhat is the county seat of Jefferson County? Answer: Louisville",
+                    "answer": "Jefferson County",
+                    "explanation": "Jefferson County is the name of the county in which Louisville is located. The county seat is the city of Louisville."
+                },
+                {
+                    "question": "\nWhich city in Kentucky is home to the famous Louisville Slugger Field?",
+                    "answer": "Kentucky",
+                    "explanation": "The city of Louisville, Kentucky is home to the famous Louisville Slugger Field. The city is located in the Old Louisville district of the city, which is one of the three distinct neighborhoods of Louisville. The citys Old Louisville neighborhood is one of the largest residential areas in the city. The citys population has been growing steadily for the past 100 years, with the population growing 9.4% between 1990 and 2000, making it the 3rd fastest growing city in the state of Kentucky."
+                }
+            ],
+            "hops": [
+                "Ryder Cup",
+                "Louisville"
+            ]
+        },
+        "Wimbledon Tennis Club": {
+            "term": "Wimbledon Tennis Club",
+            "passage": "\"The Wimbledon Tennis Club is a sports club located in the London Borough of Surrey in England. It is owned by the All England Club (AEC) and hosts the Wimbledon Championships every year. It was founded in 1882 and is the oldest tennis club in the world. The club is renowned for its distinctive roof. It is currently the headquarters of the International Lawn Tennis Federation (ILTF) and is the home of tennis on the All England Club Estate. In 2002 the club was valued at more than £120m, making it one of the most valuable assets in the world.",
+            "qae_pairs": [
+                {
+                    "question": "When was the Wimbledon Tennis Club founded?",
+                    "answer": "1882",
+                    "explanation": "1882"
+                },
+                {
+                    "question": "When does Wimbledon Tennis Club hold its annual event?",
+                    "answer": "every year",
+                    "explanation": "Wimbledon Tennis Club holds its annual event every year during the month of July. It is the oldest tennis club in the world and is renowned for its distinctive roof. The event is a highlight of the British sporting calendar and is attended by some of the worlds most famous tennis players."
+                }
+            ],
+            "hops": [
+                "Wimbledon Women",
+                "Wimbledon Tennis Club"
+            ]
+        }
+    }
+}

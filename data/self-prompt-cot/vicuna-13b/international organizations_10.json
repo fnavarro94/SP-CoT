@@ -1,0 +1,1726 @@
+{
+    "first_hops": {
+        "United Nations": {
+            "term": "United Nations",
+            "passage": "United Nations (UN) is an intergovernmental organization founded on 26 June 1945. It was founded to promote international cooperation and maintain international peace and security. The organization operates through various bodies, including the General Assembly, the Security Council, the International Court of Justice, and the Secretariat. The UN's primary purpose is to prevent conflicts between nations and to promote sustainable development by promoting international cooperation on issues such as climate change, poverty reduction, and the promotion of human rights. The organization has 193 member states, making it the largest international organization in the world. The UN's headquarters is located in New York City, with additional offices in Geneva, Vienna, and Nairobi.",
+            "qae_pairs": [
+                {
+                    "question": "What is the date on which the United Nations was founded?",
+                    "answer": "26 June 1945",
+                    "explanation": "The United Nations was founded on 26 June 1945."
+                },
+                {
+                    "question": "What is the location of the United Nations headquarters?",
+                    "answer": "New York City",
+                    "explanation": "The United Nations headquarters is located in New York City."
+                },
+                {
+                    "question": "What body within the United Nations organization is responsible for maintaining international peace and security, and what is its purpose?",
+                    "answer": "the Security Council",
+                    "explanation": "The body within the United Nations organization responsible for maintaining international peace and security is the Security Council. Its purpose is to maintain international peace and security."
+                },
+                {
+                    "question": "What is the location of the UN's headquarters and additional offices?",
+                    "answer": "Geneva",
+                    "explanation": "The UN's headquarters is located in New York City, with additional offices in Geneva, Vienna, and Nairobi."
+                }
+            ],
+            "hops": [
+                "United Nations"
+            ]
+        },
+        "World Health Organization": {
+            "term": "World Health Organization",
+            "passage": "World Health Organization (WHO) is a specialized agency of the United Nations (UN) that is responsible for international health governance and global health cooperation. The organization was established on 7 April 1948, with its headquarters in Geneva, Switzerland. WHO is the only specialized agency of the UN that has a constitution, which defines its function and purpose. The WHO's primary role is to direct and coordinate international health within the United Nations system. The organization seeks to promote health and well-being by providing leadership and technical expertise on a range of global health issues. The WHO's 193 member states work together to achieve its goals, which include promoting healthy lifestyles, preventing disease outbreaks, and ensuring access to high-quality health care. The WHO's work is guided by the World Health Assembly, which is the governing body of the organization. The assembly meets annually and is attended by representatives from all WHO member states. The WHO also works closely with other UN agencies, such as the United Nations Children's Fund (UNICEF) and the United Nations Development Programme (UNDP), as well as with other international organizations, such as the World Bank and the World Food Programme. The WHO's activities are funded through a combination of member state contributions, voluntary contributions from governments and other organizations, and earnings from its own investments. The organization's budget for 2020–2021 was approximately $4.8 billion. Through its work, the WHO aims to promote health and well-being for all people, regardless of their nationality, ethnicity, or economic status.",
+            "qae_pairs": [
+                {
+                    "question": "What is the date on which the World Health Organization (WHO) was established?",
+                    "answer": "7 April 1948",
+                    "explanation": "The World Health Organization (WHO) was established on 7 April 1948."
+                },
+                {
+                    "question": "What is the governing body of the World Health Organization that guides its work and meets annually?",
+                    "answer": "the World Health Assembly",
+                    "explanation": "The governing body of the World Health Organization that guides its work and meets annually is the World Health Assembly. The World Health Assembly is the decision-making body of the WHO and is attended by representatives from all WHO member states. It sets the overall policies and directions for the organization and approves the WHO's budget. The assembly also reviews and endorses the work of the WHO's executive board and the director-general's reports."
+                },
+                {
+                    "question": "What is the headquarters of the World Health Organization (WHO)?",
+                    "answer": "Geneva",
+                    "explanation": "The headquarters of the World Health Organization (WHO) is in Geneva, Switzerland."
+                },
+                {
+                    "question": "What is the name of the organization responsible for international health governance and global health cooperation, as described in the passage?",
+                    "answer": "WHO",
+                    "explanation": "The organization responsible for international health governance and global health cooperation, as described in the passage is the World Health Organization (WHO)."
+                },
+                {
+                    "question": "What country is the headquarters of the World Health Organization (WHO)?",
+                    "answer": "Switzerland",
+                    "explanation": "The headquarters of the World Health Organization (WHO) is located in Switzerland."
+                }
+            ],
+            "hops": [
+                "World Health Organization"
+            ]
+        },
+        "International Monetary Fund": {
+            "term": "International Monetary Fund",
+            "passage": "The International Monetary Fund (IMF) is a specialized agency of the United Nations that was established to promote international monetary cooperation, facilitate international trade, foster economic growth, and reduce poverty around the world. The IMF provides financial assistance, monitors economic developments, and offers policy advice to its member countries. The IMF was created in 1944 at a United Nations conference in Bretton Woods, New Hampshire, with the aim of promoting international economic cooperation and stabilizing exchange rates. The organization's headquarters are located in Washington, D.C., and it has 190 member countries. The IMF's primary purpose is to ensure the stability of the international monetary system—the system of exchange rates and international payments that enables countries to transact with each other. The organization provides financial assistance to member countries experiencing balance of payments difficulties or other economic problems, and it works with member countries to develop policies that promote sustainable economic growth and reduce poverty. In addition to providing financial assistance, the IMF also conducts economic research and analysis, and provides policy advice to member countries. The organization publishes a range of reports and data on the global economy, including the World Economic Outlook, which provides forecasts for the global economy and individual countries. The IMF is governed by a board of governors, which is comprised of representatives from each member country. The board of governors makes decisions about the organization's policies and operations, and it also appoints the executive board, which is responsible for carrying out the day-to-day work of the IMF.",
+            "qae_pairs": [
+                {
+                    "question": "What is the location of the International Monetary Fund's headquarters?",
+                    "answer": "D.C",
+                    "explanation": "The International Monetary Fund's headquarters are located in Washington, D.C."
+                },
+                {
+                    "question": "What organization was established to promote international monetary cooperation, facilitate international trade, foster economic growth, and reduce poverty around the world, with its headquarters located in Washington, D.C. and 190 member countries?",
+                    "answer": "IMF",
+                    "explanation": "The organization established to promote international monetary cooperation, facilitate international trade, foster economic growth, and reduce poverty around the world, with its headquarters located in Washington, D.C. and 190 member countries is the International Monetary Fund (IMF)."
+                },
+                {
+                    "question": "What year was the International Monetary Fund (IMF) established?",
+                    "answer": "1944",
+                    "explanation": "The International Monetary Fund (IMF) was established in 1944 at a United Nations conference in Bretton Woods, New Hampshire."
+                }
+            ],
+            "hops": [
+                "International Monetary Fund"
+            ]
+        },
+        "World Bank": {
+            "term": "World Bank",
+            "passage": "World Bank The World Bank is a financial institution that provides loans, policy advice, and technical assistance to countries in order to reduce poverty and promote sustainable development. The bank's formal name is the International Bank for Reconstruction and Development (IBRD), and it is part of the World Bank Group, which also includes the International Development Association (IDA) and the International Finance Corporation (IFC). The World Bank was founded in 1944 at the Bretton Woods Conference in New Hampshire, United States, along with the International Monetary Fund (IMF). The bank's primary purpose is to provide financing for projects that promote economic development and reduce poverty in developing countries. The bank's headquarters are located in Washington, D.C., and it has regional offices in various countries around the world. The World Bank provides a range of financial products and services to its client countries, including loans, grants, and technical assistance. Its lending is focused on areas such as agriculture, education, energy, health, infrastructure, and social development. The bank also provides policy advice and capacity building to help countries develop their economies and reduce poverty. The World Bank has been criticized for its lending policies and the impact they have on developing countries. Some critics argue that the bank's lending practices perpetuate a cycle of debt and dependency, while others argue that the bank's policies are too focused on promoting private sector development and not enough on addressing social needs. Despite these criticisms, the World Bank remains an important player in the global development community, and its lending and policy advice continue to have a significant impact on the economies of developing countries around the world.",
+            "qae_pairs": [
+                {
+                    "question": "What is the formal name of the World Bank?",
+                    "answer": "the International Bank for Reconstruction and Development",
+                    "explanation": "The formal name of the World Bank is the International Bank for Reconstruction and Development (IBRD)."
+                }
+            ],
+            "hops": [
+                "World Bank"
+            ]
+        },
+        "European Union": {
+            "term": "European Union",
+            "passage": "The European Union (EU) is a political and economic union of 27 member states located primarily in Europe. It was established with the signing of the Maastricht Treaty on 7 February 1992, which entered into force on 1 November 1993. The EU has its headquarters in Brussels, Belgium, and its institutions include the European Parliament, the European Council, the European Commission, and the Court of Justice of the European Union. The EU was founded with the aim of creating a single market where people, goods, services, and capital could move freely across borders. Today, the EU is the largest single market in the world, with a population of over 500 million people and a combined gross domestic product (GDP) of over $20 trillion. The EU has also expanded its role in recent years to include areas such as foreign policy, justice and home affairs, and defense. The EU operates on the principle of supranationalism, which means that decisions are made at the EU level rather than at the level of individual member states. This is achieved through a system of shared sovereignty, where member states agree to pool some of their powers together in order to achieve common goals. The EU has also established a single currency, the euro, which is used by 19 of its 27 member states. The EU is governed by a number of institutions, including the European Parliament, the European Council, the European Commission, and the Court of Justice of the European Union. The European Parliament is made up of 705 members who are elected every five years by the citizens of the EU. The European Council is made up of the heads of state or government of the EU member states, who meet regularly to discuss issues of common interest.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the institution that is responsible for making laws in the European Union?",
+                    "answer": "the European Parliament",
+                    "explanation": "The European Parliament is responsible for making laws in the European Union. It is one of the institutions that make up the EU and is made up of 705 members who are elected every five years by the citizens of the EU. The European Parliament shares law-making power with the European Council and the European Commission."
+                },
+                {
+                    "question": "What is the interval at which the European Parliament is elected?",
+                    "answer": "every five years",
+                    "explanation": "The European Parliament is elected every five years."
+                },
+                {
+                    "question": "What is the location of the headquarters of the European Union?",
+                    "answer": "Brussels",
+                    "explanation": "The headquarters of the European Union is located in Brussels, Belgium."
+                },
+                {
+                    "question": "What is the name of the court that is part of the European Union's institutions?",
+                    "answer": "the Court of Justice",
+                    "explanation": "The Court of Justice of the European Union is one of the institutions that make up the European Union. It is responsible for interpreting and applying EU law, ensuring that it is uniformly applied across all member states. The Court of Justice is made up of two courts: the General Court and the Civil Service Tribunal. The General Court deals with cases brought by individuals or organizations against the EU, while the Civil Service Tribunal deals with disputes between the EU and its staff members."
+                },
+                {
+                    "question": "When was the European Union established?",
+                    "answer": "7 February 1992",
+                    "explanation": "The European Union was established with the signing of the Maastricht Treaty on 7 February 1992, which entered into force on 1 November 1993."
+                },
+                {
+                    "question": "What treaty established the European Union and what is its primary aim?",
+                    "answer": "the Maastricht Treaty",
+                    "explanation": "The Maastricht Treaty established the European Union on 7 February 1992, with the aim of creating a single market where people, goods, services, and capital could move freely across borders."
+                },
+                {
+                    "question": "What is the name of the institution that is responsible for proposing legislation and managing the day-to-day administration of the European Union?",
+                    "answer": "the European Commission",
+                    "explanation": "The European Commission is responsible for proposing legislation and managing the day-to-day administration of the European Union."
+                }
+            ],
+            "hops": [
+                "European Union"
+            ]
+        },
+        "African Union": {
+            "term": "African Union",
+            "passage": "The African Union (AU) is a continental union consisting of 55 member states in Africa. The AU was established on 26 March 2002 in Addis Ababa, Ethiopia, and it replaced the Organisation of African Unity (OAU). The AU aims to promote and enhance unity, solidarity, cohesion, and cooperation among African countries and to promote African integration and development. The AU is headquartered in Addis Ababa, Ethiopia, and is governed by the Assembly of the African Union, which is made up of the heads of state and government of its member states. The AU has a number of bodies and institutions, including the Pan-African Parliament, the African Court of Justice and Human Rights, and the African Central Bank. The AU has also established a number of initiatives and programs aimed at promoting peace, security, and development in Africa, including the African Peace and Security Architecture and the Agenda 2063: The Africa We Want.",
+            "qae_pairs": [
+                {
+                    "question": "What institution within the African Union is responsible for managing the monetary policy of member states and providing financial services to the continent's central banks?",
+                    "answer": "the African Central Bank",
+                    "explanation": "The African Central Bank is responsible for managing the monetary policy of member states and providing financial services to the continent's central banks. This institution within the African Union is tasked with ensuring the stability and integrity of the African monetary system, and it works to promote the development of a sound and efficient financial system in Africa. The African Central Bank is headquartered in Abuja, Nigeria, and it was established in 2018 as a specialized technical institution of the African Union."
+                },
+                {
+                    "question": "What organization replaced the African Union?",
+                    "answer": "OAU",
+                    "explanation": "The organization that replaced the African Union (AU) is the Organisation of African Unity (OAU). The AU was established on 26 March 2002 in Addis Ababa, Ethiopia, and it replaced the OAU."
+                },
+                {
+                    "question": "What date was the African Union established?",
+                    "answer": "26 March 2002",
+                    "explanation": "The African Union was established on 26 March 2002."
+                },
+                {
+                    "question": "What organization was replaced by the African Union?",
+                    "answer": "the Organisation of African Unity",
+                    "explanation": "The Organisation of African Unity (OAU) was replaced by the African Union (AU). The AU was established on 26 March 2002 in Addis Ababa, Ethiopia, and it aims to promote and enhance unity, solidarity, cohesion, and cooperation among African countries and to promote African integration and development. The AU is headquartered in Addis Ababa, Ethiopia, and is governed by the Assembly of the African Union, which is made up of the heads of state and government of its member states."
+                },
+                {
+                    "question": "What is the location of the African Union headquarters, according to the passage?",
+                    "answer": "Ethiopia",
+                    "explanation": "According to the passage, the African Union (AU) is headquartered in Addis Ababa, Ethiopia."
+                },
+                {
+                    "question": "What institution within the African Union is responsible for adjudicating cases related to human rights violations?",
+                    "answer": "the African Court of Justice and Human Rights",
+                    "explanation": "The African Court of Justice and Human Rights is the institution within the African Union responsible for adjudicating cases related to human rights violations."
+                },
+                {
+                    "question": "What is the location of the African Union's headquarters?",
+                    "answer": "Addis Ababa",
+                    "explanation": "The African Union's headquarters is located in Addis Ababa, Ethiopia."
+                }
+            ],
+            "hops": [
+                "African Union"
+            ]
+        },
+        "Association of Southeast Asian Nations": {
+            "term": "Association of Southeast Asian Nations",
+            "passage": "The Association of Southeast Asian Nations (ASEAN) is a political and economic organization in Southeast Asia. It was established on 8 August 1967 in Bangkok, Thailand, with the signing of the ASEAN Declaration. ASEAN aimed to promote economic growth and stability, as well as to prevent conflicts in the region. The organization has 10 member states: Brunei, Cambodia, Indonesia, Laos, Malaysia, Myanmar, the Philippines, Singapore, Thailand, and Vietnam. ASEAN has a population of over 640 million people, making it one of the largest regional organizations in the world. The organization operates through various committees and working groups, including the ASEAN Economic Community (AEC), which aims to create a single market and production base in the region. ASEAN also works closely with other regional organizations, such as the East Asia Summit and the ASEAN Regional Forum. ASEAN has faced several challenges over the years, including territorial disputes, human rights concerns, and the rise of China as a regional power. However, the organization has continued to play a key role in promoting stability and economic integration in Southeast Asia.",
+            "qae_pairs": [
+                {
+                    "question": "What was the date on which the Association of Southeast Asian Nations (ASEAN) was established?",
+                    "answer": "8 August 1967",
+                    "explanation": "The Association of Southeast Asian Nations (ASEAN) was established on 8 August 1967 in Bangkok, Thailand, with the signing of the ASEAN Declaration."
+                },
+                {
+                    "question": "What is the name of the country that has a population of over 640 million people and is a member state of the Association of Southeast Asian Nations?",
+                    "answer": "Indonesia",
+                    "explanation": "Indonesia is the country that has a population of over 640 million people and is a member state of the Association of Southeast Asian Nations."
+                },
+                {
+                    "question": "What is the name of the country that is a member state of ASEAN?",
+                    "answer": "Cambodia",
+                    "explanation": "Cambodia is a member state of ASEAN."
+                },
+                {
+                    "question": "What is the location where the Association of Southeast Asian Nations (ASEAN) was established?",
+                    "answer": "Bangkok",
+                    "explanation": "The location where the Association of Southeast Asian Nations (ASEAN) was established is Bangkok."
+                },
+                {
+                    "question": "What was the location where the Association of Southeast Asian Nations (ASEAN) was established on 8 August 1967?",
+                    "answer": "Thailand",
+                    "explanation": "The Association of Southeast Asian Nations (ASEAN) was established on 8 August 1967 in Bangkok, Thailand."
+                },
+                {
+                    "question": "What is the name of the ASEAN committee that aims to create a single market and production base in the region?",
+                    "answer": "the ASEAN Economic Community",
+                    "explanation": "The ASEAN committee that aims to create a single market and production base in the region is the ASEAN Economic Community (AEC)."
+                }
+            ],
+            "hops": [
+                "Association of Southeast Asian Nations"
+            ]
+        },
+        "North Atlantic Treaty Organization": {
+            "term": "North Atlantic Treaty Organization",
+            "passage": "North Atlantic Treaty Organization (NATO) is a political and military alliance of 30 North American and European countries. NATO was established on 4 April 1949, in the aftermath of World War II, with the signing of the North Atlantic Treaty in Washington, D.C. Its primary purpose is to provide collective defense against potential security threats from outside the alliance, while also promoting democratic values, stability, and cooperation among its member states. NATO's headquarters are located in Brussels, Belgium, and the organization is led by the Secretary General, currently Jens Stoltenberg. The member countries of NATO are: Albania, Belgium, Bulgaria, Canada, Croatia, Czech Republic, Denmark, Estonia, France, Germany, Greece, Hungary, Iceland, Italy, Latvia, Lithuania, Luxembourg, Montenegro, the Netherlands, North Macedonia, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Turkey, the United Kingdom, and the United States. NATO's key functions include political and military consultation, coordination, and decision-making among member states. The organization also engages in crisis management, conflict prevention, and peacekeeping operations around the world. NATO's military capabilities include land, air, and sea forces, as well as nuclear deterrence. NATO has played a significant role in shaping international security and promoting peace and stability in Europe and beyond. The organization has been involved in a range of military operations, including the Korean War, the Gulf War, the war in Afghanistan, and the fight against terrorism.",
+            "qae_pairs": [
+                {
+                    "question": "Which country hosts the headquarters of the North Atlantic Treaty Organization (NATO)?",
+                    "answer": "Belgium",
+                    "explanation": "The headquarters of the North Atlantic Treaty Organization (NATO) are located in Brussels, Belgium."
+                },
+                {
+                    "question": "What is the location of NATO's headquarters?",
+                    "answer": "Brussels",
+                    "explanation": "The location of NATO's headquarters is Brussels, Belgium."
+                },
+                {
+                    "question": "What is the name of the Secretary General currently leading NATO?",
+                    "answer": "Jens Stoltenberg",
+                    "explanation": "The name of the Secretary General currently leading NATO is Jens Stoltenberg."
+                },
+                {
+                    "question": "What is the date on which North Atlantic Treaty Organization (NATO) was established?",
+                    "answer": "4 April 1949",
+                    "explanation": "The North Atlantic Treaty Organization (NATO) was established on 4 April 1949, as stated in the passage."
+                },
+                {
+                    "question": "What is the name of the country that is a member of NATO and located in Southern Europe?",
+                    "answer": "Italy",
+                    "explanation": "The country that is a member of NATO and located in Southern Europe is Italy."
+                },
+                {
+                    "question": "Which country is not a member of the North Atlantic Treaty Organization?",
+                    "answer": "Iceland",
+                    "explanation": "Iceland is not a member of the North Atlantic Treaty Organization (NATO)."
+                },
+                {
+                    "question": "Which member state of NATO is located in Scandinavia?",
+                    "answer": "Norway",
+                    "explanation": "Norway is a member state of NATO that is located in Scandinavia."
+                }
+            ],
+            "hops": [
+                "North Atlantic Treaty Organization"
+            ]
+        },
+        "Organization of American States": {
+            "term": "Organization of American States",
+            "passage": "The Organization of American States (OAS), or simply the Americas, is a regional intergovernmental organization founded on 1948 in Bogotá, Colombia. The organization has 35 member states in North, Central, and South America and the Caribbean. The OAS is the oldest regional organization in the world and is responsible for promoting democracy, human rights, and social and economic development in the Americas. The OAS operates through its General Secretariat, which is headquartered in Washington, D.C., United States, and its member states appoint a Secretary General to lead the organization. The OAS also has specialized agencies, such as the Inter-American Development Bank and the Inter-American Commission on Human Rights, which work to promote economic development and protect human rights in the region. The OAS has played a significant role in promoting democracy and human rights in the Americas. It has intervened in several member states to support democratic transitions and has worked to combat corruption and promote transparency. The organization also works to address issues related to the environment, security, and trade in the region. The OAS has a unique structure that allows for collaboration and coordination among its member states. It holds regular meetings of foreign ministers and heads of state, as well as specialized meetings on specific issues. The organization also has a system of diplomatic representation, with permanent missions to the United Nations and other international organizations. Despite its successes, the OAS has faced criticism for its perceived ineffectiveness in addressing some regional issues, such as the ongoing crisis in Venezuela. Some member states have also been accused of undermining the organization's principles and values.",
+            "qae_pairs": [
+                {
+                    "question": "What organization is responsible for promoting economic development and protecting human rights in the Americas, and what is its relationship with the Organization of American States?",
+                    "answer": "the Inter-American Development Bank",
+                    "explanation": "The Inter-American Development Bank (IDB) is a specialized agency of the Organization of American States (OAS) that is responsible for promoting economic development and protecting human rights in the Americas. The IDB was established in 1959 and is headquartered in Washington, D.C., United States. It has a mandate to support economic growth and development in the region through loans, technical assistance, and knowledge sharing. The IDB also works to promote social inclusion and environmental sustainability in its operations."
+                },
+                {
+                    "question": "What country was the location of the founding of the Organization of American States (OAS) in 1948?",
+                    "answer": "Colombia",
+                    "explanation": "The Organization of American States (OAS) was founded in 1948 in Bogotá, Colombia."
+                },
+                {
+                    "question": "Which countries are member states of the Organization of American States?",
+                    "answer": "North, Central",
+                    "explanation": "The Organization of American States (OAS) has 35 member states in North, Central, and South America and the Caribbean."
+                },
+                {
+                    "question": "What year was the Organization of American States founded?",
+                    "answer": "1948",
+                    "explanation": "The Organization of American States (OAS) was founded in 1948 in Bogotá, Colombia."
+                },
+                {
+                    "question": "What is the location where the Organization of American States was founded?",
+                    "answer": "Bogotá",
+                    "explanation": "The Organization of American States (OAS) was founded in 1948 in Bogotá, Colombia."
+                },
+                {
+                    "question": "What is the name of the regional intergovernmental organization responsible for promoting democracy, human rights, and social and economic development in the Americas?",
+                    "answer": "OAS",
+                    "explanation": "The name of the regional intergovernmental organization responsible for promoting democracy, human rights, and social and economic development in the Americas is the Organization of American States (OAS)."
+                },
+                {
+                    "question": "Which city is home to the General Secretariat of the Organization of American States?",
+                    "answer": "Washington",
+                    "explanation": "The General Secretariat of the Organization of American States (OAS) is headquartered in Washington, D.C., United States."
+                },
+                {
+                    "question": "What is the name of the specialized agency of the Organization of American States that works to protect human rights in the region?",
+                    "answer": "the Inter-American Commission on Human Rights",
+                    "explanation": "The specialized agency of the Organization of American States that works to protect human rights in the region is the Inter-American Commission on Human Rights."
+                }
+            ],
+            "hops": [
+                "Organization of American States"
+            ]
+        },
+        "Shanghai Cooperation Organization": {
+            "term": "Shanghai Cooperation Organization",
+            "passage": "Shanghai Cooperation Organization (SCO) is a political, economic, and security alliance of eight member states in Asia and Europe. The organization was founded on June 15, 2001, in Shanghai, China, by the leaders of China, Kazakhstan, Kyrgyzstan, Russia, Tajikistan, and Uzbekistan. Its charter was adopted on June 15, 2002, and it was renamed as the Shanghai Cooperation Organization Charter. The organization's main objectives are to strengthen mutual trust and good-neighborly relations among member states, to promote their effective cooperation in the areas of economy, trade, investment, technology, culture, education, energy, transportation, and environmental protection, to maintain regional peace, stability, and security, to promote the development of the region's economy and social progress, and to enhance the well-being of the people of the region. The SCO has a unique character as a regional organization, which is based on the principles of mutual respect, equality, mutual benefit, and consultation and cooperation. It is open to other countries that share its goals and values, and that are willing to work together to achieve them. The organization has a strong commitment to the principles of the United Nations Charter, international law, and the universally recognized principles of human rights. The SCO has a wide range of activities and initiatives aimed at achieving its objectives.",
+            "qae_pairs": [
+                {
+                    "question": "What country was a founding member of the Shanghai Cooperation Organization (SCO)?",
+                    "answer": "Kyrgyzstan",
+                    "explanation": "Kyrgyzstan was one of the founding members of the Shanghai Cooperation Organization (SCO) along with China, Kazakhstan, Russia, Tajikistan, and Uzbekistan."
+                },
+                {
+                    "question": "What is the date on which the Shanghai Cooperation Organization (SCO) was founded?",
+                    "answer": "June 15, 2001",
+                    "explanation": "The Shanghai Cooperation Organization (SCO) was founded on June 15, 2001."
+                },
+                {
+                    "question": "What is the name of the organization founded on June 15, 2001, in Shanghai, China, by the leaders of China, Kazakhstan, Kyrgyzstan, Russia, Tajikistan, and Uzbekistan, and whose main objectives include strengthening",
+                    "answer": "SCO",
+                    "explanation": ""
+                },
+                {
+                    "question": "What date was the Shanghai Cooperation Organization Charter adopted?",
+                    "answer": "June 15, 2002",
+                    "explanation": "The Shanghai Cooperation Organization Charter was adopted on June 15, 2002."
+                }
+            ],
+            "hops": [
+                "Shanghai Cooperation Organization"
+            ]
+        }
+    },
+    "second_hops": {
+        "New York City": {
+            "term": "New York City",
+            "passage": "1. New York City is the most populous city in the United States, with an estimated 8.4 million residents in 2020. 2. The city is often referred to as New York or the City, and is home to many world-renowned landmarks, including the Statue of Liberty, Central Park, Times Square, and the Empire State Building. 3. New York City is a major center for commerce, finance, media, art, fashion, research, and education, and is considered one of the cultural capitals of the world. 4. The city is also home to many professional sports teams, including the Yankees and Mets in baseball, the Giants and Jets in football, and the Knicks and Nets in basketball. 5. New York City is located in the northeast region of the United States, and is the largest city in the United States by population and the second-largest city in the world, after Tokyo. 6. The city has a diverse population and is known for its multiculturalism, with more than 3 million foreign-born residents from over 180 countries. 7. New York City is a hub for international business and trade, and is home to the New York Stock Exchange, the largest stock exchange in the world. 8. The city is also a major center for higher education, with over 120 colleges and universities located within its boundaries. 9. New York City is famous for its cuisine, with many iconic dishes such as pizza, hot dogs, and bagels originating in the city. 10. The city is also home to many museums, galleries, and cultural institutions, including the Metropolitan Museum of Art, the Museum of Modern Art, and the American Museum of Natural History.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the building in New York City where the stock exchange takes place? Answer: The New York Stock Exchange.",
+                    "answer": "the New York Stock Exchange",
+                    "explanation": "The New York Stock Exchange is the building in New York City where the stock exchange takes place."
+                },
+                {
+                    "question": "What is the name of the museum located in New York City that is known for its natural history exhibits?",
+                    "answer": "the American Museum of Natural History",
+                    "explanation": "The American Museum of Natural History is located in New York City and is known for its natural history exhibits."
+                },
+                {
+                    "question": "What team is known as the New York City team?  Answer: Giants.",
+                    "answer": "Giants",
+                    "explanation": "The New York City team is the Giants."
+                },
+                {
+                    "question": "What city is known for its towering skyscrapers and bustling streets, but is not New York City?  Answer: Tokyo.",
+                    "answer": "Tokyo",
+                    "explanation": "Tokyo is the city that is known for its towering skyscrapers and bustling streets, but is not New York City. While New York City is also known for its towering skyscrapers and bustling streets, Tokyo is the city that is often compared to New York City in terms of its size, population, and economic power. Tokyo is the capital city of Japan and is the most populous metropolitan area in the world, with an estimated population of over 37 million people."
+                }
+            ],
+            "hops": [
+                "United Nations",
+                "New York City"
+            ]
+        },
+        "the Security Council": {
+            "term": "the Security Council",
+            "passage": "1. The United Nations Security Council (UNSC) is one of the six main organs of the United Nations (UN), charged with maintaining international peace and security. 2. The Security Council has 15 members, five of which are permanent: China, France, Russia, the United Kingdom, and the United States. 3. The remaining ten members are elected by the General Assembly for two-year terms. 4. The Security Council has the power to authorize military action, impose economic sanctions, and establish peacekeeping missions. 5. The Council also has the ability to investigate and mediate disputes between nations. 6. The Security Council has played a role in numerous conflicts throughout its history, including the Korean War, the Gulf War, and the conflicts in the former Yugoslavia. 7. The Council has been criticized for its perceived ineffectiveness in addressing certain conflicts, such as the ongoing conflict in Syria. 8. Despite these criticisms, the Security Council remains a crucial component of the international system, working to maintain peace and security around the world.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the Security Council member that is permanently represented on the UN Security Council?",
+                    "answer": "China",
+                    "explanation": "The name of the Security Council member that is permanently represented on the UN Security Council is China."
+                }
+            ],
+            "hops": [
+                "United Nations",
+                "the Security Council"
+            ]
+        },
+        "Geneva": {
+            "term": "Geneva",
+            "passage": "Geneva is a city in the French-speaking region of Switzerland. Located where the Rhône River exits Lake Geneva, it is the second-largest city in Switzerland, with a population of over 200,000 people. Geneva is known for its history, culture, and international organizations, including the United Nations and the Red Cross. The city has been a center of humanitarian activity for centuries, and is often referred to as the \"Capital of Peace\". Geneva is also a popular tourist destination, with attractions such as the Jet d'Eau fountain, the Palais des Nations, and the Musée d'art et d'histoire.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the fountain in Geneva that is a popular tourist attraction?",
+                    "answer": "Jet",
+                    "explanation": "The name of the fountain in Geneva that is a popular tourist attraction is the Jet d'Eau."
+                },
+                {
+                    "question": "What museum is located in Geneva?",
+                    "answer": "Musée",
+                    "explanation": "The Musée d'art et d'histoire is located in Geneva."
+                },
+                {
+                    "question": "What country is Geneva in?",
+                    "answer": "Switzerland",
+                    "explanation": "Geneva is located in Switzerland."
+                },
+                {
+                    "question": "What organization is known as the \"Capital of Peace\" and is located in Geneva?",
+                    "answer": "the Red Cross",
+                    "explanation": "The organization known as the \"Capital of Peace\" and located in Geneva is the Red Cross."
+                },
+                {
+                    "question": "What organization is located in Geneva and is known as the \"Capital of Peace\"?",
+                    "answer": "the United Nations",
+                    "explanation": "The organization located in Geneva and known as the \"Capital of Peace\" is the United Nations."
+                },
+                {
+                    "question": "What river flows out of Lake Geneva and is the reason for the city's existence?",
+                    "answer": "Rhône River",
+                    "explanation": "The river that flows out of Lake Geneva and is the reason for the city's existence is the Rhône River."
+                }
+            ],
+            "hops": [
+                "World Health Organization",
+                "Geneva"
+            ]
+        },
+        "the World Health Assembly": {
+            "term": "the World Health Assembly",
+            "passage": "The World Health Assembly (WHA) is the decision-making body of the World Health Organization (WHO). It is attended by delegations from all WHO Member States and meets annually in Geneva, Switzerland. The WHA sets the policies and budgets of the WHO, and makes recommendations to Member States on global health issues. It also serves as a forum for discussions on specific health issues and for the adoption of resolutions and decisions. The WHA is supported by a number of committees, including the Executive Board, which prepares the work of the Assembly and advises on the implementation of its decisions. The WHA is the highest decision-making body in the WHO, and its decisions are binding on all Member States.",
+            "qae_pairs": [
+                {
+                    "question": "What body is responsible for giving guidance to the World Health Organization's (WHO) programs and policies, and for preparing the work of the World Health Assembly?     Answer: The Executive Board.",
+                    "answer": "the Executive Board",
+                    "explanation": "The Executive Board is responsible for giving guidance to the World Health Organization's (WHO) programs and policies, and for preparing the work of the World Health Assembly."
+                },
+                {
+                    "question": "What is the term for the group of people who make decisions at the World Health Assembly? Answer: States.",
+                    "answer": "States",
+                    "explanation": "The term for the group of people who make decisions at the World Health Assembly is \"States.\" The World Health Assembly (WHA) is attended by delegations from all WHO Member States and meets annually in Geneva, Switzerland. The WHA sets the policies and budgets of the WHO, and makes recommendations to Member States on global health issues. It also serves as a forum for discussions on specific health issues and for the adoption of resolutions and decisions."
+                },
+                {
+                    "question": "What country is the host of the annual meeting of the World Health Assembly, where delegations from all WHO Member States gather to set policies and budgets for the World Health Organization and discuss specific health issues?",
+                    "answer": "Switzerland",
+                    "explanation": "Switzerland is the country that hosts the annual meeting of the World Health Assembly, where delegations from all WHO Member States gather to set policies and budgets for the World Health Organization and discuss specific health issues."
+                },
+                {
+                    "question": "What city does the World Health Assembly meet in annually?",
+                    "answer": "Geneva",
+                    "explanation": "The World Health Assembly meets annually in Geneva, Switzerland."
+                },
+                {
+                    "question": "What organization is responsible for setting the global health agenda and making recommendations to member states through 'the World Health Assembly'? Answer: WHO.",
+                    "answer": "WHO",
+                    "explanation": "The organization responsible for setting the global health agenda and making recommendations to member states through the World Health Assembly is the World Health Organization (WHO)."
+                }
+            ],
+            "hops": [
+                "World Health Organization",
+                "the World Health Assembly"
+            ]
+        },
+        "WHO": {
+            "term": "WHO",
+            "passage": "WHO is a specialized agency of the United Nations that is concerned with international public health. It was established on 7 April 1948, and is headquartered in Geneva, Switzerland. The agency is responsible for promoting healthy lifestyles, preventing diseases, and providing medical care in countries around the world. WHO works with governments, other UN agencies, and non-governmental organizations to develop and implement strategies for improving health outcomes. The organization is led by a Director-General, who is appointed by the World Health Assembly, a decision-making body composed of representatives from WHO's 194 member states.",
+            "qae_pairs": [
+                {
+                    "question": "What country is the headquarters of the World Health Organization (WHO) as described in the passage?",
+                    "answer": "Switzerland",
+                    "explanation": "Switzerland."
+                },
+                {
+                    "question": "What date was WHO established according to the passage?",
+                    "answer": "7 April 1948",
+                    "explanation": "According to the passage, WHO was established on which date? ### Response: The passage states that WHO was established on 7 April 1948."
+                },
+                {
+                    "question": "What is the location of the WHO headquarters mentioned in the passage?",
+                    "answer": "Geneva",
+                    "explanation": "The location of the WHO headquarters mentioned in the passage is Geneva."
+                },
+                {
+                    "question": "What is the decision-making body responsible for appointing the Director-General of WHO, and what is the term 'WHO' in question?",
+                    "answer": "the World Health Assembly",
+                    "explanation": "The decision-making body responsible for appointing the Director-General of WHO is the World Health Assembly. The term 'WHO' in question refers to the World Health Organization."
+                }
+            ],
+            "hops": [
+                "World Health Organization",
+                "WHO"
+            ]
+        },
+        "Switzerland": {
+            "term": "Switzerland",
+            "passage": "Language: English Purpose: To provide a general overview of Switzerland's history, geography, culture, and economy. Switzerland is a landlocked country located in Central Europe. It is bordered by Germany to the north, France to the west, Italy to the south, and Austria and Liechtenstein to the east. Switzerland has a total area of 41,285 square kilometers and is home to a population of over 8 million people. Switzerland's history dates back to the Roman Empire, but it was not until the 13th century that the country began to take shape as a unified state. Switzerland has a long history of neutrality and has not been involved in any foreign wars since 1815. The country is known for its picturesque mountains, including the Alps, which cover over 60% of Switzerland's total area. Switzerland is a federal republic with 26 cantons, each with its own government and laws. The country has a strong economy, with a focus on banking, finance, and tourism. Switzerland is also known for its high standard of living, excellent healthcare system, and world-renowned educational institutions. Switzerland is a multilingual country, with four official languages: German, French, Italian, and Romansh. The country is famous for its chocolate, cheese, and watches, which are exported around the world. Switzerland is also home to many international organizations, including the United Nations, the World Health Organization, and the International Olympic Committee. In conclusion, Switzerland is a unique and fascinating country with a rich history, stunning natural beauty, and a strong economy. Its neutrality, multilingualism, and high standard of living make it a popular destination for tourists and expatriates alike.",
+            "qae_pairs": [
+                {
+                    "question": "What country is located to the north of Switzerland and shares a border with it?",
+                    "answer": "Germany",
+                    "explanation": "Germany is the country located to the north of Switzerland and shares a border with it."
+                },
+                {
+                    "question": "What language is spoken in Switzerland alongside German, French, and Italian?",
+                    "answer": "Romansh",
+                    "explanation": "Romansh is the fourth official language spoken in Switzerland alongside German, French, and Italian. It is a Romance language that is spoken by a small minority of the population, primarily in the canton of Graubünden in the southeastern part of the country. Romansh has its roots in the Latin language and has evolved over time with influences from German and French. It is recognized as a national language and is protected by the Swiss constitution."
+                },
+                {
+                    "question": "What is the term that is used in the passage to describe the mountain range that covers over 60% of Switzerland's total area, and what is the answer to the question?",
+                    "answer": "Alps",
+                    "explanation": ""
+                },
+                {
+                    "question": "What was the year that Switzerland began to take shape as a unified state?",
+                    "answer": "the 13th century",
+                    "explanation": "The passage states that Switzerland began to take shape as a unified state in the 13th century. Therefore, the answer to the question is the 13th century."
+                },
+                {
+                    "question": "What is the name of the international organization that is headquartered in Switzerland and is responsible for overseeing the Olympic Games?",
+                    "answer": "the International Olympic Committee",
+                    "explanation": "The International Olympic Committee (IOC) is headquartered in Switzerland and is responsible for overseeing the Olympic Games. Switzerland is known for its strong economy, and the IOC is one of the most prestigious international organizations headquartered in the country. The IOC was founded in 1894 and has since grown to become a global organization that promotes the values of the Olympic Movement, which include excellence, friendship, and respect. The IOC is responsible for selecting the host city for each Olympic Games and overseeing the organization of the event."
+                },
+                {
+                    "question": "What is the name of the country that borders Switzerland to the east and lies between Switzerland and Liechtenstein?",
+                    "answer": "Austria",
+                    "explanation": "Austria is the country that borders Switzerland to the east and lies between Switzerland and Liechtenstein."
+                },
+                {
+                    "question": "What is the location of Switzerland in Europe, according to the passage?",
+                    "answer": "Central Europe",
+                    "explanation": "According to the passage, Switzerland is a landlocked country located in Central Europe."
+                },
+                {
+                    "question": "What is the country that borders Switzerland to the south, and what is the answer to the question?",
+                    "answer": "Italy",
+                    "explanation": "The country that borders Switzerland to the south is Italy."
+                },
+                {
+                    "question": "What is the name of the country that is located east of Switzerland and borders it on the east?",
+                    "answer": "Liechtenstein",
+                    "explanation": "The name of the country that is located east of Switzerland and borders it on the east is Liechtenstein."
+                },
+                {
+                    "question": "What organization is located in Switzerland that is known for its focus on international cooperation and diplomacy?",
+                    "answer": "the United Nations",
+                    "explanation": "The organization known for its focus on international cooperation and diplomacy that is located in Switzerland is the United Nations (UN). The UN is headquartered in New York City but also has offices in Geneva, Switzerland, which is known as the \"capital of peace.\" The UN in Geneva is responsible for a wide range of activities, including the promotion of human rights, disarmament, and the protection of refugees. The city is also home to many other international organizations, including the International Committee of the Red Cross, the World Health Organization, and the International Labor Organization."
+                }
+            ],
+            "hops": [
+                "World Health Organization",
+                "Switzerland"
+            ]
+        },
+        "D.C": {
+            "term": "D.C",
+            "passage": "United, an American professional soccer team based in Washington, D.C. The team competes in Major League Soccer (MLS) as a member of the Eastern Conference. D.C. United was founded on June 7, 1994, as one of the charter clubs of MLS. The team's home stadium is Audi Field, which opened in 2018 in the Capitol Riverfront neighborhood of Washington, D.C.     D.C. United has won four MLS Cups, including three consecutive titles from 1996 to 1999, as well as the Supporters' Shield in 2006 and 2007. The team has a strong rivalry with the New York Red Bulls, and their fans are known for their passionate support of the team. In addition to their on-field success, D.C. United has been recognized for its commitment to community engagement and social responsibility. The team has partnered with numerous local organizations to support initiatives such as youth soccer development, education, and homelessness relief. D.C. United is owned by the family of the late D.C. businessman and philanthropist, Jack Kent Cooke.",
+            "qae_pairs": [
+                {
+                    "question": "What year did D.C. United win the Supporters' Shield?",
+                    "answer": "2006",
+                    "explanation": "D.C. United won the Supporters' Shield in 2006."
+                },
+                {
+                    "question": "What is the answer to the question about D.C.?",
+                    "answer": "Major League Soccer",
+                    "explanation": "The answer to the question about D.C. is Major League Soccer. The instruction describes D.C. United, a professional soccer team based in Washington, D.C. that competes in Major League Soccer."
+                },
+                {
+                    "question": "What conference does D.C. United compete in, according to the passage?",
+                    "answer": "the Eastern Conference",
+                    "explanation": "According to the passage, D.C. United competes in the Eastern Conference."
+                },
+                {
+                    "question": "What years did D.C. United win the MLS Cup?",
+                    "answer": "1996 to 1999",
+                    "explanation": "D.C. United won the MLS Cup four times, including three consecutive titles from 1996 to 1999."
+                },
+                {
+                    "question": "What date was D.C. United founded as one of the charter clubs of MLS?",
+                    "answer": "June 7, 1994",
+                    "explanation": "D.C. United was founded on June 7, 1994, as one of the charter clubs of MLS."
+                },
+                {
+                    "question": "What year did Audi Field open in Washington, D.C.?",
+                    "answer": "2018",
+                    "explanation": "Audi Field opened in 2018 in the Capitol Riverfront neighborhood of Washington, D.C."
+                },
+                {
+                    "question": "What is the MLS Cup that D.C. United has won the most?",
+                    "answer": "MLS Cups",
+                    "explanation": "D.C. United has won four MLS Cups, including three consecutive titles from 1996 to 1999. Therefore, the MLS Cup that D.C. United has won the most is four."
+                },
+                {
+                    "question": "What is the name of the neighborhood in Washington, D.C. where Audi Field, the home stadium of D.C. United, is located?",
+                    "answer": "Capitol Riverfront",
+                    "explanation": "The name of the neighborhood in Washington, D.C. where Audi Field, the home stadium of D.C. United, is located is Capitol Riverfront."
+                }
+            ],
+            "hops": [
+                "International Monetary Fund",
+                "D.C"
+            ]
+        },
+        "IMF": {
+            "term": "IMF",
+            "passage": "IMF stands for International Monetary Fund. It is an international organization that was established in 1944 to promote international monetary cooperation, facilitate international trade, foster economic growth, and reduce poverty around the world. The IMF provides financial assistance to member countries experiencing balance of payments difficulties or other economic problems, and works with member countries to develop policies that promote sustainable economic growth and reduce poverty. The IMF also conducts economic research and analysis, and provides technical assistance to member countries to help them improve their economic management and governance. The organization is headquartered in Washington, D.C. and has 190 member countries.",
+            "qae_pairs": [
+                {
+                    "question": "What is the location of the International Monetary Fund (IMF)?",
+                    "answer": "Washington",
+                    "explanation": "The International Monetary Fund (IMF) is located in Washington."
+                },
+                {
+                    "question": "What year was the International Monetary Fund (IMF) established according to the passage?",
+                    "answer": "1944",
+                    "explanation": "According to the passage, the International Monetary Fund (IMF) was established in 1944."
+                }
+            ],
+            "hops": [
+                "International Monetary Fund",
+                "IMF"
+            ]
+        },
+        "the International Bank for Reconstruction and Development": {
+            "term": "the International Bank for Reconstruction and Development",
+            "passage": "International Bank for Reconstruction and Development (IBRD) is a part of the World Bank Group that provides loans and grants to middle-income countries having a certain level of economic development and stability. The bank was established in 1944 and has its headquarters in Washington, D.C., United States. The IBRD aims to promote sustainable economic growth, reduce poverty, and promote good governance through its activities. The bank provides loans, guarantees, and technical assistance to its member countries for various purposes such as infrastructure development, education, health, and environmental protection. The IBRD also offers financial support to private sector projects that have the potential to create employment opportunities and contribute to economic growth. The bank operates on a non-profit basis and provides its services to its member countries on a demand basis.",
+            "qae_pairs": [
+                {
+                    "question": "What year was the International Bank for Reconstruction and Development established according to the passage?",
+                    "answer": "1944",
+                    "explanation": "According to the passage, the International Bank for Reconstruction and Development (IBRD) was established in 1944."
+                },
+                {
+                    "question": "What is the location of the International Bank for Reconstruction and Development?",
+                    "answer": "Washington",
+                    "explanation": "The International Bank for Reconstruction and Development (IBRD) is located in Washington, D.C., United States."
+                },
+                {
+                    "question": "What country is the headquarters of the International Bank for Reconstruction and Development (IBRD)?",
+                    "answer": "United States",
+                    "explanation": "The headquarters of the International Bank for Reconstruction and Development (IBRD) is located in Washington, D.C., United States."
+                },
+                {
+                    "question": "What is the location of the headquarters of the International Bank for Reconstruction and Development?",
+                    "answer": "D.C",
+                    "explanation": "The location of the headquarters of the International Bank for Reconstruction and Development is Washington, D.C."
+                }
+            ],
+            "hops": [
+                "World Bank",
+                "the International Bank for Reconstruction and Development"
+            ]
+        },
+        "the European Parliament": {
+            "term": "the European Parliament",
+            "passage": "European Parliament The European Parliament is the legislative branch of the European Union (EU). It is composed of 705 members who are elected every five years by the citizens of the EU. The Parliament is located in Strasbourg, France, and also has offices in Brussels, Belgium. The European Parliament shares power with the Council of the European Union and the European Commission. Its main responsibilities include amending and adopting legislation, approving the EU budget, and holding the Commission accountable. Members of the Parliament are elected on a proportional representation basis, with the number of seats allocated to each member state depending on its population. The Parliament has 12 different committees that deal with specific areas of policy, such as economic and monetary affairs, foreign affairs, and internal affairs. It also has a President and 14 Vice-Presidents who are elected by the members for two and a half year terms. The President chairs plenary sessions and represents the Parliament in external matters. The European Parliament has been criticized for its lack of power compared to other institutions of the EU, such as the Council and the Commission. However, it has also been praised for its ability to amend legislation and hold the Commission accountable.",
+            "qae_pairs": [
+                {
+                    "question": "What is the location of the European Parliament, and which country is responsible for approving the EU budget?",
+                    "answer": "France",
+                    "explanation": "The European Parliament is located in Strasbourg, France. As for the country responsible for approving the EU budget, it is the responsibility of the Council of the European Union."
+                },
+                {
+                    "question": "What is the interval between the elections of the members of the European Parliament?",
+                    "answer": "every five years",
+                    "explanation": "The interval between the elections of the members of the European Parliament is every five years."
+                },
+                {
+                    "question": "What is the length of the term for the President and Vice-Presidents of the European Parliament, according to the passage?",
+                    "answer": "two and a half year",
+                    "explanation": "According to the passage, the President and 14 Vice-Presidents of the European Parliament are elected for two and a half year terms."
+                },
+                {
+                    "question": "What is the location of the European Parliament?",
+                    "answer": "Strasbourg",
+                    "explanation": "The European Parliament is located in Strasbourg, France."
+                }
+            ],
+            "hops": [
+                "European Union",
+                "the European Parliament"
+            ]
+        },
+        "Brussels": {
+            "term": "Brussels",
+            "passage": "1. Brussels is the capital city of Belgium. 2. It is located in the region of Flanders in the north-central part of the country. 3. With a population of around 1.2 million people, it is the largest urban area in Belgium. 4. Brussels is known for its beautiful architecture, including the Grand Place, which is a UNESCO World Heritage Site. 5. The city is also famous for its chocolate and beer, which are both produced in large quantities. 6. Brussels is home to many international organizations, including the European Union and NATO. 7. The city has a rich history, dating back to the Middle Ages. 8. It has been ruled by various powers over the centuries, including the Duchy of Brabant, the Spanish Habsburgs, and the Austrian Habsburgs. 9. Today, Brussels is a bustling metropolis with a vibrant cultural scene and a diverse population. 10. Visitors can explore the city's many museums, galleries, and historic landmarks, as well as sample its famous cuisine and drinks.",
+            "qae_pairs": [
+                {
+                    "question": "What is the region in which Brussels is located, according to the passage?",
+                    "answer": "Flanders",
+                    "explanation": "According to the passage, Brussels is located in the region of Flanders in the north-central part of Belgium."
+                },
+                {
+                    "question": "What was the historical period during which Brussels was ruled by the Spanish Habsburgs and the Austrian Habsburgs?",
+                    "answer": "the Middle Ages",
+                    "explanation": "The historical period during which Brussels was ruled by the Spanish Habsburgs and the Austrian Habsburgs was the Middle Ages."
+                },
+                {
+                    "question": "What organization is located in Brussels, and what is its name?",
+                    "answer": "the European Union",
+                    "explanation": "The organization located in Brussels is the European Union."
+                },
+                {
+                    "question": "What is the weather like in Brussels today?",
+                    "answer": "Today",
+                    "explanation": "I'm sorry, but the instruction only provides information about Brussels and does not provide any information about the weather. The instruction describes the city's location, population, architecture, famous exports, history, and cultural scene. To find out the weather in Brussels, you can check a weather website or app, or ask a local resident."
+                },
+                {
+                    "question": "What organization is located in Brussels and is known as the North Atlantic Treaty Organization in English?",
+                    "answer": "NATO",
+                    "explanation": "North Atlantic Treaty Organization (NATO) is located in Brussels and is known as the North Atlantic Treaty Organization in English."
+                }
+            ],
+            "hops": [
+                "North Atlantic Treaty Organization",
+                "Brussels"
+            ]
+        },
+        "the Court of Justice": {
+            "term": "the Court of Justice",
+            "passage": "Passage: The Court of Justice of the European Union (CJEU) is the highest court in the European Union in matters of Union law, and is responsible for interpreting and applying the treaties of the European Union. It was established in 1952 and is based in Luxembourg. The CJEU is composed of two courts: the General Court and the Specialized Court. The General Court deals with cases concerning the Community's own resources and other administrative matters, while the Specialized Court deals with cases concerning intellectual property law, competition law, and other areas of specialized Union law. The CJEU has jurisdiction over all courts and tribunals of the European Union, and its decisions are binding on all member states and their courts.",
+            "qae_pairs": [
+                {
+                    "question": "What year was the Court of Justice established, according to the passage?",
+                    "answer": "1952",
+                    "explanation": "According to the passage, the Court of Justice of the European Union was established in 1952."
+                },
+                {
+                    "question": "What is the name of the city where the Court of Justice of the European Union (CJEU) is based?",
+                    "answer": "Luxembourg",
+                    "explanation": "The name of the city where the Court of Justice of the European Union (CJEU) is based is Luxembourg."
+                }
+            ],
+            "hops": [
+                "European Union",
+                "the Court of Justice"
+            ]
+        },
+        "the Maastricht Treaty": {
+            "term": "the Maastricht Treaty",
+            "passage": "1. The Maastricht Treaty, officially known as the Treaty on European Union (TEU), is a treaty signed on 7 February 1992, in Maastricht, Netherlands. 2. The treaty was signed by the leaders of the 12 member states of the European Communities, which were at the time the European Economic Community (EEC), the European Coal and Steel Community (ECSC) and the European Atomic Energy Community (EAEC). 3. The treaty established the European Union (EU) as a political union and a single market, and introduced the euro as a single currency. 4. The treaty also created the European Union's predecessor, the European Community, which was established in 1993 with the signing of the Maastricht Treaty. 5. The treaty was a significant step towards European integration and the creation of a single European market. 6. The treaty also established the European Council, which is made up of the heads of state or government of the member states, and the European Commission, which is the executive branch of the EU. 7. The treaty also includes provisions for the cooperation and coordination of foreign and security policy among member states. 8. The Maastricht Treaty has been amended several times since its signing, including the Treaty of Amsterdam in 1997, which made further changes to the EU's institutions and policies. 9. The treaty has been a subject of debate and criticism, with some arguing that it has led to a loss of national sovereignty and a concentration of power in the hands of a few. 10. Despite these criticisms, the Maastricht Treaty remains a significant milestone in the history of European integration and the creation of the European Union.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the institution that was established by the Maastricht Treaty?     Answer: The European Council.",
+                    "answer": "the European Council",
+                    "explanation": "The institution that was established by the Maastricht Treaty is the European Council."
+                },
+                {
+                    "question": "What was the date on which the Maastricht Treaty was signed, according to the passage?",
+                    "answer": "7 February 1992",
+                    "explanation": "According to the passage, the Maastricht Treaty was signed on 7 February 1992, in Maastricht, Netherlands."
+                },
+                {
+                    "question": "What was the location where the Maastricht Treaty was signed?",
+                    "answer": "Netherlands",
+                    "explanation": "The Maastricht Treaty, officially known as the Treaty on European Union (TEU), was signed on 7 February 1992, in Maastricht, Netherlands."
+                },
+                {
+                    "question": "What was the name of the organization that was established by the Maastricht Treaty?  Answer: The European Community.",
+                    "answer": "the European Community",
+                    "explanation": "The organization established by the Maastricht Treaty was the European Community."
+                },
+                {
+                    "question": "What was the name of the organization that was established by the Maastricht Treaty?  Answer: The European Communities.",
+                    "answer": "the European Communities",
+                    "explanation": "The organization established by the Maastricht Treaty was the European Communities."
+                }
+            ],
+            "hops": [
+                "European Union",
+                "the Maastricht Treaty"
+            ]
+        },
+        "the European Commission": {
+            "term": "the European Commission",
+            "passage": "Language: English The European Commission is the executive branch of the European Union (EU). It is responsible for proposing legislation, managing the day-to-day business of the EU, and ensuring that EU policies are carried out. The Commission is led by a President, who is appointed by the European Council, and a team of 27 Commissioners, one from each EU member state. The Commission is headquartered in Brussels, Belgium, and has offices in all EU member states. The Commission is responsible for proposing legislation to the European Parliament and the Council of the European Union. It also manages the day-to-day business of the EU, including the implementation of EU policies and the management of the EU budget. The Commission is also responsible for representing the EU in international organizations and negotiations. The Commission is divided into different departments or directorates-general, each responsible for a specific area of policy. These include agriculture, climate action, competition, digital economy and society, education, employment, energy, environment, health and food safety, internal market, justice and consumers, research and innovation, and trade. The Commission is accountable to the European Parliament, which has the power to amend and approve or reject its proposals. The Commission is also accountable to the Council of the European Union, which represents the member state governments, and to the European Court of Justice, which ensures that EU law is uniformly applied across all member states.",
+            "qae_pairs": [
+                {
+                    "question": "What is the location of the European Commission's headquarters?",
+                    "answer": "Belgium",
+                    "explanation": "The European Commission's headquarters is located in Brussels, Belgium."
+                },
+                {
+                    "question": "What is the body that appoints the President of the European Commission and the team of 27 Commissioners?",
+                    "answer": "the European Council",
+                    "explanation": "The European Council is the body that appoints the President of the European Commission and the team of 27 Commissioners. The President of the European Commission is appointed by the European Council, which is made up of the heads of state or government of the EU member states. The team of 27 Commissioners, one from each EU member state, is also appointed by the European Council. The European Commission is responsible for proposing legislation to the European Parliament and the Council of the European Union, managing the day-to-day business of the EU, and ensuring that EU policies are carried out."
+                },
+                {
+                    "question": "What is the legislative body responsible for approving or rejecting proposals made by the European Commission?",
+                    "answer": "the European Parliament",
+                    "explanation": "The European Parliament is responsible for approving or rejecting proposals made by the European Commission."
+                }
+            ],
+            "hops": [
+                "European Union",
+                "the European Commission"
+            ]
+        },
+        "the African Central Bank": {
+            "term": "the African Central Bank",
+            "passage": "African Central Bank (ACB) is a regional financial institution established to promote economic integration and development in Africa. It was founded in 1964 and is headquartered in Abidjan, Côte d'Ivoire. The ACB has 19 member countries, including Angola, Benin, Burkina Faso, Burundi, Cameroon, Central African Republic, Chad, Comoros, Congo, Democratic Republic of the Congo, Cote d'Ivoire, Djibouti, Equatorial Guinea, Gabon, Gambia, Ghana, Guinea, Kenya, Liberia, Madagascar, Malawi, Mali, Mauritania, Niger, Nigeria, Rwanda, Sao Tome and Principe, Senegal, Sierra Leone, South Africa, South Sudan, Togo, Uganda, and Zambia. The ACB's primary objective is to promote economic growth and development in Africa by providing financial services, such as loans, technical assistance, and training, to its member countries. The ACB also works to promote trade and investment among its member countries, as well as to facilitate the movement of people and goods across national borders.",
+            "qae_pairs": [
+                {
+                    "question": "What country is the headquarters of the African Central Bank?",
+                    "answer": "Cote d'Ivoire",
+                    "explanation": "The African Central Bank (ACB) is headquartered in Abidjan, Côte d'Ivoire."
+                },
+                {
+                    "question": "What country is mentioned as a member of the African Central Bank in the passage?",
+                    "answer": "Benin",
+                    "explanation": "The African Central Bank has 19 member countries, including Benin."
+                },
+                {
+                    "question": "What year was the African Central Bank (ACB) founded?",
+                    "answer": "1964",
+                    "explanation": "The African Central Bank (ACB) was founded in 1964."
+                },
+                {
+                    "question": "What is the location of the African Central Bank's headquarters as stated in the passage?",
+                    "answer": "Abidjan",
+                    "explanation": "The African Central Bank's headquarters is located in Abidjan, Côte d'Ivoire, as stated in the passage."
+                },
+                {
+                    "question": "What is the name of the African Central Bank?  Answer: ACB.",
+                    "answer": "ACB",
+                    "explanation": "The African Central Bank (ACB) is a regional financial institution established to promote economic integration and development in Africa."
+                }
+            ],
+            "hops": [
+                "African Union",
+                "the African Central Bank"
+            ]
+        },
+        "OAU": {
+            "term": "OAU",
+            "passage": "OAU is a public research university located in Ile-Ife, Osun State, Nigeria. It was founded on 1 January 1982 as Obafemi Awolowo University, and was renamed in 1985 to honor the first republic Nigerian Premier, Obafemi Awolowo. The university is situated on a 11,861-hectare campus in the heart of Ile-Ife, a city in southwestern Nigeria. OAU is one of the most prestigious universities in Nigeria, and is known for its academic excellence and research output. The university has over 25,000 students, including undergraduates, postgraduates, and international students. OAU offers a wide range of academic programs, including the arts, humanities, social sciences, law, engineering, technology, and natural and applied sciences. The university is also known for its cultural diversity, with students from all parts of Nigeria and many other countries. OAU has a strong commitment to research, and has established several research centers and institutes, including the African Centre for Cultural Studies, the Centre for Drug Discovery and Development, and the Nigerian Institute of Social and Economic Research.",
+            "qae_pairs": [
+                {
+                    "question": "What center at OAU is focused on drug discovery and development?",
+                    "answer": "the Centre for Drug Discovery and Development",
+                    "explanation": "The center at OAU that is focused on drug discovery and development is the Centre for Drug Discovery and Development."
+                },
+                {
+                    "question": "What social science program is offered by OAU?",
+                    "answer": "social sciences",
+                    "explanation": "The social sciences program is offered by OAU."
+                },
+                {
+                    "question": "What year was OAU renamed to honor Obafemi Awolowo?",
+                    "answer": "1985",
+                    "explanation": "The year OAU was renamed to honor Obafemi Awolowo is 1985."
+                },
+                {
+                    "question": "What center at OAU is known for its research on African cultures and traditions?",
+                    "answer": "the African Centre for Cultural Studies",
+                    "explanation": "The center at OAU that is known for its research on African cultures and traditions is the African Centre for Cultural Studies."
+                }
+            ],
+            "hops": [
+                "African Union",
+                "OAU"
+            ]
+        },
+        "the Organisation of African Unity": {
+            "term": "the Organisation of African Unity",
+            "passage": "1. The Organisation of African Unity (OAU) was a continental organization founded on 25 May 1963 in Addis Ababa, Ethiopia. 2. The OAU was established with the aim of promoting political and socio-economic cooperation among its member states. 3. The organization's headquarters were initially located in Addis Ababa, but they were later moved to Dakar, Senegal, in 1972. 4. The OAU played a key role in promoting African unity and solidarity, and it was instrumental in the decolonization process of the continent. 5. The organization also worked towards the establishment of peace and security in Africa, and it played a significant role in resolving several conflicts in the continent. 6. The OAU was renamed as the African Union (AU) in 2002, following a decision by the organization's heads of state and government to create a more integrated and powerful union. 7. The AU is now responsible for promoting political, economic, and social integration in Africa, as well as managing conflicts and maintaining peace and security on the continent.",
+            "qae_pairs": [
+                {
+                    "question": "What year was the Organisation of African Unity renamed as the African Union?",
+                    "answer": "2002",
+                    "explanation": "The Organisation of African Unity was renamed as the African Union in 2002."
+                },
+                {
+                    "question": "What is the full name of 'the Organisation of African Unity'?     What is the full name of 'the Organisation of African Unity'?     What is the full name of 'the Organisation of African Unity'?     What is the full name of 'the Organisation of African Unity'?",
+                    "answer": "OAU",
+                    "explanation": "The full name of the Organisation of African Unity (OAU) is OAU."
+                },
+                {
+                    "question": "What year did the Organisation of African Unity move its headquarters from Addis Ababa to Dakar, Senegal?",
+                    "answer": "1972",
+                    "explanation": "The Organisation of African Unity moved its headquarters from Addis Ababa to Dakar, Senegal in 1972."
+                },
+                {
+                    "question": "What date was the Organisation of African Unity (OAU) founded on, as mentioned in the passage?",
+                    "answer": "25 May 1963",
+                    "explanation": "The Organisation of African Unity (OAU) was founded on 25 May 1963, as mentioned in the passage."
+                },
+                {
+                    "question": "What was the location of the headquarters of the Organisation of African Unity initially, and where were they later moved to?",
+                    "answer": "Ethiopia",
+                    "explanation": "The headquarters of the Organisation of African Unity (OAU) were initially located in Addis Ababa, Ethiopia. However, they were later moved to Dakar, Senegal, in 1972."
+                },
+                {
+                    "question": "What was the location of the headquarters of the Organisation of African Unity (OAU) initially, and where was it later moved to?",
+                    "answer": "Addis Ababa",
+                    "explanation": "The initial location of the headquarters of the Organisation of African Unity (OAU) was Addis Ababa, Ethiopia. However, it was later moved to Dakar, Senegal, in 1972."
+                }
+            ],
+            "hops": [
+                "African Union",
+                "the Organisation of African Unity"
+            ]
+        },
+        "Ethiopia": {
+            "term": "Ethiopia",
+            "passage": "1. Ethiopia is a country located in the Horn of Africa. 2. It is the second-most populous country in Africa, with a population of around 114 million people. 3. Ethiopia is a federal parliamentary republic and is divided into nine provinces. 4. The official language is Amharic, and the capital of Ethiopia is Addis Ababa. 5. Ethiopia has a diverse range of cultures and languages, with around 80 ethnic groups living in the country. 6. The economy of Ethiopia is based largely on agriculture, with coffee being one of the country's main exports. 7. Ethiopia is also known for its rich history and cultural heritage, with ancient sites such as the rock-hewn churches of Lalibela and the ancient city of Aksum. 8. Ethiopia is a member of the United Nations, the African Union, and the World Trade Organization.",
+            "qae_pairs": [
+                {
+                    "question": "What is the region where Ethiopia is located?",
+                    "answer": "the Horn of Africa",
+                    "explanation": "Ethiopia is a country located in the Horn of Africa."
+                },
+                {
+                    "question": "What language is the official language of Ethiopia according to the passage?",
+                    "answer": "Amharic",
+                    "explanation": "According to the passage, the official language of Ethiopia is Amharic."
+                },
+                {
+                    "question": "What is the name of the ancient site in Ethiopia that is known for its rock-hewn churches?",
+                    "answer": "Lalibela",
+                    "explanation": "The ancient site in Ethiopia that is known for its rock-hewn churches is Lalibela."
+                },
+                {
+                    "question": "What is the capital of Ethiopia, according to the passage?",
+                    "answer": "Addis Ababa",
+                    "explanation": "According to the passage, the capital of Ethiopia is Addis Ababa."
+                },
+                {
+                    "question": "What organization is Ethiopia a member of, according to the passage?",
+                    "answer": "the World Trade Organization",
+                    "explanation": "According to the passage, Ethiopia is a member of the World Trade Organization."
+                }
+            ],
+            "hops": [
+                "African Union",
+                "Ethiopia"
+            ]
+        },
+        "the African Court of Justice and Human Rights": {
+            "term": "the African Court of Justice and Human Rights",
+            "passage": "African Court of Justice and Human Rights The African Court of Justice and Human Rights is a continental court based in Arusha, Tanzania. It was established by the African Union (AU) on 17 July 2014, with the aim of promoting and protecting human rights and the rule of law in Africa. The court has the power to interpret and apply the African Charter on Human and Peoples' Rights, as well as other relevant human rights instruments. It also has the power to enforce its decisions, which are binding on the countries that have ratified the charter. The court is composed of 11 judges, who are elected for a term of three years by the AU Assembly. The court's headquarters is located in Arusha, Tanzania, and it has a branch office in Addis Ababa, Ethiopia.",
+            "qae_pairs": [
+                {
+                    "question": "What country is the seat of the African Court of Justice and Human Rights, as mentioned in the passage?",
+                    "answer": "Tanzania",
+                    "explanation": "The African Court of Justice and Human Rights is based in Arusha, Tanzania."
+                },
+                {
+                    "question": "What is the term of office for the judges of the African Court of Justice and Human Rights?",
+                    "answer": "three years",
+                    "explanation": "The term of office for the judges of the African Court of Justice and Human Rights is three years. This information is provided in the passage about the court, which states that the judges are elected for a term of three years by the AU Assembly."
+                },
+                {
+                    "question": "What date was the African Court of Justice and Human Rights established by the African Union?",
+                    "answer": "17 July 2014",
+                    "explanation": "The African Court of Justice and Human Rights was established by the African Union on 17 July 2014."
+                },
+                {
+                    "question": "What is the location of the African Court of Justice and Human Rights' branch office?",
+                    "answer": "Addis Ababa",
+                    "explanation": "The African Court of Justice and Human Rights has a branch office located in Addis Ababa, Ethiopia."
+                },
+                {
+                    "question": "What is the name of the city where the African Court of Justice and Human Rights is based, as described in the passage?",
+                    "answer": "Arusha",
+                    "explanation": "The African Court of Justice and Human Rights is based in Arusha, Tanzania, as described in the passage."
+                }
+            ],
+            "hops": [
+                "African Union",
+                "the African Court of Justice and Human Rights"
+            ]
+        },
+        "Indonesia": {
+            "term": "Indonesia",
+            "passage": "1. Indonesia is a country in Southeast Asia. 2. It is the world's fourth most populous country with a population of over 270 million people. 3. Indonesia is the largest economy in Southeast Asia and is a member of the G20 major economies. 4. The country has a diverse range of cultures and languages, with over 300 ethnic groups and 238 languages spoken. 5. Indonesia has a rich history and heritage, with influences from Hinduism, Buddhism, Islam, and Christianity. 6. The country is known for its beautiful beaches, volcanoes, and rainforests, which attract tourists from all over the world. 7. Indonesia is a presidential representative democratic republic, with the President as the head of state and government. 8. The country has a multi-party system, with the largest political parties being the Indonesian Democratic Party of Struggle and the Golkar Party. 9. Indonesia has a strong and growing economy, with a GDP growth rate of 5.2% in 2019. 10. The country is a member of numerous international organizations, including the United Nations, World Trade Organization, and the Asia-Pacific Economic Cooperation forum.",
+            "qae_pairs": [
+                {
+                    "question": "What organization is Indonesia a member of that is focused on promoting free trade and reducing trade barriers?",
+                    "answer": "World Trade Organization",
+                    "explanation": "Indonesia is a member of the World Trade Organization (WTO), which is an international organization that is focused on promoting free trade and reducing trade barriers. The WTO was established in 1995 and has 164 member countries. Its main goal is to ensure that trade flows as smoothly, predictably, and freely as possible, while also helping to create a level playing field for all participants in the global trading system. The WTO works to achieve this by negotiating and enforcing rules for international trade, resolving trade disputes, and providing technical assistance to developing countries."
+                },
+                {
+                    "question": "What type of government does Indonesia have according to the passage?",
+                    "answer": "democratic republic",
+                    "explanation": "According to the passage, Indonesia is a presidential representative democratic republic, with the President as the head of state and government."
+                },
+                {
+                    "question": "What political party is known as the largest in Indonesia, according to the passage?",
+                    "answer": "the Golkar Party",
+                    "explanation": "According to the passage, the largest political party in Indonesia is the Golkar Party."
+                },
+                {
+                    "question": "What is the religion of the majority of the population in Indonesia, as indicated in the passage?",
+                    "answer": "Islam",
+                    "explanation": "According to the passage, the majority of the population in Indonesia is Muslim. This is indicated in point 7, which states that Indonesia is a presidential representative democratic republic with the President as the head of state and government. Additionally, point 11 mentions that Indonesia is a member of the Organization of Islamic Cooperation, which further supports the idea that the majority of the population is Muslim."
+                },
+                {
+                    "question": "What is the region where Indonesia is located according to the passage?",
+                    "answer": "Southeast Asia",
+                    "explanation": "According to the passage, Indonesia is a country located in Southeast Asia."
+                },
+                {
+                    "question": "What is the name of the group that Indonesia is a member of, which is known for its diverse range of cultures and languages, and has a GDP growth rate of 5.2% in 2019?",
+                    "answer": "G20",
+                    "explanation": "The group that Indonesia is a member of, which is known for its diverse range of cultures and languages, and has a GDP growth rate of 5.2% in 2019 is the G20."
+                }
+            ],
+            "hops": [
+                "Association of Southeast Asian Nations",
+                "Indonesia"
+            ]
+        },
+        "Cambodia": {
+            "term": "Cambodia",
+            "passage": "Language: English Purpose: To generate a coherent and informative passage about Cambodia for English language learners. Introduction: Cambodia is a country located in Southeast Asia. It is bordered by Thailand to the northwest, Laos to the northeast, Vietnam to the east, and the Gulf of Thailand to the southwest. The capital and largest city of Cambodia is Phnom Penh. Main Body: Cambodia has a rich history and culture dating back to the Khmer Empire. The most famous attraction in Cambodia is the Angkor Archaeological Park, which contains the ruins of the ancient city of Angkor. Other popular tourist destinations include Siem Reap, Battambang, and Sihanoukville. The official language of Cambodia is Khmer, and the currency is the Cambodian riel, although US dollars are widely accepted. Cambodia is known for its beautiful temples and monuments, including the famous Angkor Wat, which is the largest religious monument in the world. The country also has a diverse range of flora and fauna, including the endangered Asian elephant and the Bengal tiger. Cambodia has a tropical climate with hot and humid weather throughout the year. The country experiences two main seasons: the dry season from November to April and the wet season from May to October. Conclusion: Cambodia is a country with a rich history and culture, beautiful temples and monuments, diverse flora and fauna, and a tropical climate. It is a popular tourist destination with many attractions and activities for visitors to enjoy.",
+            "qae_pairs": [
+                {
+                    "question": "What is the capital and largest city of Cambodia?",
+                    "answer": "Phnom Penh",
+                    "explanation": "The capital and largest city of Cambodia is Phnom Penh."
+                },
+                {
+                    "question": "What is the name of the largest religious monument in the world located in Cambodia?",
+                    "answer": "Angkor Wat",
+                    "explanation": "Angkor Wat is the name of the largest religious monument in Cambodia and the world. It is a famous attraction in Cambodia and is located in the Angkor Archaeological Park. Angkor Wat is a temple complex that was built in the 12th century and is dedicated to the Hindu god Vishnu. The temple is known for its intricate carvings and architecture, which reflect the Khmer Empire's religious and cultural beliefs. Visitors can explore the temple and learn about its history and significance through guided tours or self-guided visits."
+                },
+                {
+                    "question": "What is the name of the country that the US has a good relationship with?  Answer: Cambodia.",
+                    "answer": "US",
+                    "explanation": "The country that the US has a good relationship with is Cambodia."
+                },
+                {
+                    "question": "What is the best time to visit Cambodia for tourists, according to the passage?",
+                    "answer": "November to April",
+                    "explanation": "According to the passage, the best time to visit Cambodia for tourists is from November to April, which is the dry season. During this time, visitors can expect hot and dry weather, which is ideal for exploring the country's many attractions and activities. However, it is important to note that the wet season, from May to October, also has its own unique beauty and may be a good time to visit for those interested in experiencing the country's lush landscapes and greenery."
+                },
+                {
+                    "question": "What is the answer to the question generated from the passage about Cambodia?",
+                    "answer": "Southeast Asia",
+                    "explanation": "The answer to the question generated from the passage about Cambodia is Southeast Asia. This is because the passage describes Cambodia as a country located in Southeast Asia, and provides information about its neighboring countries such as Thailand, Laos, Vietnam, and the Gulf of Thailand."
+                },
+                {
+                    "question": "What body of water borders Cambodia to the southwest?",
+                    "answer": "the Gulf of Thailand",
+                    "explanation": "The Gulf of Thailand borders Cambodia to the southwest."
+                }
+            ],
+            "hops": [
+                "Association of Southeast Asian Nations",
+                "Cambodia"
+            ]
+        },
+        "Bangkok": {
+            "term": "Bangkok",
+            "passage": "Bangkok is the capital and largest city of Thailand. It is located in Chao Phraya River delta in central Thailand. With a population of over 14 million people, Bangkok is among the most densely populated cities in the world. The city is known for its high-rise buildings, bustling streets, and vibrant nightlife. It is also a major economic and cultural center of Southeast Asia. The city has a rich history and is home to many historic sites, including the Grand Palace, Wat Phra Kaew, and Wat Arun, which are recognized as a UNESCO World Heritage Site. Bangkok is also a hub for transportation, with Suvarnabhumi Airport and Don Mueang International Airport serving as major gateways to the city.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the river that Bangkok is located in?",
+                    "answer": "Chao Phraya River",
+                    "explanation": "The name of the river that Bangkok is located in is the Chao Phraya River."
+                },
+                {
+                    "question": "What is the capital city of Thailand?     Answer: Bangkok.",
+                    "answer": "Thailand",
+                    "explanation": "Bangkok is the capital and largest city of Thailand."
+                }
+            ],
+            "hops": [
+                "Association of Southeast Asian Nations",
+                "Bangkok"
+            ]
+        },
+        "Thailand": {
+            "term": "Thailand",
+            "passage": "1. Thailand, officially the Kingdom of Thailand, is a country in Southeast Asia with a population of over 69 million people. 2. Its capital and largest city is Bangkok, which is known for its high-rise buildings, vibrant street life, and ancient temples. 3. Thailand is the only country in Southeast Asia that was never colonized by a European power, and the Thai language and culture have been preserved. 4. The country has a diverse landscape, with mountains, forests, and beaches, and is known for its tropical climate and delicious cuisine. 5. Thailand is a constitutional monarchy, with King Maha Vajiralongkorn as the current monarch. 6. The country has a strong economy, driven by industries such as tourism, agriculture, and manufacturing. 7. Thailand is also known for its rich history and culture, with ancient ruins and temples scattered throughout the country. 8. The country has a unique blend of Buddhism and Hinduism, and is home to many festivals and celebrations throughout the year. 9. Thailand is a popular destination for tourists, with attractions such as the Grand Palace, the beaches of Phuket, and the night markets of Bangkok. 10. The country is also known for its Muay Thai boxing, which is a national sport and a popular form of entertainment.",
+            "qae_pairs": [
+                {
+                    "question": "What is the region where Thailand is located according to the passage?",
+                    "answer": "Southeast Asia",
+                    "explanation": "According to the passage, Thailand is a country located in Southeast Asia."
+                },
+                {
+                    "question": "What is the national sport of Thailand that is also a popular form of entertainment?",
+                    "answer": "Muay Thai",
+                    "explanation": "Muay Thai is the national sport of Thailand and is also a popular form of entertainment."
+                },
+                {
+                    "question": "What is the capital and largest city of Thailand, according to the passage?",
+                    "answer": "Bangkok",
+                    "explanation": "According to the passage, the capital and largest city of Thailand is Bangkok."
+                },
+                {
+                    "question": "What is the name of the city in Thailand that is known for its beaches and is a popular tourist destination?",
+                    "answer": "Phuket",
+                    "explanation": "Phuket."
+                }
+            ],
+            "hops": [
+                "Association of Southeast Asian Nations",
+                "Thailand"
+            ]
+        },
+        "the ASEAN Economic Community": {
+            "term": "the ASEAN Economic Community",
+            "passage": "1. The ASEAN Economic Community (AEC) is a single market and production base that aims to promote economic integration and cooperation among the ten member countries of the Association of Southeast Asian Nations (ASEAN). 2. The AEC was established on 31 December 2015, with the goal of creating a more competitive and dynamic region by reducing barriers to trade and investment, promoting greater foreign investment, and facilitating the free flow of goods, services, investment, and skilled labor across national borders. 3. The AEC is designed to be a people-centered community that benefits all members of society, including businesses, workers, and consumers. It aims to create a more inclusive and sustainable economy that is resilient to external shocks and able to compete on a global scale. 4. The AEC is supported by a range of initiatives and programs aimed at strengthening the region's economic integration, including the ASEAN Free Trade Area (AFTA), the ASEAN Investment Area (AIA), and the ASEAN Single Window. 5. The AEC is also working to enhance connectivity and infrastructure in the region, with a focus on improving transportation, telecommunications, and energy networks. This will help to reduce logistics costs, increase trade and investment flows, and improve the overall business environment. 6. Despite some challenges and obstacles, the AEC has made significant progress in its first few years of operation, with ASEAN countries continuing to deepen their economic integration and cooperation. The AEC is seen as a key driver of economic growth and development in the region, and is expected to play an increasingly important role in global trade and investment in the years ahead.",
+            "qae_pairs": [
+                {
+                    "question": "What was the date on which the ASEAN Economic Community (AEC) was established, according to the passage?",
+                    "answer": "31 December 2015",
+                    "explanation": "According to the passage, the ASEAN Economic Community (AEC) was established on 31 December 2015."
+                },
+                {
+                    "question": "What is the ASEAN Economic Community?",
+                    "answer": "AEC",
+                    "explanation": "The ASEAN Economic Community (AEC) is a single market and production base that aims to promote economic integration and cooperation among the ten member countries of the Association of Southeast Asian Nations (ASEAN)."
+                }
+            ],
+            "hops": [
+                "Association of Southeast Asian Nations",
+                "the ASEAN Economic Community"
+            ]
+        },
+        "Belgium": {
+            "term": "Belgium",
+            "passage": "1. Belgium is a country in Western Europe. 2. It is bordered by the Netherlands to the north, Germany to the east, Luxembourg to the southeast, France to the southwest, and the North Sea to the northwest. 3. Its capital and largest city is Brussels. 4. Belgium is a federal parliamentary democracy and a constitutional monarchy with a king and a prime minister. 5. The country is divided into three regions: Flanders, Wallonia, and the Brussels-Capital Region. 6. The economy of Belgium is heavily reliant on services, which account for nearly 70% of its GDP. 7. The country is also known for its beer, chocolate, and waffles. 8. Belgium has a rich history and culture, with notable contributions to art, literature, and music. 9. It is home to several UNESCO World Heritage Sites, including the historic center of Brugge and the Grand Place in Brussels. 10. Belgium is a member of the European Union, NATO, and the United Nations.",
+            "qae_pairs": [
+                {
+                    "question": "What is the organization that Belgium is a member of, according to the passage?",
+                    "answer": "the United Nations",
+                    "explanation": "According to the passage, Belgium is a member of the United Nations."
+                },
+                {
+                    "question": "What region of Belgium is known for its famous beer and chocolate?",
+                    "answer": "Western Europe",
+                    "explanation": "Belgium is a country in Western Europe that is known for its famous beer and chocolate."
+                },
+                {
+                    "question": "What body of water borders Belgium to the northwest and is part of the Atlantic Ocean?",
+                    "answer": "the North Sea",
+                    "explanation": "The body of water that borders Belgium to the northwest and is part of the Atlantic Ocean is the North Sea. This is mentioned in point 6 of the passage about Belgium."
+                },
+                {
+                    "question": "What country is located to the southwest of Belgium, and shares a border with it?",
+                    "answer": "France",
+                    "explanation": "The country that is located to the southwest of Belgium and shares a border with it is France."
+                },
+                {
+                    "question": "What country borders Belgium to the east and is known for its history and culture?",
+                    "answer": "Germany",
+                    "explanation": "Germany borders Belgium to the east and is known for its rich history and culture."
+                },
+                {
+                    "question": "What is the name of the city in Belgium that is known for its historic center and is a UNESCO World Heritage Site?",
+                    "answer": "Brugge",
+                    "explanation": "Brugge is the name of the city in Belgium that is known for its historic center and is a UNESCO World Heritage Site."
+                },
+                {
+                    "question": "What is the country that borders Belgium to the north?",
+                    "answer": "Netherlands",
+                    "explanation": "The country that borders Belgium to the north is the Netherlands."
+                }
+            ],
+            "hops": [
+                "North Atlantic Treaty Organization",
+                "Belgium"
+            ]
+        },
+        "Jens Stoltenberg": {
+            "term": "Jens Stoltenberg",
+            "passage": "Jens Stoltenberg (born 16 March 1959) is a Norwegian politician who served as the 27th Prime Minister of Norway from 2000 to 2001 and again from 2005 to 2016. He is a member of the Labour Party, which he joined in 1987. Stoltenberg was the leader of the Labour Party from 2002 to 2014. Stoltenberg was born in Oslo, Norway, and studied at the University of Oslo and the London School of Economics. He worked as a journalist for the Norwegian Broadcasting Corporation before entering politics. Stoltenberg served as the leader of the opposition in the Norwegian parliament from 2001 to 2005. He became Prime Minister for the first time in 2000, following the resignation of Jens Sande. He led the Labour Party to victory in the 2005 election, and served as Prime Minister until 2013. During his time in office, he focused on economic growth, environmental protection, and social welfare. Stoltenberg was re-elected as Prime Minister in the 2013 election, and served until 2016. During his second term, he focused on improving Norway's security and defense, as well as promoting sustainable economic growth. Stoltenberg is known for his conciliatory and diplomatic style, and has been praised for his ability to bring people together. He has been married to Ingrid Schulerud since 1991, and they have two children.",
+            "qae_pairs": [
+                {
+                    "question": "What year did Jens Stoltenberg join the Labour Party, as mentioned in the passage?",
+                    "answer": "1987",
+                    "explanation": "According to the passage, Jens Stoltenberg joined the Labour Party in 1987."
+                },
+                {
+                    "question": "What year did Jens Stoltenberg become Prime Minister for the second time, according to the passage?",
+                    "answer": "2013",
+                    "explanation": "According to the passage, Jens Stoltenberg became Prime Minister for the second time in 2013."
+                },
+                {
+                    "question": "What educational institution did Jens Stoltenberg attend in Oslo, as mentioned in the passage?",
+                    "answer": "the University of Oslo",
+                    "explanation": "According to the passage, Jens Stoltenberg attended the University of Oslo."
+                },
+                {
+                    "question": "What is the name of the person who served as Prime Minister of Norway before Jens Stoltenberg?",
+                    "answer": "Jens Sande",
+                    "explanation": "The name of the person who served as Prime Minister of Norway before Jens Stoltenberg is Jens Sande."
+                },
+                {
+                    "question": "What is the name of the political party that Jens Stoltenberg belongs to, as mentioned in the passage?",
+                    "answer": "the Labour Party",
+                    "explanation": "The name of the political party that Jens Stoltenberg belongs to, as mentioned in the passage, is the Labour Party."
+                },
+                {
+                    "question": "What is the name of Jens Stoltenberg's wife, according to the passage?",
+                    "answer": "Ingrid Schulerud",
+                    "explanation": "According to the passage, Jens Stoltenberg's wife is Ingrid Schulerud."
+                },
+                {
+                    "question": "What was the time period during which Jens Stoltenberg served as the Prime Minister of Norway?",
+                    "answer": "2000 to 2001",
+                    "explanation": "Jens Stoltenberg served as the Prime Minister of Norway twice, first from 2000 to 2001 and then from 2005 to 2016."
+                },
+                {
+                    "question": "What year did Jens Stoltenberg become the leader of the Labour Party?",
+                    "answer": "2002",
+                    "explanation": "Jens Stoltenberg became the leader of the Labour Party in 2002."
+                },
+                {
+                    "question": "What is the date of birth of Jens Stoltenberg, as mentioned in the passage?",
+                    "answer": "16 March 1959",
+                    "explanation": "According to the passage, the date of birth of Jens Stoltenberg is 16 March 1959."
+                }
+            ],
+            "hops": [
+                "North Atlantic Treaty Organization",
+                "Jens Stoltenberg"
+            ]
+        },
+        "Italy": {
+            "term": "Italy",
+            "passage": "Italy is a country in Southern Europe. Located on the Italian Peninsula, it shares borders with France, Switzerland, Austria, and Slovenia. Italy is known for its art, culture, history, fashion, and cuisine. Rome is the capital and largest city of Italy, with a population of over 2.7 million people. Other major cities include Milan, Naples, Turin, and Florence. The country has a rich history, dating back to the Roman Empire, and is home to many famous landmarks such as the Colosseum, the Leaning Tower of Pisa, and the Sistine Chapel. Italy is also famous for its contributions to art and architecture, including the Renaissance period. Today, Italy is a member of the European Union and has a thriving economy based on industries such as tourism, fashion, and food and wine production.",
+            "qae_pairs": [
+                {
+                    "question": "What is the famous landmark in Italy that is also known as the Flavian Amphitheatre?",
+                    "answer": "Colosseum",
+                    "explanation": "The famous landmark in Italy that is also known as the Flavian Amphitheatre is the Colosseum."
+                },
+                {
+                    "question": "What is the country that borders Italy to the north?",
+                    "answer": "Switzerland",
+                    "explanation": "Switzerland is the country that borders Italy to the north."
+                },
+                {
+                    "question": "What city in Italy is known for its contributions to art and architecture, and is also a major economic hub?",
+                    "answer": "Milan",
+                    "explanation": "Milan is a city in Italy that is known for its contributions to art and architecture, and is also a major economic hub. It is located in the northern part of the country and is the second-largest city in Italy, with a population of over 1.5 million people. Milan is home to many famous landmarks, including the Gothic cathedral of Milan, the Sforza Castle, and the Galleria Vittorio Emanuele II, which is one of the oldest shopping malls in the world."
+                },
+                {
+                    "question": "What is the country that borders Italy to the north and shares a border with Switzerland, Austria, and Slovenia?",
+                    "answer": "France",
+                    "explanation": "The country that borders Italy to the north and shares a border with Switzerland, Austria, and Slovenia is France."
+                },
+                {
+                    "question": "What is the capital and largest city of Italy, and what is it known for in terms of its history and cultural contributions?",
+                    "answer": "the Roman Empire",
+                    "explanation": "The capital and largest city of Italy is Rome, with a population of over 2.7 million people. Rome is known for its rich history, dating back to the Roman Empire, and is home to many famous landmarks such as the Colosseum, the Leaning Tower of Pisa, and the Sistine Chapel. Italy is also famous for its contributions to art and architecture, including the Renaissance period."
+                },
+                {
+                    "question": "What is the capital and largest city of Italy, where is located on the Italian Peninsula, and what is Italy known for?",
+                    "answer": "Rome",
+                    "explanation": "Rome is the capital and largest city of Italy, located on the Italian Peninsula. Italy is known for its art, culture, history, fashion, and cuisine."
+                },
+                {
+                    "question": "What is the location of Italy in Europe?",
+                    "answer": "Southern Europe",
+                    "explanation": "Italy is a country located in Southern Europe."
+                },
+                {
+                    "question": "What city in Italy is famous for its art and architecture from the Renaissance period, and is also the birthplace of the Italian Renaissance?",
+                    "answer": "Florence",
+                    "explanation": "Florence is the city in Italy that is famous for its art and architecture from the Renaissance period, and is also the birthplace of the Italian Renaissance."
+                }
+            ],
+            "hops": [
+                "North Atlantic Treaty Organization",
+                "Italy"
+            ]
+        },
+        "Iceland": {
+            "term": "Iceland",
+            "passage": "Iceland is a Nordic island country located in the North Atlantic Ocean. It has a population of around 357,671 and an area of 102,775 square kilometers, making it the most sparsely populated country in Europe. The capital and largest city is Reykjavik. Iceland is known for its natural beauty, including glaciers, waterfalls, geothermal areas, and the Northern Lights. The country has a market economy and a high level of social equality. Iceland is a member of the United Nations, the European Union, and NATO.",
+            "qae_pairs": [
+                {
+                    "question": "What body of water surrounds Iceland?",
+                    "answer": "the North Atlantic Ocean",
+                    "explanation": "Iceland is surrounded by the North Atlantic Ocean."
+                },
+                {
+                    "question": "What is the term used to describe the country of Iceland in the passage?",
+                    "answer": "Nordic",
+                    "explanation": ""
+                },
+                {
+                    "question": "What is the organization that Iceland is a member of, according to the passage?",
+                    "answer": "the United Nations",
+                    "explanation": "According to the passage, Iceland is a member of the United Nations, the European Union, and NATO."
+                },
+                {
+                    "question": "What is the capital city of Iceland, as mentioned in the passage?",
+                    "answer": "Reykjavik",
+                    "explanation": "The capital city of Iceland, as mentioned in the passage, is Reykjavik."
+                },
+                {
+                    "question": "What is the answer to the question that contains the term 'Iceland' and describes the natural phenomenon that can be seen in the country?",
+                    "answer": "the Northern Lights",
+                    "explanation": "The natural phenomenon that can be seen in Iceland is the Northern Lights."
+                }
+            ],
+            "hops": [
+                "North Atlantic Treaty Organization",
+                "Iceland"
+            ]
+        },
+        "Norway": {
+            "term": "Norway",
+            "passage": "1. Norway is a Nordic country located in Scandinavia. 2. It shares borders with Sweden to the east and Finland to the north. 3. The country is known for its stunning natural beauty, including mountains, forests, and fjords. 4. The capital city of Norway is Oslo, which is located on the southern coast of the country. 5. Norway has a rich cultural heritage, with traditional folk music and dance playing an important role in the country's cultural identity. 6. The official language of Norway is Norwegian, which is spoken by nearly all Norwegians. 7. The country is also known for its strong commitment to environmental protection and sustainability. 8. Norway is a constitutional monarchy, with King Harald V serving as the current monarch. 9. The country has a highly developed economy, with a strong focus on oil and gas production. 10. Norway is a member of the European Free Trade Association and the World Trade Organization, but is not a member of the European Union.",
+            "qae_pairs": [
+                {
+                    "question": "What country borders Norway to the north and shares a border with Sweden to the east?",
+                    "answer": "Finland",
+                    "explanation": "Finland borders Norway to the north and shares a border with Sweden to the east."
+                },
+                {
+                    "question": "What organization is Norway a member of, according to the passage?",
+                    "answer": "the World Trade Organization",
+                    "explanation": "According to the passage, Norway is a member of the World Trade Organization (WTO)."
+                },
+                {
+                    "question": "What is the region where Norway is located, according to the passage?",
+                    "answer": "Scandinavia",
+                    "explanation": "According to the passage, Norway is a Nordic country located in Scandinavia."
+                },
+                {
+                    "question": "What organization is Norway a member of, according to the passage, that allows for free trade within Europe and the World Trade Organization, but not the European Union?",
+                    "answer": "the European Free Trade Association",
+                    "explanation": "According to the passage, Norway is a member of the European Free Trade Association and the World Trade Organization, but is not a member of the European Union."
+                },
+                {
+                    "question": "What is the name of Norway's current monarch, who is known for his strong commitment to environmental protection and sustainability, and whose country has a highly developed economy with a strong focus on oil and gas production?",
+                    "answer": "King Harald V",
+                    "explanation": "King Harald V is the name of Norway's current monarch, who is known for his strong commitment to environmental protection and sustainability, and whose country has a highly developed economy with a strong focus on oil and gas production."
+                },
+                {
+                    "question": "What is the country that borders Norway to the east and shares a border with Finland to the north?",
+                    "answer": "Sweden",
+                    "explanation": "The country that borders Norway to the east and shares a border with Finland to the north is Sweden."
+                },
+                {
+                    "question": "What is the capital city of Norway, where 'Norway' is mentioned in the passage?",
+                    "answer": "Oslo",
+                    "explanation": "The capital city of Norway, as mentioned in the passage, is Oslo."
+                }
+            ],
+            "hops": [
+                "North Atlantic Treaty Organization",
+                "Norway"
+            ]
+        },
+        "the Inter-American Development Bank": {
+            "term": "the Inter-American Development Bank",
+            "passage": "The Inter-American Development Bank (IDB) is a financial institution established in 1959 to promote economic development in the Western Hemisphere. The IDB has a mandate to support the economic development of its member countries by financing development projects and providing technical assistance. The IDB is headquartered in Washington, D.C. and has offices in several Latin American and Caribbean countries. The IDB provides loans, grants, and technical assistance to its member countries to support projects in areas such as infrastructure, education, health, and the environment. The IDB also conducts research and provides policy advice to its member countries. The IDB is owned by its member countries, which are located in North, Central, and South America, as well as the Caribbean. The IDB is governed by a Board of Governors, which is made up of representatives from its member countries. The IDB also has a President, who is appointed by the Board of Governors, and a staff of over 3,000 people. The IDB has provided financing for a wide range of projects, including the construction of roads, bridges, and other infrastructure, as well as projects to improve access to education, healthcare, and clean water. The IDB has also provided funding for renewable energy projects and for efforts to combat climate change. The IDB works closely with other multilateral development banks, such as the World Bank and the International Monetary Fund, to support economic development in the Western Hemisphere. The IDB is committed to promoting sustainable development and reducing poverty in the region.",
+            "qae_pairs": [
+                {
+                    "question": "What is the acronym for 'the Inter-American Development Bank'?  Answer: IDB.",
+                    "answer": "IDB",
+                    "explanation": "The acronym for 'the Inter-American Development Bank' is IDB."
+                },
+                {
+                    "question": "What is the name of the body that appoints the President of the Inter-American Development Bank?     Answer: Board of Governors.",
+                    "answer": "Board of Governors",
+                    "explanation": "The Board of Governors appoints the President of the Inter-American Development Bank."
+                },
+                {
+                    "question": "What year was the Inter-American Development Bank established?",
+                    "answer": "1959",
+                    "explanation": "The Inter-American Development Bank (IDB) was established in 1959."
+                },
+                {
+                    "question": "What is the region where the Inter-American Development Bank provides financing for development projects?",
+                    "answer": "Caribbean",
+                    "explanation": "The Inter-American Development Bank provides financing for development projects in North, Central, and South America as well as the Caribbean."
+                },
+                {
+                    "question": "What is the location of the member countries of the Inter-American Development Bank?",
+                    "answer": "North, Central",
+                    "explanation": "The member countries of the Inter-American Development Bank are located in North, Central, and South America as well as the Caribbean."
+                },
+                {
+                    "question": "What is the location of the Inter-American Development Bank's headquarters?",
+                    "answer": "Washington",
+                    "explanation": "The Inter-American Development Bank's headquarters is located in Washington, D.C."
+                }
+            ],
+            "hops": [
+                "Organization of American States",
+                "the Inter-American Development Bank"
+            ]
+        },
+        "Colombia": {
+            "term": "Colombia",
+            "passage": "Colombia is a sovereign state largely situated in the northwest of South America, but also comprising territories in Central America. Colombia shares its borders to the northwest with Panama, to the north with the Caribbean Sea, to the east with Venezuela and Brazil, and to the south with Ecuador and Peru. The country's capital and largest city is Bogotá, which is located in the center of the country. Colombia is a unitary constitutional republic comprising 32 departments. The territory of what is now Colombia was originally inhabited by indigenous peoples including the Muisca, Quimbaya, and Tayrona. The Spanish arrived in 1499 and initially founded Santa Marta, which is the first permanent settlement in the Americas. Colombia gained its independence from Spain in 1819, and since then has undergone a variety of political and social processes, including periods of instability and conflict. Today, Colombia is a democratic republic with a presidential system of government. The economy is based largely on the export of agricultural products, particularly coffee, as well as mining and oil. Colombia is known for its rich biodiversity, including tropical rainforests, Andean mountains, and both Caribbean and Pacific coastlines. The country is also home to a diverse range of cultures and languages, including Spanish, English, and indigenous languages.",
+            "qae_pairs": [
+                {
+                    "question": "What is the country that shares its borders with Colombia to the east and Brazil to the south?",
+                    "answer": "Venezuela",
+                    "explanation": "The country that shares its borders with Colombia to the east and Brazil to the south is Venezuela."
+                },
+                {
+                    "question": "What country borders Colombia to the south and east?",
+                    "answer": "Ecuador",
+                    "explanation": "Ecuador borders Colombia to the south and east."
+                },
+                {
+                    "question": "What is the capital city of Colombia?",
+                    "answer": "Bogotá",
+                    "explanation": "Bogotá is the capital city of Colombia."
+                },
+                {
+                    "question": "What region is Colombia located in?",
+                    "answer": "Central America",
+                    "explanation": "Colombia is not located in Central America. It is located in Northwest South America, and it also comprises territories in Central America."
+                },
+                {
+                    "question": "What body of water borders Colombia to the east?",
+                    "answer": "the Caribbean Sea",
+                    "explanation": "The body of water that borders Colombia to the east is the Caribbean Sea."
+                },
+                {
+                    "question": "What was the year in which Colombia gained its independence from Spain?",
+                    "answer": "1819",
+                    "explanation": "The year in which Colombia gained its independence from Spain was 1819."
+                },
+                {
+                    "question": "What is the capital city of Colombia and which country does it share a border with to the northwest?",
+                    "answer": "Panama",
+                    "explanation": "The capital city of Colombia is Bogotá, which is located in the center of the country. However, the country's largest city is Bogotá, which is also the capital. As for the country that Colombia shares a border with to the northwest, that would be Panama."
+                },
+                {
+                    "question": "What country did Colombia share its borders with to the south?",
+                    "answer": "Peru",
+                    "explanation": "Colombia shares its borders to the south with Ecuador and Peru."
+                }
+            ],
+            "hops": [
+                "Organization of American States",
+                "Colombia"
+            ]
+        },
+        "North, Central": {
+            "term": "North, Central",
+            "passage": "and South America. Minimum 5 sentences. Use at least 2 links. North, Central, and South America are the three main regions of the Americas. North America consists of the United States, Canada, and Mexico. Central America consists of Belize, Costa Rica, El Salvador, Guatemala, Honduras, Nicaragua, and Panama. South America consists of 12 countries, including Argentina, Bolivia, Brazil, Chile, Colombia, Ecuador, Guyana, Paraguay, Peru, Suriname, Uruguay, and Venezuela. North America was originally inhabited by indigenous peoples for thousands of years before being colonized by Europeans in the 16th century. Central America was also home to several indigenous cultures, including the Maya and the Aztecs. South America was home to the Inca Empire and many other indigenous cultures. Today, North America is known for its diverse culture, advanced technology, and strong economy. Central America is known for its beautiful beaches, rich history, and unique wildlife. South America is known for its stunning landscapes, vibrant culture, and passion for soccer. Overall, North, Central, and South America are all unique regions with their own distinct cultures, histories, and natural beauty.",
+            "qae_pairs": [
+                {
+                    "question": "What country is located in North, Central America? Answer: Panama.",
+                    "answer": "Panama",
+                    "explanation": "Panama is a country located in Central America. It is bordered by Costa Rica to the west, Colombia to the southeast, and the Caribbean Sea to the north and east. Panama is known for its beautiful beaches, rich history, and unique wildlife. The country is also home to the Panama Canal, which is a major transportation hub and an important source of revenue for the country's economy. Additionally, Panama is known for its diverse culture, advanced technology, and strong economy."
+                },
+                {
+                    "question": "What is the estimated time period for the North, Central American, and South American continents to have evolved into their current forms?  Answer: Thousands of years.",
+                    "answer": "thousands of years",
+                    "explanation": "The evolution of North, Central, and South America into their current forms is estimated to have taken thousands of years. The indigenous peoples of North America, Central America, and South America all developed their own unique cultures, histories, and natural beauty over time. The arrival of Europeans in the 16th century had a significant impact on the region, leading to the colonization and eventual formation of the modern-day countries we know today."
+                },
+                {
+                    "question": "What is the capital of North, Central America?     Answer: The United States.     As an AI language model, I can generate a question that meets the conditions you provided. However, I must clarify that the answer to the question is not 'the United States'. The correct",
+                    "answer": "the United States",
+                    "explanation": "I'm sorry, but the answer to the question is not accurate. The United States is not the capital of North, Central, and South America. North America is made up of three countries: the United States, Canada, and Mexico. Central America consists of seven countries: Belize, Costa Rica, El Salvador, Guatemala, Honduras, Nicaragua, and Panama. South America has twelve countries, including Argentina, Bolivia, Brazil, Chile, Colombia, Ecuador, Guyana, Paraguay, Peru, Suriname, Uruguay, and Venezuela."
+                },
+                {
+                    "question": "What is the capital of North, Central America?     Answer: Canada.     As an AI language model, I can generate questions and answers based on the given prompt. However, I cannot guarantee the accuracy of the information provided.",
+                    "answer": "Canada",
+                    "explanation": "I'm sorry, but the answer to your question is incorrect. The capital of North America is not Canada. In fact, Canada is a country in North America, and its capital is Ottawa. The prompt mentions that North America consists of the United States, Canada, and Mexico. It does not mention any other countries in North America. Therefore, the answer to your question should be Ottawa. As for the other regions mentioned in the prompt, Central America consists of seven countries, including Belize, Costa Rica, El Salvador, Guatemala, Honduras, Nicaragua, and Panama."
+                },
+                {
+                    "question": "What is the location of North, Central? Answer: Central America.",
+                    "answer": "Central America",
+                    "explanation": "North, Central, and South America are the three main regions of the Americas. North America consists of the United States, Canada, and Mexico. Central America consists of Belize, Costa Rica, El Salvador, Guatemala, Honduras, Nicaragua, and Panama. South America consists of 12 countries, including Argentina, Bolivia, Brazil, Chile, Colombia, Ecuador, Guyana, Paraguay, Peru, Suriname, Uruguay, and Venezuela."
+                }
+            ],
+            "hops": [
+                "Organization of American States",
+                "North, Central"
+            ]
+        },
+        "Bogotá": {
+            "term": "Bogotá",
+            "passage": "Bogotá is the capital and largest city of Colombia. It is located in the central part of the country, in the Andes mountains, at an altitude of 2,640 meters (8,660 ft) above sea level. With a population of over 8 million people, Bogotá is the third-largest city in the Americas, behind São Paulo and Mexico City. The city is divided into 20 localities, each with its own mayor and city council. Bogotá is a center for commerce, industry, and culture in Colombia. It is home to many universities, museums, and theaters. The city has a tropical rainforest climate with two distinct seasons: a wet season and a dry season. The wet season usually runs from April to November, while the dry season runs from December to March. Bogotá has a well-preserved historic center, which is a UNESCO World Heritage Site. The city also has many parks and green spaces, including the 3,000-hectare (7,400-acre) Simón Bolívar Park, which is one of the largest urban parks in the world. The city is served by El Dorado International Airport, which is one of the largest airports in Latin America. Bogotá is also a major transportation hub, with a metro system, buses, and taxis providing access to other parts of the country.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the governing body that oversees the localities in Bogotá?",
+                    "answer": "city council",
+                    "explanation": "The governing body that oversees the localities in Bogotá is the city council."
+                },
+                {
+                    "question": "What is the name of the mountain range that Bogotá is located in, according to the passage?",
+                    "answer": "Andes",
+                    "explanation": "According to the passage, Bogotá is located in the Andes mountains."
+                },
+                {
+                    "question": "What is the capital city of Mexico?     Answer: Bogotá.     As you can see, the question and answer do not match. Please try again.      What is the capital city of Mexico?     Answer: Mexico City.",
+                    "answer": "Mexico City",
+                    "explanation": "Mexico City is the capital city of Mexico."
+                },
+                {
+                    "question": "What is the name of the airport in Bogotá that serves as a major transportation hub and is one of the largest airports in Latin America?",
+                    "answer": "El Dorado International Airport",
+                    "explanation": "El Dorado International Airport."
+                },
+                {
+                    "question": "What is the best time to visit Bogotá for tourists?",
+                    "answer": "December to March",
+                    "explanation": "The best time to visit Bogotá for tourists is from December to March, which is the dry season. This is because the weather is pleasant, with temperatures ranging from 18°C to 25°C (64°F to 77°F), and there is less rain and humidity compared to the wet season. Additionally, many events and festivals take place during this time, such as the Festival of the Flowers and the International Book Fair."
+                }
+            ],
+            "hops": [
+                "Organization of American States",
+                "Bogotá"
+            ]
+        },
+        "OAS": {
+            "term": "OAS",
+            "passage": "OAS The Organization of American States (OAS) is an inter-governmental organization founded on 30 April 1948, for the purposes of regional solidarity among its member states. The organization operates in the Western Hemisphere, and has its headquarters in Washington, D.C., United States. The organization's stated goal is to promote democracy, human rights, and social and economic development in the Americas. The OAS was established as a response to the growing tensions between the United States and its Latin American neighbors, particularly in the aftermath of World War II. The organization's founding members included the United States, Canada, and 20 Latin American nations. Today, the OAS has 35 member states, including all countries in the Americas except Cuba. The OAS operates through a number of different bodies and programs, including the Inter-American Commission on Human Rights, the Inter-American Court of Human Rights, and the Inter-American Development Bank. The organization also sponsors a number of cultural initiatives, such as the Inter-American Culture and Sports Festival, and the Inter-American Children's Institute. The OAS has been involved in a number of controversial issues over the years, including the 2009 Honduran coup d'état, the 2019 Venezuelan presidential crisis, and the ongoing migrant crisis in the Americas. Despite these controversies, the OAS remains an important forum for regional cooperation and dialogue in the Americas.",
+            "qae_pairs": [
+                {
+                    "question": "What is the headquarters of the OAS, according to the passage?",
+                    "answer": "Washington",
+                    "explanation": "The headquarters of the OAS, according to the passage, is Washington, D.C., United States."
+                },
+                {
+                    "question": "What is the significance of the Organization of American States (OAS) in the relationship between Cuba and the United States?",
+                    "answer": "Cuba",
+                    "explanation": "The Organization of American States (OAS) has played a significant role in the relationship between Cuba and the United States. Cuba was suspended from the OAS in 1962 after the Cuban Revolution, and its readmission has been a contentious issue in recent years. The OAS has been involved in efforts to promote democracy and human rights in Cuba, and has criticized the country's record on these issues."
+                },
+                {
+                    "question": "What is the name of the court within the OAS that deals with human rights cases?",
+                    "answer": "the Inter-American Court of Human Rights",
+                    "explanation": "The Inter-American Court of Human Rights is a court within the Organization of American States (OAS) that deals with human rights cases."
+                },
+                {
+                    "question": "What is the headquarters of the Organization of American States (OAS)?",
+                    "answer": "United States",
+                    "explanation": "The headquarters of the Organization of American States (OAS) is located in Washington, D.C., United States."
+                },
+                {
+                    "question": "What is the name of the cultural festival organized by the OAS?",
+                    "answer": "the Inter-American Culture and Sports Festival",
+                    "explanation": "The cultural festival organized by the OAS is called the Inter-American Culture and Sports Festival."
+                },
+                {
+                    "question": "What country was a founding member of the OAS?",
+                    "answer": "Canada",
+                    "explanation": "Canada was one of the founding members of the Organization of American States (OAS) in 1948, along with the United States and 20 Latin American nations."
+                },
+                {
+                    "question": "What is the name of the organization within the OAS that focuses on issues related to children?",
+                    "answer": "the Inter-American Children's Institute",
+                    "explanation": "The Inter-American Children's Institute is a program within the Organization of American States (OAS) that focuses on issues related to children."
+                },
+                {
+                    "question": "What is the name of the organization within the OAS that is responsible for promoting human rights in the Americas?",
+                    "answer": "the Inter-American Commission on Human Rights",
+                    "explanation": "The Inter-American Commission on Human Rights is the name of the organization within the OAS that is responsible for promoting human rights in the Americas."
+                },
+                {
+                    "question": "What is the purpose of the OAS according to the passage?",
+                    "answer": "Americas",
+                    "explanation": "The purpose of the OAS according to the passage is to promote democracy, human rights, and social and economic development in the Americas."
+                },
+                {
+                    "question": "What is the date on which the OAS was founded, as mentioned in the passage?",
+                    "answer": "30 April 1948",
+                    "explanation": "The OAS was founded on 30 April 1948, as mentioned in the passage."
+                }
+            ],
+            "hops": [
+                "Organization of American States",
+                "OAS"
+            ]
+        },
+        "Washington": {
+            "term": "Washington",
+            "passage": "D.C. Washington, D.C., formally the District of Columbia and commonly referred to as Washington or D.C., is the capital of the United States. Founded after the American Revolution as the new national capital, Washington was named after George Washington, first President of the United States and Founding Father. As the seat of government and administrative center of the U.S., Washington is home to many national landmarks, museums, and monuments. These include the White House, the Capitol, the Supreme Court, the National Mall, and the Smithsonian museums. The city is also known for its vibrant cultural scene, including the Kennedy Center for the Performing Arts, the National Symphony Orchestra, and numerous art galleries and theaters. With a population of over 700,000, Washington is a diverse and cosmopolitan city, with a rich history and a bright future.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the building in Washington, D.C. that is home to the President of the United States?",
+                    "answer": "the White House",
+                    "explanation": "The White House is the building in Washington, D.C. that is home to the President of the United States."
+                },
+                {
+                    "question": "What orchestra is known for being based in Washington, D.C.?",
+                    "answer": "the National Symphony Orchestra",
+                    "explanation": "The National Symphony Orchestra is known for being based in Washington, D.C."
+                },
+                {
+                    "question": "What museum is located in Washington D.C. and named after a famous American historical figure?",
+                    "answer": "Smithsonian",
+                    "explanation": "The Smithsonian museum is located in Washington D.C. and is named after James Smithson, a British scientist who left his estate to the United States to establish a museum, research complex, and education foundation. The Smithsonian Institution is now the world's largest museum and research complex, with 19 museums and galleries, the National Zoo, and numerous research centers and programs. The Smithsonian museums cover a wide range of topics, from American history and culture to science, technology, and the arts."
+                }
+            ],
+            "hops": [
+                "Organization of American States",
+                "Washington"
+            ]
+        },
+        "the Inter-American Commission on Human Rights": {
+            "term": "the Inter-American Commission on Human Rights",
+            "passage": "Inter-American Commission on Human Rights (IACHR) is a regional intergovernmental organization founded in 1959 under the auspices of the Organization of American States (OAS). The IACHR is composed of representatives from the member states of the OAS, and it is headquartered in Washington, D.C. The IACHR has the mandate to promote and protect human rights in the Americas. It does so by investigating alleged human rights violations, providing advice to member states, and working with civil society organizations. The Commission also serves as a forum for dialogue on human rights issues, and it engages in advocacy and awareness-raising activities. The IACHR has a broad mandate that encompasses a range of human rights, including civil and political rights, economic and social rights, and cultural rights. It also has specific mandates related to the rights of women, children, indigenous peoples, and Afro-descendants. The IACHR operates through a number of mechanisms, including individual petitions, inter-state petitions, and on-site visits. It also has a number of specialized units, including the Unit on the Rights of Women, the Unit on the Rights of Children, and the Unit on the Rights of Indigenous Peoples. The IACHR is widely regarded as a key player in the promotion and protection of human rights in the Americas. Its work has helped to raise awareness of human rights issues, and it has contributed to the development of human rights norms and standards in the region.",
+            "qae_pairs": [
+                {
+                    "question": "What is the location of the Inter-American Commission on Human Rights?",
+                    "answer": "Washington",
+                    "explanation": "The Inter-American Commission on Human Rights is located in Washington, D.C."
+                },
+                {
+                    "question": "What year was the Inter-American Commission on Human Rights founded?",
+                    "answer": "1959",
+                    "explanation": "The Inter-American Commission on Human Rights (IACHR) was founded in 1959."
+                },
+                {
+                    "question": "What is the mandate of the Inter-American Commission on Human Rights?",
+                    "answer": "Americas",
+                    "explanation": "The mandate of the Inter-American Commission on Human Rights is to promote and protect human rights in the Americas. It does so by investigating alleged human rights violations, providing advice to member states, and working with civil society organizations. The Commission also serves as a forum for dialogue on human rights issues, and it engages in advocacy and awareness-raising activities. The IACHR has a broad mandate that encompasses a range of human rights, including civil and political rights, economic and social rights, and cultural rights."
+                }
+            ],
+            "hops": [
+                "Organization of American States",
+                "the Inter-American Commission on Human Rights"
+            ]
+        },
+        "Kyrgyzstan": {
+            "term": "Kyrgyzstan",
+            "passage": "Kyrgyzstan is a country located in Central Asia. It is a landlocked country with a total area of 199,900 square kilometers. Kyrgyzstan is bordered by Kazakhstan to the north, Uzbekistan to the west, Tajikistan to the southwest, and China to the east. Its capital and largest city is Bishkek. Kyrgyzstan is a parliamentary republic with a president as the head of state and a prime minister as the head of government. The country has a population of around 6 million people, with Kyrgyz making up the largest ethnic group, followed by Uzbeks, Russians, and Ukrainians. The country's economy is based largely on agriculture, with livestock farming and sheep and goat herding being the most important activities. Kyrgyzstan is also rich in natural resources, including gold, coal, and hydropower. Kyrgyzstan is known for its beautiful landscapes, including the Tien Shan mountains, which are home to many rare plant and animal species. The country is also home to several important cultural sites, such as the Burana Tower, a 9th-century minaret, and the Issyk Kul Lake, the largest lake in Kyrgyzstan and one of the largest mountain lakes in the world.",
+            "qae_pairs": [
+                {
+                    "question": "What country borders Kyrgyzstan to the east and is located to the west of Uzbekistan and Tajikistan?",
+                    "answer": "China",
+                    "explanation": "China borders Kyrgyzstan to the east and is located to the west of Uzbekistan and Tajikistan."
+                },
+                {
+                    "question": "What is the region where Kyrgyzstan is located?",
+                    "answer": "Central Asia",
+                    "explanation": "Kyrgyzstan is a country located in Central Asia."
+                },
+                {
+                    "question": "What is the name of the mountain range located in Kyrgyzstan that is home to many rare plant and animal species?",
+                    "answer": "Tien Shan",
+                    "explanation": "The name of the mountain range located in Kyrgyzstan that is home to many rare plant and animal species is Tien Shan."
+                },
+                {
+                    "question": "What ethnic group is the second largest in Kyrgyzstan, following Kyrgyz?",
+                    "answer": "Uzbeks",
+                    "explanation": "The second largest ethnic group in Kyrgyzstan, following Kyrgyz, is Uzbeks."
+                },
+                {
+                    "question": "What is the capital and largest city of Kyrgyzstan?",
+                    "answer": "Bishkek",
+                    "explanation": "The capital and largest city of Kyrgyzstan is Bishkek."
+                },
+                {
+                    "question": "What is the country that borders Kyrgyzstan to the north?",
+                    "answer": "Kazakhstan",
+                    "explanation": "Kazakhstan is the country that borders Kyrgyzstan to the north."
+                },
+                {
+                    "question": "What is the name of the largest lake in Kyrgyzstan and one of the largest mountain lakes in the world, according to the passage?",
+                    "answer": "the Issyk Kul Lake",
+                    "explanation": "The name of the largest lake in Kyrgyzstan and one of the largest mountain lakes in the world, according to the passage, is the Issyk Kul Lake."
+                },
+                {
+                    "question": "What is the country that borders Kyrgyzstan to the west?",
+                    "answer": "Uzbekistan",
+                    "explanation": "The country that borders Kyrgyzstan to the west is Uzbekistan."
+                }
+            ],
+            "hops": [
+                "Shanghai Cooperation Organization",
+                "Kyrgyzstan"
+            ]
+        },
+        "SCO": {
+            "term": "SCO",
+            "passage": "SCO Group, Inc. was a software company headquartered in Lindon, Utah, that developed and sold computer software, with a focus on the Unix operating system. The company was formed in 1979 as a joint venture between AT&T and IBM, and was later acquired by Caldera International in 2001. In 2003, SCO Group filed a lawsuit against IBM, alleging that IBM had contributed code to the Linux operating system that infringed on SCO's intellectual property rights. The lawsuit sparked controversy in the software industry and was widely criticized by the open-source community. In 2010, SCO Group filed for bankruptcy and was later acquired by a group of investors.",
+            "qae_pairs": [
+                {
+                    "question": "What state was the headquarters of SCO Group, Inc.?",
+                    "answer": "Utah",
+                    "explanation": "The headquarters of SCO Group, Inc. was located in Lindon, Utah."
+                },
+                {
+                    "question": "What year did SCO Group file a lawsuit against IBM, alleging that IBM had contributed code to the Linux operating system that infringed on SCO's intellectual property rights?",
+                    "answer": "2003",
+                    "explanation": "SCO Group filed a lawsuit against IBM in 2003, alleging that IBM had contributed code to the Linux operating system that infringed on SCO's intellectual property rights. The lawsuit sparked controversy in the software industry and was widely criticized by the open-source community. In 2010, SCO Group filed for bankruptcy and was later acquired by a group of investors."
+                },
+                {
+                    "question": "What year was SCO Group, Inc. formed as a joint venture between AT&T and IBM?",
+                    "answer": "1979",
+                    "explanation": "SCO Group, Inc. was formed in 1979 as a joint venture between AT&T and IBM."
+                },
+                {
+                    "question": "What company acquired SCO Group, Inc. in 2001 and later filed for bankruptcy in 2010?",
+                    "answer": "Caldera International",
+                    "explanation": "Caldera International acquired SCO Group, Inc. in 2001. However, in 2010, SCO Group filed for bankruptcy."
+                },
+                {
+                    "question": "What is the name of the city where the SCO Group was headquartered?",
+                    "answer": "Lindon",
+                    "explanation": "The SCO Group, Inc. was headquartered in Lindon, Utah."
+                },
+                {
+                    "question": "What was the year when SCO Group filed for bankruptcy, which was also the year when the company was acquired by a group of investors?",
+                    "answer": "2010",
+                    "explanation": "The year when SCO Group filed for bankruptcy was 2010. The company was later acquired by a group of investors."
+                }
+            ],
+            "hops": [
+                "Shanghai Cooperation Organization",
+                "SCO"
+            ]
+        }
+    }
+}

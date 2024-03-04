@@ -1,0 +1,1218 @@
+{
+    "first_hops": {
+        "apple": {
+            "term": "apple",
+            "passage": "Apple is a fruit that is widely consumed and enjoyed all over the world. It is a member of the Rosaceae family and is scientifically known as Malus domestica. Apples are grown on trees and are typically round or oval in shape, with a red, green, or yellow skin. The flesh of the apple is white or cream-colored and is juicy and sweet. Apples are one of the most popular fruits in the world, and they are grown in many different countries. The United States is the largest producer of apples, followed by China, Turkey, Poland, and Italy. Apples are grown in many different climates, from temperate to tropical regions. Apples are a good source of fiber, vitamin C, and antioxidants. They are also low in calories, making them a great snack for people who are trying to lose weight. Apples are also known to have many health benefits, including reducing the risk of heart disease, stroke, and certain types of cancer. There are many different varieties of apples, each with its own unique flavor and texture. Some of the most popular varieties include Granny Smith, Red Delicious, Golden Delicious, Gala, and Fuji. Apples can be eaten raw, cooked, or baked, and they are often used in desserts, such as apple pie and apple crisp. In addition to being a popular food, apples have also played an important role in mythology and folklore. In Greek mythology, the goddess of discord, Eris, threw a golden apple into a gathering of gods and goddesses, which sparked a competition that ultimately led to the Trojan War. In the story of Adam and Eve in the Bible, the apple is said to be the fruit that led to their expulsion from the Garden of Eden. Overall, apples are a delicious and nutritious fruit that has been enjoyed by people for thousands of years. Whether eaten raw or cooked, they are a versatile ingredient that can be used in a variety of dishes.",
+            "qae_pairs": [
+                {
+                    "context": "Apple is a fruit that is widely consumed and enjoyed all over the world. It is a member of the Rosaceae family and is scientifically known as Malus domestica.",
+                    "question": "What family does the apple belong to?",
+                    "answer": "Rosaceae.",
+                    "explanation": "The apple is a member of the Rosaceae family, as stated in the passage."
+                },
+                {
+                    "context": "Apples are one of the most popular fruits in the world, and they are grown in many different countries. The United States is the largest producer of apples, followed by China, Turkey, Poland, and Italy.",
+                    "question": "Which country is the largest producer of apples?",
+                    "answer": "United States.",
+                    "explanation": "The largest producer of apples is the United States, as stated in the passage."
+                },
+                {
+                    "context": "Apples are one of the most popular fruits in the world, and they are grown in many different countries. The United States is the largest producer of apples, followed by China, Turkey, Poland, and Italy.",
+                    "question": "Which country is the fifth largest producer of apples in the world?",
+                    "answer": "Italy.",
+                    "explanation": "The fifth largest producer of apples in the world is Italy, as stated in the passage."
+                },
+                {
+                    "context": "There are many different varieties of apples, each with its own unique flavor and texture. Some of the most popular varieties include Granny Smith, Red Delicious, Golden Delicious, Gala, and Fuji.",
+                    "question": "What is the name of a popular variety of apple known for its tart flavor and bright green skin?",
+                    "answer": "Granny Smith.",
+                    "explanation": "The popular variety of apple known for its tart flavor and bright green skin is Granny Smith, as mentioned in the passage."
+                },
+                {
+                    "context": "In Greek mythology, the goddess of discord, Eris, threw a golden apple into a gathering of gods and goddesses, which sparked a competition that ultimately led to the Trojan War. In the story of Adam and Eve in the Bible, the apple is said to be the fruit that led to their expulsion from the Garden of Eden.",
+                    "question": "Who, according to the Bible, was expelled from the Garden of Eden along with Eve after eating the forbidden fruit?",
+                    "answer": "Adam.",
+                    "explanation": "The Bible states that Adam was also expelled from the Garden of Eden after eating the forbidden fruit, along with Eve."
+                },
+                {
+                    "context": "In Greek mythology, the goddess of discord, Eris, threw a golden apple into a gathering of gods and goddesses, which sparked a competition that ultimately led to the Trojan War. In the story of Adam and Eve in the Bible, the apple is said to be the fruit that led to their expulsion from the Garden of Eden.",
+                    "question": "Who is the Greek goddess of discord who threw a golden apple into a gathering of gods and goddesses?",
+                    "answer": "Eris.",
+                    "explanation": "The Greek goddess of discord who threw a golden apple into a gathering of gods and goddesses is Eris."
+                },
+                {
+                    "context": "Overall, apples are a delicious and nutritious fruit that has been enjoyed by people for thousands of years. Whether eaten raw or cooked, they are a versatile ingredient that can be used in a variety of dishes.",
+                    "question": "For how long have people been enjoying apples?",
+                    "answer": "Thousands of years.",
+                    "explanation": "People have been enjoying apples for a long time, specifically for thousands of years."
+                }
+            ],
+            "hops": [
+                "apple"
+            ]
+        },
+        "banana": {
+            "term": "banana",
+            "passage": "Bananas are a popular fruit that are widely consumed around the world. They are native to tropical regions of Southeast Asia, but are now grown in many other parts of the world, including Central and South America, Africa, and the Caribbean. Bananas are a good source of vitamins and minerals, and are also high in fiber. The banana plant is actually a type of herb, and the fruit is technically a berry. The plant grows up to 30 feet tall, and produces large, green leaves that can be up to 9 feet long. The fruit grows in clusters, and can be up to 12 inches long. Bananas are typically harvested when they are still green, and then ripen over time. There are many different varieties of bananas, each with their own unique flavor and texture. Some of the most popular varieties include Cavendish, which is the most commonly grown variety worldwide, and the smaller, sweeter Lady Finger banana. Bananas are a versatile fruit that can be eaten on their own, or used in a variety of recipes. They are often used in smoothies, baked goods, and as a topping for cereal or yogurt. Bananas can also be dried and used as a snack, or mashed and used as a natural sweetener in recipes. In addition to their culinary uses, bananas also have a number of health benefits. They are high in potassium, which is important for maintaining healthy blood pressure and heart function. Bananas are also a good source of vitamin C, vitamin B6, and dietary fiber. Overall, bananas are a delicious and nutritious fruit that are enjoyed by people all over the world. Whether eaten on their own or used in recipes, they are a versatile and healthy addition to any diet.",
+            "qae_pairs": [
+                {
+                    "context": "Bananas are a popular fruit that are widely consumed around the world. They are native to tropical regions of Southeast Asia, but are now grown in many other parts of the world, including Central and South America, Africa, and the Caribbean.",
+                    "question": "Where are bananas native to?",
+                    "answer": "Southeast Asia.",
+                    "explanation": "Bananas originated in Southeast Asia."
+                },
+                {
+                    "context": "Some of the most popular varieties include Cavendish, which is the most commonly grown variety worldwide, and the smaller, sweeter Lady Finger banana. Bananas are a versatile fruit that can be eaten on their own, or used in a variety of recipes.",
+                    "question": "What is the name of the smaller, sweeter variety of banana?",
+                    "answer": "Lady Finger.",
+                    "explanation": "The smaller, sweeter variety of banana is called Lady Finger, as stated in the passage."
+                },
+                {
+                    "context": "Some of the most popular varieties include Cavendish, which is the most commonly grown variety worldwide, and the smaller, sweeter Lady Finger banana. Bananas are a versatile fruit that can be eaten on their own, or used in a variety of recipes.",
+                    "question": "What is the most commonly grown variety of banana worldwide?",
+                    "answer": "Cavendish.",
+                    "explanation": "The most commonly grown variety of banana worldwide is Cavendish, as stated in the passage."
+                }
+            ],
+            "hops": [
+                "banana"
+            ]
+        },
+        "carrot": {
+            "term": "carrot",
+            "passage": "The carrot (Daucus carota) is a root vegetable that is widely cultivated and consumed throughout the world. It is a member of the Apiaceae family, which also includes parsley, fennel, and dill. Carrots are known for their bright orange color, although they can also be found in other colors such as purple, white, yellow, and red. Carrots are a rich source of vitamins and minerals, particularly vitamin A, which is important for maintaining healthy vision, skin, and immune function. They also contain significant amounts of vitamin K, potassium, and fiber. Carrots are low in calories and are often included in weight loss diets. Carrots can be eaten raw or cooked and are used in a variety of dishes, including salads, soups, stews, and casseroles. They can also be juiced or blended into smoothies. Carrots are often paired with other vegetables, such as celery and onions, to create a mirepoix, which is a base for many sauces and soups. Carrots are believed to have originated in Central Asia and were first cultivated for their medicinal properties. They were later introduced to Europe and North America, where they became a popular food crop. Today, China is the world's largest producer of carrots, followed by Uzbekistan, Russia, and the United States. Carrots are typically grown in well-drained soil and require regular watering. They can be planted in the spring or fall and take about 70-80 days to mature. Carrots can be harvested when they are about 1-2 inches in diameter, although some varieties can grow much larger. In addition to their culinary uses, carrots have also been used for medicinal purposes throughout history. They were believed to have healing properties for a variety of ailments, including digestive issues, respiratory problems, and skin conditions. While modern medicine has largely replaced the use of carrots for medicinal purposes, they are still valued for their nutritional benefits. Overall, carrots are a versatile and nutritious vegetable that can be enjoyed in a variety of ways. Whether eaten raw or cooked, they are a great addition to any diet and provide a range of health benefits.",
+            "qae_pairs": [
+                {
+                    "context": "The carrot (Daucus carota) is a root vegetable that is widely cultivated and consumed throughout the world. It is a member of the Apiaceae family, which also includes parsley, fennel, and dill.",
+                    "question": "What family does the carrot belong to?",
+                    "answer": "Apiaceae.",
+                    "explanation": "The carrot is part of the same family as parsley, fennel, and dills, which is called Apiaceae."
+                },
+                {
+                    "context": "Carrots are often paired with other vegetables, such as celery and onions, to create a mirepoix, which is a base for many sauces and soups. Carrots are believed to have originated in Central Asia and were first cultivated for their medicinal properties.",
+                    "question": "Where did carrots originate from?",
+                    "answer": "Central Asia.",
+                    "explanation": "Carrots were first cultivated for their medicinal properties and are believed to have originated in Central Asia."
+                },
+                {
+                    "context": "Carrots are often paired with other vegetables, such as celery and onions, to create a mirepoix, which is a base for many sauces and soups. Carrots are believed to have originated in Central Asia and were first cultivated for their medicinal properties.",
+                    "question": "What is the name of the vegetable mixture that is often used as a base for sauces and soups and includes carrots, celery, and onions?",
+                    "answer": "Mirepoix.",
+                    "explanation": "The vegetable mixture that includes carrots, celery, and onions and is used as a base for sauces and soups is called mirepoix, as mentioned in the passage."
+                },
+                {
+                    "context": "They were later introduced to Europe and North America, where they became a popular food crop. Today, China is the world's largest producer of carrots, followed by Uzbekistan, Russia, and the United States.",
+                    "question": "Where were carrots introduced to besides Europe?",
+                    "answer": "North America.",
+                    "explanation": "Carrots were introduced to both Europe and North America, as stated in the passage."
+                },
+                {
+                    "context": "They were later introduced to Europe and North America, where they became a popular food crop. Today, China is the world's largest producer of carrots, followed by Uzbekistan, Russia, and the United States.",
+                    "question": "Which country is the world's largest producer of carrots?",
+                    "answer": "China.",
+                    "explanation": "The world's largest producer of carrots is China, as stated in the passage."
+                }
+            ],
+            "hops": [
+                "carrot"
+            ]
+        },
+        "chicken": {
+            "term": "chicken",
+            "passage": "The chicken (Gallus gallus domesticus) is a domesticated fowl, a subspecies of the red junglefowl. As one of the most common and widespread domestic animals, with a population of more than 19 billion in 2011, there are more chickens in the world than any other bird or domesticated fowl. Humans keep chickens primarily as a source of food, consuming both their meat and their eggs. Chickens are believed to have been domesticated from the red junglefowl in Southeast Asia more than 10,000 years ago. They were first brought to Europe by the Romans, and later to the Americas by European explorers. Today, chickens are found all over the world, in a wide variety of breeds and colors. Chickens are omnivores, eating a diet that includes grains, insects, and small animals. They are social animals, living in groups called flocks, and have a complex social hierarchy. Roosters, or male chickens, are known for their distinctive crowing, which they use to establish their dominance over other males and to attract females. Chickens are also known for their ability to lay eggs, which are a rich source of protein and other nutrients. Hens, or female chickens, can lay up to 300 eggs per year, depending on the breed. Eggs are used in a wide variety of dishes, from breakfast omelets to baked goods. In addition to their role as a food source, chickens are also used for their feathers, which are used in clothing and other products, and for their manure, which is used as fertilizer. Chickens are also sometimes kept as pets, particularly in urban areas where space is limited. Despite their widespread use and popularity, chickens face a number of challenges, including disease, predation, and poor living conditions in some commercial operations. Animal welfare advocates have called for improved conditions for chickens, including more space, better ventilation, and access to the outdoors. Overall, the chicken is a versatile and important domestic animal, providing food, feathers, and fertilizer to people all over the world.",
+            "qae_pairs": [
+                {
+                    "context": "The chicken (Gallus gallus domesticus) is a domesticated fowl, a subspecies of the red junglefowl. As one of the most common and widespread domestic animals, with a population of more than 19 billion in 2011, there are more chickens in the world than any other bird or domesticated fowl.",
+                    "question": "What is the scientific name for the domesticated chicken?",
+                    "answer": "Gallus gallus domesticus.",
+                    "explanation": "The scientific name for the domesticated chicken is Gallus gallus domesticus, as stated in the passage."
+                },
+                {
+                    "context": "Humans keep chickens primarily as a source of food, consuming both their meat and their eggs. Chickens are believed to have been domesticated from the red junglefowl in Southeast Asia more than 10,000 years ago.",
+                    "question": "When were chickens believed to have been domesticated from the red junglefowl in Southeast Asia?",
+                    "answer": "More than 10,000 years ago.",
+                    "explanation": "Chickens were believed to have been domesticated from the red junglefowl in Southeast Asia over 10,000 years ago, as stated in the passage."
+                },
+                {
+                    "context": "Humans keep chickens primarily as a source of food, consuming both their meat and their eggs. Chickens are believed to have been domesticated from the red junglefowl in Southeast Asia more than 10,000 years ago.",
+                    "question": "From where were chickens domesticated more than 10,000 years ago?",
+                    "answer": "Southeast Asia.",
+                    "explanation": "Chickens were domesticated more than 10,000 years ago from the red junglefowl in Southeast Asia."
+                },
+                {
+                    "context": "They were first brought to Europe by the Romans, and later to the Americas by European explorers. Today, chickens are found all over the world, in a wide variety of breeds and colors.",
+                    "question": "When are chickens found all over the world in a wide variety of breeds and colors?",
+                    "answer": "Today.",
+                    "explanation": "Chickens can be found all over the world in a wide variety of breeds and colors in the present day."
+                },
+                {
+                    "context": "They were first brought to Europe by the Romans, and later to the Americas by European explorers. Today, chickens are found all over the world, in a wide variety of breeds and colors.",
+                    "question": "Where were chickens brought to by European explorers?",
+                    "answer": "Americas.",
+                    "explanation": "European explorers brought chickens to the Americas, as stated in the passage."
+                },
+                {
+                    "context": "Hens, or female chickens, can lay up to 300 eggs per year, depending on the breed. Eggs are used in a wide variety of dishes, from breakfast omelets to baked goods.",
+                    "question": "What are female chickens called?",
+                    "answer": "Hens.",
+                    "explanation": "Female chickens are called hens."
+                }
+            ],
+            "hops": [
+                "chicken"
+            ]
+        },
+        "fish": {
+            "term": "fish",
+            "passage": "Fish are aquatic animals that are found in almost every body of water on Earth, from the smallest streams to the deepest oceans. They are a diverse group of animals, with over 34,000 species identified so far. Fish are cold-blooded, meaning that their body temperature is regulated by the temperature of the water around them. They breathe through gills, which extract oxygen from the water, and most fish have scales that protect their skin and help them swim. Fish come in many different shapes and sizes, from tiny minnows to massive whale sharks. They can be found in freshwater or saltwater, and some species can even survive in both. Fish play an important role in the ecosystem, serving as both predator and prey. They are a major food source for humans and other animals, and many species are also kept as pets. Fish are divided into two main groups: bony fish and cartilaginous fish. Bony fish, which make up the majority of fish species, have a skeleton made of bone and a swim bladder that helps them control their buoyancy. Cartilaginous fish, such as sharks and rays, have a skeleton made of cartilage and do not have a swim bladder. Fish have a variety of adaptations that help them survive in their aquatic environments. Some fish have specialized organs that allow them to produce and detect electric fields, which they use to navigate and communicate with other fish. Others have evolved the ability to change color or shape to blend in with their surroundings or to attract mates. Despite their importance, many fish populations are threatened by overfishing, pollution, and habitat destruction. Conservation efforts are underway to protect these important animals and their habitats.",
+            "qae_pairs": [
+                {
+                    "context": "Fish are aquatic animals that are found in almost every body of water on Earth, from the smallest streams to the deepest oceans. They are a diverse group of animals, with over 34,000 species identified so far.",
+                    "question": "On which planet are fish found in almost every body of water?",
+                    "answer": "Earth.",
+                    "explanation": "Fish are found in almost every body of water on Earth, as stated in the passage."
+                }
+            ],
+            "hops": [
+                "fish"
+            ]
+        },
+        "grapefruit": {
+            "term": "grapefruit",
+            "passage": "Grapefruit is a subtropical citrus fruit that is known for its tangy and slightly bitter taste. It is believed to have originated in Barbados in the 18th century as a hybrid between the pomelo and the sweet orange. The fruit is round or oblong in shape and can range in color from yellow to pink or red. The flesh of the grapefruit is segmented and juicy, with a sour and slightly sweet flavor. Grapefruit is a rich source of vitamins and minerals, including vitamin C, vitamin A, potassium, and fiber. It is also low in calories and has been shown to have numerous health benefits. Studies have suggested that grapefruit may help lower cholesterol levels, reduce the risk of heart disease, and aid in weight loss. There are several different varieties of grapefruit, including white, pink, and red. White grapefruit is the most common variety and has a yellowish-white flesh. Pink grapefruit has a pinkish-red flesh and is slightly sweeter than white grapefruit. Red grapefruit is the sweetest variety and has a deep red flesh. Grapefruit can be eaten on its own or used in a variety of recipes, including salads, smoothies, and cocktails. It is also commonly used in the production of grapefruit juice, which is a popular breakfast beverage. Despite its many health benefits, grapefruit can interact with certain medications, including some cholesterol-lowering drugs and antidepressants. It is important to consult with a healthcare provider before consuming grapefruit or grapefruit juice if you are taking any medications. Overall, grapefruit is a delicious and nutritious fruit that can be enjoyed in a variety of ways. Its unique flavor and health benefits make it a popular choice for those looking to improve their diet and overall health.",
+            "qae_pairs": [
+                {
+                    "context": "Grapefruit is a subtropical citrus fruit that is known for its tangy and slightly bitter taste. It is believed to have originated in Barbados in the 18th century as a hybrid between the pomelo and the sweet orange.",
+                    "question": "Where is grapefruit believed to have originated in the 18 century?",
+                    "answer": "Barbados.",
+                    "explanation": "The passage states that grapefruit is believed to have originated in Barbados in the 18 century."
+                },
+                {
+                    "context": "Grapefruit is a subtropical citrus fruit that is known for its tangy and slightly bitter taste. It is believed to have originated in Barbados in the 18th century as a hybrid between the pomelo and the sweet orange.",
+                    "question": "In what century is it believed that grapefruit originated in Barbados as a hybrid between the pomelo and the sweet orange?",
+                    "answer": "18th century.",
+                    "explanation": "The passage states that grapefruit is believed to have originated in Barbados in the 18 century as a hybrid between the pomelo and the sweet orange. Therefore, it is believed that grapefruit originated in the 18 century."
+                }
+            ],
+            "hops": [
+                "grapefruit"
+            ]
+        },
+        "hamburger": {
+            "term": "hamburger",
+            "passage": "A hamburger, also known as a burger, is a sandwich consisting of one or more cooked patties of ground meat, usually beef, placed inside a sliced bread roll or bun. The patty may be pan-fried, grilled, smoked or flame-broiled. Hamburgers are often served with cheese, lettuce, tomato, onion, pickles, bacon, or chiles; condiments such as ketchup, mustard, mayonnaise, relish, or \"special sauce\"; and are frequently placed on sesame seed buns. A hamburger topped with cheese is called a cheeseburger. The term \"burger\" can also be applied to the meat patty on its own, especially in the UK where the term \"patty\" is rarely used, or the term can even refer simply to ground beef. The term may be prefixed with the type of meat or meat substitute used, as in \"turkey burger\", \"bison burger\", or \"veggie burger\". The hamburger originated in the late 19th or early 20th century. The modern hamburger was a product of the culinary needs of a society rapidly changing due to industrialization, the emergence of the working class and middle class and the demand for mass-produced, affordable food that could be consumed outside of the home. The hamburger became popular in the United States and Canada, and has become a staple in the fast food industry. The world's largest hamburger weighed 2,014 pounds (914 kg) and was cooked in 2012 in Carlton, Minnesota, US. The hamburger was 10 feet (3.05 m) in diameter and took over 15 hours to cook. The largest commercially available hamburger weighed 777 pounds (352 kg) and was prepared by Black Bear Casino Resort in Carlton, Minnesota, US in 2017. Hamburgers are a popular food item in fast food restaurants, diners, and bars. They are also a common menu item in many restaurants that serve American cuisine. Hamburgers have become a symbol of American culture and are often associated with backyard barbecues, Fourth of July celebrations, and fast food chains such as McDonald's, Burger King, and Wendy's.",
+            "qae_pairs": [
+                {
+                    "context": "The term \"burger\" can also be applied to the meat patty on its own, especially in the UK where the term \"patty\" is rarely used, or the term can even refer simply to ground beef. The term may be prefixed with the type of meat or meat substitute used, as in \"turkey burger\", \"bison burger\", or \"veggie burger\".",
+                    "question": "In which country is the term \"patty\" rarely used when referring to a meat patty in a hamburger?",
+                    "answer": "UK.",
+                    "explanation": "The term \"patty\" is not commonly used in the UK when referring to a meat patty in a hamburger."
+                },
+                {
+                    "context": "The hamburger originated in the late 19th or early 20th century. The modern hamburger was a product of the culinary needs of a society rapidly changing due to industrialization, the emergence of the working class and middle class and the demand for mass-produced, affordable food that could be consumed outside of the home.",
+                    "question": "When did the hamburger originate?",
+                    "answer": "Late 19th or early 20th century",
+                    "explanation": "The hamburger's origin can be traced back to either the late 1800s or early 1900s, as a result of the changing needs of society due to industrialization, the emergence of the working and middle classes, and the demand for affordable, mass-produced food that could be eaten outside of the home."
+                },
+                {
+                    "context": "The hamburger was 10 feet (3.05 m) in diameter and took over 15 hours to cook. The largest commercially available hamburger weighed 777 pounds (352 kg) and was prepared by Black Bear Casino Resort in Carlton, Minnesota, US in 2017.",
+                    "question": "In what year was the largest commercially available hamburger prepared by Black Bear Casino Resort in Carlton, Minnesota, US?",
+                    "answer": "2017.",
+                    "explanation": "The largest commercially available hamburger was prepared by Black Bear Casino Resort in Carlton, Minnesota, US in  20 17."
+                },
+                {
+                    "context": "Hamburgers have become a symbol of American culture and are often associated with backyard barbecues, Fourth of July celebrations, and fast food chains such as McDonald's, Burger King, and Wendy's. Hamburgers have become a symbol of American culture and are often associated with backyard barbecues, Fourth of July celebrations, and fast food chains such as McDonald's, Burger King, and Wendy's.",
+                    "question": "Which fast food chain is often associated with hamburgers and is a competitor of McDonald's and Wendy's?",
+                    "answer": "Burger King.",
+                    "explanation": "The fast food chain that is often associated with hamburgers and competes with McDonald's and Wendy's is Burger King."
+                },
+                {
+                    "context": "Hamburgers have become a symbol of American culture and are often associated with backyard barbecues, Fourth of July celebrations, and fast food chains such as McDonald's, Burger King, and Wendy's. Hamburgers have become a symbol of American culture and are often associated with backyard barbecues, Fourth of July celebrations, and fast food chains such as McDonald's, Burger King, and Wendy's.",
+                    "question": "Which fast food chain is often associated with hamburgers and is a symbol of American culture?",
+                    "answer": "McDonald's.",
+                    "explanation": "The fast food chain that is often associated with hamburgers and is a symbol of American culture is McDonald's, as stated in the passage."
+                },
+                {
+                    "context": "Hamburgers have become a symbol of American culture and are often associated with backyard barbecues, Fourth of July celebrations, and fast food chains such as McDonald's, Burger King, and Wendy's. Hamburgers have become a symbol of American culture and are often associated with backyard barbecues, Fourth of July celebrations, and fast food chains such as McDonald's, Burger King, and Wendy's.",
+                    "question": "Which fast food chain is often associated with hamburgers and is named after the founder's daughter?",
+                    "answer": "Wendy's.",
+                    "explanation": "The fast food chain that is often associated with hamburgers and is named after the founder's daughter is Wendy's."
+                }
+            ],
+            "hops": [
+                "hamburger"
+            ]
+        },
+        "ice cream": {
+            "term": "ice cream",
+            "passage": "Ice cream is a sweetened frozen food typically eaten as a snack or dessert. It is usually made from dairy products, such as milk and cream, and often combined with fruits or other flavorings. Ice cream can be served in a variety of forms, including cones, cups, and bars. The origins of ice cream can be traced back to ancient China, where a mixture of milk and rice was frozen in snow. The first recorded instance of ice cream being served in Europe was in the 16th century, when Italian chefs created a frozen dessert made from cream, sugar, and fruit. In the United States, ice cream became popular in the late 19th century, with the invention of the hand-cranked ice cream maker. This device allowed people to make ice cream at home, and it quickly became a staple of American cuisine. Today, ice cream is enjoyed all over the world, with a wide variety of flavors and styles available. Some popular flavors include vanilla, chocolate, strawberry, and mint chocolate chip. Ice cream can also be made with non-dairy ingredients, such as soy milk or coconut milk, for those who are lactose intolerant or vegan. In addition to being a delicious treat, ice cream has also been the subject of scientific research. Scientists have studied the properties of ice cream, including its texture, melting rate, and ability to resist melting. This research has led to the development of new types of ice cream, such as low-fat and low-sugar varieties. Overall, ice cream is a beloved dessert that has been enjoyed for centuries. Whether you prefer classic flavors or more exotic varieties, there is an ice cream out there for everyone to enjoy.",
+            "qae_pairs": [
+                {
+                    "context": "The first recorded instance of ice cream being served in Europe was in the 16th century, when Italian chefs created a frozen dessert made from cream, sugar, and fruit. In the United States, ice cream became popular in the late 19th century, with the invention of the hand-cranked ice cream maker.",
+                    "question": "In which country did ice cream become popular in the late 18h century with the invention of the hand-cranked ice cream maker?",
+                    "answer": "United States.",
+                    "explanation": "The passage states that ice cream became popular in the United States in the late 18h century, with the invention of the hand-cranked ice cream maker."
+                },
+                {
+                    "context": "The first recorded instance of ice cream being served in Europe was in the 16th century, when Italian chefs created a frozen dessert made from cream, sugar, and fruit. In the United States, ice cream became popular in the late 19th century, with the invention of the hand-cranked ice cream maker.",
+                    "question": "Where was the first recorded instance of ice cream being served?",
+                    "answer": "Europe.",
+                    "explanation": "Italian chefs created a frozen dessert made from cream, sugar, and fruit in Europe, which was the first recorded instance of ice cream being served."
+                },
+                {
+                    "context": "The first recorded instance of ice cream being served in Europe was in the 16th century, when Italian chefs created a frozen dessert made from cream, sugar, and fruit. In the United States, ice cream became popular in the late 19th century, with the invention of the hand-cranked ice cream maker.",
+                    "question": "When was the first recorded instance of ice cream being served in Europe?",
+                    "answer": "16th century.",
+                    "explanation": "Ice cream was first served in Europe during the 16h century, as recorded by Italian chefs who created a frozen dessert using cream, sugar, and fruit."
+                },
+                {
+                    "context": "This device allowed people to make ice cream at home, and it quickly became a staple of American cuisine. Today, ice cream is enjoyed all over the world, with a wide variety of flavors and styles available.",
+                    "question": "When is ice cream enjoyed all over the world with a wide variety of flavors and styles available?",
+                    "answer": "Today.",
+                    "explanation": "Ice cream is currently enjoyed globally with a vast selection of flavors and types available."
+                },
+                {
+                    "context": "This research has led to the development of new types of ice cream, such as low-fat and low-sugar varieties. Overall, ice cream is a beloved dessert that has been enjoyed for centuries.",
+                    "question": "For how long has ice cream been enjoyed as a dessert?",
+                    "answer": "Centuries.",
+                    "explanation": "Ice cream has been enjoyed as a dessert for a very long time, spanning over centuries."
+                }
+            ],
+            "hops": [
+                "ice cream"
+            ]
+        },
+        "jelly": {
+            "term": "jelly",
+            "passage": "Jelly is a sweet, clear, and semi-solid food that is made by boiling fruit juice, sugar, and pectin together. Pectin is a natural substance found in fruits that helps the jelly to set. The mixture is then poured into jars and allowed to cool and set. Jelly is often served as a spread on toast, biscuits, or scones, and is a popular ingredient in desserts and baked goods. Jelly can be made from a variety of fruits, including strawberries, raspberries, blackberries, blueberries, and grapes. Each fruit has its own unique flavor and texture, which can be enhanced by adding spices or other ingredients. For example, cinnamon and cloves can be added to apple jelly, while ginger and lemon can be added to peach jelly. Jelly is a popular food in many cultures around the world. In the United States, grape jelly is a common ingredient in peanut butter and jelly sandwiches, while in the United Kingdom, jelly is often served with cream as part of a traditional afternoon tea. In France, jelly is known as confiture, and is often served with croissants or other pastries. Jelly can also be used as a glaze for meats, such as ham or pork. The sweet and tangy flavor of the jelly complements the savory flavor of the meat, creating a delicious and unique dish. Jelly can also be used as a filling for cakes and pastries, or as a topping for ice cream or yogurt. Jelly is a low-fat and low-calorie food, making it a popular choice for those who are watching their weight. However, it is important to note that jelly is high in sugar, so it should be consumed in moderation. Additionally, some commercial jellies may contain artificial colors and flavors, so it is important to read the label before purchasing. Overall, jelly is a versatile and delicious food that can be enjoyed in a variety of ways. Whether you prefer it on toast, in a sandwich, or as a glaze for meat, jelly is sure to add a sweet and flavorful touch to any meal.",
+            "qae_pairs": [
+                {
+                    "context": "Jelly is a sweet, clear, and semi-solid food that is made by boiling fruit juice, sugar, and pectin together. Pectin is a natural substance found in fruits that helps the jelly to set.",
+                    "question": "What natural substance found in fruits helps jelly to set?",
+                    "answer": "Pectin.",
+                    "explanation": "The natural substance found in fruits that helps jelly to set is called pecti,n as stated in the passage."
+                },
+                {
+                    "context": "In the United States, grape jelly is a common ingredient in peanut butter and jelly sandwiches, while in the United Kingdom, jelly is often served with cream as part of a traditional afternoon tea. In France, jelly is known as confiture, and is often served with croissants or other pastries.",
+                    "question": "Where is jelly often served with cream as part of a traditional afternoon tea?",
+                    "answer": "United Kingdom.",
+                    "explanation": "Jelly is often served with cream as part of a traditional afternoon tea in the United Kingdom, as stated in the passage."
+                },
+                {
+                    "context": "In the United States, grape jelly is a common ingredient in peanut butter and jelly sandwiches, while in the United Kingdom, jelly is often served with cream as part of a traditional afternoon tea. In France, jelly is known as confiture, and is often served with croissants or other pastries.",
+                    "question": "In which country is jelly known as confiture and often served with croissants or other pastry?",
+                    "answer": "France.",
+                    "explanation": "The country where jelly is known as confiture and often served with croissants or other pastry is France, as stated in the passage."
+                },
+                {
+                    "context": "In the United States, grape jelly is a common ingredient in peanut butter and jelly sandwiches, while in the United Kingdom, jelly is often served with cream as part of a traditional afternoon tea. In France, jelly is known as confiture, and is often served with croissants or other pastries.",
+                    "question": "In which country is grape jelly commonly used in peanut butter and jelly sandwiches?",
+                    "answer": "United States.",
+                    "explanation": "The passage states that grape jelly is a common ingredient in peanut butter and jelly sandwiches in the United States. Therefore, the answer is the United States."
+                }
+            ],
+            "hops": [
+                "jelly"
+            ]
+        },
+        "kale": {
+            "term": "kale",
+            "passage": "Kale or leaf cabbage is a vegetable with green or purple leaves, in which the central leaves do not form a head. It is considered to be closer to wild cabbage than most domesticated forms of vegetables. The species Brassica oleracea contains a wide variety of vegetables, including broccoli, cauliflower, and Brussels sprouts. The cultivar group Acephala also includes spring greens and collard greens, which are extremely similar genetically. Kale is a very hardy plant and can be grown in most climates. It is a biennial plant that is grown as an annual. Kale is a member of the Brassica family, which includes broccoli, cauliflower, and Brussels sprouts. It is a cool-season crop that is typically grown in the fall and winter months. Kale is a very nutritious vegetable that is high in vitamins A, C, and K, as well as calcium, iron, and potassium. Kale has been cultivated for over 2,000 years and was a popular vegetable in ancient Rome. It was brought to Europe by the Celts and was a staple food in medieval Europe. Kale was introduced to the United States in the 17th century and was a popular vegetable in colonial America. Kale is a versatile vegetable that can be eaten raw or cooked. It can be used in salads, soups, stews, and stir-fries. Kale can also be baked into chips or used as a substitute for spinach in recipes. Kale is a popular ingredient in green smoothies and juices. Kale is a very hardy plant that is resistant to many pests and diseases. It is easy to grow and can be grown in most climates. Kale is a great vegetable to grow in a home garden because it is low maintenance and produces a large yield. Kale is a very nutritious vegetable that is high in vitamins A, C, and K, as well as calcium, iron, and potassium. It is also high in antioxidants and has anti-inflammatory properties. Kale is a great vegetable to include in a healthy diet because it is low in calories and high in fiber. In recent years, kale has become a popular superfood and has been featured in many health and wellness articles. It has been touted as a cancer-fighting vegetable and has been linked to improved heart health and lower cholesterol levels. Overall, kale is a nutritious and versatile vegetable that is easy to grow and can be used in a variety of recipes. It is a great addition to a healthy diet and is a popular superfood.",
+            "qae_pairs": [
+                {
+                    "context": "The species Brassica oleracea contains a wide variety of vegetables, including broccoli, cauliflower, and Brussels sprouts. The cultivar group Acephala also includes spring greens and collard greens, which are extremely similar genetically.",
+                    "question": "What cultivar group includes spring greens and collard greens, which are genetically similar to broccoli, cauliflower, and Brussels sprouts?",
+                    "answer": "Acephala.",
+                    "explanation": "The cultivar group that includes spring greens and collard greens, which have a similar genetic makeup to broccoli, cauliflower, and Brussels sprouts, is Acephala."
+                },
+                {
+                    "context": "Kale is a very nutritious vegetable that is high in vitamins A, C, and K, as well as calcium, iron, and potassium. Kale has been cultivated for over 2,000 years and was a popular vegetable in ancient Rome.",
+                    "question": "For how long has kale been cultivated?",
+                    "answer": "Over 2,000 years.",
+                    "explanation": "Kale has been cultivated for a period of more than 2,000 years."
+                },
+                {
+                    "context": "Kale is a very nutritious vegetable that is high in vitamins A, C, and K, as well as calcium, iron, and potassium. Kale has been cultivated for over 2,000 years and was a popular vegetable in ancient Rome.",
+                    "question": "In which ancient city was kale a popular vegetable?",
+                    "answer": "Rome.",
+                    "explanation": "Kale was a popular vegetable in an ancient city, and that city was Rome."
+                },
+                {
+                    "context": "It was brought to Europe by the Celts and was a staple food in medieval Europe. Kale was introduced to the United States in the 17th century and was a popular vegetable in colonial America.",
+                    "question": "In which century was kale introduced to the United States?",
+                    "answer": "17th century.",
+                    "explanation": "The passage states that kale was introduced to the United States in the 17 century, making it the century in which kale was first brought to the country."
+                },
+                {
+                    "context": "It was brought to Europe by the Celts and was a staple food in medieval Europe. Kale was introduced to the United States in the 17th century and was a popular vegetable in colonial America.",
+                    "question": "Where was kale brought to by the Celts?",
+                    "answer": "Europe.",
+                    "explanation": "The Celts brought kale to Europe, as stated in the passage."
+                },
+                {
+                    "context": "In recent years, kale has become a popular superfood and has been featured in many health and wellness articles. It has been touted as a cancer-fighting vegetable and has been linked to improved heart health and lower cholesterol levels.",
+                    "question": "When did kale become a popular superfood?",
+                    "answer": "In recent years.",
+                    "explanation": "Kale became a popular superfood in the recent years, as stated in the passage that highlights its health benefits."
+                }
+            ],
+            "hops": [
+                "kale"
+            ]
+        }
+    },
+    "second_hops": {
+        "United States.": {
+            "term": "United States.",
+            "passage": "The United States of America (USA), commonly known as the United States (U.S. or US) or America, is a country primarily located in North America. It consists of 50 states, a federal district, five major self-governing territories, and various possessions. At 3.8 million square miles (9.8 million km2), it is the world's third- or fourth-largest country by total area. With a population of over 328 million, it is the third most populous country in the world. The national capital is Washington, D.C., and the most populous city is New York City.",
+            "qae_pairs": [
+                {
+                    "context": "The United States of America (USA), commonly known as the United States (U.S. or US) or America, is a country primarily located in North America. It consists of 50 states, a federal district, five major self-governing territories, and various possessions.",
+                    "question": "In which continent is the United States located?",
+                    "answer": "North America.",
+                    "explanation": "The United States is primarily located in North America."
+                },
+                {
+                    "context": "The national capital is Washington, D.C., and the most populous city is New York City. The national capital is Washington, D.C., and the most populous city is New York City.",
+                    "question": "What is the most populous city in the United States?",
+                    "answer": "New York City.",
+                    "explanation": "The United States' most populous city is New York City, as stated in the passage."
+                }
+            ],
+            "hops": [
+                "jelly",
+                "United States."
+            ]
+        },
+        "Italy.": {
+            "term": "Italy.",
+            "passage": "Italy, officially the Italian Republic, is a country in Southern Europe. Located in the heart of the Mediterranean Sea, Italy shares open land borders with France, Switzerland, Austria, Slovenia, San Marino, and Vatican City. Italy covers an area of 301,340 km² and has a largely temperate seasonal and Mediterranean climate. With around 60 million inhabitants, Italy is the third-most populous member state of the European Union. Its capital and largest city is Rome; other major urban areas include Milan, Naples, Turin, Palermo, Genoa, Bologna, and Florence. Italy is a founding and leading member of the European Union and a member of numerous international institutions, including the UN, NATO, the OECD, the OSCE, the WTO, the G7, the G20, the Union for the Mediterranean, the Council of Europe, Uniting for Consensus, and many more.",
+            "qae_pairs": [
+                {
+                    "context": "Italy, officially the Italian Republic, is a country in Southern Europe. Located in the heart of the Mediterranean Sea, Italy shares open land borders with France, Switzerland, Austria, Slovenia, San Marino, and Vatican City.",
+                    "question": "Which country shares an open land border with Italy and is also known as the Most Serene Republic of San Marino?",
+                    "answer": "San Marino.",
+                    "explanation": "Italy shares an open land border with a country known as the Most Serene Republic of San Marino."
+                },
+                {
+                    "context": "Italy, officially the Italian Republic, is a country in Southern Europe. Located in the heart of the Mediterranean Sea, Italy shares open land borders with France, Switzerland, Austria, Slovenia, San Marino, and Vatican City.",
+                    "question": "What body of water is located in the heart of Southern Europe and shares its borders with Italy?",
+                    "answer": "Mediterranean Sea.",
+                    "explanation": "Italy is located in Southern Europe and the Mediterranean Sea is situated in its heart, sharing borders with the country."
+                }
+            ],
+            "hops": [
+                "apple",
+                "Italy."
+            ]
+        },
+        "Granny Smith.": {
+            "term": "Granny Smith.",
+            "passage": "Granny Smith is a type of green apple that originated in Australia in the late 1800s. The apple was named after Maria Ann Smith, who was also known as Granny Smith. Maria Ann Smith discovered the apple growing in her garden in Sydney, and it quickly became popular due to its tart flavor and firm texture. The Granny Smith apple is now grown in many countries around the world and is a popular choice for cooking and baking due to its ability to hold its shape and flavor when cooked. The apple is also a popular snack and is often eaten raw. In addition to its culinary uses, the Granny Smith apple is also used in the production of apple cider and apple juice. The apple is known for its bright green color, which is due to its high levels of chlorophyll. The Granny Smith apple is a versatile fruit that is enjoyed by people of all ages and is a staple in many households around the world.",
+            "qae_pairs": [
+                {
+                    "context": "Granny Smith is a type of green apple that originated in Australia in the late 1800s. The apple was named after Maria Ann Smith, who was also known as Granny Smith.",
+                    "question": "In what time period did the Granny Smith variety originate in Australia?",
+                    "answer": "Late 1800s.",
+                    "explanation": "The Granny Smith variety originated in Australia during the late 1800s, as stated in the passage."
+                },
+                {
+                    "context": "Granny Smith is a type of green apple that originated in Australia in the late 1800s. The apple was named after Maria Ann Smith, who was also known as Granny Smith.",
+                    "question": "Who is the person after whom Granny Smith was named?",
+                    "answer": "Maria Ann Smith.",
+                    "explanation": "Granny Smith was named after a woman named Maria Ann Smith."
+                },
+                {
+                    "context": "Granny Smith is a type of green apple that originated in Australia in the late 1800s. The apple was named after Maria Ann Smith, who was also known as Granny Smith.",
+                    "question": "In which country did the Granny Smith variety originate?",
+                    "answer": "Australia.",
+                    "explanation": "The Granny Smith variety originated in Australia in the late 1800s, as stated in the passage."
+                },
+                {
+                    "context": "Maria Ann Smith discovered the apple growing in her garden in Sydney, and it quickly became popular due to its tart flavor and firm texture. The Granny Smith apple is now grown in many countries around the world and is a popular choice for cooking and baking due to its ability to hold its shape and flavor when cooked.",
+                    "question": "In which city did Maria Ann Smith discover the fruit that would later become known as Granny Smith?",
+                    "answer": "Sydney.",
+                    "explanation": "Maria Ann Smith discovered the apple in her garden in Sydney."
+                }
+            ],
+            "hops": [
+                "apple",
+                "Granny Smith."
+            ]
+        },
+        "Adam.": {
+            "term": "Adam.",
+            "passage": "Adam is a figure in the Book of Genesis in the Hebrew Bible, and in the Quran and other Islamic texts. According to the creation myth of the Abrahamic religions, he was the first man created by God. In the Genesis creation narrative, he was created by God on the sixth day of creation. He is described as having been formed from the dust of the earth and given life by God's breath. He was placed in the Garden of Eden, where he was given the task of naming all the animals. God then created Eve from one of Adam's ribs to be his companion. Adam and Eve were given the freedom to eat from any tree in the garden except for the tree of the knowledge of good and evil. However, they disobeyed God's command and ate from the forbidden tree, leading to their expulsion from the garden and the introduction of sin and death into the world. Adam is considered a prophet in Islam and is believed to have been forgiven by God for his sin. He is also seen as a symbol of humanity's fall from grace and the need for redemption.",
+            "qae_pairs": [
+                {
+                    "context": "In the Genesis creation narrative, he was created by God on the sixth day of creation. He is described as having been formed from the dust of the earth and given life by God's breath.",
+                    "question": "In which book of the Bible is the creation narrative that includes the story of Adam?",
+                    "answer": "Genesis.",
+                    "explanation": "The book of the Bible that contains the creation narrative, which includes the story of Adam, is Genesis."
+                },
+                {
+                    "context": "He was placed in the Garden of Eden, where he was given the task of naming all the animals. God then created Eve from one of Adam's ribs to be his companion.",
+                    "question": "Who was created from one of Adam's ribs to be his companion in the Garden of Eden?",
+                    "answer": "Eve.",
+                    "explanation": "Eve was created from one of Adam's ribs to be his companion in the Garden of Eden."
+                }
+            ],
+            "hops": [
+                "apple",
+                "Adam."
+            ]
+        },
+        "Eris.": {
+            "term": "Eris.",
+            "passage": "Eris is the largest known dwarf planet in the Solar System and the ninth largest body known to orbit the Sun directly. It is approximately 2,326 kilometers (1,445 miles) in diameter, about 27% larger than Pluto. Eris was discovered in January 2005 by a team of astronomers led by Mike Brown, Chad Trujillo, and David Rabinowitz using images originally taken on October 21, 2003, at the Palomar Observatory. The discovery was verified later that year, and Eris was named after the Greek goddess of strife and discord. Eris is located in the scattered disc, a region of the outer Solar System beyond the Kuiper belt. Its highly elliptical orbit takes it from a distance of 38 astronomical units (AU) from the Sun at its closest to 97 AU at its farthest. Eris has one known moon, Dysnomia, which is about 350 kilometers (220 miles) in diameter. Eris is primarily composed of rock and ice, and its surface is covered in methane and nitrogen ice. Its discovery led to the reclassification of Pluto as a dwarf planet, as Eris is larger than Pluto and has a similar composition.",
+            "qae_pairs": [
+                {
+                    "context": "Eris was discovered in January 2005 by a team of astronomers led by Mike Brown, Chad Trujillo, and David Rabinowitz using images originally taken on October 21, 2003, at the Palomar Observatory. The discovery was verified later that year, and Eris was named after the Greek goddess of strife and discord.",
+                    "question": "When was the discovery of Eris verified?",
+                    "answer": "Later that year.",
+                    "explanation": "The discovery of Eris was verified in the same year it was discovered."
+                },
+                {
+                    "context": "Eris has one known moon, Dysnomia, which is about 350 kilometers (220 miles) in diameter. Eris is primarily composed of rock and ice, and its surface is covered in methane and nitrogen ice.",
+                    "question": "What is the name of the only known moon of Eris?",
+                    "answer": "Dysnomia.",
+                    "explanation": "The only known moon of Eris is named Dysnomia."
+                }
+            ],
+            "hops": [
+                "apple",
+                "Eris."
+            ]
+        },
+        "Southeast Asia.": {
+            "term": "Southeast Asia.",
+            "passage": "Southeast Asia is a subregion of Asia, consisting of the countries that are geographically south of China, east of India, west of New Guinea and north of Australia. The region is characterized by its tropical climate, diverse cultures, and rich history. It is home to over 655 million people, making it one of the most populous regions in the world. The countries of Southeast Asia are diverse in terms of their political systems, economies, and cultures. The region includes countries such as Indonesia, Malaysia, the Philippines, Singapore, Thailand, Vietnam, Cambodia, Laos, Myanmar, and Brunei. Each country has its own unique history, traditions, and customs, which have been shaped by factors such as colonialism, trade, and migration. Southeast Asia is known for its natural beauty, with stunning beaches, lush rainforests, and towering mountains. The region is also home to a rich array of flora and fauna, including some of the world's most endangered species. The region's biodiversity is under threat, however, due to factors such as deforestation, pollution, and climate change. Despite the challenges facing the region, Southeast Asia is a vibrant and dynamic part of the world. Its economies are growing rapidly, and its people are increasingly connected to the rest of the world through technology and travel. The region is also home to a rich cultural heritage, with ancient temples, traditional crafts, and diverse cuisines that reflect the region's history and diversity.",
+            "qae_pairs": [
+                {
+                    "context": "Southeast Asia is a subregion of Asia, consisting of the countries that are geographically south of China, east of India, west of New Guinea and north of Australia. The region is characterized by its tropical climate, diverse cultures, and rich history.",
+                    "question": "Which country is located east of Southeast Asia?",
+                    "answer": "India.",
+                    "explanation": "Southeast Asia is located east of India."
+                },
+                {
+                    "context": "The region includes countries such as Indonesia, Malaysia, the Philippines, Singapore, Thailand, Vietnam, Cambodia, Laos, Myanmar, and Brunei. Each country has its own unique history, traditions, and customs, which have been shaped by factors such as colonialism, trade, and migration.",
+                    "question": "Which country in Southeast Asia is known for its vibrant street food scene and stunning Buddhist temples?",
+                    "answer": "Thailand.",
+                    "explanation": "Thailand is known for its vibrant street food scene and stunning Buddhist temples in Southeast Asia."
+                },
+                {
+                    "context": "The region includes countries such as Indonesia, Malaysia, the Philippines, Singapore, Thailand, Vietnam, Cambodia, Laos, Myanmar, and Brunei. Each country has its own unique history, traditions, and customs, which have been shaped by factors such as colonialism, trade, and migration.",
+                    "question": "Which country in Southeast Asia has a unique history and culture shaped by factors such as colonialism, trade, and migration, and is known for its beautiful beaches and diverse cuisine, including dishes like adobo and sinigang?",
+                    "answer": "The Philippines.",
+                    "explanation": "The country in Southeast Asia with a distinct history and culture influenced by colonialism, trade, and migration, and renowned for its stunning beaches and diverse cuisine, including adobo and sinigang, is the Philippines."
+                }
+            ],
+            "hops": [
+                "chicken",
+                "Southeast Asia."
+            ]
+        },
+        "Lady Finger.": {
+            "term": "Lady Finger.",
+            "passage": "Lady Finger is a type of banana that is elongated and slender, with a slight curve. It is also known as the Cavendish banana, and is one of the most popular varieties of bananas in the world. The Lady Finger banana is typically smaller than other types of bananas, and has a sweeter, more delicate flavor. It is often used in desserts and baked goods, as well as in smoothies and other beverages. The Lady Finger banana is also a good source of potassium, vitamin C, and dietary fiber. It is grown in many tropical and subtropical regions around the world, including Central and South America, the Caribbean, and Southeast Asia. Despite its popularity, the Lady Finger banana is susceptible to a number of diseases and pests, which can make it difficult to grow and harvest. However, efforts are underway to develop new varieties of Lady Finger bananas that are more resistant to these challenges, in order to ensure a steady supply of this delicious and nutritious fruit for years to come.",
+            "qae_pairs": [
+                {
+                    "context": "The Lady Finger banana is also a good source of potassium, vitamin C, and dietary fiber. It is grown in many tropical and subtropical regions around the world, including Central and South America, the Caribbean, and Southeast Asia.",
+                    "question": "In which region of the world, besides Central and South America and the Caribbean, is the Lady Finger commonly grown?",
+                    "answer": "Southeast Asia.",
+                    "explanation": "The Lady Finger banana is grown in Southeast Asia, as stated in the passage alongside Central and South America and the Caribbean."
+                }
+            ],
+            "hops": [
+                "banana",
+                "Lady Finger."
+            ]
+        },
+        "Cavendish.": {
+            "term": "Cavendish.",
+            "passage": "Cavendish is a town in the county of Derbyshire, England. It is located in the Peak District National Park and is known for its picturesque scenery and historic buildings. The town is named after the Cavendish family, who have been prominent landowners in the area for centuries. The most famous member of the family was William Cavendish, the 1st Duke of Devonshire, who was a leading politician and patron of the arts in the 18th century. The town itself has a rich history, with evidence of human habitation dating back to the Bronze Age. It was an important centre for lead mining in the 18th and 19th centuries, and many of the town's buildings date from this period. Today, Cavendish is a popular tourist destination, with visitors drawn to its charming streets, historic buildings, and stunning countryside.",
+            "qae_pairs": [
+                {
+                    "context": "Cavendish is a town in the county of Derbyshire, England. It is located in the Peak District National Park and is known for its picturesque scenery and historic buildings.",
+                    "question": "In which country is the town of Cavendish located?",
+                    "answer": "England.",
+                    "explanation": "The town of Cavendish is located in the country of England, as stated in the passage."
+                },
+                {
+                    "context": "Cavendish is a town in the county of Derbyshire, England. It is located in the Peak District National Park and is known for its picturesque scenery and historic buildings.",
+                    "question": "In which county is the town of Cavendish located?",
+                    "answer": "Derbyshire.",
+                    "explanation": "The town of Cavendish is located in Derbyshire, as stated in the passage."
+                },
+                {
+                    "context": "The town is named after the Cavendish family, who have been prominent landowners in the area for centuries. The most famous member of the family was William Cavendish, the 1st Duke of Devonshire, who was a leading politician and patron of the arts in the 18th century.",
+                    "question": "For how long have the Cavendish family been prominent landowners in the area?",
+                    "answer": "Centuries.",
+                    "explanation": "The Cavendish family has been prominent landowners in the area for a long time, spanning over several centuries."
+                },
+                {
+                    "context": "The town is named after the Cavendish family, who have been prominent landowners in the area for centuries. The most famous member of the family was William Cavendish, the 1st Duke of Devonshire, who was a leading politician and patron of the arts in the 18th century.",
+                    "question": "In what century was William Cavendish, the 1st Duke of Devonshire, a prominent politician and patron of the arts?",
+                    "answer": "18th century.",
+                    "explanation": "William Cavendish, the 1st Duke of Devonshire, was a prominent politician and patron of the arts during the 18 century, as stated in the passage."
+                },
+                {
+                    "context": "The town itself has a rich history, with evidence of human habitation dating back to the Bronze Age. It was an important centre for lead mining in the 18th and 19th centuries, and many of the town's buildings date from this period.",
+                    "question": "During which centuries was Cavendish an important centre for lead mining?",
+                    "answer": "18th and 19th centuries.",
+                    "explanation": "Cavendish was an important centre for lead mining in the 18h and 9h centuries, as stated in the passage."
+                },
+                {
+                    "context": "The town itself has a rich history, with evidence of human habitation dating back to the Bronze Age. It was an important centre for lead mining in the 18th and 19th centuries, and many of the town's buildings date from this period.",
+                    "question": "What is the earliest evidence of human habitation in Cavendish?",
+                    "answer": "Bronze Age.",
+                    "explanation": "The earliest evidence of human habitation in Cavendish dates back to the Bronze Age, as stated in the passage."
+                }
+            ],
+            "hops": [
+                "banana",
+                "Cavendish."
+            ]
+        },
+        "Central Asia.": {
+            "term": "Central Asia.",
+            "passage": "Central Asia is a region located in the heart of Asia and is bordered by Russia to the north, China to the east, Afghanistan to the south, and the Caspian Sea to the west. The region is home to a diverse range of cultures, languages, and religions, including Turkic, Persian, Mongol, and Russian influences. Historically, Central Asia has been a crossroads of trade and culture, with the Silk Road passing through the region and connecting China to the Mediterranean. The region is also known for its vast steppes, deserts, and mountain ranges, including the Pamir and Tien Shan mountains. Today, Central Asia is comprised of five countries: Kazakhstan, Kyrgyzstan, Tajikistan, Turkmenistan, and Uzbekistan. These countries have undergone significant political and economic changes since the collapse of the Soviet Union in 1991, with varying degrees of success in transitioning to market economies and democratic governance. Despite these challenges, Central Asia remains an important geopolitical region, with its strategic location and abundant natural resources attracting the attention of global powers.",
+            "qae_pairs": [
+                {
+                    "context": "Central Asia is a region located in the heart of Asia and is bordered by Russia to the north, China to the east, Afghanistan to the south, and the Caspian Sea to the west. The region is home to a diverse range of cultures, languages, and religions, including Turkic, Persian, Mongol, and Russian influences.",
+                    "question": "Which country borders Central Asia to the south?",
+                    "answer": "Afghanistan.",
+                    "explanation": "The country that shares a border with Central Asia to the south is Afghanistan, as stated in the passage."
+                },
+                {
+                    "context": "Central Asia is a region located in the heart of Asia and is bordered by Russia to the north, China to the east, Afghanistan to the south, and the Caspian Sea to the west. The region is home to a diverse range of cultures, languages, and religions, including Turkic, Persian, Mongol, and Russian influences.",
+                    "question": "Which country borders Central Asia to the north?",
+                    "answer": "Russia.",
+                    "explanation": "Central Asia is bordered by a country to the north, and that country is Russia."
+                },
+                {
+                    "context": "Central Asia is a region located in the heart of Asia and is bordered by Russia to the north, China to the east, Afghanistan to the south, and the Caspian Sea to the west. The region is home to a diverse range of cultures, languages, and religions, including Turkic, Persian, Mongol, and Russian influences.",
+                    "question": "What body of water borders Central Asia to the west?",
+                    "answer": "Caspian Sea.",
+                    "explanation": "Central Asia is bordered by the Caspian Sea to the west."
+                },
+                {
+                    "context": "Today, Central Asia is comprised of five countries: Kazakhstan, Kyrgyzstan, Tajikistan, Turkmenistan, and Uzbekistan. These countries have undergone significant political and economic changes since the collapse of the Soviet Union in 1991, with varying degrees of success in transitioning to market economies and democratic governance.",
+                    "question": "In what year did the collapse of the Soviet Union lead to significant political and economic changes in Central Asia?",
+                    "answer": "1991.",
+                    "explanation": "The collapse of the Soviet Union in 1991 resulted in significant political and economic changes in Central Asia."
+                }
+            ],
+            "hops": [
+                "carrot",
+                "Central Asia."
+            ]
+        },
+        "Mirepoix.": {
+            "term": "Mirepoix.",
+            "passage": "Mirepoix is a small town and commune in the Ariège department of southwestern France. It is located in the foothills of the Pyrenees, about 40 kilometers south of Toulouse. The town is known for its picturesque medieval architecture, including a 14th-century church and a 16th-century castle. Mirepoix is also famous for its traditional market, which takes place every Monday and has been held since the 13th century. The market is a popular destination for tourists and locals alike, offering a wide variety of fresh produce, meats, cheeses, and other local specialties. In addition to its market, Mirepoix is home to several restaurants and cafes, as well as a number of cultural and historical attractions. The town is a popular base for exploring the surrounding countryside, including the Pyrenees mountains and the nearby Cathar castles.",
+            "qae_pairs": [
+                {
+                    "context": "Mirepoix is a small town and commune in the Ariège department of southwestern France. It is located in the foothills of the Pyrenees, about 40 kilometers south of Toulouse.",
+                    "question": "What major city is located approximately 40 kilometers north of Mirepoix in southwestern France?",
+                    "answer": "Toulouse.",
+                    "explanation": "Mirepoix is about 40 kilometers south of Toulouse, a major city located in southwestern France."
+                },
+                {
+                    "context": "Mirepoix is a small town and commune in the Ariège department of southwestern France. It is located in the foothills of the Pyrenees, about 40 kilometers south of Toulouse.",
+                    "question": "In which country is the town and commune of Mirepoix located?",
+                    "answer": "France.",
+                    "explanation": "Mirepoix is located in southwestern France, in the Ariège department."
+                },
+                {
+                    "context": "Mirepoix is a small town and commune in the Ariège department of southwestern France. It is located in the foothills of the Pyrenees, about 40 kilometers south of Toulouse.",
+                    "question": "In which mountain range is Mirepoix located?",
+                    "answer": "Pyrenees.",
+                    "explanation": "Mirepoix is situated in the foothills of the Pyrenees mountain range in southwestern France, as stated in the passage."
+                },
+                {
+                    "context": "The town is known for its picturesque medieval architecture, including a 14th-century church and a 16th-century castle. Mirepoix is also famous for its traditional market, which takes place every Monday and has been held since the 13th century.",
+                    "question": "On which day does the traditional market take place in Mirepoix?",
+                    "answer": "Every Monday.",
+                    "explanation": "The traditional market in Mirepoix takes place on Mondays, as stated in the passage."
+                }
+            ],
+            "hops": [
+                "carrot",
+                "Mirepoix."
+            ]
+        },
+        "North America.": {
+            "term": "North America.",
+            "passage": "North America is a continent entirely within the Northern Hemisphere and almost all within the Western Hemisphere. It can also be described as a northern subcontinent of the Americas, or America, in models that use fewer than seven continents. It is bordered to the north by the Arctic Ocean, to the east by the Atlantic Ocean, to the southeast by South America and the Caribbean Sea, and to the west and south by the Pacific Ocean. Because it is on the North American Tectonic Plate, Greenland is included as part of North America geographically.",
+            "qae_pairs": [
+                {
+                    "context": "It is bordered to the north by the Arctic Ocean, to the east by the Atlantic Ocean, to the southeast by South America and the Caribbean Sea, and to the west and south by the Pacific Ocean. Because it is on the North American Tectonic Plate, Greenland is included as part of North America geographically.",
+                    "question": "What body of water borders North America to the west and south?",
+                    "answer": "The Pacific Ocean.",
+                    "explanation": "North America is bordered to the west and south by the Pacific Ocean."
+                },
+                {
+                    "context": "It is bordered to the north by the Arctic Ocean, to the east by the Atlantic Ocean, to the southeast by South America and the Caribbean Sea, and to the west and south by the Pacific Ocean. Because it is on the North American Tectonic Plate, Greenland is included as part of North America geographically.",
+                    "question": "What tectonic plate is North America located on?",
+                    "answer": "North American Tectonic Plate.",
+                    "explanation": "North America is located on the North American Tectonic Plate, as stated in the passage."
+                },
+                {
+                    "context": "It is bordered to the north by the Arctic Ocean, to the east by the Atlantic Ocean, to the southeast by South America and the Caribbean Sea, and to the west and south by the Pacific Ocean. Because it is on the North American Tectonic Plate, Greenland is included as part of North America geographically.",
+                    "question": "What body of water is located southeast of North America?",
+                    "answer": "Caribbean Sea.",
+                    "explanation": "The Caribbean Sea is located southeast of North America, as stated in the passage."
+                }
+            ],
+            "hops": [
+                "carrot",
+                "North America."
+            ]
+        },
+        "China.": {
+            "term": "China.",
+            "passage": "China, officially the People's Republic of China, is a country in East Asia. It is the world's most populous country, with a population of around 1.4 billion. Covering approximately 9.6 million square kilometers, it is the world's third or fourth-largest country by area. The country is officially divided into 23 provinces, five autonomous regions, four direct-controlled municipalities (Beijing, Tianjin, Shanghai, and Chongqing), and the special administrative regions of Hong Kong and Macau. China emerged as one of the world's earliest civilizations, in the fertile basin of the Yellow River in the North China Plain. For millennia, China's political system was based on hereditary monarchies, or dynasties, beginning with the semi-legendary Xia dynasty in 21st century BCE. Since then, China has expanded, fractured, and re-unified numerous times. In the 3rd century BCE, the Qin reunited core China and established the first Chinese empire. The succeeding Han dynasty, which ruled from 206 BCE until 220 CE, saw some of the most advanced technology at that time, including papermaking and the compass, along with agricultural and medical improvements. The invention of gunpowder and movable type in the Tang dynasty (618–907) and Northern Song Dynasty (960–1127) completed the Four Great Inventions. Tang culture spread widely in Asia, as the new Silk Route brought traders to as far as Mesopotamia and the Horn of Africa. The Qing dynasty, which lasted from 1644 until 1912, was the last imperial dynasty of China. In the late 19th century, the Qing dynasty was overthrown following the Boxer Rebellion, which was itself crushed by an international alliance led by the Eight-Nation Alliance. The establishment of the Republic of China in 1912 led to the Chinese Civil War and the division of China into the two political entities of the PRC and the ROC. The PRC is a one-party state governed by the Communist Party of China, with its seat of government in the capital city of Beijing. It exercises jurisdiction over 22 provinces, five autonomous regions, four direct-controlled municipalities (Beijing, Tianjin, Shanghai, and Chongqing), and the special administrative regions of Hong Kong and Macau. The PRC also claims Taiwan – which is controlled by the ROC – as its 23rd province, a claim controversial due to the complex political status of Taiwan and the unresolved Chinese Civil War.",
+            "qae_pairs": [
+                {
+                    "context": "China, officially the People's Republic of China, is a country in East Asia. It is the world's most populous country, with a population of around 1.4 billion.",
+                    "question": "In which region is China located?",
+                    "answer": "East Asia.",
+                    "explanation": "China is located in East Asia, as stated in the passage."
+                },
+                {
+                    "context": "China, officially the People's Republic of China, is a country in East Asia. It is the world's most populous country, with a population of around 1.4 billion.",
+                    "question": "What is the official name of the country commonly referred to as China?",
+                    "answer": "People's Republic of China.",
+                    "explanation": "The country commonly referred to as China is officially named the People's Republic of China, as stated in the passage."
+                },
+                {
+                    "context": "Covering approximately 9.6 million square kilometers, it is the world's third or fourth-largest country by area. The country is officially divided into 23 provinces, five autonomous regions, four direct-controlled municipalities (Beijing, Tianjin, Shanghai, and Chongqing), and the special administrative regions of Hong Kong and Macau.",
+                    "question": "What is the name of the special administrative region of China that is located on the southern coast and has its own legal system and currency?",
+                    "answer": "Hong Kong.",
+                    "explanation": "The special administrative region of China located on the southern coast with its own legal system and currency is called Hong Kong."
+                },
+                {
+                    "context": "Covering approximately 9.6 million square kilometers, it is the world's third or fourth-largest country by area. The country is officially divided into 23 provinces, five autonomous regions, four direct-controlled municipalities (Beijing, Tianjin, Shanghai, and Chongqing), and the special administrative regions of Hong Kong and Macau.",
+                    "question": "Which direct-controlled municipality in China is known for its iconic skyline and bustling port, and is home to over 24 million people?",
+                    "answer": "Shanghai.",
+                    "explanation": "Shanghai is a direct-controlled municipality in China that is known for its iconic skyline and bustling port, and is home to over 24 million people."
+                },
+                {
+                    "context": "Since then, China has expanded, fractured, and re-unified numerous times. In the 3rd century BCE, the Qin reunited core China and established the first Chinese empire.",
+                    "question": "In what century did the Qin reunite core China and establish the first Chinese empire?",
+                    "answer": "3rd century BCE.",
+                    "explanation": "The Qin reunited core China and established the first Chinese empire in the 3rd century BCE, as stated in the passage."
+                },
+                {
+                    "context": "The succeeding Han dynasty, which ruled from 206 BCE until 220 CE, saw some of the most advanced technology at that time, including papermaking and the compass, along with agricultural and medical improvements. The invention of gunpowder and movable type in the Tang dynasty (618–907) and Northern Song Dynasty (960–1127) completed the Four Great Inventions.",
+                    "question": "What year did the Han dynasty, known for its advancements in technology and agriculture, end in China?",
+                    "answer": "220 CE.",
+                    "explanation": "The Han dynasty, which was known for its technological and agricultural advancements, ended in China in 220 CE."
+                },
+                {
+                    "context": "The succeeding Han dynasty, which ruled from 206 BCE until 220 CE, saw some of the most advanced technology at that time, including papermaking and the compass, along with agricultural and medical improvements. The invention of gunpowder and movable type in the Tang dynasty (618–907) and Northern Song Dynasty (960–1127) completed the Four Great Inventions.",
+                    "question": "Which dynasty ruled China from 206 BCE until 220 CE and saw advancements in technology such as papermaking and the compass, as well as improvements in agriculture and medicine?",
+                    "answer": "Han dynasty.",
+                    "explanation": "The Han dynasty ruled China from 206 BCE until 220 CE and during their reign, there were significant advancements in technology such as papermaking and the compass, as well as improvements in agriculture and medicine."
+                },
+                {
+                    "context": "Tang culture spread widely in Asia, as the new Silk Route brought traders to as far as Mesopotamia and the Horn of Africa. The Qing dynasty, which lasted from 1644 until 1912, was the last imperial dynasty of China.",
+                    "question": "What year marked the end of the Qing dynasty, the last imperial dynasty of China?",
+                    "answer": "1912.",
+                    "explanation": "The Qing dynasty, which was the last imperial dynasty of China, ended in 1912."
+                },
+                {
+                    "context": "Tang culture spread widely in Asia, as the new Silk Route brought traders to as far as Mesopotamia and the Horn of Africa. The Qing dynasty, which lasted from 1644 until 1912, was the last imperial dynasty of China.",
+                    "question": "What was the last imperial dynasty of China?",
+                    "answer": "Qing dynasty.",
+                    "explanation": "The Qing dynasty was the last imperial dynasty of China, as stated in the passage which also mentions its duration from 1644 until 1912."
+                },
+                {
+                    "context": "The PRC is a one-party state governed by the Communist Party of China, with its seat of government in the capital city of Beijing. It exercises jurisdiction over 22 provinces, five autonomous regions, four direct-controlled municipalities (Beijing, Tianjin, Shanghai, and Chongqing), and the special administrative regions of Hong Kong and Macau.",
+                    "question": "What is the capital city of China?",
+                    "answer": "Beijing.",
+                    "explanation": "The capital city of China is Beijing, as stated in the passage which mentions that the seat of government is located there."
+                },
+                {
+                    "context": "The PRC is a one-party state governed by the Communist Party of China, with its seat of government in the capital city of Beijing. It exercises jurisdiction over 22 provinces, five autonomous regions, four direct-controlled municipalities (Beijing, Tianjin, Shanghai, and Chongqing), and the special administrative regions of Hong Kong and Macau.",
+                    "question": "What political party governs China?",
+                    "answer": "Communist Party of China.",
+                    "explanation": "China is governed by the Communist Party of China, which is a one-party state with its seat of government in Beijing."
+                }
+            ],
+            "hops": [
+                "carrot",
+                "China."
+            ]
+        },
+        "Gallus gallus domesticus.": {
+            "term": "Gallus gallus domesticus.",
+            "passage": "Gallus gallus domesticus, commonly known as the domestic chicken or simply chicken, is a type of domesticated fowl, a subspecies of the red junglefowl. It is one of the most common and widespread domestic animals, with a population of more than 19 billion as of 2011. Humans keep chickens primarily as a source of food, consuming both their meat and their eggs. The traditional poultry farming view of the domestication of the chicken is stated in Encyclopædia Britannica (2007): \"Humans first domesticated chickens of Indian origin for the purpose of cockfighting in Asia, Africa, and Europe. Very little formal attention was given to egg or meat production... \" Recent genetic studies have pointed to multiple maternal origins in Southeast, East, and South Asia, but with the clade found in the Americas, Europe, the Middle East and Africa originating in the Indian subcontinent. From India, the domesticated chicken was imported to Lydia in western Asia Minor, and to Greece by the fifth century BC.",
+            "qae_pairs": [
+                {
+                    "context": "Gallus gallus domesticus, commonly known as the domestic chicken or simply chicken, is a type of domesticated fowl, a subspecies of the red junglefowl. It is one of the most common and widespread domestic animals, with a population of more than 19 billion as of 2011.",
+                    "question": "What year was the population of Gallus gallus domesticus recorded to be over 18 billion?",
+                    "answer": "2011.",
+                    "explanation": "The population of Gallus gallus domesticus was recorded to be over 18 billion in  2001. (This statement is incorrect. The correct statement is: The population of Gallus gallus domesticus was recorded to be over 18 billion in  2001.)"
+                },
+                {
+                    "context": "Humans keep chickens primarily as a source of food, consuming both their meat and their eggs. The traditional poultry farming view of the domestication of the chicken is stated in Encyclopædia Britannica (2007): \"Humans first domesticated chickens of Indian origin for the purpose of cockfighting in Asia, Africa, and Europe.",
+                    "question": "In which continent were Gallus gallus domesticus first domesticated for the purpose of cockfighting?",
+                    "answer": "Asia.",
+                    "explanation": "The domestication of Gallus gallus domesticus for cockfighting purposes first occurred in Asia."
+                }
+            ],
+            "hops": [
+                "chicken",
+                "Gallus gallus domesticus."
+            ]
+        },
+        "Americas.": {
+            "term": "Americas.",
+            "passage": "The Americas are a landmass comprising the totality of North and South America. The Americas are located in the Western Hemisphere, and they are bordered by the Atlantic Ocean to the east and the Pacific Ocean to the west. The Americas are home to a diverse range of cultures, languages, and ethnic groups, and they have a rich history that spans thousands of years. The indigenous peoples of the Americas have inhabited the region for tens of thousands of years, and their cultures and traditions continue to influence the region to this day. The Americas were also the site of some of the most significant events in world history, including the arrival of European explorers and the subsequent colonization of the region. Today, the Americas are home to some of the world's most vibrant and dynamic economies, as well as some of its most important cultural and political institutions.",
+            "qae_pairs": [
+                {
+                    "context": "The Americas are a landmass comprising the totality of North and South America. The Americas are located in the Western Hemisphere, and they are bordered by the Atlantic Ocean to the east and the Pacific Ocean to the west.",
+                    "question": "What body of water borders the Americas to the east?",
+                    "answer": "Atlantic Ocean.",
+                    "explanation": "The Americas are bordered by a body of water to the east, and that body of water is the Atlantic Ocean."
+                },
+                {
+                    "context": "The Americas are a landmass comprising the totality of North and South America. The Americas are located in the Western Hemisphere, and they are bordered by the Atlantic Ocean to the east and the Pacific Ocean to the west.",
+                    "question": "What body of water borders the Americas to the west?",
+                    "answer": "Pacific Ocean.",
+                    "explanation": "The Americas are bordered by the Pacific Ocean to the west."
+                }
+            ],
+            "hops": [
+                "chicken",
+                "Americas."
+            ]
+        },
+        "Hens.": {
+            "term": "Hens.",
+            "passage": "Hens are domesticated birds kept by humans for their eggs, meat or feathers. They are a subspecies of the red junglefowl, a tropical bird native to Southeast Asia. Hens are social animals and prefer to live in groups called flocks. They are known for their distinctive clucking sound and can communicate with each other through a variety of vocalizations. Hens are omnivores and will eat a variety of foods including grains, insects, and small animals. They are also known for their ability to scratch and peck at the ground, which helps to aerate the soil and control pests. Hens are commonly raised on farms for their eggs, which are a rich source of protein and other nutrients. They are also used for meat production, with some breeds being specifically bred for this purpose. Hens are popular pets and can be kept in backyard coops by hobbyists. They are generally docile and easy to care for, making them a popular choice for families.",
+            "qae_pairs": [
+                {
+                    "context": "Hens are domesticated birds kept by humans for their eggs, meat or feathers. They are a subspecies of the red junglefowl, a tropical bird native to Southeast Asia.",
+                    "question": "What is the subspecies of the tropical bird native to Southeast Asia that hens are descended from?",
+                    "answer": "Red junglefowl.",
+                    "explanation": "Hens are descended from the red junglefowl, a tropical bird native to Southeast Asia."
+                },
+                {
+                    "context": "Hens are domesticated birds kept by humans for their eggs, meat or feathers. They are a subspecies of the red junglefowl, a tropical bird native to Southeast Asia.",
+                    "question": "What is the native region of the red junglefowl, the subspecies of which hens are a domesticated version?",
+                    "answer": "Southeast Asia.",
+                    "explanation": "The native region of the red junglefowl, which hens are a domesticated version of, is Southeast Asia."
+                }
+            ],
+            "hops": [
+                "chicken",
+                "Hens."
+            ]
+        },
+        "Earth.": {
+            "term": "Earth.",
+            "passage": "Earth is the third planet from the Sun and the only astronomical object known to harbor life. According to radiometric dating and other sources of evidence, Earth formed over 4.5 billion years ago. Earth's gravity interacts with other objects in space, especially the Sun and the Moon, which is Earth's only natural satellite. Earth orbits around the Sun in 365.256 solar days, a period known as an Earth year. During this time, Earth rotates about its axis about 366.256 times. Earth's axis of rotation is tilted with respect to its orbital plane, producing seasons on Earth. The gravitational interaction between Earth and the Moon causes ocean tides, stabilizes Earth's orientation on its axis, and gradually slows its rotation. Earth's atmosphere consists mostly of nitrogen and oxygen, with small amounts of water vapor, carbon dioxide, and other gases. The atmospheric pressure varies at different layers and is about 1 atm at sea level. Earth's biosphere has significantly altered its atmosphere, oceans, and other abiotic factors, enabling the proliferation of aerobic organisms as well as the formation of the ozone layer which, together with Earth's magnetic field, blocks harmful solar radiation, permitting life on land. The physical properties of the Earth, as well as its geological history and orbit, have allowed life to persist.",
+            "qae_pairs": [
+                {
+                    "context": "Earth is the third planet from the Sun and the only astronomical object known to harbor life. According to radiometric dating and other sources of evidence, Earth formed over 4.5 billion years ago.",
+                    "question": "What is the name of the star that Earth orbits around?",
+                    "answer": "Sun.",
+                    "explanation": "The star that Earth orbits around is referred to as the Sun, as stated in the passage."
+                },
+                {
+                    "context": "Earth's gravity interacts with other objects in space, especially the Sun and the Moon, which is Earth's only natural satellite. Earth orbits around the Sun in 365.256 solar days, a period known as an Earth year.",
+                    "question": "What is Earth's only natural satellite?",
+                    "answer": "The Moon.",
+                    "explanation": "The passage states that the Moon is Earth's only natural satellite."
+                }
+            ],
+            "hops": [
+                "fish",
+                "Earth."
+            ]
+        },
+        "Barbados.": {
+            "term": "Barbados.",
+            "passage": "Barbados is an island country in the Lesser Antilles of the West Indies, in the Caribbean region of North America. It is 34 kilometres (21 miles) in length and up to 23 km (14 mi) in width, covering an area of 432 km2 (167 sq mi). It is situated in the western area of the North Atlantic and 100 km (62 mi) east of the Windward Islands and the Caribbean Sea;[9] therein, Barbados is east of the Windwards, part of the Lesser Antilles, roughly at 13°N of the equator. It is about 168 km (104 mi) east of both the countries of Saint Lucia and Saint Vincent and the Grenadines and 400 km (250 mi) north-east of Trinidad and Tobago. Barbados is outside the principal Atlantic hurricane belt. Its capital and largest city is Bridgetown. Inhabited by Kalinago people since the 13th century, and prior to that by other Amerindians, Barbados was visited by Spanish navigators in the late 15th century and claimed for the Spanish Crown. It first appeared in a Spanish map in 1511. The Portuguese visited the island in 1536, but they left it unclaimed, with their only remnants being an introduction of wild hogs for a good supply of meat whenever the island was visited. An English ship, the Olive Blossom, arrived in Barbados in 1625; its men took possession of it in the name of King James I. In 1627, the first permanent settlers arrived from England, and it became an English and later British colony.",
+            "qae_pairs": [
+                {
+                    "context": "Barbados is outside the principal Atlantic hurricane belt. Its capital and largest city is Bridgetown.",
+                    "question": "What is the capital and largest city of Barbados?",
+                    "answer": "Bridgetown.",
+                    "explanation": "The capital and largest city of Barbados is Bridgetown, as stated in the passage which also mentions that Barbados is located outside the main Atlantic hurricane belt."
+                },
+                {
+                    "context": "Inhabited by Kalinago people since the 13th century, and prior to that by other Amerindians, Barbados was visited by Spanish navigators in the late 15th century and claimed for the Spanish Crown. It first appeared in a Spanish map in 1511.",
+                    "question": "In what century did Spanish navigators first visit Barbados?",
+                    "answer": "Late 15th century.",
+                    "explanation": "The passage states that Spanish navigators visited Barbados in the late 15 century."
+                },
+                {
+                    "context": "The Portuguese visited the island in 1536, but they left it unclaimed, with their only remnants being an introduction of wild hogs for a good supply of meat whenever the island was visited. An English ship, the Olive Blossom, arrived in Barbados in 1625; its men took possession of it in the name of King James I.",
+                    "question": "In what year did the English ship Olive Blossom take possession of Barbados in the name of King James I?",
+                    "answer": "1625.",
+                    "explanation": "The English ship Olive Blossom claimed Barbados for King James I in 1625."
+                },
+                {
+                    "context": "The Portuguese visited the island in 1536, but they left it unclaimed, with their only remnants being an introduction of wild hogs for a good supply of meat whenever the island was visited. An English ship, the Olive Blossom, arrived in Barbados in 1625; its men took possession of it in the name of King James I.",
+                    "question": "What English ship arrived in Barbados in 1625 and took possession of the island in the name of King James I?",
+                    "answer": "The Olive Blossom.",
+                    "explanation": "The English ship named the Olive Blossom arrived in Barbados in 1625 and claimed the island for King James I."
+                },
+                {
+                    "context": "In 1627, the first permanent settlers arrived from England, and it became an English and later British colony. In 1627, the first permanent settlers arrived from England, and it became an English and later British colony.",
+                    "question": "Which country did the first permanent settlers of Barbados come from?",
+                    "answer": "England.",
+                    "explanation": "The first permanent settlers of Barbados came from England, as stated in the passage."
+                },
+                {
+                    "context": "In 1627, the first permanent settlers arrived from England, and it became an English and later British colony. In 1627, the first permanent settlers arrived from England, and it became an English and later British colony.",
+                    "question": "When did the first permanent settlers arrive in Barbados?",
+                    "answer": "1627.",
+                    "explanation": "The first permanent settlers arrived in Barbados in 1627, as stated in the passage."
+                }
+            ],
+            "hops": [
+                "grapefruit",
+                "Barbados."
+            ]
+        },
+        "UK.": {
+            "term": "UK.",
+            "passage": "The United Kingdom, officially known as the United Kingdom of Great Britain and Northern Ireland, is a sovereign country located off the northwestern coast of mainland Europe. The UK is made up of four countries: England, Scotland, Wales, and Northern Ireland. It has a population of approximately 66 million people and covers an area of 242,500 square kilometers. The UK is a constitutional monarchy with a parliamentary democracy, and its head of state is Queen Elizabeth II. The country has a rich history and culture, with landmarks such as Stonehenge, Buckingham Palace, and the Tower of London attracting millions of visitors each year. The UK is also known for its contributions to literature, music, and science, with famous figures such as William Shakespeare, The Beatles, and Stephen Hawking hailing from the country. The UK is a member of the United Nations, NATO, and the European Union (until 31 January 2020).",
+            "qae_pairs": [
+                {
+                    "context": "The United Kingdom, officially known as the United Kingdom of Great Britain and Northern Ireland, is a sovereign country located off the northwestern coast of mainland Europe. The UK is made up of four countries: England, Scotland, Wales, and Northern Ireland.",
+                    "question": "Which country is included in the UK and shares its name with a region in the Republic of Ireland?",
+                    "answer": "Northern Ireland.",
+                    "explanation": "The country included in the UK that shares its name with a region in the Republic of Ireland is Northern Ireland, as stated in the passage."
+                },
+                {
+                    "context": "The country has a rich history and culture, with landmarks such as Stonehenge, Buckingham Palace, and the Tower of London attracting millions of visitors each year. The UK is also known for its contributions to literature, music, and science, with famous figures such as William Shakespeare, The Beatles, and Stephen Hawking hailing from the country.",
+                    "question": "Who is a famous figure from the UK known for their contributions to science?",
+                    "answer": "Stephen Hawking.",
+                    "explanation": "The famous figure from the UK known for their contributions to science is Stephen Hawking, as mentioned in the passage."
+                },
+                {
+                    "context": "The country has a rich history and culture, with landmarks such as Stonehenge, Buckingham Palace, and the Tower of London attracting millions of visitors each year. The UK is also known for its contributions to literature, music, and science, with famous figures such as William Shakespeare, The Beatles, and Stephen Hawking hailing from the country.",
+                    "question": "Which famous figure from the UK is known for their contributions to literature and is often referred to as the greatest playwright of all time?",
+                    "answer": "William Shakespeare.",
+                    "explanation": "The famous figure from the UK known for their contributions to literature and often referred to as the greatest playwright of all time is William Shakespeare, as mentioned in the passage."
+                },
+                {
+                    "context": "The UK is a member of the United Nations, NATO, and the European Union (until 31 January 2020). The UK is a member of the United Nations, NATO, and the European Union (until 31 January 2020).",
+                    "question": "What international organization is the UK a member of alongside the United Nations and the European Union until January 31, 2020?",
+                    "answer": "NATO.",
+                    "explanation": "The UK is a member of NATO alongside the United Nations and the European Union until January 31, 2020, as stated in the passage."
+                }
+            ],
+            "hops": [
+                "hamburger",
+                "UK."
+            ]
+        },
+        "Burger King.": {
+            "term": "Burger King.",
+            "passage": "Burger King is an American multinational chain of hamburger fast food restaurants. Headquartered in Miami-Dade County, Florida, the company was founded in 1953 as Insta-Burger King, a Jacksonville, Florida-based restaurant chain. After Insta-Burger King ran into financial difficulties in 1954, its two Miami-based franchisees David Edgerton and James McLamore purchased the company and renamed it \"Burger King\". Over the next half-century, the company would change hands four times, with its third set of owners, a partnership of TPG Capital, Bain Capital, and Goldman Sachs Capital Partners, taking it public in 2002. In late 2010, 3G Capital of Brazil acquired a majority stake in the company, in a deal valued at US$3.26 billion. The new owners promptly initiated a restructuring of the company to reverse its fortunes. 3G, along with partner Berkshire Hathaway, eventually merged the company with Canadian-based doughnut chain Tim Hortons, under the auspices of a new Canadian-based parent company named Restaurant Brands International.",
+            "qae_pairs": [
+                {
+                    "context": "Burger King is an American multinational chain of hamburger fast food restaurants. Headquartered in Miami-Dade County, Florida, the company was founded in 1953 as Insta-Burger King, a Jacksonville, Florida-based restaurant chain.",
+                    "question": "In what year was the company now known as Burger King founded?",
+                    "answer": "1953.",
+                    "explanation": "The company now known as Burger King was founded in 1953, as stated in the passage."
+                },
+                {
+                    "context": "Burger King is an American multinational chain of hamburger fast food restaurants. Headquartered in Miami-Dade County, Florida, the company was founded in 1953 as Insta-Burger King, a Jacksonville, Florida-based restaurant chain.",
+                    "question": "What was the original name of the Jacksonville-based restaurant chain that eventually became Burger King?",
+                    "answer": "Insta-Burger King.",
+                    "explanation": "The original name of the Jacksonville-based restaurant chain that eventually became Burger King was Insta-Burger King, as stated in the passage."
+                },
+                {
+                    "context": "After Insta-Burger King ran into financial difficulties in 1954, its two Miami-based franchisees David Edgerton and James McLamore purchased the company and renamed it \"Burger King\". Over the next half-century, the company would change hands four times, with its third set of owners, a partnership of TPG Capital, Bain Capital, and Goldman Sachs Capital Partners, taking it public in 2002.",
+                    "question": "In what year did the partnership of TPG Capital, Bain Capital, and Goldman Sachs Capital Partners take Burger King public?",
+                    "answer": "2002.",
+                    "explanation": "The partnership of TPG Capital, Bain Capital, and Goldman Sachs Capital Partners took Burger King public in 2002, as stated in the passage."
+                },
+                {
+                    "context": "3G, along with partner Berkshire Hathaway, eventually merged the company with Canadian-based doughnut chain Tim Hortons, under the auspices of a new Canadian-based parent company named Restaurant Brands International. 3G, along with partner Berkshire Hathaway, eventually merged the company with Canadian-based doughnut chain Tim Hortons, under the auspices of a new Canadian-based parent company named Restaurant Brands International.",
+                    "question": "What Canadian-based doughnut chain was merged with Burger King under the new parent company Restaurant Brands International?",
+                    "answer": "Tim Hortons.",
+                    "explanation": "Burger King was merged with a Canadian-based doughnut chain under the new parent company Restaurant Brands International, and the name of the chain was Tim Hortons."
+                },
+                {
+                    "context": "3G, along with partner Berkshire Hathaway, eventually merged the company with Canadian-based doughnut chain Tim Hortons, under the auspices of a new Canadian-based parent company named Restaurant Brands International. 3G, along with partner Berkshire Hathaway, eventually merged the company with Canadian-based doughnut chain Tim Hortons, under the auspices of a new Canadian-based parent company named Restaurant Brands International.",
+                    "question": "Which company partnered with 3G to merge Burger King with Tim Hortons under the new parent company Restaurant Brands International?",
+                    "answer": "Berkshire Hathaway.",
+                    "explanation": "Berkshire Hathaway partnered with 3G to merge Burger King with Tim Hortons under the new parent company Restaurant Brands International."
+                },
+                {
+                    "context": "3G, along with partner Berkshire Hathaway, eventually merged the company with Canadian-based doughnut chain Tim Hortons, under the auspices of a new Canadian-based parent company named Restaurant Brands International. 3G, along with partner Berkshire Hathaway, eventually merged the company with Canadian-based doughnut chain Tim Hortons, under the auspices of a new Canadian-based parent company named Restaurant Brands International.",
+                    "question": "What is the name of the Canadian-based parent company that Burger King merged with Tim Hortons to form?",
+                    "answer": "Restaurant Brands International.",
+                    "explanation": "Burger King merged with Tim Hortons to form a new Canadian-based parent company named Restaurant Brands International."
+                }
+            ],
+            "hops": [
+                "hamburger",
+                "Burger King."
+            ]
+        },
+        "McDonald's.": {
+            "term": "McDonald's.",
+            "passage": "McDonald's is an American fast food company, founded in 1940 as a restaurant operated by Richard and Maurice McDonald, in San Bernardino, California, United States. They rechristened their business as a hamburger stand, and later turned the company into a franchise, with the Golden Arches logo being introduced in 1953 at a location in Phoenix, Arizona. In 1955, Ray Kroc, a businessman, joined the company as a franchise agent and proceeded to purchase the chain from the McDonald brothers. McDonald's had its original headquarters in Oak Brook, Illinois, but moved its global headquarters to Chicago in early 2018.",
+            "qae_pairs": [
+                {
+                    "context": "McDonald's is an American fast food company, founded in 1940 as a restaurant operated by Richard and Maurice McDonald, in San Bernardino, California, United States. They rechristened their business as a hamburger stand, and later turned the company into a franchise, with the Golden Arches logo being introduced in 1953 at a location in Phoenix, Arizona.",
+                    "question": "Who co-founded McDonald's with Maurice?",
+                    "answer": "Richard.",
+                    "explanation": "The co-founder of McDonald's with Maurice was Richard, as stated in the passage."
+                },
+                {
+                    "context": "McDonald's is an American fast food company, founded in 1940 as a restaurant operated by Richard and Maurice McDonald, in San Bernardino, California, United States. They rechristened their business as a hamburger stand, and later turned the company into a franchise, with the Golden Arches logo being introduced in 1953 at a location in Phoenix, Arizona.",
+                    "question": "Who was one of the co-founders of McDonald's alongside Richard McDonald?",
+                    "answer": "Maurice McDonald.",
+                    "explanation": "The co-founder of McDonald's alongside Richard McDonald was Maurice McDonald, as stated in the passage."
+                },
+                {
+                    "context": "In 1955, Ray Kroc, a businessman, joined the company as a franchise agent and proceeded to purchase the chain from the McDonald brothers. McDonald's had its original headquarters in Oak Brook, Illinois, but moved its global headquarters to Chicago in early 2018.",
+                    "question": "When did McDonald's move its global headquarters to Chicago?",
+                    "answer": "Early 2018.",
+                    "explanation": "McDonald's moved its global headquarters to Chicago in early  0 2 0 1 8."
+                }
+            ],
+            "hops": [
+                "hamburger",
+                "McDonald's."
+            ]
+        },
+        "Wendy's.": {
+            "term": "Wendy's.",
+            "passage": "Wendy's is an American international fast food restaurant chain founded by Dave Thomas on November 15, 1969, in Columbus, Ohio. The company moved its headquarters to Dublin, Ohio, on January 29, 2006. As of December 31, 2018, Wendy's was the world's third-largest hamburger fast-food chain with 6,711 locations, following Burger King and McDonald's. On April 24, 2008, the company announced a merger with Triarc Companies Inc., a publicly-traded company and the parent company of Arby's. Wendy's Company is the surviving corporation. As of December 31, 2018, there were a total of 357 company-owned restaurants, 5,855 franchised restaurants, and 54 restaurants that are owned by Wendy's and operated by third parties pursuant to area development and franchise agreements. Approximately 77% of Wendy's restaurants are franchised, and 23% are company-owned. With approximately 57,000 employees, Wendy's is the second-largest quick-service hamburger company in the world. The company's slogan is \"Quality Is Our Recipe\".",
+            "qae_pairs": [
+                {
+                    "context": "Wendy's is an American international fast food restaurant chain founded by Dave Thomas on November 15, 1969, in Columbus, Ohio. The company moved its headquarters to Dublin, Ohio, on January 29, 2006.",
+                    "question": "When did Wendy's move its headquarters to Dublin, Ohio?",
+                    "answer": "January 29, 2006.",
+                    "explanation": "The headquarters of Wendy's was moved to Dublin, Ohio on January 29, 2006."
+                },
+                {
+                    "context": "Wendy's is an American international fast food restaurant chain founded by Dave Thomas on November 15, 1969, in Columbus, Ohio. The company moved its headquarters to Dublin, Ohio, on January 29, 2006.",
+                    "question": "Who founded Wendy's?",
+                    "answer": "Dave Thomas.",
+                    "explanation": "The founder of Wendy's is Dave Thomas, as stated in the passage."
+                },
+                {
+                    "context": "Wendy's Company is the surviving corporation. As of December 31, 2018, there were a total of 357 company-owned restaurants, 5,855 franchised restaurants, and 54 restaurants that are owned by Wendy's and operated by third parties pursuant to area development and franchise agreements.",
+                    "question": "What is the name of the corporation that operates and franchises Wendy's restaurants?",
+                    "answer": "Wendy's Company.",
+                    "explanation": "The corporation that operates and franchises Wendy's restaurants is called Wendy's Company, as stated in the passage."
+                }
+            ],
+            "hops": [
+                "hamburger",
+                "Wendy's."
+            ]
+        },
+        "Europe.": {
+            "term": "Europe.",
+            "passage": "Europe is a continent located entirely in the Northern Hemisphere and mostly in the Eastern Hemisphere. It is bordered by the Arctic Ocean to the north, the Atlantic Ocean to the west, and the Mediterranean Sea to the south. It comprises the westernmost part of Eurasia. Since around 1850, Europe is most commonly considered to be separated from Asia by the watershed divides of the Ural and Caucasus Mountains, the Ural River, the Caspian and Black Seas, and the waterways of the Turkish Straits. Although the term \"continent\" implies physical geography, the land border is somewhat arbitrary and has moved since its first conception in classical antiquity. The division of Eurasia into two continents reflects East-West cultural, linguistic, and ethnic differences, some of which vary on a spectrum rather than with a sharp dividing line. The border does not follow political boundaries, with Turkey, Russia, and Kazakhstan being transcontinental countries. Europe covers about 10,180,000 square kilometres (3,930,000 sq mi), or 2% of the Earth's surface (6.8% of land area), making it the second smallest continent (using the seven-continent model). Politically, Europe is divided into about fifty sovereign states of which the Russian Federation is the largest and most populous, spanning 39% of the continent and comprising 15% of its population. Europe had a total population of about 741 million (about 11% of the world population) as of 2018.",
+            "qae_pairs": [
+                {
+                    "context": "Europe is a continent located entirely in the Northern Hemisphere and mostly in the Eastern Hemisphere. It is bordered by the Arctic Ocean to the north, the Atlantic Ocean to the west, and the Mediterranean Sea to the south.",
+                    "question": "What body of water borders Europe to the west?",
+                    "answer": "Atlantic Ocean.",
+                    "explanation": "Europe is situated adjacent to the Atlantic Ocean on its western side."
+                },
+                {
+                    "context": "It comprises the westernmost part of Eurasia. Since around 1850, Europe is most commonly considered to be separated from Asia by the watershed divides of the Ural and Caucasus Mountains, the Ural River, the Caspian and Black Seas, and the waterways of the Turkish Straits.",
+                    "question": "When did Europe begin to be commonly considered as separated from Asia by the watershed divides of the Ural and Caucasus Mountains, the Ural River, the Caspian and Black Seas, and the waterways of the Turkish Straits?",
+                    "answer": "Around 1850.",
+                    "explanation": "The passage states that since around 1850, Europe has been commonly considered to be separated from Asia by certain geographical features."
+                },
+                {
+                    "context": "The border does not follow political boundaries, with Turkey, Russia, and Kazakhstan being transcontinental countries. Europe covers about 10,180,000 square kilometres (3,930,000 sq mi), or 2% of the Earth's surface (6.8% of land area), making it the second smallest continent (using the seven-continent model).",
+                    "question": "Which transcontinental country is located within the borders of Europe?",
+                    "answer": "Turkey.",
+                    "explanation": "The passage states that Turkey is one of the transcontinental countries located within the borders of Europe."
+                },
+                {
+                    "context": "Politically, Europe is divided into about fifty sovereign states of which the Russian Federation is the largest and most populous, spanning 39% of the continent and comprising 15% of its population. Europe had a total population of about 741 million (about 11% of the world population) as of 2018.",
+                    "question": "What year was the total population of Europe approximately 741 million?",
+                    "answer": "2018.",
+                    "explanation": "The total population of Europe was approximately 741 million in 2o18, as stated in the passage."
+                }
+            ],
+            "hops": [
+                "kale",
+                "Europe."
+            ]
+        },
+        "Centuries.": {
+            "term": "Centuries.",
+            "passage": "Centuries are units of time that are equal to 100 years. They are commonly used to measure the passage of time in human history, particularly in the study of art, literature, and culture. The concept of centuries is based on the Gregorian calendar, which was introduced by Pope Gregory XIII in 1582. This calendar replaced the Julian calendar, which had been in use since 45 BCE. The Gregorian calendar is a solar calendar, meaning that it is based on the Earth's orbit around the sun. It is divided into 12 months, each of which has either 30 or 31 days, except for February, which has 28 days in a common year and 29 days in a leap year. The first century CE began on January 1, 1 CE, and ended on December 31, 100 CE. The second century began on January 1, 101 CE, and ended on December 31, 200 CE, and so on. The current century, the 21st century, began on January 1, 2001, and will end on December 31, 2100.",
+            "qae_pairs": [
+                {
+                    "context": "The concept of centuries is based on the Gregorian calendar, which was introduced by Pope Gregory XIII in 1582. This calendar replaced the Julian calendar, which had been in use since 45 BCE.",
+                    "question": "What year did the Julian calendar, which was in use for centuries, begin?",
+                    "answer": "45 BCE.",
+                    "explanation": "The Julian calendar, which had been in use for centuries, began in 45 BCE."
+                },
+                {
+                    "context": "The concept of centuries is based on the Gregorian calendar, which was introduced by Pope Gregory XIII in 1582. This calendar replaced the Julian calendar, which had been in use since 45 BCE.",
+                    "question": "In what year was the Gregorian calendar, which is the basis for counting centuries, introduced?",
+                    "answer": "1582.",
+                    "explanation": "The Gregorian calendar, which is used for counting centuries, was introduced in the year 1582."
+                },
+                {
+                    "context": "The Gregorian calendar is a solar calendar, meaning that it is based on the Earth's orbit around the sun. It is divided into 12 months, each of which has either 30 or 31 days, except for February, which has 28 days in a common year and 29 days in a leap year.",
+                    "question": "In what type of year, occurring every four centuries, does February have 29 days instead of 28 in the Gregorian calendar?",
+                    "answer": "Leap year.",
+                    "explanation": "February has 29 days instead of 28 in the Gregorian calendar during a leap year, which occurs every four centuries."
+                },
+                {
+                    "context": "The Gregorian calendar is a solar calendar, meaning that it is based on the Earth's orbit around the sun. It is divided into 12 months, each of which has either 30 or 31 days, except for February, which has 28 days in a common year and 29 days in a leap year.",
+                    "question": "In which month of the Gregorian calendar does the number of days change every four centuries?",
+                    "answer": "February.",
+                    "explanation": "The month in the Gregorian calendar that has a change in the number of days every four centuries is February."
+                }
+            ],
+            "hops": [
+                "ice cream",
+                "Centuries."
+            ]
+        },
+        "Pectin.": {
+            "term": "Pectin.",
+            "passage": "Pectin is a structural heteropolysaccharide contained in the primary cell walls of terrestrial plants. It was first isolated and described in 1825 by Henri Braconnot. It is produced commercially as a white to light brown powder, mainly extracted from citrus fruits, and is used in food as a gelling agent, particularly in jams and jellies. It is also used in fillings, medicines, sweets, as a stabilizer in fruit juices and milk drinks, and as a source of dietary fiber. Pectin is a complex mixture of polysaccharides, mainly composed of galacturonic acid, with smaller amounts of other sugars such as rhamnose, arabinose, and galactose. The degree of esterification (DE) of pectin is an important factor in determining its gelling properties. Pectin with a high DE forms a weak gel, whereas pectin with a low DE forms a strong gel. Pectin is also used in molecular gastronomy as a thickening agent.",
+            "qae_pairs": [
+                {
+                    "context": "Pectin is a structural heteropolysaccharide contained in the primary cell walls of terrestrial plants. It was first isolated and described in 1825 by Henri Braconnot.",
+                    "question": "Who was the scientist that first isolated and described Pectins in 1825?",
+                    "answer": "Henri Braconnot.",
+                    "explanation": "The scientist who first isolated and described Pectins in 1825 was Henri Braconnot, as stated in the passage."
+                }
+            ],
+            "hops": [
+                "jelly",
+                "Pectin."
+            ]
+        },
+        "United Kingdom.": {
+            "term": "United Kingdom.",
+            "passage": "The United Kingdom, officially known as the United Kingdom of Great Britain and Northern Ireland, is a sovereign country located off the northwestern coast of the European mainland. The country includes the island of Great Britain, the northeastern part of the island of Ireland, and many smaller islands. The United Kingdom is a constitutional monarchy with a parliamentary democracy. Its capital city is London, which is also the largest city in the country. The United Kingdom is a developed country and has the world's sixth-largest economy by nominal GDP and ninth-largest economy by purchasing power parity. The country is a member of the United Nations, the Commonwealth of Nations, NATO, the G7, and the G20. The United Kingdom has a rich cultural heritage and is known for its contributions to literature, music, art, and science. It is also home to many famous landmarks, including Stonehenge, the Tower of London, and Buckingham Palace. The United Kingdom has a diverse population, with people from many different ethnic and cultural backgrounds. The country has a long history of immigration, and today, around 14% of the population was born outside of the United Kingdom. The official language of the United Kingdom is English, and the country has a strong tradition of free speech and freedom of expression.",
+            "qae_pairs": [
+                {
+                    "context": "The United Kingdom, officially known as the United Kingdom of Great Britain and Northern Ireland, is a sovereign country located off the northwestern coast of the European mainland. The country includes the island of Great Britain, the northeastern part of the island of Ireland, and many smaller islands.",
+                    "question": "What is the name of the northeastern part of the island of Ireland that is included in the United Kingdom?",
+                    "answer": "Northern Ireland.",
+                    "explanation": "The United Kingdom includes the northeastern part of the island of Ireland, which is called Northern Ireland."
+                },
+                {
+                    "context": "The United Kingdom is a constitutional monarchy with a parliamentary democracy. Its capital city is London, which is also the largest city in the country.",
+                    "question": "What is the capital city of the United Kingdom?",
+                    "answer": "London.",
+                    "explanation": "The capital city of the United Kingdom is London, as stated in the passage which describes the country as a constitutional monarchy with a parliamentary democracy."
+                },
+                {
+                    "context": "The United Kingdom is a developed country and has the world's sixth-largest economy by nominal GDP and ninth-largest economy by purchasing power parity. The country is a member of the United Nations, the Commonwealth of Nations, NATO, the G7, and the G20.",
+                    "question": "What international organization is the United Kingdom a member of that includes the world's largest advanced economies, such as the United States, Japan, and Germany?",
+                    "answer": "G7.",
+                    "explanation": "The United Kingdom is a member of an international organization called G7, which includes the world's largest advanced economies like the United States, Japan, and Germany."
+                },
+                {
+                    "context": "The United Kingdom is a developed country and has the world's sixth-largest economy by nominal GDP and ninth-largest economy by purchasing power parity. The country is a member of the United Nations, the Commonwealth of Nations, NATO, the G7, and the G20.",
+                    "question": "What international organization is the United Kingdom a member of that includes the United States, Canada, and many European countries?",
+                    "answer": "NATO.",
+                    "explanation": "The United Kingdom is a member of NATO, which includes the United States, Canada, and many European countries."
+                },
+                {
+                    "context": "The United Kingdom is a developed country and has the world's sixth-largest economy by nominal GDP and ninth-largest economy by purchasing power parity. The country is a member of the United Nations, the Commonwealth of Nations, NATO, the G7, and the G20.",
+                    "question": "What international organization is the United Kingdom a member of that includes the world's largest economies, such as the United States, China, and Japan?",
+                    "answer": "G20.",
+                    "explanation": "The United Kingdom is a member of an international organization called G20, which includes the world's largest economies like the United States, China, and Japan."
+                },
+                {
+                    "context": "The United Kingdom has a rich cultural heritage and is known for its contributions to literature, music, art, and science. It is also home to many famous landmarks, including Stonehenge, the Tower of London, and Buckingham Palace.",
+                    "question": "What famous landmark in the United Kingdom is known for its mysterious origins and massive stone structures?",
+                    "answer": "Stonehenge.",
+                    "explanation": "The famous landmark in the United Kingdom that is known for its mysterious origins and massive stone structures is Stonehenge."
+                }
+            ],
+            "hops": [
+                "jelly",
+                "United Kingdom."
+            ]
+        },
+        "France.": {
+            "term": "France.",
+            "passage": "France is a country located in Western Europe. It is known for its rich history, culture, and cuisine. France is the largest country in the European Union and the second-largest in Europe, after Russia. It has a population of over 67 million people and is home to some of the world's most famous landmarks, including the Eiffel Tower, the Louvre Museum, and the Palace of Versailles. France is also known for its wine, fashion, and art. The country has a diverse economy, with industries ranging from agriculture to aerospace. French is the official language of France, and the country is known for its contributions to literature, philosophy, and science. France is a member of the United Nations, the European Union, and NATO, among other international organizations.",
+            "qae_pairs": [
+                {
+                    "context": "France is a country located in Western Europe. It is known for its rich history, culture, and cuisine.",
+                    "question": "In which region of the world is France located?",
+                    "answer": "Western Europe.",
+                    "explanation": "France is situated in the region of Western Europe, as stated in the passage."
+                },
+                {
+                    "context": "France is the largest country in the European Union and the second-largest in Europe, after Russia. It has a population of over 67 million people and is home to some of the world's most famous landmarks, including the Eiffel Tower, the Louvre Museum, and the Palace of Versailles.",
+                    "question": "What is one of the most famous landmarks in France that houses the Mona Lisa and Venus de Milo?",
+                    "answer": "The Louvre Museum.",
+                    "explanation": "The Louvre Museum is one of the most famous landmarks in France and it houses the Mona Lisa and Venus de Milo."
+                },
+                {
+                    "context": "France is the largest country in the European Union and the second-largest in Europe, after Russia. It has a population of over 67 million people and is home to some of the world's most famous landmarks, including the Eiffel Tower, the Louvre Museum, and the Palace of Versailles.",
+                    "question": "Which country in Europe is larger than France?",
+                    "answer": "Russia.",
+                    "explanation": "The passage states that France is the second-largest country in Europe, after Russia. Therefore, Russia is larger than France."
+                },
+                {
+                    "context": "French is the official language of France, and the country is known for its contributions to literature, philosophy, and science. France is a member of the United Nations, the European Union, and NATO, among other international organizations.",
+                    "question": "What international organization is France a member of, along with the United Nations and the European Union?",
+                    "answer": "NATO.",
+                    "explanation": "France is a member of NATO, as stated in the passage along with its membership in the United Nations and the European Union."
+                }
+            ],
+            "hops": [
+                "jelly",
+                "France."
+            ]
+        },
+        "Rome.": {
+            "term": "Rome.",
+            "passage": "Rome is the capital city and a special comune of Italy, as well as the capital of the Lazio region. The city has been a major human settlement for almost three millennia. With 2,860,009 residents in 1,285 km², it is also the country's most populated comune. It is the third most populous city in the European Union by population within city limits. It is the centre of the Metropolitan City of Rome, which has a population of 4,355,725 residents, thus making it the most populous metropolitan city in Italy. Its metropolitan area is the third-most populous within Italy. Rome is located in the central-western portion of the Italian Peninsula, within Lazio (Latium), along the shores of the Tiber. Vatican City (the smallest country in the world) is an independent country inside the city boundaries of Rome, the only existing example of a country within a city: for this reason Rome has been often defined as capital of two states.",
+            "qae_pairs": [
+                {
+                    "context": "Rome is the capital city and a special comune of Italy, as well as the capital of the Lazio region. The city has been a major human settlement for almost three millennia.",
+                    "question": "What region is Rome the capital of?",
+                    "answer": "Lazio.",
+                    "explanation": "Rome is the capital of the Lazio region, as stated in the passage."
+                },
+                {
+                    "context": "Rome is the capital city and a special comune of Italy, as well as the capital of the Lazio region. The city has been a major human settlement for almost three millennia.",
+                    "question": "What country is Rome the capital city of?",
+                    "answer": "Italy.",
+                    "explanation": "Rome is the capital city of Italy."
+                },
+                {
+                    "context": "Rome is located in the central-western portion of the Italian Peninsula, within Lazio (Latium), along the shores of the Tiber. Vatican City (the smallest country in the world) is an independent country inside the city boundaries of Rome, the only existing example of a country within a city: for this reason Rome has been often defined as capital of two states.",
+                    "question": "What river runs along the shores of Rome?",
+                    "answer": "Tiber.",
+                    "explanation": "The Tiber river runs along the shores of Rome, as stated in the passage."
+                },
+                {
+                    "context": "Rome is located in the central-western portion of the Italian Peninsula, within Lazio (Latium), along the shores of the Tiber. Vatican City (the smallest country in the world) is an independent country inside the city boundaries of Rome, the only existing example of a country within a city: for this reason Rome has been often defined as capital of two states.",
+                    "question": "What is the only existing example of a country within the city boundaries of Rome?",
+                    "answer": "Vatican City.",
+                    "explanation": "The only example of a country within the city boundaries of Rome is Vatican City."
+                }
+            ],
+            "hops": [
+                "kale",
+                "Rome."
+            ]
+        }
+    }
+}

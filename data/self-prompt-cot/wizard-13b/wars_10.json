@@ -1,0 +1,816 @@
+{
+    "first_hops": {
+        "World War I": {
+            "term": "World War I",
+            "passage": "World War I (WWI), also known as the First World War, was a global war that lasted from 28 July 1914 to 11 November 1918. It involved the majority of the world's nations, organized into two opposing military alliances: the Allies (centred around the Triple Entente of the United Kingdom, France and Russia) and the Central Powers (originally led by the German Empire, Austria-Hungary and the Ottoman Empire). The war was sparked by the assassination of Archduke Franz Ferdinand of Austria-Hungary in Sarajevo in 1914, and it quickly escalated into a full-scale conflict. The war saw major technological advances in military affairs, including the first use of poison gas in combat and the development of tanks and aircraft. It also resulted in the deaths of more than 8 million soldiers and an estimated 6 million civilians. The war ended with the defeat of the Central Powers and the signing of the Treaty of Versailles in 1919, which established the League of Nations and imposed heavy reparations on Germany. The war had a profound impact on society and culture, both in Europe and around the world. It contributed to the rise of nationalism and the decline of empires, and it paved the way for the emergence of new political ideologies such as communism and fascism. The war also had a significant impact on literature and the arts, with many writers and artists using their work to express their feelings about the conflict. In the years since the war, it has been studied and analyzed by historians and scholars, who have sought to understand its causes and consequences.",
+            "qae_pairs": [
+                {
+                    "question": "What was the name of the empire that was a member of the Central Powers in World War I?",
+                    "answer": "the Ottoman Empire",
+                    "explanation": "The war was sparked by the assassination of Archduke Franz Ferdinand of Austria-Hungary in Sarajevo in 1914, and it quickly escalated into a full-scale conflict. This sentence explains that the war was sparked by the assassination of Archduke Franz Ferdinand of Austria-Hungary in Sarajevo in 1914."
+                },
+                {
+                    "question": "1. What was the date of the end of World War I? 2. Who were the leaders of the Allied Powers during World War I? 3. What was the name of the treaty that ended World War I? 4. What was the impact of World War I on literature",
+                    "answer": "November 1918",
+                    "explanation": "The war saw major technological advances in military affairs, including the first use of poison gas in combat and the development of tanks and aircraft."
+                },
+                {
+                    "question": "* What is the name of the continent where World War I took place? * Which country was the main cause of World War I? * What was the name of the treaty that ended World War I? * Which country was the main winner of World War I? * Which country was",
+                    "answer": "Europe",
+                    "explanation": "The war was sparked by the assassination of Archduke Franz Ferdinand of Austria-Hungary in Sarajevo in 1914 Explanation: This sentence explains that the main cause of World War I was the assassination of Archduke Franz Ferdinand of Austria-Hungary in Sarajevo in 1914. This event triggered a chain of events that led to the outbreak of war between the major world powers of the time."
+                },
+                {
+                    "question": "What were the opposing military alliances in World War I?",
+                    "answer": "the Central Powers",
+                    "explanation": "The war was sparked by the assassination of Archduke Franz Ferdinand of Austria-Hungary in Sarajevo in 1914, and it quickly escalated into a full-scale conflict."
+                },
+                {
+                    "question": "What was the organization established by the Treaty of Versailles in 1919 to promote international cooperation and prevent future wars?",
+                    "answer": "the League of Nations",
+                    "explanation": "The war ended with the defeat of the Central Powers and the signing of the Treaty of Versailles in 1919, which established the League of Nations and imposed heavy reparations on Germany."
+                },
+                {
+                    "question": "The question is: What is the capital of Bosnia and Herzegovina?",
+                    "answer": "Sarajevo",
+                    "explanation": "The war was sparked by the assassination of Archduke Franz Ferdinand of Austria-Hungary in Sarajevo in 1914, and it quickly escalated into a full-scale conflict."
+                },
+                {
+                    "question": "Which European country played a major role in World War I and was a founding member of the League of Nations?",
+                    "answer": "France",
+                    "explanation": "The war was sparked by the assassination of Archduke Franz Ferdinand of Austria-Hungary in Sarajevo in 1914, and it quickly escalated into a full-scale conflict."
+                }
+            ],
+            "hops": [
+                "World War I"
+            ]
+        },
+        "World War II": {
+            "term": "World War II",
+            "passage": "World War II was a global war that lasted from 1939 to 1945. The vast majority of the world's countries, including all the great powers, organized themselves into two opposing military alliances: the Allies and the Axis. The Allies were led by the United States, the Soviet Union, and the United Kingdom, while the Axis were led by Germany, Italy, and Japan. The war was the deadliest in history, with an estimated 70 to 85 million people killed, which was about 3% of the world population at the time. The war began on September 1, 1939, when Nazi Germany invaded Poland. The United Kingdom and France responded by declaring war on Germany, but they did not provide significant assistance to Poland. The Soviet Union invaded Poland from the east on September 17, 1939, and the country was divided between Germany and the Soviet Union. The United States remained neutral at first, but in 1941, it entered the war after Japan attacked Pearl Harbor, Hawaii. The war was fought on multiple fronts, including Europe, Asia, and Africa. In Europe, the Allies fought a successful campaign in North Africa and Italy before invading France in 1944. The Soviet Union fought a long and brutal war on the Eastern Front against Germany, which ultimately resulted in the defeat of Germany and the capture of Berlin by the Soviet Union in 1945. In Asia, Japan conquered much of China and Southeast Asia before being defeated by the Allies in a series of battles, including the Battle of Midway and the Battle of Okinawa. The war had a profound impact on the world, both politically and economically.",
+            "qae_pairs": [
+                {
+                    "question": "\"Which continent is the birthplace of Western civilization and has a rich history dating back to ancient Greece and Rome?\" 'The United States' is the answer to which question: \"Which country is the world's largest economy and has a strong democratic system of government?\" 'The",
+                    "answer": "Europe",
+                    "explanation": "The war was the deadliest in history, with an estimated 70 to 85 million people killed, which was about 3% of the world population at the time."
+                },
+                {
+                    "question": "Which front did the Soviet Union fight on during World War II?",
+                    "answer": "the Eastern Front",
+                    "explanation": "The Soviet Union fought a long and brutal war on the Eastern Front against Germany, which ultimately resulted in the defeat of Germany and the capture of Berlin by the Soviet Union in 1945."
+                },
+                {
+                    "question": "1. Which country was a member of the Axis powers during World War II? 2. Which country was the first to use atomic bombs in warfare? 3. Which country was the first to develop nuclear weapons? 4. Which country was the first to use chemical weapons in warfare",
+                    "answer": "Japan",
+                    "explanation": "The war was the deadliest in history, with an estimated 70 to 85 million people killed, which was about 3% of the world population at the time."
+                },
+                {
+                    "question": "1. What was the name of the battle in which Japan was defeated by the Allies in Asia? 2. What was the name of the battle in which the Soviet Union captured Berlin? 3. What was the name of the battle in which the United States and its allies invaded France?",
+                    "answer": "the Battle of Okinawa",
+                    "explanation": "The war was fought on multiple fronts, including Europe, Asia, and Africa."
+                },
+                {
+                    "question": "A) Where did the war begin? B) Which countries were part of the Allies? C) How many people died in the war? D) Which countries were part of the Axis? E) What was the name of the campaign fought in North Africa? F) Who inv",
+                    "answer": "Italy",
+                    "explanation": "The war was the deadliest in history, with an estimated 70 to 85 million people killed, which was about 3% of the world population at the time."
+                },
+                {
+                    "question": "1. Which countries were part of the Allies during World War II? 2. What was the deadliest conflict in history before World War II? 3. Which country did Japan attack in 1941, leading the United States to enter the war? 4. Which country did the",
+                    "answer": "the United Kingdom",
+                    "explanation": "The war was the deadliest in history, with an estimated 70 to 85 million people killed, which was about 3% of the world population at the time."
+                }
+            ],
+            "hops": [
+                "World War II"
+            ]
+        },
+        "Vietnam War": {
+            "term": "Vietnam War",
+            "passage": "The Vietnam War was a Cold War-era military conflict that occurred in Vietnam, Laos, and Cambodia from 1955 to 1975. The war was fought between the communist North Vietnam, supported by its communist allies in the region, and the government of South Vietnam, supported by the United States and other anti-communist countries. The war began in 1955, following the end of the First Indochina War and the Geneva Conference, which temporarily divided Vietnam into a communist-led north and a US-supported south. The war ended with the fall of Saigon, the capital of South Vietnam, to the North Vietnamese Army in 1975. The war was characterized by guerrilla warfare and a protracted conflict that involved the use of air power, ground forces, and special operations. The US government viewed the war as a way to prevent the spread of communism and to contain the influence of the Soviet Union and China in Southeast Asia. The North Vietnamese and Viet Cong forces, on the other hand, saw the war as a struggle for national liberation and unification. The war had a significant impact on the social, political, and economic landscape of Vietnam, as well as on the wider world. It resulted in the deaths of millions of people, including both military personnel and civilians, and led to the displacement of millions more. The war also had a profound impact on the US military, leading to a reevaluation of its strategic goals and tactics. The war also had a significant impact on the wider world, particularly in terms of the anti-war movement and the rise of counterculture in the US and other countries.",
+            "qae_pairs": [
+                {
+                    "question": "\"Which year did the fall of Saigon occur?\"",
+                    "answer": "1975",
+                    "explanation": "The war ended with the fall of Saigon, the capital of South Vietnam, to the North Vietnamese Army in 1975."
+                },
+                {
+                    "question": "What is the name of the communist-led country in Southeast Asia that was supported by North Vietnam during the Vietnam War and was heavily bombed by the United States during the conflict?",
+                    "answer": "Laos",
+                    "explanation": "The war was fought between the communist North Vietnam, supported by its communist allies in the region, and the government of South Vietnam, supported by the United States and other anti-communist countries."
+                },
+                {
+                    "question": "What country was not directly involved in the Vietnam War but was heavily bombed by the US during the conflict?",
+                    "answer": "Cambodia",
+                    "explanation": "The war began in 1955, following the end of the First Indochina War and the Geneva Conference, which temporarily divided Vietnam into a communist-led north and a US-supported south."
+                },
+                {
+                    "question": "What was the main force fighting against the government of South Vietnam during the Vietnam War?",
+                    "answer": "the North Vietnamese Army",
+                    "explanation": "The North Vietnamese and Viet Cong forces, on the other hand, saw the war as a struggle for national liberation and unification. Explanation: The main force fighting against the government of South Vietnam during the Vietnam War was the North Vietnamese Army, which was supported by its communist allies in the region. The North Vietnamese and Viet Cong forces, on the other hand, saw the war as a struggle for national liberation and unification, which was a key motivation for their participation in the conflict."
+                },
+                {
+                    "question": "What was the name of the communist guerrilla force that fought against the South Vietnamese government and the US military during the Vietnam War?",
+                    "answer": "Viet Cong",
+                    "explanation": "The North Vietnamese and Viet Cong forces, on the other hand, saw the war as a struggle for national liberation and unification."
+                },
+                {
+                    "question": "What year did the Vietnam War begin?",
+                    "answer": "1955",
+                    "explanation": "The war began in 1955, following the end of the First Indochina War and the Geneva Conference, which temporarily divided Vietnam into a communist-led north and a US-supported south."
+                },
+                {
+                    "question": "\"Who supported North Vietnam in the Vietnam War?\"",
+                    "answer": "the Soviet Union",
+                    "explanation": "The North Vietnamese and Viet Cong forces, on the other hand, saw the war as a struggle for national liberation and unification."
+                },
+                {
+                    "question": "'Which country was supported by the United States and other anti-communist countries during the Vietnam War?'",
+                    "answer": "South Vietnam",
+                    "explanation": "The war was fought between the communist North Vietnam, supported by its communist allies in the region, and the government of South Vietnam, supported by the United States and other anti-communist countries."
+                }
+            ],
+            "hops": [
+                "Vietnam War"
+            ]
+        },
+        "Korean War": {
+            "term": "Korean War",
+            "passage": "The Korean War was a war between North Korea (with the support of China and the Soviet Union) and South Korea (with the support of the United States and other United Nations member states). The war began on June 25, 1950, when North Korean forces invaded South Korea. The war lasted for three years and resulted in a stalemate, with the Korean Demilitarized Zone (DMZ) established as the border between the two countries. The war also resulted in the deaths of millions of civilians and soldiers, and the destruction of much of the Korean Peninsula. The war was a significant event in the Cold War, and it marked the first major military conflict of the post-World War II era. The war also led to the establishment of the United Nations Command, which still exists today and is responsible for maintaining peace on the Korean Peninsula.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the organization responsible for maintaining peace on the Korean Peninsula?",
+                    "answer": "the United Nations Command",
+                    "explanation": "The war also resulted in the deaths of millions of civilians and soldiers, and the destruction of much of the Korean Peninsula."
+                },
+                {
+                    "question": "What is the border between North and South Korea?",
+                    "answer": "DMZ",
+                    "explanation": "The war lasted for three years and resulted in a stalemate, with the Korean Demilitarized Zone (DMZ) established as the border between the two countries."
+                },
+                {
+                    "question": "What is the border between North Korea and South Korea?",
+                    "answer": "the Korean Demilitarized Zone",
+                    "explanation": "The war lasted for three years and resulted in a stalemate, with the Korean Demilitarized Zone (DMZ) established as the border between the two countries."
+                }
+            ],
+            "hops": [
+                "Korean War"
+            ]
+        },
+        "Iraq War": {
+            "term": "Iraq War",
+            "passage": "The Iraq War was a protracted armed conflict that began with the 2003 invasion of Iraq by a United States-led coalition. The invasion was launched in response to the September 11 attacks and the subsequent conviction that Iraq possessed weapons of mass destruction (WMDs). The war continued for eight years, involving the United States, the United Kingdom, and a coalition of other countries, in support of Iraqi opposition groups in the form of insurgencies, and against the Ba'athist government of Saddam Hussein. The conflict resulted in the deaths of over 150,000 Iraqi civilians, as well as the deaths of over 4,500 coalition soldiers, including 4,486 Americans. The war ended in December 2011, when U.S. troops withdrew from Iraq.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the country that led the coalition that invaded Iraq in 2003?",
+                    "answer": "a United States",
+                    "explanation": "The Iraq War was a protracted armed conflict that began with the 2003 invasion of Iraq by a United States-led coalition."
+                },
+                {
+                    "question": "What year did the Iraq War begin?",
+                    "answer": "2003",
+                    "explanation": "The Iraq War was a protracted armed conflict that began with the 2003 invasion of Iraq by a United States-led coalition."
+                },
+                {
+                    "question": "A) What was the date of the United States' withdrawal from Iraq? B) How many coalition soldiers were killed in the Iraq War? C) How many Iraqi civilians were killed in the Iraq War? D) What was the main reason for the United States",
+                    "answer": "December 2011",
+                    "explanation": "The war continued for eight years, involving the United States, the United Kingdom, and a coalition of other countries, in support of Iraqi opposition groups in the form of insurgencies, and against the Ba'athist government of Saddam Hussein. Answer: The war continued for eight years, involving the United States, the United Kingdom, and a coalition of other countries, in support of Iraqi opposition groups in the form of insurgencies, and against the Ba'athist government of Saddam Hussein."
+                },
+                {
+                    "question": "* What countries were involved in the Iraq War? * What was the reason for the invasion of Iraq in 2003? * How many coalition soldiers died in the Iraq War? * When did the war in Iraq end?",
+                    "answer": "the United Kingdom",
+                    "explanation": "The war continued for eight years, involving the United States, the United Kingdom, and a coalition of other countries, in support of Iraqi opposition groups in the form of insurgencies, and against the Ba'athist government of Saddam Hussein."
+                },
+                {
+                    "question": "What was the Ba'athist government of Iraq during the Iraq War?",
+                    "answer": "Saddam Hussein",
+                    "explanation": "The war continued for eight years, involving the United States, the United Kingdom, and a coalition of other countries, in support of Iraqi opposition groups in the form of insurgencies, and against the Ba'athist government of Saddam Hussein."
+                }
+            ],
+            "hops": [
+                "Iraq War"
+            ]
+        },
+        "Afghanistan War": {
+            "term": "Afghanistan War",
+            "passage": "The Afghanistan War, also known as the Soviet–Afghan War, was a conflict in Afghanistan fought between 1979 and 1989 between the Soviet-led Afghan government and the United States-supported mujahideen rebels. The war began on December 24, 1979, when the Soviet Union invaded Afghanistan to support the Marxist government of Nur Muhammad Taraki against the mujahideen rebels. The mujahideen were mostly rural Afghanists who were predominantly Sunni Muslims and were opposed to the Soviet-backed government. The war was part of the Cold War and was a proxy war between the Soviet Union and the United States. The war resulted in the deaths of over one million Afghans and the displacement of millions more. The war ended on February 15, 1989, when the Soviet Union withdrew its troops from Afghanistan. The war had a significant impact on the region and the world, and it is considered one of the longest and deadliest conflicts of the Cold War era.",
+            "qae_pairs": [
+                {
+                    "question": "1. Who supported the mujahideen rebels in the Afghanistan War? 2. Who invaded Afghanistan in 1979 to support the Marxist government? 3. Who was the leader of the Soviet-backed government in Afghanistan? 4. Who were",
+                    "answer": "the United States",
+                    "explanation": "The war was part of the Cold War and was a proxy war between the Soviet Union and the United States."
+                },
+                {
+                    "question": "'What is the name of the country that was involved in a war with the Soviet Union from 1979 to 1989?'",
+                    "answer": "Afghanistan",
+                    "explanation": "The war began on December 24, 1979, when the Soviet Union invaded Afghanistan to support the Marxist government of Nur Muhammad Taraki against the mujahideen rebels."
+                }
+            ],
+            "hops": [
+                "Afghanistan War"
+            ]
+        },
+        "American Civil War": {
+            "term": "American Civil War",
+            "passage": "The American Civil War was a civil war fought in the United States from 1861 to 1865. The war is the most studied and written about episode in U.S. history. The war began on April 12, 1861, when Confederate forces attacked a U.S. military installation at Fort Sumter, South Carolina. The war lasted for four years and resulted in the deaths of an estimated 620,000 soldiers and an undetermined number of civilian casualties. The Union, led by President Abraham Lincoln and the Republican Party, fought to preserve the United States as a single, indivisible nation. The Confederacy, led by President Jefferson Davis and the Democratic Party, sought to create a new nation that would allow for the continuation of slavery. The war ended on April 9, 1865, when General Robert E. Lee surrendered to Union General Ulysses S. Grant at Appomattox Court House in Virginia. The war was the bloodiest conflict in American history and had a profound impact on the country and the world.",
+            "qae_pairs": [
+                {
+                    "question": "1. Who was the president of the United States during the American Civil War? 2. Who was the leader of the Confederacy during the American Civil War? 3. What was the main issue that led to the American Civil War? 4. When did the American Civil War begin? 5.",
+                    "answer": "Abraham Lincoln",
+                    "explanation": "The Union, led by President Abraham Lincoln and the Republican Party, fought to preserve the United States as a single, indivisible nation."
+                },
+                {
+                    "question": "A) What was the date of the American Civil War? B) Who was the leader of the Confederacy during the American Civil War? C) What was the outcome of the American Civil War? D) Who was the leader of the Union during the American Civil War? The correct answer is",
+                    "answer": "April 9, 1865",
+                    "explanation": "The American Civil War was a civil war fought in the United States from 1861 to 1865. Explanation: This sentence provides a brief summary of the main idea of the passage about the American Civil War. It states that the war was a civil war fought in the United States and took place between the years 1861 and 1865. This information provides a general understanding of the topic and sets the context for the rest of the passage."
+                },
+                {
+                    "question": "A. What is the name of the country that fought in the American Civil War? B. Who led the Union during the American Civil War? C. What was the main issue that led to the American Civil War? D. When did the American Civil War end? E. What was the",
+                    "answer": "the United States",
+                    "explanation": "The American Civil War was a civil war fought in the United States from 1861 to 1865."
+                },
+                {
+                    "question": "1. Who was the president of the Confederate States of America during the American Civil War? 2. Who was the commander-in-chief of the Confederate Army during the American Civil War? 3. Who was the leader of the Democratic Party during the American Civil War? 4.",
+                    "answer": "Jefferson Davis",
+                    "explanation": "The Union, led by President Abraham Lincoln and the Republican Party, fought to preserve the United States as a single, indivisible nation."
+                },
+                {
+                    "question": "A. What is the American Civil War? B. When did the American Civil War begin? C. Who led the Union during the American Civil War? D. What was the outcome of the American Civil War? E. How many soldiers and civilians died in the American Civil War?",
+                    "answer": "1861 to 1865",
+                    "explanation": "The American Civil War was a civil war fought in the United States from 1861 to 1865."
+                },
+                {
+                    "question": "* What political party was led by President Jefferson Davis during the American Civil War? * What political party was led by President Abraham Lincoln during the American Civil War? * What political party was the Confederacy during the American Civil War? * What political party was the Union during the American Civil War?",
+                    "answer": "the Democratic Party",
+                    "explanation": "The war was the bloodiest conflict in American history and had a profound impact on the country and the world. Question:  What was the impact of the American Civil War on the country and the world? Answer: The American Civil War had a profound impact on the country and the world."
+                },
+                {
+                    "question": "A) What was the political party of Abraham Lincoln? B) What was the political party of Jefferson Davis? C) What was the political party of Robert E. Lee? D) What was the political party of Ulysses S. Grant? The answer is A) What was the",
+                    "answer": "the Republican Party",
+                    "explanation": "The war began on April 12, 1861, when Confederate forces attacked a U.S. military installation at Fort Sumter, South Carolina."
+                }
+            ],
+            "hops": [
+                "American Civil War"
+            ]
+        },
+        "French and Indian War": {
+            "term": "French and Indian War",
+            "passage": "The French and Indian War (1754–1763) was the North American theater of the worldwide Seven Years' War. The war was fought between the British and French empires, with each side supported by Native American allies. It began with the conflict between the British and French over control of the Ohio River valley and Ohio Country. The war also involved conflicts over trade, territorial claims, and the fur trade. The war ended with the Treaty of Paris in 1763, which gave Great Britain control over most of North America east of the Mississippi River. The war was one of the first global conflicts, with fighting taking place in Europe, India, and the Americas. It was also the last war fought by Great Britain and France in North America until the American Revolutionary War.",
+            "qae_pairs": [
+                {
+                    "question": "* What country was the French and Indian War fought between? * Who were the Native American allies of the French in the French and Indian War? * Where did the French and Indian War take place? * What was the outcome of the French and Indian War? * What was the French",
+                    "answer": "France",
+                    "explanation": "The French and Indian War was the North American theater of the worldwide Seven Years' War."
+                },
+                {
+                    "question": "A) What year did the French and Indian War end? B) What year did the American Revolutionary War begin? C) What year did the Seven Years' War begin? D) What year did the British and French empires go to war over control of the Ohio River valley? The",
+                    "answer": "1763",
+                    "explanation": "The war ended with the Treaty of Paris in 1763, which gave Great Britain control over most of North America east of the Mississippi River."
+                },
+                {
+                    "question": "\"In which river did the French and Indian War begin?\"",
+                    "answer": "Ohio River",
+                    "explanation": "The war began with the conflict between the British and French over control of the Ohio River valley and Ohio Country."
+                },
+                {
+                    "question": "1. Which country won the French and Indian War? 2. Which country was involved in the Seven Years' War? 3. Which country controlled most of North America east of the Mississippi River after the Treaty of Paris in 1763? 4. Which country was involved in the American",
+                    "answer": "Great Britain",
+                    "explanation": "The war ended with the Treaty of Paris in 1763, which gave Great Britain control over most of North America east of the Mississippi River."
+                },
+                {
+                    "question": "",
+                    "answer": "North America",
+                    "explanation": "The French and Indian War (1754–1763) was the North American theater of the worldwide Seven Years' War."
+                },
+                {
+                    "question": "* What was the outcome of the French and Indian War? * What was the name of the treaty that ended the Seven Years' War? * What was the name of the treaty that ended the American Revolutionary War? * What was the name of the treaty that ended the Napole",
+                    "answer": "the Treaty of Paris",
+                    "explanation": "The war ended with the Treaty of Paris in 1763, which gave Great Britain control over most of North America east of the Mississippi River."
+                }
+            ],
+            "hops": [
+                "French and Indian War"
+            ]
+        },
+        "Spanish": {
+            "term": "Spanish",
+            "passage": "Spanish (español) is a Romance language that originated in the Iberian Peninsula and is the world's second-most spoken native language, after Mandarin Chinese. It is one of the six official languages of the United Nations and is used as an official language by the European Union, the Union of South American Nations, the Community of Latin American and Caribbean States, and the Hispanic Society of America. Spanish is a part of the Western Romance languages group, which evolved from the Vulgar Latin in the Iberian Peninsula. It is a descendant of the Latin language and has been influenced by other languages such as Arabic, Hebrew, and French. Spanish is written using the Latin alphabet, with the addition of the letters \"ch\" and \"ll\". Spanish is spoken by over 500 million people worldwide, including over 460 million native speakers. It is the most widely spoken language in the Americas, Europe, and Africa, and is also spoken in Asia and Oceania. Spanish is the official language of 21 countries, including Mexico, Spain, and most of Central and South America. It is also an official language of the United Nations, the European Union, and many other international organizations. Spanish is known for its rich culture and literature, including works by Cervantes, Lorca, and Borges. It is also known for its music, including flamenco, salsa, and reggaeton. Spanish cuisine is also famous worldwide, with dishes such as paella, tapas, and churros. In recent years, the study of Spanish has become increasingly popular, with many universities offering courses in Spanish language and culture.",
+            "qae_pairs": [
+                {
+                    "question": "What is the origin of Spanish?",
+                    "answer": "the Iberian Peninsula",
+                    "explanation": "Spanish is a Romance language that originated in the Iberian Peninsula."
+                },
+                {
+                    "question": "What is a famous Spanish dance?",
+                    "answer": "flamenco",
+                    "explanation": "Spanish is known for its rich culture and literature, including works by Cervantes, Lorca, and Borges. It is also known for its music, including flamenco, salsa, and reggaeton."
+                },
+                {
+                    "question": "'What is the name of the continent in the Pacific Ocean?'",
+                    "answer": "Oceania",
+                    "explanation": "Spanish is spoken by over 500 million people worldwide, including over 460 million native speakers. It is the most widely spoken language in the Americas, Europe, and Africa, and is also spoken in Asia and Oceania."
+                },
+                {
+                    "question": "What is the name of the organization that Spanish is an official language of?",
+                    "answer": "the Union of South American Nations",
+                    "explanation": "Spanish is the most widely spoken language in the Americas, Europe, and Africa, and is also spoken in Asia and Oceania."
+                },
+                {
+                    "question": "What are some famous Spanish writers?",
+                    "answer": "Cervantes, Lorca",
+                    "explanation": "Spanish is known for its rich culture and literature, including works by Cervantes, Lorca, and Borges."
+                },
+                {
+                    "question": "* What is the country with the second-most native Spanish speakers in the world? * Which country is known for its flamenco, tapas, and paella? * Which country is the birthplace of Cervantes, Lorca, and Borges? * Which country is",
+                    "answer": "Spain",
+                    "explanation": "It is a descendant of the Latin language and has been influenced by other languages such as Arabic, Hebrew, and French."
+                }
+            ],
+            "hops": [
+                "Spanish"
+            ]
+        },
+        "Gulf War": {
+            "term": "Gulf War",
+            "passage": "The Gulf War, also known as the Persian Gulf War, was a conflict that took place between July 1990 and February 1991. The war was fought between Iraq and a coalition of 34 nations led by the United States. The coalition forces were supported by Egypt, Syria, and Israel. The war was sparked by Iraq's invasion of Kuwait on August 2, 1990. The coalition forces launched a military campaign to liberate Kuwait and restore the legitimate government. The war was marked by several significant events, including the use of air power, the deployment of ground forces, and the use of special operations forces. The war ended with a ceasefire agreement on February 28, 1991, and the withdrawal of Iraqi forces from Kuwait. The war had a significant impact on the region and the world, and it is often cited as a model for future military interventions.",
+            "qae_pairs": [
+                {
+                    "question": "The Gulf War was fought between Iraq and a coalition of 34 nations led by the United States. The coalition forces were supported by Egypt, Syria, and Israel. The war was sparked by Iraq's invasion of which country on August 2, 199",
+                    "answer": "Kuwait",
+                    "explanation": "The war was sparked by Iraq's invasion of Kuwait on August 2, 1990."
+                },
+                {
+                    "question": "When did the Gulf War end?",
+                    "answer": "February 1991",
+                    "explanation": "The war was sparked by Iraq's invasion of Kuwait on August 2, 1990."
+                },
+                {
+                    "question": "* What country supported the coalition forces in the Gulf War? * Which country was invaded by Iraq in the Gulf War? * Which country did not participate in the Gulf War?",
+                    "answer": "Egypt",
+                    "explanation": "The coalition forces were supported by Egypt, Syria, and Israel."
+                },
+                {
+                    "question": "",
+                    "answer": "the United States",
+                    "explanation": "Answer: The coalition forces were supported by Egypt, Syria, and Israel."
+                }
+            ],
+            "hops": [
+                "Gulf War"
+            ]
+        }
+    },
+    "second_hops": {
+        "the Ottoman Empire": {
+            "term": "the Ottoman Empire",
+            "passage": "The Ottoman Empire was an empire that existed from 1299 to 1922, which was founded by Osman Bey, a Turkish tribal leader. At its height, the Ottoman Empire spanned three continents, controlling much of Southeast Europe, Western Asia, and North Africa. The empire was known for its military power, political organization, and cultural achievements, including the development of Ottoman Turkish language and literature. The Ottoman Empire was also known for its religious tolerance, allowing Jews and Christians to practice their religions under Ottoman rule. However, the empire was also known for its brutal treatment of minorities, including the Armenian Genocide during World War I. The empire eventually collapsed after World War I, and its remnants were dissolved by the newly formed Republic of Turkey in 1922.",
+            "qae_pairs": [
+                {
+                    "question": "What was the name of the country that succeeded the Ottoman Empire after its collapse in 1922?",
+                    "answer": "Republic of Turkey",
+                    "explanation": "The Ottoman Empire was known for its military power, political organization, and cultural achievements, including the development of Ottoman Turkish language and literature."
+                }
+            ],
+            "hops": [
+                "World War I",
+                "the Ottoman Empire"
+            ]
+        },
+        "Europe": {
+            "term": "Europe",
+            "passage": "Europe is a continent located entirely in the Northern Hemisphere and mostly in the Eastern Hemisphere. It is bordered by the Arctic Ocean to the north, the Atlantic Ocean to the west, and the Mediterranean Sea to the south. It comprises 47 countries, with Russia, Germany, France, the United Kingdom, Italy, Spain, and Poland being the largest. The population of Europe is about 741 million people, making it the second-most populous continent after Asia. Europe, in particular ancient Greece, was the birthplace of Western civilization, and the Western legal tradition, which heavily influenced the formation of the American legal system. The fall of the Western Roman Empire in 476 AD marked the beginning of the Middle Ages, during which the Catholic Church rose to become a dominant force in Western Europe, and the Holy Roman Empire was established. The Renaissance began in Italy in the 14th century and spread throughout Europe, bringing a renewed interest in humanism, science, exploration, and art. The Age of Enlightenment in the 18th century led to significant scientific and political advancements across Europe. The continent has a rich cultural heritage and has been a major center of trade and commerce for centuries. Today, Europe is a major economic and political power, with the European Union being a major economic and political force on the world stage.",
+            "qae_pairs": [
+                {
+                    "question": "What body of water is located to the west of Europe?",
+                    "answer": "the Atlantic Ocean",
+                    "explanation": "Europe comprises 47 countries, with Russia, Germany, France, the United Kingdom, Italy, Spain, and Poland being the largest."
+                },
+                {
+                    "question": "What country in Europe is considered the birthplace of Western civilization?",
+                    "answer": "Greece",
+                    "explanation": "Europe, in particular ancient Greece, was the birthplace of Western civilization."
+                },
+                {
+                    "question": "What was the major political and economic event that occurred in Europe during the 18th century?",
+                    "answer": "the 18th century",
+                    "explanation": "The Age of Enlightenment in the 18th century led to significant scientific and political advancements across Europe."
+                }
+            ],
+            "hops": [
+                "World War II",
+                "Europe"
+            ]
+        },
+        "the Central Powers": {
+            "term": "the Central Powers",
+            "passage": "The Central Powers, also known as the Imperial Powers, were the German Empire, the Austro-Hungarian Empire, the Ottoman Empire, and the Kingdom of Bulgaria. They were opposed by the Allied Powers during World War I. The Central Powers were defeated in 1918, leading to the dissolution of the Austro-Hungarian Empire, the Ottoman Empire, and the German Empire. The Kingdom of Bulgaria was left intact but faced significant political and economic challenges in the aftermath of the war. The Central Powers were known for their aggressive military tactics and their use of new technologies, such as machine guns and poison gas, in battle. The war had a profound impact on the world, leading to significant political and social changes, including the rise of new nations and the establishment of the League of Nations.",
+            "qae_pairs": [
+                {
+                    "question": "Who was a member of the Central Powers during World War I?",
+                    "answer": "the Kingdom of Bulgaria",
+                    "explanation": "The Central Powers were defeated in 1918, leading to the dissolution of the Austro-Hungarian Empire, the Ottoman Empire, and the German Empire."
+                }
+            ],
+            "hops": [
+                "World War I",
+                "the Central Powers"
+            ]
+        },
+        "the League of Nations": {
+            "term": "the League of Nations",
+            "passage": "The League of Nations was an intergovernmental organization founded as a result of the Treaty of Versailles in 1919, after the end of World War I. The League's primary goals were to promote international cooperation and to achieve peace and security by preventing conflicts between nations. The League aimed to create a system of collective security whereby member states would pledge to defend each other against aggression. It also sought to promote disarmament, to encourage international economic cooperation, and to improve living standards and health conditions around the world. The League of Nations played a key role in the 1920s and 1930s in preventing another world war, but ultimately failed to prevent the outbreak of World War II in 1939. The League was dissolved in 1946 and was replaced by the United Nations.",
+            "qae_pairs": [
+                {
+                    "question": "What year did the League of Nations dissolve?",
+                    "answer": "1946",
+                    "explanation": "The League of Nations was dissolved in 1946 and was replaced by the United Nations."
+                }
+            ],
+            "hops": [
+                "World War I",
+                "the League of Nations"
+            ]
+        },
+        "France": {
+            "term": "France",
+            "passage": "1. France is a country located in Western Europe. 2. It is the third-largest country in Europe, after Russia and Ukraine. 3. France has a population of approximately 67 million people. 4. It is a unitary semi-presidential republic with its capital in Paris. 5. France is a developed country with the world's seventh-largest economy by nominal GDP. 6. It is a member of the United Nations, the European Union, the Eurozone, the World Trade Organization, and the G7. 7. France is known for its rich culture, history, and art. 8. It is home to many famous landmarks, including the Eiffel Tower, the Louvre Museum, and the Palace of Versailles. 9. France is also known for its cuisine, wine, and fashion. 10. The French language is widely spoken in France and is an official language in over 29 countries.",
+            "qae_pairs": [
+                {
+                    "question": "In what part of Europe is France located?",
+                    "answer": "Western Europe",
+                    "explanation": "France is a developed country with the world's seventh-largest economy by nominal GDP. Evidence sentence: France is a developed country with the world's seventh-largest economy by nominal GDP. Reasoning: This evidence sentence provides information about France's economic status, which is relevant to understanding its overall development and prosperity."
+                },
+                {
+                    "question": "What organization does France belong to?",
+                    "answer": "the European Union",
+                    "explanation": "France is a unitary semi-presidential republic with its capital in Paris. This sentence provides evidence that France is a member of the European Union."
+                },
+                {
+                    "question": "What is the name of the famous museum located in Paris, France?",
+                    "answer": "the Louvre Museum",
+                    "explanation": "France is known for its rich culture, history, and art. It is home to many famous landmarks, including the Eiffel Tower, the Louvre Museum, and the Palace of Versailles. Explanation: This sentence provides evidence that France is known for its rich culture, history, and art, and that it is home to many famous landmarks, including the Eiffel Tower, the Louvre Museum, and the Palace of Versailles."
+                }
+            ],
+            "hops": [
+                "French and Indian War",
+                "France"
+            ]
+        },
+        "Japan": {
+            "term": "Japan",
+            "passage": "Japan is an island nation in East Asia. Located in the Pacific Ocean, it lies to the east of the Sea of Japan, China, North Korea, South Korea and Russia, stretching from the Sea of Okhotsk in the north to the East China Sea and Taiwan in the south. The characters that make up Japan's name mean \"sun-origin\", which is why Japan is often referred to as the \"Land of the Rising Sun\". Japan is a constitutional monarchy with a parliamentary government. Its capital is Tokyo, the largest city in Japan and one of the largest in the world. Japan has the world's third-largest economy by nominal GDP and the fourth-largest economy by purchasing power parity. It is also the world's fourth-largest exporter and fourth-largest importer. Japan is known for its advanced technology, anime, manga, video games, and its unique culture, including its traditional arts and its contemporary pop culture. Japan is a highly developed country with a high standard of living and human development. It has a highly skilled workforce and is among the most educated countries in the world, with a literacy rate of 99%. Japan is a member of the United Nations, the G7, the G8, and the G20, and is considered a great power.",
+            "qae_pairs": [
+                {
+                    "question": "What country is located to the north of Japan, and is considered a rogue state by many countries, including the United States and Japan?",
+                    "answer": "North Korea",
+                    "explanation": "Japan is an island nation in East Asia. Located in the Pacific Ocean, it lies to the east of the Sea of Japan, China, North Korea, South Korea and Russia, stretching from the Sea of Okhotsk in the north to the East China Sea and Taiwan in the south. This sentence explains that Japan is an island nation located in East Asia and it is situated in the Pacific Ocean, bordered by several countries including North Korea to the north."
+                },
+                {
+                    "question": "What continent is Japan located in?",
+                    "answer": "East Asia",
+                    "explanation": "Japan is an island nation in East Asia. Located in the Pacific Ocean, it lies to the east of the Sea of Japan, China, North Korea, South Korea and Russia, stretching from the Sea of Okhotsk in the north to the East China Sea and Taiwan in the south. This sentence explains that Japan is located in East Asia and gives specific details about its geographical location in the Pacific Ocean."
+                },
+                {
+                    "question": "What body of water is Japan surrounded by?",
+                    "answer": "the Pacific Ocean",
+                    "explanation": "Japan is an island nation in East Asia. Located in the Pacific Ocean, it lies to the east of the Sea of Japan, China, North Korea, South Korea and Russia, stretching from the Sea of Okhotsk in the north to the East China Sea and Taiwan in the south. This sentence explains that Japan is an island nation located in the Pacific Ocean and it is surrounded by several bodies of water such as the Sea of Japan, China, North Korea, South Korea and Russia."
+                }
+            ],
+            "hops": [
+                "World War II",
+                "Japan"
+            ]
+        },
+        "Italy": {
+            "term": "Italy",
+            "passage": "Italy (Italian: Italia [iˈtaːlja]), officially the Italian Republic (Italian: Repubblica Italiana [reˈpubblika itaˈljaːna]), is a country in Southern Europe. Located in the heart of the Mediterranean Sea, Italy shares open land borders with France, Switzerland, Austria, Slovenia, San Marino and Vatican City. Italy covers an area of 301,338 km² (116,347 sq mi) and has a largely temperate climate; due to its shape, it is often referred to in Italy as lo Stivale (the Boot). With 60 million inhabitants, it is the 4th most populous EU member state. Italy's capital, Rome, serves as the capital of the country and of the Catholic Church.",
+            "qae_pairs": [
+                {
+                    "question": "What is the capital of Italy?",
+                    "answer": "Rome",
+                    "explanation": "Italy's capital, Rome, serves as the capital of the country and of the Catholic Church."
+                },
+                {
+                    "question": "What is the Italian term for the shape of Italy that resembles a boot?",
+                    "answer": "Stivale",
+                    "explanation": "Italy is often referred to in Italy as lo Stivale (the Boot) due to its shape."
+                }
+            ],
+            "hops": [
+                "World War II",
+                "Italy"
+            ]
+        },
+        "the United Kingdom": {
+            "term": "the United Kingdom",
+            "passage": "The United Kingdom of Great Britain and Northern Ireland, commonly known as the United Kingdom or UK, is a sovereign country located off the north-western coast of the European mainland. The United Kingdom includes the island of Great Britain, the north-eastern part of the island of Ireland, and many smaller islands. Northern Ireland is the only part of the UK that shares a land border with another country, the Republic of Ireland. The UK is a constitutional monarchy with a parliamentary democracy, consisting of four countries: England, Scotland, Wales, and Northern Ireland. The capital city of the UK is London, which is also the largest city in the country. The UK is a developed country and has the world's fifth-largest economy by nominal GDP and ninth-largest economy by purchasing power parity. The UK is considered to have a high-income economy and is a member of the European Union, the United Nations, the Commonwealth of Nations, and the G7.",
+            "qae_pairs": [
+                {
+                    "question": "What is the capital city of the United Kingdom?",
+                    "answer": "London",
+                    "explanation": "The UK is a developed country and has the world's fifth-largest economy by nominal GDP and ninth-largest economy by purchasing power parity."
+                },
+                {
+                    "question": "What is the capital city of Scotland in the United Kingdom?",
+                    "answer": "Scotland",
+                    "explanation": "The UK is a developed country and has the world's fifth-largest economy by nominal GDP and ninth-largest economy by purchasing power parity."
+                }
+            ],
+            "hops": [
+                "Iraq War",
+                "the United Kingdom"
+            ]
+        },
+        "Laos": {
+            "term": "Laos",
+            "passage": "Laos, officially the Lao People's Democratic Republic (LPDR), is a landlocked country in Southeast Asia, bordered by Myanmar (Burma) and China to the northwest, Vietnam to the east, Cambodia to the south, and Thailand to the west. It is the only landlocked country in Southeast Asia. Laos traces its history back to the kingdom of Lan Xang, which was founded in the 14th century when the three Lao kingdoms of Luang Prabang, Vientiane, and Champassak united to form a single entity. The country was colonized by France in the late 19th century, and became independent in 1953. Laos is a single-party socialist republic. The capital city is Vientiane. The official language is Lao, a tonal language of the Tai–Kadai family. The government of Laos has set a goal of becoming a \"land-linked\" country by 2020 by improving infrastructure and transportation systems to connect with its neighbors. Laos is a multi-ethnic country with over 40 different ethnic groups, each with its own distinct language and culture. The majority of the population is Lao, with significant numbers of ethnic minorities such as the Hmong, Miao, and Yao. The country's population was estimated to be around 6.9 million in 2016. Laos is a developing country with an economy dominated by agriculture, with around 70% of the population engaged in farming. The government has invested in developing the country's tourism sector, and Laos is becoming an increasingly popular destination for travelers.",
+            "qae_pairs": [
+                {
+                    "question": "What is the official name of the country that is officially known as Laos?",
+                    "answer": "the Lao People's Democratic Republic (LPDR",
+                    "explanation": "Laos is a landlocked country in Southeast Asia, bordered by Myanmar (Burma) and China to the northwest, Vietnam to the east, Cambodia to the south, and Thailand to the west. Passage: Laos is a landlocked country in Southeast Asia, bordered by Myanmar (Burma) and China to the northwest, Vietnam to the east, Cambodia to the south, and Thailand to the west. It is the only landlocked country in Southeast Asia."
+                }
+            ],
+            "hops": [
+                "Vietnam War",
+                "Laos"
+            ]
+        },
+        "Cambodia": {
+            "term": "Cambodia",
+            "passage": "Cambodia, officially the Kingdom of Cambodia, is a country located in the southern portion of the Indochina Peninsula in Southeast Asia. It is 181,035 square kilometres (69,898 square miles) in area, bordered by Thailand to the northwest, Laos to the northeast, Vietnam to the east, and the Gulf of Thailand to the southwest. The country has a population of over 16 million people, with the capital and largest city being Phnom Penh. The official language is Khmer, which is spoken by the majority of the population. The country's flag features a depiction of Angkor Wat, the largest religious monument in the world. Cambodia has a rich cultural heritage, including ancient temples, historic sites, and traditional handicrafts. The country is also known for its beautiful beaches, tropical forests, and biodiversity. Cambodia has a developing economy, with agriculture being a major sector. The country is also rich in natural resources, including oil, gas, and minerals. The country's tourism industry has been growing rapidly in recent years, with millions of visitors coming to see the country's historic sites and natural beauty. Cambodia has a constitutional monarchy, with King Norodom Sihamoni as the current monarch. The country is a member of the United Nations, the World Trade Organization, and the Association of Southeast Asian Nations (ASEAN).",
+            "qae_pairs": [
+                {
+                    "question": "In which geographical region is Cambodia located?",
+                    "answer": "the Indochina Peninsula",
+                    "explanation": "Cambodia is a country located in the southern portion of the Indochina Peninsula in Southeast Asia."
+                }
+            ],
+            "hops": [
+                "Vietnam War",
+                "Cambodia"
+            ]
+        },
+        "the North Vietnamese Army": {
+            "term": "the North Vietnamese Army",
+            "passage": "The North Vietnamese Army (NVA) was the army of North Vietnam, which was formed on December 22, 1957, from the amalgamation of the People's Army of Vietnam (PAVN) and the Vietnamese People's Army (VPA). The NVA was a major anti-imperialist force in the Vietnam War and fought against the South Vietnamese Army (SVA) and the United States Army during the conflict. The NVA was known for its use of guerrilla warfare tactics, including hit-and-run attacks and ambushes, as well as its ability to move troops and supplies through the dense jungle terrain of Vietnam. The NVA was also known for its use of heavy artillery and tanks, which it used to great effect in its attacks on South Vietnamese and American positions. The NVA was a highly disciplined and well-trained force, and its soldiers were known for their bravery and dedication to the cause of unifying Vietnam under communist rule. The NVA played a key role in the eventual victory of the communist forces in the Vietnam War, and its soldiers are still revered as heroes in Vietnam today.",
+            "qae_pairs": [
+                {
+                    "question": "What was the name of the army that the North Vietnamese Army was formed from?",
+                    "answer": "the Vietnamese People's Army",
+                    "explanation": "The NVA was formed from the amalgamation of the People's Army of Vietnam (PAVN) and the Vietnamese People's Army (VPA)."
+                }
+            ],
+            "hops": [
+                "Vietnam War",
+                "the North Vietnamese Army"
+            ]
+        },
+        "South Vietnam": {
+            "term": "South Vietnam",
+            "passage": "South Vietnam was a country that existed from 1955 to 1975, the same time as the Vietnam War. It was formed after the Geneva Accords of 1954, which divided Vietnam into a communist-led north and a US-supported south. The country was ruled by a series of military regimes, with Ngo Dinh Diem being the first president. The country was heavily influenced by the United States, which provided military and economic aid. The Vietnam War began in 1955 when the communist north invaded the south. The war lasted until 1975 when the communist forces captured Saigon, the capital of South Vietnam. The country was then unified under communist rule as the Socialist Republic of Vietnam.",
+            "qae_pairs": [
+                {
+                    "question": "What was the year South Vietnam was formed?",
+                    "answer": "1955",
+                    "explanation": "South Vietnam was formed after the Geneva Accords of 1954, which divided Vietnam into a communist-led north and a US-supported south. Rationale: The evidence sentence directly states the year South Vietnam was formed, which is 1955. It also provides context on how the country was formed after the Geneva Accords of 1954, which divided Vietnam into two separate regions."
+                },
+                {
+                    "question": "What was the role of the United States in the formation of South Vietnam?",
+                    "answer": "US",
+                    "explanation": "The country was heavily influenced by the United States, which provided military and economic aid."
+                }
+            ],
+            "hops": [
+                "Vietnam War",
+                "South Vietnam"
+            ]
+        },
+        "the United Nations Command": {
+            "term": "the United Nations Command",
+            "passage": "The United Nations Command (UNC) is a military organization responsible for the command and control of the multinational forces that are part of the United Nations Command (UNC) in South Korea. The UNC was established in 1950 after the North Korean invasion of South Korea, and its mission is to ensure the implementation of the Armistice Agreement signed on July 27, 1953, which ended the Korean War. The UNC is headquartered in the United States, and its commander is appointed by the President of the United States. The UNC is composed of military personnel from 16 countries, including the United States, South Korea, Australia, Canada, and the United Kingdom. The UNC is responsible for maintaining peace and security on the Korean Peninsula, and it conducts regular military exercises and training to ensure the readiness of its forces. The UNC also plays a key role in the diplomatic efforts to resolve the ongoing conflict on the Korean Peninsula, and it works closely with the United Nations and other international organizations to promote peace and stability in the region.",
+            "qae_pairs": [
+                {
+                    "question": "What is the full name of the military organization responsible for the command and control of the multinational forces that are part of the United Nations Command in South Korea?",
+                    "answer": "UNC",
+                    "explanation": "The UNC was established in 1950 after the North Korean invasion of South Korea, and its mission is to ensure the implementation of the Armistice Agreement signed on July 27, 1953, which ended the Korean War."
+                },
+                {
+                    "question": "What country is responsible for the command and control of the multinational forces that are part of the United Nations Command in South Korea?",
+                    "answer": "the United States",
+                    "explanation": "The UNC is headquartered in the United States, and its commander is appointed by the President of the United States."
+                }
+            ],
+            "hops": [
+                "Korean War",
+                "the United Nations Command"
+            ]
+        },
+        "a United States": {
+            "term": "a United States",
+            "passage": "The United States of America, commonly referred to as the United States or America, is a federal republic consisting of 50 states and a federal district. The United States is a developed country and has the world's largest economy by nominal GDP and second-largest economy by PPP, with the U.S. dollar being the world's primary reserve currency. The United States is a founding member of the United Nations, World Trade Organization, International Monetary Fund, and other international organizations. The United States is a highly developed country, with the world's highest GDP by nominal and PPP, benefiting from an abundance of natural resources, a well-developed infrastructure, and high productivity. The United States has the world's largest economy by nominal GDP and second-largest economy by PPP, with the U.S. dollar being the world's primary reserve currency. The country has a mixed economy and has maintained a stable overall GDP growth rate, a low unemployment rate, and high levels of research and development investment.",
+            "qae_pairs": [
+                {
+                    "question": "What international organization did the United States join as a founding member?",
+                    "answer": "the United Nations",
+                    "explanation": "The United States is a founding member of the United Nations, World Trade Organization, International Monetary Fund, and other international organizations."
+                },
+                {
+                    "question": "What international organization is a United States a founding member of, which has the world's highest GDP by nominal and PPP, and the U.S. dollar is the world's primary reserve currency?",
+                    "answer": "International Monetary Fund",
+                    "explanation": "The United States is a founding member of the United Nations, World Trade Organization, International Monetary Fund, and other international organizations."
+                },
+                {
+                    "question": "What international organization is a United States a member of, which is responsible for promoting international trade and economic development?",
+                    "answer": "World Trade Organization",
+                    "explanation": "The United States is a founding member of the United Nations, World Trade Organization, International Monetary Fund, and other international organizations."
+                }
+            ],
+            "hops": [
+                "Iraq War",
+                "a United States"
+            ]
+        },
+        "Saddam Hussein": {
+            "term": "Saddam Hussein",
+            "passage": "Saddam Hussein Abd al-Majid al-Tikriti was the fifth President of Iraq, serving in this capacity from 16 July 1979 until 9 April 2003. A leading member of the revolutionary Arab Socialist Ba'ath Party, and later its regional branch, which ruled Iraq from 1968 until 2003, Saddam held the titles of General Secretary of the party from 1991 to 2003 and President of Iraq from 16 July 1979 until 9 April 2003. Saddam Hussein was born on 28 April 1937 in the town of Al-Auja, near the city of Tikrit, Iraq. He was the second of six children born to a poor Sunni Arab family. His father, Hussein Abd al-Majid, was a poor farmer and a member of the Albu Nasir tribe, while his mother, Subha Tulfah al-Mahalli, came from a poor Sunni Arab family. Saddam Hussein's political career began in 1957, when he joined the Arab Socialist Ba'ath Party, a political party that advocated for Arab nationalism and socialism. He quickly rose through the ranks of the party, becoming a member of its regional command in 1964 and eventually becoming the party's regional secretary for Baghdad in 1966. In 1979, Saddam Hussein became the fifth President of Iraq, a position he held until 2003.",
+            "qae_pairs": [
+                {
+                    "question": "What was the name of the country that Saddam Hussein served as President of from 1979 until 2003?",
+                    "answer": "Iraq",
+                    "explanation": "Saddam Hussein was born on 28 April 1937 in the town of Al-Auja, near the city of Tikrit, Iraq. He was the second of six children born to a poor Sunni Arab family. Evidence sentence: Saddam Hussein was born on 28 April 1937 in the town of Al-Auja, near the city of Tikrit, Iraq."
+                },
+                {
+                    "question": "What was the date on which Saddam Hussein became the President of Iraq?",
+                    "answer": "16 July 1979",
+                    "explanation": "Saddam Hussein became the fifth President of Iraq on 16 July 1979 and held this position until 9 April 2003."
+                },
+                {
+                    "question": "What was the year when Saddam Hussein became the regional secretary for Baghdad in the Arab Socialist Ba'ath Party?",
+                    "answer": "1966",
+                    "explanation": "Saddam Hussein's political career began in 1957, when he joined the Arab Socialist Ba'ath Party, a political party that advocated for Arab nationalism and socialism. He quickly rose through the ranks of the party, becoming a member of its regional command in 1964 and eventually becoming the party's regional secretary for Baghdad in 1966."
+                },
+                {
+                    "question": "What year did Saddam Hussein join the Arab Socialist Ba'ath Party?",
+                    "answer": "1957",
+                    "explanation": "Saddam Hussein's political career began in 1957, when he joined the Arab Socialist Ba'ath Party, a political party that advocated for Arab nationalism and socialism."
+                }
+            ],
+            "hops": [
+                "Iraq War",
+                "Saddam Hussein"
+            ]
+        },
+        "Afghanistan": {
+            "term": "Afghanistan",
+            "passage": "Afghanistan, officially the Islamic Republic of Afghanistan, is a landlocked country located in South-Central Asia. It is bordered by Pakistan in the south and east, Iran in the west, Turkmenistan, Uzbekistan, and Tajikistan in the north, and China in the far northeast. The territory that makes up modern-day Afghanistan has been inhabited for millennia by various peoples, including the ancient Aryans, Persians, Greeks, Kushans, Saffarids, Ghaznavids, Ghorids, Timurids, Mughals, and British. The country has a population of approximately 32 million people, making it the 42nd most populous country in the world. The capital and largest city is Kabul, which is located in the eastern part of the country. Afghanistan is a multi-ethnic country, with the Pashtuns, Tajiks, Hazaras, Uzbeks, and Turkmen being the largest ethnic groups. The official languages of Afghanistan are Pashto and Dari, although there are many other languages spoken in the country. Afghanistan is an Islamic republic with a presidential system of government. The country has a developing economy, with agriculture being the backbone of the economy. The country is also rich in mineral resources, including copper, iron, and gold. Afghanistan has been in a state of conflict for several decades, with the Soviet Union invading the country in 1979 and the Taliban ruling the country from 1996 to 2001. The country has been in a state of conflict since then, with the Taliban regaining control of large parts of the country in recent years.",
+            "qae_pairs": [
+                {
+                    "question": "What country is located to the west of Afghanistan?",
+                    "answer": "Iran",
+                    "explanation": "Afghanistan is bordered by Pakistan in the south and east, Iran in the west, Turkmenistan, Uzbekistan, and Tajikistan in the north, and China in the far northeast."
+                },
+                {
+                    "question": "What dynasty ruled Afghanistan before the Ghaznavids?",
+                    "answer": "Ghorids",
+                    "explanation": "The territory that makes up modern-day Afghanistan has been inhabited for millennia by various peoples, including the ancient Aryans, Persians, Greeks, Kushans, Saffarids, Ghaznavids, Ghorids, Timurids, Mughals, and British. Explanation: This sentence provides evidence that Afghanistan has been inhabited by various peoples throughout history, including the Ghorids, who ruled the country before the Ghaznavids."
+                }
+            ],
+            "hops": [
+                "Afghanistan War",
+                "Afghanistan"
+            ]
+        },
+        "the United States": {
+            "term": "the United States",
+            "passage": "The United States of America (USA), commonly referred to as the United States (U.S.) or America, is a federal republic composed of 50 states, a federal district, five major self-governing territories, and various possessions. At 3.8 million square miles (9.8 million km2), the United States is the world's third- or fourth-largest country by total area and slightly smaller than the entire continent of Europe's 3.9 million square miles (10.1 million km2). With a population of over 328 million people, the U.S. is the third most populous country in the world. The capital is Washington, D.C., and the largest city by population is New York City. Forty-eight states and the capital's federal district are contiguous and located in North America between Canada and Mexico. The state of Alaska is in the northwest corner of North America, bordered by Canada to the east and across the Bering Strait from Russia to the west. The state of Hawaii is an archipelago in the mid-Pacific Ocean. The country's economy is the largest in the world by nominal GDP and second-largest by purchasing power parity (PPP). The U.S. has the world's largest defense budget, making it the world's military superpower. The United States has abundant natural resources, including coal, petroleum, natural gas, timber, and a plethora of minerals. The country has a mixed economy and has the highest total public and private debt as a percentage of GDP in the world.",
+            "qae_pairs": [
+                {
+                    "question": "What is the capital of the United States?",
+                    "answer": "Washington",
+                    "explanation": "The capital is Washington, D.C."
+                }
+            ],
+            "hops": [
+                "American Civil War",
+                "the United States"
+            ]
+        },
+        "North America": {
+            "term": "North America",
+            "passage": "North America is a continent entirely within the Northern Hemisphere and almost entirely within the Western Hemisphere. It is also considered by some to be a northern subcontinent of the Americas. It is bordered to the north by the Arctic Ocean, to the east by the Atlantic Ocean, to the west and south by the Pacific Ocean, and to the southeast by the Caribbean Sea. North America covers an area of about 24,709,000 square kilometers (9,540,000 square miles) and has a population of over 579 million people.",
+            "qae_pairs": [
+                {
+                    "question": "What body of water is located to the southeast of North America?",
+                    "answer": "the Caribbean Sea",
+                    "explanation": "North America covers an area of about 24,709,000 square kilometers (9,540,000 square miles) and has a population of over 579 million people. This sentence provides a factual statement about the size and population of North America, which serves as evidence for the location of the Caribbean Sea."
+                },
+                {
+                    "question": "What body of water borders North America to the east?",
+                    "answer": "the Atlantic Ocean",
+                    "explanation": "It is bordered to the north by the Arctic Ocean, to the east by the Atlantic Ocean, to the west and south by the Pacific Ocean, and to the southeast by the Caribbean Sea. This sentence explains that North America is surrounded by three oceans and one sea."
+                },
+                {
+                    "question": "What is the name of the hemisphere that North America is entirely located in?",
+                    "answer": "the Northern Hemisphere",
+                    "explanation": "North America is a continent entirely within the Northern Hemisphere and almost entirely within the Western Hemisphere. This sentence explains that North America is located entirely in the Northern Hemisphere and almost entirely in the Western Hemisphere."
+                },
+                {
+                    "question": "What is the body of water that borders North America to the west and south?",
+                    "answer": "the Pacific Ocean",
+                    "explanation": "North America covers an area of about 24,709,000 square kilometers (9,540,000 square miles) and has a population of over 579 million people."
+                }
+            ],
+            "hops": [
+                "French and Indian War",
+                "North America"
+            ]
+        },
+        "flamenco": {
+            "term": "flamenco",
+            "passage": "Flamenco is a Spanish art form that includes music, dance, and song. It originated in the Andalusian region of Spain in the late 19th century and has since become an important part of Spanish culture. Flamenco is often associated with the Gypsy (Roma) people of Spain, although it has also been influenced by other cultures such as Arab and Jewish. The music of flamenco is characterized by its use of hand clapping, foot stomping, and the strumming of the guitar. The dance of flamenco is characterized by its use of intricate footwork and expressive arm movements. Flamenco has become a popular form of entertainment around the world and is often performed in theaters and at festivals.",
+            "qae_pairs": [
+                {
+                    "question": "What was the time period when flamenco originated?",
+                    "answer": "the late 19th century",
+                    "explanation": ""
+                },
+                {
+                    "question": "What is the ethnicity of the people who are associated with the origin of flamenco?",
+                    "answer": "Gypsy",
+                    "explanation": "Flamenco is often associated with the Gypsy (Roma) people of Spain, although it has also been influenced by other cultures such as Arab and Jewish."
+                },
+                {
+                    "question": "What country is flamenco associated with?",
+                    "answer": "Spain",
+                    "explanation": "Flamenco is often associated with the Gypsy (Roma) people of Spain."
+                }
+            ],
+            "hops": [
+                "Spanish",
+                "flamenco"
+            ]
+        },
+        "Oceania": {
+            "term": "Oceania",
+            "passage": "Oceania is a region centered on the Pacific Ocean and characterized by a diverse range of cultures, languages, and environments. It includes the entire region of the Pacific Ocean, including the islands of the Pacific, as well as the continent of Australia and the Pacific Islands. The region is home to over 40% of the world's population and is one of the most ethnically and linguistically diverse regions in the world. Oceania is also known for its unique flora and fauna, including the kangaroo, koala, and kookaburra. The region has a rich history, with many indigenous cultures dating back thousands of years. Today, Oceania is a major center of economic and political activity, with many of the world's largest economies located in the region.",
+            "qae_pairs": [
+                {
+                    "question": "What is the largest body of water that surrounds Oceania?",
+                    "answer": "the Pacific Ocean",
+                    "explanation": "Oceania is a region centered on the Pacific Ocean and characterized by a diverse range of cultures, languages, and environments. This sentence explains that Oceania is a region that is centered on the Pacific Ocean and is characterized by a diverse range of cultures, languages, and environments."
+                }
+            ],
+            "hops": [
+                "Spanish",
+                "Oceania"
+            ]
+        },
+        "the Union of South American Nations": {
+            "term": "the Union of South American Nations",
+            "passage": "The Union of South American Nations (USAN) is a proposed regional intergovernmental union of South American countries. The union was first proposed in 2004 by the government of Venezuela, and was later endorsed by several other South American countries. The USAN aims to promote political, economic, and social integration among its member states, as well as to coordinate their foreign policies and defend their shared interests in the international arena. The union is intended to be a successor to the Union of South American Nations (UNASUR), which was dissolved in 2021. The USAN is expected to be formally established in the near future, with the signing of a new treaty among its member states.",
+            "qae_pairs": [
+                {
+                    "question": "What year was the Union of South American Nations first proposed?",
+                    "answer": "2004",
+                    "explanation": "The Union of South American Nations (USAN) is a proposed regional intergovernmental union of South American countries. The union was first proposed in 2004 by the government of Venezuela, and was later endorsed by several other South American countries."
+                }
+            ],
+            "hops": [
+                "Spanish",
+                "the Union of South American Nations"
+            ]
+        },
+        "Cervantes, Lorca": {
+            "term": "Cervantes, Lorca",
+            "passage": "Cervantes, Lorca is a Spanish writer and poet born in Granada, Spain in 1953. He is best known for his works in the fantasy and science fiction genres, including the novels \"The Shadow of the Wind\" and \"The Labyrinth of the Spirits\". His writing often explores themes of identity, memory, and the supernatural. He has won numerous awards for his work, including the prestigious Alfaguara Novel Prize in 1985. Cervantes, Lorca is also a respected scholar and critic, having written extensively on the works of other Spanish writers such as Miguel de Cervantes and Federico Garcia Lorca. He currently resides in Madrid, Spain.",
+            "qae_pairs": [
+                {
+                    "question": "What is the birthplace of Cervantes, Lorca?",
+                    "answer": "Granada",
+                    "explanation": "Cervantes, Lorca is a Spanish writer and poet born in Granada, Spain in 1953."
+                }
+            ],
+            "hops": [
+                "Spanish",
+                "Cervantes, Lorca"
+            ]
+        },
+        "Spain": {
+            "term": "Spain",
+            "passage": "Spain, officially the Kingdom of Spain, is a country mostly located in Europe. It is the second-largest country in the European Union, and the fourth-largest country in Europe. It is located on the Iberian Peninsula, bordered to the south and east by the Mediterranean Sea, to the north by the Bay of Biscay, and to the west by the Atlantic Ocean. Spain is a democracy organized in the form of a parliamentary government under a constitutional monarchy. It is a developed country with the twelfth largest economy in the world and a high living standard, including universal healthcare and free education. Spain is a member of the European Union, the United Nations, the World Trade Organization, and the Organization of Ibero-American States. It has a rich culture and history, and is known for its famous artists, writers, and musicians, such as Pablo Picasso, Miguel de Cervantes, and Francisco de Goya. Spain is also famous for its delicious cuisine, including tapas, paella, and churros.",
+            "qae_pairs": [
+                {
+                    "question": "What body of water borders Spain to the west?",
+                    "answer": "the Atlantic Ocean",
+                    "explanation": "It is located on the Iberian Peninsula, bordered to the south and east by the Mediterranean Sea, to the north by the Bay of Biscay, and to the west by the Atlantic Ocean. This sentence explains that Spain is located on the Iberian Peninsula and is bordered by three bodies of water: the Mediterranean Sea to the south and east, the Bay of Biscay to the north, and the Atlantic Ocean to the west."
+                }
+            ],
+            "hops": [
+                "Spanish",
+                "Spain"
+            ]
+        }
+    }
+}

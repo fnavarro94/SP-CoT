@@ -1,0 +1,896 @@
+{
+    "first_hops": {
+        "United States": {
+            "term": "United States",
+            "passage": "The United States of America (USA), commonly referred to as the United States (U.S.) or America, is a federal republic composed of 50 states, a federal district, five major self-governing territories, and various possessions. At 3.8 million square miles (9.8 million km2), the United States is the world's third- or fourth-largest country by total area and slightly smaller than the entire continent of Europe's 3.9 million square miles (10.1 million km2). With a population of over 328 million people, the U.S. is the third most populous country in the world. The capital is Washington, D.C., and the largest city by population is New York City. Forty-eight states and the capital's federal district are contiguous and located in North America between Canada and Mexico. The state of Alaska is in the northwest corner of North America, bordered by Canada to the east and across the Bering Strait from Russia to the west. The state of Hawaii is an archipelago in the mid-Pacific Ocean. The U.S. territories are scattered around the Pacific Ocean and the Caribbean Sea, stretching across nine official time zones. The extremely diverse geography, climate, and wildlife of the United States make it one of the world's 17 megadiverse countries.",
+            "qae_pairs": [
+                {
+                    "question": "'What is the capital of the United States of America?'",
+                    "answer": "Washington",
+                    "explanation": "The capital is Washington, D.C."
+                },
+                {
+                    "question": "'What is the state that is in the northwest corner of North America, bordered by Canada to the east and across the Bering Strait from Russia to the west?' 'Hawaii' is the answer to which question: 'What is the state that is an archipelago in the",
+                    "answer": "Alaska",
+                    "explanation": "The state of Alaska is in the northwest corner of North America, bordered by Canada to the east and across the Bering Strait from Russia to the west."
+                }
+            ],
+            "hops": [
+                "United States"
+            ]
+        },
+        "Canada": {
+            "term": "Canada",
+            "passage": "Canada is a country in North America, located in the northern part of the continent. It is the world's second-largest country by land area, and its population is estimated at 37 million people as of 2021. Canada's capital is Ottawa, and its largest city is Toronto. Canada is a federal parliamentary democracy and a constitutional monarchy, with Queen Elizabeth II as its reigning monarch. The country is officially bilingual, with English and French as its two official languages. Canada has a highly diversified economy, with a mix of natural resources, manufacturing, and service-based industries. Its economy is one of the largest in the world, with a nominal GDP of approximately $1.7 trillion USD as of 2021. Canada is known for its natural beauty, with vast forests, mountains, and lakes. It is home to a variety of wildlife, including bears, moose, and wolves. Canada is also known for its cultural diversity, with a large number of immigrants from around the world. Canada has a strong healthcare system, with publicly funded healthcare available to all citizens. It also has a well-developed education system, with free education provided up to the post-secondary level. Canada is a member of the United Nations, the Commonwealth of Nations, NATO, the G7, and the G20. It is also a member of the Francophonie, the OECD, and the WTO.",
+            "qae_pairs": [
+                {
+                    "question": "What is Canada's membership in?",
+                    "answer": "Francophonie",
+                    "explanation": "Canada is a member of the Francophonie, the OECD, and the WTO."
+                },
+                {
+                    "question": "'Who is the reigning monarch of Canada?'",
+                    "answer": "Elizabeth II",
+                    "explanation": "Canada is a federal parliamentary democracy and a constitutional monarchy, with Queen Elizabeth II as its reigning monarch."
+                },
+                {
+                    "question": "What is the largest city in Canada?",
+                    "answer": "Toronto",
+                    "explanation": "Canada is known for its natural beauty, with vast forests, mountains, and lakes. It is home to a variety of wildlife, including bears, moose, and wolves. This sentence explains that Canada is known for its natural beauty and wildlife."
+                },
+                {
+                    "question": "What is the nominal GDP of Canada in US dollars as of 2021?",
+                    "answer": "USD",
+                    "explanation": "Canada's economy is one of the largest in the world, with a nominal GDP of approximately $1.7 trillion USD as of 2021."
+                },
+                {
+                    "question": "What is Canada a member of?",
+                    "answer": "the Commonwealth of Nations",
+                    "explanation": "Canada is a member of the United Nations, the Commonwealth of Nations, NATO, the G7, and the G20."
+                },
+                {
+                    "question": "What is the name of the international organization that Canada is a member of?",
+                    "answer": "OECD",
+                    "explanation": "Canada is a member of the Francophonie, the OECD, and the WTO."
+                },
+                {
+                    "question": "'What continent is Canada located in?'",
+                    "answer": "North America",
+                    "explanation": "Canada is a federal parliamentary democracy and a constitutional monarchy, with Queen Elizabeth II as its reigning monarch."
+                }
+            ],
+            "hops": [
+                "Canada"
+            ]
+        },
+        "Mexico": {
+            "term": "Mexico",
+            "passage": "Mexico, officially the United Mexican States, is a country located in North America. It is bordered on the north by the United States; on the south and west by the Pacific Ocean; on the southeast by Guatemala, Belize, and the Caribbean Sea; and on the east by the Gulf of Mexico. Covering almost two million square kilometers, Mexico is the fifth largest country in the Americas by total area and the 13th largest independent nation in the world. With an estimated population of over 120 million people, Mexico is the eleventh most populous country in the world and the most populous Spanish-speaking country in the world. Mexico is a federal republic composed of 31 states and a federal district, where the capital city, Mexico City, is located. Mexico has a rich history and diverse culture, dating back to 13,000 years ago with the arrival of the first humans in Mesoamerica. The Maya, Aztec, and Inca civilizations were among the most prominent civilizations in Mesoamerica and the Andean region. The Spanish Empire conquered the Aztec Empire in 1521 and colonized Mexico for three centuries. In 1810, the Mexican War of Independence broke out against the Spanish monarchy, leading to the establishment of the First Mexican Empire, which was followed by a federal republic in 1824. Mexico has a free market economy that is strongly linked to the United States. It has a mixture of modern and traditional industries, including oil, tourism, manufacturing, and agriculture. Mexico is the eighth largest oil producer in the world and the third largest oil exporter to the United States.",
+            "qae_pairs": [
+                {
+                    "question": "\"Which country is located in Central America, bordered by Mexico to the north, Guatemala to the south and west, and the Caribbean Sea to the east?\"",
+                    "answer": "Belize",
+                    "explanation": "Mexico is the fifth largest country in the Americas by total area and the 13th largest independent nation in the world."
+                },
+                {
+                    "question": "Which civilization was among the most prominent in Mesoamerica and the Andean region?",
+                    "answer": "Inca",
+                    "explanation": "The Maya, Aztec, and Inca civilizations were among the most prominent civilizations in Mesoamerica and the Andean region."
+                },
+                {
+                    "question": "\"What is the continent that Mexico is located in?\"",
+                    "answer": "North America",
+                    "explanation": "Mexico is a federal republic composed of 31 states and a federal district, where the capital city, Mexico City, is located."
+                },
+                {
+                    "question": "What is the name of the empire that conquered the Aztec Empire in 1521 and colonized Mexico for three centuries?",
+                    "answer": "The Spanish Empire",
+                    "explanation": "The Spanish Empire conquered the Aztec Empire in 1521 and colonized Mexico for three centuries. Evidence sentence: The Spanish Empire conquered the Aztec Empire in 1521 and colonized Mexico for three centuries."
+                },
+                {
+                    "question": "What is Mexico bordered on the southeast by?",
+                    "answer": "the Caribbean Sea",
+                    "explanation": "Mexico is the fifth largest country in the Americas by total area and the 13th largest independent nation in the world."
+                },
+                {
+                    "question": "\"What is the historical region in Mexico that was home to several important civilizations such as the Maya, Aztec, and Inca civilizations?\"",
+                    "answer": "Mesoamerica",
+                    "explanation": "The Maya, Aztec, and Inca civilizations were among the most prominent civilizations in Mesoamerica and the Andean region."
+                }
+            ],
+            "hops": [
+                "Mexico"
+            ]
+        },
+        "Brazil": {
+            "term": "Brazil",
+            "passage": "Brazil, officially the Federative Republic of Brazil, is the largest country in both South America and the Latin American region. It is the world's fifth-largest country, both by geographical area and by population. It is the only Portuguese-speaking country in the Americas and the largest lusophone country in the world. Bounded by the Atlantic Ocean on the east, Brazil has a coastline of 7,491 km (4,655 mi). It borders all other South American countries except Ecuador and Chile and covers 47.3% of the continent's land area. Its Amazon River basin includes a vast tropical forest, home to diverse wildlife, a variety of ecological systems, and extensive natural resources spanning numerous protected areas. This unique environmental heritage makes Brazil one of 17 megadiverse countries, and is the subject of significant global interest and debate regarding deforestation and environmental protection. Brazil was inhabited by numerous indigenous tribes prior to the arrival of European explorers in the 16th century. The first European country to colonize Brazil was Portugal in the 16th century. Brazil remained a Portuguese colony until 1822, when it declared independence. Initially, the independent Brazilian government was a constitutional monarchy, but in 1889, it was replaced by a presidential republic. Brazil has since been a democratic federal republic, with the president as the head of state and the prime minister as the head of government. Brazil has a mixed economy with a diversified range of industries, including agriculture, industry, and services.",
+            "qae_pairs": [
+                {
+                    "question": "What is the longest river in South America? What is the name of the largest rainforest in the world? What is the name of the largest river in the world by volume? What is the name of the largest river in Brazil?",
+                    "answer": "Amazon River",
+                    "explanation": "The Amazon River basin includes a vast tropical forest, home to diverse wildlife, a variety of ecological systems, and extensive natural resources spanning numerous protected areas."
+                },
+                {
+                    "question": "What is the official name of Brazil?",
+                    "answer": "the Federative Republic",
+                    "explanation": "It is the only Portuguese-speaking country in the Americas and the largest lusophone country in the world."
+                },
+                {
+                    "question": "What is Brazil's eastern border?",
+                    "answer": "the Atlantic Ocean",
+                    "explanation": "Bounded by the Atlantic Ocean on the east, Brazil has a coastline of 7,491 km (4,655 mi). This sentence is an evidence sentence because it provides specific information about Brazil's eastern border, which is the Atlantic Ocean, and its coastline length, which is 7,491 km (4,655 mi)."
+                },
+                {
+                    "question": "* What is the date Brazil declared independence from Portugal? * What is the capital of Brazil? * Who is the current president of Brazil? * What is the official language of Brazil?",
+                    "answer": "1822",
+                    "explanation": "Brazil was inhabited by numerous indigenous tribes prior to the arrival of European explorers in the 16th century."
+                },
+                {
+                    "question": "What country was the first European country to colonize Brazil?",
+                    "answer": "Portugal",
+                    "explanation": "Brazil was inhabited by numerous indigenous tribes prior to the arrival of European explorers in the 16th century. Evidence sentence: Brazil was inhabited by numerous indigenous tribes prior to the arrival of European explorers in the 16th century."
+                },
+                {
+                    "question": "What year did Brazil become a presidential republic?",
+                    "answer": "1889",
+                    "explanation": "Initially, the independent Brazilian government was a constitutional monarchy, but in 1889, it was replaced by a presidential republic."
+                },
+                {
+                    "question": "* What is the name of the continent that includes Brazil? * Which continent is Brazil located in? * Which continent is Brazil a part of? * Which continent is Brazil situated in?",
+                    "answer": "South America",
+                    "explanation": "Brazil is the largest country in both South America and the Latin American region."
+                }
+            ],
+            "hops": [
+                "Brazil"
+            ]
+        },
+        "Argentina": {
+            "term": "Argentina",
+            "passage": "Argentina is a country located mostly in the southern half of South America. Sharing the bulk of the Southern Cone with Chile to the west, it is also bordered by Bolivia and Paraguay to the north, Brazil to the northeast, Uruguay and the South Atlantic Ocean to the east, and the Drake Passage to the south. With a mainland area of 2,780,400 square kilometers (1,073,500 sq mi), Argentina is the eighth-largest country in the world, the second largest in Latin America, and the largest Spanish-speaking one. The country is subdivided into twenty-three provinces and one autonomous city, Buenos Aires, which is the federal capital of the nation as decided by Congress. The provinces and the capital have their own constitutions, but exist under a federal system. Argentina claims sovereignty over part of Antarctica, the Falkland Islands, and South Georgia and the South Sandwich Islands, which are disputed by the United Kingdom. The earliest recorded presence in the area of modern-day Argentina dates back to the Paleolithic period. The country has its roots in Spanish colonization of the region during the 16th century. Argentina rose as the successor state of the Viceroyalty of the Río de la Plata, a Spanish overseas viceroyalty founded in 1776. The country's history is marked by perpetual struggles over sovereignty and political power, a period of economic prosperity during the late 19th and early 20th centuries, and a devastating crisis in the late 20th century that led to several years of economic stagnation. Argentina is a federal republic with a presidential system.",
+            "qae_pairs": [
+                {
+                    "question": "",
+                    "answer": "South America",
+                    "explanation": "Answer: Argentina is a country located mostly in the southern half of South America."
+                },
+                {
+                    "question": "What is the year that Argentina rose as the successor state of the Viceroyalty of the Río de la Plata?",
+                    "answer": "1776",
+                    "explanation": "Argentina rose as the successor state of the Viceroyalty of the Río de la Plata, a Spanish overseas viceroyalty founded in 1776."
+                },
+                {
+                    "question": "What is the name of the continent located south of the Antarctic Circle and surrounded by the Southern Ocean?",
+                    "answer": "Antarctica",
+                    "explanation": "Argentina is a country located mostly in the southern half of South America. Explanation: This sentence is an evidence sentence because it provides a clear and concise statement about the location of Argentina, which is a key aspect of the topic being discussed."
+                },
+                {
+                    "question": "Which body of water is Argentina bordered by to the east?",
+                    "answer": "the South Atlantic Ocean",
+                    "explanation": "Argentina is a country located mostly in the southern half of South America. Sharing the bulk of the Southern Cone with Chile to the west, it is also bordered by Bolivia and Paraguay to the north, Brazil to the northeast, Uruguay and the South Atlantic Ocean to the east, and the Drake Passage to the south. This sentence provides a clear and concise description of the geographical location of Argentina, including the bodies of water that border it."
+                }
+            ],
+            "hops": [
+                "Argentina"
+            ]
+        },
+        "Australia": {
+            "term": "Australia",
+            "passage": "Australia is a country in the southern hemisphere, with a population of around 25 million people. It is the world's sixth-largest country by total area, with a landmass of 7.69 million square kilometres. The country is known for its natural beauty, including its beaches, deserts, and rainforests. It is also home to a diverse range of wildlife, including kangaroos, koalas, and wallabies. Australia has a modern and prosperous economy, with a GDP of around $1.4 trillion. It is rich in natural resources, including coal, iron ore, and natural gas. The country is also a major exporter of agricultural products, including wheat, beef, and wool. Australia is a constitutional monarchy with a parliamentary democracy. The country has a federal system of government, with power divided between the federal government and the six states and two territories. The head of state is the monarch of Australia, currently Queen Elizabeth II, who is represented by the Governor-General. Australia is a multicultural society, with people from more than 200 countries living in the country. The most commonly spoken languages are English, Mandarin, Arabic, and Cantonese. The country is known for its laid-back lifestyle and friendly people. It is also a popular destination for tourists, with attractions such as the Great Barrier Reef, the Sydney Opera House, and Uluru (Ayers Rock). Australia has a strong sporting culture, with cricket, Australian rules football, and rugby league being popular sports. The country has also been successful in international sporting competitions, including the Olympic Games and the FIFA World Cup.",
+            "qae_pairs": [
+                {
+                    "question": "What are some of the animals that are native to Australia?",
+                    "answer": "koalas",
+                    "explanation": "Australia is known for its natural beauty, including its beaches, deserts, and rainforests. Evidence sentence: Australia is known for its natural beauty, including its beaches, deserts, and rainforests."
+                },
+                {
+                    "question": "Who is the head of state of Australia?",
+                    "answer": "Elizabeth II",
+                    "explanation": "The head of state is the monarch of Australia, currently Queen Elizabeth II, who is represented by the Governor-General."
+                },
+                {
+                    "question": "What is the name of the famous rock formation in Australia?",
+                    "answer": "Uluru",
+                    "explanation": "Australia is known for its natural beauty, including its beaches, deserts, and rainforests."
+                }
+            ],
+            "hops": [
+                "Australia"
+            ]
+        },
+        "China": {
+            "term": "China",
+            "passage": "China, officially the People's Republic of China (PRC), is a sovereign state located in East Asia. It is the world's most populous country, with a population of over 1.4 billion. The PRC is a single-party socialist state governed by the Communist Party, with its seat of government in the capital city of Beijing. It exercises jurisdiction over 22 provinces, five autonomous regions, four direct-controlled municipalities, and two mostly self-governing special administrative regions, Hong Kong and Macau. The PRC was founded on October 1, 1949, after a successful revolution led by the Communist Party of China, which saw the overthrow of the Kuomintang (KMT)-led government. The PRC's first leader was Mao Zedong, who implemented a series of political and economic policies aimed at transforming China into a socialist society. These policies included the collectivization of agriculture, the establishment of state-owned enterprises, and the implementation of the Great Leap Forward, a massive economic and social campaign aimed at rapidly industrializing China. In 1978, the PRC began to reform its economy and move towards a market-oriented system under the leadership of Deng Xiaoping. This led to significant economic growth and modernization, and China has since become one of the world's largest economies. The PRC has also become increasingly influential in global affairs, and is a member of the United Nations, the World Trade Organization, and the G20. Despite its economic success, the PRC faces a number of challenges, including income inequality, environmental degradation, and political repression.",
+            "qae_pairs": [
+                {
+                    "question": "'What is the name of the political party that was overthrown by the Communist Party of China in the revolution that led to the founding of the People's Republic of China?'",
+                    "answer": "Kuomintang",
+                    "explanation": "The PRC was founded on October 1, 1949, after a successful revolution led by the Communist Party of China, which saw the overthrow of the Kuomintang (KMT)-led government."
+                },
+                {
+                    "question": "What is the name of the Chinese leader who led the economic reform and modernization of China in the late 20th century?",
+                    "answer": "Deng Xiaoping",
+                    "explanation": "In 1978, the PRC began to reform its economy and move towards a market-oriented system under the leadership of Deng Xiaoping."
+                },
+                {
+                    "question": "'What is the capital city of China?' 'What is the name of the largest city in China?' 'What is the name of the most populous province in China?' 'What is the name of the currency used in China?' 'What is the name of the",
+                    "answer": "Beijing",
+                    "explanation": "The PRC is a single-party socialist state governed by the Communist Party, with its seat of government in the capital city of Beijing."
+                },
+                {
+                    "question": "The question is \"What is the location of China?\"",
+                    "answer": "East Asia",
+                    "explanation": "The PRC is a single-party socialist state governed by the Communist Party, with its seat of government in the capital city of Beijing. This sentence provides evidence that China is located in East Asia because it mentions the Communist Party, which is a political party in China, and the capital city of Beijing, which is located in East Asia."
+                },
+                {
+                    "question": "What was the name of the massive economic and social campaign aimed at rapidly industrializing China?",
+                    "answer": "the Great Leap Forward",
+                    "explanation": "The PRC's first leader was Mao Zedong, who implemented a series of political and economic policies aimed at transforming China into a socialist society. These policies included the collectivization of agriculture, the establishment of state-owned enterprises, and the implementation of the Great Leap Forward, a massive economic and social campaign aimed at rapidly industrializing China."
+                },
+                {
+                    "question": "What is the name of the special administrative region of China that is located on the western side of the Pearl River Delta, across from Hong Kong?",
+                    "answer": "Macau",
+                    "explanation": "The PRC was founded on October 1, 1949, after a successful revolution led by the Communist Party of China, which saw the overthrow of the Kuomintang (KMT)-led government. Evidence sentence: The PRC was founded on October 1, 1949, after a successful revolution led by the Communist Party of China, which saw the overthrow of the Kuomintang (KMT)-led government."
+                },
+                {
+                    "question": "What year did the PRC begin to reform its economy and move towards a market-oriented system under the leadership of Deng Xiaoping?",
+                    "answer": "1978",
+                    "explanation": "In 1978, the PRC began to reform its economy and move towards a market-oriented system under the leadership of Deng Xiaoping."
+                },
+                {
+                    "question": "What is the official name of China?",
+                    "answer": "PRC",
+                    "explanation": "The PRC is a single-party socialist state governed by the Communist Party, with its seat of government in the capital city of Beijing."
+                }
+            ],
+            "hops": [
+                "China"
+            ]
+        },
+        "India": {
+            "term": "India",
+            "passage": "India, officially the Republic of India, is a country in South Asia. It is the seventh-largest country by area, the second-most populous country (with over 1.3 billion people), and the most populous democracy in the world. Bounded by the Indian Ocean on the south, the Arabian Sea on the west, and the Bay of Bengal on the east, India has a geography that ranges from the Himalayas in the north to the Indian Ocean in the south. India's border with Pakistan lies along a highly militarized line of control in Jammu and Kashmir, and it shares borders with China, Nepal, Bhutan, Bangladesh, and Myanmar. India is a federal republic governed under a parliamentary system consisting of 29 states and 7 union territories. The Indian economy is the world's sixth-largest by nominal GDP and the third-largest by purchasing power parity. The country is home to the world's largest democracy, with elections to the Lok Sabha (the lower house of the parliament) every five years. India has a diverse culture and is home to many languages, religions, and ethnic groups. Hinduism is the largest religion in India, followed by Islam, Christianity, Sikhism, Buddhism, and Jainism. India has a rich history and has been inhabited since prehistoric times. The Indus Valley Civilization, one of the world's oldest civilizations, flourished in the northwestern part of the country from 2600 BCE. In the centuries that followed, India was invaded and ruled by a succession of foreign powers, including the Maurya and Gupta empires, the Mughal Empire, and the British Empire.",
+            "qae_pairs": [
+                {
+                    "question": "What is the Indian Ocean bounded by?",
+                    "answer": "the Bay of Bengal",
+                    "explanation": "India is bounded by the Indian Ocean on the south, the Arabian Sea on the west, and the Bay of Bengal on the east."
+                },
+                {
+                    "question": "What is the abbreviation for 'Before Common Era'?",
+                    "answer": "BCE",
+                    "explanation": "India has a rich history and has been inhabited since prehistoric times. The Indus Valley Civilization, one of the world's oldest civilizations, flourished in the northwestern part of the country from 2600 BCE."
+                },
+                {
+                    "question": "\"Which continent is India in?\"",
+                    "answer": "South Asia",
+                    "explanation": "India is a federal republic governed under a parliamentary system consisting of 29 states and 7 union territories."
+                }
+            ],
+            "hops": [
+                "India"
+            ]
+        },
+        "Russia": {
+            "term": "Russia",
+            "passage": "Russia, officially the Russian Federation, is a transcontinental country in Eastern Europe and North Asia. It is the world's largest country by land area, covering more than one-eighth of the Earth's inhabited land area, and the ninth most populous, with over 144 million people as of 2021. Extending across the entirety of northern Asia and much of Eastern Europe, Russia spans eleven time zones and incorporates a wide range of environments and landforms. The country has the world's largest reserves of mineral and energy resources, and is the largest producer of oil and natural gas globally. Russia has a rich cultural heritage and is widely regarded as the birthplace of many cultural and intellectual movements, including literature, philosophy, classical music, ballet, and politics. The country has a well-established and competitive education system, and has produced many notable scientists, mathematicians, and engineers. Russia has a mixed economy that is heavily oriented towards the service sector, with a significant proportion of the workforce employed in the public sector. The country has a high-income economy and is one of the world's leading producers of oil and natural gas.",
+            "qae_pairs": [
+                {
+                    "question": "'Which planet is the third planet from the sun and is home to millions of living organisms, including humans, and has diverse landscapes and environments?'",
+                    "answer": "Earth",
+                    "explanation": "Russia is the world's largest country by land area, covering more than one-eighth of the Earth's inhabited land area."
+                }
+            ],
+            "hops": [
+                "Russia"
+            ]
+        },
+        "Japan": {
+            "term": "Japan",
+            "passage": "Japan is an island nation in East Asia. Located in the Pacific Ocean, it lies to the east of the Sea of Japan, China, North Korea, South Korea and Russia, stretching from the Sea of Okhotsk in the north to the East China Sea and Taiwan in the south. The characters that make up Japan's name mean \"sun-origin\", which is why Japan is often referred to as the \"Land of the Rising Sun\". Japan is an archipelago of 6,852 islands, the largest of which are Honshu, Hokkaido, Kyushu, and Shikoku. The country is divided into 47 prefectures, each with its own unique culture and traditions. Japan has a population of over 126 million people, making it the tenth most populous country in the world. Japan is known for its unique culture, which is a blend of traditional and modern elements. The country is famous for its cuisine, which includes sushi, ramen, and tempura. Japan is also known for its anime, manga, and video games, which have become popular around the world. Japan is a highly developed country with a high standard of living. It has a highly skilled workforce and is known for its advanced technology and innovation. Japan is also a major exporter of automobiles, electronics, and machinery. Despite its many successes, Japan has faced several challenges in recent years. The country has a rapidly aging population, and its birth rate is one of the lowest in the world. Japan has also faced natural disasters, including earthquakes, tsunamis, and typhoons, which have caused significant damage and loss of life.",
+            "qae_pairs": [
+                {
+                    "question": "Which is the most northern prefecture of Japan?",
+                    "answer": "Hokkaido",
+                    "explanation": "Japan is an archipelago of 6,852 islands, the largest of which are Honshu, Hokkaido, Kyushu, and Shikoku."
+                },
+                {
+                    "question": "What is the largest island in Japan?",
+                    "answer": "Honshu",
+                    "explanation": "Japan is an archipelago of 6,852 islands, the largest of which are Honshu, Hokkaido, Kyushu, and Shikoku."
+                },
+                {
+                    "question": "What is the name of the smallest of the four main islands of Japan?",
+                    "answer": "Shikoku",
+                    "explanation": "Japan is an archipelago of 6,852 islands, the largest of which are Honshu, Hokkaido, Kyushu, and Shikoku."
+                }
+            ],
+            "hops": [
+                "Japan"
+            ]
+        }
+    },
+    "second_hops": {
+        "Alaska": {
+            "term": "Alaska",
+            "passage": "Alaska is a U.S. state situated in the northwest extremity of North America. It is the largest state in the United States by area, with a total area of 663,267 square miles (1,717,856 square kilometers). Alaska is the 4th least populous state, with a population of 731,545, and it is the least densely populated state, with 1.2 inhabitants per square mile (4.6/km²). The state is divided into 19 organized boroughs and one unorganized borough. Alaska is bordered by Canada to the east, the Arctic Ocean to the north, and the Pacific Ocean to the west and south, with Russia further west across the Bering Strait. The state's economy is largely driven by the fishing, natural resource extraction, and tourism industries. The United States purchased Alaska from Russia on March 30, 1867, for $7.2 million ($120 million adjusted for inflation).",
+            "qae_pairs": [
+                {
+                    "question": "What continent is Alaska located in?",
+                    "answer": "North America",
+                    "explanation": "Alaska is a U.S. state situated in the northwest extremity of North America."
+                }
+            ],
+            "hops": [
+                "United States",
+                "Alaska"
+            ]
+        },
+        "Francophonie": {
+            "term": "Francophonie",
+            "passage": "The Francophonie (French: La Francophonie) is an international organization of 84 member states and governments, as well as observers and associates, that share a common language, French, and a common cultural heritage. The organization was founded in 1970 and is headquartered in Paris, France. Its mission is to promote the French language and Francophone culture, as well as to support peace, democracy, human rights, and sustainable development in its member states. The organization also works to promote cooperation and solidarity among its members, and to foster economic and cultural exchanges between them. The Francophonie has a total population of over 270 million people, including those who speak French as a first language, as well as those who speak it as a second language or as a foreign language. The organization is governed by a Secretary General, who is elected by the member states for a five-year term. The current Secretary General is Michaëlle Jean, who took office in October 2014.",
+            "qae_pairs": [
+                {
+                    "question": "What is the headquarters of the Francophonie organization?",
+                    "answer": "Paris",
+                    "explanation": "The organization was founded in 1970 and is headquartered in Paris, France."
+                },
+                {
+                    "question": "What country is the headquarters of the Francophonie organization?",
+                    "answer": "France",
+                    "explanation": "The organization was founded in 1970 and is headquartered in Paris, France."
+                },
+                {
+                    "question": "What year was the Francophonie established as an international organization?",
+                    "answer": "1970",
+                    "explanation": "The Francophonie was founded in 1970 and is headquartered in Paris, France."
+                }
+            ],
+            "hops": [
+                "Canada",
+                "Francophonie"
+            ]
+        },
+        "Elizabeth II": {
+            "term": "Elizabeth II",
+            "passage": "Elizabeth II is the Queen of the United Kingdom and the other Commonwealth realms. She ascended the throne on 6 February 1952 upon the death of her father, King George VI. She is the longest-reigning monarch in British history and the oldest current head of state. She has been married to Prince Philip, Duke of Edinburgh, since 1947, and they have four children: Charles, Prince of Wales; Anne, Princess Royal; Prince Andrew, Duke of York; and Prince Edward, Earl of Wessex.",
+            "qae_pairs": [
+                {
+                    "question": "Who is the youngest child of Elizabeth II and Prince Philip, Duke of Edinburgh?",
+                    "answer": "Earl of Wessex",
+                    "explanation": "She has been married to Prince Philip, Duke of Edinburgh, since 1947, and they have four children: Charles, Prince of Wales; Anne, Princess Royal; Prince Andrew, Duke of York; and Prince Edward, Earl of Wessex."
+                },
+                {
+                    "question": "What was the date on which Elizabeth II ascended the throne?",
+                    "answer": "6 February 1952",
+                    "explanation": "Elizabeth II ascended the throne on 6 February 1952 upon the death of her father, King George VI."
+                },
+                {
+                    "question": "What is the name of the youngest son of Queen Elizabeth II?",
+                    "answer": "Prince Edward",
+                    "explanation": "She has been married to Prince Philip, Duke of Edinburgh, since 1947, and they have four children: Charles, Prince of Wales; Anne, Princess Royal; Prince Andrew, Duke of York; and Prince Edward, Earl of Wessex."
+                }
+            ],
+            "hops": [
+                "Australia",
+                "Elizabeth II"
+            ]
+        },
+        "Toronto": {
+            "term": "Toronto",
+            "passage": "Toronto is the capital city of the province of Ontario and the largest city in Canada by population, with 2.8 million residents in 2021. It is located in Southern Ontario on the northwestern shore of Lake Ontario. Toronto is a highly diversified city, with more than half of its residents having been born outside of Canada. It is a global center for business, finance, arts, and culture, and is widely recognized as one of the most diverse and multicultural cities in the world. Toronto is home to the headquarters of many major Canadian and multinational corporations, and is an important center for finance and banking. The city is also known for its vibrant arts and culture scene, with numerous museums, galleries, theaters, and festivals throughout the year. Toronto is also a major tourist destination, with attractions such as the CN Tower, the Royal Ontario Museum, and the St. Lawrence Market. The city is home to two major sports teams, the Toronto Maple Leafs and the Toronto Raptors, and is known for its passionate sports fans. Toronto is also known for its diverse and vibrant neighborhoods, each with its own unique character and culture.",
+            "qae_pairs": [
+                {
+                    "question": "What year did Toronto become the capital city of the province of Ontario?",
+                    "answer": "the year",
+                    "explanation": "Toronto is the capital city of the province of Ontario and the largest city in Canada by population, with 2.8 million residents in 2021. Answer: Toronto became the capital city of the province of Ontario."
+                },
+                {
+                    "question": "What is the name of the museum located in Toronto that features exhibits on natural history and world cultures?",
+                    "answer": "the Royal Ontario Museum",
+                    "explanation": "The city is also known for its vibrant arts and culture scene, with numerous museums, galleries, theaters, and festivals throughout the year."
+                },
+                {
+                    "question": "What body of water is Toronto located on?",
+                    "answer": "Lake Ontario",
+                    "explanation": "Toronto is a highly diversified city, with more than half of its residents having been born outside of Canada. Explanation sentence: Toronto is a highly diversified city, with more than half of its residents having been born outside of Canada."
+                },
+                {
+                    "question": "What is the region that Toronto is located in?",
+                    "answer": "Southern Ontario",
+                    "explanation": "Toronto is located in Southern Ontario on the northwestern shore of Lake Ontario."
+                }
+            ],
+            "hops": [
+                "Canada",
+                "Toronto"
+            ]
+        },
+        "USD": {
+            "term": "USD",
+            "passage": "The United States dollar (sign: $; code: USD; also abbreviated US$ and referred to as the dollar, U.S. dollar, or American dollar) is the official currency of the United States and its territories per the United States Constitution since 1792. In practice, the dollar is divided into 100 smaller cent (¢) units, but is occasionally divided into 1000 mills (₥) for accounting. The circulating paper money consists of Federal Reserve Notes that are denominated in dollars (12 U.S.C. § 418). The U.S. dollar is the most widely used currency in international transactions and is the world's primary reserve currency. Several countries use it as their official currency, and in many others it is used as a reserve currency or as a trade currency. The USD is also the world's most traded currency in the foreign exchange market. The USD is also used as the reserve currency in many countries, and is the only currency that is used in international transactions to a significant extent.",
+            "qae_pairs": [
+                {
+                    "question": "What country is the official currency of the United States known as the USD named after?",
+                    "answer": "The United States",
+                    "explanation": "The United States dollar (sign: $; code: USD; also abbreviated US$ and referred to as the dollar, U.S. dollar, or American dollar) is the official currency of the United States and its territories per the United States Constitution since 1792. Explanation: The passage states that the official currency of the United States is called the USD, which stands for United States dollar."
+                }
+            ],
+            "hops": [
+                "Canada",
+                "USD"
+            ]
+        },
+        "the Commonwealth of Nations": {
+            "term": "the Commonwealth of Nations",
+            "passage": "The Commonwealth of Nations, also known as simply the Commonwealth, is an intergovernmental organization of 54 member states that are mostly former territories of the British Empire. The chief executive of the organization is the Secretary-General, who is appointed by the Commonwealth Heads of Government Meeting (CHOGM). The organization was founded in 1949 by the London Declaration, which aimed to promote cooperation and understanding among its members, as well as to promote democracy, human rights, and the rule of law. The Commonwealth operates by consensus and seeks to promote international cooperation and development. Its members are diverse, ranging from small island nations to large continental countries, and include some of the world's largest and smallest economies. The organization has its headquarters in London, United Kingdom.",
+            "qae_pairs": [
+                {
+                    "question": "What is the headquarters of the Commonwealth of Nations, which is not located in Canada?",
+                    "answer": "United Kingdom",
+                    "explanation": "The Commonwealth operates by consensus and seeks to promote international cooperation and development."
+                }
+            ],
+            "hops": [
+                "Canada",
+                "the Commonwealth of Nations"
+            ]
+        },
+        "OECD": {
+            "term": "OECD",
+            "passage": "The Organisation for Economic Co-operation and Development (OECD) is an intergovernmental economic organisation with 38 member countries, founded in 1961 to stimulate economic progress and world trade. It is a forum of countries committed to democracy and the market economy, providing a platform to compare policy experiences, seek answers to common problems, and co-ordinate domestic and international policies. The OECD also works with countries outside the organisation, and engages with civil society, including NGOs, think tanks, and business associations. The OECD's headquarters are in Paris, France.",
+            "qae_pairs": [
+                {
+                    "question": "What is the location of the headquarters of the Organisation for Economic Co-operation and Development (OECD)?",
+                    "answer": "Paris",
+                    "explanation": "The OECD's headquarters are in Paris, France."
+                },
+                {
+                    "question": "What year did the Organisation for Economic Co-operation and Development (OECD) come into existence?",
+                    "answer": "1961",
+                    "explanation": "The Organisation for Economic Co-operation and Development (OECD) is an intergovernmental economic organisation with 38 member countries, founded in 1961 to stimulate economic progress and world trade."
+                }
+            ],
+            "hops": [
+                "Canada",
+                "OECD"
+            ]
+        },
+        "North America": {
+            "term": "North America",
+            "passage": "North America is a continent entirely within the Northern Hemisphere and almost entirely within the Western Hemisphere. It is also considered by some to be a northern subcontinent of the Americas. It is bordered to the north by the Arctic Ocean, to the east by the Atlantic Ocean, to the west and south by the Pacific Ocean, and to the southeast by the Caribbean Sea. North America covers an area of about 24,709,000 square kilometers (9,540,000 square miles) and has a population of over 579 million people.",
+            "qae_pairs": [
+                {
+                    "question": "What is the body of water that borders North America to the west and south?",
+                    "answer": "the Pacific Ocean",
+                    "explanation": "North America covers an area of about 24,709,000 square kilometers (9,540,000 square miles) and has a population of over 579 million people. This sentence explains the size of North America in terms of its land area and population."
+                },
+                {
+                    "question": "What body of water borders North America to the north?",
+                    "answer": "the Arctic Ocean",
+                    "explanation": "North America is a continent entirely within the Northern Hemisphere and almost entirely within the Western Hemisphere. Explanation: The passage states that North America is a continent entirely within the Northern Hemisphere and almost entirely within the Western Hemisphere. This means that North America is located entirely in the northern half of the Earth and almost entirely in the western half of the Earth. This evidence sentence provides a clear and concise explanation of the location of North America."
+                },
+                {
+                    "question": "What is the name of the continent that North America is a part of?",
+                    "answer": "Americas",
+                    "explanation": "North America is a continent entirely within the Northern Hemisphere and almost entirely within the Western Hemisphere."
+                },
+                {
+                    "question": "What body of water is located to the east of North America?",
+                    "answer": "the Atlantic Ocean",
+                    "explanation": "North America covers an area of about 24,709,000 square kilometers (9,540,000 square miles) and has a population of over 579 million people. This sentence is an evidence sentence because it provides specific information about the size and population of North America, which supports the main idea of the passage that North America is a continent located within the Northern Hemisphere and Western Hemisphere, bordered by the Arctic Ocean, Atlantic Ocean, Pacific Ocean, and Caribbean Sea."
+                },
+                {
+                    "question": "What is the name of the hemisphere that North America is entirely located in?",
+                    "answer": "the Western Hemisphere",
+                    "explanation": "North America is a continent entirely within the Northern Hemisphere and almost entirely within the Western Hemisphere. This sentence explains that North America is located entirely in the Northern Hemisphere and almost entirely in the Western Hemisphere."
+                }
+            ],
+            "hops": [
+                "Mexico",
+                "North America"
+            ]
+        },
+        "Belize": {
+            "term": "Belize",
+            "passage": "Belize is a country located on the eastern coast of Central America. It is the only country in the region with a British colonial heritage, and is the only country in Central America where English is the official language. The country has a diverse population, with numerous indigenous cultures and a mix of African, European, and Asian influences. Belize is known for its rich biodiversity, with a variety of ecosystems including rainforests, coral reefs, and mangrove swamps. The country is also home to several archaeological sites, including the famous Maya ruins of Tikal and Xunantunich. Belize is a popular destination for ecotourism, with activities such as snorkeling, scuba diving, and hiking. The country is also known for its unique cuisine, which blends elements of Maya, Garifuna, and Creole cooking.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the famous Maya ruins located in Belize, which is known for its unique architecture and stunning views of the surrounding countryside?",
+                    "answer": "Xunantunich",
+                    "explanation": "Belize is known for its rich biodiversity, with a variety of ecosystems including rainforests, coral reefs, and mangrove swamps."
+                },
+                {
+                    "question": "What country is Belize located in?",
+                    "answer": "Central America",
+                    "explanation": "Belize is the only country in Central America where English is the official language."
+                },
+                {
+                    "question": "What is the name of the culture that is a significant part of Belize's diverse population?",
+                    "answer": "Garifuna",
+                    "explanation": "Belize is known for its rich biodiversity, with a variety of ecosystems including rainforests, coral reefs, and mangrove swamps."
+                }
+            ],
+            "hops": [
+                "Mexico",
+                "Belize"
+            ]
+        },
+        "Inca": {
+            "term": "Inca",
+            "passage": "The Inca Empire, also known as the Inca Empire, was the largest empire in pre-Columbian America, with its capital in Cusco, Peru. The Inca civilization arose in the early 13th century and expanded to become one of the largest empires in history. The Inca civilization was remarkable for its use of a system of roads and bridges, known as the Qhapaq Ñan, which spanned over 14,000 miles and connected the farthest reaches of the empire. The Inca Empire was also known for its impressive architecture, including the Machu Picchu, a UNESCO World Heritage site. The Inca Empire was conquered by the Spanish in the 16th century, leading to the decline of the Inca civilization. Today, the Inca Empire is remembered for its impressive achievements in engineering, architecture, and agriculture.",
+            "qae_pairs": [
+                {
+                    "question": "What was the capital of the Inca Empire?",
+                    "answer": "Cusco",
+                    "explanation": "The Inca civilization was remarkable for its use of a system of roads and bridges, known as the Qhapaq Ñan, which spanned over 14,000 miles and connected the farthest reaches of the empire."
+                },
+                {
+                    "question": "What is the name of the UNESCO World Heritage site that was built by the Inca civilization?",
+                    "answer": "Picchu",
+                    "explanation": "The Inca Empire was conquered by the Spanish in the 16th century, leading to the decline of the Inca civilization."
+                },
+                {
+                    "question": "What is the capital of the Inca Empire?",
+                    "answer": "Peru",
+                    "explanation": "The Inca civilization arose in the early 13th century and expanded to become one of the largest empires in history."
+                }
+            ],
+            "hops": [
+                "Mexico",
+                "Inca"
+            ]
+        },
+        "Mesoamerica": {
+            "term": "Mesoamerica",
+            "passage": "Mesoamerica is a historical region and cultural area in North America, extending from approximately central Mexico to central Guatemala. The term \"Mesoamerica\" was first used by the archaeologist Gordon Willey in 1945 to define a region that was occupied by the indigenous peoples of Mexico and Central America during the pre-Columbian era. The civilizations of Mesoamerica are known for their impressive architectural and artistic achievements, including the construction of pyramids, temples, and other monumental structures, as well as their development of a complex system of writing and a sophisticated calendar. The region was also home to a number of advanced societies, including the Aztecs, the Maya, and the Zapotecs, who developed complex political systems, trade networks, and religious beliefs. Despite the many similarities between these societies, they also had their own distinct cultures and traditions, which are reflected in their art, architecture, and mythology. Today, Mesoamerica is a popular tourist destination, attracting visitors from around the world who come to explore its rich history and culture.",
+            "qae_pairs": [
+                {
+                    "question": "What year did the term 'Mesoamerica' first appear in the field of archaeology?",
+                    "answer": "1945",
+                    "explanation": "The term Mesoamerica was first used by the archaeologist Gordon Willey in 1945 to define a region that was occupied by the indigenous peoples of Mexico and Central America during the pre-Columbian era."
+                },
+                {
+                    "question": "Who is the archaeologist who first used the term 'Mesoamerica' to define a region that was occupied by the indigenous peoples of Central America during the pre-Columbian era?",
+                    "answer": "Gordon Willey",
+                    "explanation": "The term Mesoamerica was first used by the archaeologist Gordon Willey in 1945 to define a region that was occupied by the indigenous peoples of Mexico and Central America during the pre-Columbian era."
+                }
+            ],
+            "hops": [
+                "Mexico",
+                "Mesoamerica"
+            ]
+        },
+        "the Federative Republic": {
+            "term": "the Federative Republic",
+            "passage": "The Federative Republic is a sovereign state located in South America. It is the fifth-largest country in the world by land area and the fourth-largest in total area, including its rivers and other bodies of water. The country is known for its diverse landscape, which includes the Andes mountains, the Amazon rainforest, and the Pampas grasslands. The capital city of the Federative Republic is Brasília, which was built in the 1960s as a planned city. The country is a federal republic, with a president as the head of state and a bicameral legislature consisting of the Senate and the Chamber of Deputies. The economy of the Federative Republic is the world's eighth-largest by nominal GDP and the eighth-largest by GDP as of 2021. The country is a member of the United Nations, the Union of South American Nations, and the Organization of American States, among others.",
+            "qae_pairs": [
+                {
+                    "question": "What was the decade in which Brasília, the capital city of the Federative Republic, was built?",
+                    "answer": "the 1960s",
+                    "explanation": "The capital city of the Federative Republic is Brasília, which was built in the 1960s as a planned city."
+                }
+            ],
+            "hops": [
+                "Brazil",
+                "the Federative Republic"
+            ]
+        },
+        "the Atlantic Ocean": {
+            "term": "the Atlantic Ocean",
+            "passage": "The Atlantic Ocean is the second largest of the world's oceans, with a total area of about 106,460,000 square kilometers (41,100,000 square miles). It covers approximately 20% of the Earth's surface and about 29% of its water surface area. The ocean's name comes from the Greek word \"Atlantikos,\" which means \"the Atlantic.\" The Atlantic Ocean is bounded by the Arctic Ocean to the north, the Americas to the west, Africa to the south, and Europe and Asia to the east. It is connected to the Arctic Ocean through the Greenland Sea and to the Pacific Ocean through the Drake Passage. The Atlantic Ocean is known for its diverse marine life, including whales, dolphins, sharks, sea turtles, and a wide variety of fish. It is also an important route for international trade and travel, with many major shipping lanes crossing the ocean. The Atlantic Ocean has played a significant role in human history, including the transatlantic slave trade, the colonization of the Americas, and World War II.",
+            "qae_pairs": [
+                {
+                    "question": "What ocean is located to the north of the Atlantic Ocean?",
+                    "answer": "the Arctic Ocean",
+                    "explanation": "The Atlantic Ocean is bounded by the Arctic Ocean to the north, the Americas to the west, Africa to the south, and Europe and Asia to the east. This sentence explains that the Atlantic Ocean is surrounded by several landmasses, including the Arctic Ocean to the north, the Americas to the west, Africa to the south, and Europe and Asia to the east."
+                }
+            ],
+            "hops": [
+                "Brazil",
+                "the Atlantic Ocean"
+            ]
+        },
+        "Portugal": {
+            "term": "Portugal",
+            "passage": "1. Portugal is a country located in southwestern Europe on the Iberian Peninsula. 2. It is the westernmost country of Europe and is bordered by the Atlantic Ocean to the west and south. 3. Portugal has a population of approximately 10 million people and its capital and largest city is Lisbon. 4. The country has a rich history, dating back to the Roman Empire, and was once one of the world's major economic, political, and cultural powers during the 15th and 16th centuries. 5. Portugal is a member of the European Union and the eurozone, and is also a member of the United Nations, the OECD, and NATO. 6. The country is known for its unique culture, including its traditional music, dance, and cuisine. 7. Portugal is also famous for its wine, with Port wine being one of its most well-known exports. 8. The country is a popular tourist destination, with its warm climate, beautiful beaches, and rich history and culture attracting millions of visitors each year. 9. Portugal is also home to several UNESCO World Heritage Sites, including the Monastery of Batalha, the Tower of Belém, and the Alto Douro Wine Region. 10. The country has a diverse landscape, with mountains, forests, and plains, and is also home to several national parks and nature reserves.",
+            "qae_pairs": [
+                {
+                    "question": "What was the period during which Portugal was one of the world's major economic, political, and cultural powers?",
+                    "answer": "the 15th and 16th centuries",
+                    "explanation": "Portugal was one of the world's major economic, political, and cultural powers during the 15th and 16th centuries. Evidence sentence: Portugal was once one of the world's major economic, political, and cultural powers during the 15th and 16th centuries."
+                },
+                {
+                    "question": "What is the name of the peninsula that Portugal is located on?",
+                    "answer": "the Iberian Peninsula",
+                    "explanation": "Portugal is a country located in southwestern Europe on the Iberian Peninsula. This sentence is an evidence sentence because it provides a clear and concise statement about the location of Portugal on the Iberian Peninsula."
+                }
+            ],
+            "hops": [
+                "Brazil",
+                "Portugal"
+            ]
+        },
+        "South America": {
+            "term": "South America",
+            "passage": "South America is a continent located in the southern hemisphere, mostly in the western hemisphere, and mostly in the southern hemisphere. It is also considered a subcontinent of the Americas, which is the fourth largest continent in the world by area. The continent is bordered on the west by the Pacific Ocean and on the north and east by the Atlantic Ocean; North America lies to the northwest. South America has an area of 17,840,000 square kilometers (6,890,000 sq mi) and its population as of 2016 has been estimated at more than 420 million. The continent includes twelve countries: Argentina, Bolivia, Brazil, Chile, Colombia, Ecuador, Guyana, Paraguay, Peru, Suriname, Uruguay, and Venezuela.",
+            "qae_pairs": [
+                {
+                    "question": "What continent is South America a part of?",
+                    "answer": "Americas",
+                    "explanation": "South America is considered a subcontinent of the Americas, which is the fourth largest continent in the world by area."
+                }
+            ],
+            "hops": [
+                "Argentina",
+                "South America"
+            ]
+        },
+        "the South Atlantic Ocean": {
+            "term": "the South Atlantic Ocean",
+            "passage": "The South Atlantic Ocean is the southern portion of the Atlantic Ocean, extending from the latitude of southern Africa to the Antarctic region. It is bounded on the west by South America and on the east by the Atlantic Ocean. The South Atlantic Ocean is known for its diverse marine life, including numerous species of fish, sea turtles, and whales. The ocean is also home to several coral reefs, which are important habitats for a variety of marine organisms. The South Atlantic Ocean is also a major shipping lane, with many cargo ships and tankers passing through its waters. The ocean is also a source of oil and natural gas, with several major offshore oil fields located in the region. The South Atlantic Ocean is also the site of several major scientific research programs, including studies of climate change, oceanography, and marine biology.",
+            "qae_pairs": [
+                {
+                    "question": "What is the southernmost region of the South Atlantic Ocean?",
+                    "answer": "Antarctic",
+                    "explanation": "The South Atlantic Ocean is bounded on the west by South America and on the east by the Atlantic Ocean."
+                }
+            ],
+            "hops": [
+                "Argentina",
+                "the South Atlantic Ocean"
+            ]
+        },
+        "Kuomintang": {
+            "term": "Kuomintang",
+            "passage": "The Kuomintang (KMT) is a political party in the Republic of China (Taiwan). It was founded by Sun Yat-sen in 1912 and played a significant role in the overthrow of the Qing dynasty and the establishment of the Republic of China in 1912. The KMT was initially a nationalist and revolutionary party, but it later became a political party that governed mainland China from 1927 to 1949. The KMT was forced to flee to Taiwan in 1949 after the Chinese Civil War, and it continued to govern Taiwan as a one-party state until the 1980s. The KMT has since undergone significant changes and is now a major political party in Taiwan, with a moderate to center-right political platform.",
+            "qae_pairs": [
+                {
+                    "question": "What is the political status of the Kuomintang in relation to Taiwan?",
+                    "answer": "Taiwan",
+                    "explanation": "The KMT was forced to flee to Taiwan in 1949 after the Chinese Civil War, and it continued to govern Taiwan as a one-party state until the 1980s."
+                },
+                {
+                    "question": "Who was the founder of the Kuomintang (KMT) in Taiwan?",
+                    "answer": "Sun Yat-sen",
+                    "explanation": "The KMT was founded by Sun Yat-sen in 1912."
+                },
+                {
+                    "question": "What was the political ideology of the Kuomintang during the period of its establishment in 1912?",
+                    "answer": "revolutionary party",
+                    "explanation": "The KMT was initially a nationalist and revolutionary party, but it later became a political party that governed mainland China from 1927 to 1949."
+                }
+            ],
+            "hops": [
+                "China",
+                "Kuomintang"
+            ]
+        },
+        "Deng Xiaoping": {
+            "term": "Deng Xiaoping",
+            "passage": "Deng Xiaoping was a Chinese politician and statesman who played a significant role in the Communist Party of China. He was born on August 22, 1904, in Guang'an, Sichuan Province, China. Deng Xiaoping was a prominent figure in the Chinese Communist Party and served as the paramount leader of China from 1978 to 1992. He was the first secretary of the Communist Party of China from 1954 to 1959 and again from 1962 to 1966. Deng Xiaoping was known for his economic reforms, which transformed China from a centrally planned economy to a market-oriented one. He also played a key role in the normalization of relations between China and the United States. Deng Xiaoping died on February 19, 1997, in Beijing, China.",
+            "qae_pairs": [
+                {
+                    "question": "What is the birthplace of Deng Xiaoping?",
+                    "answer": "Guang'an",
+                    "explanation": "Deng Xiaoping was born on August 22, 1904, in Guang'an, Sichuan Province, China."
+                },
+                {
+                    "question": "What was the year when Deng Xiaoping was not the first secretary of the Communist Party of China?",
+                    "answer": "1959",
+                    "explanation": "Deng Xiaoping was known for his economic reforms, which transformed China from a centrally planned economy to a market-oriented one. Evidence sentence: Deng Xiaoping was known for his economic reforms, which transformed China from a centrally planned economy to a market-oriented one."
+                }
+            ],
+            "hops": [
+                "China",
+                "Deng Xiaoping"
+            ]
+        },
+        "Beijing": {
+            "term": "Beijing",
+            "passage": "Beijing is the capital of the People's Republic of China and the world's third most populous city proper. It is located in northern China, and is governed as a direct-controlled municipality under the national government, with 16 urban and suburban districts and two rural counties. Beijing is an important global city and one of the world's leading centers for politics, business, culture, education, and innovation. It is also one of the oldest cities in China, with a history dating back more than 3,000 years. As the last of the Four Great Ancient Capitals of China, Beijing has been the political center of the country for much of the past eight centuries. The city is renowned for its rich history, culture, and heritage, as well as its modern infrastructure and dynamic economy. It has a population of 21.5 million people, and is the second largest Chinese city by urban population after Shanghai.",
+            "qae_pairs": [
+                {
+                    "question": "What is the age of Beijing in terms of years?",
+                    "answer": "more than 3,000 years",
+                    "explanation": "Beijing is the capital of the People's Republic of China and the world's third most populous city proper. It is located in northern China, and is governed as a direct-controlled municipality under the national government, with 16 urban and suburban districts and two rural counties. Beijing is an important global city and one of the world's leading centers for politics, business, culture, education, and innovation. It is also one of the oldest cities in China, with a history dating back more than 3,000 years."
+                },
+                {
+                    "question": "What is the second largest Chinese city by urban population after Beijing?",
+                    "answer": "Shanghai",
+                    "explanation": "Beijing is the capital of the People's Republic of China and the world's third most populous city proper."
+                }
+            ],
+            "hops": [
+                "China",
+                "Beijing"
+            ]
+        },
+        "East Asia": {
+            "term": "East Asia",
+            "passage": "East Asia is the eastern subregion of the Asian continent, which can be defined in either geographical or cultural terms. Geographically and geopolitically, it covers about 12,000,000 square kilometers (4,600,000 sq mi), or about 28% of the Asian continent, about 15% of the world's land area, and is home to over 1.5 billion people. Culturally, East Asia includes China, Japan, Korea, and Vietnam, as well as a number of other countries in the region. These countries have a shared history and cultural heritage, and have been heavily influenced by Confucianism, Taoism, and Buddhism. East Asia is one of the world's most economically dynamic regions, with a number of highly developed economies, including Japan, South Korea, and Taiwan. The region is also home to several emerging economies, including China and Vietnam. East Asia is also known for its rich cultural heritage, including its art, literature, music, and cuisine. The region is home to a number of world-renowned cultural sites, including the Great Wall of China, the Forbidden City, and the temples of Angkor Wat. Despite its many strengths, East Asia also faces a number of challenges, including environmental degradation, political instability, and economic inequality. However, the region continues to be a major force in the global economy and a center of cultural and intellectual activity.",
+            "qae_pairs": [
+                {
+                    "question": "What country in East Asia is known for its high-tech industry and vibrant democracy?",
+                    "answer": "Taiwan",
+                    "explanation": "East Asia is one of the world's most economically dynamic regions, with a number of highly developed economies, including Japan, South Korea, and Taiwan."
+                },
+                {
+                    "question": "What is the name of the famous temple complex located in East Asia?",
+                    "answer": "Angkor Wat",
+                    "explanation": "East Asia is one of the world's most economically dynamic regions, with a number of highly developed economies, including Japan, South Korea, and Taiwan."
+                }
+            ],
+            "hops": [
+                "China",
+                "East Asia"
+            ]
+        },
+        "the Great Leap Forward": {
+            "term": "the Great Leap Forward",
+            "passage": "The Great Leap Forward was a social movement launched by the Communist Party of China in 1958 to transform China from an agrarian society into an industrialized socialist society through the rapid development of agriculture and industry. The movement aimed to rapidly increase agricultural and industrial output, with the goal of catching up with and surpassing the economic output of the United States. The movement was characterized by the mobilization of China's vast population to work on massive infrastructure projects and to engage in mass campaigns of collectivization and industrialization. However, the movement ultimately resulted in widespread famine and economic collapse, with estimates of the number of deaths ranging from 15 to 55 million. The movement was officially abandoned in 1962, and China returned to a more market-oriented economic system.",
+            "qae_pairs": [
+                {
+                    "question": "What year did the Great Leap Forward officially end?",
+                    "answer": "1962",
+                    "explanation": "The movement aimed to rapidly increase agricultural and industrial output, with the goal of catching up with and surpassing the economic output of the United States. This sentence explains that the Great Leap Forward was a movement launched by the Communist Party of China to rapidly increase agricultural and industrial output in order to catch up with and surpass the economic output of the United States."
+                },
+                {
+                    "question": "What was the year in which the Great Leap Forward was launched?",
+                    "answer": "1958",
+                    "explanation": "The Great Leap Forward was launched in 1958 with the goal of transforming China from an agrarian society into an industrialized socialist society."
+                }
+            ],
+            "hops": [
+                "China",
+                "the Great Leap Forward"
+            ]
+        },
+        "Macau": {
+            "term": "Macau",
+            "passage": "Macau (/məˈkaʊ/ chinese: 澳門; pinyin: Àomén) is a special administrative region of the People's Republic of China, located on the western side of the Pearl River Delta across from Hong Kong. It was formerly a Portuguese colony and was returned to Chinese sovereignty in 1999. With a population of 650,900, it has a land area of 30.5 km2 (11.8 sq mi). Macau is the most densely populated region in the world. Macau is a major tourist destination, with its famous casinos and hotels, as well as its unique blend of Portuguese and Chinese cultures. The city is also known for its cuisine, which includes a mix of Cantonese and Portuguese influences. Macau is also home to many historical landmarks, including the Ruins of St. Paul's, the A-Ma Temple, and the Senado Square. Macau's economy is heavily dependent on the gaming and tourism industries, which make up about 70% of its GDP. The city is also a major financial center in Asia, with a thriving banking and insurance industry. Macau is also a major manufacturing center, producing electronics, textiles, and toys, among other products. Macau is a member of the World Trade Organization and the Asia-Pacific Economic Cooperation forum. It is also a founding member of the Guangdong-Hong Kong-Macau Greater Bay Area, which aims to promote economic cooperation and development in the region.",
+            "qae_pairs": [
+                {
+                    "question": "What organization is Macau a member of that aims to promote economic cooperation and development in the region, besides the World Trade Organization and the Guangdong-Hong Kong-Macau Greater Bay Area?",
+                    "answer": "the Asia-Pacific Economic Cooperation",
+                    "explanation": "Macau is a member of the World Trade Organization and the Asia-Pacific Economic Cooperation forum."
+                },
+                {
+                    "question": "What year did Macau become a special administrative region of the People's Republic of China?",
+                    "answer": "1999",
+                    "explanation": "With a population of 650,900, it has a land area of 30.5 km2 (11.8 sq mi). Macau is the most densely populated region in the world."
+                },
+                {
+                    "question": "What is the name of the famous square located in Macau?",
+                    "answer": "the Senado Square",
+                    "explanation": "Macau is a major tourist destination, with its famous casinos and hotels, as well as its unique blend of Portuguese and Chinese cultures. The city is also known for its cuisine, which includes a mix of Cantonese and Portuguese influences. Macau is also home to many historical landmarks, including the Ruins of St. Paul's, the A-Ma Temple, and the Senado Square."
+                }
+            ],
+            "hops": [
+                "China",
+                "Macau"
+            ]
+        },
+        "PRC": {
+            "term": "PRC",
+            "passage": "The People's Republic of China (PRC) is a sovereign state located in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The PRC was founded on October 1, 1949, after a successful revolution led by the Communist Party of China, which saw the overthrow of the Kuomintang (KMT) government. The PRC is governed as a single-party socialist state by the Communist Party, with its seat of government in Beijing. The PRC exercises jurisdiction over 22 provinces, five autonomous regions, four direct-controlled municipalities, and two mostly self-governing special administrative regions, Hong Kong and Macau. The PRC is a member of the United Nations, the World Trade Organization, and the Shanghai Cooperation Organization, among others. Its economy is the second-largest in the world by nominal GDP, and the largest by purchasing power parity. China is also the world's largest exporter and second-largest importer of goods.",
+            "qae_pairs": [
+                {
+                    "question": "What international organization is the PRC a member of?",
+                    "answer": "the World Trade Organization",
+                    "explanation": "The PRC is a member of the United Nations, the World Trade Organization, and the Shanghai Cooperation Organization, among others."
+                },
+                {
+                    "question": "What international organization does the PRC belong to?",
+                    "answer": "the United Nations",
+                    "explanation": "The PRC is a member of the United Nations, the World Trade Organization, and the Shanghai Cooperation Organization, among others."
+                }
+            ],
+            "hops": [
+                "China",
+                "PRC"
+            ]
+        },
+        "the Bay of Bengal": {
+            "term": "the Bay of Bengal",
+            "passage": "The Bay of Bengal is the largest bay in the world. It is located between the Indian subcontinent and the Southeast Asian mainland. The bay covers an area of approximately 2,172,000 square kilometres (839,000 sq mi). The Bay of Bengal is a part of the Indian Ocean and is surrounded by India, Bangladesh, Myanmar, Thailand, and Indonesia. The Bay of Bengal is known for its unique biodiversity, including a variety of marine species such as whales, dolphins, sharks, and sea turtles. The Bay of Bengal is also home to several important fishing grounds, which provide livelihoods for millions of people in the region. The Bay of Bengal is also a major transportation route for goods and people, with several ports located along its coastline. The Bay of Bengal is also prone to natural disasters such as cyclones, tsunamis, and floods, which can have devastating effects on the region's population and economy.",
+            "qae_pairs": [
+                {
+                    "question": "What country is located on the coast of the Bay of Bengal?",
+                    "answer": "Bangladesh",
+                    "explanation": "The Bay of Bengal is a part of the Indian Ocean and is surrounded by India, Bangladesh, Myanmar, Thailand, and Indonesia. Answer: The Bay of Bengal is surrounded by India, Bangladesh, Myanmar, Thailand, and Indonesia."
+                }
+            ],
+            "hops": [
+                "India",
+                "the Bay of Bengal"
+            ]
+        },
+        "BCE": {
+            "term": "BCE",
+            "passage": "The terms \"Before Christ\" (BC) and \"Anno Domini\" (AD) are used to label years in the Gregorian calendar. The BC/AD era is based on the traditionally reckoned year of the birth of Jesus of Nazareth, with AD 1 being the year of his birth. However, the term \"Before Common Era\" (BCE) has become increasingly popular as a non-religious alternative to BC. BCE is used to avoid the implicit endorsement of Christianity that BC conveys, and to recognize that not everyone uses the same calendar or clock. The use of BCE and CE is not limited to academic or scientific contexts, but has also been adopted by religious institutions and governments.",
+            "qae_pairs": [
+                {
+                    "question": "What is the traditionally reckoned year of the birth of Jesus of Nazareth in BCE?",
+                    "answer": "the traditionally reckoned year",
+                    "explanation": "The use of BCE and CE is not limited to academic or scientific contexts, but has also been adopted by religious institutions and governments."
+                }
+            ],
+            "hops": [
+                "India",
+                "BCE"
+            ]
+        },
+        "South Asia": {
+            "term": "South Asia",
+            "passage": "South Asia, also known as the Indian subcontinent, is a term used to describe the southern region of the Asian continent, which comprises the modern countries of Afghanistan, Bangladesh, Bhutan, India, Maldives, Nepal, Pakistan, and Sri Lanka. The region has a population of over 1.75 billion people, making it both the most populous and culturally diverse region on the continent. The area has a long history of human settlement, dating back to the ancient Indus Valley Civilization, which flourished in the northwestern region of the subcontinent from 2600 BCE to 1900 BCE. The region has also been influenced by various foreign invasions and colonizations, including those by the Greeks, Persians, Arabs, Turks, and British. Today, South Asia is home to a variety of ethnic groups, languages, and religions, including Hinduism, Islam, Sikhism, Buddhism, and Christianity. The region is known for its rich cultural heritage, including its music, art, literature, and cuisine. Despite its diversity, South Asia faces many challenges, including poverty, political instability, and environmental degradation.",
+            "qae_pairs": [
+                {
+                    "question": "What was the name of the ancient civilization that flourished in the northwestern region of the South Asian subcontinent from 2600 BCE to 1900 BCE?",
+                    "answer": "Indus Valley Civilization",
+                    "explanation": "The region has a population of over 1.75 billion people, making it both the most populous and culturally diverse region on the continent. This sentence serves as evidence of the population and cultural diversity of South Asia."
+                },
+                {
+                    "question": "What was the approximate time period during which the Indus Valley Civilization flourished in the northwestern region of South Asia?",
+                    "answer": "BCE",
+                    "explanation": "The region has a population of over 1.75 billion people, making it both the most populous and culturally diverse region on the continent."
+                },
+                {
+                    "question": "Which country is not part of South Asia?",
+                    "answer": "Nepal",
+                    "explanation": "The region has a population of over 1.75 billion people, making it both the most populous and culturally diverse region on the continent."
+                },
+                {
+                    "question": "1. What is the name of the country in South Asia that has the largest population of Bengali speakers?",
+                    "answer": "Bangladesh",
+                    "explanation": "The region has a population of over 1.75 billion people, making it both the most populous and culturally diverse region on the continent. This evidence sentence explains that South Asia is the most populous and culturally diverse region on the Asian continent."
+                }
+            ],
+            "hops": [
+                "India",
+                "South Asia"
+            ]
+        },
+        "Hokkaido": {
+            "term": "Hokkaido",
+            "passage": "Hokkaido is the second-largest island of Japan, located north of Honshu, Aomori, Iwate, and Miyagi, and east of Sakhalin, Russia. The island is known for its natural beauty, including its mountains, forests, and coastlines. Hokkaido is also known for its winter sports, particularly skiing and snowboarding, and is home to several world-renowned ski resorts. The island is also known for its seafood, particularly its king crab, which is considered a delicacy. Hokkaido is home to several national parks, including Daisetsuzan National Park, which is the largest national park in Japan. The island is also known for its hot springs, which are popular with both locals and tourists. Hokkaido is a popular destination for outdoor enthusiasts, with activities such as hiking, camping, and wildlife viewing. The island is also home to several cultural attractions, including the Sapporo Snow Festival, which is one of the largest snow and ice festivals in the world.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the island located to the south of Hokkaido?",
+                    "answer": "Honshu",
+                    "explanation": "Hokkaido is located north of Honshu, Aomori, Iwate, and Miyagi, and east of Sakhalin, Russia."
+                },
+                {
+                    "question": "What is the name of the island located to the south of Hokkaido, which is known for its hot springs and is home to several national parks?",
+                    "answer": "Iwate",
+                    "explanation": "Hokkaido is also known for its winter sports, particularly skiing and snowboarding, and is home to several world-renowned ski resorts."
+                },
+                {
+                    "question": "What is the name of the largest snow and ice festival in the world that takes place in Hokkaido?",
+                    "answer": "the Sapporo Snow Festival",
+                    "explanation": "The island is known for its winter sports, particularly skiing and snowboarding, and is home to several world-renowned ski resorts."
+                }
+            ],
+            "hops": [
+                "Japan",
+                "Hokkaido"
+            ]
+        },
+        "Honshu": {
+            "term": "Honshu",
+            "passage": "Honshu is the largest island of Japan, located north of Shikoku and south of Hokkaido. It is the seventh-largest island in the world and the most populous island in the world. The island is divided into 43 prefectures, with Tokyo being the capital city. The island is known for its diverse landscape, including the Pacific coast, the mountainous interior, and the fertile plains in the south. Honshu is home to many of Japan's most famous cities, including Tokyo, Osaka, and Kyoto. The island is also known for its rich cultural heritage, including its traditional arts, festivals, and cuisine. Honshu is a popular tourist destination, attracting millions of visitors each year.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the island located to the south of Honshu?",
+                    "answer": "Shikoku",
+                    "explanation": "Honshu is the largest island of Japan, located north of Shikoku and south of Hokkaido."
+                }
+            ],
+            "hops": [
+                "Japan",
+                "Honshu"
+            ]
+        }
+    }
+}

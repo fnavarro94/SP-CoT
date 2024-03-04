@@ -1,0 +1,1031 @@
+{
+    "first_hops": {
+        "Ernest Hemingway": {
+            "term": "Ernest Hemingway",
+            "passage": "Ernest Miller Hemingway was an American novelist, short-story writer, and journalist. His economical and understated style—which he termed the \"iceberg theory\"—had a profound influence on 20th-century fiction, while his adventurous life and public image as a macho \"man's man\" endeared him to millions. Born in Oak Park, Illinois, in 1899, Hemingway was the second of six children. His father was a physician, and his mother was a musician. Hemingway was a high school athlete and a devotee of boxing, and he began writing for his high school newspaper. After graduation, he worked as a reporter for several newspapers before joining the Red Cross during World War I. He was seriously injured in 1918 when he was hit by a mortar shell, and he was awarded the Italian Silver Medal of Bravery for rescuing an injured soldier under fire. After the war, Hemingway moved to Paris, where he became part of the expatriate community that included Gertrude Stein, F. Scott Fitzgerald, and Ezra Pound. He published his first novel, The Sun Also Rises, in 1926, and it established him as a leading voice of the \"Lost Generation\" of disillusioned young people who came of age during World War I. The novel is a bleak portrait of a group of expatriates who drift aimlessly through life, unable to find meaning or purpose. Hemingway's subsequent novels, including A Farewell to Arms (1929) and For Whom the Bell Tolls (1940), explored similar themes of disillusionment, loss, and the futility of war.",
+            "qae_pairs": [
+                {
+                    "question": "What year was Ernest Hemingway's first novel, The Sun Also Rises, published?",
+                    "answer": "1926",
+                    "explanation": "Hemingway's subsequent novels, including A Farewell to Arms (1929) and For Whom the Bell Tolls (1940), explored similar themes of disillusionment, loss, and the futility of war. This sentence explains that Hemingway's later novels also explored similar themes to his first novel, The Sun Also Rises, which was published in 1926."
+                },
+                {
+                    "question": "What is the name of the town where Ernest Hemingway was born?",
+                    "answer": "Oak Park",
+                    "explanation": "His economical and understated style—which he termed the iceberg theory—had a profound influence on 20th-century fiction, while his adventurous life and public image as a macho man's man endeared him to millions."
+                },
+                {
+                    "question": "1. What is the name of the state where Ernest Hemingway was born? 2. What is the name of the state where Hemingway's father was a physician? 3. What is the name of the state where Hemingway's mother was a musician? 4",
+                    "answer": "Illinois",
+                    "explanation": "His economical and understated style—which he termed the iceberg theory—had a profound influence on 20th-century fiction, while his adventurous life and public image as a macho man's man endeared him to millions. This sentence explains that Hemingway's writing style, which he called the iceberg theory, had a significant impact on 20th-century literature, and his exciting life and public persona as a tough guy made him popular with many people."
+                },
+                {
+                    "question": "What was Hemingway's occupation during World War I?",
+                    "answer": "the Red Cross",
+                    "explanation": "He was seriously injured in 1918 when he was hit by a mortar shell, and he was awarded the Italian Silver Medal of Bravery for rescuing an injured soldier under fire. The evidence sentence explains Hemingway's occupation during World War I, which was serving in the Red Cross."
+                },
+                {
+                    "question": "What year did Ernest Hemingway publish his novel For Whom the Bell Tolls?",
+                    "answer": "1940",
+                    "explanation": "Hemingway's subsequent novels, including A Farewell to Arms (1929) and For Whom the Bell Tolls (1940), explored similar themes of disillusionment, loss, and the futility of war."
+                },
+                {
+                    "question": "\"Who is the author of The Great Gatsby?\"",
+                    "answer": "F. Scott Fitzgerald",
+                    "explanation": "Hemingway's subsequent novels, including A Farewell to Arms (1929) and For Whom the Bell Tolls (1940), explored similar themes of disillusionment, loss, and the futility of war. Answer: Hemingway's subsequent novels, including A Farewell to Arms (1929) and For Whom the Bell Tolls (1940), explored similar themes of disillusionment, loss, and the futility of war."
+                },
+                {
+                    "question": "What year was Ernest Hemingway born?",
+                    "answer": "1899",
+                    "explanation": "Hemingway was born in Oak Park, Illinois, in 1899."
+                }
+            ],
+            "hops": [
+                "Ernest Hemingway"
+            ]
+        },
+        "William Shakespeare": {
+            "term": "William Shakespeare",
+            "passage": "William Shakespeare (baptised 26 April 1564 – 23 April 1616) was an English poet, playwright, and actor, widely regarded as one of the greatest writers in the English language and the world's pre-eminent dramatist. He is often called England's national poet and the \"Bard of Avon\". His extant works, including some collaborations, consist of about 38 plays, 154 sonnets, two long narrative poems, and a few other verses, the authorship of some of which is uncertain. His plays have been translated into every major living language and are performed more often than those of any other playwright. Shakespeare was born and raised in Stratford-upon-Avon, Warwickshire, England. At the age of 18, he married Anne Hathaway, with whom he had three children. He began his career in theatre as an actor, later writing and producing his own plays and forming a company called the Lord Chamberlain's Men, later known as the King's Men. At age 49 (around 1613), he retired to Stratford and died there three years later. Shakespeare's writing shows a deep understanding of human nature and a mastery of the English language. His plays are known for their complex characters, intricate plots, and vivid imagery, and have been interpreted in various ways over the centuries. They have been adapted to film, television, and stage, and have influenced literature and culture around the world. Shakespeare's works continue to be studied, performed, and enjoyed today, and his legacy remains a significant part of English and world literature.",
+            "qae_pairs": [
+                {
+                    "question": "A) What is the birthdate of William Shakespeare? B) What is the deathdate of William Shakespeare? C) What is the date of William Shakespeare's retirement? D) What is the date of William Shakespeare's marriage? E) What is the date of William Shakespeare'",
+                    "answer": "23 April 1616",
+                    "explanation": "He is often called England's national poet and the Bard of Avon."
+                },
+                {
+                    "question": "What is the name of the town where Shakespeare was born and raised?",
+                    "answer": "Stratford",
+                    "explanation": "Shakespeare was born and raised in Stratford-upon-Avon, Warwickshire, England."
+                },
+                {
+                    "question": "What is the birthdate of William Shakespeare?",
+                    "answer": "26 April 1564",
+                    "explanation": "He was born and raised in Stratford-upon-Avon, Warwickshire, England."
+                },
+                {
+                    "question": "1. When did Shakespeare retire to Stratford? 2. When did Shakespeare die? 3. When did Shakespeare form his own company? 4. When did he marry Anne Hathaway?",
+                    "answer": "three years later",
+                    "explanation": "Shakespeare's writing shows a deep understanding of human nature and a mastery of the English language."
+                },
+                {
+                    "question": "What is the name of the company that Shakespeare formed and performed his plays with?",
+                    "answer": "the King's Men",
+                    "explanation": "He began his career in theatre as an actor, later writing and producing his own plays and forming a company called the Lord Chamberlain's Men, later known as the King's Men."
+                },
+                {
+                    "question": "Which country is famous for its green and pleasant land? The line number of the answer is: 10-11.",
+                    "answer": "England",
+                    "explanation": "Shakespeare's plays have been translated into every major living language and are performed more often than those of any other playwright. Answer: Shakespeare's plays have been translated into every major living language and are performed more often than those of any other playwright."
+                }
+            ],
+            "hops": [
+                "William Shakespeare"
+            ]
+        },
+        "Jane Austen": {
+            "term": "Jane Austen",
+            "passage": "Jane Austen (16 December 1775 – 18 July 1817) was an English novelist known primarily for her six major novels, which interpret, critique and comment upon the British landed gentry at the end of the 18th century. Austen's plots often explore the dependence of women on marriage for social standing and economic security, and her works are noted for their realism and biting social commentary. Austen's novels have been adapted for film and television numerous times, and her name and image have been used for brand marketing and merchandise. Her works have also been adapted for stage, and her influence on English literature and popular culture is profound. Austen's life is not well documented, and much of what is known about her comes from her letters. She was born in Steventon, Hampshire, where her father was rector. Austen lived most of her life as part of a close-knit family with her parents, sister, and brothers. She was educated at home by her father and her brothers, and she wrote her first novel, Sense and Sensibility, when she was in her mid-twenties. Austen's novels are set in the English countryside and feature a cast of characters who are primarily members of the landed gentry. Her works often explore the social norms and expectations of the time, and the ways in which they can constrain and limit the lives of women. Austen's novels are also known for their wit and humor, and for their ability to capture the nuances of human relationships. Austen's novels have been praised for their realism and their ability to capture the social and cultural context of the time.",
+            "qae_pairs": [
+                {
+                    "question": "A) What is the date of Jane Austen's death? B) Where was Jane Austen born? C) When did Jane Austen write her first novel? D) Who is Jane Austen's father? The answer is A) What is the date of Jane Aust",
+                    "answer": "18 July 1817",
+                    "explanation": "A) Jane Austen (16 December 1775 – 18 July 1817) was an English novelist known primarily for her six major novels, which interpret, critique and comment upon the British landed gentry at the end of the 18th century. Explanation: This sentence provides the date of Jane Austen's death, which is the answer to question A."
+                },
+                {
+                    "question": "What is the name of the county where Jane Austen was born and where she lived most of her life?",
+                    "answer": "Hampshire",
+                    "explanation": "Austen's plots often explore the dependence of women on marriage for social standing and economic security, and her works are noted for their realism and biting social commentary. This sentence explains that Austen's novels often explore the theme of the dependence of women on marriage for social standing and economic security, and that her works are known for their realism and biting social commentary."
+                },
+                {
+                    "question": "A) What is the name of the town where Jane Austen was born? B) What is the name of the city where Jane Austen lived most of her life? C) What is the name of the country where Jane Austen was born? D) What is the name of the",
+                    "answer": "Steventon",
+                    "explanation": "A) Jane Austen was born in Steventon, Hampshire, where her father was rector."
+                },
+                {
+                    "question": "A) What is Jane Austen's birthday? B) Where was Jane Austen born? C) Who is Jane Austen's father? D) What is the title of Jane Austen's first novel? The answer is A) What is Jane Austen",
+                    "answer": "16 December 1775",
+                    "explanation": "Austen's plots often explore the dependence of women on marriage for social standing and economic security, and her works are noted for their realism and biting social commentary."
+                },
+                {
+                    "question": "What is the title of the first novel Jane Austen wrote? What is the title of the first novel Jane Austen wrote?",
+                    "answer": "Sense and Sensibility",
+                    "explanation": "Jane Austen's novels are set in the English countryside and feature a cast of characters who are primarily members of the landed gentry."
+                }
+            ],
+            "hops": [
+                "Jane Austen"
+            ]
+        },
+        "Fyodor Dostoevsky": {
+            "term": "Fyodor Dostoevsky",
+            "passage": "Fyodor Mikhailovich Dostoevsky (11 November 1821 – 9 February 1881) was a Russian novelist, short story writer, essayist, journalist and philosopher. Dostoevsky's literary works explore human psychology in the context of the troubled political, social, and spiritual context of 19th-century Russia. He is best known for his novels Crime and Punishment, The Idiot, and The Brothers Karamazov. Dostoevsky was born in Moscow in 1821, the second of seven children. His father was a former army doctor who had taken up a post as a physician in the military hospital in Moscow. His mother was the daughter of a retired army captain. Dostoevsky was educated at home by his father, who was a firm disciplinarian. He later attended the Moscow Academy of Military Engineers, where he studied engineering and mathematics. In 1849, Dostoevsky was arrested and sentenced to death for his involvement in the Petrashevsky Circle, a group of intellectuals who were critical of the Tsarist government. He was led to the execution site, but at the last moment his sentence was commuted to four years of hard labor in a Siberian prison camp. It was during his time in prison that Dostoevsky began to formulate his philosophical ideas, which would later be expressed in his novels. After his release from prison in 1854, Dostoevsky began to write fiction. His early works were influenced by the ideas of the utopian socialists, who believed that a new social order could be created through reason and human brotherhood.",
+            "qae_pairs": [
+                {
+                    "question": "\"What country is known for its cold weather, vast landscapes, and the Tsarist government that collapsed in 1917?\"",
+                    "answer": "Russia",
+                    "explanation": "Dostoevsky was born in Moscow in 1821, the second of seven children. His father was a former army doctor who had taken up a post as a physician in the military hospital in Moscow. His mother was the daughter of a retired army captain. This sentence provides evidence that Dostoevsky was born in Moscow, which is a city in Russia, and that his father was a former army doctor and his mother was the daughter of a retired army captain, which suggests that they were part of the military culture of Russia."
+                },
+                {
+                    "question": "\"What year did Fyodor Dostoevsky begin to write fiction?\"",
+                    "answer": "1854",
+                    "explanation": "Dostoevsky was born in Moscow in 1821, the second of seven children."
+                },
+                {
+                    "question": "What is the name of the Russian novelist, short story writer, essayist, journalist and philosopher who is best known for his novels Crime and Punishment, The Idiot, and The Brothers Karamazov?",
+                    "answer": "Dostoevsky",
+                    "explanation": "Dostoevsky was born in Moscow in 1821, the second of seven children."
+                },
+                {
+                    "question": "What century was Fyodor Dostoevsky born in?",
+                    "answer": "19th-century",
+                    "explanation": "Dostoevsky's literary works explore human psychology in the context of the troubled political, social, and spiritual context of 19th-century Russia."
+                },
+                {
+                    "question": "A) What is the date of Fyodor Dostoevsky's death? B) What is the date of Fyodor Dostoevsky's birth? C) What is the date of Fyodor Dostoevsky's arrest? D) What is the date",
+                    "answer": "9 February 1881",
+                    "explanation": "Dostoevsky's literary works explore human psychology in the context of the troubled political, social, and spiritual context of 19th-century Russia."
+                },
+                {
+                    "question": "A) What was the year of Fyodor Dostoevsky's birth? B) What was the year of Fyodor Dostoevsky's death? C) What was the year of Fyodor Dostoevsky's arrest and sentencing to death? D",
+                    "answer": "1849",
+                    "explanation": "Fyodor Dostoevsky was born in Moscow in 1821, the second of seven children. His father was a former army doctor who had taken up a post as a physician in the military hospital in Moscow. His mother was the daughter of a retired army captain. Dostoevsky was educated at home by his father, who was a firm disciplinarian. He later attended the Moscow Academy of Military Engineers, where he studied engineering and mathematics."
+                },
+                {
+                    "question": "What is the name of the educational institution that Fyodor Dostoevsky attended?",
+                    "answer": "the Moscow Academy of Military Engineers",
+                    "explanation": "Dostoevsky was educated at home by his father, who was a firm disciplinarian. He later attended the Moscow Academy of Military Engineers, where he studied engineering and mathematics."
+                },
+                {
+                    "question": "\"What is the full name of Fyodor Dostoevsky?\"",
+                    "answer": "Fyodor Mikhailovich",
+                    "explanation": "Dostoevsky's literary works explore human psychology in the context of the troubled political, social, and spiritual context of 19th-century Russia."
+                }
+            ],
+            "hops": [
+                "Fyodor Dostoevsky"
+            ]
+        },
+        "George Orwell": {
+            "term": "George Orwell",
+            "passage": "George Orwell was an English novelist, essayist, and journalist. He is best known for his novels Animal Farm and Nineteen Eighty-Four, which are considered two of the most influential works of the 20th century. Orwell was born Eric Arthur Blair in Motihari, Bengal, British India, in 1903. His family moved to England when he was one year old, and he was educated at Eton College and the University of Burma, where he served as a police officer. After leaving the police force, Orwell worked as a journalist in India and Europe, and he fought in the Spanish Civil War on the Republican side. Orwell was a committed socialist and his writing often reflected his political beliefs. He died in 1950 at the age of 46 from tuberculosis.",
+            "qae_pairs": [
+                {
+                    "question": "What was Eric Arthur Blair's educational background?",
+                    "answer": "the University of Burma",
+                    "explanation": "Orwell was born Eric Arthur Blair in Motihari, Bengal, British India, in 1903. His family moved to England when he was one year old, and he was educated at Eton College and the University of Burma, where he served as a police officer."
+                },
+                {
+                    "question": "A) What is George Orwell's full name? B) What is George Orwell's nationality? C) What is George Orwell's date of birth? D) What is George Orwell's occupation? E) What is George Orwell's cause of",
+                    "answer": "Eric Arthur Blair",
+                    "explanation": "Orwell was born Eric Arthur Blair in Motihari, Bengal, British India, in 1903."
+                },
+                {
+                    "question": "What year did George Orwell die?",
+                    "answer": "1950",
+                    "explanation": "Orwell died in 1950 at the age of 46 from tuberculosis."
+                },
+                {
+                    "question": "What is the name of the town in Bengal, British India, where George Orwell was born?",
+                    "answer": "Motihari",
+                    "explanation": "Orwell was born Eric Arthur Blair in Motihari, Bengal, British India, in 1903."
+                },
+                {
+                    "question": "What is the name of the school that Eric Arthur Blair, better known as George Orwell, attended as a child?",
+                    "answer": "Eton College",
+                    "explanation": "Orwell was born Eric Arthur Blair in Motihari, Bengal, British India, in 1903. His family moved to England when he was one year old, and he was educated at Eton College and the University of Burma, where he served as a police officer."
+                },
+                {
+                    "question": "What was the country of birth for George Orwell? What was the name of the university where Orwell studied? What was the name of the political movement that Orwell supported? What was the cause of death for George Orwell? What was the name of the war that Orwell fought",
+                    "answer": "British India",
+                    "explanation": "Orwell was born Eric Arthur Blair in Motihari, Bengal, British India, in 1903."
+                },
+                {
+                    "question": "Which continent is home to the most countries? 'Tropic of Cancer' is the title of which book: What is the title of the book written by Henry Miller that was initially banned in the United States for obscenity? 'George Orwell' is the name of which author:",
+                    "answer": "Europe",
+                    "explanation": "Orwell was born Eric Arthur Blair in Motihari, Bengal, British India, in 1903. Explanation: This sentence provides a factual statement about the birthplace and birth year of George Orwell."
+                }
+            ],
+            "hops": [
+                "George Orwell"
+            ]
+        },
+        "Virginia Woolf": {
+            "term": "Virginia Woolf",
+            "passage": "Virginia Woolf (1882-1941) was an English writer and one of the foremost modernists of the early 20th century. She was born in London to a well-connected family and was educated by private tutors before attending the University of London. Woolf's writing often focused on the inner lives of women and the role of women in society. She was a founding member of the Bloomsbury Group, a collective of artists and intellectuals who were known for their progressive ideas and unconventional lifestyles. Woolf's most famous works include \"Mrs. Dalloway\" (1925), \"To the Lighthouse\" (1927), and \"Orlando\" (1928). These novels are known for their experimental style and their exploration of themes such as memory, time, and identity. Woolf was also a prolific essayist and wrote extensively on topics such as feminism, literature, and mental health. In addition to her writing, Woolf was a prominent figure in the feminist movement of the early 20th century. She was a vocal advocate for women's rights and argued that women needed to be given greater opportunities to express themselves through literature and art. Woolf was also a suffragist and worked tirelessly to promote women's suffrage in the UK. Despite her many accomplishments, Woolf struggled with mental illness throughout her life. She was diagnosed with depression and had several breakdowns, which she wrote about in her diaries and essays. In 1941, Woolf drowned herself in the River Ouse, near her home in Sussex.",
+            "qae_pairs": [
+                {
+                    "question": "What is the capital city of the United Kingdom? The capital city of the United Kingdom is London.",
+                    "answer": "UK",
+                    "explanation": "Woolf was born in London to a well-connected family and was educated by private tutors before attending the University of London."
+                },
+                {
+                    "question": "\"What year was Virginia Woolf's novel 'Mrs. Dalloway' published?\"",
+                    "answer": "1925",
+                    "explanation": "Woolf's most famous works include Mrs. Dalloway (1925), To the Lighthouse (1927), and Orlando (1928)."
+                },
+                {
+                    "question": "\"What year did Virginia Woolf publish her novel 'To the Lighthouse'?\"",
+                    "answer": "1927",
+                    "explanation": "Woolf's most famous works include Mrs. Dalloway (1925), To the Lighthouse (1927), and Orlando (1928). This sentence provides evidence that To the Lighthouse was published in 1927."
+                },
+                {
+                    "question": "\"What is the title of Virginia Woolf's novel about a society hostess preparing for a party?\"",
+                    "answer": "Dalloway",
+                    "explanation": "Woolf's most famous works include Mrs. Dalloway (1925), To the Lighthouse (1927), and Orlando (1928). These novels are known for their experimental style and their exploration of themes such as memory, time, and identity."
+                },
+                {
+                    "question": "What is the name of the river where Virginia Woolf drowned herself?",
+                    "answer": "the River Ouse",
+                    "explanation": "Virginia Woolf was an English writer and one of the foremost modernists of the early 20th century. She was born in London to a well-connected family and was educated by private tutors before attending the University of London. Woolf's writing often focused on the inner lives of women and the role of women in society. She was a founding member of the Bloomsbury Group, a collective of artists and intellectuals who were known for their progressive ideas and unconventional lifestyles."
+                },
+                {
+                    "question": "What was the collective of artists and intellectuals known for their progressive ideas and unconventional lifestyles that Virginia Woolf was a founding member of?",
+                    "answer": "the Bloomsbury Group",
+                    "explanation": "Woolf was a founding member of the Bloomsbury Group, a collective of artists and intellectuals who were known for their progressive ideas and unconventional lifestyles."
+                },
+                {
+                    "question": "What was Virginia Woolf's educational background?",
+                    "answer": "the University of London",
+                    "explanation": "Virginia Woolf was born in London to a well-connected family and was educated by private tutors before attending the University of London."
+                }
+            ],
+            "hops": [
+                "Virginia Woolf"
+            ]
+        },
+        "Toni Morrison": {
+            "term": "Toni Morrison",
+            "passage": "Toni Morrison (born Chloe Ardelia Wofford; February 18, 1931 – August 5, 2019) was an American novelist, essayist, editor, and professor. She was the first African-American woman to be awarded the Nobel Prize in Literature in 1993. Morrison's writing centered around the African-American experience and explored themes of race, gender, and identity. Her works included \"Beloved\" (1987), \"Song of Solomon\" (1977), and \"Jazz\" (1992). Morrison was also a professor at Princeton University and a member of the American Academy of Arts and Letters. She was awarded the Presidential Medal of Freedom in 2012. Morrison's legacy as a writer and advocate for social justice continues to inspire readers and writers around the world.",
+            "qae_pairs": [
+                {
+                    "question": "What year was Toni Morrison awarded the Nobel Prize in Literature?",
+                    "answer": "1993",
+                    "explanation": "Morrison's writing centered around the African-American experience and explored themes of race, gender, and identity."
+                },
+                {
+                    "question": "\"What year did Toni Morrison publish her novel 'Jazz'?\"",
+                    "answer": "1992",
+                    "explanation": "Morrison's writing centered around the African-American experience and explored themes of race, gender, and identity."
+                },
+                {
+                    "question": "What is the highest civilian honor in the United States?",
+                    "answer": "the Presidential Medal of Freedom",
+                    "explanation": "Morrison was awarded the Presidential Medal of Freedom in 2012."
+                },
+                {
+                    "question": "What is the name of the organization that Toni Morrison was a member of?",
+                    "answer": "the American Academy of Arts and Letters",
+                    "explanation": "Toni Morrison was a member of the American Academy of Arts and Letters."
+                },
+                {
+                    "question": "What year was Toni Morrison awarded the Presidential Medal of Freedom?",
+                    "answer": "2012",
+                    "explanation": "Toni Morrison was awarded the Presidential Medal of Freedom in 2012."
+                },
+                {
+                    "question": "Which year did Toni Morrison publish her novel \"Song of Solomon\"?",
+                    "answer": "1977",
+                    "explanation": "Morrison's writing centered around the African-American experience and explored themes of race, gender, and identity."
+                },
+                {
+                    "question": "What university did Toni Morrison teach at?",
+                    "answer": "Princeton University",
+                    "explanation": "Morrison was also a professor at Princeton University and a member of the American Academy of Arts and Letters."
+                }
+            ],
+            "hops": [
+                "Toni Morrison"
+            ]
+        },
+        "Gabriel Garcia Marquez": {
+            "term": "Gabriel Garcia Marquez",
+            "passage": "Gabriel Garcia Marquez was a Colombian novelist, short-story writer, screenwriter, and journalist, known for his magical realism style of writing. He was born on March 6, 1927, in Aracataca, Colombia, and died on April 17, 2014, in Mexico City, Mexico. Garcia Marquez began his career as a journalist, working for the Colombian newspaper El Espectador and later as a foreign correspondent for the Latin American newspaper, El Tiempo. He later became a novelist and short-story writer, gaining international recognition for his works, including \"One Hundred Years of Solitude\" and \"Love in the Time of Cholera.\" Garcia Marquez's writing style was characterized by magical realism, a genre that blends realistic elements with magical or supernatural elements. His works often explored themes of love, death, and politics, and were known for their vivid imagery and use of symbolism. In addition to his writing, Garcia Marquez was also an outspoken political activist, using his platform to advocate for human rights and social justice. He was awarded numerous honors and accolades throughout his career, including the Nobel Prize in Literature in 1982. Garcia Marquez's legacy continues to influence writers and readers around the world, and his works remain widely read and studied today.",
+            "qae_pairs": [
+                {
+                    "question": "What is the country of origin of Gabriel Garcia Marquez?",
+                    "answer": "Colombia",
+                    "explanation": "Garcia Marquez began his career as a journalist, working for the Colombian newspaper El Espectador and later as a foreign correspondent for the Latin American newspaper, El Tiempo."
+                },
+                {
+                    "question": "What is the name of the Colombian newspaper where Gabriel Garcia Marquez began his career as a journalist?",
+                    "answer": "El Espectador",
+                    "explanation": "Garcia Marquez began his career as a journalist, working for the Colombian newspaper El Espectador and later as a foreign correspondent for the Latin American newspaper, El Tiempo."
+                },
+                {
+                    "question": "What year did Gabriel Garcia Marquez receive the Nobel Prize in Literature?",
+                    "answer": "1982",
+                    "explanation": "Garcia Marquez's writing style was characterized by magical realism, a genre that blends realistic elements with magical or supernatural elements."
+                },
+                {
+                    "question": "What is the birthplace of Gabriel Garcia Marquez?",
+                    "answer": "Aracataca",
+                    "explanation": "Garcia Marquez began his career as a journalist, working for the Colombian newspaper El Espectador and later as a foreign correspondent for the Latin American newspaper, El Tiempo."
+                },
+                {
+                    "question": "What is the capital of Mexico? 'Colombian' is the answer to which question: What is Gabriel Garcia Marquez's nationality? 'Magical realism' is the answer to which question: What is the genre of Gabriel Garcia Marquez's writing style? 'J",
+                    "answer": "Mexico City",
+                    "explanation": "Garcia Marquez began his career as a journalist, working for the Colombian newspaper El Espectador and later as a foreign correspondent for the Latin American newspaper, El Tiempo."
+                }
+            ],
+            "hops": [
+                "Gabriel Garcia Marquez"
+            ]
+        },
+        "J.K. Rowling": {
+            "term": "J.K. Rowling",
+            "passage": "J.K. Rowling is a British author who wrote the Harry Potter book series. She was born on July 31, 1965, in Yate, Gloucestershire, England. Rowling attended the University of Exeter and earned a degree in French and Classics. After college, she worked as a researcher and bilingual secretary for Amnesty International in London. In 1990, Rowling married Jorge Arantes and moved to Portugal. The couple divorced in 1993. Rowling then moved to Edinburgh, Scotland, where she began writing the first Harry Potter book. She has said that the idea for Harry Potter came to her on a train ride from Manchester to London in 1990. The first Harry Potter book, Harry Potter and the Philosopher's Stone, was published in 1997. It was an immediate success and has since become one of the best-selling book series in history. Rowling has written seven additional books in the Harry Potter series, as well as several books for adult readers. Rowling has won numerous awards for her writing, including the Order of the British Empire and the Hans Christian Andersen Literature Award. She has also been named a Fellow of the Royal Society of Literature. In addition to her writing, Rowling is a philanthropist and activist. She has donated millions of dollars to charity and has spoken out on issues such as poverty, LGBTQ+ rights, and women's rights. Rowling has also been open about her struggles with depression and has advocated for mental health awareness. Rowling continues to write and is currently working on a new series of books for adult readers. She lives in Edinburgh with her husband and children.",
+            "qae_pairs": [
+                {
+                    "question": "What year was the first Harry Potter book published?",
+                    "answer": "1997",
+                    "explanation": "The first Harry Potter book, Harry Potter and the Philosopher's Stone, was published in 1997. It was an immediate success and has since become one of the best-selling book series in history."
+                },
+                {
+                    "question": "What is the city where J.K. Rowling lives?",
+                    "answer": "Edinburgh",
+                    "explanation": "Rowling has won numerous awards for her writing, including the Order of the British Empire and the Hans Christian Andersen Literature Award."
+                },
+                {
+                    "question": "What is the name of the town where J.K. Rowling was born?",
+                    "answer": "Yate",
+                    "explanation": "Rowling has said that the idea for Harry Potter came to her on a train ride from Manchester to London in 1990."
+                },
+                {
+                    "question": "What is the name of the organization that J.K. Rowling has been named a Fellow of?",
+                    "answer": "the Royal Society of Literature",
+                    "explanation": "Rowling has won numerous awards for her writing, including the Order of the British Empire and the Hans Christian Andersen Literature Award. She has also been named a Fellow of the Royal Society of Literature."
+                }
+            ],
+            "hops": [
+                "J.K. Rowling"
+            ]
+        },
+        "Harper Lee": {
+            "term": "Harper Lee",
+            "passage": "Harper Lee (April 28, 1926 – February 19, 2016) was an American author known for her novel To Kill a Mockingbird, which was published in 1960. The novel was an immediate and immense success, winning the Pulitzer Prize, and has become a classic of modern American literature. The novel is widely read in American literature classes and is considered a masterpiece of American literature. Lee was born in Monroeville, Alabama, the youngest of four children of Amasa Coleman Lee and Frances Cunningham Finch Lee. Her father was a lawyer who served on the state legislature and was a prominent figure in Monroeville. Her mother was a homemaker. Lee was a tomboy in her youth and enjoyed playing with her older brother, Edwin. She attended local schools and then studied law at the University of Alabama. After graduating from law school, Lee moved to New York City to pursue a career in writing. She worked as an airline reservation clerk to support herself while writing. In 1957, she completed her first and only published novel, To Kill a Mockingbird. The novel is set in the 1930s in the fictional town of Maycomb, Alabama, and is narrated by the young Scout Finch. The novel explores themes of racial injustice and the loss of innocence. To Kill a Mockingbird was an immediate success and has since become a classic of modern American literature. The novel won the Pulitzer Prize for Fiction in 1961 and has been translated into more than 40 languages. The novel has also been adapted into a popular film and a stage play. Lee never published another novel, but she continued to write.",
+            "qae_pairs": [
+                {
+                    "question": "What is Harper Lee's birthday?",
+                    "answer": "April 28, 1926",
+                    "explanation": "The novel is widely read in American literature classes and is considered a masterpiece of American literature."
+                },
+                {
+                    "question": "What is the setting of To Kill a Mockingbird?",
+                    "answer": "the 1930s",
+                    "explanation": "The novel is set in the 1930s in the fictional town of Maycomb, Alabama Question: What is the profession of Harper Lee's father? Answer: Lawyer Extract an evidence sentence from passage as explanation:  Her father was a lawyer who served on the state legislature and was a prominent figure in Monroeville."
+                },
+                {
+                    "question": "\"In which fictional town is the story of To Kill a Mockingbird set?\"",
+                    "answer": "Maycomb",
+                    "explanation": "The novel is set in the 1930s in the fictional town of Maycomb, Alabama, and is narrated by the young Scout Finch."
+                },
+                {
+                    "question": "What is the name of the town where Harper Lee was born?",
+                    "answer": "Monroeville",
+                    "explanation": "Her father was a lawyer who served on the state legislature and was a prominent figure in Monroeville."
+                },
+                {
+                    "question": "What year was Harper Lee's novel To Kill a Mockingbird published?",
+                    "answer": "1960",
+                    "explanation": "The novel is widely read in American literature classes and is considered a masterpiece of American literature. Question: What is the main theme of Harper Lee's novel To Kill a Mockingbird? Answer: Racial injustice and the loss of innocence."
+                },
+                {
+                    "question": "What year did Harper Lee complete her first and only published novel, To Kill a Mockingbird?",
+                    "answer": "1957",
+                    "explanation": "In 1957, she completed her first and only published novel, To Kill a Mockingbird."
+                },
+                {
+                    "question": "Who was Harper Lee's older brother?",
+                    "answer": "Edwin",
+                    "explanation": "Lee was a tomboy in her youth and enjoyed playing with her older brother, Edwin."
+                },
+                {
+                    "question": "What is the capital of New York?",
+                    "answer": "New York City",
+                    "explanation": "Passage: Lee moved to New York City to pursue a career in writing. She worked as an airline reservation clerk to support herself while writing. Evidence sentence: Lee moved to New York City to pursue a career in writing."
+                },
+                {
+                    "question": "What is the name of the university where Harper Lee studied law?",
+                    "answer": "the University of Alabama",
+                    "explanation": "Lee moved to New York City to pursue a career in writing. She worked as an airline reservation clerk to support herself while writing. Answer: Lee moved to New York City to pursue a career in writing."
+                }
+            ],
+            "hops": [
+                "Harper Lee"
+            ]
+        }
+    },
+    "second_hops": {
+        "Oak Park": {
+            "term": "Oak Park",
+            "passage": "Oak Park is a village located in Cook County, Illinois, United States. As of the 2020 United States census, the village had a population of 54,282. Oak Park is a suburb of Chicago, located about 10 miles west of downtown Chicago. The village is known for its historic architecture, including many homes designed by Frank Lloyd Wright, and its diverse community. Oak Park is also home to the Ernest Hemingway Museum and the Oak Park and River Forest High School, which has produced many notable alumni. The village is served by the Oak Park Public Library, which has a collection of over 200,000 items. Oak Park is also home to several parks and recreational facilities, including the Oak Park Conservatory, which features a variety of plants and flowers. The village is governed by a village president and a board of trustees, and is represented in the Illinois General Assembly by State Senator Don Harmon and State Representative Camille Lilly.",
+            "qae_pairs": [
+                {
+                    "question": "Who is the current state senator representing Oak Park in the Illinois General Assembly?",
+                    "answer": "Don Harmon",
+                    "explanation": "The village is known for its historic architecture, including many homes designed by Frank Lloyd Wright, and its diverse community."
+                },
+                {
+                    "question": "What high school is located in Oak Park, Illinois, that is known for producing notable alumni?",
+                    "answer": "River Forest High School",
+                    "explanation": "Oak Park is also home to the Ernest Hemingway Museum and the Oak Park and River Forest High School, which has produced many notable alumni."
+                }
+            ],
+            "hops": [
+                "Ernest Hemingway",
+                "Oak Park"
+            ]
+        },
+        "Illinois": {
+            "term": "Illinois",
+            "passage": "Illinois is a state in the Midwestern region of the United States. It is the fifth most populous state and the 25th largest state in terms of land area. Illinois has a diverse economy, with manufacturing, agriculture, and service industries playing major roles. The state is home to several major cities, including Chicago, the third-largest city in the United States. Chicago is an important global hub for finance, commerce, technology, industry, telecommunications, and transportation. Illinois has a diverse range of climates, from humid continental in the northern reaches to humid subtropical in the southern regions. The state has a rich history, with a variety of historical and cultural sites, including the Abraham Lincoln Presidential Library and Museum, the Chicago History Museum, and the Adler Planetarium. Illinois is also home to several major universities, including the University of Illinois at Urbana-Champaign, Northwestern University, and the University of Chicago.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the university located in Illinois that is known for its academic excellence and research programs?",
+                    "answer": "Northwestern University",
+                    "explanation": "Northwestern University is a private research university located in Evanston, Illinois, with campuses in Chicago and Doha, Qatar. It is consistently ranked among the top 20 universities in the United States and is known for its academic excellence and research programs."
+                }
+            ],
+            "hops": [
+                "Ernest Hemingway",
+                "Illinois"
+            ]
+        },
+        "Stratford": {
+            "term": "Stratford",
+            "passage": "Stratford is a town in the Stratford-on-Avon district of Warwickshire, England, and the birthplace of William Shakespeare. It is situated in the heart of England, on the River Avon, 22 miles (35 km) south east of Birmingham and 8 miles (13 km) south west of Warwick. The estimated population in 2016 was 27,445. Stratford was originally an agricultural town, but it grew in importance during the 12th century due to its position on the River Avon. The town became a centre for the wool trade and became a market town in the 12th century. In the 16th century, Stratford became a centre for the printing industry, and it was in Stratford that William Shakespeare's plays were first printed. Today, Stratford is a popular tourist destination, attracting millions of visitors each year. The Royal Shakespeare Company, which performs Shakespeare's plays, is based in Stratford, and there are several theatres in the town, including the Royal Shakespeare Theatre and the Swan Theatre. The town is also home to the birthplace of William Shakespeare, which is now a museum, and the nearby Anne Hathaway's Cottage, where Shakespeare's wife grew up. Stratford is also known for its association with the motor industry, with the British motorcycle manufacturer Triumph being based in the town. The Massey Ferguson tractor factory was also located in the town until its closure in 1981.",
+            "qae_pairs": [
+                {
+                    "question": "What is the county of Stratford, which is situated on the River Avon and is known for its association with the motor industry?",
+                    "answer": "Warwickshire",
+                    "explanation": "Stratford was originally an agricultural town, but it grew in importance during the 12th century due to its position on the River Avon. This sentence explains that Stratford's location on the River Avon contributed to its growth in importance during the 12th century."
+                }
+            ],
+            "hops": [
+                "William Shakespeare",
+                "Stratford"
+            ]
+        },
+        "the King's Men": {
+            "term": "the King's Men",
+            "passage": "The King's Men were an acting company in early modern England that was originally formed by King James I in 1603. The company was composed of sharers who jointly owned and managed the company, and they were responsible for producing and performing all of the plays at the Globe Theatre and Blackfriars Theatre. The King's Men were known for their high-quality productions and their association with some of the greatest playwrights of the time, including William Shakespeare, Ben Jonson, and John Fletcher. The company continued to perform until the closure of the theatres due to the plague in 1642.",
+            "qae_pairs": [
+                {
+                    "question": "What was the name of the monarch who founded the King's Men acting company in early modern England?",
+                    "answer": "King James",
+                    "explanation": "Passage: The King's Men were known for their high-quality productions and their association with some of the greatest playwrights of the time, including William Shakespeare, Ben Jonson, and John Fletcher. Evidence sentence: The King's Men were known for their high-quality productions and their association with some of the greatest playwrights of the time."
+                },
+                {
+                    "question": "What was the primary location where the King's Men performed their plays?",
+                    "answer": "the Globe Theatre",
+                    "explanation": "The King's Men were known for their high-quality productions and their association with some of the greatest playwrights of the time, including William Shakespeare, Ben Jonson, and John Fletcher. The primary location where the King's Men performed their plays was the Globe Theatre."
+                },
+                {
+                    "question": "What year did the King's Men cease to perform?",
+                    "answer": "1642",
+                    "explanation": "The King's Men were known for their high-quality productions and their association with some of the greatest playwrights of the time, including William Shakespeare, Ben Jonson, and John Fletcher. Answer: The King's Men were known for their high-quality productions and their association with some of the greatest playwrights of the time, including William Shakespeare, Ben Jonson, and John Fletcher."
+                }
+            ],
+            "hops": [
+                "William Shakespeare",
+                "the King's Men"
+            ]
+        },
+        "England": {
+            "term": "England",
+            "passage": "1. England is a country that is part of the United Kingdom. 2. It shares land borders with Scotland to the north and Wales to the west. 3. The capital of England is London, which is also the capital of the United Kingdom. 4. The population of England is around 55 million people. 5. The English language, which is spoken in many countries around the world, originated in England. 6. England is known for its rich history and culture, including its castles, museums, and art galleries. 7. The country is also famous for its sports, particularly football (soccer) and cricket. 8. England has a temperate climate, with mild winters and cool summers. 9. The country is home to many famous landmarks, including Stonehenge, the Tower of London, and Buckingham Palace. 10. England is a popular tourist destination, attracting millions of visitors each year.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the famous prehistoric monument located in the county of Wiltshire, England?",
+                    "answer": "Stonehenge",
+                    "explanation": "The English language, which is spoken in many countries around the world, originated in England. Answer: The English language originated in England."
+                },
+                {
+                    "question": "What is the weather like in England during the winter?",
+                    "answer": "winters",
+                    "explanation": "The English language, which is spoken in many countries around the world, originated in England. Answer: The English language originated in England."
+                },
+                {
+                    "question": "What is the capital of England?",
+                    "answer": "London",
+                    "explanation": "The English language, which is spoken in many countries around the world, originated in England. Explanation: The English language is spoken in many countries around the world, and it originated in England."
+                },
+                {
+                    "question": "What country shares a land border with England to the west?",
+                    "answer": "Wales",
+                    "explanation": "The English language, which is spoken in many countries around the world, originated in England. Evidence sentence: The English language originated in England."
+                }
+            ],
+            "hops": [
+                "William Shakespeare",
+                "England"
+            ]
+        },
+        "Hampshire": {
+            "term": "Hampshire",
+            "passage": "Hampshire is a county on the southern coast of England in the United Kingdom. The county town of Hampshire is Winchester, which is also the former capital city of England. The county has a population of just under 1.8 million people. Hampshire is bordered by Dorset to the west, Wiltshire to the north, Berkshire to the north-east, Surrey to the east, and the English Channel to the south. The county is known for its beautiful countryside, historic towns and cities, and its rich cultural heritage. Some of the most popular tourist attractions in Hampshire include the New Forest, the South Downs, and the city of Portsmouth, which is home to the historic dockyard and the iconic Spinnaker Tower. Hampshire is also famous for its connection to the Royal Family, with many of the Queen's residences located in the county, including the famous royal residence of Windsor Castle.",
+            "qae_pairs": [
+                {
+                    "question": "What county is located to the west of Hampshire?",
+                    "answer": "Dorset",
+                    "explanation": "Hampshire is bordered by Dorset to the west, Wiltshire to the north, Berkshire to the north-east, Surrey to the east, and the English Channel to the south."
+                },
+                {
+                    "question": "What is the body of water that borders Hampshire to the south?",
+                    "answer": "the English Channel",
+                    "explanation": "Hampshire is bordered by Dorset to the west, Wiltshire to the north, Berkshire to the north-east, Surrey to the east, and the English Channel to the south. This sentence explains that Hampshire is located in the southern part of England and is bordered by several other counties and bodies of water."
+                }
+            ],
+            "hops": [
+                "Jane Austen",
+                "Hampshire"
+            ]
+        },
+        "Steventon": {
+            "term": "Steventon",
+            "passage": "Steventon is a village and civil parish in the English county of Hampshire. It is located in the North Wessex Downs, an area of outstanding natural beauty, and is about 6 miles (10 km) northwest of Basingstoke. The village has a population of around 300 people. Steventon is best known as the birthplace of Jane Austen, the famous English novelist who lived in the village from 1775 until 1801. The rectory where Austen lived with her family is now a museum dedicated to her life and work. The museum features exhibits on Austen's life, including her writing desk and personal belongings, as well as information on her novels and their historical context. In addition to its association with Austen, Steventon is also home to several historic buildings, including the 12th-century St. Nicholas Church and the 17th-century Rectory. The village also has a popular pub, the Vine Inn, which dates back to the 17th century and is known for its traditional English cuisine and real ales. Despite its small size, Steventon is a popular destination for tourists interested in Austen and the history of the English countryside. The village's quiet, rural setting and picturesque architecture make it a charming and peaceful place to visit, and its proximity to larger towns and cities like Basingstoke and Winchester make it easily accessible for travelers.",
+            "qae_pairs": [
+                {
+                    "question": "What year did Jane Austen leave Steventon?",
+                    "answer": "1801",
+                    "explanation": "The village has a population of around 300 people. This sentence serves as an evidence to support the statement that Steventon is a small village."
+                }
+            ],
+            "hops": [
+                "Jane Austen",
+                "Steventon"
+            ]
+        },
+        "Russia": {
+            "term": "Russia",
+            "passage": "1. Russia is a country in Eastern Europe and Northern Asia. 2. It is the world's largest country, covering more than one-eighth of the Earth's land area. 3. The country is known for its rich history, culture, and natural resources. 4. The Russian Federation is a federal semi-presidential republic, with the President as the head of state and the Prime Minister as the head of government. 5. The country has a population of over 144 million people, with the majority living in urban areas. 6. The capital of Russia is Moscow, which is also the country's largest city. 7. The country has a diverse climate, with continental, maritime, and polar landscapes. 8. Russia is a major oil and gas producer, and it is also rich in minerals such as coal, iron, and gold. 9. The country has a well-developed transportation system, including a vast network of railways, highways, and airports. 10. Russia is home to many famous landmarks, such as the Kremlin, Saint Basil's Cathedral, and the Hermitage Museum. 11. The country is also known for its rich cultural heritage, including literature, music, and art. 12. Russia has a strong military, with the largest stockpile of nuclear weapons in the world. 13. The country has a complex political system, with a multi-party system and a bicameral legislature. 14. Russia has a mixed economy, with a large state sector and a growing private sector. 15. The country has a high-income economy, with a GDP of over $1.7 trillion. 16.",
+            "qae_pairs": [
+                {
+                    "question": "What continent is Russia located in?",
+                    "answer": "Northern Asia",
+                    "explanation": "The country is known for its rich history, culture, and natural resources. Evidence sentence: Russia is a country in Eastern Europe and Northern Asia. Question: What is the capital of Russia? Answer: Moscow Question: What is the population of Russia? Answer: Over 144 million people Question: What is Russia's climate like? Answer: Russia has a diverse climate, with continental, maritime, and polar landscapes. Question: What is Russia's economy like?"
+                },
+                {
+                    "question": "What is the name of the famous cathedral located in Moscow, Russia?",
+                    "answer": "Cathedral",
+                    "explanation": "The country has a diverse climate, with continental, maritime, and polar landscapes."
+                },
+                {
+                    "question": "What is the largest land area that Russia covers on Earth?",
+                    "answer": "Earth",
+                    "explanation": "The Russian Federation is a federal semi-presidential republic, with the President as the head of state and the Prime Minister as the head of government. (Sentence 4) This is an evidence sentence because it provides information about the political system of Russia, which is one of the topics covered in the passage."
+                },
+                {
+                    "question": "What type of climate does Russia have?",
+                    "answer": "continental",
+                    "explanation": "The country has a diverse climate, with continental, maritime, and polar landscapes."
+                }
+            ],
+            "hops": [
+                "Fyodor Dostoevsky",
+                "Russia"
+            ]
+        },
+        "Dostoevsky": {
+            "term": "Dostoevsky",
+            "passage": "Fyodor Dostoevsky was a Russian novelist, short story writer, essayist, journalist and philosopher. His psychological penetration into the human soul and his unsurpassed understanding of human behavior have made him one of the greatest writers in the history of literature. His works have had a profound impact on modern literature and continue to be read and studied today. Dostoevsky's writing often explored the human condition, the nature of morality, and the existential questions of life. His most famous works include Crime and Punishment, The Brothers Karamazov, and Notes from Underground. Dostoevsky's writing style was characterized by its psychological depth, philosophical insight, and literary brilliance. He was also known for his social and political commentary, which often criticized the oppressive nature of the Russian government and society. Despite his controversial views and tumultuous personal life, Dostoevsky remains one of the most influential and important writers in the history of literature.",
+            "qae_pairs": [
+                {
+                    "question": "What is the title of Dostoevsky's novel that explores the psychological struggles of a young man who commits a murder?",
+                    "answer": "Crime and Punishment",
+                    "explanation": "Dostoevsky's writing often explored the human condition, the nature of morality, and the existential questions of life."
+                }
+            ],
+            "hops": [
+                "Fyodor Dostoevsky",
+                "Dostoevsky"
+            ]
+        },
+        "Fyodor Mikhailovich": {
+            "term": "Fyodor Mikhailovich",
+            "passage": "Fyodor Mikhailovich Dostoevsky (11 November 1821 – 9 February 1881) was a Russian novelist, short story writer, essayist, journalist and philosopher. Dostoevsky's literary works explore human psychology in the context of the troubled political, social, and spiritual context of 19th-century Russia. He is best known for his novels Crime and Punishment, The Idiot, and The Brothers Karamazov.",
+            "qae_pairs": [
+                {
+                    "question": "What is the title of Fyodor Mikhailovich's most famous novel?",
+                    "answer": "Crime and Punishment",
+                    "explanation": "Dostoevsky's literary works explore human psychology in the context of the troubled political, social, and spiritual context of 19th-century Russia. Explanation: The passage explains that Fyodor Mikhailovich Dostoevsky's literary works, including his most famous novel Crime and Punishment, explore human psychology in the context of the troubled political, social, and spiritual context of 19th-century Russia."
+                }
+            ],
+            "hops": [
+                "Fyodor Dostoevsky",
+                "Fyodor Mikhailovich"
+            ]
+        },
+        "the University of Burma": {
+            "term": "the University of Burma",
+            "passage": "The University of Burma was a public university located in Rangoon, Burma (now Yangon, Myanmar). It was established in 1920 as a result of the efforts of British colonial administrators who sought to create a Western-style university in Burma. The university was modeled after the University of London and offered degrees in a range of subjects, including law, medicine, and engineering. The university was closed in 1942 during World War II and reopened in 1946 after the Japanese occupation of Burma. It was later nationalized in 1964 and renamed the University of Rangoon. The university played a significant role in the development of Burma's education system and produced many notable alumni, including Aung San, the father of modern-day Myanmar.",
+            "qae_pairs": [
+                {
+                    "question": "What year was the University of Burma nationalized and renamed the University of Rangoon?",
+                    "answer": "1964",
+                    "explanation": "The university was nationalized in 1964 and renamed the University of Rangoon."
+                },
+                {
+                    "question": "What year was the University of Burma established?",
+                    "answer": "1920",
+                    "explanation": "The university was established in 1920 as a result of the efforts of British colonial administrators who sought to create a Western-style university in Burma."
+                }
+            ],
+            "hops": [
+                "George Orwell",
+                "the University of Burma"
+            ]
+        },
+        "Motihari": {
+            "term": "Motihari",
+            "passage": "Motihari is a city and a municipality in East Champaran district in the Indian state of Bihar. It is the headquarters of the Motihari district. Motihari is known for its rich cultural heritage and is an important commercial and educational hub of North Bihar. The city is situated on the banks of the river Gandak and is surrounded by a number of small rivers and streams. The city is well connected by road and rail with other major cities of India. Motihari is also known for its rich cultural heritage and is an important commercial and educational hub of North Bihar.",
+            "qae_pairs": [
+                {
+                    "question": "What is the region where Motihari is located?",
+                    "answer": "North Bihar",
+                    "explanation": "Motihari is known for its rich cultural heritage and is an important commercial and educational hub of North Bihar."
+                },
+                {
+                    "question": "What is the district that Motihari is the headquarters of?",
+                    "answer": "East Champaran",
+                    "explanation": "It is the headquarters of the Motihari district."
+                }
+            ],
+            "hops": [
+                "George Orwell",
+                "Motihari"
+            ]
+        },
+        "Eton College": {
+            "term": "Eton College",
+            "passage": "Eton College is an English independent boarding school for boys in Eton, Berkshire, near Windsor. It was founded in 1440 by King Henry VI as a charity school to educate 70 poor boys who would then go on to King's College, Cambridge. The college is one of the most famous and prestigious schools in the world and has been attended by many notable alumni, including 19 British prime ministers. Eton is a member of the Headmasters' and Headmistresses' Conference and the G20 Schools Group. The college's campus is located on the banks of the River Thames and covers an area of 130 acres.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the conference that Eton College is a member of?",
+                    "answer": "Headmasters",
+                    "explanation": "Eton College is an English independent boarding school for boys in Eton, Berkshire, near Windsor. It was founded in 1440 by King Henry VI as a charity school to educate 70 poor boys who would then go on to King's College, Cambridge. The college is one of the most famous and prestigious schools in the world and has been attended by many notable alumni, including 19 British prime ministers."
+                },
+                {
+                    "question": "What is the location of Eton College?",
+                    "answer": "Eton, Berkshire",
+                    "explanation": "Eton College is an English independent boarding school for boys in Eton, Berkshire, near Windsor. Answer: Eton College is an English independent boarding school for boys in Eton, Berkshire, near Windsor."
+                }
+            ],
+            "hops": [
+                "George Orwell",
+                "Eton College"
+            ]
+        },
+        "British India": {
+            "term": "British India",
+            "passage": "The British Raj was the period when the British Empire held suzerainty over the Indian subcontinent, from 1858 until 1947. The term \"British India\" refers to the period of British rule in the Indian subcontinent, which included present-day India, Pakistan, and Bangladesh, as well as parts of Afghanistan and Myanmar. The British East India Company had established trading posts in India by the late 17th century, and by the mid-19th century, it had assumed control of almost all of India. The British government took over the company's operations in 1858, following the Indian Rebellion of 1857, and India came under the direct rule of the British Crown. The British Raj was marked by a period of rapid modernization, industrialization, and economic growth, as well as by significant political and social upheaval. The Indian independence movement, which sought to end British rule and establish an independent India, gained momentum in the early 20th century, and India finally gained its independence on August 15, 1947.",
+            "qae_pairs": [
+                {
+                    "question": "What year did the Indian Rebellion of 1857 take place in British India?",
+                    "answer": "1857",
+                    "explanation": "The British government took over the company's operations in 1858, following the Indian Rebellion of 1857, and India came under the direct rule of the British Crown. This sentence provides a clear explanation of the events that led to the British Raj in India. It states that the British government took over the operations of the British East India Company in 1858, following the Indian Rebellion of 1857, which was a significant event that led to the end of the company's rule in India and the establishment of direct British rule."
+                }
+            ],
+            "hops": [
+                "George Orwell",
+                "British India"
+            ]
+        },
+        "Europe": {
+            "term": "Europe",
+            "passage": "Europe is a continent located entirely in the Northern Hemisphere and mostly in the Eastern Hemisphere. It is bordered by the Arctic Ocean to the north, the Atlantic Ocean to the west, and the Mediterranean Sea to the south. It comprises 47 countries, with Russia, Germany, France, the United Kingdom, Italy, Spain, and Poland being the most populous. Europe is the world's second-smallest continent by land area, covering about 10,180,000 square kilometres (3,930,000 sq mi) or 2% of the Earth's surface and about 6.8% of its land area. Of Europe's approximately 730 million people, about 47% are male and 53% are female. The largest country in Europe, both in terms of area and population, is Russia. The European Union, a political and economic union of 27 member states located primarily in Europe, is a major player in international affairs.",
+            "qae_pairs": [
+                {
+                    "question": "What body of water is located to the west of Europe?",
+                    "answer": "the Atlantic Ocean",
+                    "explanation": "Europe is a continent located entirely in the Northern Hemisphere and mostly in the Eastern Hemisphere. This statement is an evidence sentence because it provides a clear and direct piece of information about the location of Europe."
+                },
+                {
+                    "question": "What is the location of Europe in relation to the Northern Hemisphere?",
+                    "answer": "the Northern Hemisphere",
+                    "explanation": "Europe is a continent located entirely in the Northern Hemisphere and mostly in the Eastern Hemisphere. Question: What is the land area of Europe? Answer: about 10,180,000 square kilometres (3,930,000 sq mi) or 2% of the Earth's surface and about 6.8% of its land area."
+                }
+            ],
+            "hops": [
+                "George Orwell",
+                "Europe"
+            ]
+        },
+        "UK": {
+            "term": "UK",
+            "passage": "The United Kingdom of Great Britain and Northern Ireland, commonly known as the United Kingdom or UK, is a sovereign country located off the north-western coast of the European mainland. The UK includes the island of Great Britain, the north-eastern part of the island of Ireland, and many smaller islands. Northern Ireland is the only part of the UK that shares a land border with another country, the Republic of Ireland. The UK is a constitutional monarchy with a parliamentary democracy, and its monarch is Queen Elizabeth II. The UK has a highly developed economy, aided by its history as a major colonial power and its membership of the European Union. The UK is also a member of the United Nations, the Commonwealth of Nations, and NATO.",
+            "qae_pairs": [
+                {
+                    "question": "What is the only part of the UK that shares a land border with another country?",
+                    "answer": "Northern Ireland",
+                    "explanation": "The UK includes the island of Great Britain, the north-eastern part of the island of Ireland, and many smaller islands."
+                }
+            ],
+            "hops": [
+                "Virginia Woolf",
+                "UK"
+            ]
+        },
+        "the River Ouse": {
+            "term": "the River Ouse",
+            "passage": "The River Ouse is a river in the East Riding of Yorkshire, England. It rises near Malton and flows for 70 miles (110 km) to the Humber Estuary, where it forms a major part of the boundary between the East Riding and North Lincolnshire. The river is navigable for much of its length, and has been an important transport route since Roman times. The river is home to a variety of wildlife, including otters, kingfishers, and water voles. The river has also been the site of several major floods in recent years, including the floods of 2007 and 2012.",
+            "qae_pairs": [
+                {
+                    "question": "What was the year of the major flood that occurred on the River Ouse in the East Riding of Yorkshire, England?",
+                    "answer": "2007",
+                    "explanation": "The river is home to a variety of wildlife, including otters, kingfishers, and water voles. The river has also been the site of several major floods in recent years, including the floods of 2007 and 2012."
+                }
+            ],
+            "hops": [
+                "Virginia Woolf",
+                "the River Ouse"
+            ]
+        },
+        "the Bloomsbury Group": {
+            "term": "the Bloomsbury Group",
+            "passage": "The Bloomsbury Group was an influential group of British writers, intellectuals, and artists associated with the Bloomsbury district of London, England, during the early 20th century. The group was centered around the Stephen family, Vanessa Bell, Virginia Woolf, and their friends, including John Maynard Keynes, E.M. Forster, and Lytton Strachey. The group was known for their bohemian lifestyle and their promotion of the arts and progressive social and political ideals. They were also associated with the Bloomsbury Diaspora, a term used to describe the dispersal of the group's members after World War II. The Bloomsbury Group had a significant impact on British culture and literature, and their legacy continues to be felt today.",
+            "qae_pairs": [
+                {
+                    "question": "What was the location of the Bloomsbury Group in London?",
+                    "answer": "London",
+                    "explanation": "The Bloomsbury Group was centered around the Stephen family, Vanessa Bell, Virginia Woolf, and their friends, including John Maynard Keynes, E.M. Forster, and Lytton Strachey."
+                },
+                {
+                    "question": "Who was the sister of Virginia Woolf and a prominent member of the Bloomsbury Group?",
+                    "answer": "Vanessa Bell",
+                    "explanation": "The group was centered around the Stephen family, Vanessa Bell, Virginia Woolf, and their friends, including John Maynard Keynes, E.M. Forster, and Lytton Strachey. This sentence explains that the Bloomsbury Group was centered around the Stephen family, which includes Virginia Woolf and her sister Vanessa Bell, as well as their friends John Maynard Keynes, E.M. Forster, and Lytton Strachey."
+                }
+            ],
+            "hops": [
+                "Virginia Woolf",
+                "the Bloomsbury Group"
+            ]
+        },
+        "the University of London": {
+            "term": "the University of London",
+            "passage": "The University of London is a collegiate research university located in London, England. It was founded in 1836 and is one of the oldest and largest universities in the United Kingdom. It is a federal university, consisting of 18 independent member institutions, each with its own character and history. The university is organized into faculties and schools, which are responsible for teaching and research across a wide range of subjects. The university is a member of the Russell Group of research-intensive universities, the Association of Commonwealth Universities, and the European University Association. It is also a major centre for postgraduate education, with over 70,000 students enrolled in graduate programs. The university has produced numerous notable alumni, including 14 Nobel laureates, 31 presidents of countries, and 14 prime ministers.",
+            "qae_pairs": [
+                {
+                    "question": "What is the location of the University of London?",
+                    "answer": "England",
+                    "explanation": "The University of London is a collegiate research university located in London, England."
+                },
+                {
+                    "question": "What is the name of the group that the University of London is a member of?",
+                    "answer": "the Russell Group",
+                    "explanation": "The university is a member of the Russell Group of research-intensive universities, the Association of Commonwealth Universities, and the European University Association."
+                }
+            ],
+            "hops": [
+                "Virginia Woolf",
+                "the University of London"
+            ]
+        },
+        "the American Academy of Arts and Letters": {
+            "term": "the American Academy of Arts and Letters",
+            "passage": "The American Academy of Arts and Letters is a 250-member honorary society founded in 1898 by a group of writers and artists. The Academy's mission is to \"foster, assist, and sustain excellence in the arts\". Membership is by invitation only and includes architects, composers, writers, and artists from the United States. The Academy operates with a $10 million annual budget and provides support to artists through its various programs, including the Arts and Letters Awards, which recognize outstanding achievement in the arts. The Academy also maintains a gallery in New York City, which hosts exhibitions of works by its members and other artists. The American Academy of Arts and Letters is located in the historic Audubon Terrace complex in Washington Heights, Manhattan.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the Arts and Letters Awards given by the American Academy of Arts and Letters?",
+                    "answer": "Letters Awards",
+                    "explanation": "The American Academy of Arts and Letters is a 250-member honorary society founded in 1898 by a group of writers and artists. The Academy's mission is to foster, assist, and sustain excellence in the arts. Membership is by invitation only and includes architects, composers, writers, and artists from the United States. The Academy operates with a $10 million annual budget and provides support to artists through its various programs, including the Arts and Letters Awards, which recognize outstanding achievement in the arts."
+                },
+                {
+                    "question": "What is the location of the American Academy of Arts and Letters?",
+                    "answer": "Washington Heights",
+                    "explanation": "The American Academy of Arts and Letters is a 250-member honorary society founded in 1898 by a group of writers and artists."
+                }
+            ],
+            "hops": [
+                "Toni Morrison",
+                "the American Academy of Arts and Letters"
+            ]
+        },
+        "Princeton University": {
+            "term": "Princeton University",
+            "passage": "Princeton University is a private Ivy League research university located in Princeton, New Jersey, United States. It was founded in 1746 as the College of New Jersey, and was renamed Princeton University in 1896. The university has a strong emphasis on research and is consistently ranked among the top universities in the world. Princeton is known for its highly selective undergraduate program, which enrolls approximately 5,200 students, and its graduate programs, which include 26 doctoral and 36 master's degree programs. The university's faculty includes 1,200 members, who are leaders in their respective fields. Princeton's campus is located in a rural setting, and is home to numerous historic buildings and landmarks, including the iconic Princeton University Chapel. The university's athletic teams, known as the Princeton Tigers, compete in the NCAA Division I Ivy League conference.",
+            "qae_pairs": [
+                {
+                    "question": "What was the year that Princeton University was founded?",
+                    "answer": "1746",
+                    "explanation": "The university has a strong emphasis on research and is consistently ranked among the top universities in the world. Answer: The university has a strong emphasis on research and is consistently ranked among the top universities in the world."
+                },
+                {
+                    "question": "What conference does Princeton University's athletic teams compete in?",
+                    "answer": "the NCAA Division I Ivy League",
+                    "explanation": "The university's athletic teams, known as the Princeton Tigers, compete in the NCAA Division I Ivy League conference. Evidence sentence: The university's athletic teams, known as the Princeton Tigers, compete in the NCAA Division I Ivy League conference."
+                },
+                {
+                    "question": "What was the original name of Princeton University before it was renamed in 1896?",
+                    "answer": "the College of New Jersey",
+                    "explanation": "Princeton University is a private Ivy League research university located in Princeton, New Jersey, United States. It was founded in 1746 as the College of New Jersey, and was renamed Princeton University in 1896. Explanation: The passage explains that Princeton University was originally founded in 1746 as the College of New Jersey and was later renamed Princeton University in 1896."
+                },
+                {
+                    "question": "What year did Princeton University change its name from the College of New Jersey to Princeton University?",
+                    "answer": "1896",
+                    "explanation": "Princeton University is a private Ivy League research university located in Princeton, New Jersey, United States. It was founded in 1746 as the College of New Jersey, and was renamed Princeton University in 1896."
+                }
+            ],
+            "hops": [
+                "Toni Morrison",
+                "Princeton University"
+            ]
+        },
+        "El Espectador": {
+            "term": "El Espectador",
+            "passage": "El Espectador is a Colombian Spanish-language newspaper based in Bogotá, Colombia. It was founded on August 14, 1911, by Jorge Eliecer Gaitán, and is considered one of the most important newspapers in the country. The newspaper has been critical of Colombian governments and has been involved in several controversies, including the 1948 assassination of Gaitán, which triggered a period of political violence known as La Violencia. The newspaper has also been involved in investigations of corruption and drug trafficking. In 2014, the newspaper was sold to the Spanish media group Prisa.",
+            "qae_pairs": [
+                {
+                    "question": "What is the city where El Espectador newspaper is based?",
+                    "answer": "Bogotá",
+                    "explanation": "El Espectador is a Colombian Spanish-language newspaper based in Bogotá, Colombia."
+                }
+            ],
+            "hops": [
+                "Gabriel Garcia Marquez",
+                "El Espectador"
+            ]
+        },
+        "Aracataca": {
+            "term": "Aracataca",
+            "passage": "Aracataca is a town and municipality located in the Magdalena Department, Colombia. It is the birthplace of the famous Colombian writer Gabriel García Márquez, who based many of his works on the town and its people. The town is known for its lush vegetation, including the famous aracataca tree, which is said to have inspired the name of the town. The town is also home to a museum dedicated to García Márquez, which showcases his life and work. The municipality of Aracataca has a population of approximately 30,000 people, and is a popular tourist destination for those interested in Colombian culture and literature.",
+            "qae_pairs": [
+                {
+                    "question": "What is the department where Aracataca is located?",
+                    "answer": "the Magdalena Department",
+                    "explanation": "The town is known for its lush vegetation, including the famous aracataca tree, which is said to have inspired the name of the town."
+                }
+            ],
+            "hops": [
+                "Gabriel Garcia Marquez",
+                "Aracataca"
+            ]
+        },
+        "Mexico City": {
+            "term": "Mexico City",
+            "passage": "Mexico City, or Ciudad de México, is the capital and largest city of Mexico. It is located in the Valley of Mexico, a large valley in the high plateaus at the center of Mexico, at an altitude of 2,240 meters (7,350 ft). The city has a population of approximately 8.8 million people, making it one of the largest cities in the world. Mexico City is an important cultural and financial center in Latin America. It has a rich history, dating back to the Aztec city of Tenochtitlan, which was founded in 1325. The city was conquered by the Spanish in 1521, and much of its architecture and culture reflects the influence of the Spanish colonial period. Today, Mexico City is a bustling metropolis with a diverse population and a vibrant cultural scene. It is home to many museums, galleries, and theaters, as well as a thriving music and nightlife scene. The city is also known for its delicious cuisine, which incorporates a blend of indigenous and Spanish flavors. Despite its many attractions, Mexico City is also facing a number of challenges. The city is located in a seismically active region, and it has been hit by several devastating earthquakes in the past. In addition, the city is plagued by traffic congestion and air pollution, which have led to health problems for many residents. Overall, Mexico City is a fascinating and complex city, with a rich history and a vibrant present. It is a must-visit destination for anyone interested in Latin American culture and history.",
+            "qae_pairs": [
+                {
+                    "question": "What is the capital of Mexico City called?",
+                    "answer": "Ciudad de México",
+                    "explanation": "Mexico City is the capital and largest city of Mexico. Question: What is Mexico City? Answer: The capital and largest city of Mexico. Extract an evidence sentence from passage as explanation:   The city has a population of approximately 8.8 million people, making it one of the largest cities in the world. Question: What is the population of Mexico City? Answer: Approximately 8.8 million people."
+                },
+                {
+                    "question": "What was the name of the Aztec city that was founded in 1325 and located in the Valley of Mexico, which is now known as Mexico City?",
+                    "answer": "Tenochtitlan",
+                    "explanation": "The city was conquered by the Spanish in 1521, and much of its architecture and culture reflects the influence of the Spanish colonial period. This evidence sentence explains that the Spanish conquered the Aztec city of Tenochtitlan in 1521 and that their influence is still visible in the architecture and culture of Mexico City today."
+                },
+                {
+                    "question": "What is the name of the valley where Mexico City is located?",
+                    "answer": "the Valley of Mexico",
+                    "explanation": "The city has a population of approximately 8.8 million people, making it one of the largest cities in the world."
+                }
+            ],
+            "hops": [
+                "Gabriel Garcia Marquez",
+                "Mexico City"
+            ]
+        },
+        "Edinburgh": {
+            "term": "Edinburgh",
+            "passage": "1. Edinburgh is the capital city of Scotland, located in the southeast of the country, on the Firth of Forth's southern shore. 2. The city is well known for its rich history, stunning architecture, and vibrant cultural scene. 3. It is home to numerous iconic landmarks, including Edinburgh Castle, the Royal Mile, and Arthur's Seat. 4. The city is also famous for its festivals, including the Edinburgh International Festival, the Edinburgh Festival Fringe, and the Edinburgh Military Tattoo. 5. Edinburgh is a major tourist destination, attracting millions of visitors each year. 6. The city is also a major center of education, with several universities and colleges, including the University of Edinburgh, one of the oldest universities in the English-speaking world. 7. Edinburgh is a hub for business and finance, with a thriving financial district and many multinational companies based in the city. 8. The city is also known for its food and drink, with a wide range of restaurants and bars serving up traditional Scottish dishes and international cuisine. 9. Edinburgh is a city of contrasts, blending its rich history and stunning architecture with modern amenities and a vibrant cultural scene. 10. Whether you're interested in history, culture, food, or just soaking up the atmosphere, Edinburgh has something for everyone.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the iconic landmark located in Edinburgh that offers stunning views of the city and is a popular spot for hiking and outdoor activities?",
+                    "answer": "Arthur's Seat",
+                    "explanation": "Edinburgh is a major tourist destination, attracting millions of visitors each year."
+                },
+                {
+                    "question": "What country is Edinburgh the capital city of?",
+                    "answer": "Scotland",
+                    "explanation": "Edinburgh is a major tourist destination, attracting millions of visitors each year."
+                },
+                {
+                    "question": "What is the name of the river that flows through Edinburgh?",
+                    "answer": "Forth",
+                    "explanation": "Edinburgh is a major tourist destination, attracting millions of visitors each year. This evidence sentence explains that Edinburgh is a popular tourist destination and attracts a large number of visitors annually."
+                }
+            ],
+            "hops": [
+                "J.K. Rowling",
+                "Edinburgh"
+            ]
+        },
+        "Yate": {
+            "term": "Yate",
+            "passage": "Yate is a town and civil parish in South Gloucestershire, England, located 13 miles (21 km) north-east of Bristol, 10 miles (16 km) south-west of Bath and 10 miles (16 km) north-west of Chippenham. The town had a population of 20,000 in 2011. Yate is situated on the A431 road, which runs from Bath to Bristol, and is served by Yate railway station on the Bristol to Bath railway line. The town is surrounded by green belt land and is within easy reach of the Cotswold Hills and the Mendip Hills, both of which offer opportunities for walking and cycling. Yate is twinned with the French town of Saint-Germain-du-Val in the Loire Valley.",
+            "qae_pairs": [
+                {
+                    "question": "What was the population of Yate in the year 2011?",
+                    "answer": "2011",
+                    "explanation": "Yate is a town and civil parish in South Gloucestershire, England, located 13 miles (21 km) north-east of Bristol, 10 miles (16 km) south-west of Bath and 10 miles (16 km) north-west of Chippenham. The town had a population of 20,000 in 2011."
+                },
+                {
+                    "question": "What direction is Yate located in relation to Bristol?",
+                    "answer": "north-east",
+                    "explanation": "Yate is a town and civil parish in South Gloucestershire, England, located 13 miles (21 km) north-east of Bristol, 10 miles (16 km) south-west of Bath and 10 miles (16 km) north-west of Chippenham."
+                }
+            ],
+            "hops": [
+                "J.K. Rowling",
+                "Yate"
+            ]
+        },
+        "the Royal Society of Literature": {
+            "term": "the Royal Society of Literature",
+            "passage": "The Royal Society of Literature (RSL) is a learned society in the United Kingdom that was founded in 1820. It is dedicated to the promotion of literature and literary studies, and has a membership of around 1,000 writers, academics, and other literary figures. The society is based in London and has a library that contains over 200,000 volumes of books, manuscripts, and other materials related to literature. The RSL also organizes events and lectures, publishes a quarterly journal called the Review of English Studies, and awards various prizes and fellowships to writers and scholars. Some notable past presidents of the society include Virginia Woolf, T.S. Eliot, and Salman Rushdie.",
+            "qae_pairs": [
+                {
+                    "question": "What year was the Royal Society of Literature founded?",
+                    "answer": "1820",
+                    "explanation": "The society is based in London and has a library that contains over 200,000 volumes of books, manuscripts, and other materials related to literature."
+                },
+                {
+                    "question": "What is the name of the quarterly journal published by the Royal Society of Literature?",
+                    "answer": "the Review of English Studies",
+                    "explanation": "The society is based in London and has a library that contains over 200,000 volumes of books, manuscripts, and other materials related to literature."
+                },
+                {
+                    "question": "What is the location of the headquarters of the Royal Society of Literature?",
+                    "answer": "London",
+                    "explanation": "The society is based in London and has a library that contains over 200,000 volumes of books, manuscripts, and other materials related to literature."
+                }
+            ],
+            "hops": [
+                "J.K. Rowling",
+                "the Royal Society of Literature"
+            ]
+        },
+        "Maycomb": {
+            "term": "Maycomb",
+            "passage": "Maycomb is a fictional town in the novel To Kill a Mockingbird by Harper Lee. It is located in the state of Alabama and is the setting for the novel. The town is described as being small and sleepy, with a population of around 500 people. The town is also described as being deeply divided along racial lines, with African Americans living in a separate part of town and being subject to discrimination and violence. The novel follows the story of a young girl named Scout Finch, who lives in Maycomb with her father, Atticus, and her brother, Jem. The novel explores themes of racism, injustice, and the loss of innocence through the eyes of Scout and her family.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the character in To Kill a Mockingbird who is a lawyer and lives in Maycomb?",
+                    "answer": "Atticus",
+                    "explanation": "The novel follows the story of a young girl named Scout Finch, who lives in Maycomb with her father, Atticus, and her brother, Jem. This sentence explains that the novel is about a young girl named Scout Finch who lives in Maycomb with her father, Atticus, and her brother, Jem."
+                },
+                {
+                    "question": "What is the name of the young girl who lives in Maycomb with her father, Atticus, and her brother, Jem, in the novel To Kill a Mockingbird by Harper Lee?",
+                    "answer": "Scout Finch",
+                    "explanation": "The novel follows the story of a young girl named Scout Finch, who lives in Maycomb with her father, Atticus, and her brother, Jem."
+                }
+            ],
+            "hops": [
+                "Harper Lee",
+                "Maycomb"
+            ]
+        },
+        "Monroeville": {
+            "term": "Monroeville",
+            "passage": "Monroeville is a town in Monroe County, Alabama, United States. It is part of the Monroeville Micropolitan Statistical Area. The population was 6,391 at the 2010 census. The town is the county seat of Monroe County. Monroeville is the birthplace of author Harper Lee, who wrote the Pulitzer Prize-winning novel To Kill a Mockingbird. The novel is set in the fictional town of Maycomb, which is based on Monroeville. The town is also the setting for the 2019 film The Best of Enemies, which is based on a true story that took place in the town in 1971.",
+            "qae_pairs": [
+                {
+                    "question": "What is the state of Monroeville, which is the birthplace of author Harper Lee and the setting for the 2019 film The Best of Enemies?",
+                    "answer": "Alabama",
+                    "explanation": "Monroeville is a town in Monroe County, Alabama, United States. It is part of the Monroeville Micropolitan Statistical Area. The population was 6,391 at the 2010 census. The town is the county seat of Monroe County. Monroeville is the birthplace of author Harper Lee, who wrote the Pulitzer Prize-winning novel To Kill a Mockingbird. The novel is set in the fictional town of Maycomb, which is based on Monroeville."
+                },
+                {
+                    "question": "What was the population of Monroeville in 2010?",
+                    "answer": "2010",
+                    "explanation": "The population was 6,391 at the 2010 census."
+                }
+            ],
+            "hops": [
+                "Harper Lee",
+                "Monroeville"
+            ]
+        },
+        "New York City": {
+            "term": "New York City",
+            "passage": "New York City is the most populous city in the United States, with an estimated 8,336,817 residents as of 2020. It is located in the northeastern part of the country, in the state of New York, on the Atlantic coast. The city is a global hub of commerce, finance, media, art, fashion, research, technology, education, and entertainment. It is also one of the world's major cultural centers, with many museums, galleries, performance venues, and festivals. The city is home to the headquarters of the United Nations, and has been described as the cultural, financial, and media capital of the world.",
+            "qae_pairs": [
+                {
+                    "question": "What body of water is New York City located on?",
+                    "answer": "Atlantic",
+                    "explanation": "It is located in the northeastern part of the country, in the state of New York, on the Atlantic coast. This sentence explains that New York City is located on the Atlantic coast, which is the body of water that it is situated on."
+                }
+            ],
+            "hops": [
+                "Harper Lee",
+                "New York City"
+            ]
+        },
+        "the University of Alabama": {
+            "term": "the University of Alabama",
+            "passage": "The University of Alabama (UA) is a public research university located in Tuscaloosa, Alabama, United States, and the flagship university of the University of Alabama System. Founded in 1820, UA is the oldest and largest of the universities in Alabama. The university offers programs of study in a range of disciplines, including the arts and sciences, business, education, engineering, law, medicine, and nursing. UA is classified as a research university with high research activity by the Carnegie Classification of Institutions of Higher Education. The university has produced numerous notable alumni, including Nobel laureates, Pulitzer Prize winners, and Olympic gold medalists. UA's athletic teams, known as the Crimson Tide, compete in the National Collegiate Athletic Association (NCAA) Division I Southeastern Conference (SEC). The university's football team has won 17 national championships, and its basketball team has won 16 conference championships. UA is also known for its beautiful campus, which features historic buildings, gardens, and sculptures.",
+            "qae_pairs": [
+                {
+                    "question": "What is the location of the University of Alabama?",
+                    "answer": "United States",
+                    "explanation": "The University of Alabama (UA) is a public research university located in Tuscaloosa, Alabama, United States."
+                }
+            ],
+            "hops": [
+                "Harper Lee",
+                "the University of Alabama"
+            ]
+        }
+    }
+}

@@ -1,0 +1,781 @@
+{
+    "first_hops": {
+        "Donald Trump": {
+            "term": "Donald Trump",
+            "passage": "Donald Trump is an American businessman, television personality, and politician who served as the 45th president of the United States from 2017 to 2021. He was born on June 14, 1946, in Queens, New York City, to parents Mary Anne and Fred Trump. Trump grew up in the Jamaica Estates neighborhood of Queens and attended the Kew-Forest School and the New York Military Academy. He then went on to attend the Wharton School of the University of Pennsylvania, where he graduated with a Bachelor of Science in economics in 1968. After graduating from college, Trump joined his family's real estate business, Elizabeth Trump & Son, which was later renamed The Trump Organization. He quickly rose through the ranks and became the company's president in 1974. Under his leadership, the company expanded its portfolio to include casinos, hotels, and other properties. Trump also gained fame as a television personality, hosting the reality show The Apprentice from 2004 to 2015. Trump's political career began in 2015 when he announced his candidacy for the Republican nomination for president. He ran on a platform of anti-immigration, anti-trade, and anti-Obamacare policies, and his campaign was marked by controversial statements and actions. Despite facing criticism from many in the Republican Party, Trump won the nomination and went on to defeat Democratic nominee Hillary Clinton in the general election. He was inaugurated as president on January 20, 2017. During his presidency, Trump pursued a number of controversial policies, including the travel ban on citizens of several predominantly Muslim countries, the construction of a wall along the U.",
+            "qae_pairs": [
+                {
+                    "question": "1. What is the name of the company that Donald Trump joined after graduating from college? 2. What is the name of the company that Donald Trump's family owned before he joined it? 3. What is the name of the company that Donald Trump founded after leaving college? 4.",
+                    "answer": "The Trump Organization",
+                    "explanation": "1. Trump grew up in the Jamaica Estates neighborhood of Queens and attended the Kew-Forest School and the New York Military Academy."
+                },
+                {
+                    "question": "What is Donald Trump's birthplace?",
+                    "answer": "Queens",
+                    "explanation": "Trump grew up in the Jamaica Estates neighborhood of Queens and attended the Kew-Forest School and the New York Military Academy."
+                },
+                {
+                    "question": "What is the name of the neighborhood in Queens, New York City where Donald Trump grew up?",
+                    "answer": "Jamaica Estates",
+                    "explanation": "Trump grew up in the Jamaica Estates neighborhood of Queens and attended the Kew-Forest School and the New York Military Academy."
+                }
+            ],
+            "hops": [
+                "Donald Trump"
+            ]
+        },
+        "Joe Biden": {
+            "term": "Joe Biden",
+            "passage": "Joe Biden is an American politician who served as the 46th President of the United States from 2021 to 2025. He previously served as the 47th Vice President of the United States from 2009 to 2017 under President Barack Obama. Biden was born in Scranton, Pennsylvania, and attended the University of Delaware and Syracuse Law School. He began his political career in 1972, when he was elected to the New Castle County Council in Delaware. Biden served in the United States Senate from 1973 to 2009, becoming the sixth-longest serving senator in U.S. history. He was a member of the Judiciary Committee and the Foreign Relations Committee, and served as Chairman of the Judiciary Committee from 1987 to 1995. Biden was a candidate for the Democratic nomination for President in 1988 and 2008, but withdrew both times. He is a member of the Democratic Party and has been described as a moderate Democrat. Biden is married to Jill Biden, and they have one son, Hunter, and one daughter, Ashley.",
+            "qae_pairs": [
+                {
+                    "question": "What year did Joe Biden become the 46th President of the United States?",
+                    "answer": "2021",
+                    "explanation": "Joe Biden is an American politician who served as the 46th President of the United States from 2021 to 2025."
+                },
+                {
+                    "question": "1. What is the name of the country that Joe Biden served as the President of? 2. In which country did Joe Biden attend the University of Delaware? 3. What is the name of the country where Joe Biden was born? 4. What is the name of the country",
+                    "answer": "the United States",
+                    "explanation": "Biden was born in Scranton, Pennsylvania, and attended the University of Delaware and Syracuse Law School."
+                },
+                {
+                    "question": "1. What is the political party that Joe Biden belongs to? 2. What is the political party that Barack Obama belonged to? 3. What is the political party that Jill Biden belongs to? 4. What is the political party that Hunter Biden belongs to?",
+                    "answer": "the Democratic Party",
+                    "explanation": "Biden was born in Scranton, Pennsylvania, and attended the University of Delaware and Syracuse Law School."
+                },
+                {
+                    "question": "What year did Joe Biden serve as the 46th President of the United States?",
+                    "answer": "2025",
+                    "explanation": "Joe Biden served as the 46th President of the United States from 2021 to 2025."
+                },
+                {
+                    "question": "What year did Joe Biden become the 47th Vice President of the United States?",
+                    "answer": "2017",
+                    "explanation": "Biden was born in Scranton, Pennsylvania, and attended the University of Delaware and Syracuse Law School."
+                },
+                {
+                    "question": "What year was Joe Biden elected to the New Castle County Council in Delaware?",
+                    "answer": "1972",
+                    "explanation": "Joe Biden was elected to the New Castle County Council in Delaware in 1972."
+                }
+            ],
+            "hops": [
+                "Joe Biden"
+            ]
+        },
+        "Elizabeth Warren": {
+            "term": "Elizabeth Warren",
+            "passage": "Elizabeth Warren (born June 22, 1949) is an American politician and former academic, serving as the senior United States Senator from Massachusetts since 2013. She was a prominent scholar specializing in bankruptcy law and taught at the University of Pennsylvania Law School and Harvard Law School. Warren is a member of the Democratic Party and was a prominent figure in the creation of the Consumer Financial Protection Bureau (CFPB). She was elected to the Senate in 2012, defeating incumbent Republican Scott Brown. Warren is considered a progressive and has been a vocal critic of Wall Street and the financial industry. She has also been a strong advocate for consumer protection and financial reform. Warren has been a candidate for President of the United States in the 2020 election.",
+            "qae_pairs": [
+                {
+                    "question": "Who did Elizabeth Warren defeat in the 2012 Senate election?",
+                    "answer": "Scott Brown",
+                    "explanation": "She was elected to the Senate in 2012, defeating incumbent Republican Scott Brown."
+                },
+                {
+                    "question": "'What is the Consumer Financial Protection Bureau?' Passage about George H. W. Bush: George Herbert Walker Bush (June 12, 1924 – November 30, 2018) was an American politician who served as the 41st",
+                    "answer": "CFPB",
+                    "explanation": "Passage: Elizabeth Warren (born June 22, 1949) is an American politician and former academic, serving as the senior United States Senator from Massachusetts since 2013. She was a prominent scholar specializing in bankruptcy law and taught at the University of Pennsylvania Law School and Harvard Law School. Warren is a member of the Democratic Party and was a prominent figure in the creation of the Consumer Financial Protection Bureau (CFPB). She was elected to the Senate in 2012, defeating incumbent Republican Scott Brown."
+                },
+                {
+                    "question": "What year did Elizabeth Warren become a senator?",
+                    "answer": "2013",
+                    "explanation": "Elizabeth Warren (born June 22, 1949) is an American politician and former academic, serving as the senior United States Senator from Massachusetts since 2013."
+                },
+                {
+                    "question": "What year did Elizabeth Warren defeat incumbent Republican Scott Brown to become a United States Senator from Massachusetts?",
+                    "answer": "2012",
+                    "explanation": "Elizabeth Warren (born June 22, 1949) is an American politician and former academic, serving as the senior United States Senator from Massachusetts since 2013. She was a prominent scholar specializing in bankruptcy law and taught at the University of Pennsylvania Law School and Harvard Law School. Warren is a member of the Democratic Party and was a prominent figure in the creation of the Consumer Financial Protection Bureau (CFPB). She was elected to the Senate in 2012, defeating incumbent Republican Scott Brown."
+                },
+                {
+                    "question": "What is Elizabeth Warren's birthday?",
+                    "answer": "June 22, 1949",
+                    "explanation": "Senator Elizabeth Warren was born on June 22, 1949."
+                },
+                {
+                    "question": "What was Elizabeth Warren a prominent figure in the creation of?",
+                    "answer": "the Consumer Financial Protection Bureau",
+                    "explanation": "Warren is a member of the Democratic Party and was a prominent figure in the creation of the Consumer Financial Protection Bureau (CFPB)."
+                }
+            ],
+            "hops": [
+                "Elizabeth Warren"
+            ]
+        },
+        "Bernie Sanders": {
+            "term": "Bernie Sanders",
+            "passage": "Bernie Sanders is an American politician who has served as the junior United States Senator from Vermont since 2007. Sanders is the longest-serving independent in congressional history. He was born on September 8, 1941, in Brooklyn, New York, and grew up in a small, working-class Jewish family. Sanders attended Brooklyn College and later the University of Chicago, where he became involved in the civil rights movement. He moved to Vermont in 1968 and worked as a carpenter and documentary filmmaker before being elected to the Vermont House of Representatives in 1981. Sanders served as a congressman from Vermont's at-large district in the U.S. House of Representatives from 1991 to 2007. Sanders is a democratic socialist and has been a member of the Democratic Party since 1988. He is known for his progressive stances on issues such as income inequality, climate change, and universal healthcare. Sanders ran for president in 2016 and 2020, winning the popular vote in the latter election but losing in the Electoral College. He has been a vocal critic of corporate America and has advocated for a more equitable distribution of wealth. Sanders has also been a strong advocate for workers' rights and has pushed for higher minimum wages and stronger labor protections. Sanders has been married to Jane O'Meara Sanders since 1988. They have one child together and four grandchildren. Sanders is a prolific writer and has authored several books, including \"Our Revolution: A Future to Believe In\" and \"Where We Go From Here: Two Years in the Resistance.\"",
+            "qae_pairs": [
+                {
+                    "question": "What year did Bernie Sanders begin serving as a senator from Vermont?",
+                    "answer": "2007",
+                    "explanation": "Sanders is the longest-serving independent in congressional history."
+                },
+                {
+                    "question": "\"Which member of the Sanders family has been a prominent advocate for workers' rights and has pushed for higher minimum wages and stronger labor protections?\"",
+                    "answer": "Jane O'Meara Sanders",
+                    "explanation": "Jane O'Meara Sanders has been a prolific writer and has authored several books, including Our Revolution: A Future to Believe In and Where We Go From Here: Two Years in the Resistance."
+                },
+                {
+                    "question": "Which year did Bernie Sanders run for president?",
+                    "answer": "2020",
+                    "explanation": "Sanders ran for president in 2020 and won the popular vote in the latter election but lost in the Electoral College."
+                },
+                {
+                    "question": "What year did Bernie Sanders move to Vermont?",
+                    "answer": "1968",
+                    "explanation": "Sanders moved to Vermont in 1968 and worked as a carpenter and documentary filmmaker before being elected to the Vermont House of Representatives in 1981."
+                }
+            ],
+            "hops": [
+                "Bernie Sanders"
+            ]
+        },
+        "Kamala Harris": {
+            "term": "Kamala Harris",
+            "passage": "Kamala Devi Harris (born October 20, 1964) is an American lawyer and politician serving as the junior United States Senator from California since 2017. She is a member of the Democratic Party and was the 32nd Attorney General of California from 2011 to 2017. Harris is the first woman, first African American, and first South Asian American to serve as California's Attorney General. She was a candidate for the Democratic nomination for President of the United States in the 2020 election. Harris was born in Oakland, California, to an Indian American mother and Jamaican American father. She attended Howard University, where she earned her Bachelor of Arts degree in political science and economics. She then earned her Juris Doctor from the University of California, Hastings College of the Law. Before her election as Attorney General, Harris served as District Attorney of San Francisco from 2004 to 2011. She was the first woman, first African American, and first South Asian American to hold that office. During her tenure as District Attorney, Harris implemented a number of criminal justice reforms, including the use of alternative sentencing for non-violent offenders and the creation of a unit to investigate and prosecute sex trafficking. As Attorney General of California, Harris focused on issues such as fighting climate change, protecting consumers, and holding banks and corporations accountable for their actions. She also worked to expand access to healthcare and to address the state's affordable housing crisis. In 2020, Harris ran for President of the United States, becoming the first South Asian American and the third woman to be a major party nominee for President.",
+            "qae_pairs": [
+                {
+                    "question": "What year did Kamala Harris run for President of the United States?",
+                    "answer": "2020",
+                    "explanation": "Harris was born in Oakland, California, to an Indian American mother and Jamaican American father."
+                },
+                {
+                    "question": "What is the political party that Kamala Harris belongs to?",
+                    "answer": "the Democratic Party",
+                    "explanation": "She was the first woman, first African American, and first South Asian American to hold that office. This sentence is an evidence sentence because it provides specific information about Kamala Harris's background and accomplishments, and it supports the statement that Harris is a trailblazer who has broken barriers in her career."
+                },
+                {
+                    "question": "What is the birthplace of Kamala Harris?",
+                    "answer": "Oakland",
+                    "explanation": "Kamala Harris was born in Oakland, California, to an Indian American mother and Jamaican American father."
+                },
+                {
+                    "question": "What is Kamala Harris's birthday?",
+                    "answer": "October 20, 1964",
+                    "explanation": "Harris is the first woman, first African American, and first South Asian American to serve as California's Attorney General."
+                },
+                {
+                    "question": "What is the name of the university that Kamala Harris attended, where she earned her Bachelor of Arts degree in political science and economics?",
+                    "answer": "Howard University",
+                    "explanation": "Kamala Harris was born in Oakland, California, to an Indian American mother and Jamaican American father. She attended Howard University, where she earned her Bachelor of Arts degree in political science and economics."
+                }
+            ],
+            "hops": [
+                "Kamala Harris"
+            ]
+        },
+        "Pete Buttigieg": {
+            "term": "Pete Buttigieg",
+            "passage": "Pete Buttigieg (born January 19, 1982) is an American politician and former military intelligence officer who served as the 32nd mayor of South Bend, Indiana, from 2012 to 2020. He is a member of the Democratic Party and was a candidate in the 2020 United States presidential election. Buttigieg was born in South Bend, Indiana, and attended Harvard University, where he graduated with a degree in mathematics and computer science. He then attended Oxford University as a Rhodes Scholar, where he earned a degree in philosophy, politics, and economics. After completing his education, Buttigieg served in the United States Navy Reserve as a lieutenant, and was deployed to Afghanistan in 2014. He left the military in 2017 with the rank of lieutenant commander. In 2011, Buttigieg was elected to the South Bend City Council, and he was re-elected in 2015. He was elected mayor of South Bend in 2011, becoming the youngest mayor of a city with a population over 100,000 in the United States at the time. He was re-elected in 2015 and again in 2019. During his time as mayor, Buttigieg focused on economic development, infrastructure improvements, and public safety. He also worked to make South Bend a more welcoming and inclusive city, including by supporting the city's LGBTQ+ community. In addition to his political career, Buttigieg is a published author.",
+            "qae_pairs": [
+                {
+                    "question": "What year was Pete Buttigieg elected mayor of South Bend, Indiana?",
+                    "answer": "2011",
+                    "explanation": "Pete Buttigieg was elected mayor of South Bend, Indiana in 2011, becoming the youngest mayor of a city with a population over 100,000 in the United States at the time."
+                },
+                {
+                    "question": "What year did Pete Buttigieg leave the military?",
+                    "answer": "2017",
+                    "explanation": "Pete Buttigieg left the military in 2017 with the rank of lieutenant commander."
+                },
+                {
+                    "question": "What is the political party that Pete Buttigieg belongs to?",
+                    "answer": "the Democratic Party",
+                    "explanation": "He left the military in 2017 with the rank of lieutenant commander."
+                },
+                {
+                    "question": "What is the name of the university that Pete Buttigieg attended, where he graduated with a degree in mathematics and computer science?",
+                    "answer": "Harvard University",
+                    "explanation": "Pete Buttigieg was born in South Bend, Indiana, and attended Harvard University, where he graduated with a degree in mathematics and computer science."
+                }
+            ],
+            "hops": [
+                "Pete Buttigieg"
+            ]
+        },
+        "Nancy Pelosi": {
+            "term": "Nancy Pelosi",
+            "passage": "Nancy Patricia D'Alesandro Pelosi is an American politician who served as the Speaker of the House of Representatives from 2007 to 2011 and is currently serving as the Minority Leader of the House of Representatives since 2019. Pelosi is a member of the Democratic Party and has represented California's 12th congressional district, which consists of four-fifths of the city and county of San Francisco, since 1987. She is the only woman to have served as Speaker of the House and the highest-ranking female politician in United States history. Pelosi was born in Baltimore, Maryland, and raised in a politically active family. Her father, Thomas D'Alesandro Jr., was a U.S. congressman and the mayor of Baltimore. Pelosi graduated from Trinity College in Washington, D.C., and went on to earn a J.D. degree from the Valparaiso University School of Law. She worked as a lawyer and a political activist before being elected to Congress in 1987. Pelosi has been a key figure in Democratic politics for over three decades and has been involved in many major legislative initiatives, including the Affordable Care Act and the American Recovery and Reinvestment Act. She has also been a vocal advocate for women's rights and LGBTQ+ rights. Pelosi has been married to Paul Pelosi since 1963 and has five children and nine grandchildren.",
+            "qae_pairs": [
+                {
+                    "question": "What year did Nancy Pelosi first get elected to Congress?",
+                    "answer": "1987",
+                    "explanation": "Pelosi is a member of the Democratic Party and has represented California's 12th congressional district, which consists of four-fifths of the city and county of San Francisco, since 1987."
+                },
+                {
+                    "question": "What is the name of the law school that Nancy Pelosi graduated from?",
+                    "answer": "the Valparaiso University School of Law",
+                    "explanation": "Pelosi graduated from Trinity College in Washington, D.C., and went on to earn a J.D. degree from the Valparaiso University School of Law."
+                },
+                {
+                    "question": "What is the name of the college that Nancy Pelosi graduated from?",
+                    "answer": "Trinity College",
+                    "explanation": "Pelosi graduated from Trinity College in Washington, D.C., and went on to earn a J.D. degree from the Valparaiso University School of Law."
+                },
+                {
+                    "question": "\"Which city is Nancy Pelosi the representative of in the U.S. House of Representatives?\"",
+                    "answer": "San Francisco",
+                    "explanation": "Pelosi is a member of the Democratic Party and has represented California's 12th congressional district, which consists of four-fifths of the city and county of San Francisco, since 1987."
+                },
+                {
+                    "question": "What year did Nancy Pelosi become the Minority Leader of the House of Representatives?",
+                    "answer": "2019",
+                    "explanation": "Nancy Pelosi is currently serving as the Minority Leader of the House of Representatives since 2019."
+                },
+                {
+                    "question": "Who is Nancy Pelosi's father?",
+                    "answer": "Thomas D'Alesandro Jr",
+                    "explanation": "Pelosi is a member of the Democratic Party and has represented California's 12th congressional district, which consists of four-fifths of the city and county of San Francisco, since 1987. Explanation: Nancy Pelosi is a member of the Democratic Party and has represented California's 12th congressional district, which consists of four-fifths of the city and county of San Francisco, since 1987."
+                },
+                {
+                    "question": "What year did Nancy Pelosi get married?",
+                    "answer": "1963",
+                    "explanation": "Nancy Pelosi has been a key figure in Democratic politics for over three decades and has been involved in many major legislative initiatives, including the Affordable Care Act and the American Recovery and Reinvestment Act. She has also been a vocal advocate for women's rights and LGBTQ+ rights. Pelosi has been married to Paul Pelosi since 1963 and has five children and nine grandchildren."
+                }
+            ],
+            "hops": [
+                "Nancy Pelosi"
+            ]
+        },
+        "Mitch McConnell": {
+            "term": "Mitch McConnell",
+            "passage": "Mitch McConnell is an American politician and the senior United States Senator from Kentucky. A member of the Republican Party, he has served in the Senate since 1985. McConnell was the Senate Majority Leader from 2015 to 2021 and is currently the Minority Leader. McConnell was born in Tuscumbia, Alabama, and raised in Louisville, Kentucky. He attended the University of Louisville and received his law degree from the University of Kentucky. After working as a lawyer and as an assistant to Senator Marlow Cook, McConnell was elected to the Senate in 1984. Throughout his career, McConnell has been known for his conservative views and his ability to work across the aisle. He has been a strong advocate for free trade and has worked to reduce government spending. He has also been a vocal opponent of President Barack Obama's healthcare reform law and has been a leading voice in the Republican Party. In 2017, McConnell came under fire for his role in the failed attempt to repeal the Affordable Care Act. He was also criticized for his handling of the Brett Kavanaugh Supreme Court nomination, which was marred by allegations of sexual misconduct. Despite these controversies, McConnell remains a powerful force in the Senate and is widely respected for his knowledge of Senate procedure and his ability to get things done. He has been re-elected to the Senate six times and is currently serving his seventh term.",
+            "qae_pairs": [
+                {
+                    "question": "'What is the birthplace of Mitch McConnell?' 'What is the capital of Alabama?' 'What is the name of the state where Mitch McConnell was born?' 'What is the name of the city where Mitch McConnell was raised?'",
+                    "answer": "Tuscumbia",
+                    "explanation": "McConnell was born in Tuscumbia, Alabama, and raised in Louisville, Kentucky."
+                },
+                {
+                    "question": "What is the political party that Mitch McConnell belongs to?",
+                    "answer": "the Republican Party",
+                    "explanation": "He has been a vocal opponent of President Barack Obama's healthcare reform law and has been a leading voice in the Republican Party."
+                },
+                {
+                    "question": "What is the name of the university that Mitch McConnell attended?",
+                    "answer": "the University of Louisville",
+                    "explanation": "After working as a lawyer and as an assistant to Senator Marlow Cook, McConnell was elected to the Senate in 1984. This sentence explains that after working as a lawyer and as an assistant to Senator Marlow Cook, Mitch McConnell was elected to the Senate in 1984. This sentence provides evidence that McConnell had experience in law and politics before being elected to the Senate."
+                },
+                {
+                    "question": "What year is it?",
+                    "answer": "2021",
+                    "explanation": "McConnell was the Senate Majority Leader from 2015 to 2021 and is currently the Minority Leader. This sentence provides evidence that Mitch McConnell was the Senate Majority Leader from 2015 to 2021 and is currently the Minority Leader."
+                },
+                {
+                    "question": "What year did Mitch McConnell come under fire for his role in the failed attempt to repeal the Affordable Care Act?",
+                    "answer": "2017",
+                    "explanation": "McConnell was the Senate Majority Leader from 2015 to 2021 and is currently the Minority Leader."
+                },
+                {
+                    "question": "What is the name of the upper chamber of the United States Congress?",
+                    "answer": "Senate",
+                    "explanation": "He has been a strong advocate for free trade and has worked to reduce government spending."
+                },
+                {
+                    "question": "Who was the first African American president of the United States?",
+                    "answer": "Barack Obama",
+                    "explanation": "He has been a vocal opponent of President Barack Obama's healthcare reform law and has been a leading voice in the Republican Party. Evidence sentence: McConnell has been a vocal opponent of President Barack Obama's healthcare reform law and has been a leading voice in the Republican Party."
+                },
+                {
+                    "question": "Who was Mitch McConnell's assistant?",
+                    "answer": "Marlow Cook",
+                    "explanation": "After working as a lawyer and as an assistant to Senator Marlow Cook, McConnell was elected to the Senate in 1984."
+                },
+                {
+                    "question": "What year did Mitch McConnell become the Senate Majority Leader?",
+                    "answer": "2015",
+                    "explanation": "McConnell was the Senate Majority Leader from 2015 to 2021 and is currently the Minority Leader."
+                }
+            ],
+            "hops": [
+                "Mitch McConnell"
+            ]
+        },
+        "Alexandria Ocasio": {
+            "term": "Alexandria Ocasio",
+            "passage": "Alexandria Ocasio-Cortez is an American politician, activist, and community organizer. She is the U.S. Representative for New York's 14th congressional district, serving since 2019. The district includes parts of the Bronx and Queens in New York City. Ocasio-Cortez is a member of the Democratic Party and a progressive. Ocasio-Cortez was born on October 3, 1989, in the Bronx, New York City. She grew up in a working-class family and attended public schools in the Bronx. She graduated from Boston University in 2011 with a degree in international relations and economics. After graduation, she worked as a waitress, a bartender, and a coordinator for a political campaign. In 2018, Ocasio-Cortez ran for the U.S. House of Representatives in New York's 14th congressional district. She ran as a Democrat and a progressive, advocating for policies such as Medicare for All, a federal jobs guarantee, and a Green New Deal. She won the primary election in June 2018, defeating the incumbent, Joseph Crowley, in a surprise upset. She went on to win the general election in November 2018, becoming the youngest woman ever elected to Congress. Since taking office, Ocasio-Cortez has been a vocal advocate for progressive policies and has become a prominent figure in American politics. She has been involved in several high-profile controversies, including criticism of the Trump administration and her own party's leadership.",
+            "qae_pairs": [
+                {
+                    "question": "Which city is Alexandria Ocasio-Cortez the U.S. Representative for?",
+                    "answer": "New York's",
+                    "explanation": "Alexandria Ocasio-Cortez is the U.S. Representative for New York's 14th congressional district, serving since 2019."
+                },
+                {
+                    "question": "What is the name of the legislative branch of the federal government of the United States?",
+                    "answer": "Congress",
+                    "explanation": "Ocasio-Cortez was born on October 3, 1989, in the Bronx, New York City. She grew up in a working-class family and attended public schools in the Bronx. She graduated from Boston University in 2011 with a degree in international relations and economics. Explanation: This sentence provides biographical information about Alexandria Ocasio-Cortez, including her birthdate, childhood, education, and graduation from Boston University."
+                },
+                {
+                    "question": "1. Who is Alexandria Ocasio-Cortez's predecessor in Congress? 2. Who is the current Speaker of the House of Representatives? 3. Who is the current President of the United States? 4. Who is the current Governor of New York? 5",
+                    "answer": "Joseph Crowley",
+                    "explanation": "Ocasio-Cortez was born on October 3, 1989, in the Bronx, New York City. She grew up in a working-class family and attended public schools in the Bronx. She graduated from Boston University in 2011 with a degree in international relations and economics."
+                },
+                {
+                    "question": "1. What is the name of the healthcare program for people over 65 in the United States? 2. What is the name of the healthcare program for people with disabilities in the United States? 3. What is the name of the healthcare program for low-income families in",
+                    "answer": "Medicare",
+                    "explanation": "Ocasio-Cortez ran as a Democrat and a progressive, advocating for policies such as Medicare for All, a federal jobs guarantee, and a Green New Deal."
+                },
+                {
+                    "question": "What year did Alexandria Ocasio-Cortez become a U.S. Representative?",
+                    "answer": "2019",
+                    "explanation": "Ocasio-Cortez was born on October 3, 1989, in the Bronx, New York City. She grew up in a working-class family and attended public schools in the Bronx. She graduated from Boston University in 2011 with a degree in international relations and economics. This sentence is an evidence sentence because it provides information about Alexandria Ocasio-Cortez's background and education, which helps to explain why she became a U.S. Representative in 2019."
+                },
+                {
+                    "question": "'In which borough of New York City is Alexandria Ocasio-Cortez from?'",
+                    "answer": "Bronx",
+                    "explanation": "Ocasio-Cortez was born on October 3, 1989, in the Bronx, New York City. She grew up in a working-class family and attended public schools in the Bronx. She graduated from Boston University in 2011 with a degree in international relations and economics."
+                },
+                {
+                    "question": "What is the name of the university that Alexandria Ocasio-Cortez graduated from in 2011 with a degree in international relations and economics?",
+                    "answer": "Boston University",
+                    "explanation": "Ocasio-Cortez was born on October 3, 1989, in the Bronx, New York City. She grew up in a working-class family and attended public schools in the Bronx. She graduated from Boston University in 2011 with a degree in international relations and economics. Evidence sentence: Ocasio-Cortez graduated from Boston University in 2011 with a degree in international relations and economics."
+                }
+            ],
+            "hops": [
+                "Alexandria Ocasio"
+            ]
+        },
+        "Chuck Schumer": {
+            "term": "Chuck Schumer",
+            "passage": "Chuck Schumer (born November 23, 1950) is an American politician serving as the senior United States Senator from New York and the Senate Minority Leader, a position he has held since 2021. A member of the Democratic Party, he has served in the Senate since 1999. Schumer was born in Brooklyn, New York, and attended public schools in the borough. He went on to attend Harvard College, where he earned his Bachelor of Arts degree in 1972. After graduating, he worked as a legal assistant in the New York State Assembly and later as a staff member for several Democratic members of Congress. In 1981, Schumer was elected to the New York State Assembly, where he served for six years. He was then elected to the United States House of Representatives in 1988, where he served for eight years. During his time in the House, he was known for his work on banking and financial services issues, and he was a member of the House Judiciary Committee. In 1998, Schumer was elected to the Senate, succeeding fellow Democrat Daniel Patrick Moynihan. He has been reelected to the Senate four times since then, most recently in 2020. In the Senate, Schumer has been known for his work on issues related to finance, banking, and trade, as well as his advocacy for social justice and civil rights. Schumer has also been a prominent figure in Democratic Party politics. He served as the Chairman of the Democratic Senatorial Campaign Committee from 2005 to 2021, during which time the Democrats gained control of the Senate in the 2006 and 2008 elections.",
+            "qae_pairs": [
+                {
+                    "question": "Which borough of New York City is Chuck Schumer from?",
+                    "answer": "Brooklyn",
+                    "explanation": "Schumer was born in Brooklyn, New York, and attended public schools in the borough."
+                },
+                {
+                    "question": "What is the political party that Chuck Schumer belongs to?",
+                    "answer": "the Democratic Party",
+                    "explanation": "Schumer was elected to the United States House of Representatives in 1988, where he served for eight years. During his time in the House, he was known for his work on banking and financial services issues, and he was a member of the House Judiciary Committee."
+                },
+                {
+                    "question": "What is the name of the educational institution that Chuck Schumer attended?",
+                    "answer": "Harvard College",
+                    "explanation": "Schumer was born in Brooklyn, New York, and attended public schools in the borough. He went on to attend Harvard College, where he earned his Bachelor of Arts degree in 1972."
+                },
+                {
+                    "question": "What year did Chuck Schumer get elected to the United States House of Representatives?",
+                    "answer": "1988",
+                    "explanation": "Schumer was elected to the United States House of Representatives in 1988, where he served for eight years."
+                },
+                {
+                    "question": "What year did the Democrats gain control of the Senate?",
+                    "answer": "2008",
+                    "explanation": "During his time in the House, he was known for his work on banking and financial services issues, and he was a member of the House Judiciary Committee."
+                },
+                {
+                    "question": "What is the highest degree that Chuck Schumer has earned?",
+                    "answer": "Bachelor of Arts",
+                    "explanation": "Schumer was born in Brooklyn, New York, and attended public schools in the borough. He went on to attend Harvard College, where he earned his Bachelor of Arts degree in 1972."
+                },
+                {
+                    "question": "What year did Chuck Schumer first get elected to the Senate?",
+                    "answer": "1998",
+                    "explanation": "In 1998, Schumer was elected to the Senate, succeeding fellow Democrat Daniel Patrick Moynihan."
+                },
+                {
+                    "question": "What is the name of the organization that Chuck Schumer served as the chairman of from 2005 to 2021?",
+                    "answer": "the Democratic Senatorial Campaign Committee",
+                    "explanation": "Chuck Schumer served as the Chairman of the Democratic Senatorial Campaign Committee from 2005 to 2021."
+                }
+            ],
+            "hops": [
+                "Chuck Schumer"
+            ]
+        }
+    },
+    "second_hops": {
+        "The Trump Organization": {
+            "term": "The Trump Organization",
+            "passage": "The Trump Organization is an American multinational conglomerate based in New York City. It was founded in 1923 by Donald Trump's grandfather, Friedrich Trump, and is currently headed by Donald Trump, Jr. and Eric Trump. The company is involved in a variety of businesses, including real estate development, construction, property management, hospitality, and entertainment. The Trump Organization has properties in many countries around the world, including the United States, Canada, the United Kingdom, Scotland, Ireland, Dubai, and Panama. The company has been involved in several controversies, including allegations of discrimination against minority tenants and lawsuits over unpaid bills. Despite these controversies, the Trump Organization has been successful in many areas, including real estate development and branding.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the person who currently heads The Trump Organization along with Eric Trump?",
+                    "answer": "Jr",
+                    "explanation": "The Trump Organization is currently headed by Donald Trump, Jr. and Eric Trump."
+                },
+                {
+                    "question": "Which country in Europe does The Trump Organization have properties in?",
+                    "answer": "Scotland",
+                    "explanation": "The Trump Organization has properties in many countries around the world, including the United States, Canada, the United Kingdom, Scotland, Ireland, Dubai, and Panama."
+                }
+            ],
+            "hops": [
+                "Donald Trump",
+                "The Trump Organization"
+            ]
+        },
+        "Jamaica Estates": {
+            "term": "Jamaica Estates",
+            "passage": "Jamaica Estates is a neighborhood in the New York City borough of Queens. It is located in the central part of the borough, and is bordered by Union Turnpike to the north, 188th Street to the south, 84th Avenue to the east, and 172nd Street to the west. The neighborhood is primarily residential, with a mix of single-family homes and apartment buildings. It is known for its large lots and tree-lined streets, and is considered one of the most affluent neighborhoods in Queens. The neighborhood is served by the New York City Subway's E and ​F trains at the Jamaica Estates station, as well as several bus routes. The neighborhood is home to several parks, including the 150-acre Alley Pond Park, which features hiking trails, a nature center, and a public golf course. Jamaica Estates is also home to the Jamaica Estates Day Festival, an annual event that features live music, food vendors, and other activities.",
+            "qae_pairs": [
+                {
+                    "question": "What is the borough that Jamaica Estates is located in?",
+                    "answer": "Queens",
+                    "explanation": "The neighborhood is primarily residential, with a mix of single-family homes and apartment buildings. Evidence sentence: Jamaica Estates is a neighborhood in the New York City borough of Queens. It is located in the central part of the borough, and is bordered by Union Turnpike to the north, 188th Street to the south, 84th Avenue to the east, and 172nd Street to the west."
+                },
+                {
+                    "question": "What form of public transportation serves the Jamaica Estates neighborhood in Queens?",
+                    "answer": "the New York City Subway's",
+                    "explanation": "Jamaica Estates is a neighborhood in the New York City borough of Queens. It is located in the central part of the borough, and is bordered by Union Turnpike to the north, 188th Street to the south, 84th Avenue to the east, and 172nd Street to the west. The neighborhood is primarily residential, with a mix of single-family homes and apartment buildings. It is known for its large lots and tree-lined streets, and is considered one of the most affluent neighborhoods in Queens."
+                }
+            ],
+            "hops": [
+                "Donald Trump",
+                "Jamaica Estates"
+            ]
+        },
+        "the United States": {
+            "term": "the United States",
+            "passage": "The United States of America, commonly referred to as the United States or America, is a federal republic consisting of 50 states and a federal district. The United States is a developed country and has the world's largest economy by nominal GDP and second-largest economy by PPP, with the U.S. dollar being the world's primary reserve currency. The United States is a founding member of the United Nations, World Trade Organization, International Monetary Fund, and other international organizations. The United States is a highly developed country, with the world's highest GDP per capita and a highly diversified economy that is dominated by the service sector. The United States is a highly developed country and has a very high standard of living. It has the highest GDP per capita in the world and a highly diversified economy that is dominated by the service sector. The United States has a very diverse population, with over 325 million people from all over the world. It is a country of immigrants, with over 13% of the population being foreign-born.",
+            "qae_pairs": [
+                {
+                    "question": "What international organization is the United States a founding member of, and where is its headquarters located?",
+                    "answer": "the United Nations",
+                    "explanation": "The United States is a founding member of the United Nations, World Trade Organization, International Monetary Fund, and other international organizations."
+                },
+                {
+                    "question": "What international organization is the United States a founding member of, and the International Monetary Fund is a part of?",
+                    "answer": "International Monetary Fund",
+                    "explanation": "The United States is a founding member of the United Nations, World Trade Organization, International Monetary Fund, and other international organizations."
+                },
+                {
+                    "question": "What is the abbreviation for 'the United States' in the U.S.?",
+                    "answer": "U.S",
+                    "explanation": "The United States of America, commonly referred to as the United States or America, is a federal republic consisting of 50 states and a federal district."
+                }
+            ],
+            "hops": [
+                "Joe Biden",
+                "the United States"
+            ]
+        },
+        "Scott Brown": {
+            "term": "Scott Brown",
+            "passage": "Scott Brown (born September 12, 1982) is an American politician and former model who served as a United States Senator from Massachusetts from 2010 to 2013. Brown was a member of the Republican Party and was the first Republican to be elected to the Senate from Massachusetts since 1972. Brown was born in Wakefield, Massachusetts, and attended Tufts University, where he earned a degree in international relations. After college, he worked as a model and appeared in several television commercials and magazine spreads. In 2004, Brown enlisted in the Massachusetts Army National Guard and served two tours of duty in Iraq. He was honorably discharged in 2013 with the rank of Captain. In 2010, Brown won a special election to succeed Ted Kennedy in the Senate. He defeated Attorney General Martha Coakley in a closely contested race that was seen as a major upset. Brown's victory was attributed to his strong campaigning and Coakley's poor performance in the final weeks of the race. During his time in the Senate, Brown was known for his moderate views and willingness to work across the aisle. He was a strong supporter of the military and veterans, and worked to expand access to healthcare for veterans. He also supported measures to combat climate change and was a vocal advocate for renewable energy. In 2012, Brown ran for re-election but was defeated by Democratic challenger Elizabeth Warren. After leaving the Senate, Brown returned to modeling and has also worked as a commentator on political issues.",
+            "qae_pairs": [
+                {
+                    "question": "What year did the last Republican Senator from Massachusetts, other than Scott Brown, get elected?",
+                    "answer": "1972",
+                    "explanation": "In 2004, Brown enlisted in the Massachusetts Army National Guard and served two tours of duty in Iraq."
+                }
+            ],
+            "hops": [
+                "Elizabeth Warren",
+                "Scott Brown"
+            ]
+        },
+        "CFPB": {
+            "term": "CFPB",
+            "passage": "The Consumer Financial Protection Bureau (CFPB) is a United States government agency responsible for consumer protection in the financial sector. The CFPB's jurisdiction includes banks, credit unions, securities firms, payday lenders, mortgage-servicing operations, foreclosure relief services, debt collectors, and other financial companies operating in the United States. The CFPB was created as part of the Dodd-Frank Wall Street Reform and Consumer Protection Act of 2010 in response to the financial crisis of 2007-2008. The CFPB is headed by a single director who is appointed by the President of the United States and confirmed by the Senate. The CFPB has the authority to supervise and enforce laws against financial institutions, as well as the power to make rules and issue regulations that govern the financial industry. The CFPB also has the authority to take enforcement action against companies that violate consumer financial laws, including the power to impose penalties and fines. The CFPB has been involved in several high-profile cases, including lawsuits against Wells Fargo for creating fake accounts and against Navient for allegedly cheating student loan borrowers.",
+            "qae_pairs": [
+                {
+                    "question": "What year was the Consumer Financial Protection Bureau (CFPB) established?",
+                    "answer": "2010",
+                    "explanation": "The CFPB was created as part of the Dodd-Frank Wall Street Reform and Consumer Protection Act of 2010 in response to the financial crisis of 2007-2008."
+                },
+                {
+                    "question": "Who is responsible for confirming the appointment of the CFPB director?",
+                    "answer": "Senate",
+                    "explanation": "The CFPB is headed by a single director who is appointed by the President of the United States and confirmed by the Senate."
+                }
+            ],
+            "hops": [
+                "Elizabeth Warren",
+                "CFPB"
+            ]
+        },
+        "the Consumer Financial Protection Bureau": {
+            "term": "the Consumer Financial Protection Bureau",
+            "passage": "The Consumer Financial Protection Bureau (CFPB) is a United States government agency responsible for consumer protection in the financial sector. The CFPB was created by the Dodd-Frank Wall Street Reform and Consumer Protection Act in 2010 in response to the financial crisis of 2008. The agency is headed by a single director who is appointed by the President of the United States and confirmed by the Senate. The CFPB has the authority to regulate a wide range of financial products and services, including mortgages, credit cards, and payday loans. The agency also has the power to enforce consumer financial laws and investigate companies that engage in unfair or deceptive practices. The CFPB has been instrumental in protecting consumers from predatory lending practices and has returned billions of dollars to consumers who were victimized by financial fraud.",
+            "qae_pairs": [
+                {
+                    "question": "Who is responsible for appointing the director of the Consumer Financial Protection Bureau?",
+                    "answer": "Senate",
+                    "explanation": "The agency is headed by a single director who is appointed by the President of the United States and confirmed by the Senate."
+                },
+                {
+                    "question": "What year did the Consumer Financial Protection Bureau (CFPB) come into existence?",
+                    "answer": "2010",
+                    "explanation": "The CFPB was created by the Dodd-Frank Wall Street Reform and Consumer Protection Act in 2010 in response to the financial crisis of 2008."
+                }
+            ],
+            "hops": [
+                "Elizabeth Warren",
+                "the Consumer Financial Protection Bureau"
+            ]
+        },
+        "Jane O'Meara Sanders": {
+            "term": "Jane O'Meara Sanders",
+            "passage": "Jane O'Meara Sanders is an American political activist and the wife of Senator Bernie Sanders of Vermont. She was born on September 6, 1947, in Brooklyn, New York, and grew up in a working-class family. Sanders attended the University of Wisconsin-Madison, where she earned a degree in mathematics. She later worked as a math teacher and a community organizer. In 1988, Sanders married Bernie Sanders, and the couple has been together ever since. Throughout her husband's political career, Sanders has been a strong advocate for progressive causes and has worked to promote social and economic justice. She has also been involved in various political campaigns, including her husband's presidential campaign in 2016. Sanders is known for her outspoken nature and her willingness to speak out on issues that are important to her. She has been a vocal advocate for women's rights, LGBTQ+ rights, and racial justice. In addition to her political work, Sanders is also an accomplished author and has written several books on topics such as healthcare and education. Despite facing criticism and scrutiny from some quarters, Sanders has remained a steadfast supporter of her husband and his political vision. She continues to be an influential figure in American politics and a champion of progressive causes.",
+            "qae_pairs": [
+                {
+                    "question": "What year did Jane O'Meara Sanders get married?",
+                    "answer": "1988",
+                    "explanation": "Sanders attended the University of Wisconsin-Madison, where she earned a degree in mathematics."
+                }
+            ],
+            "hops": [
+                "Bernie Sanders",
+                "Jane O'Meara Sanders"
+            ]
+        },
+        "Oakland": {
+            "term": "Oakland",
+            "passage": "Oakland is a city in California, United States. It is the largest city and the county seat of Alameda County. Oakland is located on the eastern side of the San Francisco Bay, directly across from San Francisco. With a population of 425,145 as of 2018, it is the eighth-most populous city in the state of California and the fourth-most populous in the Bay Area, after San Francisco, San Jose, and Oakland. Oakland is a major West Coast port, and it is the largest city and downtown in the East Bay region of the San Francisco Bay Area. Oakland is also the third largest city in the San Francisco Bay Area, after San Francisco and San Jose. Oakland is home to numerous colleges and universities, including the University of California, Berkeley, and California State University, East Bay. Oakland is known for its diverse population, including large communities of African Americans, Hispanics, and Asians. Oakland is also known for its cultural institutions, including the Oakland Museum of California, the California Symphony, and the Oakland Opera Theater. Oakland is home to several professional sports teams, including the Oakland Athletics of Major League Baseball and the Golden State Warriors of the National Basketball Association.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the university located in Oakland that is part of the University of California system?",
+                    "answer": "the University of California, Berkeley",
+                    "explanation": "Oakland is home to numerous colleges and universities, including the University of California, Berkeley, and California State University, East Bay."
+                },
+                {
+                    "question": "What is the county that Oakland is located in?",
+                    "answer": "Alameda County",
+                    "explanation": "Oakland is the largest city and the county seat of Alameda County."
+                }
+            ],
+            "hops": [
+                "Kamala Harris",
+                "Oakland"
+            ]
+        },
+        "the Democratic Party": {
+            "term": "the Democratic Party",
+            "passage": "The Democratic Party is one of the two major political parties in the United States, and the nation's oldest existing political party. It was founded in 1792 by Thomas Jefferson, James Madison, and other opponents of the Federalist Party, which had dominated the First Party System. The Democratic Party originally represented rural interests, but it now represents a wide range of constituencies, including labor unions, minorities, and environmentalists. The party's platform generally supports social and economic equality, consumer protection, and human rights. The party has produced many influential politicians, including Andrew Jackson, Franklin D. Roosevelt, and Barack Obama. The Democrats have held the White House for 16 out of the last 26 presidential terms, and currently hold a majority in the House of Representatives and a minority in the Senate.",
+            "qae_pairs": [
+                {
+                    "question": "Who was the founder of the Democratic Party, according to the passage?",
+                    "answer": "Thomas Jefferson",
+                    "explanation": "The Democratic Party originally represented rural interests, but it now represents a wide range of constituencies, including labor unions, minorities, and environmentalists. Explanation: The evidence sentence shows that the Democratic Party has evolved over time and now represents a broader range of interests than just rural interests."
+                }
+            ],
+            "hops": [
+                "Pete Buttigieg",
+                "the Democratic Party"
+            ]
+        },
+        "Harvard University": {
+            "term": "Harvard University",
+            "passage": "Harvard University is a private Ivy League research university in Cambridge, Massachusetts, with about 6,700 undergraduate students and about 15,000 postgraduate students. Established in 1636, it is the oldest institution of higher learning in the United States and one of the most prestigious in the world. The university is divided into 13 faculties and schools, each with its own dean and faculty. Harvard's academic programs lead to bachelor's, master's, and doctoral degrees in a wide range of disciplines. Harvard's history, influence, and wealth have made it a major force in American higher education and research. Its alumni include eight U.S. presidents, numerous foreign heads of state, 158 Nobel laureates, and 14 Turing Award winners. Harvard's $40.9 billion endowment is the largest of any academic institution in the world, and it has a significant impact on the local and national economy. The university's campus spans 5,076 acres (20.53 km²) in Cambridge and Boston, Massachusetts, and contains a diverse array of architecture, from colonial-era buildings to modern skyscrapers. Harvard's sports teams, known as the Crimson, compete in the NCAA Division I Ivy League conference.",
+            "qae_pairs": [
+                {
+                    "question": "What is the state where Harvard University is located?",
+                    "answer": "Massachusetts",
+                    "explanation": "Harvard's academic programs lead to bachelor's, master's, and doctoral degrees in a wide range of disciplines. Evidence sentence: Harvard's academic programs lead to bachelor's, master's, and doctoral degrees in a wide range of disciplines. This sentence provides a clear and concise explanation that Harvard University offers academic programs that lead to undergraduate, graduate, and doctoral degrees in a variety of fields."
+                },
+                {
+                    "question": "What is the name of Harvard University's sports team?",
+                    "answer": "Crimson",
+                    "explanation": "Harvard's sports teams, known as the Crimson, compete in the NCAA Division I Ivy League conference."
+                },
+                {
+                    "question": "What is the number of Turing Award winners associated with Harvard University?",
+                    "answer": "14 Turing Award",
+                    "explanation": "Harvard's history, influence, and wealth have made it a major force in American higher education and research. Explanation: This statement explains that Harvard University has a significant impact on American higher education and research due to its history, influence, and wealth. This is supported by the fact that Harvard has produced 14 Turing Award winners, which is a prestigious award in computer science, and its endowment of $40.9 billion is the largest of any academic institution in the world."
+                }
+            ],
+            "hops": [
+                "Pete Buttigieg",
+                "Harvard University"
+            ]
+        },
+        "the Valparaiso University School of Law": {
+            "term": "the Valparaiso University School of Law",
+            "passage": "Valparaiso University School of Law is a private law school located in Valparaiso, Indiana, United States. It was founded in 1879 and is one of the oldest law schools in the Midwest. The school is fully accredited by the American Bar Association and is a member of the Association of American Law Schools. The school offers a Juris Doctor (J.D.) degree program, as well as a Master of Laws (LL.M.) degree program for foreign-trained lawyers. The school also offers a number of specialized programs, including a program in intellectual property law and a program in dispute resolution. The school has a strong reputation for its faculty, which includes several nationally recognized scholars in various areas of law. The school's curriculum emphasizes practical skills training, and students have the opportunity to participate in a variety of clinics and externships. The school also has a strong commitment to public service, and students are encouraged to participate in pro bono work and other community service projects. The school's moot court program is highly regarded, and students have the opportunity to compete in a number of national and international moot court competitions. The school's graduates have gone on to successful careers in law, business, government, and other fields.",
+            "qae_pairs": [
+                {
+                    "question": "What is the degree program offered by the Valparaiso University School of Law?",
+                    "answer": "J.D",
+                    "explanation": "The school offers a Juris Doctor (J.D.) degree program, as well as a Master of Laws (LL.M.) degree program for foreign-trained lawyers."
+                },
+                {
+                    "question": "What state is the Valparaiso University School of Law located in?",
+                    "answer": "Indiana",
+                    "explanation": "The school is fully accredited by the American Bar Association and is a member of the Association of American Law Schools. This sentence is an evidence of the Valparaiso University School of Law's accreditation by the American Bar Association and its membership in the Association of American Law Schools."
+                }
+            ],
+            "hops": [
+                "Nancy Pelosi",
+                "the Valparaiso University School of Law"
+            ]
+        },
+        "Trinity College": {
+            "term": "Trinity College",
+            "passage": "Trinity College is a constituent college of the University of Cambridge, England. It was founded by Henry VIII in 1546 as \"the College of the Holy and Undivided Trinity\" during the English Reformation. The college is renowned for its academic excellence and its many notable alumni, including several Nobel Prize winners and several Prime Ministers of the United Kingdom. Trinity is also known for its beautiful architecture, including its iconic Wren Library and Great Court, which is one of the largest enclosed college courts in the world. The college is located in the city center of Cambridge, and is surrounded by many other historic colleges and buildings. Trinity College is a popular tourist destination, and attracts visitors from all over the world who come to see its stunning architecture and learn about its rich history.",
+            "qae_pairs": [
+                {
+                    "question": "What is the country where Trinity College is located?",
+                    "answer": "the United Kingdom",
+                    "explanation": "Trinity College is a constituent college of the University of Cambridge, England. This sentence explains that Trinity College is located in England, which is a country that is part of the United Kingdom."
+                },
+                {
+                    "question": "What year was Trinity College founded?",
+                    "answer": "1546",
+                    "explanation": "Trinity College was founded by Henry VIII in 1546 as the College of the Holy and Undivided Trinity during the English Reformation."
+                }
+            ],
+            "hops": [
+                "Nancy Pelosi",
+                "Trinity College"
+            ]
+        },
+        "Thomas D'Alesandro Jr": {
+            "term": "Thomas D'Alesandro Jr",
+            "passage": "Thomas D'Alesandro Jr. (March 15, 1903 – October 20, 1987) was an American politician who served as the 45th Mayor of Baltimore, Maryland from 1947 to 1959 and as a member of the United States House of Representatives from Maryland's 3rd congressional district from 1959 to 1977. He was a member of the Democratic Party. D'Alesandro was born in Baltimore, Maryland, the son of Italian immigrants. He attended public schools in Baltimore and went on to study at Loyola College in Maryland, where he earned a Bachelor of Arts degree in 1924. He then attended the University of Baltimore Law School, where he earned a law degree in 1927. D'Alesandro began his political career in 1931, when he was elected to the Maryland House of Delegates. He served in the House of Delegates until 1939, when he was elected to the Baltimore City Council. He served on the City Council until 1947, when he was elected Mayor of Baltimore. During his tenure as Mayor, D'Alesandro oversaw the construction of many of Baltimore's most iconic buildings, including the Baltimore Civic Center and the Inner Harbor. He also worked to improve the city's infrastructure and public services. In 1959, D'Alesandro was elected to the United States House of Representatives. He served in the House for 18 years, during which time he became known for his advocacy on behalf of Baltimore and Maryland. He was a strong supporter of civil rights and worked to bring federal funding to his district.",
+            "qae_pairs": [
+                {
+                    "question": "What year did Thomas D'Alesandro Jr. first enter politics?",
+                    "answer": "1931",
+                    "explanation": "D'Alesandro began his political career in 1931, when he was elected to the Maryland House of Delegates."
+                }
+            ],
+            "hops": [
+                "Nancy Pelosi",
+                "Thomas D'Alesandro Jr"
+            ]
+        },
+        "Tuscumbia": {
+            "term": "Tuscumbia",
+            "passage": "Tuscumbia is a city in Colbert County, Alabama, United States. The population was 10,068 at the 2020 census. It is part of the Florence-Muscle Shoals Metropolitan Statistical Area. Tuscumbia is the birthplace of Helen Keller, who was born at Ivy Green, her family's home, on June 27, 1880. The Helen Keller Foundation for Research and Education, located in Tuscumbia, is dedicated to preserving and promoting Keller's legacy. The city is also home to the Deshler-Morris House, a historic mansion built in 1818. It was added to the National Register of Historic Places on February 22, 1974. Tuscumbia is located on the north bank of the Tennessee River, and is connected to Sheffield, Alabama, on the south bank by the Russell C. Davis Bridge. The city is served by the Tuscumbia Municipal Airport, which offers general aviation services.",
+            "qae_pairs": [
+                {
+                    "question": "What is the year that the Deshler-Morris House in Tuscumbia, Alabama was built?",
+                    "answer": "1818",
+                    "explanation": "The Deshler-Morris House in Tuscumbia, Alabama was built in 1818."
+                },
+                {
+                    "question": "What was the population of Tuscumbia in 2020?",
+                    "answer": "2020",
+                    "explanation": "The population was 10,068 at the 2020 census."
+                },
+                {
+                    "question": "What is the name of the bridge that connects Tuscumbia, Alabama, to Sheffield, Alabama, across the Tennessee River?",
+                    "answer": "the Russell C. Davis Bridge",
+                    "explanation": "It is part of the Florence-Muscle Shoals Metropolitan Statistical Area. Answer: Tuscumbia is part of the Florence-Muscle Shoals Metropolitan Statistical Area."
+                }
+            ],
+            "hops": [
+                "Mitch McConnell",
+                "Tuscumbia"
+            ]
+        },
+        "the University of Louisville": {
+            "term": "the University of Louisville",
+            "passage": "The University of Louisville (UofL) is a public research university in Louisville, Kentucky, United States. It was founded in 1798 and is the oldest university in the Commonwealth of Kentucky. The university is composed of 12 colleges and schools, including the Speed School of Engineering, the Brandeis School of Law, and the Kent School of Social Work. UofL has an enrollment of over 22,000 students, with a student-to-faculty ratio of 16:1. The university offers over 170 degree programs at the bachelor's, master's, and doctoral levels. UofL is classified as a research university with very high research activity by the Carnegie Classification of Institutions of Higher Education. The university's athletic teams, known as the Louisville Cardinals, compete in the Atlantic Coast Conference of the National Collegiate Athletic Association. The Cardinals have won multiple national championships in men's basketball, men's baseball, and women's softball.",
+            "qae_pairs": [
+                {
+                    "question": "What state is the University of Louisville located in?",
+                    "answer": "Kentucky",
+                    "explanation": "The University of Louisville (UofL) is a public research university in Louisville, Kentucky, United States."
+                },
+                {
+                    "question": "What is the location of the University of Louisville?",
+                    "answer": "United States",
+                    "explanation": "The University of Louisville (UofL) is a public research university in Louisville, Kentucky, United States."
+                }
+            ],
+            "hops": [
+                "Mitch McConnell",
+                "the University of Louisville"
+            ]
+        },
+        "Senate": {
+            "term": "Senate",
+            "passage": "The United States Senate is the upper chamber of the United States Congress, which along with the United States House of Representatives—the lower chamber—comprises the legislative branch of the federal government of the United States. The Senate is composed of 100 members; 2 from each of the 50 states. Each state has two senators, regardless of population, which means that smaller states have the same number of senators as larger states. The Senate is headed by the Vice President of the United States, who serves as President of the Senate. The Senate is responsible for approving presidential appointments, ratifying treaties, and confirming federal judges, among other duties.",
+            "qae_pairs": [
+                {
+                    "question": "1. What is the role of the Senate in the United States government? 2. What is the name of the person who presides over the Senate? 3. What is the number of members in the Senate? 4. What is the name of the legislative branch of the federal government of",
+                    "answer": "Congress",
+                    "explanation": "The Senate is composed of 100 members; 2 from each of the 50 states. Each state has two senators, regardless of population, which means that smaller states have the same number of senators as larger states."
+                }
+            ],
+            "hops": [
+                "Mitch McConnell",
+                "Senate"
+            ]
+        },
+        "Barack Obama": {
+            "term": "Barack Obama",
+            "passage": "Barack Obama is a former American politician who served as the 44th President of the United States from 2009 to 2017. He was the first African American to hold the office. Obama was born in Honolulu, Hawaii, on August 4, 1961, and was raised in Indonesia and Hawaii. He attended Columbia University and Harvard Law School, where he served as president of the Harvard Law Review. Obama worked as a civil rights attorney and taught constitutional law at the University of Chicago Law School before entering politics. He represented Illinois in the U.S. Senate from 2005 to 2008, when he resigned after winning the presidential election. During his presidency, Obama signed into law the Affordable Care Act, which expanded access to healthcare, and the Dodd-Frank Wall Street Reform and Consumer Protection Act, which regulated the financial industry. He also oversaw the end of combat operations in Iraq and increased U.S. military involvement in Afghanistan. Obama was known for his oratorical skills and his ability to inspire and mobilize voters. He was awarded the Nobel Peace Prize in 2009 for his efforts to promote international diplomacy and reduce nuclear weapons. After leaving office, Obama established the Obama Foundation, which aims to promote civic engagement and community organizing.",
+            "qae_pairs": [
+                {
+                    "question": "What country did Barack Obama increase U.S. military involvement in during his presidency?",
+                    "answer": "Afghanistan",
+                    "explanation": "Obama was known for his oratorical skills and his ability to inspire and mobilize voters."
+                },
+                {
+                    "question": "What is the name of the law school that Barack Obama attended before becoming the President of the United States?",
+                    "answer": "Harvard Law School",
+                    "explanation": "Obama worked as a civil rights attorney and taught constitutional law at the University of Chicago Law School before entering politics."
+                },
+                {
+                    "question": "What state did Barack Obama represent in the U.S. Senate before he resigned to run for president?",
+                    "answer": "Illinois",
+                    "explanation": "Obama represented Illinois in the U.S. Senate from 2005 to 2008, when he resigned after winning the presidential election."
+                }
+            ],
+            "hops": [
+                "Mitch McConnell",
+                "Barack Obama"
+            ]
+        },
+        "Brooklyn": {
+            "term": "Brooklyn",
+            "passage": "Brooklyn is a borough of New York City, coterminous with Kings County, located in the U.S. state of New York, the most populous county in the state, and the second-most densely populated county in the United States. It is New York City's most populous borough, with an estimated 2,504,700 residents in 2020. Named after the Dutch village of Breukelen, it borders the borough of Queens at the western end of Long Island. Brooklyn has several bridge and tunnel connections to the borough of Manhattan across the East River, and the Verrazzano-Narrows Bridge connects it with Staten Island. Since 1896, Brooklyn has been coterminous with Kings County, the most populous county in the state of New York and the second-most densely populated county in the United States. It is also the second-largest county in New York State, exceeded only by Richmond County (Staten Island). With a land area of 71 square miles (180 km²) and a water area of 17 square miles (44 km²), Kings County has a total area of 88 square miles (230 km²). Brooklyn is a major economic, administrative, and cultural center of the New York metropolitan area, with a gross domestic product of $1.5 trillion, and is the third-largest urban economy in the world. It is also the borough of New York City with the highest number of small businesses, and a thriving arts and culture scene. The borough has a diverse population, with a large number of immigrants coming from Latin America, Asia, and Africa.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the body of water that separates Brooklyn from Manhattan?",
+                    "answer": "the East River",
+                    "explanation": "Brooklyn has several bridge and tunnel connections to the borough of Manhattan across the East River, and the Verrazzano-Narrows Bridge connects it with Staten Island. This sentence explains that Brooklyn is connected to Manhattan and Staten Island through several bridges and tunnels, including the East River and the Verrazzano-Narrows Bridge."
+                }
+            ],
+            "hops": [
+                "Chuck Schumer",
+                "Brooklyn"
+            ]
+        },
+        "Harvard College": {
+            "term": "Harvard College",
+            "passage": "Harvard College is the undergraduate liberal arts college of Harvard University. Founded in 1636, it is the oldest institution of higher learning in the United States and one of the most prestigious in the world. The college is located in Cambridge, Massachusetts, on a 220-acre (0.89 km²) campus that contains over 120 buildings. Harvard College is organized into a small, tight-knit community of students, faculty, and staff. The college is divided into eight residential houses, each with its own unique culture and traditions. Students live in their assigned house throughout their undergraduate years, and are encouraged to participate in house events and activities. The college offers a rigorous academic program that emphasizes critical thinking, creativity, and intellectual exploration. Students are required to complete a core curriculum that includes courses in literature, history, science, and philosophy, as well as elective courses in their chosen field of study. Harvard College is also known for its strong research programs, with faculty and students conducting cutting-edge research in fields ranging from medicine to astrophysics. The college has produced numerous Nobel laureates, Pulitzer Prize winners, and other notable figures in academia, politics, and the arts. In addition to its academic and research programs, Harvard College is also known for its extracurricular activities. Students can participate in over 400 student organizations, including sports teams, theater groups, and political clubs. The college also hosts a variety of events and lectures, including the annual Harvard Arts First festival and the Harvard Book Store author series. Overall, Harvard College is a dynamic and diverse community of scholars, artists, and leaders who are committed to excellence in all areas of life.",
+            "qae_pairs": [
+                {
+                    "question": "What is the year that Harvard College was founded?",
+                    "answer": "1636",
+                    "explanation": "The college is organized into a small, tight-knit community of students, faculty, and staff. Evidence sentence: Harvard College is organized into a small, tight-knit community of students, faculty, and staff."
+                }
+            ],
+            "hops": [
+                "Chuck Schumer",
+                "Harvard College"
+            ]
+        },
+        "the Democratic Senatorial Campaign Committee": {
+            "term": "the Democratic Senatorial Campaign Committee",
+            "passage": "The Democratic Senatorial Campaign Committee (DSCC) is the Democratic Party's principal campaign committee for the United States Senate. It is responsible for the election of Democrats to the Senate, and raises and spends money to support Democratic candidates running for Senate seats. The DSCC is headquartered in Washington, D.C. and is led by a chair, who is currently Senator Catherine Cortez Masto of Nevada. The committee is made up of 15 members, 10 of whom are elected by the Senate Democratic Caucus and 5 of whom are appointed by the Senate Democratic Leader. The DSCC works closely with the Democratic Congressional Campaign Committee (DCCC) to coordinate campaign activities and strategy.",
+            "qae_pairs": [
+                {
+                    "question": "What state is the chair of the Democratic Senatorial Campaign Committee from?",
+                    "answer": "Nevada",
+                    "explanation": "The DSCC is headquartered in Washington, D.C. and is led by a chair, who is currently Senator Catherine Cortez Masto of Nevada."
+                },
+                {
+                    "question": "What is the location of the Democratic Senatorial Campaign Committee?",
+                    "answer": "D.C",
+                    "explanation": "The DSCC is headquartered in Washington, D.C. and is led by a chair, who is currently Senator Catherine Cortez Masto of Nevada."
+                },
+                {
+                    "question": "What is the Democratic Party's role in the Democratic Senatorial Campaign Committee?",
+                    "answer": "the Democratic Party's",
+                    "explanation": "The Democratic Senatorial Campaign Committee (DSCC) is the Democratic Party's principal campaign committee for the United States Senate."
+                }
+            ],
+            "hops": [
+                "Chuck Schumer",
+                "the Democratic Senatorial Campaign Committee"
+            ]
+        }
+    }
+}

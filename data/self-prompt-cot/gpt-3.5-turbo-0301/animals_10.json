@@ -1,0 +1,787 @@
+{
+    "first_hops": {
+        "dog": {
+            "term": "dog",
+            "passage": "The dog (Canis lupus familiaris) is a domesticated mammal and a subspecies of the gray wolf. Dogs have been selectively bred for thousands of years for various behaviors, sensory capabilities, and physical attributes. They are highly social animals and are often referred to as \"man's best friend\" due to their close relationship with humans. Dogs have a wide range of physical characteristics, including different coat types, colors, and sizes. They also have a highly developed sense of smell, which is used for a variety of purposes such as tracking, hunting, and detecting drugs or explosives. Dogs are also known for their loyalty and ability to form strong bonds with their owners. There are over 300 different breeds of dogs recognized by various kennel clubs around the world. These breeds vary greatly in size, temperament, and physical characteristics. Some of the most popular breeds include the Labrador Retriever, German Shepherd, Golden Retriever, Bulldog, and Beagle. Dogs have been used for a variety of purposes throughout history, including hunting, herding, guarding, and as companions. They have also been trained for various tasks such as search and rescue, therapy, and assistance for people with disabilities. In many cultures, dogs are considered to be symbols of loyalty, courage, and friendship. They have also been the subject of many works of art, literature, and film. Despite their popularity as pets, dogs can also pose a risk to humans. They have been known to bite and attack people, particularly if they feel threatened or are not properly trained or socialized. It is important for dog owners to take responsibility for their pets and ensure that they are properly trained and cared for. Overall, dogs are beloved animals that have played an important role in human history and continue to be valued members of many households around the world.",
+            "qae_pairs": [
+                {
+                    "context": "Some of the most popular breeds include the Labrador Retriever, German Shepherd, Golden Retriever, Bulldog, and Beagle. Dogs have been used for a variety of purposes throughout history, including hunting, herding, guarding, and as companions.",
+                    "question": "What is one of the most popular dog breeds?",
+                    "answer": "Labrador Retriever.",
+                    "explanation": "The Labrador Retriever is mentioned as one of the most popular dog breeds in the passage."
+                }
+            ],
+            "hops": [
+                "dog"
+            ]
+        },
+        "cat": {
+            "term": "cat",
+            "passage": "The cat (Felis catus) is a small carnivorous mammal. It is the only domesticated species in the family Felidae and is often referred to as the domestic cat to distinguish it from wild members of the family. The cat is a skilled predator and has been known to hunt over a hundred different species for food. They are also popular pets and are kept by millions of people around the world. Cats have a distinctive appearance, with a slender body, short fur, and sharp claws. They are known for their agility and are able to jump up to six times their body length in a single bound. They are also known for their grooming habits, spending up to half of their waking hours cleaning themselves. Cats are social animals and are known for their affectionate behavior towards their owners. They are also known for their independent nature and can be left alone for long periods of time without becoming anxious or destructive. However, they do require attention and playtime to keep them mentally and physically stimulated. Cats have a long history of association with humans, dating back to ancient Egypt where they were worshipped as sacred animals. They were also kept as pets in ancient Rome and were brought to Europe by the Romans. Today, cats are one of the most popular pets in the world, with millions of households owning at least one cat. Despite their popularity, cats can also be a source of controversy. They are known for their hunting instincts and can have a negative impact on local wildlife populations. They are also known for their scratching behavior, which can damage furniture and other household items. Overall, the cat is a fascinating and beloved animal that has captured the hearts of millions of people around the world. Whether as a pet or a wild predator, the cat is a remarkable creature that continues to fascinate and inspire us.",
+            "qae_pairs": [
+                {
+                    "context": "The cat (Felis catus) is a small carnivorous mammal. It is the only domesticated species in the family Felidae and is often referred to as the domestic cat to distinguish it from wild members of the family.",
+                    "question": "What is the scientific name for the domestic cat?",
+                    "answer": "Felis catus.",
+                    "explanation": "The scientific name for the domestic cat is Felis catus, as stated in the passage."
+                },
+                {
+                    "context": "Cats have a long history of association with humans, dating back to ancient Egypt where they were worshipped as sacred animals. They were also kept as pets in ancient Rome and were brought to Europe by the Romans.",
+                    "question": "Where were cats brought to by the Romans?",
+                    "answer": "Europe.",
+                    "explanation": "The Romans brought cats to Europe."
+                },
+                {
+                    "context": "Today, cats are one of the most popular pets in the world, with millions of households owning at least one cat. Despite their popularity, cats can also be a source of controversy.",
+                    "question": "When did cats become one of the most popular pets in the world?",
+                    "answer": "Today.",
+                    "explanation": "Cats are currently one of the most popular pets in the world."
+                }
+            ],
+            "hops": [
+                "cat"
+            ]
+        },
+        "elephant": {
+            "term": "elephant",
+            "passage": "The elephant is a large mammal belonging to the family Elephantidae. There are two species of elephants: the African elephant and the Asian elephant. Elephants are known for their large size, long trunks, and tusks. They are also known for their intelligence, social behavior, and long lifespans. African elephants are the largest land animals on Earth, with males weighing up to 14,000 pounds and standing up to 13 feet tall at the shoulder. Females are slightly smaller, weighing up to 8,000 pounds and standing up to 10 feet tall at the shoulder. African elephants have large ears that they use to regulate their body temperature, and they have a distinctive trunk that they use for breathing, smelling, and grasping objects. Asian elephants are slightly smaller than African elephants, with males weighing up to 11,000 pounds and standing up to 10 feet tall at the shoulder. Females are smaller, weighing up to 6,000 pounds and standing up to 8 feet tall at the shoulder. Asian elephants have smaller ears than African elephants, and their trunks have one finger-like projection at the tip, while African elephants have two. Both African and Asian elephants are herbivores, feeding on a variety of plants, including grasses, leaves, bark, and fruits. They are also known for their ability to communicate with each other using a variety of vocalizations, including trumpets, grunts, and rumbling sounds. Elephants are highly social animals, living in groups called herds. African elephant herds are led by a matriarch, an older female who is responsible for leading the group to food and water sources. Asian elephant herds are also led by a matriarch, but males may also lead smaller groups of females. Elephants have long lifespans, with African elephants living up to 70 years in the wild and Asian elephants living up to 60 years in the wild. However, both species are threatened by habitat loss, poaching for their ivory tusks, and human-elephant conflict. Efforts are being made to protect elephant populations, including the establishment of protected areas and anti-poaching measures. In addition, many organizations are working to raise awareness about the importance of elephant conservation and to promote responsible tourism practices that do not harm elephant populations.",
+            "qae_pairs": [
+                {
+                    "context": "The elephant is a large mammal belonging to the family Elephantidae. There are two species of elephants: the African elephant and the Asian elephant.",
+                    "question": "What family does the elephant belong to?",
+                    "answer": "Elephantidae.",
+                    "explanation": "The elephant belongs to the family Elephantidae, as stated in the passage."
+                }
+            ],
+            "hops": [
+                "elephant"
+            ]
+        },
+        "tiger": {
+            "term": "tiger",
+            "passage": "The tiger (Panthera tigris) is the largest cat species, reaching a total body length of up to 3.38 m (11.1 ft) over curves and weighing up to 388.7 kg (857 lb) in the wild. Its most recognizable feature is a pattern of dark vertical stripes on reddish-orange fur with a lighter underside. The species is classified in the genus Panthera with the lion, leopard, jaguar, and snow leopard. Tigers are apex predators, primarily preying on ungulates such as deer and bovids. They are territorial and generally solitary but social animals, often requiring large contiguous areas of habitat that support their prey requirements. This, coupled with the fact that they are indigenous to some of the more densely populated places on Earth, has caused significant conflicts with humans. Tigers once ranged widely across Asia, from Turkey in the west to the eastern coast of Russia. Over the past 100 years, they have lost 93% of their historic range, and have been extirpated from southwest and central Asia, from the islands of Java and Bali, and from large areas of Southeast and Eastern Asia. Today, they range from the Siberian taiga to open grasslands and tropical mangrove swamps. The remaining six tiger subspecies have been classified as endangered by the International Union for Conservation of Nature (IUCN). The global population in the wild is estimated to number between 3,062 and 3,948 individuals, down from around 100,000 at the start of the 20th century, with most remaining populations occurring in small pockets isolated from each other, of which about 2,000 exist on the Indian subcontinent. Major reasons for population decline include habitat destruction, habitat fragmentation and poaching. The extent of area occupied by tigers is estimated at less than 1,184,911 km2 (457,497 sq mi), a 41% decline from the area estimated in the mid-1990s. In 2016, wildlife conservation group at WWF declared that world's count of wild tigers has risen for the first time in a century. Tigers are among the most recognisable and popular of the world's charismatic megafauna. They have featured prominently in ancient mythology and folklore, and continue to be depicted in modern films and literature. They appear on many flags, coats of arms, and as mascots for sporting teams.",
+            "qae_pairs": [
+                {
+                    "context": "The tiger (Panthera tigris) is the largest cat species, reaching a total body length of up to 3.38 m (11.1 ft) over curves and weighing up to 388.7 kg (857 lb) in the wild. Its most recognizable feature is a pattern of dark vertical stripes on reddish-orange fur with a lighter underside.",
+                    "question": "What is the scientific name for the largest cat species with dark vertical stripes on reddish-orange fur?",
+                    "answer": "Panthera tigris.",
+                    "explanation": "The scientific name for the largest cat species with dark vertical stripes on reddish-orange fur is Panthera tigris, as stated in the passage."
+                },
+                {
+                    "context": "The species is classified in the genus Panthera with the lion, leopard, jaguar, and snow leopard. Tigers are apex predators, primarily preying on ungulates such as deer and bovids.",
+                    "question": "In what genus is the tiger classified along with the lion, leopard, jaguar, and snow leopard?",
+                    "answer": "Panthera.",
+                    "explanation": "The tiger belongs to the same genus as the lion, leopard, jaguar, and snow leopard, which is Panthera."
+                },
+                {
+                    "context": "They are territorial and generally solitary but social animals, often requiring large contiguous areas of habitat that support their prey requirements. This, coupled with the fact that they are indigenous to some of the more densely populated places on Earth, has caused significant conflicts with humans.",
+                    "question": "On which planet are tigers indigenous to some of the more densely populated places?",
+                    "answer": "Earth.",
+                    "explanation": "Tigers are from Earth and are native to some of the most densely populated areas on the planet, which has led to conflicts with humans."
+                },
+                {
+                    "context": "Tigers once ranged widely across Asia, from Turkey in the west to the eastern coast of Russia. Over the past 100 years, they have lost 93% of their historic range, and have been extirpated from southwest and central Asia, from the islands of Java and Bali, and from large areas of Southeast and Eastern Asia.",
+                    "question": "What country is located on the eastern coast of Asia and was once part of the historic range of tigers?",
+                    "answer": "Russia.",
+                    "explanation": "Tigers used to live in a large area of Asia, including the eastern coast of Russia, but they have lost most of their historic range over the last century."
+                },
+                {
+                    "context": "The extent of area occupied by tigers is estimated at less than 1,184,911 km2 (457,497 sq mi), a 41% decline from the area estimated in the mid-1990s. In 2016, wildlife conservation group at WWF declared that world's count of wild tigers has risen for the first time in a century.",
+                    "question": "Which wildlife conservation group declared in 2006 that the world's count of wild tigers has risen for the first time in a century?",
+                    "answer": "WWF.",
+                    "explanation": "The wildlife conservation group that declared in 2006 that the world's count of wild tigers has risen for the first time in a century is WWF, as stated in the passage."
+                },
+                {
+                    "context": "The extent of area occupied by tigers is estimated at less than 1,184,911 km2 (457,497 sq mi), a 41% decline from the area estimated in the mid-1990s. In 2016, wildlife conservation group at WWF declared that world's count of wild tigers has risen for the first time in a century.",
+                    "question": "In what year did the wildlife conservation group at WWF declare that the world's count of wild tigers has risen for the first time in a century?",
+                    "answer": "2016.",
+                    "explanation": "The wildlife conservation group at WWF declared in  20 16 that the world's count of wild tigers has risen for the first time in a century."
+                }
+            ],
+            "hops": [
+                "tiger"
+            ]
+        },
+        "giraffe": {
+            "term": "giraffe",
+            "passage": "The giraffe (Giraffa) is a genus of African even-toed ungulate mammals, the tallest living terrestrial animals and the largest ruminants. The genus currently consists of one species, Giraffa camelopardalis, the type species. Seven other species are extinct, prehistoric species known from fossils. Giraffes are found in savannahs and woodlands across sub-Saharan Africa. They prefer areas with plenty of acacia trees, which are important food sources, and can also feed on leaves, flowers, and fruits from other trees and shrubs. They are social animals and live in loose herds, typically consisting of females and their young, led by a dominant male. Giraffes are easily recognized by their long necks and legs, spotted coat, and distinctive ossicones, which are bony protrusions on their heads. The neck of a giraffe can be up to 1.8 meters (6 feet) long and is made up of only seven vertebrae, the same number as in most mammals, including humans. The legs are also long and powerful, allowing giraffes to run at speeds of up to 60 kilometers per hour (37 mph). Giraffes are herbivores and spend most of their day eating. They have a specialized digestive system that allows them to extract nutrients from tough, fibrous plant material. They also have a unique cardiovascular system, with a large heart and high blood pressure, which helps to pump blood up their long necks to their brains. Giraffes are listed as vulnerable by the International Union for Conservation of Nature (IUCN) due to habitat loss, poaching, and civil unrest in some parts of their range. Conservation efforts are underway to protect giraffe populations and their habitats, including captive breeding programs and anti-poaching initiatives.",
+            "qae_pairs": [
+                {
+                    "context": "The giraffe (Giraffa) is a genus of African even-toed ungulate mammals, the tallest living terrestrial animals and the largest ruminants. The genus currently consists of one species, Giraffa camelopardalis, the type species.",
+                    "question": "What is the scientific name of the tallest living terrestrial animal and the largest ruminant?",
+                    "answer": "Giraffa camelopardalis.",
+                    "explanation": "The scientific name of the tallest living terrestrial animal and the largest ruminant is Giraffa camelopardalis, as stated in the passage."
+                },
+                {
+                    "context": "Seven other species are extinct, prehistoric species known from fossils. Giraffes are found in savannahs and woodlands across sub-Saharan Africa.",
+                    "question": "In which continent are giraffes found in savannahs and woodlands?",
+                    "answer": "Africa.",
+                    "explanation": "Giraffes are found in savannahs and woodlands in sub-Saharan Africa."
+                }
+            ],
+            "hops": [
+                "giraffe"
+            ]
+        },
+        "zebra": {
+            "term": "zebra",
+            "passage": "The zebra is a member of the horse family, Equidae, native to Africa. It is easily recognized by its distinctive black and white striped coat. Zebras are social animals that live in groups called herds. They are herbivores and feed on grasses, leaves, and bark. There are three species of zebras: the plains zebra, the mountain zebra, and the Grevy's zebra. The plains zebra is the most common and widespread species of zebra. It is found in grasslands and savannas throughout eastern and southern Africa. The mountain zebra is found in mountainous regions of southern Africa, while the Grevy's zebra is found in the arid regions of Ethiopia and northern Kenya. Zebras are known for their unique black and white striped coat, which is thought to help them blend in with their surroundings and confuse predators. Each zebra has a unique pattern of stripes, which can be used to identify individuals. Zebras also have excellent eyesight and hearing, which helps them detect predators and communicate with each other. Zebras are social animals that live in herds. The size of the herd can vary from a few individuals to several hundred. Within the herd, there is a dominant male, known as the stallion, who mates with the females and protects the group from predators. Female zebras give birth to a single foal after a gestation period of around 12 months. Zebras are an important part of the African ecosystem. They play a key role in maintaining the balance between predators and prey, and their grazing helps to keep grasslands healthy. However, zebras are also threatened by habitat loss, hunting, and competition with livestock for resources. Efforts are being made to conserve zebras and their habitats. National parks and reserves have been established to protect them, and breeding programs are in place to increase their numbers. Despite these efforts, zebras remain vulnerable to extinction, and continued conservation efforts are needed to ensure their survival.",
+            "qae_pairs": [
+                {
+                    "context": "The zebra is a member of the horse family, Equidae, native to Africa. It is easily recognized by its distinctive black and white striped coat.",
+                    "question": "Where is the zebra native to?",
+                    "answer": "Africa.",
+                    "explanation": "The zebra is from Africa because it is a member of the horse family that is native to that continent and has a distinctive black and white striped coat."
+                },
+                {
+                    "context": "The zebra is a member of the horse family, Equidae, native to Africa. It is easily recognized by its distinctive black and white striped coat.",
+                    "question": "What is the name of the horse family to which the zebra belongs?",
+                    "answer": "Equidae.",
+                    "explanation": "The zebra belongs to the horse family, which is called Equidae."
+                },
+                {
+                    "context": "Female zebras give birth to a single foal after a gestation period of around 12 months. Zebras are an important part of the African ecosystem.",
+                    "question": "What is the gestation period for zebras?",
+                    "answer": "Around 12 months.",
+                    "explanation": "Female zebras carry their young for approximately 12 months before giving birth."
+                }
+            ],
+            "hops": [
+                "zebra"
+            ]
+        },
+        "hippopotamus": {
+            "term": "hippopotamus",
+            "passage": "The hippopotamus, or hippo, is a large, semi-aquatic mammal native to sub-Saharan Africa. It is the third largest land mammal, after the elephant and the rhinoceros, and can weigh up to 4,500 kg (9,900 lb). Hippos are known for their barrel-shaped bodies, short legs, and large heads with broad mouths and sharp teeth. They have a thick, hairless skin that is grayish-brown in color and secretes a red, oily substance that acts as a natural sunscreen and antibiotic. Hippos are primarily herbivores, feeding on grasses, leaves, and aquatic plants. They spend most of their time in water, either in rivers, lakes, or swamps, and can hold their breath for up to five minutes while submerged. Despite their large size and seemingly slow movements, hippos are surprisingly agile and can run up to 30 km/h (19 mph) on land. Hippos are social animals and live in groups of up to 30 individuals, led by a dominant male. They communicate with each other through a variety of vocalizations, including grunts, snorts, and bellows. Hippos are also known for their aggressive behavior, particularly when defending their territory or young. They have been known to attack boats and humans who venture too close, and are responsible for more human deaths in Africa than any other large animal. Despite their fearsome reputation, hippos are an important part of the African ecosystem. They create pathways through the water and help to maintain the balance of aquatic plants and animals. However, hippos are also threatened by habitat loss, poaching, and hunting for their meat and ivory teeth. Conservation efforts are underway to protect these iconic animals and ensure their survival for future generations.",
+            "qae_pairs": [
+                {
+                    "context": "Hippos are known for their barrel-shaped bodies, short legs, and large heads with broad mouths and sharp teeth. They have a thick, hairless skin that is grayish-brown in color and secretes a red, oily substance that acts as a natural sunscreen and antibiotic.",
+                    "question": "What animal is known for its barrel-shaped body, short legs, and large head with broad mouth and sharp teeth?",
+                    "answer": "Hippos.",
+                    "explanation": "The animal that has a barrel-shaped body, short legs, and a large head with a broad mouth and sharp teeth is the hippopotamus, as stated in the passage."
+                }
+            ],
+            "hops": [
+                "hippopotamus"
+            ]
+        },
+        "penguin": {
+            "term": "penguin",
+            "passage": "Penguins are a group of flightless birds that are highly adapted to life in the water. They are found primarily in the Southern Hemisphere, with only one species, the Galapagos penguin, found north of the equator. There are 18 species of penguins, ranging in size from the tiny fairy penguin, which stands just 16 inches tall, to the emperor penguin, which can reach heights of up to 4 feet. Penguins are known for their distinctive black and white plumage, which helps them blend in with their surroundings while swimming. Their wings have evolved into flippers, which they use to propel themselves through the water at speeds of up to 22 miles per hour. On land, penguins waddle awkwardly, but they are surprisingly agile and can jump up to 6 feet in the air. Penguins are social animals and live in large colonies, sometimes numbering in the thousands. They communicate with each other through a variety of vocalizations, including trumpeting calls, braying, and honking. They also use body language, such as bowing and preening, to communicate with each other. Penguins are carnivorous and feed primarily on fish, squid, and krill. They are preyed upon by a variety of predators, including seals, sea lions, and killer whales. To avoid being eaten, penguins have developed a number of adaptations, such as swimming in large groups and huddling together for warmth. Penguins are also known for their unique breeding habits. Most species mate for life and return to the same breeding grounds each year to lay their eggs. The male penguin takes on the primary responsibility of incubating the eggs, while the female goes out to sea to feed. Once the chicks hatch, both parents take turns caring for them until they are old enough to fend for themselves. Despite their popularity and widespread appeal, many species of penguins are threatened by habitat loss, overfishing, and climate change. Conservation efforts are underway to protect these beloved birds and ensure their survival for generations to come.",
+            "qae_pairs": [
+                {
+                    "context": "Penguins are a group of flightless birds that are highly adapted to life in the water. They are found primarily in the Southern Hemisphere, with only one species, the Galapagos penguin, found north of the equator.",
+                    "question": "In which hemisphere are penguins primarily found?",
+                    "answer": "Southern Hemisphere.",
+                    "explanation": "Penguins are mostly located in the Southern Hemisphere."
+                }
+            ],
+            "hops": [
+                "penguin"
+            ]
+        },
+        "panda": {
+            "term": "panda",
+            "passage": "The giant panda, also known as the panda bear or simply the panda, is a bear native to South Central China. It is easily recognized by the large, distinctive black patches around its eyes, over the ears, and across its round body. The name \"giant panda\" is sometimes used to distinguish it from the unrelated red panda. Though it belongs to the order Carnivora, the giant panda's diet is over 99% bamboo. Giant pandas in the wild will occasionally eat other grasses, wild tubers, or even meat in the form of birds, rodents, or carrion. In captivity, they may receive honey, eggs, fish, yams, shrub leaves, oranges, or bananas along with specially prepared food. The giant panda lives in a few mountain ranges in central China, mainly in Sichuan, but also in neighbouring Shaanxi and Gansu. As a result of farming, deforestation, and other development, the giant panda has been driven out of the lowland areas where it once lived. The giant panda is a conservation-reliant vulnerable species. A 2007 report showed 239 pandas living in captivity inside China and another 27 outside the country. As of December 2014, 49 giant pandas lived in captivity outside China, living in 18 zoos in 13 different countries. Wild population estimates vary; one estimate shows that there are about 1,590 individuals living in the wild, while a 2006 study via DNA analysis estimated that this figure could be as high as 2,000 to 3,000. Some reports also show that the number of giant pandas in the wild is on the rise. The giant panda is a conservation icon and symbol for the World Wildlife Fund. It is a beloved animal in China and around the world. The giant panda has been a target of poaching by locals since ancient times and by foreigners since it was introduced to the West. Starting in the 1930s, foreigners were unable to poach giant pandas in China because of the Second Sino-Japanese War and the Chinese Civil War, but pandas remained a source of soft furs for the locals. The population boom in China after 1949 created stress on the pandas' habitat and the subsequent famines led to the increased hunting of wildlife, including pandas. During the Cultural Revolution, all studies and conservation activities on the pandas were stopped.",
+            "qae_pairs": [
+                {
+                    "context": "The giant panda, also known as the panda bear or simply the panda, is a bear native to South Central China. It is easily recognized by the large, distinctive black patches around its eyes, over the ears, and across its round body.",
+                    "question": "Where is the giant panda native to?",
+                    "answer": "South Central China.",
+                    "explanation": "The giant panda is a bear that is originally from South Central China, as stated in the passage."
+                },
+                {
+                    "context": "The giant panda lives in a few mountain ranges in central China, mainly in Sichuan, but also in neighbouring Shaanxi and Gansu. As a result of farming, deforestation, and other development, the giant panda has been driven out of the lowland areas where it once lived.",
+                    "question": "In which province of China do the majority of giant pandas live?",
+                    "answer": "Sichuan.",
+                    "explanation": "The majority of giant pandas live in Sichuan province in central China, as stated in the passage."
+                },
+                {
+                    "context": "The giant panda lives in a few mountain ranges in central China, mainly in Sichuan, but also in neighbouring Shaanxi and Gansu. As a result of farming, deforestation, and other development, the giant panda has been driven out of the lowland areas where it once lived.",
+                    "question": "In which Chinese province, besides Sichuan and Shaanxi, can the giant panda be found?",
+                    "answer": "Gansu.",
+                    "explanation": "The giant panda can also be found in the province of Gansu, in addition to Sichuan and Shaanxi, as stated in the passage."
+                },
+                {
+                    "context": "The giant panda is a conservation-reliant vulnerable species. A 2007 report showed 239 pandas living in captivity inside China and another 27 outside the country.",
+                    "question": "Where are the majority of captive giant pandas located?",
+                    "answer": "China.",
+                    "explanation": "The passage states that in 2007, there were 239 giant pandas living in captivity in China, while only  2 7 were located outside the country. Therefore, the majority of captive giant pandas are located in China."
+                },
+                {
+                    "context": "The giant panda is a conservation-reliant vulnerable species. A 2007 report showed 239 pandas living in captivity inside China and another 27 outside the country.",
+                    "question": "What year was the report that showed 239 pandas living in captivity inside China and another  7 outside the country?",
+                    "answer": "2007.",
+                    "explanation": "The report that showed 239 pandas living in captivity inside China and another 7 outside the country was in the year 2007."
+                },
+                {
+                    "context": "As of December 2014, 49 giant pandas lived in captivity outside China, living in 18 zoos in 13 different countries. Wild population estimates vary; one estimate shows that there are about 1,590 individuals living in the wild, while a 2006 study via DNA analysis estimated that this figure could be as high as 2,000 to 3,000.",
+                    "question": "What year was the study conducted that estimated the wild population of giant pandas to be as high as 2,000 to 3,000 individuals?",
+                    "answer": "2006.",
+                    "explanation": "The study that estimated the wild population of giant pandas to be as high as 2,000 to 3,000 individuals was conducted in 2006."
+                },
+                {
+                    "context": "As of December 2014, 49 giant pandas lived in captivity outside China, living in 18 zoos in 13 different countries. Wild population estimates vary; one estimate shows that there are about 1,590 individuals living in the wild, while a 2006 study via DNA analysis estimated that this figure could be as high as 2,000 to 3,000.",
+                    "question": "What is the date when the number of giant pandas living in captivity outside China was last recorded?",
+                    "answer": "December 2014.",
+                    "explanation": "The number of giant pandas living in captivity outside China was last recorded in December  014, as stated in the passage."
+                },
+                {
+                    "context": "Some reports also show that the number of giant pandas in the wild is on the rise. The giant panda is a conservation icon and symbol for the World Wildlife Fund.",
+                    "question": "What organization does the giant panda serve as a symbol for?",
+                    "answer": "World Wildlife Fund.",
+                    "explanation": "The giant panda is a symbol for the World Wildlife Fund, as stated in some reports and recognized as a conservation icon."
+                },
+                {
+                    "context": "Starting in the 1930s, foreigners were unable to poach giant pandas in China because of the Second Sino-Japanese War and the Chinese Civil War, but pandas remained a source of soft furs for the locals. The population boom in China after 1949 created stress on the pandas' habitat and the subsequent famines led to the increased hunting of wildlife, including pandas.",
+                    "question": "When did foreigners become unable to poach giant pandas in China?",
+                    "answer": "1930s.",
+                    "explanation": "The passage states that starting in the 1930s, foreigners were unable to poach giant pandas in China."
+                }
+            ],
+            "hops": [
+                "panda"
+            ]
+        }
+    },
+    "second_hops": {
+        "Felis catus.": {
+            "term": "Felis catus.",
+            "passage": "Felis catus, also known as the domestic cat, is a small carnivorous mammal that is commonly kept as a pet. It is a member of the Felidae family and is closely related to other feline species such as the lion, tiger, and leopard. Domestic cats have been selectively bred for thousands of years, resulting in a wide variety of breeds with different physical and behavioral characteristics. Cats are known for their agility, grace, and independent nature. They are skilled hunters and are able to catch small prey such as mice and birds. Domestic cats are also known for their affectionate behavior towards humans, often seeking out attention and affection from their owners. Despite their popularity as pets, domestic cats can also have a significant impact on the environment. They are known to hunt and kill native wildlife, and can also spread diseases to other animals. As a result, many countries have implemented laws and regulations to control the population of feral cats and to encourage responsible pet ownership. Overall, Felis catus is a fascinating and beloved animal that has played an important role in human society for thousands of years. Whether as a companion animal or a wild predator, the domestic cat continues to capture the hearts and imaginations of people around the world.",
+            "qae_pairs": [
+                {
+                    "context": "Domestic cats have been selectively bred for thousands of years, resulting in a wide variety of breeds with different physical and behavioral characteristics. Cats are known for their agility, grace, and independent nature.",
+                    "question": "For how long have humans selectively bred the species Felis catus, resulting in a diverse range of breeds with distinct physical and behavioral traits?",
+                    "answer": "Thousands of years.",
+                    "explanation": "Humans have been selectively breeding the species Felis catus for thousands of years, which has led to the development of various breeds with unique physical and behavioral characteristics."
+                }
+            ],
+            "hops": [
+                "cat",
+                "Felis catus."
+            ]
+        },
+        "Europe.": {
+            "term": "Europe.",
+            "passage": "Europe is a continent located entirely in the Northern Hemisphere and mostly in the Eastern Hemisphere. It is bordered by the Arctic Ocean to the north, the Atlantic Ocean to the west, and the Mediterranean Sea to the south. It comprises the westernmost part of Eurasia. Since around 1850, Europe is most commonly considered to be separated from Asia by the watershed divides of the Ural and Caucasus Mountains, the Ural River, the Caspian and Black Seas, and the waterways of the Turkish Straits. Although the term \"continent\" implies physical geography, the land border is somewhat arbitrary and has been redefined several times since its first conception in classical antiquity. The division of Eurasia into two continents reflects East-West cultural, linguistic, and ethnic differences, some of which vary on a spectrum rather than with a sharp dividing line. The border does not follow political boundaries, with Turkey, Russia, and Kazakhstan being transcontinental countries. Europe covers about 10,180,000 square kilometres (3,930,000 sq mi), or 2% of the Earth's surface (6.8% of land area), making it the second smallest continent (using the seven-continent model). Politically, Europe is divided into about fifty sovereign states of which the Russian Federation is the largest and most populous, spanning 39% of the continent and comprising 15% of its population. Europe had a total population of about 741 million (about 11% of the world population) as of 2018.",
+            "qae_pairs": [
+                {
+                    "context": "Europe is a continent located entirely in the Northern Hemisphere and mostly in the Eastern Hemisphere. It is bordered by the Arctic Ocean to the north, the Atlantic Ocean to the west, and the Mediterranean Sea to the south.",
+                    "question": "What body of water borders Europe to the south?",
+                    "answer": "Mediterranean Sea.",
+                    "explanation": "Europe is situated in the Northern and Eastern Hemispheres and is surrounded by the Arctic Ocean to the north, the Atlantic Ocean to the west, and the Mediterranean Sea to the south. Therefore, the body of water that borders Europe to the south is the Mediterranean Sea."
+                },
+                {
+                    "context": "Europe is a continent located entirely in the Northern Hemisphere and mostly in the Eastern Hemisphere. It is bordered by the Arctic Ocean to the north, the Atlantic Ocean to the west, and the Mediterranean Sea to the south.",
+                    "question": "What body of water borders Europe to the west?",
+                    "answer": "Atlantic Ocean.",
+                    "explanation": "Europe is situated adjacent to the Atlantic Ocean on its western side."
+                },
+                {
+                    "context": "Europe is a continent located entirely in the Northern Hemisphere and mostly in the Eastern Hemisphere. It is bordered by the Arctic Ocean to the north, the Atlantic Ocean to the west, and the Mediterranean Sea to the south.",
+                    "question": "What body of water borders Europe to the north?",
+                    "answer": "Arctic Ocean.",
+                    "explanation": "Europe is situated in the Northern Hemisphere and is surrounded by the Arctic Ocean to the north, the Atlantic Ocean to the west, and the Mediterranean Sea to the south. Therefore, the body of water that borders Europe to the north is the Arctic Ocean."
+                },
+                {
+                    "context": "The border does not follow political boundaries, with Turkey, Russia, and Kazakhstan being transcontinental countries. Europe covers about 10,180,000 square kilometres (3,930,000 sq mi), or 2% of the Earth's surface (6.8% of land area), making it the second smallest continent (using the seven-continent model).",
+                    "question": "Which transcontinental country is included in Europe's border?",
+                    "answer": "Turkey.",
+                    "explanation": "The passage states that Turkey is one of the transcontinental countries included in Europe's border."
+                },
+                {
+                    "context": "Politically, Europe is divided into about fifty sovereign states of which the Russian Federation is the largest and most populous, spanning 39% of the continent and comprising 15% of its population. Europe had a total population of about 741 million (about 11% of the world population) as of 2018.",
+                    "question": "What year was the total population of Europe approximately 741 million?",
+                    "answer": "2018.",
+                    "explanation": "The total population of Europe was approximately 741 million in  2 018, as stated in the passage."
+                }
+            ],
+            "hops": [
+                "cat",
+                "Europe."
+            ]
+        },
+        "Elephantidae.": {
+            "term": "Elephantidae.",
+            "passage": "Elephantidae is a family of large, herbivorous mammals commonly known as elephants. They are distributed throughout sub-Saharan Africa, South Asia, and Southeast Asia. The family includes two living species: the African elephant and the Asian elephant. Both species are highly intelligent and have complex social structures. They are also important ecological engineers, shaping their habitats through their feeding and movement patterns. Elephants have been hunted for their ivory tusks, leading to a decline in their populations. Conservation efforts have been implemented to protect these iconic animals and their habitats.",
+            "qae_pairs": [
+                {
+                    "context": "Elephantidae is a family of large, herbivorous mammals commonly known as elephants. They are distributed throughout sub-Saharan Africa, South Asia, and Southeast Asia.",
+                    "question": "In which region are members of the Elephantidae family found in addition to sub-Saharan Africa and South Asia?",
+                    "answer": "Southeast Asia.",
+                    "explanation": "The Elephantidae family is also present in Southeast Asia, in addition to sub-Saharan Africa and South Asia."
+                }
+            ],
+            "hops": [
+                "elephant",
+                "Elephantidae."
+            ]
+        },
+        "Panthera tigris.": {
+            "term": "Panthera tigris.",
+            "passage": "Panthera tigris is the largest cat species, most recognizable for its pattern of dark vertical stripes on reddish-orange fur with a lighter underside. It is an apex predator, primarily preying on ungulates such as deer and wild boar. Tigers are territorial and solitary animals, preferring to hunt alone at night. They are also excellent swimmers and have been known to swim up to 6 kilometers in a day. The species is native to Asia, with the majority of the population found in India. However, due to habitat loss and poaching, the tiger population has drastically declined in recent years, with only around 3,900 individuals remaining in the wild. Conservation efforts are underway to protect and increase the tiger population, including the establishment of protected areas and anti-poaching measures.",
+            "qae_pairs": [
+                {
+                    "context": "The species is native to Asia, with the majority of the population found in India. However, due to habitat loss and poaching, the tiger population has drastically declined in recent years, with only around 3,900 individuals remaining in the wild.",
+                    "question": "In which continent is the Panthera tigris species primarily found?",
+                    "answer": "Asia.",
+                    "explanation": "The Panthera tigris species is mainly found in Asia, as stated in the passage."
+                },
+                {
+                    "context": "The species is native to Asia, with the majority of the population found in India. However, due to habitat loss and poaching, the tiger population has drastically declined in recent years, with only around 3,900 individuals remaining in the wild.",
+                    "question": "In which country is the majority of the Panthera tigris population found?",
+                    "answer": "India.",
+                    "explanation": "The Panthera tigris population is mostly located in India, as stated in the passage."
+                },
+                {
+                    "context": "The species is native to Asia, with the majority of the population found in India. However, due to habitat loss and poaching, the tiger population has drastically declined in recent years, with only around 3,900 individuals remaining in the wild.",
+                    "question": "In what time frame has the population of Panthera tigris drastically declined due to habitat loss and poaching?",
+                    "answer": "Recent years.",
+                    "explanation": "The population of Panthera tigris has drastically declined in recent years due to habitat loss and poaching."
+                }
+            ],
+            "hops": [
+                "tiger",
+                "Panthera tigris."
+            ]
+        },
+        "Panthera.": {
+            "term": "Panthera.",
+            "passage": "Panthera is a genus within the family Felidae that was named and first described by the German naturalist Oken in 1816. The British taxonomist Pocock revised the classification of this genus in 1916 as comprising the species lion, tiger, jaguar, and leopard on the basis of cranial features. Results of genetic analysis indicate that the snow leopard also belongs to the Panthera, a classification that was accepted by IUCN Red List assessors in 2008. The tiger, lion, leopard, and jaguar are the only four species of big cats that can roar, as opposed to smaller cats that purr. Roaring cats are also distinguished by having a specialized larynx with an elongated vocal fold.",
+            "qae_pairs": [
+                {
+                    "context": "Panthera is a genus within the family Felidae that was named and first described by the German naturalist Oken in 1816. The British taxonomist Pocock revised the classification of this genus in 1916 as comprising the species lion, tiger, jaguar, and leopard on the basis of cranial features.",
+                    "question": "In what year did the British taxonomist Pockock revise the classification of the Panthera genus to include the species lion, jaguar, and leopard based on cranial features?",
+                    "answer": "1916.",
+                    "explanation": "The British taxonomist Pockock revised the classification of the Panthera genus in 1916 to include the species lion, jaguar, and leopard based on cranial features."
+                },
+                {
+                    "context": "Results of genetic analysis indicate that the snow leopard also belongs to the Panthera, a classification that was accepted by IUCN Red List assessors in 2008. The tiger, lion, leopard, and jaguar are the only four species of big cats that can roar, as opposed to smaller cats that purr.",
+                    "question": "In what year did IUCN Red List assessors accept the classification of snow leopard as a member of Panthera?",
+                    "answer": "2008.",
+                    "explanation": "The classification of snow leopard as a member of Panthera was accepted by IUCN Red List assessors in 2008, as indicated by genetic analysis results."
+                }
+            ],
+            "hops": [
+                "tiger",
+                "Panthera."
+            ]
+        },
+        "Earth.": {
+            "term": "Earth.",
+            "passage": "Earth is the third planet from the Sun and the only astronomical object known to harbor life. According to radiometric dating and other sources of evidence, Earth formed over 4.5 billion years ago. Earth's gravity interacts with other objects in space, especially the Sun and the Moon, which is Earth's only natural satellite. Earth orbits around the Sun in 365.256 solar days, a period known as an Earth year. During this time, Earth rotates about its axis about 366.256 times. Earth's axis of rotation is tilted with respect to its orbital plane, producing seasons on Earth. The gravitational interaction between Earth and the Moon causes ocean tides, stabilizes Earth's orientation on its axis, and gradually slows its rotation. Earth's atmosphere consists mostly of nitrogen and oxygen, with small amounts of water vapor, carbon dioxide, and other gases. The atmospheric pressure varies at different layers and is about 1 atm at sea level. Earth's biosphere has significantly altered its atmosphere, oceans, and other abiotic factors, enabling the proliferation of aerobic organisms as well as the formation of the ozone layer which, together with Earth's magnetic field, blocks harmful solar radiation, permitting life on land. The physical properties of the Earth, as well as its geological history and orbit, have allowed life to persist.",
+            "qae_pairs": [
+                {
+                    "context": "Earth is the third planet from the Sun and the only astronomical object known to harbor life. According to radiometric dating and other sources of evidence, Earth formed over 4.5 billion years ago.",
+                    "question": "What is the name of the star that Earth orbits around?",
+                    "answer": "Sun.",
+                    "explanation": "The star that Earth orbits around is referred to as the Sun, as stated in the passage."
+                },
+                {
+                    "context": "Earth's gravity interacts with other objects in space, especially the Sun and the Moon, which is Earth's only natural satellite. Earth orbits around the Sun in 365.256 solar days, a period known as an Earth year.",
+                    "question": "What is Earth's only natural satellite?",
+                    "answer": "The Moon.",
+                    "explanation": "The passage states that the Moon is Earth's only natural satellite."
+                }
+            ],
+            "hops": [
+                "tiger",
+                "Earth."
+            ]
+        },
+        "Russia.": {
+            "term": "Russia.",
+            "passage": "Russia, officially known as the Russian Federation, is the largest country in the world by land area, covering more than one-eighth of the Earth's inhabited land area. It is located in Eastern Europe and Northern Asia, and shares borders with Norway, Finland, Estonia, Latvia, Lithuania, Poland, Belarus, Ukraine, Georgia, Azerbaijan, Kazakhstan, China, North Korea, and Mongolia. The country has a population of over 144 million people, making it the ninth most populous country in the world. The capital and largest city is Moscow, which is also one of the largest cities in Europe. Russia is a federal semi-presidential republic, with a president as the head of state and a prime minister as the head of government. The country is known for its rich history, diverse culture, and vast natural resources, including oil, gas, and minerals. It is also home to many famous landmarks, such as the Kremlin, Red Square, and Saint Basil's Cathedral. Despite its size and wealth, Russia faces many challenges, including political instability, economic inequality, and social unrest.",
+            "qae_pairs": [
+                {
+                    "context": "Russia, officially known as the Russian Federation, is the largest country in the world by land area, covering more than one-eighth of the Earth's inhabited land area. It is located in Eastern Europe and Northern Asia, and shares borders with Norway, Finland, Estonia, Latvia, Lithuania, Poland, Belarus, Ukraine, Georgia, Azerbaijan, Kazakhstan, China, North Korea, and Mongolia.",
+                    "question": "Which country shares a border with Russia and is located south of Georgia?",
+                    "answer": "Azerbaijan.",
+                    "explanation": "Azerbaijan is a country that shares a border with Russia and is located south of Georgia."
+                },
+                {
+                    "context": "The country has a population of over 144 million people, making it the ninth most populous country in the world. The capital and largest city is Moscow, which is also one of the largest cities in Europe.",
+                    "question": "What is the capital and largest city of Russia?",
+                    "answer": "Moscow.",
+                    "explanation": "The capital and largest city of Russia is Moscow, which is also one of the largest cities in Europe."
+                },
+                {
+                    "context": "The country has a population of over 144 million people, making it the ninth most populous country in the world. The capital and largest city is Moscow, which is also one of the largest cities in Europe.",
+                    "question": "Which continent is Moscow, the largest city in Russia, also one of the largest cities in?",
+                    "answer": "Europe.",
+                    "explanation": "Moscow, the largest city in Russia, is also one of the largest cities in Europe."
+                },
+                {
+                    "context": "It is also home to many famous landmarks, such as the Kremlin, Red Square, and Saint Basil's Cathedral. Despite its size and wealth, Russia faces many challenges, including political instability, economic inequality, and social unrest.",
+                    "question": "What famous landmark in Russia is known for its distinctive red walls and towers and serves as the official residence of the President of the Russian Federation?",
+                    "answer": "The Kremlin.",
+                    "explanation": "The famous landmark in Russia that serves as the official residence of the President of the Russian Federation and is known for its distinctive red walls and towers is the Kremlin."
+                }
+            ],
+            "hops": [
+                "tiger",
+                "Russia."
+            ]
+        },
+        "WWF.": {
+            "term": "WWF.",
+            "passage": "The World Wide Fund for Nature (WWF) is an international non-governmental organization founded in 1961, working in the field of the wilderness preservation, and the reduction of human impact on the environment. It was formerly named the World Wildlife Fund, which remains its official name in Canada and the United States. It is the world's largest conservation organization with over five million supporters worldwide, working in more than 100 countries, supporting around 1,300 conservation and environmental projects. WWF is a foundation, with 55% of funding from individuals and bequests, 19% from government sources (such as the World Bank, DFID, USAID) and 8% from corporations in 2014. The group's mission is \"to stop the degradation of the planet’s natural environment and to build a future in which humans live in harmony with nature.\" Currently, much of its work focuses on the conservation of three biomes that contain most of the world's biodiversity: forests, freshwater ecosystems, and oceans and coasts. Among other issues, it is also concerned with endangered species, pollution and climate change.",
+            "qae_pairs": [
+                {
+                    "context": "It is the world's largest conservation organization with over five million supporters worldwide, working in more than 100 countries, supporting around 1,300 conservation and environmental projects. WWF is a foundation, with 55% of funding from individuals and bequests, 19% from government sources (such as the World Bank, DFID, USAID) and 8% from corporations in 2014.",
+                    "question": "What is one of the government sources that provided funding to WWF in  2104?",
+                    "answer": "World Bank.",
+                    "explanation": "In 2104, one of the sources of funding for WWF was the World Bank, as stated in the passage."
+                }
+            ],
+            "hops": [
+                "tiger",
+                "WWF."
+            ]
+        },
+        "Giraffa camelopardalis.": {
+            "term": "Giraffa camelopardalis.",
+            "passage": "Giraffa camelopardalis is a species of even-toed ungulate and the tallest living terrestrial animal. It is native to Africa and can be found in savannas, grasslands, and open woodlands. The giraffe has a long neck and legs, a short body, and a distinctive coat pattern of irregular patches of brown and white. The male giraffe can grow up to 18 feet tall, while the female is slightly shorter. Both sexes have two small horns called ossicones on their heads. The giraffe is a herbivore and feeds on leaves, flowers, and fruits from trees and shrubs. It has a unique cardiovascular system that allows it to pump blood up its long neck to its brain without causing damage. The giraffe is listed as vulnerable on the IUCN Red List due to habitat loss and poaching for its meat, hide, and bones. Conservation efforts are underway to protect this iconic species.",
+            "qae_pairs": [
+                {
+                    "context": "Giraffa camelopardalis is a species of even-toed ungulate and the tallest living terrestrial animal. It is native to Africa and can be found in savannas, grasslands, and open woodlands.",
+                    "question": "In which continent is the native habitat of the species Giraffa camelopardalis?",
+                    "answer": "Africa.",
+                    "explanation": "The species Giraffa camelopardalis is found in savannas, grasslands, and open woodlands in Africa, which indicates that its native habitat is in Africa."
+                },
+                {
+                    "context": "Both sexes have two small horns called ossicones on their heads. The giraffe is a herbivore and feeds on leaves, flowers, and fruits from trees and shrubs.",
+                    "question": "What are the two small horns on the head of Giraffa camelopardalis called?",
+                    "answer": "ossicones",
+                    "explanation": "The small horns on the head of Giraffa camelopardalis are called ossicones, as stated in the passage."
+                }
+            ],
+            "hops": [
+                "giraffe",
+                "Giraffa camelopardalis."
+            ]
+        },
+        "Africa.": {
+            "term": "Africa.",
+            "passage": "Africa is the world's second-largest and second-most populous continent, after Asia in both cases. At about 30.3 million km² (11.7 million square miles) including adjacent islands, it covers 6% of Earth's total surface area and 20% of its land area. With 1.3 billion people as of 2018, it accounts for about 16% of the world's human population. The continent is surrounded by the Mediterranean Sea to the north, the Isthmus of Suez and the Red Sea to the northeast, the Indian Ocean to the southeast and the Atlantic Ocean to the west. The continent includes Madagascar and various archipelagos. It contains 54 fully recognised sovereign states (countries), nine territories and two de facto independent states with limited or no recognition. The majority of the continent and its countries are in the Northern Hemisphere, with a substantial portion and number of countries in the Southern Hemisphere.",
+            "qae_pairs": [
+                {
+                    "context": "Africa is the world's second-largest and second-most populous continent, after Asia in both cases. At about 30.3 million km² (11.7 million square miles) including adjacent islands, it covers 6% of Earth's total surface area and 20% of its land area.",
+                    "question": "Which continent is larger and more populous than Africa?",
+                    "answer": "Asia.",
+                    "explanation": "The passage states that Africa is the second-largest and second-most populous continent, which means that there is another continent that is larger and more populous than Africa. That continent is Asia."
+                },
+                {
+                    "context": "With 1.3 billion people as of 2018, it accounts for about 16% of the world's human population. The continent is surrounded by the Mediterranean Sea to the north, the Isthmus of Suez and the Red Sea to the northeast, the Indian Ocean to the southeast and the Atlantic Ocean to the west.",
+                    "question": "What body of water lies to the southeast of Africa?",
+                    "answer": "Indian Ocean.",
+                    "explanation": "The Indian Ocean lies to the southeast of Africa."
+                },
+                {
+                    "context": "With 1.3 billion people as of 2018, it accounts for about 16% of the world's human population. The continent is surrounded by the Mediterranean Sea to the north, the Isthmus of Suez and the Red Sea to the northeast, the Indian Ocean to the southeast and the Atlantic Ocean to the west.",
+                    "question": "What is the narrow strip of land that connects Africa to Asia called?",
+                    "answer": "Isthmus of Suez.",
+                    "explanation": "The narrow strip of land that connects Africa to Asia is called the Isthmus of Suez, as stated in the passage."
+                },
+                {
+                    "context": "With 1.3 billion people as of 2018, it accounts for about 16% of the world's human population. The continent is surrounded by the Mediterranean Sea to the north, the Isthmus of Suez and the Red Sea to the northeast, the Indian Ocean to the southeast and the Atlantic Ocean to the west.",
+                    "question": "What year was the population of Africa recorded as 1.3 billion?",
+                    "answer": "2018.",
+                    "explanation": "The population of Africa was recorded as 1.3 billion in the year 2o18, as stated in the passage."
+                },
+                {
+                    "context": "The continent includes Madagascar and various archipelagos. It contains 54 fully recognised sovereign states (countries), nine territories and two de facto independent states with limited or no recognition.",
+                    "question": "Which island located within the continent of Africa is known for its unique wildlife and is home to over half of the world's species of lemurs?",
+                    "answer": "Madagascar.",
+                    "explanation": "The island within Africa that is famous for its distinct wildlife and has more than 50% of the world's lemurs is Madagascar."
+                },
+                {
+                    "context": "The continent includes Madagascar and various archipelagos. It contains 54 fully recognised sovereign states (countries), nine territories and two de facto independent states with limited or no recognition.",
+                    "question": "How many fully recognised sovereign states are there in Africa?",
+                    "answer": "54.",
+                    "explanation": "Africa has 54 fully recognised sovereign states."
+                },
+                {
+                    "context": "The majority of the continent and its countries are in the Northern Hemisphere, with a substantial portion and number of countries in the Southern Hemisphere. The majority of the continent and its countries are in the Northern Hemisphere, with a substantial portion and number of countries in the Southern Hemisphere.",
+                    "question": "In which hemisphere are a substantial number of African countries located?",
+                    "answer": "Southern Hemisphere.",
+                    "explanation": "The passage states that there is a \"substantial portion and number of countries\" in Africa located in the Southern Hemisphere, indicating that many African countries are located in this hemisphere. Therefore, the answer is that a substantial number of African countries are located in the Southern Hemisphere."
+                }
+            ],
+            "hops": [
+                "zebra",
+                "Africa."
+            ]
+        },
+        "Southern Hemisphere.": {
+            "term": "Southern Hemisphere.",
+            "passage": "The Southern Hemisphere is the half of Earth that is south of the Equator. It contains all or parts of five continents, including Antarctica, Australia, most of South America, a small part of Africa, and several islands off the continental mainland of Asia. The Southern Hemisphere is home to a diverse range of climates and ecosystems, from the frozen tundra of Antarctica to the tropical rainforests of South America and the savannas of Africa. The region is also known for its unique wildlife, including kangaroos, penguins, and various species of whales and dolphins. The Southern Hemisphere experiences opposite seasons to the Northern Hemisphere, with summer occurring from December to February and winter from June to August. Despite its vast size and diversity, the Southern Hemisphere is often overlooked in global discussions and research, with much of the world's attention focused on the more populous and economically powerful Northern Hemisphere.",
+            "qae_pairs": [
+                {
+                    "context": "The Southern Hemisphere is the half of Earth that is south of the Equator. It contains all or parts of five continents, including Antarctica, Australia, most of South America, a small part of Africa, and several islands off the continental mainland of Asia.",
+                    "question": "Which continent in the Southern Hemisphere is known for its unique wildlife, including kangaroos and koalas?",
+                    "answer": "Australia.",
+                    "explanation": "The continent in the Southern Hemisphere that is famous for its distinct wildlife, such as kangaroos and koalas, is Australia."
+                },
+                {
+                    "context": "The Southern Hemisphere is the half of Earth that is south of the Equator. It contains all or parts of five continents, including Antarctica, Australia, most of South America, a small part of Africa, and several islands off the continental mainland of Asia.",
+                    "question": "Which continent in the Southern Hemisphere is known for its extreme cold temperatures and is mostly covered by ice?",
+                    "answer": "Antarctica.",
+                    "explanation": "The continent in the Southern Hemisphere that is mostly covered by ice and known for its extreme cold temperatures is Antarctica."
+                },
+                {
+                    "context": "The Southern Hemisphere is home to a diverse range of climates and ecosystems, from the frozen tundra of Antarctica to the tropical rainforests of South America and the savannas of Africa. The region is also known for its unique wildlife, including kangaroos, penguins, and various species of whales and dolphins.",
+                    "question": "What continent is home to the savannas of the Southern Hemisphere?",
+                    "answer": "Africa.",
+                    "explanation": "The Southern Hemisphere has savannas, and Africa is the continent where they are located."
+                },
+                {
+                    "context": "The Southern Hemisphere is home to a diverse range of climates and ecosystems, from the frozen tundra of Antarctica to the tropical rainforests of South America and the savannas of Africa. The region is also known for its unique wildlife, including kangaroos, penguins, and various species of whales and dolphins.",
+                    "question": "What continent is home to the tropical rainforests in the Southern Hemisphere?",
+                    "answer": "South America.",
+                    "explanation": "The Southern Hemisphere has tropical rainforests, and they are located in South America."
+                },
+                {
+                    "context": "The Southern Hemisphere experiences opposite seasons to the Northern Hemisphere, with summer occurring from December to February and winter from June to August. Despite its vast size and diversity, the Southern Hemisphere is often overlooked in global discussions and research, with much of the world's attention focused on the more populous and economically powerful Northern Hemisphere.",
+                    "question": "During which months does the Southern Hemisphere experience winter?",
+                    "answer": "June to August.",
+                    "explanation": "The Southern Hemisphere experiences winter from June to August, as stated in the passage."
+                },
+                {
+                    "context": "The Southern Hemisphere experiences opposite seasons to the Northern Hemisphere, with summer occurring from December to February and winter from June to August. Despite its vast size and diversity, the Southern Hemisphere is often overlooked in global discussions and research, with much of the world's attention focused on the more populous and economically powerful Northern Hemisphere.",
+                    "question": "During which months does the Southern Hemisphere experience summer?",
+                    "answer": "December to February.",
+                    "explanation": "The Southern Hemisphere has summer from December to February."
+                }
+            ],
+            "hops": [
+                "penguin",
+                "Southern Hemisphere."
+            ]
+        },
+        "South Central China.": {
+            "term": "South Central China.",
+            "passage": "South Central China is a region of China that encompasses the provinces of Hunan, Hubei, and Henan, as well as the municipality of Chongqing. This region is known for its rich history, diverse culture, and stunning natural landscapes. The region is home to several important cities, including Wuhan, Changsha, and Zhengzhou, which are major economic and cultural centers in China. South Central China is also known for its delicious cuisine, which is characterized by spicy and flavorful dishes that are popular throughout the country. The region is also home to several important historical and cultural sites, including the ancient city of Fenghuang, the Wudang Mountains, and the Shaolin Temple. With its unique blend of history, culture, and natural beauty, South Central China is a fascinating destination for travelers from around the world.",
+            "qae_pairs": [
+                {
+                    "context": "South Central China is a region of China that encompasses the provinces of Hunan, Hubei, and Henan, as well as the municipality of Chongqing. This region is known for its rich history, diverse culture, and stunning natural landscapes.",
+                    "question": "Which province is included in South Central China and is known for its spicy cuisine and stunning natural scenery?",
+                    "answer": "Hunan.",
+                    "explanation": "The province known for its spicy cuisine and stunning natural scenery in South Central China is Hunan."
+                },
+                {
+                    "context": "South Central China is a region of China that encompasses the provinces of Hunan, Hubei, and Henan, as well as the municipality of Chongqing. This region is known for its rich history, diverse culture, and stunning natural landscapes.",
+                    "question": "Which province is included in South Central China and shares its borders with Shaanxi and Anhui provinces?",
+                    "answer": "Henan.",
+                    "explanation": "Henan province is part of South Central China and it shares borders with Shaanxi and Anhui provinces."
+                },
+                {
+                    "context": "South Central China is a region of China that encompasses the provinces of Hunan, Hubei, and Henan, as well as the municipality of Chongqing. This region is known for its rich history, diverse culture, and stunning natural landscapes.",
+                    "question": "Which municipality is included in the region of South Central China?",
+                    "answer": "Chongqing.",
+                    "explanation": "The municipality of Chongqing is part of the South Central China region, as stated in the passage."
+                },
+                {
+                    "context": "The region is also home to several important historical and cultural sites, including the ancient city of Fenghuang, the Wudang Mountains, and the Shaolin Temple. With its unique blend of history, culture, and natural beauty, South Central China is a fascinating destination for travelers from around the world.",
+                    "question": "What is the name of the mountain range located in South Central China that is known for its historical and cultural significance?",
+                    "answer": "Wudang Mountains.",
+                    "explanation": "The mountain range in South Central China that is known for its historical and cultural significance is called the Wudang Mountains."
+                },
+                {
+                    "context": "The region is also home to several important historical and cultural sites, including the ancient city of Fenghuang, the Wudang Mountains, and the Shaolin Temple. With its unique blend of history, culture, and natural beauty, South Central China is a fascinating destination for travelers from around the world.",
+                    "question": "What ancient city is located in South Central China and is known for its historical and cultural significance?",
+                    "answer": "Fenghuang.",
+                    "explanation": "The ancient city in South Central China that is known for its historical and cultural significance is Fenghuang."
+                }
+            ],
+            "hops": [
+                "panda",
+                "South Central China."
+            ]
+        },
+        "Sichuan.": {
+            "term": "Sichuan.",
+            "passage": "Sichuan is a province in southwest China known for its spicy cuisine, stunning natural scenery, and rich cultural heritage. The region is home to over 80 million people and covers an area of 485,000 square kilometers. Sichuan is known for its unique geography, which includes towering mountains, deep river valleys, and vast plains. The province is also home to several important rivers, including the Yangtze, the Mekong, and the Yalong. Sichuan is famous for its spicy cuisine, which is characterized by the use of Sichuan peppercorns, chili peppers, and garlic. The region is also known for its tea culture, with many famous tea varieties originating from the province. Sichuan is home to several important historical and cultural sites, including the Leshan Giant Buddha, the Dujiangyan Irrigation System, and the Jiuzhaigou Valley Scenic and Historic Interest Area. The province is also known for its vibrant music and dance traditions, including the famous Sichuan Opera.",
+            "qae_pairs": [
+                {
+                    "context": "Sichuan is a province in southwest China known for its spicy cuisine, stunning natural scenery, and rich cultural heritage. The region is home to over 80 million people and covers an area of 485,000 square kilometers.",
+                    "question": "In which country is the province of Sichuan located?",
+                    "answer": "China.",
+                    "explanation": "Sichuan is a province in southwest China."
+                },
+                {
+                    "context": "Sichuan is known for its unique geography, which includes towering mountains, deep river valleys, and vast plains. The province is also home to several important rivers, including the Yangtze, the Mekong, and the Yalong.",
+                    "question": "What is the name of the important river that runs through Sichuan?",
+                    "answer": "Yangtze.",
+                    "explanation": "The Yangtze is one of the important rivers that flows through Sichuan, which is known for its unique geography of mountains, river valleys, and plains."
+                },
+                {
+                    "context": "Sichuan is home to several important historical and cultural sites, including the Leshan Giant Buddha, the Dujiangyan Irrigation System, and the Jiuzhaigou Valley Scenic and Historic Interest Area. The province is also known for its vibrant music and dance traditions, including the famous Sichuan Opera.",
+                    "question": "What important historical and cultural site is located in Sichuan and is known for its innovative irrigation system?",
+                    "answer": "Dujiangyan Irrigation System.",
+                    "explanation": "Sichuan has an important historical and cultural site known for its innovative irrigation system, and it is called the Dujiangyan Irrigation System."
+                }
+            ],
+            "hops": [
+                "panda",
+                "Sichuan."
+            ]
+        },
+        "Gansu.": {
+            "term": "Gansu.",
+            "passage": "Gansu is a province located in the northwest region of China. It is bordered by Inner Mongolia to the north, Ningxia to the northwest, Shaanxi to the east, Sichuan to the south, and Xinjiang to the west. The Yellow River flows through the southern part of the province, providing water for agriculture and industry. Gansu has a diverse landscape, ranging from the high mountains of the Qilian range to the vast Gobi Desert. The province has a rich history, with evidence of human habitation dating back to the Neolithic period. It was an important part of the Silk Road, a network of trade routes that connected China with the Mediterranean world. Today, Gansu is a major producer of agricultural products, including wheat, corn, and potatoes. It is also home to a number of important industries, including mining, energy, and manufacturing. The province has a population of over 26 million people, with the majority living in urban areas. Gansu is known for its unique culture, which is a blend of Han Chinese, Tibetan, and Muslim traditions. The province is home to a number of important historical and cultural sites, including the Mogao Caves, a UNESCO World Heritage Site that contains some of the finest examples of Buddhist art in the world.",
+            "qae_pairs": [
+                {
+                    "context": "Gansu is a province located in the northwest region of China. It is bordered by Inner Mongolia to the north, Ningxia to the northwest, Shaanxi to the east, Sichuan to the south, and Xinjiang to the west.",
+                    "question": "Which province borders Gansu to the north?",
+                    "answer": "Inner Mongolia.",
+                    "explanation": "Gansu is bordered by Inner Mongolia to the north."
+                },
+                {
+                    "context": "Gansu is a province located in the northwest region of China. It is bordered by Inner Mongolia to the north, Ningxia to the northwest, Shaanxi to the east, Sichuan to the south, and Xinjiang to the west.",
+                    "question": "Which province borders Gansu to the northwest?",
+                    "answer": "Ningxia.",
+                    "explanation": "Gansu is bordered by Ningxia to the northwest, as stated in the passage."
+                },
+                {
+                    "context": "Gansu is a province located in the northwest region of China. It is bordered by Inner Mongolia to the north, Ningxia to the northwest, Shaanxi to the east, Sichuan to the south, and Xinjiang to the west.",
+                    "question": "Which province is located to the south of Gansu?",
+                    "answer": "Sichuan.",
+                    "explanation": "Gansu is bordered by Sichuan to the south."
+                },
+                {
+                    "context": "The Yellow River flows through the southern part of the province, providing water for agriculture and industry. Gansu has a diverse landscape, ranging from the high mountains of the Qilian range to the vast Gobi Desert.",
+                    "question": "What river flows through the southern part of Gansu, providing water for agriculture and industry?",
+                    "answer": "Yellow River.",
+                    "explanation": "The Yellow River provides water for agriculture and industry in the southern part of Gansu."
+                },
+                {
+                    "context": "The Yellow River flows through the southern part of the province, providing water for agriculture and industry. Gansu has a diverse landscape, ranging from the high mountains of the Qilian range to the vast Gobi Desert.",
+                    "question": "What is the name of the vast desert in Gansu province?",
+                    "answer": "Gobi Desert.",
+                    "explanation": "The Gobi Desert is located in Gansu province, as mentioned in the passage."
+                },
+                {
+                    "context": "The province has a rich history, with evidence of human habitation dating back to the Neolithic period. It was an important part of the Silk Road, a network of trade routes that connected China with the Mediterranean world.",
+                    "question": "What country is Gansu located in?",
+                    "answer": "China.",
+                    "explanation": "Gansu is located in China, as it has a rich history dating back to the Neolithic period and was an important part of the Silk Road that connected China with the Mediterranean world."
+                },
+                {
+                    "context": "The province is home to a number of important historical and cultural sites, including the Mogao Caves, a UNESCO World Heritage Site that contains some of the finest examples of Buddhist art in the world. The province is home to a number of important historical and cultural sites, including the Mogao Caves, a UNESCO World Heritage Site that contains some of the finest examples of Buddhist art in the world.",
+                    "question": "What UNESCO World Heritage Site in Gansu contains some of the finest examples of Buddhist art in the world?",
+                    "answer": "Mogao Caves.",
+                    "explanation": "The UNESCO World Heritage Site in Gansu that contains some of the finest examples of Buddhist art in the world is the Mogao Caves."
+                }
+            ],
+            "hops": [
+                "panda",
+                "Gansu."
+            ]
+        },
+        "China.": {
+            "term": "China.",
+            "passage": "China, officially the People's Republic of China, is a country in East Asia. It is the world's most populous country, with a population of around 1.4 billion. Covering approximately 9.6 million square kilometers, it is the world's third or fourth-largest country by area. The country is officially divided into 23 provinces, five autonomous regions, four direct-controlled municipalities (Beijing, Tianjin, Shanghai, and Chongqing), and the special administrative regions of Hong Kong and Macau. China emerged as one of the world's earliest civilizations, in the fertile basin of the Yellow River in the North China Plain. For millennia, China's political system was based on hereditary monarchies, or dynasties, beginning with the semi-legendary Xia dynasty in 21st century BCE. Since then, China has expanded, fractured, and re-unified numerous times. In the 3rd century BCE, the Qin reunited core China and established the first Chinese empire. The succeeding Han dynasty, which ruled from 206 BCE until 220 CE, saw some of the most advanced technology at that time, including papermaking and the compass, along with agricultural and medical improvements. The invention of gunpowder and movable type in the Tang dynasty (618–907) and Northern Song Dynasty (960–1127) completed the Four Great Inventions. Tang culture spread widely in Asia, as the new Silk Route brought traders to as far as Mesopotamia and the Horn of Africa. The Qing dynasty, which lasted from 1644 until 1912, was the last imperial dynasty of China. In the late 19th century, the Qing dynasty was overthrown following the Boxer Rebellion, which was itself crushed by an international alliance led by the Eight-Nation Alliance. The establishment of the Republic of China in 1912 led to the Chinese Civil War and the division of China into the two political entities of the PRC and the ROC. The PRC is a one-party state governed by the Communist Party of China, with its seat of government in the capital city of Beijing. It exercises jurisdiction over 22 provinces, five autonomous regions, four direct-controlled municipalities (Beijing, Tianjin, Shanghai, and Chongqing), and the special administrative regions of Hong Kong and Macau. The PRC also claims Taiwan – which is controlled by the ROC – as its 23rd province, a claim controversial due to the complex political status of Taiwan and the unresolved Chinese Civil War.",
+            "qae_pairs": [
+                {
+                    "context": "China, officially the People's Republic of China, is a country in East Asia. It is the world's most populous country, with a population of around 1.4 billion.",
+                    "question": "In which region is China located?",
+                    "answer": "East Asia.",
+                    "explanation": "China is located in East Asia, as stated in the passage."
+                },
+                {
+                    "context": "China, officially the People's Republic of China, is a country in East Asia. It is the world's most populous country, with a population of around 1.4 billion.",
+                    "question": "What is the official name of the country commonly referred to as China?",
+                    "answer": "People's Republic of China.",
+                    "explanation": "The country commonly referred to as China is officially named the People's Republic of China, as stated in the passage."
+                },
+                {
+                    "context": "Covering approximately 9.6 million square kilometers, it is the world's third or fourth-largest country by area. The country is officially divided into 23 provinces, five autonomous regions, four direct-controlled municipalities (Beijing, Tianjin, Shanghai, and Chongqing), and the special administrative regions of Hong Kong and Macau.",
+                    "question": "What is the name of the special administrative region of China that is located on the southern coast and is known for its casinos and Portuguese colonial architecture?",
+                    "answer": "Macau.",
+                    "explanation": "The special administrative region of China known for its casinos and Portuguese colonial architecture is called Macau."
+                },
+                {
+                    "context": "China emerged as one of the world's earliest civilizations, in the fertile basin of the Yellow River in the North China Plain. For millennia, China's political system was based on hereditary monarchies, or dynasties, beginning with the semi-legendary Xia dynasty in 21st century BCE.",
+                    "question": "What is the name of the river that runs through the fertile basin where China emerged as one of the world's earliest civilizations?",
+                    "answer": "Yellow River.",
+                    "explanation": "The river that runs through the fertile basin where China emerged as one of the world's earliest civilizations is called the Yellow River."
+                },
+                {
+                    "context": "Since then, China has expanded, fractured, and re-unified numerous times. In the 3rd century BCE, the Qin reunited core China and established the first Chinese empire.",
+                    "question": "In what century BCE did the Qin reunite core China and establish the first Chinese empire?",
+                    "answer": "3rd century BCE.",
+                    "explanation": "The Qin reunited core China and established the first Chinese empire in the 3rd century BCE, as stated in the passage."
+                },
+                {
+                    "context": "The succeeding Han dynasty, which ruled from 206 BCE until 220 CE, saw some of the most advanced technology at that time, including papermaking and the compass, along with agricultural and medical improvements. The invention of gunpowder and movable type in the Tang dynasty (618–907) and Northern Song Dynasty (960–1127) completed the Four Great Inventions.",
+                    "question": "What year did the Han dynasty, known for its advancements in technology and agriculture, come to an end in China?",
+                    "answer": "220 CE.",
+                    "explanation": "The Han dynasty, which was known for its technological and agricultural advancements, ended in China in the year 220 CE."
+                },
+                {
+                    "context": "The succeeding Han dynasty, which ruled from 206 BCE until 220 CE, saw some of the most advanced technology at that time, including papermaking and the compass, along with agricultural and medical improvements. The invention of gunpowder and movable type in the Tang dynasty (618–907) and Northern Song Dynasty (960–1127) completed the Four Great Inventions.",
+                    "question": "Which dynasty ruled China from 206 BCE until 220 CE and saw advancements in technology such as papermaking and the compass, as well as improvements in agriculture and medicine?",
+                    "answer": "Han dynasty.",
+                    "explanation": "The Han dynasty ruled China from 206 BCE until 220 CE and during their reign, there were significant advancements in technology such as papermaking and the compass, as well as improvements in agriculture and medicine."
+                },
+                {
+                    "context": "Tang culture spread widely in Asia, as the new Silk Route brought traders to as far as Mesopotamia and the Horn of Africa. The Qing dynasty, which lasted from 1644 until 1912, was the last imperial dynasty of China.",
+                    "question": "What year marked the end of the Qing dynasty, the last imperial dynasty of China?",
+                    "answer": "1912.",
+                    "explanation": "The Qing dynasty, which was the last imperial dynasty of China, ended in 1912."
+                },
+                {
+                    "context": "Tang culture spread widely in Asia, as the new Silk Route brought traders to as far as Mesopotamia and the Horn of Africa. The Qing dynasty, which lasted from 1644 until 1912, was the last imperial dynasty of China.",
+                    "question": "What continent did Tang culture spread widely in, as a result of the new Silk Route bringing traders to China?",
+                    "answer": "Asia.",
+                    "explanation": "Tang culture spread extensively throughout Asia due to the influx of traders brought by the new Silk Route."
+                },
+                {
+                    "context": "In the late 19th century, the Qing dynasty was overthrown following the Boxer Rebellion, which was itself crushed by an international alliance led by the Eight-Nation Alliance. The establishment of the Republic of China in 1912 led to the Chinese Civil War and the division of China into the two political entities of the PRC and the ROC.",
+                    "question": "Which dynasty was overthrown in late 1800s China following the Boxer Rebellion?",
+                    "answer": "Qing dynasty.",
+                    "explanation": "The dynasty that was overthrown in late 1800s China following the Boxer Rebellion was the Qing dynasty."
+                },
+                {
+                    "context": "In the late 19th century, the Qing dynasty was overthrown following the Boxer Rebellion, which was itself crushed by an international alliance led by the Eight-Nation Alliance. The establishment of the Republic of China in 1912 led to the Chinese Civil War and the division of China into the two political entities of the PRC and the ROC.",
+                    "question": "In what time period was the Qing dynasty overthrown and the Boxer Rebellion crushed in China?",
+                    "answer": "Late 19th century.",
+                    "explanation": "The Qing dynasty was overthrown and the Boxer Rebellion was crushed in China during the late 1800s."
+                },
+                {
+                    "context": "The PRC is a one-party state governed by the Communist Party of China, with its seat of government in the capital city of Beijing. It exercises jurisdiction over 22 provinces, five autonomous regions, four direct-controlled municipalities (Beijing, Tianjin, Shanghai, and Chongqing), and the special administrative regions of Hong Kong and Macau.",
+                    "question": "What is the abbreviation for the one-party state governed by the Communist Party of China?",
+                    "answer": "PRC.",
+                    "explanation": "The abbreviation for the one-party state governed by the Communist Party of China is PRC, as stated in the passage."
+                }
+            ],
+            "hops": [
+                "panda",
+                "China."
+            ]
+        },
+        "World Wildlife Fund.": {
+            "term": "World Wildlife Fund.",
+            "passage": "The World Wildlife Fund (WWF) is an international non-governmental organization founded in 1961 that works in the field of wilderness preservation and the reduction of human impact on the environment. It was formerly named the World Wildlife Fund, which remains its official name in Canada and the United States. It is the world's largest conservation organization with over five million supporters worldwide, working in more than 100 countries, supporting around 1,300 conservation and environmental projects. WWF is a foundation, with 55% of funding from individuals and bequests, 19% from government sources (such as the World Bank, DFID, USAID) and 8% from corporations in 2014. The group's mission is \"to stop the degradation of the planet’s natural environment and to build a future in which humans live in harmony with nature.\" Currently, much of its work focuses on the conservation of three biomes that contain most of the world's biodiversity: forests, freshwater ecosystems, and oceans and coasts. Among other issues, it is also concerned with endangered species, pollution and climate change.",
+            "qae_pairs": [
+                {
+                    "context": "The World Wildlife Fund (WWF) is an international non-governmental organization founded in 1961 that works in the field of wilderness preservation and the reduction of human impact on the environment. It was formerly named the World Wildlife Fund, which remains its official name in Canada and the United States.",
+                    "question": "In what year was the World Wildlife Fund founded?",
+                    "answer": "1961.",
+                    "explanation": "The World Wildlife Fund was founded in 1961, as stated in the passage."
+                },
+                {
+                    "context": "It is the world's largest conservation organization with over five million supporters worldwide, working in more than 100 countries, supporting around 1,300 conservation and environmental projects. WWF is a foundation, with 55% of funding from individuals and bequests, 19% from government sources (such as the World Bank, DFID, USAID) and 8% from corporations in 2014.",
+                    "question": "What is one of the government sources that provided funding to the World Wildlife Fund in  2104?",
+                    "answer": "World Bank.",
+                    "explanation": "The World Bank was one of the government sources that provided funding to the World Wildlife Fund in 2104, as stated in the passage."
+                }
+            ],
+            "hops": [
+                "panda",
+                "World Wildlife Fund."
+            ]
+        }
+    }
+}

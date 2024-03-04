@@ -1,0 +1,1407 @@
+{
+    "first_hops": {
+        "Beethoven": {
+            "term": "Beethoven",
+            "passage": "Beethoven was a German composer and pianist. He was born in Bonn, then the capital of the Electorate of Cologne in the Holy Roman Empire, on 16 December 1770. His father, Johann van Beethoven, was a musician and tenor in the service of the Elector of Cologne. Beethoven showed musical talent at an early age and was taught by his father and other local musicians. He moved to Vienna in 1792 to pursue a career as a composer and performer. Beethoven's music is characterized by his use of innovative harmony, rhythm, and form, his exploration of the expressive potential of musical instruments, and his emphasis on individuality and personal freedom. He is regarded as one of the most significant figures in the history of classical music, and his influence on the development of Western art music is profound. Beethoven's compositions for solo piano, chamber music, and symphony orchestra include some of the most famous and well-loved works in the classical music repertoire, such as the Moonlight Sonata, the Fifth Symphony, and the Ninth Symphony, which includes the famous \"Ode to Joy\" choral finale. He also composed operas, masses, and other religious music, as well as incidental music for theatrical productions. Beethoven's personal life was marked by tragedy and illness, including the loss of his hearing, which gradually worsened over time. He struggled with depression and other mental health issues, and his relationships with women were often tumultuous. Despite these challenges, he continued to compose some of his most acclaimed works during his later years.",
+            "qae_pairs": [
+                {
+                    "question": "What is the date of Beethoven's birth according to the passage?",
+                    "answer": "16 December 1770",
+                    "explanation": "According to the passage, Beethoven was born on 16 December 1770."
+                },
+                {
+                    "question": "What is the name of Beethoven's famous symphony that includes the \"Ode to Joy\" choral finale?",
+                    "answer": "the Ninth Symphony",
+                    "explanation": "The Ninth Symphony, also known as the \"Choral Symphony,\" is Beethoven's famous work that includes the \"Ode to Joy\" choral finale. This symphony was composed by Beethoven in 1824, and it is considered one of his most significant works. The \"Ode to Joy\" choral finale is a setting of Friedrich Schiller's poem \"An die Freude\" (\"To Joy\"), and it is one of the most famous and well-loved pieces of classical music."
+                },
+                {
+                    "question": "Which city did Beethoven move to in 1792 to pursue a career as a composer and performer?",
+                    "answer": "Vienna",
+                    "explanation": "Beethoven moved to Vienna in 1792 to pursue a career as a composer and performer."
+                },
+                {
+                    "question": "What was the year in which Beethoven moved to Vienna?",
+                    "answer": "1792",
+                    "explanation": "Beethoven moved to Vienna in 1792."
+                },
+                {
+                    "question": "What is the name of the city where Beethoven was born?",
+                    "answer": "the Electorate of Cologne",
+                    "explanation": "The name of the city where Beethoven was born is Bonn, which was then the capital of the Electorate of Cologne in the Holy Roman Empire."
+                },
+                {
+                    "question": "What is the birthplace of Beethoven?",
+                    "answer": "Bonn",
+                    "explanation": "Beethoven was born in Bonn, which was then the capital of the Electorate of Cologne in the Holy Roman Empire, on 16 December 1770."
+                }
+            ],
+            "hops": [
+                "Beethoven"
+            ]
+        },
+        "Mozart": {
+            "term": "Mozart",
+            "passage": "Mozart was an Austrian composer of the Classical era, born in Salzburg in 1756. He showed prodigious ability from his earliest childhood. Already competent on keyboard and violin, he composed from the age of five and performed before European royalty. At 17, Mozart went to Italy to study with the famous composer, Johann Christian Bach. He learned much from Bach, but the two did not get along, and Mozart returned to Salzburg. Mozart then traveled to Vienna, where he composed many of his most famous works, including \"The Marriage of Figaro,\" \"Don Giovanni,\" and \"The Magic Flute.\" He also composed many symphonies, chamber music, and religious music. Mozart's music is known for its beauty, complexity, and emotional depth. He was a master of melody, harmony, and form, and his music continues to be performed and loved around the world. Mozart married Constanze Weber in 1782, and the couple had six children. However, Mozart's health began to decline in the late 1780s, and he died in Vienna in 1791 at the age of 35. Despite his short life, Mozart left a lasting legacy in the world of classical music. His works continue to be studied, performed, and enjoyed by audiences of all ages and backgrounds.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the person that Mozart married in 1782?",
+                    "answer": "Constanze Weber",
+                    "explanation": "Constanze Weber."
+                },
+                {
+                    "question": "What was the era in which Mozart composed his most famous works?",
+                    "answer": "Classical",
+                    "explanation": "Mozart composed his most famous works during the Classical era."
+                },
+                {
+                    "question": "What was the year in which Mozart married Constanze Weber?",
+                    "answer": "1782",
+                    "explanation": "Mozart married Constanze Weber in 1782."
+                },
+                {
+                    "question": "What composer did Mozart study with in Italy?",
+                    "answer": "Johann Christian Bach",
+                    "explanation": "Mozart studied with Johann Christian Bach in Italy."
+                },
+                {
+                    "question": "What was the age at which Mozart began composing music?",
+                    "answer": "the age of five",
+                    "explanation": "Mozart began composing music at the age of five."
+                },
+                {
+                    "question": "What famous work did Mozart compose in Vienna?",
+                    "answer": "Don Giovanni",
+                    "explanation": "Mozart composed many famous works in Vienna, including \"The Marriage of Figaro\" and \"The Magic Flute.\" However, the specific work mentioned in the passage is \"Don Giovanni,\" which is one of Mozart's most famous operas."
+                },
+                {
+                    "question": "What was the birthplace of Mozart, the Austrian composer of the Classical era?",
+                    "answer": "Salzburg",
+                    "explanation": "Mozart was born in Salzburg, Austria."
+                },
+                {
+                    "question": "What famous composer did Mozart study with in Italy, and where did he go after that?",
+                    "answer": "Vienna",
+                    "explanation": "Mozart studied with Johann Christian Bach in Italy, but their relationship was not successful. After returning to Salzburg, Mozart traveled to Vienna, where he composed many of his most famous works, including \"The Marriage of Figaro,\" \"Don Giovanni,\" and \"The Magic Flute.\" Therefore, the correct answer is Vienna."
+                },
+                {
+                    "question": "What was the year of Mozart's birth according to the passage?",
+                    "answer": "1756",
+                    "explanation": "According to the passage, Mozart was born in Salzburg in 1756."
+                }
+            ],
+            "hops": [
+                "Mozart"
+            ]
+        },
+        "Bach": {
+            "term": "Bach",
+            "passage": "Bach is a German composer and musician who lived from 1685 to 1750. He is considered one of the greatest composers in history and is known for his intricate and complex compositions for organ, harpsichord, and other instruments. Bach's music is renowned for its technical mastery, expressive power, and intellectual rigor. He composed over 200 cantatas, many of which were written for specific occasions and performed in churches. Bach also wrote numerous instrumental works, including concertos, sonatas, and suites. His most famous works include the Goldberg Variations, the Mass in B Minor, and the Brandenburg Concertos. Bach's influence on classical music is immeasurable, and his music continues to be performed and celebrated around the world.",
+            "qae_pairs": [
+                {
+                    "question": "What is the title of Bach's most famous work for solo keyboard?",
+                    "answer": "the Goldberg Variations",
+                    "explanation": "The title of Bach's most famous work for solo keyboard is the Goldberg Variations."
+                }
+            ],
+            "hops": [
+                "Bach"
+            ]
+        },
+        "Tchaikovsky": {
+            "term": "Tchaikovsky",
+            "passage": "Tchaikovsky was a Russian composer of the Romantic era, some of his most famous works are the Nutcracker, Swan Lake, and the 1812 Overture. He was born in Votkinsk, a small town in Siberia, in 1840. His father was a mines inspector who also taught physics and chemistry. Tchaikovsky's mother died of cholera when he was only five years old, and his father sent him and his brother to a boarding school in St. Petersburg. Tchaikovsky began his musical education at the age of 10, when he was sent to the St. Petersburg Conservatory. He studied composition with Anton Rubinstein and piano with Nikolai Zaremba. Tchaikovsky's early works were influenced by the German Romantic composers, such as Mozart and Beethoven, as well as by Russian folk music. Tchaikovsky's first major success came in 1865 with his Symphony No. 1, which was performed at a concert in Moscow. He continued to compose symphonies, operas, ballets, and chamber music throughout his career. In 1877, Tchaikovsky was appointed as a professor of composition at the Moscow Conservatory, where he taught many famous composers, including Sergei Rachmaninoff and Pyotr Ilyich Tchaikovsky. Tchaikovsky's personal life was marked by tragedy and turmoil. He never married, and he struggled with his homosexuality in a society that condemned it. He also suffered from depression and anxiety, which may have contributed to his death in 1893.",
+            "qae_pairs": [
+                {
+                    "question": "What is the birthplace of Tchaikovsky?",
+                    "answer": "Votkinsk",
+                    "explanation": "Tchaikovsky was born in Votkinsk, a small town in Siberia, in 1840."
+                },
+                {
+                    "question": "What is the birthplace of Tchaikovsky according to the passage?",
+                    "answer": "Siberia",
+                    "explanation": "According to the passage, Tchaikovsky was born in Votkinsk, a small town in Siberia, in 1840."
+                },
+                {
+                    "question": "What was the age at which Tchaikovsky began his musical education?",
+                    "answer": "the age of 10",
+                    "explanation": "Tchaikovsky began his musical education at the age of 10."
+                },
+                {
+                    "question": "What was the year of Tchaikovsky's death according to the passage?  ### Explanation: The passage provides information about Tchaikovsky's life, including his birth in 1840, his mother's death from cholera when he",
+                    "answer": "1893",
+                    "explanation": "According to the passage, Tchaikovsky's mother died from cholera when he was only five years old, and his father sent him and his brother to a boarding school in St. Petersburg. Tchaikovsky began his musical education at the age of 10, when he was sent to the St. Petersburg Conservatory. The passage also mentions that Tchaikovsky's personal life was marked by tragedy and turmoil, including depression and anxiety, which may have contributed to his death in 1893."
+                },
+                {
+                    "question": "What is the name of the institution where Tchaikovsky began his musical education at the age of 10?",
+                    "answer": "the St. Petersburg Conservatory",
+                    "explanation": "The passage describes that Tchaikovsky began his musical education at the age of 10, and he was sent to the St. Petersburg Conservatory. Therefore, the name of the institution where Tchaikovsky began his musical education is the St. Petersburg Conservatory."
+                },
+                {
+                    "question": "What is the name of the composer who taught Tchaikovsky composition at the St. Petersburg Conservatory?",
+                    "answer": "Anton Rubinstein",
+                    "explanation": "Anton Rubinstein was the composer who taught Tchaikovsky composition at the St. Petersburg Conservatory."
+                },
+                {
+                    "question": "What is the name of the music conservatory where Tchaikovsky studied as a child and later taught as a professor?",
+                    "answer": "the Moscow Conservatory",
+                    "explanation": "The name of the music conservatory where Tchaikovsky studied as a child and later taught as a professor is the Moscow Conservatory."
+                },
+                {
+                    "question": "What was Tchaikovsky's age when his mother died of cholera?",
+                    "answer": "only five years old",
+                    "explanation": "Tchaikovsky was only five years old when his mother died of cholera."
+                },
+                {
+                    "question": "What year was Tchaikovsky appointed as a professor of composition at the Moscow Conservatory?",
+                    "answer": "1877",
+                    "explanation": "Tchaikovsky was appointed as a professor of composition at the Moscow Conservatory in 1877."
+                },
+                {
+                    "question": "What was the year of Tchaikovsky's first major success as a composer?",
+                    "answer": "1865",
+                    "explanation": "The passage describes that Tchaikovsky's first major success as a composer came in 1865 with his Symphony No. 1, which was performed at a concert in Moscow."
+                },
+                {
+                    "question": "What is the name of Tchaikovsky's first major successful symphony?",
+                    "answer": "Symphony No. 1",
+                    "explanation": "Symphony No. 1."
+                },
+                {
+                    "question": "What was the year of Tchaikovsky's birth according to the passage?",
+                    "answer": "1840",
+                    "explanation": "According to the passage, Tchaikovsky was born in 1840."
+                }
+            ],
+            "hops": [
+                "Tchaikovsky"
+            ]
+        },
+        "Schubert": {
+            "term": "Schubert",
+            "passage": "Schubert is a German composer who lived from 1797 to 1828. He is considered one of the most important composers of the late Classical and early Romantic eras. His music is known for its emotional depth and technical mastery. Franz Peter Schubert was born in Himmelpfort, a suburb of Vienna, Austria, in 1797. His father was a school administrator and his mother was a homemaker. Schubert began composing music at a young age, and by the time he was 16, he had already composed over 600 works. Schubert's music was influenced by the Classical composers who came before him, such as Mozart and Beethoven. However, he also incorporated elements of Romanticism into his music, which was becoming increasingly popular during his time. Some of Schubert's most famous works include his Symphony No. 8, his Mass in G Major, and his song cycle Winterreise. He also composed many chamber works, including string quartets and piano trios. Despite his musical talent, Schubert struggled financially and was often unable to earn a living through his compositions. He died in 1828 at the age of 31 from syphilis, a disease he had contracted earlier in life. Despite his short life and lack of commercial success, Schubert's music has endured and is still widely performed and appreciated today. He is considered one of the greatest composers in the history of classical music.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the disease that Schubert died from at the age of 31?",
+                    "answer": "syphilis",
+                    "explanation": "The name of the disease that Schubert died from at the age of 31 is syphilis."
+                },
+                {
+                    "question": "What is the name of the suburb in Vienna, Austria where Franz Peter Schubert was born in 1797?",
+                    "answer": "Himmelpfort",
+                    "explanation": "The name of the suburb in Vienna, Austria where Franz Peter Schubert was born in 1797 is Himmelpfort."
+                },
+                {
+                    "question": "What was the age of Franz Peter Schubert when he died?",
+                    "answer": "the age of 31",
+                    "explanation": "According to the passage, Franz Peter Schubert died at the age of 31."
+                },
+                {
+                    "question": "What was the age at which Schubert began composing music?",
+                    "answer": "16",
+                    "explanation": "According to the passage, Franz Peter Schubert began composing music at the age of 16."
+                },
+                {
+                    "question": "What is the name of Schubert's song cycle that is widely performed and appreciated today?",
+                    "answer": "Winterreise",
+                    "explanation": "Winterreise is the name of Schubert's song cycle that is widely performed and appreciated today."
+                },
+                {
+                    "question": "What city was Franz Peter Schubert born in, according to the passage?",
+                    "answer": "Vienna",
+                    "explanation": "According to the passage, Franz Peter Schubert was born in Himmelpfort, a suburb of Vienna, Austria, in 1797."
+                },
+                {
+                    "question": "Which of Schubert's works is considered one of the most famous and is still widely performed and appreciated today?",
+                    "answer": "Symphony No. 8",
+                    "explanation": "Symphony No. 8 is considered one of Schubert's most famous works and is still widely performed and appreciated today."
+                },
+                {
+                    "question": "What country was Franz Peter Schubert born in?",
+                    "answer": "Austria",
+                    "explanation": "Franz Peter Schubert was born in Himmelpfort, a suburb of Vienna, Austria, in 1797."
+                },
+                {
+                    "question": "What was the duration of Schubert's life?",
+                    "answer": "1797 to 1828",
+                    "explanation": "The duration of Schubert's life was from 1797 to 1828."
+                }
+            ],
+            "hops": [
+                "Schubert"
+            ]
+        },
+        "Brahms": {
+            "term": "Brahms",
+            "passage": "Brahms was a German composer and pianist who lived from 1833 to 1897. He is considered one of the greatest composers of the Romantic period, known for his symphonies, concertos, chamber music, and choral works. Brahms was born in Hamburg, Germany, into a family of musicians. His father was a double-bass player and his mother was a seamstress. Brahms began playing the piano at an early age and was a child prodigy. He went on to study music with several prominent musicians, including Eduard Marxsen, who became his mentor. Brahms' music is characterized by its rich harmonies, complex counterpoint, and strong emotional content. His works often feature a combination of traditional and experimental elements, such as the use of folk melodies and unconventional forms. Brahms was also known for his mastery of orchestration, which he used to create vivid and dynamic soundscapes. Brahms' most famous works include his four symphonies, his two piano concertos, and his chamber music for strings. He also wrote several choral works, including the Ein deutsches Requiem (A German Requiem), which is considered one of the greatest choral works of all time. Brahms was a perfectionist when it came to his music, often revising and editing his works multiple times before they were published. Despite his success as a composer, Brahms struggled with depression and loneliness throughout his life. He never married and had few close friends. However, he found solace in his music, and it was through his compositions that he achieved immortality.",
+            "qae_pairs": [
+                {
+                    "question": "What is the city where Brahms was born?",
+                    "answer": "Hamburg",
+                    "explanation": "Brahms was born in Hamburg, Germany."
+                },
+                {
+                    "question": "What is the title of Brahms' most famous choral work?",
+                    "answer": "Requiem",
+                    "explanation": "The title of Brahms' most famous choral work is Ein deutsches Requiem (A German Requiem)."
+                },
+                {
+                    "question": "What was the time period during which Brahms lived?",
+                    "answer": "1833 to 1897",
+                    "explanation": "Brahms lived during the Romantic period, specifically from 1833 to 1897."
+                },
+                {
+                    "question": "What is the name of the mentor who taught Brahms about music?",
+                    "answer": "Eduard Marxsen",
+                    "explanation": "The name of the mentor who taught Brahms about music is Eduard Marxsen."
+                }
+            ],
+            "hops": [
+                "Brahms"
+            ]
+        },
+        "Handel": {
+            "term": "Handel",
+            "passage": "Handel was an English composer who was born in 1685 in Halle, Germany. He is considered one of the greatest composers of the Baroque period and is best known for his operas, oratorios, and instrumental music. Handel's music was characterized by its dramatic and emotional intensity, as well as its technical complexity and formal structure. Handel began his musical career as a violinist and harpsichordist in the orchestra of the Elector of Hanover, before moving to London in 1712 to pursue a career as a composer. He quickly established himself as one of the leading composers of his time, producing a series of operas, oratorios, and instrumental works that were celebrated for their technical skill and emotional depth. One of Handel's most famous works is the Messiah, an oratorio that he composed in just 24 days in 1741. The Messiah is considered one of the greatest works of sacred music and is still performed around the world today. Other notable works include the Water Music, a series of suites for orchestra that was composed for King George I, and the Fireworks Music, which was written to celebrate the Peace of Utrecht in 1713. Handel was also known for his operas, which included works such as Rinaldo, Giulio Cesare, and Tamerlano. These operas were characterized by their dramatic and emotional intensity, as well as their technical complexity and formal structure. Handel's influence on music can still be felt today, with many of his works remaining popular and widely performed. He was a pioneer of the oratorio form, which combined elements of opera and church music to create a new form of sacred music.",
+            "qae_pairs": [
+                {
+                    "question": "What was Handel's employment before he moved to London in 1712?",
+                    "answer": "the Elector of Hanover",
+                    "explanation": "According to the passage, Handel began his musical career as a violinist and harpsichordist in the orchestra of the Elector of Hanover."
+                },
+                {
+                    "question": "What is the name of the German city where Handel was born?",
+                    "answer": "Halle",
+                    "explanation": "The name of the German city where Handel was born is Halle."
+                },
+                {
+                    "question": "What is the year in which Handel composed the Messiah?",
+                    "answer": "1741",
+                    "explanation": "The passage states that Handel composed the Messiah in 24 days in 1741. Therefore, the year in which Handel composed the Messiah is 1741."
+                },
+                {
+                    "question": "Which country was Handel born in?",
+                    "answer": "Germany",
+                    "explanation": "Handel was born in Halle, Germany in 1685."
+                },
+                {
+                    "question": "What is the year of Handel's birth according to the passage?",
+                    "answer": "1685",
+                    "explanation": "According to the passage, Handel was born in 1685 in Halle, Germany."
+                },
+                {
+                    "question": "What year did Handel move to London to pursue a career as a composer?",
+                    "answer": "1712",
+                    "explanation": "Handel moved to London in 1712 to pursue a career as a composer."
+                },
+                {
+                    "question": "How long did it take Handel to compose the Messiah?",
+                    "answer": "just 24 days",
+                    "explanation": "According to the passage, Handel composed the Messiah in just 24 days."
+                }
+            ],
+            "hops": [
+                "Handel"
+            ]
+        },
+        "Vivaldi": {
+            "term": "Vivaldi",
+            "passage": "Vivaldi was an Italian composer, violinist, and organist born in Venice in 1678. He is considered one of the greatest Baroque composers of all time, and his music is known for its technical complexity, emotional intensity, and formal innovation. Vivaldi's compositions spanned a variety of genres, including sacred music, opera, and instrumental concertos. He composed over 500 concertos, many of which were written for the all-female orchestra he founded in 1725, known as the \"Vivaldi Girls.\" Vivaldi's music was highly influential during his lifetime and continued to be popular throughout the 18th century. However, his music fell out of favor in the 19th century, and he was largely forgotten until the 20th century, when a revival of interest in Baroque music led to a renewed appreciation for his work. Today, Vivaldi is widely regarded as one of the greatest composers of all time, and his music continues to be performed and recorded by orchestras and soloists around the world. Vivaldi's most famous works include \"The Four Seasons,\" a series of four violin concertos that depict the changing seasons, and \"Gloria,\" a sacred cantata that is considered one of the greatest choral works of the Baroque period. Other notable works include \"Lauda Jerusalem,\" a setting of the Latin text of Psalm 118, and \"Motet RV 589,\" a setting of the \"Gloria\" text. Vivaldi's contributions to the development of the concerto form were significant, and his concertos are known for their innovative use of harmony, form, and orchestration.",
+            "qae_pairs": [
+                {
+                    "question": "What year did Vivaldi found the \"Vivaldi Girls\" orchestra?",
+                    "answer": "1725",
+                    "explanation": "Vivaldi founded the \"Vivaldi Girls\" orchestra in 1725."
+                },
+                {
+                    "question": "What city was the birthplace of Vivaldi, the Italian composer, violinist, and organist known for his Baroque music and contributions to the concerto form?",
+                    "answer": "Venice",
+                    "explanation": "Venice was the birthplace of Vivaldi, the Italian composer, violinist, and organist known for his Baroque music and contributions to the concerto form."
+                },
+                {
+                    "question": "What was the time period during which Vivaldi's music was highly influential and popular?",
+                    "answer": "the 18th century",
+                    "explanation": "The time period during which Vivaldi's music was highly influential and popular was the 18th century."
+                },
+                {
+                    "question": "What century did Vivaldi's music fall out of favor in?",
+                    "answer": "the 19th century",
+                    "explanation": "Vivaldi's music fell out of favor in the 19th century."
+                },
+                {
+                    "question": "What is the genre of music that Vivaldi is known for?",
+                    "answer": "Baroque",
+                    "explanation": "Vivaldi is known for his contributions to the Baroque genre of music, which is characterized by its elaborate ornamentation, complex counterpoint, and emotional intensity. His compositions spanned a variety of genres within the Baroque period, including sacred music, opera, and instrumental concertos. Vivaldi's most famous works include \"The Four Seasons,\" a series of four violin concertos that depict the changing seasons, and \"Gloria,\" a sacred cantata that is considered one of the greatest choral works of the Baroque period."
+                }
+            ],
+            "hops": [
+                "Vivaldi"
+            ]
+        },
+        "Rossini": {
+            "term": "Rossini",
+            "passage": "1. Rossini was an Italian composer who lived from 1792 to 1868. 2. He is known for his operas, which were popular in Europe during the 19th century. 3. Rossini's music is characterized by its lively and energetic rhythms, as well as its use of melodic themes that are easily recognizable. 4. Some of his most famous works include \"The Barber of Seville,\" \"La Cenerentola,\" and \"Il Turco in Italia.\" 5. Rossini's music was influential in the development of the bel canto style, which emphasized beautiful singing and vocal display. 6. He also composed a number of sacred works, including masses and cantatas, as well as chamber music and instrumental works. 7. Rossini was born in Pesaro, Italy, and began his musical career as a choirboy. 8. He went on to study music in Bologna and Rome, and eventually became a composer and conductor. 9. Rossini's operas were performed at many of the major opera houses in Europe, including La Scala in Milan, the Royal Opera House in London, and the Opéra in Paris. 10. He was also known for his wit and humor, and was often called upon to write music for special occasions, such as the coronation of a new monarch.",
+            "qae_pairs": [
+                {
+                    "question": "What is the time period during which Rossini lived?",
+                    "answer": "1792 to 1868",
+                    "explanation": "Rossini lived from 1792 to 1868."
+                },
+                {
+                    "question": "What famous opera house did Rossini's operas regularly perform at?",
+                    "answer": "La Scala",
+                    "explanation": "La Scala was one of the major opera houses in Europe where Rossini's operas were performed regularly."
+                },
+                {
+                    "question": "What famous opera house did Rossini's operas were performed at?",
+                    "answer": "the Royal Opera House",
+                    "explanation": "Rossini's operas were performed at the Royal Opera House in London."
+                },
+                {
+                    "question": "What city was Rossini born in?",
+                    "answer": "Pesaro",
+                    "explanation": "Rossini was born in Pesaro, Italy."
+                },
+                {
+                    "question": "What is the name of the Italian city where Rossini studied music?",
+                    "answer": "Bologna",
+                    "explanation": "Bologna is the name of the Italian city where Rossini studied music. Rossini was born in Pesaro, Italy, and began his musical career as a choirboy. He went on to study music in Bologna and Rome, and eventually became a composer and conductor. Rossini's operas were performed at many of the major opera houses in Europe, including La Scala in Milan, the Royal Opera House in London, and the Opéra in Paris."
+                },
+                {
+                    "question": "What was the time period during which Rossini's operas were popular in Europe?",
+                    "answer": "the 19th century",
+                    "explanation": "The time period during which Rossini's operas were popular in Europe was the 19th century. This is mentioned in point 2 of the passage, which states that Rossini's music was popular in Europe during the 19th century."
+                }
+            ],
+            "hops": [
+                "Rossini"
+            ]
+        }
+    },
+    "second_hops": {
+        "the Ninth Symphony": {
+            "term": "the Ninth Symphony",
+            "passage": "1. The Ninth Symphony, also known as the \"Choral Symphony,\" is a musical composition by Ludwig van Beethoven. 2. It was composed in 1822 and 1823, and was premiered in the Theater an der Wien in Vienna, Austria, on May 7, 1824. 3. The symphony is notable for its use of vocal soloists and chorus, and is considered one of Beethoven's most famous works. 4. The symphony is divided into four movements, with the fourth movement being the most famous and well-known. 5. The fourth movement, titled \"Ode to Joy,\" is a choral setting of Friedrich Schiller's poem \"An die Freude\" (To Joy). 6. It is considered one of the most significant works in the history of classical music, and is often performed at major concerts and festivals around the world. 7. The Ninth Symphony has been interpreted and performed in many different ways by various conductors and orchestras, each bringing their own unique interpretation to the work. 8. Despite being composed over 200 years ago, the Ninth Symphony continues to inspire and captivate audiences, and remains a beloved and iconic work in the classical music canon.",
+            "qae_pairs": [
+                {
+                    "question": "What year was the Ninth Symphony composed in?",
+                    "answer": "1822",
+                    "explanation": "The Ninth Symphony was composed in 1822 and 1823."
+                },
+                {
+                    "question": "What date was the Ninth Symphony premiered?",
+                    "answer": "May 7, 1824",
+                    "explanation": "The Ninth Symphony, also known as the \"Choral Symphony,\" was composed by Ludwig van Beethoven in 1822 and 1823. It was premiered on May 7, 1824, at the Theater an der Wien in Vienna, Austria."
+                },
+                {
+                    "question": "What country was the Ninth Symphony composed in?",
+                    "answer": "Austria",
+                    "explanation": "The Ninth Symphony was composed in Austria."
+                },
+                {
+                    "question": "What city was the Ninth Symphony premiered in?",
+                    "answer": "Vienna",
+                    "explanation": "The Ninth Symphony, also known as the \"Choral Symphony,\" was composed by Ludwig van Beethoven in 1822 and 1823. It was premiered in the Theater an der Wien in Vienna, Austria, on May 7, 1824."
+                }
+            ],
+            "hops": [
+                "Beethoven",
+                "the Ninth Symphony"
+            ]
+        },
+        "Vienna": {
+            "term": "Vienna",
+            "passage": "Vienna is the capital and largest city of Austria, and one of the nine states of Austria. Vienna is Austria's primary city, with a population of approximately 1.8 million (2.6 million within the metropolitan area, nearly one-third of Austria's population). In 2001, the city centre was designated a UNESCO World Heritage Site. Vienna is host to many major international organizations, including the United Nations and OPEC. The city is also known for its rich history, which dates back to the Roman Empire. This is exemplified by the city's many historic landmarks, such as St. Stephen's Cathedral and the Schönbrunn Palace. Vienna is a major cultural centre, and is home to many museums, galleries, and theatres. The city is also known for its musical heritage, with composers such as Mozart, Beethoven, and Strauss having lived and worked in Vienna. The city's musical legacy can be experienced at venues such as the Vienna State Opera and the Vienna Philharmonic Orchestra. Vienna is also known for its culinary specialties, including Wiener Schnitzel, Apfelstrudel, and Sachertorte. The city is home to many restaurants and cafes, many of which offer traditional Viennese cuisine. Vienna is located in the eastern part of Austria, and is easily accessible by air, rail, and road. The city is served by Vienna International Airport, which is located just outside the city centre.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the composer who lived and worked in Vienna, and whose music is still performed by the Vienna Philharmonic Orchestra?",
+                    "answer": "Strauss",
+                    "explanation": "The composer who lived and worked in Vienna, and whose music is still performed by the Vienna Philharmonic Orchestra is Johann Strauss."
+                },
+                {
+                    "question": "What famous composer lived and worked in Vienna, and what is his name?",
+                    "answer": "Beethoven",
+                    "explanation": "Beethoven lived and worked in Vienna, and is one of the most famous composers in history. He is known for his symphonies, piano sonatas, and chamber music, among other works. Beethoven's music is still celebrated and performed around the world today, and his influence on classical music is significant. Vienna was an important cultural center during Beethoven's time, and he was able to compose and perform his music there."
+                },
+                {
+                    "question": "What year was Vienna designated a UNESCO World Heritage Site?",
+                    "answer": "2001",
+                    "explanation": "Vienna was designated a UNESCO World Heritage Site in the year 2001. This recognition highlights the city's rich history and cultural significance, as well as its many landmarks and institutions that contribute to its unique character. Vienna's designation as a UNESCO World Heritage Site is a testament to the city's enduring legacy and importance as a cultural center, both in Austria and on the global stage."
+                },
+                {
+                    "question": "What is the name of the church located in Vienna that is known for its rich history and is a major landmark in the city?",
+                    "answer": "St. Stephen's",
+                    "explanation": "The name of the church located in Vienna that is known for its rich history and is a major landmark in the city is St. Stephen's Cathedral."
+                },
+                {
+                    "question": "What famous composer lived and worked in Vienna, and what is the answer to the question?",
+                    "answer": "Mozart",
+                    "explanation": "Mozart lived and worked in Vienna."
+                },
+                {
+                    "question": "What is the name of the famous dessert that is a specialty of Vienna, and what is the answer to the question?",
+                    "answer": "Sachertorte",
+                    "explanation": "The famous dessert that is a specialty of Vienna is called Sachertorte. It is a chocolate cake with a layer of apricot jam in the middle, and is a popular dessert in Vienna and around the world."
+                },
+                {
+                    "question": "What organization is located in Vienna and is known for its work in the oil industry?",
+                    "answer": "OPEC",
+                    "explanation": "OPEC, or the Organization of the Petroleum Exporting Countries, is located in Vienna and is known for its work in the oil industry. OPEC was founded in 1960 and is headquartered in Vienna, Austria. The organization is made up of 13 member countries, primarily from the Middle East and North Africa, and is responsible for approximately 44% of global oil production. OPEC's primary goal is to coordinate and unify the petroleum policies of its member countries and ensure the stabilization of oil markets."
+                },
+                {
+                    "question": "What international organization is located in Vienna, and what is its name?",
+                    "answer": "the United Nations",
+                    "explanation": "The international organization located in Vienna is the United Nations."
+                }
+            ],
+            "hops": [
+                "Schubert",
+                "Vienna"
+            ]
+        },
+        "the Electorate of Cologne": {
+            "term": "the Electorate of Cologne",
+            "passage": "Electorate of Cologne =============== The Electorate of Cologne was an ecclesiastical state in the Holy Roman Empire, ruled by the Archbishops of Cologne. It existed from the 4th century until the secularization of the Holy Roman Empire in 1803. The electorate covered a large area, including the modern German states of North Rhine-Westphalia, parts of Lower Saxony, and parts of Belgium. The electorate was one of the most powerful and wealthy states in the empire, and its archbishops were among the most influential figures in European politics. The electorate was dissolved during the Napoleonic Wars, and its territory was divided between France and Prussia.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the modern German state that was part of the Electorate of Cologne?",
+                    "answer": "North Rhine-Westphalia",
+                    "explanation": "North Rhine-Westphalia."
+                },
+                {
+                    "question": "What country was the Electorate of Cologne annexed to?  Answer: Prussia.",
+                    "answer": "Prussia",
+                    "explanation": "The Electorate of Cologne was annexed by Prussia during the Napoleonic Wars."
+                },
+                {
+                    "question": "What year did the Electorate of Cologne dissolve?",
+                    "answer": "1803",
+                    "explanation": "The Electorate of Cologne dissolved in 1803."
+                }
+            ],
+            "hops": [
+                "Beethoven",
+                "the Electorate of Cologne"
+            ]
+        },
+        "Bonn": {
+            "term": "Bonn",
+            "passage": "Bonn is a city on the banks of the Rhine river in the German state of North Rhine-Westphalia. With a population of over 300,000, it is the 19th-largest city in Germany. Bonn serves as the capital of the state of North Rhine-Westphalia and is located in the Cologne/Bonn region. The city was awarded the title \"German City of the Year\" in 2017. Bonn is a major cultural center in Germany, home to several museums, including the Beethoven-Haus, which is dedicated to the life and works of Ludwig van Beethoven, who was born in Bonn in 1770. The city also hosts the International Beethoven Festival, which takes place annually in the summer months. In addition to its cultural attractions, Bonn is also known for its beautiful parks and gardens, including the Botanical Garden, which was founded in 1818 and is one of the oldest in Germany. The city is also home to several historic buildings, including the Bonn Minster, a Gothic church that dates back to the 13th century. Bonn is easily accessible by train, with a main station that is served by several high-speed rail lines. The city is also located near several major highways, including the A555 and the A4.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the German state in which Bonn is located, and what is the answer to the question that meets the conditions given in the passage?",
+                    "answer": "North Rhine-Westphalia",
+                    "explanation": "The name of the German state in which Bonn is located is North Rhine-Westphalia. The answer to the question that meets the conditions given in the passage is that Bonn is a major cultural center in Germany, home to several museums, including the Beethoven-Haus, which is dedicated to the life and works of Ludwig van Beethoven, who was born in Bonn in 1770. The city also hosts the International Beethoven Festival, which takes place annually in the summer months."
+                },
+                {
+                    "question": "What year was the Bonn Botanical Garden founded in, according to the passage?",
+                    "answer": "1818",
+                    "explanation": "According to the passage, the Bonn Botanical Garden was founded in 1818."
+                },
+                {
+                    "question": "What was the year of birth of Ludwig van Beethoven, who was born in Bonn, according to the passage?",
+                    "answer": "1770",
+                    "explanation": "According to the passage, Ludwig van Beethoven was born in Bonn in 1770."
+                }
+            ],
+            "hops": [
+                "Beethoven",
+                "Bonn"
+            ]
+        },
+        "Constanze Weber": {
+            "term": "Constanze Weber",
+            "passage": "Constanze Weber (1776–1842) was a German soprano singer and the wife of Wolfgang Amadeus Mozart. She was born in Munich, the daughter of a brewer, and began her career as a singer in 1790. She met Mozart in 1789 and they were married in 1791. Constanze was a devoted wife to Mozart and stood by him throughout his life, even during his periods of poverty and illness. She was also a talented singer in her own right, and the couple often performed together. After Mozart's death in 1791, Constanze moved to Vienna, where she continued to work as a singer. She later remarried and had several children. She died in Munich in 1842 at the age of 66. Constanze Weber is remembered as the wife of Wolfgang Amadeus Mozart and as a talented singer in her own right. She was a devoted wife and a loyal supporter of her husband's music.",
+            "qae_pairs": [
+                {
+                    "question": "What city did Constanze Weber move to after the death of Wolfgang Amadeus Mozart?",
+                    "answer": "Vienna",
+                    "explanation": "Constanze Weber moved to Vienna after the death of Wolfgang Amadeus Mozart."
+                },
+                {
+                    "question": "What was the year in which Constanze Weber began her career as a singer, according to the passage?",
+                    "answer": "1790",
+                    "explanation": "Constanze Weber began her career as a singer in 1790, according to the passage."
+                },
+                {
+                    "question": "What was the year of Constanze Weber's marriage to Wolfgang Amadeus Mozart, according to the passage?",
+                    "answer": "1791",
+                    "explanation": "According to the passage, Constanze Weber was married to Wolfgang Amadeus Mozart in 1791."
+                },
+                {
+                    "question": "What was the year of Constanze Weber's death, according to the passage?",
+                    "answer": "1842",
+                    "explanation": "Constanze Weber died in Munich in 1842, according to the passage."
+                },
+                {
+                    "question": "What was the age of Constanze Weber when she passed away?",
+                    "answer": "the age of 66",
+                    "explanation": "Constanze Weber passed away at the age of 66."
+                },
+                {
+                    "question": "What city was Constanze Weber born in, according to the passage?",
+                    "answer": "Munich",
+                    "explanation": "Constanze Weber was born in Munich, according to the passage."
+                }
+            ],
+            "hops": [
+                "Mozart",
+                "Constanze Weber"
+            ]
+        },
+        "Classical": {
+            "term": "Classical",
+            "passage": "Classical music is a genre of music that originated in Europe during the 18th century. Classical music is known for its use of orchestras, choirs, and solo instruments such as the piano, violin, and cello. It is often associated with formal and elegant musical compositions, and is considered to be a cornerstone of Western art music. Classical music has had a significant influence on many other genres of music, including jazz, rock, and pop. Some of the most famous composers of classical music include Ludwig van Beethoven, Wolfgang Amadeus Mozart, and Johann Sebastian Bach.",
+            "qae_pairs": [
+                {
+                    "question": "What is the term 'Classical' referring to in the passage, and what is the answer to the question?",
+                    "answer": "the 18th century",
+                    "explanation": "The term 'Classical' in the passage refers to the genre of music that originated in Europe during the 18th century. The answer to the question is the 18th century."
+                },
+                {
+                    "question": "What is the term 'Classical' associated with in the passage?",
+                    "answer": "Europe",
+                    "explanation": "The term 'Classical' is associated with Europe in the passage."
+                }
+            ],
+            "hops": [
+                "Mozart",
+                "Classical"
+            ]
+        },
+        "Johann Christian Bach": {
+            "term": "Johann Christian Bach",
+            "passage": "Johann Christian Bach was a German composer and musician who was born on February 18, 1735, in Leipzig, Germany. He was the ninth child of Johann Sebastian Bach and Maria Barbara Bach. Johann Christian Bach was a composer of sacred music, and he was known for his keyboard music, including his many sonatas for harpsichord and organ. He was also a composer of operas, oratorios, and cantatas. Bach's music was known for its beauty, clarity, and balance. He was a prolific composer, and his works were widely performed and published during his lifetime. Bach died on January 1, 1782, in London, England, at the age of 46.",
+            "qae_pairs": [
+                {
+                    "question": "What was the name of Johann Christian Bach's father?",
+                    "answer": "Johann Sebastian Bach",
+                    "explanation": "The name of Johann Christian Bach's father was Johann Sebastian Bach."
+                },
+                {
+                    "question": "What city was Johann Christian Bach born in, according to the passage?",
+                    "answer": "Leipzig",
+                    "explanation": "According to the passage, Johann Christian Bach was born in Leipzig, Germany."
+                },
+                {
+                    "question": "What was the date of birth of Johann Christian Bach, according to the passage?",
+                    "answer": "February 18, 1735",
+                    "explanation": "According to the passage, the date of birth of Johann Christian Bach is February 18, 1735."
+                },
+                {
+                    "question": "What is the name of Johann Christian Bach's mother?",
+                    "answer": "Maria Barbara Bach",
+                    "explanation": "The name of Johann Christian Bach's mother is Maria Barbara Bach."
+                },
+                {
+                    "question": "What city did Johann Christian Bach die in, as mentioned in the passage?",
+                    "answer": "London",
+                    "explanation": "As mentioned in the passage, Johann Christian Bach died in London, England."
+                },
+                {
+                    "question": "What country was Johann Christian Bach born in?",
+                    "answer": "Germany",
+                    "explanation": "Johann Christian Bach was born in Leipzig, Germany."
+                },
+                {
+                    "question": "What was the date of Johann Christian Bach's death, according to the passage?",
+                    "answer": "January 1, 1782",
+                    "explanation": "According to the passage, Johann Christian Bach died on January 1, 1782."
+                },
+                {
+                    "question": "What was the age of Johann Christian Bach when he passed away?",
+                    "answer": "the age of 46",
+                    "explanation": "Johann Christian Bach passed away on January 1, 1782, at the age of 46."
+                }
+            ],
+            "hops": [
+                "Mozart",
+                "Johann Christian Bach"
+            ]
+        },
+        "Don Giovanni": {
+            "term": "Don Giovanni",
+            "passage": "Don Giovanni Don Giovanni is an opera in two acts with music by Wolfgang Amadeus Mozart and Italian libretto by Lorenzo Da Ponte. It is based on the legend of Don Juan, a fictional libertine and seducer. The opera was premiered in 1787 in Prague by the Prague Italian Theatre. The story begins with Don Giovanni, a wealthy nobleman, attempting to seduce the peasant girl Zerlina. She resists his advances, and he leaves with his servant Leporello. Later, Don Giovanni seduces Donna Anna, who is engaged to his brother Don Ottavio. When Don Giovanni returns to his palace, he is visited by the ghost of his murdered father, who warns him of his imminent death. In the second act, Don Giovanni continues his philandering ways, seducing the wealthy heiress Donna Elvira. He also encounters Donna Anna and Don Ottavio, who are searching for him. They confront him, but he manages to escape. Later, he is visited by Leporello, who reveals that he has been working for the Commendatore, the father of Donna Anna and Don Ottavio, and that he has killed him. Don Giovanni orders Leporello to kill the Commendatore, but he refuses. The final scene takes place in the graveyard, where Don Giovanni has been buried. The ghost of the Commendatore appears, and Don Giovanni rises from his grave, determined to seduce the ghost. However, he is dragged back down to hell by the ghost and his minions. Don Giovanni is considered one of Mozart's greatest works, and it is known for its complex characters, intricate plot, and beautiful music.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the servant who accompanies Don Giovanni in the passage?",
+                    "answer": "Leporello",
+                    "explanation": "The name of the servant who accompanies Don Giovanni in the passage is Leporello."
+                },
+                {
+                    "question": "What is the name of the peasant girl that Don Giovanni attempts to seduce in the passage?",
+                    "answer": "Zerlina",
+                    "explanation": "Zerlina is the name of the peasant girl that Don Giovanni attempts to seduce in the passage."
+                },
+                {
+                    "question": "What is the name of the legendary character upon which the opera Don Giovanni is based?",
+                    "answer": "Don Juan",
+                    "explanation": "The legendary character upon which the opera Don Giovanni is based is Don Juan."
+                },
+                {
+                    "question": "What is the name of the author of the libretto for Don Giovanni?",
+                    "answer": "Lorenzo Da Ponte",
+                    "explanation": "The author of the libretto for Don Giovanni is Lorenzo Da Ponte."
+                },
+                {
+                    "question": "What year was Don Giovanni premiered in Prague, according to the passage?",
+                    "answer": "1787",
+                    "explanation": "According to the passage, Don Giovanni was premiered in 1787 in Prague."
+                },
+                {
+                    "question": "What opera company premiered Don Giovanni in 1787?",
+                    "answer": "the Prague Italian Theatre",
+                    "explanation": "The Prague Italian Theatre was the opera company that premiered Don Giovanni in 1787."
+                }
+            ],
+            "hops": [
+                "Mozart",
+                "Don Giovanni"
+            ]
+        },
+        "Salzburg": {
+            "term": "Salzburg",
+            "passage": "1. Salzburg is a city in Austria with a population of approximately 150,000 people. 2. It is located near the German border, and is known for being the birthplace of Wolfgang Amadeus Mozart. 3. The city is also home to the Salzburg Festival, which is a renowned festival of music and drama that takes place each summer. 4. Salzburg is situated in the beautiful Salzach River valley, and is surrounded by the Alps. 5. The city has a rich history, dating back to the Roman Empire. 6. Salzburg is famous for its baroque architecture, which is reflected in the city's many churches, palaces, and other historic buildings. 7. In addition to its cultural attractions, Salzburg is also known for its delicious cuisine, which includes local specialties such as Salzburg sausage and Salzburg veal. 8. The city is easily accessible by train, with a main train station located in the heart of the city. 9. Salzburg is a popular destination for tourists from around the world, who come to explore its rich history, beautiful architecture, and vibrant cultural scene.",
+            "qae_pairs": [
+                {
+                    "question": "What is the location of Salzburg?",
+                    "answer": "Austria",
+                    "explanation": "Salzburg is a city located in Austria, with a population of approximately 150,000 people. It is situated near the German border and is known for being the birthplace of Wolfgang Amadeus Mozart. The city is also home to the Salzburg Festival, which is a renowned festival of music and drama that takes place each summer. Salzburg is situated in the beautiful Salzach River valley, and is surrounded by the Alps. The city has a rich history, dating back to the Roman Empire."
+                },
+                {
+                    "question": "What is the name of the river that flows through Salzburg and surrounds the city by the Alps?",
+                    "answer": "Salzach River",
+                    "explanation": "The river that flows through Salzburg and surrounds the city by the Alps is called the Salzach River."
+                },
+                {
+                    "question": "What are the mountains surrounding Salzburg called?",
+                    "answer": "Alps",
+                    "explanation": "The mountains surrounding Salzburg are called the Alps."
+                }
+            ],
+            "hops": [
+                "Mozart",
+                "Salzburg"
+            ]
+        },
+        "the Goldberg Variations": {
+            "term": "the Goldberg Variations",
+            "passage": "1. The Goldberg Variations is a musical composition for harpsichord by Johann Sebastian Bach. 2. The piece consists of an aria and a set of 30 variations, each with its own unique melody and harmony. 3. The Goldberg Variations was composed in 1741, during Bach's tenure as music director for the court of Frederick the Great in Potsdam, Germany. 4. The aria and first variation are based on a simple melody, but the subsequent variations become increasingly complex and virtuosic. 5. The piece is named after Johann Gottlieb Goldberg, a young keyboard prodigy who may have commissioned the work. 6. The Goldberg Variations is considered one of Bach's greatest masterpieces and is widely regarded as one of the greatest works of classical music. 7. The piece has been transcribed for numerous instruments, including piano, organ, and string quartet. 8. The Goldberg Variations has been the subject of numerous recordings and performances by some of the greatest musicians of the 20th and 21st centuries. 9. The piece has also been used as inspiration for a variety of other works, including literature, art, and film. 10. The Goldberg Variations continues to be a source of fascination and inspiration for musicians and music lovers around the world.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the composer who wrote the Goldberg Variations, and in which country was the piece composed?",
+                    "answer": "Germany",
+                    "explanation": "The composer who wrote the Goldberg Variations is Johann Sebastian Bach. The piece was composed in Germany, specifically during Bach's tenure as music director for the court of Frederick the Great in Potsdam."
+                },
+                {
+                    "question": "What is the name of the young keyboard prodigy who may have commissioned the Goldberg Variations?",
+                    "answer": "Johann Gottlieb Goldberg",
+                    "explanation": "The young keyboard prodigy who may have commissioned the Goldberg Variations is named Johann Gottlieb Goldberg."
+                },
+                {
+                    "question": "What year was the Goldberg Variations composed?",
+                    "answer": "1741",
+                    "explanation": "The Goldberg Variations was composed in 1741 by Johann Sebastian Bach."
+                },
+                {
+                    "question": "What is the name of the city where Johann Sebastian Bach composed the Goldberg Variations?",
+                    "answer": "Potsdam",
+                    "explanation": "The Goldberg Variations was composed in Potsdam, Germany."
+                }
+            ],
+            "hops": [
+                "Bach",
+                "the Goldberg Variations"
+            ]
+        },
+        "Votkinsk": {
+            "term": "Votkinsk",
+            "passage": "Votkinsk is a town in the Sverdlovsk Oblast, Russia, located on the eastern slope of the Ural Mountains, 120 kilometers north of Yekaterinburg. As of the 2010 Census, its population was 34,971. Votkinsk was founded in 1754 as a copper mining settlement. The town's name comes from the Votka River, which flows through it. In the 19th century, Votkinsk became a center of the Russian copper industry, and its population grew rapidly. Today, Votkinsk is a large industrial town with a significant mining and metallurgical complex. The town also has a number of cultural and educational institutions, including a museum of local lore and a branch of the Ural State Technical University. Votkinsk is located on the main railway line connecting Yekaterinburg with the city of Nizhny Tagil, and has a number of bus routes connecting it with other parts of the region. The town is also served by the Votkinsk Airport, which offers regular flights to Moscow and other major cities.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the river that flows through Votkinsk and what is the answer to the question?",
+                    "answer": "the Votka River",
+                    "explanation": "The name of the river that flows through Votkinsk is the Votka River."
+                },
+                {
+                    "question": "What was the year when Votkinsk was founded as a copper mining settlement?",
+                    "answer": "1754",
+                    "explanation": "According to the passage, Votkinsk was founded in 1754 as a copper mining settlement."
+                },
+                {
+                    "question": "What is the name of the oblast in which Votkinsk is located?",
+                    "answer": "the Sverdlovsk Oblast",
+                    "explanation": "The name of the oblast in which Votkinsk is located is the Sverdlovsk Oblast."
+                },
+                {
+                    "question": "What is the name of the educational institution located in Votkinsk and branch of which is mentioned in the passage?",
+                    "answer": "the Ural State Technical University",
+                    "explanation": "The educational institution located in Votkinsk and branch of which is mentioned in the passage is the Ural State Technical University."
+                }
+            ],
+            "hops": [
+                "Tchaikovsky",
+                "Votkinsk"
+            ]
+        },
+        "Siberia": {
+            "term": "Siberia",
+            "passage": "1. Siberia is a vast region in northern Asia. 2. It is part of the Russian Federation and extends from the Ural Mountains to the Pacific Ocean. 3. Siberia is known for its harsh climate and rugged terrain. 4. It is home to many indigenous peoples, including the Yakut, Buryat, and Evenk. 5. Siberia is also rich in natural resources, including oil, gas, and minerals. 6. The Trans-Siberian Railway, which runs from Moscow to Vladivostok, is a major transportation route that passes through Siberia. 7. The region has a long and complex history, with various empires and governments exerting control over different parts of Siberia over the centuries. 8. Today, Siberia is a major economic and cultural center of Russia, with a population of millions of people living in its cities and towns.",
+            "qae_pairs": [
+                {
+                    "question": "What is the continent where Siberia is located?",
+                    "answer": "Asia",
+                    "explanation": "Asia is the continent where Siberia is located."
+                },
+                {
+                    "question": "What is the name of the city located at the end of the Trans-Siberian Railway in Siberia?",
+                    "answer": "Vladivostok",
+                    "explanation": "Vladivostok is the name of the city located at the end of the Trans-Siberian Railway in Siberia."
+                },
+                {
+                    "question": "What is the name of the indigenous people who live in Siberia and are known for their traditional customs and beliefs?",
+                    "answer": "Buryat",
+                    "explanation": "The indigenous people who live in Siberia and are known for their traditional customs and beliefs are the Buryat."
+                },
+                {
+                    "question": "What is the answer to the question 'What country does Siberia belong to'?",
+                    "answer": "the Russian Federation",
+                    "explanation": "The answer to the question 'What country does Siberia belong to' is the Russian Federation. This can be inferred from the passage, which states that Siberia is part of the Russian Federation and extends from the Ural Mountains to the Pacific Ocean."
+                },
+                {
+                    "question": "What ethnic group is also known as the Tungus and is native to Siberia, according to the passage?",
+                    "answer": "Evenk",
+                    "explanation": "According to the passage, the ethnic group also known as the Tungus and is native to Siberia is Evenk."
+                }
+            ],
+            "hops": [
+                "Tchaikovsky",
+                "Siberia"
+            ]
+        },
+        "the St. Petersburg Conservatory": {
+            "term": "the St. Petersburg Conservatory",
+            "passage": "St. Petersburg Conservatory is a music conservatory located in St. Petersburg, Russia. It was founded in 1862 by the composer and pianist Anton Rubinstein, who served as its first director. The conservatory has a rich history of musical excellence and has produced many famous musicians, including Pyotr Ilyich Tchaikovsky, who taught at the conservatory from 1865 to 1878. The conservatory offers undergraduate and graduate programs in music performance, composition, and music education. The conservatory's faculty includes many renowned musicians and composers, and the school has a reputation for its rigorous training program. The conservatory is also known for its annual concert series, which features performances by faculty and students. The St. Petersburg Conservatory is considered one of the most prestigious music schools in Russia and is a respected institution in the world of classical music.",
+            "qae_pairs": [
+                {
+                    "question": "What year was the St. Petersburg Conservatory founded?",
+                    "answer": "1862",
+                    "explanation": "The St. Petersburg Conservatory was founded in 1862."
+                },
+                {
+                    "question": "What is the name of the composer and pianist who founded the St. Petersburg Conservatory in 1862 and served as its first director?",
+                    "answer": "Anton Rubinstein",
+                    "explanation": "Anton Rubinstein is the composer and pianist who founded the St. Petersburg Conservatory in 1862 and served as its first director."
+                },
+                {
+                    "question": "What is the location of the St. Petersburg Conservatory?",
+                    "answer": "Russia",
+                    "explanation": "The St. Petersburg Conservatory is located in St. Petersburg, Russia."
+                }
+            ],
+            "hops": [
+                "Tchaikovsky",
+                "the St. Petersburg Conservatory"
+            ]
+        },
+        "Anton Rubinstein": {
+            "term": "Anton Rubinstein",
+            "passage": "1. Anton Rubinstein was a Russian composer, pianist, and conductor. 2. He was born in 1829 in Novgorod, Russia, and began his musical career as a child prodigy. 3. Rubinstein studied at the St. Petersburg Conservatory, where he later became a professor and director. 4. He composed a wide range of music, including symphonies, concertos, and chamber music. 5. Rubinstein was also a renowned pianist, and he gave many solo performances throughout Europe. 6. In addition to his musical career, Rubinstein was also a philanthropist and helped to establish a music school in Moscow. 7. He passed away in 1894 in St. Petersburg, Russia, at the age of 64.",
+            "qae_pairs": [
+                {
+                    "question": "What was the year of birth of Anton Rubinstein, according to the passage?",
+                    "answer": "1829",
+                    "explanation": "According to the passage, Anton Rubinstein was born in 1829 in Novgorod, Russia."
+                },
+                {
+                    "question": "What city was Anton Rubinstein born in, according to the passage?",
+                    "answer": "Novgorod",
+                    "explanation": "According to the passage, Anton Rubinstein was born in Novgorod, Russia."
+                },
+                {
+                    "question": "What year was Anton Rubinstein's death according to the passage?",
+                    "answer": "1894",
+                    "explanation": "According to the passage, Anton Rubinstein passed away in 1894."
+                },
+                {
+                    "question": "What was the age of Anton Rubinstein when he passed away?",
+                    "answer": "the age of 64",
+                    "explanation": "Anton Rubinstein passed away at the age of 64."
+                },
+                {
+                    "question": "What country did Anton Rubinstein study at the St. Petersburg Conservatory?",
+                    "answer": "Russia",
+                    "explanation": "Anton Rubinstein studied at the St. Petersburg Conservatory in Russia."
+                },
+                {
+                    "question": "What city did Anton Rubinstein establish a music school in, according to the passage?",
+                    "answer": "Moscow",
+                    "explanation": "According to the passage, Anton Rubinstein established a music school in Moscow."
+                }
+            ],
+            "hops": [
+                "Tchaikovsky",
+                "Anton Rubinstein"
+            ]
+        },
+        "the Moscow Conservatory": {
+            "term": "the Moscow Conservatory",
+            "passage": "Moscow Conservatory ========= The Moscow Conservatory is a music school in Moscow, Russia. It was founded in 1866 by the composer and pianist Anton Rubinstein. The conservatory has been an important center for musical education and performance in Russia and the former Soviet Union. Many famous musicians have studied and taught at the conservatory, including Sergei Rachmaninoff, Pyotr Ilyich Tchaikovsky, and Mstislav Rostropovich. The conservatory offers undergraduate and graduate degrees in music, as well as a variety of performance and composition programs. The conservatory's main building is located on Bolshaya Nikitskaya Street in central Moscow, and it also has additional facilities in other parts of the city.",
+            "qae_pairs": [
+                {
+                    "question": "What country is the Moscow Conservatory located in?",
+                    "answer": "Russia",
+                    "explanation": "The Moscow Conservatory is located in Russia."
+                },
+                {
+                    "question": "What is the name of the composer and pianist who founded the Moscow Conservatory in 1866?",
+                    "answer": "Anton Rubinstein",
+                    "explanation": "The composer and pianist who founded the Moscow Conservatory in 1866 is Anton Rubinstein."
+                },
+                {
+                    "question": "What year was the Moscow Conservatory founded?",
+                    "answer": "1866",
+                    "explanation": "The Moscow Conservatory was founded in 1866."
+                },
+                {
+                    "question": "What famous musician studied and taught at the Moscow Conservatory, and what is his name?",
+                    "answer": "Sergei Rachmaninoff",
+                    "explanation": "Sergei Rachmaninoff studied and taught at the Moscow Conservatory."
+                }
+            ],
+            "hops": [
+                "Tchaikovsky",
+                "the Moscow Conservatory"
+            ]
+        },
+        "Himmelpfort": {
+            "term": "Himmelpfort",
+            "passage": "Himmelpfort is a town in the Opole Voivodeship, Poland, with a population of approximately 1,500 people. It is located in the eastern part of the country, near the border with the Czech Republic. The town has a long history, dating back to the Middle Ages. During World War II, Himmelpfort was occupied by Nazi Germany and many of its residents were killed or forced to flee. After the war, the town was rebuilt and has since become a popular tourist destination. It is known for its picturesque old town, which features well-preserved medieval architecture and charming cobblestone streets. Himmelpfort also has a number of parks and public spaces, as well as a variety of restaurants and shops. Overall, it is a beautiful and historic town that is well worth a visit.",
+            "qae_pairs": [
+                {
+                    "question": "What was the fate of Himmelpfort during World War II?",
+                    "answer": "Nazi Germany",
+                    "explanation": "During World War II, Himmelpfort was occupied by Nazi Germany and many of its residents were killed or forced to flee."
+                },
+                {
+                    "question": "What country is Himmelpfort located in?",
+                    "answer": "Poland",
+                    "explanation": "Himmelpfort is located in Poland."
+                }
+            ],
+            "hops": [
+                "Schubert",
+                "Himmelpfort"
+            ]
+        },
+        "Winterreise": {
+            "term": "Winterreise",
+            "passage": "Winterreise is a song cycle composed by Franz Schubert in 1827. It is a setting of 24 poems by Wilhelm Müller, which explore themes of isolation, despair, and death. The work is scored for voice and piano, and is considered one of the greatest song cycles of all time. It is known for its emotional intensity and its use of chromatic harmony and unconventional chord progressions. Winterreise has been performed and recorded by many notable singers, including Dietrich Fischer-Dieskau, who is considered one of the definitive interpreters of the work.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the poet whose poems were set to music in Winterreise?",
+                    "answer": "Wilhelm Müller",
+                    "explanation": "The poet whose poems were set to music in Winterreise is Wilhelm Müller."
+                },
+                {
+                    "question": "What year was Winterreise composed by Franz Schubert?",
+                    "answer": "1827",
+                    "explanation": "Winterreise was composed by Franz Schubert in 1827."
+                },
+                {
+                    "question": "What is the name of the singer who recorded the album 'Winterreise'? Answer:  Dietrich Fischer-Dieskau.",
+                    "answer": "Dietrich Fischer-Dieskau",
+                    "explanation": "The name of the singer who recorded the album 'Winterreise' is Dietrich Fischer-Dieskau."
+                }
+            ],
+            "hops": [
+                "Schubert",
+                "Winterreise"
+            ]
+        },
+        "Symphony No. 8": {
+            "term": "Symphony No. 8",
+            "passage": "Symphony No. 8 in C minor, Op. 65, is a symphony composed by Pyotr Ilyich Tchaikovsky. It was completed in 1889 and is sometimes referred to as the \"Little Russian\" Symphony because of its use of Ukrainian folk melodies in the second movement. The symphony is scored for orchestra and is in four movements. The first movement is in sonata form and is marked Allegro moderato. The second movement is a Ukrainian folk song, \"The Little Birch Tree\", which Tchaikovsky had learned during his travels in Ukraine. The third movement is a waltz, and the fourth movement is a theme and variations based on Ukrainian folk melodies. The symphony ends with a triumphant coda.",
+            "qae_pairs": [
+                {
+                    "question": "What is the title of Symphony No. 8 by Pyotr Ilyich Tchaikovsky?",
+                    "answer": "Op. 65",
+                    "explanation": "Symphony No. 8 by Pyotr Ilyich Tchaikovsky is also known as Symphony No. 8 in C minor, Op. 65."
+                },
+                {
+                    "question": "What is the name of the composer who wrote Symphony No. 8 in C minor, Op. 65?",
+                    "answer": "Pyotr Ilyich Tchaikovsky",
+                    "explanation": "Pyotr Ilyich Tchaikovsky is the composer who wrote Symphony No. 8 in C minor, Op. 65."
+                },
+                {
+                    "question": "What is the title of the second movement of Symphony No. 8?",
+                    "answer": "Ukrainian",
+                    "explanation": "The second movement of Symphony No. 8 is a Ukrainian folk song, \"The Little Birch Tree\"."
+                },
+                {
+                    "question": "What year was Symphony No. 8 in C minor, Op. 65 completed according to the passage?",
+                    "answer": "1889",
+                    "explanation": "According to the passage, Symphony No. 8 in C minor, Op. 65 was completed in 1889."
+                },
+                {
+                    "question": "What country is associated with the Ukrainian folk melodies featured in Symphony No. 8?",
+                    "answer": "Ukraine",
+                    "explanation": "The Ukrainian folk melodies featured in Symphony No. 8 are associated with Ukraine."
+                }
+            ],
+            "hops": [
+                "Schubert",
+                "Symphony No. 8"
+            ]
+        },
+        "Austria": {
+            "term": "Austria",
+            "passage": "1. Austria is a country located in Central Europe. 2. It is bordered by Germany and the Czech Republic to the north, Slovakia and Hungary to the east, Slovenia and Italy to the south, and Switzerland and Liechtenstein to the west. 3. Austria's topography is highly diverse, with the Alps dominating the western part of the country. 4. The country is home to many famous composers, including Wolfgang Amadeus Mozart, Johann Strauss II, and Franz Schubert. 5. Austria is a federal parliamentary republic and a member of the United Nations, the European Union, and the OECD. 6. The capital and largest city of Austria is Vienna, which is also the capital of the federal state of Vienna. 7. Austria has a rich history, having been a major player in European politics and power for centuries. 8. Today, Austria is known for its beautiful landscapes, rich cultural heritage, and thriving economy.",
+            "qae_pairs": [
+                {
+                    "question": "What is the organization that Austria is a member of and is located in Central Europe?",
+                    "answer": "the United Nations",
+                    "explanation": "Austria is a member of the United Nations, the European Union, and the OECD. It is located in Central Europe."
+                },
+                {
+                    "question": "What organization is Austria a member of, according to the passage?",
+                    "answer": "OECD",
+                    "explanation": "According to the passage, Austria is a member of the OECD (Organisation for Economic Co-operation and Development)."
+                },
+                {
+                    "question": "What country borders Austria to the north, east, and west, except for the southern region that is bordered by Slovenia and Italy?",
+                    "answer": "the Czech Republic",
+                    "explanation": "The country that borders Austria to the north, east, and west, except for the southern region that is bordered by Slovenia and Italy, is the Czech Republic."
+                },
+                {
+                    "question": "What country borders Austria to the north and is located in Central Europe?",
+                    "answer": "Germany",
+                    "explanation": "Germany borders Austria to the north and is located in Central Europe."
+                },
+                {
+                    "question": "What organization is Austria a member of?",
+                    "answer": "the European Union",
+                    "explanation": "Austria is a member of the European Union."
+                },
+                {
+                    "question": "What are the mountains that dominate the western part of Austria according to the passage?",
+                    "answer": "Alps",
+                    "explanation": "According to the passage, the mountains that dominate the western part of Austria are the Alps."
+                },
+                {
+                    "question": "What famous composer from Austria is known for his waltz compositions and is often referred to as the \"King of Waltz\"?",
+                    "answer": "Johann Strauss II",
+                    "explanation": "Johann Strauss II is the famous composer from Austria who is known for his waltz compositions and is often referred to as the \"King of Waltz\"."
+                },
+                {
+                    "question": "What is the location of Austria in the passage?",
+                    "answer": "Central Europe",
+                    "explanation": "Austria is a country located in Central Europe."
+                },
+                {
+                    "question": "What country is located in Central Europe and shares a border with Austria to the east, and is the answer to the question asked?",
+                    "answer": "Slovakia",
+                    "explanation": "The country that is located in Central Europe and shares a border with Austria to the east is Slovakia."
+                },
+                {
+                    "question": "What is the length of time that Austria has been a major player in European politics and power for?",
+                    "answer": "centuries",
+                    "explanation": "Austria has been a major player in European politics and power for centuries."
+                },
+                {
+                    "question": "What is the capital of Austria, where is it located, and what is it known for?",
+                    "answer": "Vienna",
+                    "explanation": "The capital of Austria is Vienna, which is located in the eastern part of the country. Vienna is not only the capital of Austria but also the capital of the federal state of Vienna. Vienna is known for its rich cultural heritage, beautiful landscapes, and thriving economy. It is home to many famous composers, including Wolfgang Amadeus Mozart, Johann Strauss II, and Franz Schubert. Vienna is also known for its beautiful architecture, museums, and art galleries."
+                },
+                {
+                    "question": "What famous composer is associated with Austria and is known for his contributions to classical music?",
+                    "answer": "Wolfgang Amadeus Mozart",
+                    "explanation": "Wolfgang Amadeus Mozart is a famous composer who is associated with Austria and is known for his contributions to classical music."
+                }
+            ],
+            "hops": [
+                "Schubert",
+                "Austria"
+            ]
+        },
+        "Hamburg": {
+            "term": "Hamburg",
+            "passage": "Hamburg is the second-largest city in Germany, with a population of over 1.8 million people. It is located in the northern part of the country, on the Jutland Peninsula, and is known for its port, which is one of the largest ports in Europe. The city was founded in the 9th century, and has a rich history that includes being a member of the Hanseatic League, a powerful trading organization in the Middle Ages. Today, Hamburg is a major economic and cultural center in Germany, with a thriving tourism industry. It is home to many notable landmarks, including the Hamburg Rathaus, the Elbphilharmonie concert hall, and the Speicherstadt warehouse district. The city is also known for its vibrant music and arts scene, as well as its famous Hamburg steak, a type of grilled hamburger.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the peninsula where Hamburg is located, according to the passage?",
+                    "answer": "the Jutland Peninsula",
+                    "explanation": "According to the passage, Hamburg is located on the Jutland Peninsula."
+                },
+                {
+                    "question": "What was the name of the powerful trading organization in which Hamburg was a member in the Middle Ages?",
+                    "answer": "the Hanseatic League",
+                    "explanation": "The name of the powerful trading organization in which Hamburg was a member in the Middle Ages was the Hanseatic League."
+                },
+                {
+                    "question": "What is the answer to a question that contains the term 'Hamburg' and refers to the location of the city?",
+                    "answer": "Germany",
+                    "explanation": "The answer to the question that contains the term 'Hamburg' and refers to the location of the city is Germany."
+                },
+                {
+                    "question": "What was the founding date of Hamburg, according to the passage?",
+                    "answer": "the 9th century",
+                    "explanation": "According to the passage, the founding date of Hamburg is the 9th century."
+                }
+            ],
+            "hops": [
+                "Brahms",
+                "Hamburg"
+            ]
+        },
+        "Requiem": {
+            "term": "Requiem",
+            "passage": "Requiem is a musical composition that is typically composed to be played at a funeral or memorial service. It is also known as a Mass for the Dead, and is usually sung in Latin. The text of the Requiem Mass is based on the Catholic Mass, and it is believed to provide comfort to those who have lost a loved one. The Requiem Mass is often performed by a choir, orchestra, and organ, and it is known for its somber and mournful tone. Some of the most famous Requiem compositions include Mozart's Requiem Mass in D minor, Verdi's Requiem Mass, and Faure's Requiem in D minor.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the composer who wrote the famous Requiem Mass in D minor?",
+                    "answer": "Mozart",
+                    "explanation": "Mozart wrote the famous Requiem Mass in D minor."
+                }
+            ],
+            "hops": [
+                "Brahms",
+                "Requiem"
+            ]
+        },
+        "Eduard Marxsen": {
+            "term": "Eduard Marxsen",
+            "passage": "Eduard Marxsen (1806–1887) was a German composer and musician. He was born in Hamburg and studied music in Leipzig, where he became a friend of Robert Schumann. Marxsen was a prolific composer, writing many works for piano, chamber music, and orchestra. He was also a respected teacher, with notable students including Clara Schumann and Johannes Brahms. Marxsen's music was known for its Romantic style and emotional depth. He died in Leipzig at the age of 81.",
+            "qae_pairs": [
+                {
+                    "question": "What city did Eduard Marxsen study music in, according to the passage?",
+                    "answer": "Leipzig",
+                    "explanation": "According to the passage, Eduard Marxsen studied music in Leipzig."
+                },
+                {
+                    "question": "What is the answer to the question that asks about Eduard Marxsen's birthplace?",
+                    "answer": "Hamburg",
+                    "explanation": "The answer to the question that asks about Eduard Marxsen's birthplace is Hamburg."
+                },
+                {
+                    "question": "What was the age of Eduard Marxsen when he passed away?",
+                    "answer": "the age of 81",
+                    "explanation": "According to the passage, Eduard Marxsen passed away at the age of 81."
+                }
+            ],
+            "hops": [
+                "Brahms",
+                "Eduard Marxsen"
+            ]
+        },
+        "the Elector of Hanover": {
+            "term": "the Elector of Hanover",
+            "passage": "Elector of Hanover =============== The Elector of Hanover was a title held by the rulers of the Electorate of Hanover, a state in the Holy Roman Empire and later the Kingdom of Hanover in Germany. The title was first held by Ernest the Confessor, who was appointed in 1512 by Holy Roman Emperor Maximilian I. The Electorate of Hanover was created in 1692, and the title was held by the House of Hanover, a branch of the House of Welf. The last Elector of Hanover was King George III of the United Kingdom, who reigned from 1760 until his death in 1820. After his death, the Electorate of Hanover was annexed by the Kingdom of Prussia, and the title became extinct.",
+            "qae_pairs": [
+                {
+                    "question": "What year did the Elector of Hanover become King George III of the United Kingdom?",
+                    "answer": "1760",
+                    "explanation": "The Elector of Hanover became King George III of the United Kingdom in 1760."
+                },
+                {
+                    "question": "What year did the Elector of Hanover die?",
+                    "answer": "1820",
+                    "explanation": "The Elector of Hanover died in 1820."
+                },
+                {
+                    "question": "What year was the Elector of Hanover title first held by Ernest the Confessor?",
+                    "answer": "1512",
+                    "explanation": "The Elector of Hanover title was first held by Ernest the Confessor in 1512."
+                },
+                {
+                    "question": "What year did 'the Elector of Hanover' become 'the Elector of Hanover'?  Answer: 1692.",
+                    "answer": "1692",
+                    "explanation": "The Elector of Hanover was first appointed in 1512 by Holy Roman Emperor Maximilian I. However, the title 'Elector of Hanover' was created in 1692, when the Electorate of Hanover was established. Therefore, the correct answer to the question is 1692."
+                },
+                {
+                    "question": "What was the name of the ruler who appointed Ernest the Confessor as the first Elector of Hanover, according to the passage?",
+                    "answer": "Maximilian I",
+                    "explanation": "According to the passage, the ruler who appointed Ernest the Confessor as the first Elector of Hanover was Maximilian I."
+                },
+                {
+                    "question": "What country was ruled by the Elector of Hanover?",
+                    "answer": "Germany",
+                    "explanation": "The Elector of Hanover ruled the Electorate of Hanover, which was a state in Germany."
+                },
+                {
+                    "question": "What was the name of the Elector of Hanover who became King of Great Britain?  Answer:  George III.",
+                    "answer": "George III",
+                    "explanation": "The Elector of Hanover who became King of Great Britain was George III."
+                },
+                {
+                    "question": "What was the name of the ruler who was appointed in 1512 by Holy Roman Emperor Maximilian I and was the first to hold the title of Elector of Hanover?",
+                    "answer": "Ernest",
+                    "explanation": "Ernest."
+                },
+                {
+                    "question": "What was the name of the ruling family in Hanover before the Elector of Hanover?  Answer: The answer is 'the House of Welf'.",
+                    "answer": "the House of Welf",
+                    "explanation": "The ruling family in Hanover before the Elector of Hanover was the House of Welf."
+                }
+            ],
+            "hops": [
+                "Handel",
+                "the Elector of Hanover"
+            ]
+        },
+        "Halle": {
+            "term": "Halle",
+            "passage": "Halle (German: [hɑlɛ] (listen)) is a city in the southern part of the German state of Saxony-Anhalt. It is the largest city in the Mitteldeutschland (Middle Germany) region and the fourth-largest city in Saxony-Anhalt. The city is known for its university, its rich history, and its cultural heritage. Halle is also the birthplace of several famous people, including Johann Sebastian Bach, George Frideric Handel, and Angela Merkel.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the German state in which Halle is located?",
+                    "answer": "Saxony-Anhalt",
+                    "explanation": "The name of the German state in which Halle is located is Saxony-Anhalt."
+                },
+                {
+                    "question": "What is the name of the famous composer who was born in Halle and is known for his contributions to the Baroque period?",
+                    "answer": "Johann Sebastian Bach",
+                    "explanation": "The famous composer who was born in Halle and is known for his contributions to the Baroque period is Johann Sebastian Bach."
+                },
+                {
+                    "question": "What is the name of the German Chancellor who was born in Halle, as mentioned in the passage?",
+                    "answer": "Angela Merkel",
+                    "explanation": "The name of the German Chancellor who was born in Halle, as mentioned in the passage, is Angela Merkel."
+                }
+            ],
+            "hops": [
+                "Handel",
+                "Halle"
+            ]
+        },
+        "Germany": {
+            "term": "Germany",
+            "passage": "1. Germany is a country in western Europe. 2. It is the most populous member state in the European Union. 3. Germany is a federal parliamentary republic. 4. The country has a rich history and culture. 5. The capital city of Germany is Berlin. 6. Germany is known for its advanced economy and high standard of living. 7. The country has a strong focus on education and research. 8. Germany is also famous for its beer, wine, and cuisine. 9. The country has a diverse landscape, including mountains, forests, and beaches. 10. Germany is a member of the United Nations, NATO, and the European Union.",
+            "qae_pairs": [
+                {
+                    "question": "What is the organization that Germany is a member of, according to the passage?",
+                    "answer": "the European Union",
+                    "explanation": "According to the passage, Germany is a member of the European Union."
+                },
+                {
+                    "question": "What is the capital city of Germany, as mentioned in the passage?",
+                    "answer": "Berlin",
+                    "explanation": "The capital city of Germany, as mentioned in the passage, is Berlin."
+                },
+                {
+                    "question": "What organization is Germany a member of according to the passage?",
+                    "answer": "NATO",
+                    "explanation": "According to the passage, Germany is a member of the United Nations, NATO, and the European Union."
+                }
+            ],
+            "hops": [
+                "Handel",
+                "Germany"
+            ]
+        },
+        "Venice": {
+            "term": "Venice",
+            "passage": "Venice is a city in northeastern Italy sited on a group of 118 small islands separated by canals and linked by bridges. The city is located in the marshy Venetian Lagoon which stretches along the Adriatic Sea in the eastern part of the country. Venice is known for its artistic and cultural heritage, its unique architecture and its tourist attractions, which include St Mark's Basilica, the Doge's Palace, and the Piazza San Marco. The city is also famous for its carnival, the Venice Film Festival, and its gondolas. Venice has been a major financial and cultural center throughout its history, and it is considered one of the most beautiful cities in the world.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the body of water that surrounds Venice and is known for its unique ecosystem?",
+                    "answer": "Venetian Lagoon",
+                    "explanation": "The name of the body of water that surrounds Venice and is known for its unique ecosystem is the Venetian Lagoon."
+                },
+                {
+                    "question": "What is the name of the tourist attraction in Venice that is known for its unique architecture and is a major financial and cultural center?",
+                    "answer": "St Mark's",
+                    "explanation": "The tourist attraction in Venice that is known for its unique architecture and is a major financial and cultural center is St Mark's Basilica."
+                },
+                {
+                    "question": "What is the name of the religious building located in Venice that is known for its unique architecture and is a popular tourist attraction?",
+                    "answer": "Basilica",
+                    "explanation": "The religious building located in Venice that is known for its unique architecture and is a popular tourist attraction is the Basilica."
+                },
+                {
+                    "question": "What is the location of Venice?",
+                    "answer": "Italy",
+                    "explanation": "Venice is located in Italy."
+                }
+            ],
+            "hops": [
+                "Vivaldi",
+                "Venice"
+            ]
+        },
+        "Baroque": {
+            "term": "Baroque",
+            "passage": "Baroque is a style of architecture, art, and music that originated in Europe in the early 17th century. It is characterized by ornate and complex forms, often with a grandiose and dramatic feel. Baroque architecture is marked by grandeur, drama, and ornate detail, and is often associated with the Catholic Church and the Counter-Reformation. Baroque art is known for its emotional intensity, dynamic compositions, and realistic depictions of the human form. Baroque music is characterized by its complex and intricate forms, often featuring multiple voices and instruments. The Baroque period lasted until the mid-18th century, and its influence can still be seen in many aspects of modern culture.",
+            "qae_pairs": [
+                {
+                    "question": "What was the primary patron of Baroque architecture, art, and music during the Baroque period, as described in the passage?",
+                    "answer": "the Catholic Church",
+                    "explanation": "The primary patron of Baroque architecture, art, and music during the Baroque period, as described in the passage, was the Catholic Church. The passage notes that Baroque architecture is often associated with the Catholic Church and the Counter-Reformation, and that Baroque art is known for its emotional intensity and realistic depictions of the human form. Additionally, the passage notes that Baroque music is characterized by its complex and intricate forms and often features multiple voices and instruments, which suggests a religious or liturgical context."
+                },
+                {
+                    "question": "What is the time period when Baroque originated according to the passage?",
+                    "answer": "the early 17th century",
+                    "explanation": "According to the passage, Baroque originated in Europe during the early 17th century."
+                },
+                {
+                    "question": "What is the term 'Baroque' associated with in the passage?",
+                    "answer": "Europe",
+                    "explanation": "The term 'Baroque' is associated with Europe in the passage."
+                },
+                {
+                    "question": "What was the key historical event that influenced the development of Baroque architecture, art, and music?",
+                    "answer": "the Counter-Reformation",
+                    "explanation": "The key historical event that influenced the development of Baroque architecture, art, and music was the Counter-Reformation. The Counter-Reformation was a response to the Protestant Reformation, which sought to reform the Catholic Church. In response, the Catholic Church began a campaign to strengthen its influence and power, which led to the development of Baroque architecture, art, and music. These forms of art were used to express the grandeur and power of the Catholic Church, and to attract and inspire believers."
+                }
+            ],
+            "hops": [
+                "Vivaldi",
+                "Baroque"
+            ]
+        },
+        "La Scala": {
+            "term": "La Scala",
+            "passage": "La Scala is an opera house in Milan, Italy. It was first opened in 1778 and has since been renovated and expanded several times. The theatre is named after the Scala Santa, or \"Holy Stairs,\" which were said to have been brought from Jerusalem by Saint Helena, the mother of the Roman Emperor Constantine. La Scala is widely regarded as one of the leading opera houses in the world, and has hosted many of the greatest singers and conductors in history. It is home to the La Scala Theatre Chorus, which was founded in 1985 and has since become one of the leading choruses in Europe. The theatre has a seating capacity of around 1,600, and is known for its acoustics and stage facilities. It has hosted many famous operas, including Giuseppe Verdi's \"Rigoletto,\" which was first performed at La Scala in 1851. Other notable works that have been performed at the theatre include Wolfgang Amadeus Mozart's \"Don Giovanni\" and \"The Marriage of Figaro,\" and Gioachino Rossini's \"The Barber of Seville.\" La Scala has also been the site of many important political and cultural events, including the premiere of Luchino Visconti's film \"The Leopard\" in 1963. The theatre has been the subject of numerous books, films, and other works of art, and is considered an important symbol of Italian culture and history.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the Roman Emperor who is associated with La Scala? Answer: The Roman Emperor Constantine.",
+                    "answer": "the Roman Emperor Constantine",
+                    "explanation": "The Roman Emperor associated with La Scala is Constantine."
+                },
+                {
+                    "question": "What year was Giuseppe Verdi's \"Rigoletto\" first performed at La Scala?",
+                    "answer": "1851",
+                    "explanation": "Giuseppe Verdi's \"Rigoletto\" was first performed at La Scala in 1851."
+                },
+                {
+                    "question": "What is the name of the famous opera house located in Europe?  Answer: La Scala.",
+                    "answer": "Europe",
+                    "explanation": "The famous opera house located in Europe is La Scala."
+                },
+                {
+                    "question": "What year was La Scala first opened?",
+                    "answer": "1778",
+                    "explanation": "La Scala was first opened in 1778."
+                },
+                {
+                    "question": "What year was La Scala Theatre Chorus founded?",
+                    "answer": "1985",
+                    "explanation": "La Scala Theatre Chorus was founded in 1985."
+                }
+            ],
+            "hops": [
+                "Rossini",
+                "La Scala"
+            ]
+        },
+        "the Royal Opera House": {
+            "term": "the Royal Opera House",
+            "passage": "1. The Royal Opera House is a historic building in the heart of London, England, which is home to two of the world's leading opera and ballet companies, the Royal Opera and the Royal Ballet. 2. The building was opened in 1858 and has since undergone several renovations and expansions, including the addition of the Linbury Theatre in 1987. 3. The Royal Opera House is known for its impressive architecture and design, which features a grand staircase, ornate ceilings, and a large auditorium with seating for up to 2,256 people. 4. The Royal Opera House hosts a wide range of performances throughout the year, including opera, ballet, and other dance productions, as well as concerts and talks. 5. Many of the world's most renowned performers and artists have taken the stage at the Royal Opera House, including Maria Callas, Rudolph Nureyev, and Plácido Domingo. 6. The Royal Opera House is also home to the Royal Ballet School, which trains young dancers in the art of ballet and provides a pathway for them to join the Royal Ballet company. 7. The Royal Opera House is a popular tourist destination in London, and visitors can take guided tours of the building to learn more about its history and architecture. 8. The Royal Opera House is a symbol of British cultural heritage and is widely regarded as one of the finest performing arts venues in the world.",
+            "qae_pairs": [
+                {
+                    "question": "What year was the Royal Opera House opened?",
+                    "answer": "1858",
+                    "explanation": "The Royal Opera House was opened in 1858."
+                },
+                {
+                    "question": "What is the name of the country where the Royal Opera House is located?",
+                    "answer": "England",
+                    "explanation": "The Royal Opera House is located in England."
+                },
+                {
+                    "question": "What is the name of the theatre located within the Royal Opera House that is used for smaller productions?",
+                    "answer": "the Linbury Theatre",
+                    "explanation": "The Linbury Theatre is the name of the theatre located within the Royal Opera House that is used for smaller productions."
+                },
+                {
+                    "question": "What was the name of the dancer who performed at the Royal Opera House?",
+                    "answer": "Rudolph Nureyev",
+                    "explanation": "The dancer who performed at the Royal Opera House was Rudolph Nureyev."
+                },
+                {
+                    "question": "What year was the Linbury Theatre added to the Royal Opera House?",
+                    "answer": "1987",
+                    "explanation": "The Linbury Theatre was added to the Royal Opera House in 1987."
+                },
+                {
+                    "question": "What was the name of the performer who made her debut at the Royal Opera House in 1952?",
+                    "answer": "Maria Callas",
+                    "explanation": "Maria Callas made her debut at the Royal Opera House in 1952."
+                },
+                {
+                    "question": "What is the name of the school that trains young dancers in the art of ballet at the Royal Opera House?",
+                    "answer": "the Royal Ballet School",
+                    "explanation": "The Royal Ballet School."
+                }
+            ],
+            "hops": [
+                "Rossini",
+                "the Royal Opera House"
+            ]
+        },
+        "Pesaro": {
+            "term": "Pesaro",
+            "passage": "Pesaro is a city and comune in the Italian region of Marche, capital of the province of Pesaro e Urbino. It is located on the Adriatic coast, between the rivers Aso and Metauro. The city is known for its ancient Roman heritage, including the well-preserved amphitheater, which is still in use today for concerts and performances. Other notable landmarks include the Palazzo Ducale, the Cathedral of San Giovanni Battista, and the Oratory of San Giovanni in Persiceto. Pesaro is also known for its production of high-quality prosciutto and its annual jazz festival, which attracts musicians and fans from around the world.",
+            "qae_pairs": [
+                {
+                    "question": "What is the region where Pesaro is located?",
+                    "answer": "Marche",
+                    "explanation": "The region where Pesaro is located is Marche."
+                },
+                {
+                    "question": "What two rivers meet in Pesaro, Italy, and what is the name of the city located between them?",
+                    "answer": "Aso and Metauro",
+                    "explanation": "The two rivers that meet in Pesaro, Italy are Aso and Metauro. The city located between them is also called Pesaro."
+                },
+                {
+                    "question": "What is the name of the Cathedral located in Pesaro, Italy?",
+                    "answer": "the Cathedral of San Giovanni Battista",
+                    "explanation": "The Cathedral of San Giovanni Battista is located in Pesaro, Italy."
+                },
+                {
+                    "question": "What is the name of the Oratory located in Pesaro?",
+                    "answer": "the Oratory of San Giovanni",
+                    "explanation": "The Oratory of San Giovanni is located in Pesaro."
+                },
+                {
+                    "question": "What is the name of the town located between Pesaro and Persiceto?  Answer: The name of the town located between Pesaro and Persiceto is not mentioned in the passage.",
+                    "answer": "Persiceto",
+                    "explanation": "The name of the town located between Pesaro and Persiceto is not mentioned in the passage."
+                },
+                {
+                    "question": "What is the name of the palace located in Pesaro that is also mentioned in the passage?",
+                    "answer": "Palazzo Ducale",
+                    "explanation": "The name of the palace located in Pesaro that is also mentioned in the passage is Palazzo Ducale."
+                }
+            ],
+            "hops": [
+                "Rossini",
+                "Pesaro"
+            ]
+        },
+        "Bologna": {
+            "term": "Bologna",
+            "passage": "Bologna is the capital and largest city of the Emilia-Romagna region in Northern Italy. It is the seventh largest city in Italy, with a population of around 380,000 people. The city is located in the Po River valley and is known for its rich history, culture, and cuisine. Bologna is also home to the oldest university in the world, the University of Bologna, which was founded in 1088. The city is famous for its medieval architecture, including the Piazza Maggiore, which is surrounded by historic buildings such as the Basilica di San Petronio and the Palazzo Comunale. Bologna is also known for its food, particularly its pasta dishes, cured meats, and cheeses. The city is a popular tourist destination and is easily accessible by train from other major Italian cities.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the basilica located in the Piazza Maggiore in Bologna?",
+                    "answer": "San Petronio",
+                    "explanation": "The name of the basilica located in the Piazza Maggiore in Bologna is San Petronio."
+                },
+                {
+                    "question": "What was the year that the University of Bologna was founded in Bologna, Italy?",
+                    "answer": "1088",
+                    "explanation": "The University of Bologna was founded in 1088 in Bologna, Italy."
+                },
+                {
+                    "question": "What is the name of the river that flows through Bologna and what is its significance?",
+                    "answer": "the Po River",
+                    "explanation": "The river that flows through Bologna is the Po River. The Po River is significant because it is the longest river in Italy, stretching over 650 km. It is also an important source of water for the region, providing water for irrigation, drinking, and industrial use. Additionally, the Po River is a major transportation route, with ports along its banks that allow for the movement of goods and people."
+                }
+            ],
+            "hops": [
+                "Rossini",
+                "Bologna"
+            ]
+        }
+    }
+}

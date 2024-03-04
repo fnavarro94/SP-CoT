@@ -1,0 +1,906 @@
+{
+    "first_hops": {
+        "Usain Bolt": {
+            "term": "Usain Bolt",
+            "passage": "Usain Bolt (born 21 August 1986) is a Jamaican retired sprinter. He is widely considered the fastest person of all time. He won eight Olympic gold medals and achieved world records in all of the events he contested. He is the first man to hold both the 100 metres and 200 metres world records since fully automatic time measurements became mandatory in 1977. Along with his teammates, he also set the world record in the 4 × 100 metres relay. He was the first person to win gold in the 100 metres, 200 metres and 4 × 100 metres relay at three different Olympics (2008, 2012 and 2016). Bolt is the only sprinter to win gold in all three events at consecutive Olympics (2008 and 2012). He is the most successful athlete of the World Championships, winning 11 gold medals, the most by any athlete in the history of the championships. Bolt is also the first athlete to win three gold medals in the 100 metres, 200 metres and 4 × 100 metres relay at the World Championships. He is widely considered to be the greatest sprinter of all time.",
+            "qae_pairs": [
+                {
+                    "question": "'What is the year in which Usain Bolt won three gold medals in the 100 metres, 200 metres and 4 × 100 metres relay at the Olympics?'",
+                    "answer": "2012",
+                    "explanation": "He won eight Olympic gold medals and achieved world records in all of the events he contested. He is the first man to hold both the 100 metres and 200 metres world records since fully automatic time measurements became mandatory in 1977."
+                },
+                {
+                    "question": "What year did fully automatic time measurements become mandatory in?",
+                    "answer": "1977",
+                    "explanation": "He is the first man to hold both the 100 metres and 200 metres world records since fully automatic time measurements became mandatory in 1977."
+                },
+                {
+                    "question": "What year did Usain Bolt win his first Olympic gold medal in the 100 metres, 200 metres and 4 × 100 metres relay?",
+                    "answer": "2008",
+                    "explanation": "He was the first person to win gold in the 100 metres, 200 metres and 4 × 100 metres relay at three different Olympics (2008, 2012 and 2016). Explanation: The evidence sentence states that Usain Bolt was the first person to win gold in the 100 metres, 200 metres and 4 × 100 metres relay at three different Olympics (2008, 2012 and 2016)."
+                },
+                {
+                    "question": "'What year did Usain Bolt retire?' 'What year did Usain Bolt win his first Olympic gold medal?' 'What year did Usain Bolt set his first world record?' 'What year did Usain Bolt win his last Olympic gold medal?'",
+                    "answer": "2016",
+                    "explanation": "He won eight Olympic gold medals and achieved world records in all of the events he contested."
+                },
+                {
+                    "question": "'What is Usain Bolt's birthday?'",
+                    "answer": "21 August 1986",
+                    "explanation": "He is widely considered the fastest person of all time."
+                }
+            ],
+            "hops": [
+                "Usain Bolt"
+            ]
+        },
+        "Serena Williams": {
+            "term": "Serena Williams",
+            "passage": "Serena Williams (born September 26, 1981) is an American professional tennis player who is currently ranked world No. 1 in women's singles tennis by the Women's Tennis Association (WTA). She has been ranked world No. 1 in singles on six separate occasions, and has been ranked world No. 1 in doubles on 14 separate occasions. She has won 23 Grand Slam singles titles, the most in history for a male or female player, and has held the world No. 1 ranking in singles for a total of 316 weeks, which is the most in history for a male or female player. She has also won 14 Grand Slam doubles titles, and has won a gold medal at the Summer Olympics and a silver medal at the Summer Paralympics. Williams has been praised for her powerful serve, her aggressive playing style, and her mental toughness. She has been named the WTA's Player of the Year five times, and has been ranked as one of the \"30 Legends of Women's Tennis\" by Tennis Magazine.",
+            "qae_pairs": [
+                {
+                    "question": "What is Serena Williams' birthday?",
+                    "answer": "September 26, 1981",
+                    "explanation": "Serena Williams has been ranked world No. 1 in singles on six separate occasions, and has been ranked world No. 1 in doubles on 14 separate occasions."
+                },
+                {
+                    "question": "What is the name of the organization that ranks Serena Williams as the world No. 1 in women's singles tennis?",
+                    "answer": "the Women's Tennis Association",
+                    "explanation": "She has been ranked world No. 1 in singles on six separate occasions, and has been ranked world No. 1 in doubles on 14 separate occasions. This sentence explains that Serena Williams has been ranked world No. 1 in women's singles tennis by the Women's Tennis Association (WTA) on six separate occasions and has also been ranked world No. 1 in women's doubles tennis by the WTA on 14 separate occasions."
+                },
+                {
+                    "question": "What is the Women's Tennis Association?",
+                    "answer": "WTA",
+                    "explanation": "She has been ranked world No. 1 in singles on six separate occasions, and has been ranked world No. 1 in doubles on 14 separate occasions."
+                },
+                {
+                    "question": "What is the name of the magazine that named Serena Williams as one of the \"30 Legends of Women's Tennis\"?",
+                    "answer": "Tennis Magazine",
+                    "explanation": "Serena Williams has been named the WTA's Player of the Year five times, and has been ranked as one of the 30 Legends of Women's Tennis by Tennis Magazine."
+                },
+                {
+                    "question": "How many weeks has Serena Williams held the world No. 1 ranking in singles?",
+                    "answer": "316 weeks",
+                    "explanation": "Serena Williams has held the world No. 1 ranking in singles for a total of 316 weeks, which is the most in history for a male or female player."
+                }
+            ],
+            "hops": [
+                "Serena Williams"
+            ]
+        },
+        "Cristiano Ronaldo": {
+            "term": "Cristiano Ronaldo",
+            "passage": "Cristiano Ronaldo dos Santos Aveiro, GOIH (Portuguese pronunciation: [kɾiʃˈtjanu ʁuˈnaɫdu]; born 5 February 1985) is a Portuguese professional footballer who plays as a forward for Italian club Juventus and the Portugal national team. Often considered the best player in the world and widely regarded as one of the greatest of all time, Ronaldo has five Ballon d'Or awards, the most for a European player, and is the first player to win the award in four different categories (2008, 2013, 2014, and 2016). He has won 27 trophies in his career, including five league titles, four UEFA Champions League titles and one UEFA European Championship. Born and raised on the Portuguese island of Madeira, Ronaldo began playing football at age eight for Andorinha, where he was discovered by Sporting CP in Portugal. He made his professional debut in 2002 at age 17, and the following year he signed with Manchester United for £12.24 million (€15 million), where he won his first trophy, the FA Cup. In 2009, he was transferred to Real Madrid for a then-world record fee of £80 million (€94 million). In Spain, Ronaldo won 15 trophies, including four Champions League titles, and was the top scorer in the competition for six consecutive seasons. In 2018, he joined Juventus for €100 million (£88.5 million), and has since won two Serie A titles and the UEFA Champions League.",
+            "qae_pairs": [
+                {
+                    "question": "What year did Cristiano Ronaldo make his professional debut?",
+                    "answer": "2002",
+                    "explanation": "He made his professional debut in 2002 at age 17, and the following year he signed with Manchester United for £12.24 million (€15 million), where he won his first trophy, the FA Cup."
+                },
+                {
+                    "question": "The question is \"What is the name of the top professional football league for clubs in Italy?\"",
+                    "answer": "Serie A",
+                    "explanation": "Ronaldo signed with Real Madrid for a then-world record fee of £80 million (€94 million) in 2009."
+                },
+                {
+                    "question": "The question is \"What is the name of the Portuguese island where Cristiano Ronaldo was born and raised?\"",
+                    "answer": "Madeira",
+                    "explanation": "Ronaldo began playing football at age eight for Andorinha, where he was discovered by Sporting CP in Portugal."
+                },
+                {
+                    "question": "Ronaldo began playing football at age eight for which club?",
+                    "answer": "Andorinha",
+                    "explanation": "Ronaldo began playing football at age eight for Andorinha, where he was discovered by Sporting CP in Portugal."
+                },
+                {
+                    "question": "What team did Cristiano Ronaldo play for before joining Juventus?",
+                    "answer": "Real Madrid",
+                    "explanation": "In Spain, Ronaldo won 15 trophies, including four Champions League titles, and was the top scorer in the competition for six consecutive seasons. Ronaldo played for Real Madrid before joining Juventus."
+                },
+                {
+                    "question": "\"Which years did Cristiano Ronaldo win the Ballon d'Or award?\"",
+                    "answer": "2008, 2013",
+                    "explanation": "Ronaldo has five Ballon d'Or awards, the most for a European player, and is the first player to win the award in four different categories (2008, 2013, 2014, and 2016)."
+                },
+                {
+                    "question": "What is the full name of Cristiano Ronaldo?",
+                    "answer": "Santos Aveiro",
+                    "explanation": "Ronaldo has five Ballon d'Or awards, the most for a European player, and is the first player to win the award in four different categories (2008, 2013, 2014, and 2016)."
+                }
+            ],
+            "hops": [
+                "Cristiano Ronaldo"
+            ]
+        },
+        "Michael Phelps": {
+            "term": "Michael Phelps",
+            "passage": "Michael Phelps is an American former competitive swimmer and the most successful and decorated Olympian of all time, with a total of 28 medals. Phelps also holds the all-time records for Olympic gold medals, gold medals in individual events, and total medals for a male. He won a total of 23 Olympic gold medals, 3 silver medals and 2 bronze medals, spanning across five Olympics from 2004 to 2016. Phelps's international titles, world records, and Olympic medals were achieved in a range of events, including the butterfly, individual medley, and freestyle. Phelps's success began at an early age, as he qualified for the Olympic team in 2000 at the age of 15, becoming the youngest male swimmer to do so in 68 years. He continued to dominate the swimming world, winning a total of six gold medals at the 2004 Athens Olympics and eight gold medals at the 2008 Beijing Olympics, both of which were records for the most gold medals won at a single Olympics. Phelps also won six gold medals at the 2012 London Olympics, becoming the first swimmer to win the same individual event at four consecutive Olympics. Phelps's success in the pool was not limited to the Olympics, as he also won a total of 37 World Championship medals, including 26 gold medals. He also set numerous world records throughout his career, including the 100-meter butterfly, 200-meter butterfly, and 400-meter individual medley.",
+            "qae_pairs": [
+                {
+                    "question": "What is the year that Michael Phelps won six gold medals at the London Olympics?",
+                    "answer": "2012",
+                    "explanation": "Phelps also won a total of 37 World Championship medals, including 26 gold medals. Evidence sentence: Phelps also won a total of 37 World Championship medals, including 26 gold medals."
+                },
+                {
+                    "question": "'What year did Michael Phelps win a total of eight gold medals at the Olympics?'",
+                    "answer": "2008",
+                    "explanation": "Phelps won a total of eight gold medals at the 2008 Beijing Olympics, becoming the first swimmer to win the same individual event at four consecutive Olympics."
+                }
+            ],
+            "hops": [
+                "Michael Phelps"
+            ]
+        },
+        "Simone Biles": {
+            "term": "Simone Biles",
+            "passage": "Simone Biles is an American artistic gymnast. Biles was born on March 14, 1997, in Columbus, Ohio. She is the most successful gymnast in United States history, with a total of 19 Olympic and World Championship medals. Biles first gained attention at the 2013 World Championships, where she won gold in the team and all-around competitions, as well as bronze in the floor exercise. She has since gone on to win numerous other titles, including four consecutive all-around titles at the U.S. National Championships and three consecutive all-around titles at the World Championships. Biles is known for her incredible flexibility, strength, and balance, as well as her innovative and difficult routines. She has been praised for her work ethic and dedication to the sport, as well as her positive attitude and infectious smile. Biles has been a role model for young gymnasts around the world, inspiring them to pursue their dreams and never give up.",
+            "qae_pairs": [
+                {
+                    "question": "What is the state where Simone Biles was born?",
+                    "answer": "Ohio",
+                    "explanation": "Simone Biles was born on March 14, 1997, in Columbus, Ohio."
+                },
+                {
+                    "question": "What is the birthplace of Simone Biles?",
+                    "answer": "Columbus",
+                    "explanation": "Simone Biles first gained attention at the 2013 World Championships, where she won gold in the team and all-around competitions, as well as bronze in the floor exercise."
+                },
+                {
+                    "question": "What is the name of the competition where Simone Biles has won four consecutive all-around titles?",
+                    "answer": "the U.S. National Championships",
+                    "explanation": "Simone Biles has won numerous other titles, including four consecutive all-around titles at the U.S. National Championships and three consecutive all-around titles at the World Championships."
+                }
+            ],
+            "hops": [
+                "Simone Biles"
+            ]
+        },
+        "LeBron James": {
+            "term": "LeBron James",
+            "passage": "LeBron James is an American professional basketball player for the Los Angeles Lakers of the National Basketball Association (NBA). He stands at 6 feet 9 inches (2.06 m) and usually plays the power forward and center positions, but he is also capable of playing the small forward position. Born in Akron, Ohio, James is widely considered one of the greatest basketball players of all time. He has won four NBA championships, four NBA Most Valuable Player Awards, two Olympic gold medals, and the NBA Finals MVP Award four times. He has also been named to the NBA All-Star Team 16 times and has been selected to the All-NBA First Team 12 times. James was a two-time high school state champion, a two-time Ohio Mr. Basketball, and the national player of the year in 2003. He left high school after his junior year to enter the 2003 NBA draft, where he was selected first overall by the Cleveland Cavaliers. James played for the Miami Heat from 2010 to 2014, winning two NBA championships, and then returned to the Cavaliers before joining the Lakers in 2018. Off the court, James is known for his philanthropy and social activism, including founding the LeBron James Family Foundation and advocating for education and athletic opportunities for children in Akron.",
+            "qae_pairs": [
+                {
+                    "question": "What year did LeBron James leave high school to enter the NBA draft?",
+                    "answer": "2003",
+                    "explanation": "He left high school after his junior year to enter the 2003 NBA draft, where he was selected first overall by the Cleveland Cavaliers."
+                },
+                {
+                    "question": "'What year did LeBron James join the Los Angeles Lakers?'",
+                    "answer": "2018",
+                    "explanation": "LeBron James joined the Los Angeles Lakers in 2018."
+                },
+                {
+                    "question": "What is the name of the basketball team that LeBron James plays for?",
+                    "answer": "the Los Angeles Lakers",
+                    "explanation": "LeBron James is widely considered one of the greatest basketball players of all time."
+                },
+                {
+                    "question": "What is the award LeBron James has won four times?",
+                    "answer": "NBA Finals MVP Award",
+                    "explanation": "He has won four NBA championships, four NBA Most Valuable Player Awards, two Olympic gold medals, and the NBA Finals MVP Award four times."
+                }
+            ],
+            "hops": [
+                "LeBron James"
+            ]
+        },
+        "Tom Brady": {
+            "term": "Tom Brady",
+            "passage": "Tom Brady is an American football quarterback for the New England Patriots of the National Football League (NFL). Born and raised in San Mateo, California, he played college football at Michigan before being drafted by the Patriots in the sixth round of the 2000 NFL Draft. Brady has won seven Super Bowl championships, the most by any player in NFL history, and has been named the Super Bowl MVP six times, also a record. He has also won three NFL Most Valuable Player (MVP) awards, has been selected to 15 Pro Bowls, and has led the Patriots to 11 division titles. Brady is known for his ability to extend plays with his mobility and his accuracy, and for his ability to read defenses and make quick decisions. He is also known for his leadership skills and his ability to motivate his teammates. Brady has been married to model Gisele Bündchen since 2009, and the couple has two children together. He is also known for his philanthropic work, including his involvement with Best Buddies International, a nonprofit organization that helps people with intellectual and developmental disabilities. In addition to his success on the field, Brady has also been the subject of controversy. In 2015, he was suspended for the first four games of the season for his role in the Deflategate scandal, in which the Patriots were accused of using underinflated footballs in the AFC Championship Game. He has also been criticized for his friendship with President Donald Trump.",
+            "qae_pairs": [
+                {
+                    "question": "Which college did Tom Brady attend?",
+                    "answer": "Michigan",
+                    "explanation": "Tom Brady attended Michigan college."
+                },
+                {
+                    "question": "What is the process by which teams in the National Football League (NFL) select players for their rosters?",
+                    "answer": "Draft",
+                    "explanation": "Tom Brady has won seven Super Bowl championships, the most by any player in NFL history, and has been named the Super Bowl MVP six times, also a record."
+                },
+                {
+                    "question": "Which team has Tom Brady played for throughout his career?",
+                    "answer": "the New England Patriots",
+                    "explanation": "Tom Brady has played for the New England Patriots throughout his career."
+                },
+                {
+                    "question": "What is the name of the scandal in which the New England Patriots were accused of using underinflated footballs in the AFC Championship Game?",
+                    "answer": "Deflategate",
+                    "explanation": "Brady has been suspended for the first four games of the season for his role in the Deflategate scandal, in which the Patriots were accused of using underinflated footballs in the AFC Championship Game."
+                },
+                {
+                    "question": "What year did Tom Brady marry model Gisele Bündchen?",
+                    "answer": "2009",
+                    "explanation": "Tom Brady has been married to model Gisele Bündchen since 2009, and the couple has two children together."
+                },
+                {
+                    "question": "What is the term for the National Football League's all-star game?",
+                    "answer": "Pro Bowls",
+                    "explanation": "He has also won three NFL Most Valuable Player (MVP) awards, has been selected to 15 Pro Bowls, and has led the Patriots to 11 division titles. This sentence provides evidence of Tom Brady's success and achievements in the NFL."
+                },
+                {
+                    "question": "What is the state where Tom Brady was born and raised?",
+                    "answer": "California",
+                    "explanation": "Tom Brady was born and raised in San Mateo, California."
+                },
+                {
+                    "question": "Who is Tom Brady's wife?",
+                    "answer": "Gisele Bündchen",
+                    "explanation": "He has been married to model Gisele Bündchen since 2009, and the couple has two children together."
+                },
+                {
+                    "question": "What is the name of the league in which Tom Brady plays?",
+                    "answer": "the National Football League",
+                    "explanation": "He has also won three NFL Most Valuable Player (MVP) awards, has been selected to 15 Pro Bowls, and has led the Patriots to 11 division titles. This sentence provides evidence of Tom Brady's success in the National Football League (NFL) by listing his achievements, including winning three MVP awards, being selected to 15 Pro Bowls, and leading the Patriots to 11 division titles."
+                },
+                {
+                    "question": "Who is the current President of the United States?",
+                    "answer": "Donald Trump",
+                    "explanation": "He has also been criticized for his friendship with President Donald Trump."
+                }
+            ],
+            "hops": [
+                "Tom Brady"
+            ]
+        },
+        "Rafael Nadal": {
+            "term": "Rafael Nadal",
+            "passage": "Rafael Nadal Parera is a Spanish professional tennis player who is currently ranked world No. 1 in men's singles tennis by the Association of Tennis Professionals (ATP). He has won 19 Grand Slam singles titles, the 2nd most in history for a male player, after Roger Federer, and has been a member of the Spain Davis Cup team since 2004, helping them win the competition in 2004, 2008, 2009, and 2011. Nadal was born in Manacor, Mallorca, Balearic Islands, Spain, on June 3, 1986, to a baker and a housewife. He began playing tennis at the age of four with his uncle, Toni Nadal, who is now his coach. Nadal's uncle, who is also a former professional tennis player, introduced him to the sport and trained him in his early years. Nadal's playing style is characterized by his speed, footwork, and topspin-heavy shots. He is a left-handed player with an aggressive and attacking style of play. Nadal's serve is considered to be a weakness in his game, but he has improved it over the years and now has a powerful and reliable serve. Nadal's success on the tennis court has earned him numerous accolades, including the Laureus World Sports Award for Sportsman of the Year and the BBC Overseas Sports Personality of the Year award in 2011. He has also been named the ATP World Tour Player of the Year a record five times, in 2008, 2010, 2013, 2017, and 2018.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the organization that ranks the top male tennis players in the world?",
+                    "answer": "the Association of Tennis Professionals",
+                    "explanation": "Rafael Nadal is currently ranked world No. 1 in men's singles tennis by the Association of Tennis Professionals (ATP)."
+                },
+                {
+                    "question": "What is the birthplace of Rafael Nadal?",
+                    "answer": "Manacor",
+                    "explanation": "He was born in Manacor, Mallorca, Balearic Islands, Spain, on June 3, 1986, to a baker and a housewife."
+                },
+                {
+                    "question": "What is the name of the award that Rafael Nadal has won?",
+                    "answer": "the Laureus World Sports Award for Sportsman",
+                    "explanation": "Nadal's success on the tennis court has earned him numerous accolades, including the Laureus World Sports Award for Sportsman of the Year and the BBC Overseas Sports Personality of the Year award in 2011."
+                },
+                {
+                    "question": "Rafael Nadal won the BBC Overseas Sports Personality of the Year award in which year?",
+                    "answer": "2011",
+                    "explanation": "Rafael Nadal won the BBC Overseas Sports Personality of the Year award in 2011."
+                },
+                {
+                    "question": "What is the name of the region in Spain where Rafael Nadal was born?",
+                    "answer": "Balearic Islands",
+                    "explanation": "Nadal was born in Manacor, Mallorca, Balearic Islands, Spain, on June 3, 1986, to a baker and a housewife."
+                },
+                {
+                    "question": "'Which year did Rafael Nadal win the ATP World Tour Player of the Year award for the fifth time?' Passage about Rafael Nadal: Rafael Nadal Parera is a Spanish professional tennis player who is currently ranked world No. 1 in men's singles tennis by the Association of Tennis",
+                    "answer": "2018",
+                    "explanation": "Rafael Nadal has won the ATP World Tour Player of the Year award a record five times, in 2008, 2010, 2013, 2017, and 2018."
+                }
+            ],
+            "hops": [
+                "Rafael Nadal"
+            ]
+        },
+        "Megan Rapinoe": {
+            "term": "Megan Rapinoe",
+            "passage": "Megan Rapinoe is an American professional soccer player who plays as a midfielder and winger for Reign FC in the National Women's Soccer League (NWSL) and the United States women's national soccer team. She is known for her impressive ball control, speed, and accurate shots. Rapinoe is also known for her advocacy for women's soccer and LGBTQ+ rights. Rapinoe was born on July 5, 1985, in Redding, California. She began playing soccer at a young age and quickly showed a natural talent for the sport. Rapinoe played for the United States under-19 national team in 2004 and made her debut for the senior national team in 2006. She has since become one of the most prominent players on the team, earning over 150 caps and scoring over 50 goals. Rapinoe has won numerous awards and accolades throughout her career, including the FIFA Women's World Cup Golden Ball in 2019 and the Ballon d'Or in 2019 and 2020. She has also won two Olympic gold medals and four NWSL championships. Rapinoe has been named the U.S. Soccer Female Athlete of the Year four times, more than any other player in history. In addition to her success on the field, Rapinoe is also known for her advocacy for women's soccer and LGBTQ+ rights. She has been an outspoken advocate for equal pay for women's soccer players and has been involved in several high-profile lawsuits against the United States Soccer Federation.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the award that Megan Rapinoe won in 2019 and 2020?",
+                    "answer": "Ballon",
+                    "explanation": "Rapinoe was born on July 5, 1985, in Redding, California. She began playing soccer at a young age and quickly showed a natural talent for the sport. Rapinoe played for the United States under-19 national team in 2004 and made her debut for the senior national team in 2006. She has since become one of the most prominent players on the team, earning over 150 caps and scoring over 50 goals."
+                },
+                {
+                    "question": "What is the name of the league in which Megan Rapinoe plays?",
+                    "answer": "the National Women's Soccer League",
+                    "explanation": "She has been an outspoken advocate for equal pay for women's soccer players and has been involved in several high-profile lawsuits against the United States Soccer Federation. This evidence sentence explains that Megan Rapinoe is known for her advocacy for women's soccer and LGBTQ+ rights, and specifically for her outspoken advocacy for equal pay for women's soccer players and her involvement in lawsuits against the United States Soccer Federation."
+                },
+                {
+                    "question": "What year did Megan Rapinoe play for the United States under-19 national team?",
+                    "answer": "2004",
+                    "explanation": "Rapinoe played for the United States under-19 national team in 2004 and made her debut for the senior national team in 2006."
+                },
+                {
+                    "question": "What year did Megan Rapinoe make her debut for the senior national team?",
+                    "answer": "2006",
+                    "explanation": "Rapinoe is also known for her advocacy for women's soccer and LGBTQ+ rights."
+                },
+                {
+                    "question": "What is the year that Megan Rapinoe won the FIFA Women's World Cup Golden Ball?",
+                    "answer": "2019",
+                    "explanation": "She has been an outspoken advocate for equal pay for women's soccer players and has been involved in several high-profile lawsuits against the United States Soccer Federation."
+                },
+                {
+                    "question": "What is the birthdate of Megan Rapinoe?",
+                    "answer": "July 5, 1985",
+                    "explanation": "Rapinoe was born on July 5, 1985, in Redding, California."
+                },
+                {
+                    "question": "'What is the answer to the question \"What is the answer to the question\"?' Explanation: This is an example of a self-referential paradox, also known as a liar paradox. The question is asked in such a way that the answer cannot be true, creating",
+                    "answer": "Year four",
+                    "explanation": "Passage: Rapinoe has won numerous awards and accolades throughout her career, including the FIFA Women's World Cup Golden Ball in 2019 and the Ballon d'Or in 2019 and 2020. Evidence sentence: Rapinoe has won numerous awards and accolades throughout her career."
+                },
+                {
+                    "question": "What is the award that Megan Rapinoe won in 2019?",
+                    "answer": "the FIFA Women's World Cup Golden Ball",
+                    "explanation": "Rapinoe has won numerous awards and accolades throughout her career, including the FIFA Women's World Cup Golden Ball in 2019 and the Ballon d'Or in 2019 and 2020."
+                },
+                {
+                    "question": "What is the name of the organization that oversees soccer in the United States?",
+                    "answer": "the United States Soccer Federation",
+                    "explanation": "Rapinoe has been an outspoken advocate for equal pay for women's soccer players and has been involved in several high-profile lawsuits against the United States Soccer Federation. This sentence is an evidence sentence because it provides specific information about Megan Rapinoe's advocacy for equal pay for women's soccer players and her involvement in lawsuits against the United States Soccer Federation."
+                },
+                {
+                    "question": "What is the abbreviation for the United States of America?",
+                    "answer": "U.S",
+                    "explanation": "She has been an outspoken advocate for equal pay for women's soccer players and has been involved in several high-profile lawsuits against the United States Soccer Federation."
+                }
+            ],
+            "hops": [
+                "Megan Rapinoe"
+            ]
+        },
+        "Lionel Messi": {
+            "term": "Lionel Messi",
+            "passage": "Lionel Messi is an Argentine professional footballer who plays as a forward for Spanish club Barcelona and the Argentina national team. Often considered the best player in the world and widely regarded as one of the greatest football players of all time, Messi has won a record seven Ballon d'Or awards, four of which he won consecutively, and a record six European Golden Shoes. He has spent his entire professional career with Barcelona, where he has won a record 34 trophies, including ten La Liga titles, seven Copa del Rey titles, and four UEFA Champions League titles. Born and raised in Rosario, Argentina, Messi was diagnosed with a growth hormone deficiency as a child. He was given the opportunity to train with Barcelona's youth team, and after a successful trial, he was offered a contract. Messi quickly made a name for himself as a prolific goalscorer, and his performances in the Barcelona youth teams and reserves earned him a first-team debut in 2004. Since then, Messi has established himself as one of the greatest players in the history of the game. He has won numerous individual awards, including the Golden Foot, the Golden Boy, and the FIFA World Cup Golden Ball, and has led Argentina to three finals, winning the 2014 FIFA World Cup and the 2015 and 2016 Copa América. Messi's playing style and ability have drawn comparisons to Diego Maradona, who himself was a legendary Argentine footballer. Messi is known for his incredible dribbling skills, quick feet, and ability to change direction at high speed. He is also a highly creative player, known for his vision and passing ability, and is capable of scoring goals from anywhere on the field.",
+            "qae_pairs": [
+                {
+                    "question": "Which country is Lionel Messi from?",
+                    "answer": "Argentina",
+                    "explanation": "He has spent his entire professional career with Barcelona, where he has won a record 34 trophies, including ten La Liga titles, seven Copa del Rey titles, and four UEFA Champions League titles. This sentence provides evidence that Lionel Messi is an Argentine professional footballer who plays as a forward for Spanish club Barcelona. It also states that he has won a record 34 trophies with Barcelona, including ten La Liga titles, seven Copa del Rey titles, and four UEFA Champions League titles, which is a testament to his incredible success as a player."
+                },
+                {
+                    "question": "Which club does Lionel Messi play for?",
+                    "answer": "Barcelona",
+                    "explanation": "He was given the opportunity to train with Barcelona's youth team, and after a successful trial, he was offered a contract."
+                },
+                {
+                    "question": "Who is the best player in the world and widely regarded as one of the greatest football players of all time?",
+                    "answer": "Messi",
+                    "explanation": "Messi has won a record seven Ballon d'Or awards, four of which he won consecutively, and a record six European Golden Shoes."
+                }
+            ],
+            "hops": [
+                "Lionel Messi"
+            ]
+        }
+    },
+    "second_hops": {
+        "WTA": {
+            "term": "WTA",
+            "passage": "Women's Tennis Association (WTA) is the principal organizing body of women's professional tennis. It was founded in 1973 by Billie Jean King and others as a successor to the Women's Tennis Association of America, which was founded in 1957. The WTA's mission is to promote the growth of women's professional tennis and to provide opportunities for women tennis players. The WTA organizes and sanctions a number of tennis tournaments, including the four Grand Slam tournaments, the WTA Tour Championships, and the Fed Cup. The WTA also runs several charitable and educational programs, including the WTA Foundation, which supports educational and tennis-related programs for young people. The WTA has over 2,500 members, including players, coaches, officials, and media representatives from over 100 countries.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the tournament that is organized by the Women's Tennis Association (WTA) and is considered one of the four most prestigious tournaments in women's tennis?",
+                    "answer": "Grand Slam",
+                    "explanation": "The WTA organizes and sanctions a number of tennis tournaments, including the four Grand Slam tournaments, the WTA Tour Championships, and the Fed Cup."
+                },
+                {
+                    "question": "What year was the Women's Tennis Association (WTA) founded?",
+                    "answer": "1973",
+                    "explanation": "The WTA was founded in 1973 by Billie Jean King and others as a successor to the Women's Tennis Association of America, which was founded in 1957."
+                }
+            ],
+            "hops": [
+                "Serena Williams",
+                "WTA"
+            ]
+        },
+        "Tennis Magazine": {
+            "term": "Tennis Magazine",
+            "passage": "Tennis Magazine is a monthly magazine that covers the sport of tennis. It was founded in 1963 and is based in New York City. The magazine covers a wide range of topics related to tennis, including news, player profiles, tournament coverage, instructional articles, and equipment reviews. Tennis Magazine is known for its in-depth coverage of the sport and its commitment to providing readers with the latest information and insights. The magazine is published by New York Media LLC, which also publishes other well-known publications such as New York Magazine and Vulture.",
+            "qae_pairs": [
+                {
+                    "question": "What year was Tennis Magazine founded?",
+                    "answer": "1963",
+                    "explanation": "Tennis Magazine is known for its in-depth coverage of the sport and its commitment to providing readers with the latest information and insights."
+                }
+            ],
+            "hops": [
+                "Serena Williams",
+                "Tennis Magazine"
+            ]
+        },
+        "Serie A": {
+            "term": "Serie A",
+            "passage": "1. Serie A is a professional football league for clubs located at the top of the Italian football league system, having been founded in 1929. 2. It is contested by 20 teams and operates on a promotion and relegation system with Serie B. 3. Serie A is one of the top national leagues, and is often cited as one of the most difficult to win, owing to the high level of competition and the presence of top-level teams such as Juventus, Milan, and Inter. 4. The league has produced some of the world's most famous players, including Diego Maradona, Lionel Messi, and Cristiano Ronaldo. 5. The league has also been the subject of several controversies, including match-fixing scandals and allegations of corruption. 6. The current champions of Serie A are Juventus, who have won the league a record 36 times. 7. The league has produced several successful teams, including Milan, Inter, and Roma, who have all won multiple titles. 8. The league has also produced several successful managers, including Arrigo Sacchi, Fabio Capello, and Carlo Ancelotti, who have gone on to manage some of the world's top clubs. 9. Serie A is known for its passionate fans and intense atmosphere, with many of the league's stadiums being sold out for every match. 10. The league has also been the subject of several documentaries and films, including \"The Two Escobars\" and \"A Season with Verona\".",
+            "qae_pairs": [
+                {
+                    "question": "What player did Serie A produce, who went on to become one of the world's most famous footballers?",
+                    "answer": "Diego Maradona",
+                    "explanation": "Passage about Serie A: 4. Serie A is one of the top national leagues, and is often cited as one of the most difficult to win, owing to the high level of competition and the presence of top-level teams such as Juventus, Milan, and Inter. Explanation: This sentence explains that Serie A is considered one of the top national leagues and is known for being difficult to win due to the high level of competition and the presence of top-level teams like Juventus, Milan, and Inter."
+                },
+                {
+                    "question": "What is the name of the successful manager who has won multiple titles in Serie A and has gone on to manage some of the world's top clubs?",
+                    "answer": "Carlo Ancelotti",
+                    "explanation": "The league has produced several successful managers, including Arrigo Sacchi, Fabio Capello, and Carlo Ancelotti, who have gone on to manage some of the world's top clubs."
+                }
+            ],
+            "hops": [
+                "Cristiano Ronaldo",
+                "Serie A"
+            ]
+        },
+        "Madeira": {
+            "term": "Madeira",
+            "passage": "Madeira is a Portuguese archipelago located in the north Atlantic Ocean, southwest of Portugal. It is composed of two main islands, Madeira and Porto Santo, and two smaller islands, Desertas and Selvagens. The archipelago is known for its mild subtropical climate, exceptional flora and fauna, and its unique cultural heritage. The capital of Madeira is Funchal, which is also the largest city in the archipelago. The island is a popular tourist destination, with its rugged coastline, volcanic landscapes, and lush green forests. The island is also famous for its Madeira wine, which is produced in the region using traditional methods. The wine is made from a variety of grapes, including Tinta Negra, Verdelho, and Boal. The island is also known for its traditional music and dance, which is influenced by African and European cultures. The archipelago is a popular destination for hiking, diving, and other outdoor activities.",
+            "qae_pairs": [
+                {
+                    "question": "What is the most popular grape variety used in the production of Madeira wine?",
+                    "answer": "Tinta Negra",
+                    "explanation": "The wine is made from a variety of grapes, including Tinta Negra, Verdelho, and Boal."
+                }
+            ],
+            "hops": [
+                "Cristiano Ronaldo",
+                "Madeira"
+            ]
+        },
+        "Real Madrid": {
+            "term": "Real Madrid",
+            "passage": "Real Madrid Club de Fútbol, commonly known as Real Madrid, is a professional football club based in Madrid, Spain. It was founded on 6 March 1902 as the Madrid Football Club, and has since then become one of the most successful and prestigious football clubs in the world. The club has won a record 33 La Liga titles, 11 UEFA Champions League titles, and 4 FIFA Club World Cup titles. Real Madrid has a long-standing rivalry with FC Barcelona, known as El Clásico. The club's home kit is white and its away kit is blue. The club's home ground is the Santiago Bernabéu Stadium, which seats 81,044 spectators. Real Madrid is one of the most valuable sports teams in the world, with an estimated worth of $3.44 billion. The club is owned by the Spanish multinational conglomerate, Real Madrid Club de Fútbol, S.A.D.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the prestigious football tournament that Real Madrid has won a record 11 times?",
+                    "answer": "UEFA Champions League",
+                    "explanation": "Real Madrid has won a record 11 UEFA Champions League titles."
+                },
+                {
+                    "question": "What country is Real Madrid based in?",
+                    "answer": "Spain",
+                    "explanation": "Real Madrid Club de Fútbol, commonly known as Real Madrid, is a professional football club based in Madrid, Spain."
+                },
+                {
+                    "question": "What is the name of the international club football tournament that Real Madrid has won four times?",
+                    "answer": "FIFA Club World Cup",
+                    "explanation": "Real Madrid has a long-standing rivalry with FC Barcelona, known as El Clásico."
+                },
+                {
+                    "question": "What was the date on which Real Madrid Club de Fútbol was founded?",
+                    "answer": "6 March 1902",
+                    "explanation": "Real Madrid has a long-standing rivalry with FC Barcelona, known as El Clásico. Evidence sentence: Real Madrid has a long-standing rivalry with FC Barcelona, known as El Clásico."
+                }
+            ],
+            "hops": [
+                "Cristiano Ronaldo",
+                "Real Madrid"
+            ]
+        },
+        "Santos Aveiro": {
+            "term": "Santos Aveiro",
+            "passage": "Santos Aveiro (born 1954) is a Portuguese economist and academic. He is a professor of economics at the University of Lisbon and a researcher at the Centre for European Studies. Aveiro has written extensively on the economics of Portugal and the European Union, with a particular focus on issues of economic growth, development, and international trade. He has also served as a consultant to various government agencies and international organizations, including the World Bank and the European Commission. Aveiro is a member of the Portuguese Academy of Sciences and a fellow of the European Economic Association.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the research center where Santos Aveiro is a researcher?",
+                    "answer": "the Centre for European Studies",
+                    "explanation": "Santos Aveiro is a professor of economics at the University of Lisbon and a researcher at the Centre for European Studies."
+                }
+            ],
+            "hops": [
+                "Cristiano Ronaldo",
+                "Santos Aveiro"
+            ]
+        },
+        "Ohio": {
+            "term": "Ohio",
+            "passage": "Ohio is a state in the Great Lakes region of the United States. It is the 34th largest by area, the 7th most populous, and the 10th most densely populated of the 50 United States. The state's capital and largest city is Columbus. The Anglicized name \"Ohio\" comes from the Iroquois word ohi-yo’, meaning \"great river\" or \"large creek\". The state, originally partitioned from the Northwest Territory, was admitted to the Union as the 17th state on March 1, 1803. Ohio is an industrial state, with a diverse economy that includes aerospace, automotive, and technology among others. The state is also known for its agriculture, which includes corn, soybeans, and wheat among others. Ohio has a diverse geography, with the flat central Ohio River Valley, the hilly eastern foothills of the Appalachian Mountains, and the northern shore of Lake Erie. The state is also home to several major sports teams, including the Cleveland Browns, Cincinnati Bengals, and the Ohio State Buckeyes.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the lake that borders Ohio to the north?",
+                    "answer": "Lake Erie",
+                    "explanation": "The state's capital and largest city is Columbus. This sentence explains that Columbus is the capital and largest city of Ohio."
+                },
+                {
+                    "question": "What was the original partition of Ohio before it became a state?",
+                    "answer": "the Northwest Territory",
+                    "explanation": "The state, originally partitioned from the Northwest Territory, was admitted to the Union as the 17th state on March 1, 1803. This sentence explains that Ohio was originally a part of the Northwest Territory before it became a state, and it was admitted to the Union on March 1, 1803."
+                },
+                {
+                    "question": "What is the name of the professional American football team based in Cincinnati, Ohio?",
+                    "answer": "Cincinnati Bengals",
+                    "explanation": "The state, originally partitioned from the Northwest Territory, was admitted to the Union as the 17th state on March 1, 1803. Explanation: This sentence explains when Ohio became a state in the United States, and how it was partitioned from the Northwest Territory before that."
+                }
+            ],
+            "hops": [
+                "Simone Biles",
+                "Ohio"
+            ]
+        },
+        "Columbus": {
+            "term": "Columbus",
+            "passage": "Columbus was an Italian explorer, navigator, and colonizer who completed four voyages across the Atlantic Ocean under the sponsorship of the Catholic Monarchs of Spain. He led the first European expeditions to the Caribbean, Central America, and South America, encountering the indigenous American peoples and initiating European colonization of the Americas. His voyages initiated the Spanish colonization of the Americas and the transatlantic slave trade. Columbus's early life is somewhat unclear, but he was born in the Republic of Genoa, in modern-day Italy, to a family of wool weavers. He worked as a seaman and later became a merchant, sailing along the coasts of Europe and Africa. In 1485, he married Felipa Moniz, the daughter of a wool merchant from the port of Lisbon, Portugal. In 1492, Columbus received royal support from Queen Isabella I of Castile and King Ferdinand II of Aragon, who provided him with three ships and a crew of 90 men for his first voyage. He departed from Palos, Spain, on August 3, 1492, and sailed westward across the Atlantic Ocean. After a month-long voyage, he landed on the island of San Salvador in the Bahamas on October 12, 1492, which he claimed for Spain. Columbus went on to make three more voyages to the Americas, each time sailing farther south along the coast of Central and South America. He explored the Orinoco River in Venezuela and the Amazon River in Brazil, and he believed he had reached the East Indies.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the port from which Columbus's wife, Felipa Moniz, came from?",
+                    "answer": "Lisbon",
+                    "explanation": "In 1485, he married Felipa Moniz, the daughter of a wool merchant from the port of Lisbon, Portugal."
+                }
+            ],
+            "hops": [
+                "Simone Biles",
+                "Columbus"
+            ]
+        },
+        "NBA Finals MVP Award": {
+            "term": "NBA Finals MVP Award",
+            "passage": "The NBA Finals Most Valuable Player (MVP) Award is an annual National Basketball Association (NBA) award given since the 1969 NBA Finals to the best performing player in the NBA Finals. The winner is chosen by a panel of sportswriters and broadcasters, who cast their votes after each game of the series. The player with the highest point total at the end of the series wins the award. The award has been given to 44 different players, with 11 players winning the award more than once. The award has been given to players from 16 different teams, with the Boston Celtics having the most winners with 10. The award has been given to players from 10 different countries, with the United States having the most winners with 38. The award has been given to players from 10 different positions, with guards having won the award 27 times and forwards 16 times. The award has been given to players from 10 different conferences, with the Western Conference having won the award 24 times and the Eastern Conference having won the award 20 times. The award has been given to players from 10 different decades, with the 1980s having the most winners with 10. The award has been given to players from 10 different teams that have won the NBA Finals, with the Boston Celtics having the most winners with 10.",
+            "qae_pairs": [
+                {
+                    "question": "What conference has won the NBA Finals MVP Award the most times in history?",
+                    "answer": "the Western Conference",
+                    "explanation": "The award has been given to players from 10 different conferences, with the Western Conference having won the award 24 times and the Eastern Conference having won the award 20 times."
+                },
+                {
+                    "question": "What team has won the NBA Finals MVP Award the most times in NBA history?",
+                    "answer": "the Boston Celtics",
+                    "explanation": "The award has been given to players from 10 different teams, with the Boston Celtics having the most winners with 10."
+                }
+            ],
+            "hops": [
+                "LeBron James",
+                "NBA Finals MVP Award"
+            ]
+        },
+        "Michigan": {
+            "term": "Michigan",
+            "passage": "Michigan is a state in the Great Lakes region of the Midwestern United States. It is the tenth most populous of the 50 United States, with the 11th most extensive total area. Michigan is the only state to consist entirely of two peninsulas. The Lower Peninsula, to which the name Michigan was originally applied, is often dubbed \"the mitten\" by residents, owing to its shape. The Upper Peninsula is separated from the Lower Peninsula by the Straits of Mackinac, a five-mile-wide (8 km) channel that joins Lake Huron to Lake Michigan. The state has the longest freshwater coastline of any political subdivision in the world, being bounded by four of the five Great Lakes, plus Lake Saint Clair. Michigan is one of the most diverse states in the country, with abundant natural resources, a strong economy, and a thriving arts and culture scene.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the peninsula that is often referred to as \"the mitten\" in the state of Michigan?",
+                    "answer": "The Lower Peninsula",
+                    "explanation": "The state has the longest freshwater coastline of any political subdivision in the world, being bounded by four of the five Great Lakes, plus Lake Saint Clair."
+                },
+                {
+                    "question": "What is the name of the region in the United States where Michigan is located?",
+                    "answer": "Great Lakes",
+                    "explanation": "Michigan is a state in the Great Lakes region of the Midwestern United States."
+                },
+                {
+                    "question": "What is the name of the peninsula in Michigan that is separated from the Lower Peninsula by the Straits of Mackinac?",
+                    "answer": "The Upper Peninsula",
+                    "explanation": "The Upper Peninsula is separated from the Lower Peninsula by the Straits of Mackinac, a five-mile-wide (8 km) channel that joins Lake Huron to Lake Michigan."
+                }
+            ],
+            "hops": [
+                "Tom Brady",
+                "Michigan"
+            ]
+        },
+        "Draft": {
+            "term": "Draft",
+            "passage": "Draft is a term used in various sports, including American football, association football, basketball, and ice hockey, to describe a set of rules or procedures that govern the selection of players or teams for a competition. In American football, for example, the draft is an annual event in which National Football League (NFL) teams take turns selecting amateur college players who they believe will contribute to their team's success. The draft typically takes place in April, with the order of selection determined by the previous season's standings. In association football, the draft is used to assign players to teams in leagues where teams do not have exclusive control over their players' rights. In basketball, the draft is used to assign players to teams in the National Basketball Association (NBA) and the Women's National Basketball Association (WNBA). In ice hockey, the draft is used to assign players to teams in the National Hockey League (NHL) and the Canadian Hockey League (CHL).",
+            "qae_pairs": [
+                {
+                    "question": "What determines the order of selection in the draft for American football teams?",
+                    "answer": "the previous season's",
+                    "explanation": "The draft typically takes place in April, with the order of selection determined by the previous season's standings."
+                },
+                {
+                    "question": "What is the NHL's draft process for assigning players to teams?",
+                    "answer": "NHL",
+                    "explanation": "The draft is used to assign players to teams in the National Hockey League (NHL) and the Canadian Hockey League (CHL)."
+                }
+            ],
+            "hops": [
+                "Tom Brady",
+                "Draft"
+            ]
+        },
+        "the New England Patriots": {
+            "term": "the New England Patriots",
+            "passage": "The New England Patriots are a professional American football team based in the Greater Boston region. The Patriots compete in the National Football League (NFL) as a member club of the league's American Football Conference (AFC) East division. The team plays its home games at Gillette Stadium in the town of Foxborough, Massachusetts, which is located 21 miles (34 km) southwest of downtown Boston. The Patriots were founded in 1960 as the Boston Patriots, one of the eight teams that joined the American Football League (AFL) in its inaugural season. The team changed its name to the New England Patriots in 1971, when it moved to Foxborough and began playing its home games at Schaefer Stadium. The Patriots were one of three AFL teams that joined the NFL in the 1970 merger of the two leagues. The Patriots have appeared in nine Super Bowls, winning six of them. They have won 14 division championships, 18 conference championships, and have the second-best overall record in the NFL since 1970. The Patriots have appeared in the playoffs 30 times, and have won 16 division championships in that time. The Patriots have a storied history of successful coaches and players, including head coach Bill Belichick, quarterback Tom Brady, and wide receiver Jerry Rice. Belichick and Brady have been credited with revolutionizing the game of football with their innovative offensive and defensive strategies. The Patriots have a large and passionate fan base, with fans often referred to as \"Patriot Nation.\"",
+            "qae_pairs": [
+                {
+                    "question": "What conference does the New England Patriots play in?",
+                    "answer": "American Football Conference",
+                    "explanation": "The team plays its home games at Gillette Stadium in the town of Foxborough, Massachusetts, which is located 21 miles (34 km) southwest of downtown Boston."
+                },
+                {
+                    "question": "What is the name of the stadium where the New England Patriots play their home games?",
+                    "answer": "Gillette Stadium",
+                    "explanation": "The team plays its home games at Gillette Stadium in the town of Foxborough, Massachusetts, which is located 21 miles (34 km) southwest of downtown Boston."
+                },
+                {
+                    "question": "What is the season of the New England Patriots?",
+                    "answer": "season",
+                    "explanation": "The Patriots were founded in 1960 as the Boston Patriots, one of the eight teams that joined the American Football League (AFL) in its inaugural season."
+                },
+                {
+                    "question": "What year did the New England Patriots join the National Football League (NFL)?",
+                    "answer": "1970",
+                    "explanation": "The Patriots were one of three AFL teams that joined the NFL in the 1970 merger of the two leagues."
+                }
+            ],
+            "hops": [
+                "Tom Brady",
+                "the New England Patriots"
+            ]
+        },
+        "Deflategate": {
+            "term": "Deflategate",
+            "passage": "1. Deflategate is a controversy that erupted in 2015 over allegations that the New England Patriots, an American football team, used underinflated footballs in an American Football Conference (AFC) championship game against the Indianapolis Colts. 2. The controversy began when officials noticed that the Patriots' footballs were significantly deflated during the game, which led to accusations that the team had deliberately tampered with the balls to gain an unfair advantage. 3. The Patriots denied any wrongdoing, but the controversy continued to escalate, with some accusing the team of cheating and others defending them as innocent victims of a witch hunt. 4. Eventually, an investigation by the National Football League (NFL) concluded that it was likely that two Patriots employees had deliberately deflated the balls, but that there was no evidence that the team's coach, Tom Brady, had known about it. 5. Brady was suspended for four games and the team was fined $1 million, but the ruling was later overturned on appeal. 6. The controversy continued to be a topic of debate among sports fans and pundits, with some arguing that the punishment was too harsh and others claiming that the Patriots had cheated and deserved to be punished. 7. Despite the controversy, the Patriots went on to win the Super Bowl that year, further fueling the debate over Deflategate and its impact on the team's success.",
+            "qae_pairs": [
+                {
+                    "question": "What team was involved in the Deflategate controversy?",
+                    "answer": "the New England Patriots",
+                    "explanation": "Eventually, an investigation by the National Football League (NFL) concluded that it was likely that two Patriots employees had deliberately deflated the balls, but that there was no evidence that the team's coach, Tom Brady, had known about it."
+                },
+                {
+                    "question": "What team did the New England Patriots play against in the AFC championship game where Deflategate occurred?",
+                    "answer": "the Indianapolis Colts",
+                    "explanation": "Eventually, an investigation by the National Football League (NFL) concluded that it was likely that two Patriots employees had deliberately deflated the balls, but that there was no evidence that the team's coach, Tom Brady, had known about it. The investigation concluded that two Patriots employees had deliberately deflated the balls, but there was no evidence that Tom Brady, the team's coach, had known about it."
+                },
+                {
+                    "question": "What organization was responsible for investigating the allegations of Deflategate in the National Football League?",
+                    "answer": "the National Football League",
+                    "explanation": "Eventually, an investigation by the National Football League (NFL) concluded that it was likely that two Patriots employees had deliberately deflated the balls, but that there was no evidence that the team's coach, Tom Brady, had known about it. The National Football League (NFL) conducted an investigation and concluded that two Patriots employees likely deflated the balls, but there was no evidence that the team's coach, Tom Brady, had known about it."
+                },
+                {
+                    "question": "What year did Deflategate occur?",
+                    "answer": "2015",
+                    "explanation": "The controversy began when officials noticed that the Patriots' footballs were significantly deflated during the game, which led to accusations that the team had deliberately tampered with the balls to gain an unfair advantage."
+                }
+            ],
+            "hops": [
+                "Tom Brady",
+                "Deflategate"
+            ]
+        },
+        "Pro Bowls": {
+            "term": "Pro Bowls",
+            "passage": "Pro Bowls are the National Football League's all-star games, held annually at the end of the regular season. The game features the best players from the AFC and NFC, as determined by a combination of fan, coaches, and player voting. The game has been held annually since 1951, with the exception of 1978 and 1982, when a players' strike forced the cancellation of the game. The game is typically held the weekend before the Super Bowl, and is played in a different city each year. The game is known for its high level of competition, as well as its unique atmosphere and festivities. The game is also a significant source of revenue for the host city, as it attracts thousands of fans and generates millions of dollars in economic activity.",
+            "qae_pairs": [
+                {
+                    "question": "What year did the first Pro Bowls game take place?",
+                    "answer": "1951",
+                    "explanation": "The game has been held annually since 1951, with the exception of 1978 and 1982, when a players' strike forced the cancellation of the game."
+                },
+                {
+                    "question": "What is the frequency of the Pro Bowls held annually?",
+                    "answer": "annually",
+                    "explanation": "The game has been held annually since 1951, with the exception of 1978 and 1982, when a players' strike forced the cancellation of the game."
+                },
+                {
+                    "question": "What year did the Pro Bowls not take place due to a players' strike?",
+                    "answer": "1982",
+                    "explanation": "The game has been held annually since 1951, with the exception of 1978 and 1982, when a players' strike forced the cancellation of the game."
+                }
+            ],
+            "hops": [
+                "Tom Brady",
+                "Pro Bowls"
+            ]
+        },
+        "California": {
+            "term": "California",
+            "passage": "California is a state located on the West Coast of the United States. It is the most populous U.S. state, with a total population of 39.5 million people, and the third-largest state by area (after Alaska and Texas). California is bordered by Oregon to the north, Nevada and Arizona to the east, and the Mexican state of Baja California to the south. The state capital is Sacramento, and the largest city is Los Angeles.",
+            "qae_pairs": [
+                {
+                    "question": "What state is located to the east of California?",
+                    "answer": "Arizona",
+                    "explanation": "California is bordered by Oregon to the north, Nevada and Arizona to the east, and the Mexican state of Baja California to the south."
+                },
+                {
+                    "question": "What state is located to the north of California?",
+                    "answer": "Oregon",
+                    "explanation": "California is bordered by Oregon to the north, Nevada and Arizona to the east, and the Mexican state of Baja California to the south."
+                },
+                {
+                    "question": "What is the capital of California?",
+                    "answer": "Sacramento",
+                    "explanation": "The state capital is Sacramento, and the largest city is Los Angeles."
+                }
+            ],
+            "hops": [
+                "Tom Brady",
+                "California"
+            ]
+        },
+        "Gisele Bündchen": {
+            "term": "Gisele Bündchen",
+            "passage": "Gisele Bündchen (born July 20, 1980) is a Brazilian model, actress, and philanthropist. She is the goodwill ambassador for the United Nations Environment Programme (UNEP) and has been the highest-paid model in the world since 2004. Bündchen has been married to American football quarterback Tom Brady since 2009. Bündchen was born in Três de Maio, a small town in the state of Rio Grande do Sul, Brazil. She grew up with five sisters and one brother. Her mother, Vânia Nonnenmacher, is a bank clerk, and her father, Valdir Bündchen, worked in a mall as a cleaner and a part-time bank clerk. Bündchen was discovered at the age of 14 while on a school trip to a shopping mall. Bündchen's modeling career began in 1996 when she was signed by Elite Model Management in São Paulo. She moved to New York City in 1998 and was quickly signed by IMG Models. Bündchen has since become one of the most successful models in the world, appearing on the covers of Vogue, W, and Harper's Bazaar, among others. She has also worked with high-profile clients such as Victoria's Secret, Chanel, and Christian Dior. In addition to her modeling career, Bündchen has also acted in several films and television shows. She made her film debut in 2004 in Taxi, and has since appeared in The Devil Wears Prada and The Sisterhood of the Traveling Pants.",
+            "qae_pairs": [
+                {
+                    "question": "In which movie did Gisele Bündchen act alongside America Ferrera, Amber Tamblyn, and Alexis Bledel?",
+                    "answer": "The Sisterhood of the Traveling Pants",
+                    "explanation": "Bündchen's modeling career began in 1996 when she was signed by Elite Model Management in São Paulo."
+                },
+                {
+                    "question": "In which movie did Gisele Bündchen act alongside Meryl Streep and Anne Hathaway?",
+                    "answer": "The Devil Wears Prada",
+                    "explanation": "Bündchen's modeling career began in 1996 when she was signed by Elite Model Management in São Paulo. This sentence is an evidence sentence because it provides information about when Gisele Bündchen's modeling career began, which is a key detail in understanding her success as a model."
+                },
+                {
+                    "question": "What city did Gisele Bündchen move to in 1998 after being signed by IMG Models?",
+                    "answer": "New York City",
+                    "explanation": "Gisele Bündchen moved to New York City in 1998 after being signed by IMG Models."
+                }
+            ],
+            "hops": [
+                "Tom Brady",
+                "Gisele Bündchen"
+            ]
+        },
+        "Donald Trump": {
+            "term": "Donald Trump",
+            "passage": "Donald Trump is an American businessman, television personality, and politician who served as the 45th president of the United States from 2017 to 2021. Trump was born and raised in the New York City borough of Queens and received an economics degree from the Wharton School of the University of Pennsylvania. He then entered the real estate business, eventually establishing himself as a prominent figure in the industry. Trump is also known for his television career, including his role as the host of the reality show The Apprentice. In 2016, Trump launched a successful campaign for the presidency, defeating Democratic nominee Hillary Clinton in the general election. He was inaugurated as president on January 20, 2017, and served until January 20, 2021. During his presidency, Trump pursued a controversial and polarizing agenda, including a hardline stance on immigration, a focus on economic growth and deregulation, and a confrontational approach to foreign policy. He was impeached twice by the United States House of Representatives, but was acquitted both times by the Senate. Trump remains a controversial figure in American politics and is widely recognized as a divisive and polarizing figure.",
+            "qae_pairs": [
+                {
+                    "question": "What was the date of Donald Trump's presidency end?",
+                    "answer": "January 20, 2021",
+                    "explanation": "Trump was inaugurated as president on January 20, 2017, and served until January 20, 2021."
+                }
+            ],
+            "hops": [
+                "Tom Brady",
+                "Donald Trump"
+            ]
+        },
+        "Manacor": {
+            "term": "Manacor",
+            "passage": "Manacor is a town on the island of Mallorca, Spain. It is the second-largest town in Mallorca, with a population of approximately 40,000 people. The town is known for its production of pearls, as well as its football club, CF Manacor. The town also has a number of historic landmarks, including the Church of St. John the Baptist and the Castle of Manacor. The town is located in the center of the island, making it a convenient base for exploring other parts of Mallorca. The town has a number of hotels, restaurants, and shops, as well as a weekly market where visitors can buy local produce and crafts. Manacor is also home to the Mallorca Open, an international tennis tournament held annually in April.",
+            "qae_pairs": [
+                {
+                    "question": "What is the frequency of the weekly market in Manacor?",
+                    "answer": "weekly",
+                    "explanation": "The town has a number of hotels, restaurants, and shops, as well as a weekly market where visitors can buy local produce and crafts."
+                }
+            ],
+            "hops": [
+                "Rafael Nadal",
+                "Manacor"
+            ]
+        },
+        "Ballon": {
+            "term": "Ballon",
+            "passage": "Ballon is a commune in the Yvelines department in the Île-de-France region in north-central France. It is located in the northwest of the department, about 50 km (31 mi) west of Paris. The commune is bordered by the department of Eure-et-Loir to the north and the department of Essonne to the south. Ballon is located in the western part of the Forest of Rambouillet, a large forest that covers much of the northwestern part of the department. The town is known for its castle, which dates back to the 16th century. The castle was built by the architect Philibert de l'Orme for the Duke of Montpensier. The castle is surrounded by a large park and is open to the public. The town is also known for its church, which dates back to the 12th century. The church is dedicated to Saint-Martin and is a Romanesque building. The town is also known for its annual festival, which takes place in August and features a parade, live music, and fireworks.",
+            "qae_pairs": [
+                {
+                    "question": "What is the location of Ballon in France?",
+                    "answer": "France",
+                    "explanation": "The commune is bordered by the department of Eure-et-Loir to the north and the department of Essonne to the south. This sentence explains that Ballon is located between two departments in France, Eure-et-Loir to the north and Essonne to the south."
+                },
+                {
+                    "question": "What is the name of the church in Ballon that is dedicated to Saint-Martin?",
+                    "answer": "Saint-Martin",
+                    "explanation": "The town is known for its church, which dates back to the 12th century. The church is dedicated to Saint-Martin and is a Romanesque building."
+                },
+                {
+                    "question": "What is the month of the annual festival in Ballon?",
+                    "answer": "August",
+                    "explanation": "The town is known for its annual festival, which takes place in August and features a parade, live music, and fireworks."
+                },
+                {
+                    "question": "What is the capital city of the department in which Ballon is located?",
+                    "answer": "Paris",
+                    "explanation": "The town is located in the western part of the Forest of Rambouillet, a large forest that covers much of the northwestern part of the department."
+                }
+            ],
+            "hops": [
+                "Megan Rapinoe",
+                "Ballon"
+            ]
+        },
+        "the National Women's Soccer League": {
+            "term": "the National Women's Soccer League",
+            "passage": "The National Women's Soccer League (NWSL) is a professional women's soccer league in the United States. It was founded in 2012 as a successor to the Women's Professional Soccer (WPS) league, which folded after the 2011 season. The NWSL is sanctioned by U.S. Soccer and is the top level of women's soccer in the United States. The league currently consists of nine teams, with plans to expand to 12 teams by 2022. The NWSL season runs from April to September, with each team playing 24 regular season games. The league also hosts a playoff tournament to determine the NWSL champion. The NWSL has attracted many top international players, including stars like Marta, Alex Morgan, and Megan Rapinoe. The league has also seen significant growth in attendance and media coverage since its inception.",
+            "qae_pairs": [
+                {
+                    "question": "What year was the National Women's Soccer League founded?",
+                    "answer": "2012",
+                    "explanation": "The NWSL is a professional women's soccer league in the United States that was founded in 2012 as a successor to the Women's Professional Soccer (WPS) league, which folded after the 2011 season."
+                },
+                {
+                    "question": "Who is the all-time leading scorer in the National Women's Soccer League?",
+                    "answer": "Marta",
+                    "explanation": "The NWSL has attracted many top international players, including stars like Marta, Alex Morgan, and Megan Rapinoe."
+                },
+                {
+                    "question": "What is the year in which the National Women's Soccer League plans to expand to 12 teams?",
+                    "answer": "2022",
+                    "explanation": "The NWSL is the top level of women's soccer in the United States and has attracted many top international players, including stars like Marta, Alex Morgan, and Megan Rapinoe."
+                }
+            ],
+            "hops": [
+                "Megan Rapinoe",
+                "the National Women's Soccer League"
+            ]
+        },
+        "the FIFA Women's World Cup Golden Ball": {
+            "term": "the FIFA Women's World Cup Golden Ball",
+            "passage": "The FIFA Women's World Cup Golden Ball is awarded to the player who is deemed to have performed the best during the tournament. The award has been presented since the inaugural tournament in 1991, and is considered one of the most prestigious individual awards in women's football. The winner is chosen by a panel of experts, including journalists and former players, who evaluate the performances of all the players throughout the tournament. The Golden Ball winner is announced at the end of the final match. Some of the most notable winners of the award include Marta, who has won the award a record five times, and Michelle Akers, who won the award in the first two editions of the tournament. The Golden Ball is widely regarded as a symbol of excellence in women's football, and is highly sought after by players and fans alike.",
+            "qae_pairs": [
+                {
+                    "question": "What year was the first FIFA Women's World Cup Golden Ball awarded?",
+                    "answer": "1991",
+                    "explanation": "The award has been presented since the inaugural tournament in 1991, and is considered one of the most prestigious individual awards in women's football."
+                }
+            ],
+            "hops": [
+                "Megan Rapinoe",
+                "the FIFA Women's World Cup Golden Ball"
+            ]
+        },
+        "the United States Soccer Federation": {
+            "term": "the United States Soccer Federation",
+            "passage": "The United States Soccer Federation (USSF) is the official governing body of soccer in the United States. It was founded in 1913 and is responsible for overseeing all aspects of soccer in the country, including the men's, women's, and youth national teams, as well as the development of the sport at the grassroots level. The USSF is a member of both FIFA and CONCACAF, the two international soccer governing bodies. The federation is headquartered in Chicago, Illinois and is made up of representatives from each of the 55 member state associations. The USSF is responsible for organizing and hosting various soccer events, including the men's and women's national soccer cups, the men's and women's national soccer leagues, and the men's and women's national soccer teams. The federation also oversees the development of soccer at the youth level, with programs such as the Development Academy and the Youth National Teams program. The USSF is committed to promoting the growth of soccer in the United States and developing the sport at all levels.",
+            "qae_pairs": [
+                {
+                    "question": "What international soccer governing body is the United States Soccer Federation a member of?",
+                    "answer": "FIFA",
+                    "explanation": "The USSF is a member of both FIFA and CONCACAF, the two international soccer governing bodies."
+                }
+            ],
+            "hops": [
+                "Megan Rapinoe",
+                "the United States Soccer Federation"
+            ]
+        },
+        "U.S": {
+            "term": "U.S",
+            "passage": "presidential elections. The United States presidential election of 2020 was the 59th quadrennial presidential election, held on Tuesday, November 3, 2020. The Democratic Party nominee, former Vice President Joe Biden, and his running mate, Senator Kamala Harris of California, defeated the incumbent President Donald Trump, the Republican Party nominee, and his running mate, Governor Mike Pence of Indiana. Biden won a majority of the electoral votes, with 306, while Trump received 232. The election was marked by a historically high voter turnout, with over 159 million people casting ballots, and was closely contested in several battleground states. The election was also notable for the first time that a woman, a person of color, and a member of the LGBTQ+ community were elected to the presidency and vice presidency.",
+            "qae_pairs": [
+                {
+                    "question": "What was the name of the Vice Presidential candidate for the Democratic Party in the U.S presidential election of 2020?",
+                    "answer": "Kamala Harris",
+                    "explanation": "The Democratic Party nominee, former Vice President Joe Biden, and his running mate, Senator Kamala Harris of California, defeated the incumbent President Donald Trump, the Republican Party nominee, and his running mate, Governor Mike Pence of Indiana."
+                },
+                {
+                    "question": "What state did Joe Biden choose as his running mate for the 2020 U.S presidential election?",
+                    "answer": "California",
+                    "explanation": "The Democratic Party nominee, former Vice President Joe Biden, and his running mate, Senator Kamala Harris of California, defeated the incumbent President Donald Trump, the Republican Party nominee, and his running mate, Governor Mike Pence of Indiana."
+                }
+            ],
+            "hops": [
+                "Megan Rapinoe",
+                "U.S"
+            ]
+        },
+        "Barcelona": {
+            "term": "Barcelona",
+            "passage": "Barcelona is the capital and largest city of the autonomous community of Catalonia in Spain, as well as the second most populous municipality of Spain. It is located on the coast of the Mediterranean Sea, between the mouths of the rivers Llobregat and Besòs, and is bounded to the west by the Serra de Collserola mountain range, the tallest peak of which is 512 meters high. Barcelona has a rich cultural heritage and is today an important cultural center and a major tourist destination. It is renowned for its architecture, including works by Antoni Gaudí, such as the Sagrada Família and Park Güell, as well as for its art and museums, gastronomy, and nightlife. The city is also known for its football club, FC Barcelona, which has won many domestic and international titles. Barcelona has a population of 1.6 million people, and its metropolitan area has a population of 3.2 million, making it the sixth most populous urban area in the European Union after Paris, London, Ruhr area, Madrid and Milan. The city is well connected by road, rail, air and sea, with Barcelona-El Prat Airport being one of the largest in Europe in terms of passenger numbers.",
+            "qae_pairs": [
+                {
+                    "question": "What famous architect designed the Sagrada Família and Park Güell in Barcelona?",
+                    "answer": "Antoni Gaudí",
+                    "explanation": "Barcelona is renowned for its architecture, including works by Antoni Gaudí, such as the Sagrada Família and Park Güell, as well as for its art and museums, gastronomy, and nightlife."
+                },
+                {
+                    "question": "What is the name of the sea that borders Barcelona to the east?",
+                    "answer": "the Mediterranean Sea",
+                    "explanation": "It is located on the coast of the Mediterranean Sea, between the mouths of the rivers Llobregat and Besòs, and is bounded to the west by the Serra de Collserola mountain range, the tallest peak of which is 512 meters high. This sentence provides evidence that Barcelona is located on the coast of the Mediterranean Sea and is bounded by the Serra de Collserola mountain range to the west."
+                }
+            ],
+            "hops": [
+                "Lionel Messi",
+                "Barcelona"
+            ]
+        },
+        "Messi": {
+            "term": "Messi",
+            "passage": "Messi is an Argentine professional footballer who plays as a forward for Spanish club Barcelona and the Argentina national team. He is often considered the best player in the world and is widely regarded as one of the greatest football players of all time. Messi has spent his entire professional career with Barcelona, where he has won a record 34 trophies, including ten La Liga titles, seven Copa del Rey titles, and four UEFA Champions League titles. He has scored over 700 goals for the club, and is the club's all-time leading scorer. Messi has also won a record seven Ballon d'Or awards, four of which he won consecutively from 2009 to 2012. He has won numerous other awards, including the Golden Foot and the Golden Boy award. Messi has represented Argentina in over 140 matches, and has scored over 70 international goals. He has won a record 31 trophies with the national team, including the 2014 FIFA World Cup and the 2015 and 2016 Copa América. Messi is known for his quick dribbling, speed, and ability to score from anywhere on the field. He is also known for his humility and his dedication to his family and friends.",
+            "qae_pairs": [
+                {
+                    "question": "What country is Messi from?",
+                    "answer": "Argentina",
+                    "explanation": "He has won a record seven Ballon d'Or awards, four of which he won consecutively from 2009 to 2012. This sentence explains that Messi has won a record seven Ballon d'Or awards, which is a prestigious award for the best football player in the world. The sentence also notes that he won four of these awards consecutively from 2009 to 2012, which is a remarkable achievement."
+                },
+                {
+                    "question": "What year did Messi win his first Ballon d'Or award?",
+                    "answer": "2009",
+                    "explanation": "Messi has won a record seven Ballon d'Or awards, four of which he won consecutively from 2009 to 2012."
+                },
+                {
+                    "question": "What is the name of the UEFA Champions League that Messi has won the most times?",
+                    "answer": "UEFA Champions League",
+                    "explanation": "He has won a record 34 trophies, including ten La Liga titles, seven Copa del Rey titles, and four UEFA Champions League titles."
+                }
+            ],
+            "hops": [
+                "Lionel Messi",
+                "Messi"
+            ]
+        }
+    }
+}

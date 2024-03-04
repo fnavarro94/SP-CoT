@@ -1,0 +1,1031 @@
+{
+    "first_hops": {
+        "The Godfather": {
+            "term": "The Godfather",
+            "passage": "The Godfather is a 1972 American crime film directed by Francis Ford Coppola and produced by Albert S. Ruddy, based on Mario Puzo's best-selling novel of the same name. The film stars Marlon Brando and Al Pacino as the leaders of a powerful New York crime family. The story, spanning the years 1945 to 1955, centers on the family's patriarch, Vito Corleone, and his youngest son, Michael, who takes over the family business after Vito's retirement. The Godfather was widely acclaimed upon its release, receiving critical acclaim and commercial success. It won several awards, including the Academy Award for Best Picture, and is widely regarded as one of the greatest films in American cinema history. The film's themes, including the corrupting influence of power and the tension between loyalty and family, have resonated with audiences for decades. The Godfather has had a significant cultural impact, spawning two sequels, The Godfather Part II and The Godfather Part III, as well as numerous imitations and parodies. The film's iconic scenes, such as the baptism and the horse head in the bed, have become cultural touchstones. The Godfather has also been cited as a landmark in the development of the modern Hollywood studio system, as it was one of the first films to be produced under the new \"independent\" production model, in which a studio provides financing and distribution for a film produced outside the studio system. The Godfather is widely regarded as one of the greatest films in American cinema history.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the director of The Godfather?",
+                    "answer": "Francis Ford Coppola",
+                    "explanation": "The Godfather was widely acclaimed upon its release, receiving critical acclaim and commercial success. It won several awards, including the Academy Award for Best Picture, and is widely regarded as one of the greatest films in American cinema history."
+                },
+                {
+                    "question": "\"Who stars as the patriarch of a powerful New York crime family in The Godfather?\" 'Al Pacino' is the answer to which question: \"Who takes over the family business after Vito's retirement in The Godfather?\" 'The Godfather' is the answer to which question:",
+                    "answer": "Marlon Brando",
+                    "explanation": "The Godfather was widely acclaimed upon its release, receiving critical acclaim and commercial success."
+                },
+                {
+                    "question": "What is the name of the producer of The Godfather?",
+                    "answer": "Albert S. Ruddy",
+                    "explanation": "The Godfather was widely acclaimed upon its release, receiving critical acclaim and commercial success. It won several awards, including the Academy Award for Best Picture, and is widely regarded as one of the greatest films in American cinema history."
+                },
+                {
+                    "question": "What year was The Godfather released?",
+                    "answer": "1972",
+                    "explanation": "The Godfather is a 1972 American crime film directed by Francis Ford Coppola and produced by Albert S. Ruddy, based on Mario Puzo's best-selling novel of the same name."
+                },
+                {
+                    "question": "What is the name of the patriarch of the powerful New York crime family in The Godfather?",
+                    "answer": "Vito Corleone",
+                    "explanation": "The Godfather was widely acclaimed upon its release, receiving critical acclaim and commercial success. It won several awards, including the Academy Award for Best Picture, and is widely regarded as one of the greatest films in American cinema history. Rationale: The evidence sentence provides information about the reception of The Godfather upon its release, including its critical acclaim, commercial success, and the awards it won, including the Academy Award for Best Picture. It also states that the film is widely regarded as one of the greatest films in American cinema history, providing further evidence of its cultural impact and significance."
+                }
+            ],
+            "hops": [
+                "The Godfather"
+            ]
+        },
+        "Breaking Bad": {
+            "term": "Breaking Bad",
+            "passage": "Breaking Bad is an American television drama series created and produced by Vince Gilligan. The show originally aired on the AMC network for five seasons, from January 20, 2008, to September 29, 2013. It tells the story of Walter White (Bryan Cranston), a struggling high school chemistry teacher who is diagnosed with inoperable lung cancer at the beginning of the series. He turns to manufacturing and selling methamphetamine, along with a former student, Jesse Pinkman (Aaron Paul), to secure his family's financial future before he dies. The series was praised for its realistic portrayal of the drug trade and its exploration of the darker aspects of human nature. It also garnered critical acclaim for its acting, writing, direction, and cinematography. The show has been included in many critics' lists of the best television series of all time, and is widely regarded as one of the greatest television dramas ever made. Breaking Bad has been nominated for 52 Primetime Emmy Awards, winning 16, including Outstanding Drama Series in 2013 and 2014. It has also won several other awards, including a Peabody Award and a Golden Globe Award for Best Television Drama Series. The series has been widely regarded as one of the greatest television dramas of all time, and has been praised for its realistic portrayal of the drug trade and its exploration of the darker aspects of human nature.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the main character in Breaking Bad?",
+                    "answer": "Walter White",
+                    "explanation": "Walter White, a struggling high school chemistry teacher, is diagnosed with inoperable lung cancer at the beginning of the series."
+                },
+                {
+                    "question": "What is the date that Breaking Bad aired its final episode?",
+                    "answer": "September 29, 2013",
+                    "explanation": "The show originally aired on the AMC network for five seasons, from January 20, 2008, to September 29, 2013."
+                },
+                {
+                    "question": "\"What year did Breaking Bad end?\"",
+                    "answer": "2014",
+                    "explanation": "It tells the story of Walter White (Bryan Cranston), a struggling high school chemistry teacher who is diagnosed with inoperable lung cancer at the beginning of the series."
+                },
+                {
+                    "question": "What is the name of the television network that aired Breaking Bad?",
+                    "answer": "AMC",
+                    "explanation": "The show originally aired on the AMC network for five seasons, from January 20, 2008, to September 29, 2013. This sentence explains that Breaking Bad was a television series that aired on the AMC network for five seasons from 2008 to 2013."
+                },
+                {
+                    "question": "What is the date when Breaking Bad first aired on the AMC network?",
+                    "answer": "January 20, 2008",
+                    "explanation": "The show originally aired on the AMC network for five seasons, from January 20, 2008, to September 29, 2013."
+                }
+            ],
+            "hops": [
+                "Breaking Bad"
+            ]
+        },
+        "The Shawshank Redemption": {
+            "term": "The Shawshank Redemption",
+            "passage": "The Shawshank Redemption is a 1994 American drama film written and directed by Frank Darabont, based on the 1982 Stephen King novella Rita Hayworth and Shawshank Redemption. The film tells the story of Andy Dufresne (played by Tim Robbins), a young and successful banker who is sentenced to life in Shawshank State Penitentiary for the murder of his wife and her lover, a crime he did not commit. Over the course of two decades, Andy befriends fellow inmate Red (played by Morgan Freeman), a wise and experienced con who becomes his protege and helps him to find a way to escape from prison and start a new life. The film also explores themes of hope, friendship, and redemption. The Shawshank Redemption was a box office failure upon its initial release, but it gained a cult following through home video and cable television. It is now widely regarded as one of the greatest films of all time, and is often cited as the best film of the 1990s. The film has been praised for its screenplay, direction, acting, and cinematography, and has won numerous awards and accolades, including seven Academy Award nominations. The film's themes of hope and redemption have resonated with audiences around the world, and it has become a cultural touchstone. Its iconic scenes, such as Andy's crawl through the sewage pipe and Red's speech about the beauty of a good story, have become part of the lexicon of modern cinema.",
+            "qae_pairs": [
+                {
+                    "question": "What decade is The Shawshank Redemption set in?",
+                    "answer": "the 1990s",
+                    "explanation": "The film tells the story of Andy Dufresne (played by Tim Robbins), a young and successful banker who is sentenced to life in Shawshank State Penitentiary for the murder of his wife and her lover, a crime he did not commit."
+                },
+                {
+                    "question": "\"Who directed and wrote the 1994 film 'The Shawshank Redemption'?\"",
+                    "answer": "Frank Darabont",
+                    "explanation": "The Shawshank Redemption is a 1994 American drama film written and directed by Frank Darabont, based on the 1982 Stephen King novella Rita Hayworth and Shawshank Redemption."
+                },
+                {
+                    "question": "\"Who played the role of Red in The Shawshank Redemption?\"",
+                    "answer": "Morgan Freeman",
+                    "explanation": "The film tells the story of Andy Dufresne, a young and successful banker who is sentenced to life in Shawshank State Penitentiary for the murder of his wife and her lover, a crime he did not commit."
+                },
+                {
+                    "question": "\"What is the name of the main character in The Shawshank Redemption?\"",
+                    "answer": "Andy Dufresne",
+                    "explanation": "The film tells the story of Andy Dufresne (played by Tim Robbins), a young and successful banker who is sentenced to life in Shawshank State Penitentiary for the murder of his wife and her lover, a crime he did not commit."
+                },
+                {
+                    "question": "'Which author wrote the novella Rita Hayworth and Shawshank Redemption?'",
+                    "answer": "Stephen King",
+                    "explanation": "The Shawshank Redemption is a 1994 American drama film written and directed by Frank Darabont, based on the 1982 Stephen King novella Rita Hayworth and Shawshank Redemption."
+                },
+                {
+                    "question": "What is the name of the prison in The Shawshank Redemption?",
+                    "answer": "Shawshank State Penitentiary",
+                    "explanation": "The film tells the story of Andy Dufresne, a young and successful banker who is sentenced to life in Shawshank State Penitentiary for the murder of his wife and her lover, a crime he did not commit."
+                },
+                {
+                    "question": "What year was The Shawshank Redemption released?",
+                    "answer": "1994",
+                    "explanation": "The Shawshank Redemption is a 1994 American drama film written and directed by Frank Darabont, based on the 1982 Stephen King novella Rita Hayworth and Shawshank Redemption."
+                },
+                {
+                    "question": "Who played the role of Andy Dufresne in The Shawshank Redemption?",
+                    "answer": "Tim Robbins",
+                    "explanation": "The film tells the story of Andy Dufresne (played by Tim Robbins), a young and successful banker who is sentenced to life in Shawshank State Penitentiary for the murder of his wife and her lover, a crime he did not commit."
+                }
+            ],
+            "hops": [
+                "The Shawshank Redemption"
+            ]
+        },
+        "The Dark Knight": {
+            "term": "The Dark Knight",
+            "passage": "The Dark Knight is a 2008 American superhero film directed, co-produced, and co-written by Christopher Nolan. Based on the DC Comics character Batman, the film is the second installment of Nolan's The Dark Knight Trilogy and a sequel to 2005's Batman Begins, starring an ensemble cast including Christian Bale, Michael Caine, Heath Ledger, Gary Oldman, Aaron Eckhart, Maggie Gyllenhaal, and Morgan Freeman. In the film, Bruce Wayne/Batman (Bale), Police Lieutenant James Gordon (Oldman) and District Attorney Harvey Dent (Eckhart) form an alliance to dismantle the city's criminal underworld, but are menaced by a new psychotic enemy, the Joker (Ledger), who seeks to undermine Batman's authority and turn Gotham City into anarchy. The Dark Knight was released in the United States on July 18, 2008, to critical acclaim and commercial success, grossing over $1 billion worldwide. The film received eight Academy Award nominations, including Best Picture, Best Director, and Best Supporting Actor for Ledger's performance, winning two for Best Sound Editing and Best Supporting Actor. It is often cited as one of the greatest films of the 21st century and one of the best superhero films ever made. The Dark Knight was praised for its darker tone, complex characters, and themes of chaos, morality, and the nature of heroism. The film's visual style, score, and action sequences were also widely praised.",
+            "qae_pairs": [
+                {
+                    "question": "'What is the name of the first film in Christopher Nolan's The Dark Knight Trilogy?' 'What is the name of the 2008 American superhero film directed by Christopher Nolan, based on the DC Comics character Batman, and starring Christian Bale, Michael",
+                    "answer": "Batman Begins",
+                    "explanation": "The Dark Knight is a 2008 American superhero film directed, co-produced, and co-written by Christopher Nolan. The film is the second installment of Nolan's The Dark Knight Trilogy and a sequel to 2005's Batman Begins. The Dark Knight was released in the United States on July 18, 2008, to critical acclaim and commercial success."
+                },
+                {
+                    "question": "What is the country where the film 'The Dark Knight' was released?",
+                    "answer": "the United States",
+                    "explanation": "The Dark Knight was released in the United States on July 18, 2008, to critical acclaim and commercial success, grossing over $1 billion worldwide. This sentence is an evidence sentence because it provides specific information about the release date and box office success of the film 'The Dark Knight' in the United States."
+                },
+                {
+                    "question": "\"Who is the police lieutenant in The Dark Knight?\"",
+                    "answer": "James Gordon",
+                    "explanation": "In the film, Bruce Wayne/Batman (Bale), Police Lieutenant James Gordon (Oldman) and District Attorney Harvey Dent (Eckhart) form an alliance to dismantle the city's criminal underworld, but are menaced by a new psychotic enemy, the Joker (Ledger), who seeks to undermine Batman's authority and turn Gotham City into anarchy."
+                },
+                {
+                    "question": "What is the release date of The Dark Knight?",
+                    "answer": "July 18, 2008",
+                    "explanation": "The Dark Knight is a 2008 American superhero film directed, co-produced, and co-written by Christopher Nolan."
+                }
+            ],
+            "hops": [
+                "The Dark Knight"
+            ]
+        },
+        "The Wire": {
+            "term": "The Wire",
+            "passage": "The Wire is an American crime drama television series created and primarily written by author and former police reporter David Simon. The series was broadcast by the cable network HBO in the United States. The Wire premiered on June 2, 2002 and ended on March 9, 2008, comprising 60 episodes across five seasons. Set and produced in Baltimore, Maryland, The Wire uses a different setting and a different institution of the city as a backdrop for each season, with the majority of the plot revolving around the illegal drug trade. The show's overarching story arc chronicles the decline of the Baltimore City Police Department and the political and bureaucratic corruption that pervades the city. The show's large ensemble cast includes Dominic West, Lance Reddick, Sonja Sohn, Wendell Pierce, John Doman, Aidan Gillen, Idris Elba, Michael K. Williams, and Clarke Peters, among others. The Wire is widely regarded as one of the greatest television dramas of all time, and is often praised for its realistic portrayal of urban life, its unconventional narrative style, and its exploration of social issues. The show has been credited with bringing greater attention to the problems facing modern American cities, particularly those related to poverty, drug addiction, and police corruption. The Wire has also been praised for its nuanced portrayal of complex characters and its willingness to explore the gray areas of morality. The show has won numerous awards, including a Peabody Award, an AFI Award, and six Emmy Awards. In 2013, the Writers Guild of America ranked The Wire as the fifth-best written TV series of all time.",
+            "qae_pairs": [
+                {
+                    "question": "Who created and primarily wrote The Wire?",
+                    "answer": "David Simon",
+                    "explanation": "The Wire is an American crime drama television series created and primarily written by author and former police reporter David Simon."
+                },
+                {
+                    "question": "\"Who played the role of Lester Freamon on The Wire?\"",
+                    "answer": "Clarke Peters",
+                    "explanation": "The show's large ensemble cast includes Dominic West, Lance Reddick, Sonja Sohn, Wendell Pierce, John Doman, Aidan Gillen, Idris Elba, Michael K. Williams, and Clarke Peters, among others."
+                },
+                {
+                    "question": "'what country is The Wire set in?'",
+                    "answer": "the United States",
+                    "explanation": "The Wire is an American crime drama television series created and primarily written by author and former police reporter David Simon. The show's large ensemble cast includes Dominic West, Lance Reddick, Sonja Sohn, Wendell Pierce, John Doman, Aidan Gillen, Idris Elba, Michael K. Williams, and Clarke Peters, among others. Explanation: This sentence provides evidence that The Wire is set in the United States because it mentions that the show is an American crime drama television series."
+                },
+                {
+                    "question": "Who is the actor who played the role of Detective John Luther in the British crime drama television series Luther?",
+                    "answer": "Idris Elba",
+                    "explanation": "The show's large ensemble cast includes Dominic West, Lance Reddick, Sonja Sohn, Wendell Pierce, John Doman, Aidan Gillen, Idris Elba, Michael K. Williams, and Clarke Peters, among others. Evidence sentence: The show's large ensemble cast includes Idris Elba, who played the role of Detective John Luther in the British crime drama television series Luther."
+                },
+                {
+                    "question": "What is the name of the organization that ranked The Wire as the fifth-best written TV series of all time?",
+                    "answer": "the Writers Guild of America",
+                    "explanation": "The Wire is widely regarded as one of the greatest television dramas of all time, and is often praised for its realistic portrayal of urban life, its unconventional narrative style, and its exploration of social issues. The show has been credited with bringing greater attention to the problems facing modern American cities, particularly those related to poverty, drug addiction, and police corruption. The Wire has also been praised for its nuanced portrayal of complex characters and its willingness to explore the gray areas of morality."
+                },
+                {
+                    "question": "What is the date on which The Wire premiered on HBO?",
+                    "answer": "June 2, 2002",
+                    "explanation": "Set and produced in Baltimore, Maryland, The Wire uses a different setting and a different institution of the city as a backdrop for each season Evidence sentence: The Wire is set and produced in Baltimore, Maryland, and uses a different setting and institution of the city as a backdrop for each season."
+                }
+            ],
+            "hops": [
+                "The Wire"
+            ]
+        },
+        "The Matrix": {
+            "term": "The Matrix",
+            "passage": "The Matrix is a 1999 American science fiction action film written and directed by The Wachowskis. The film stars Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving, and Joe Pantoliano. It depicts a dystopian future in which humanity is unknowingly trapped within a simulated reality called the Matrix, created by intelligent machines to distract humans while their bodies are used as an energy source. The film's premise is explored through the protagonist, Neo (Reeves), a computer programmer who is contacted by Morpheus (Fishburne), a rebel who leads the fight against the machines. Neo is eventually convinced that the Matrix is not reality and joins Morpheus's crew in their struggle against the machines, which culminates in a series of battles and chases between humans and machines. The Matrix was a critical and commercial success, grossing over $463 million worldwide and receiving positive reviews for its innovative visual effects, action sequences, and themes of reality and identity. It was followed by two sequels, The Matrix Reloaded and The Matrix Revolutions, both released in 2003. The Matrix has been described as a cultural touchstone and has had a significant impact on popular culture, inspiring a range of artistic works and influencing the development of video games, fashion, and filmmaking techniques.",
+            "qae_pairs": [
+                {
+                    "question": "Who stars in The Matrix?",
+                    "answer": "Keanu Reeves",
+                    "explanation": "The film stars Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving, and Joe Pantoliano."
+                },
+                {
+                    "question": "'What year were the sequels to The Matrix released?'",
+                    "answer": "2003",
+                    "explanation": "The film stars Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving, and Joe Pantoliano."
+                },
+                {
+                    "question": "Who stars in The Matrix as Morpheus, a rebel who leads the fight against the machines?",
+                    "answer": "Laurence Fishburne",
+                    "explanation": "The film stars Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving, and Joe Pantoliano."
+                },
+                {
+                    "question": "What year was The Matrix released?",
+                    "answer": "1999",
+                    "explanation": "The Matrix is a 1999 American science fiction action film written and directed by The Wachowskis."
+                }
+            ],
+            "hops": [
+                "The Matrix"
+            ]
+        },
+        "The Lord of the Rings": {
+            "term": "The Lord of the Rings",
+            "passage": "The Lord of the Rings is an epic high fantasy novel written by the English author J. R. R. Tolkien. The story began as a sequel to Tolkien's earlier, less complex children's fantasy novel The Hobbit (1937), but eventually developed into a much larger work. It is set in the fictional world of Middle-earth, created by Tolkien, and follows the hobbit Frodo Baggins as he undertakes a perilous journey to destroy the One Ring, a powerful artifact created by the dark lord Sauron to rule the other Rings of Power and enslave the Free Peoples of Middle-earth. The Lord of the Rings is a three-volume novel, with the first volume, The Fellowship of the Ring, being published in 1954, the second volume, The Two Towers, in 1954, and the third volume, The Return of the King, in 1955. The work was initially intended as a standalone novel, but its popularity led to the creation of a sequel, The Silmarillion, and other posthumous publications by Tolkien. The Lord of the Rings has since become one of the most popular and influential works of fiction of the 20th century, with many translations and adaptations into other languages, media, and genres. It has had a significant impact on modern fantasy literature and has been referenced in popular culture numerous times. The work's themes include the struggle between good and evil, the power of friendship and loyalty, and the effects of ambition and greed.",
+            "qae_pairs": [
+                {
+                    "question": "What is the year in which the third volume of The Lord of the Rings, The Return of the King, was published?",
+                    "answer": "1955",
+                    "explanation": "The Lord of the Rings is a three-volume novel, with the first volume, The Fellowship of the Ring, being published in 1954, the second volume, The Two Towers, in 1954, and the third volume, The Return of the King, in 1955."
+                },
+                {
+                    "question": "A) What year was The Fellowship of the Ring published? B) What year was The Two Towers published? C) What year was The Return of the King published? D) What year was The Lord of the Rings written? E) What year was J. R. R",
+                    "answer": "1954",
+                    "explanation": "The Lord of the Rings is an epic high fantasy novel written by the English author J. R. R. Tolkien."
+                },
+                {
+                    "question": "\"Who wrote The Lord of the Rings?\"",
+                    "answer": "J. R. R. Tolkien",
+                    "explanation": "The Lord of the Rings is an epic high fantasy novel written by the English author J. R. R. Tolkien."
+                },
+                {
+                    "question": "What year was The Hobbit published?",
+                    "answer": "1937",
+                    "explanation": "The story began as a sequel to Tolkien's earlier, less complex children's fantasy novel The Hobbit (1937), but eventually developed into a much larger work. Evidence sentence: The story began as a sequel to Tolkien's earlier, less complex children's fantasy novel The Hobbit (1937), but eventually developed into a much larger work."
+                },
+                {
+                    "question": "What is the name of the fictional world created by J.R.R. Tolkien in which the story of The Lord of the Rings takes place?",
+                    "answer": "the Free Peoples of Middle-earth",
+                    "explanation": "The Lord of the Rings is a three-volume novel, with the first volume, The Fellowship of the Ring, being published in 1954, the second volume, The Two Towers, in 1954, and the third volume, The Return of the King, in 1955. The work was initially intended as a standalone novel, but its popularity led to the creation of a sequel, The Silmarillion, and other posthumous publications by Tolkien."
+                },
+                {
+                    "question": "\"What is the title of the second volume of J.R.R. Tolkien's The Lord of the Rings?\"",
+                    "answer": "The Two Towers",
+                    "explanation": "The Lord of the Rings is a three-volume novel, with the first volume, The Fellowship of the Ring, being published in 1954, the second volume, The Two Towers, in 1954, and the third volume, The Return of the King, in 1955."
+                },
+                {
+                    "question": "\"What is the name of the dark lord in The Lord of the Rings?\"",
+                    "answer": "Sauron",
+                    "explanation": "The Lord of the Rings is an epic high fantasy novel written by the English author J. R. R. Tolkien. The story began as a sequel to Tolkien's earlier, less complex children's fantasy novel The Hobbit (1937), but eventually developed into a much larger work."
+                }
+            ],
+            "hops": [
+                "The Lord of the Rings"
+            ]
+        },
+        "Pulp Fiction": {
+            "term": "Pulp Fiction",
+            "passage": "Pulp Fiction is a 1994 American black comedy crime film written and directed by Quentin Tarantino, from a story by Tarantino and Roger Avary. The film is known for its nonlinear storyline, which is told out of chronological order, and its eclectic dialogue, violence, and ironic humor. The film's ensemble cast includes John Travolta, Uma Thurman, Samuel L. Jackson, Bruce Willis, Ving Rhames, and Tim Roth, with each character's story intersecting with the others in various ways. The film's title refers to the pulp magazines and hardboiled crime fiction of the mid-20th century, known for their sensationalized violence and sexuality. Tarantino drew inspiration from the works of Elmore Leonard, and the film's screenplay is known for its use of profanity, pop culture references, and other elements of postmodernism. Pulp Fiction was a critical and commercial success, receiving widespread acclaim for its direction, screenplay, and performances. It won the Palme d'Or at the 1994 Cannes Film Festival, and was nominated for seven Academy Awards, including Best Picture, and won for Best Original Screenplay, Best Supporting Actor for Jackson, and Best Direction. It was also included in Time magazine's \"All-Time 100 Best Films\" list in 2005. The film's influence has been felt in many subsequent films, particularly in the realm of independent cinema, and it is often cited as one of the greatest films of all time. Its innovative approach to storytelling, characterization, and dialogue has been widely imitated, and its cultural impact has been significant.",
+            "qae_pairs": [
+                {
+                    "question": "The year in which Time magazine included Pulp Fiction in its \"All-Time 100 Best Films\" list.",
+                    "answer": "2005",
+                    "explanation": "Pulp Fiction is a 1994 American black comedy crime film written and directed by Quentin Tarantino, from a story by Tarantino and Roger Avary. The film is known for its nonlinear storyline, which is told out of chronological order, and its eclectic dialogue, violence, and ironic humor. The film's ensemble cast includes John Travolta, Uma Thurman, Samuel L. Jackson, Bruce Willis, Ving Rhames, and Tim Roth, with each character's story intersecting with the others in various ways."
+                },
+                {
+                    "question": "What year was Pulp Fiction released?",
+                    "answer": "1994",
+                    "explanation": "The film's title refers to the pulp magazines and hardboiled crime fiction of the mid-20th century, known for their sensationalized violence and sexuality."
+                },
+                {
+                    "question": "Who directed Pulp Fiction?",
+                    "answer": "Quentin Tarantino",
+                    "explanation": "The film's title refers to the pulp magazines and hardboiled crime fiction of the mid-20th century, known for their sensationalized violence and sexuality."
+                },
+                {
+                    "question": "What award did Pulp Fiction win at the 1994 Academy Awards?",
+                    "answer": "Best Original Screenplay",
+                    "explanation": "Pulp Fiction won the Palme d'Or at the 1994 Cannes Film Festival, and was nominated for seven Academy Awards, including Best Picture, and won for Best Original Screenplay, Best Supporting Actor for Jackson, and Best Direction."
+                },
+                {
+                    "question": "Who is the co-writer of Pulp Fiction?",
+                    "answer": "Roger Avary",
+                    "explanation": "Roger Avary is the co-writer of Pulp Fiction."
+                }
+            ],
+            "hops": [
+                "Pulp Fiction"
+            ]
+        },
+        "Forrest Gump": {
+            "term": "Forrest Gump",
+            "passage": "Forrest Gump is a 1994 American epic romantic-comedy-drama film directed by Robert Zemeckis and written by Eric Roth. It stars Tom Hanks as Forrest Gump, a simple man with a low IQ but a \"good heart\" who witnesses and participates in several historic events in the 20th century in the United States, including the Vietnam War and Watergate. The film also stars Robin Wright, Gary Sinise, Mykelti Williamson, and Sally Field. The film differs significantly from Winston Groom's novel of the same name, including major changes to the plot and characters. The film was a commercial and critical success, grossing over $677 million worldwide and winning six Academy Awards, including Best Picture, Best Director, Best Actor for Hanks, and Best Adapted Screenplay for Roth. Forrest Gump was released in theaters on July 6, 1994, and was a box office success, grossing over $329 million in the United States and Canada and over $348 million in other countries, for a worldwide total of over $677 million. The film was positively reviewed by critics, who praised Hanks' performance, the screenplay, and the direction. The film was also nominated for thirteen Academy Awards, winning six, including Best Picture, Best Director, Best Actor for Hanks, and Best Adapted Screenplay for Roth. The film's soundtrack, featuring songs from various artists, was also successful, selling over 12 million copies worldwide. The film's success led to a cultural phenomenon, with the film's catchphrases and quotes becoming part of popular culture.",
+            "qae_pairs": [
+                {
+                    "question": "Who played the role of Jenny Curran in Forrest Gump?",
+                    "answer": "Robin Wright",
+                    "explanation": "The film also stars Robin Wright, Gary Sinise, Mykelti Williamson, and Sally Field. The film differs significantly from Winston Groom's novel of the same name, including major changes to the plot and characters."
+                },
+                {
+                    "question": "Who directed the film Forrest Gump?",
+                    "answer": "Robert Zemeckis",
+                    "explanation": "Robert Zemeckis directed the film Forrest Gump."
+                },
+                {
+                    "question": "What is the country where Forrest Gump witnesses and participates in several historic events in the 20th century?",
+                    "answer": "the United States",
+                    "explanation": "The film was a commercial and critical success, grossing over $677 million worldwide and winning six Academy Awards, including Best Picture, Best Director, Best Actor for Hanks, and Best Adapted Screenplay for Roth. The evidence sentence shows that the film was a commercial and critical success, grossing over $677 million worldwide and winning six Academy Awards, including Best Picture, Best Director, Best Actor for Hanks, and Best Adapted Screenplay for Roth."
+                },
+                {
+                    "question": "Who wrote the screenplay for Forrest Gump?",
+                    "answer": "Eric Roth",
+                    "explanation": "The film was a commercial and critical success, grossing over $677 million worldwide and winning six Academy Awards, including Best Picture, Best Director, Best Actor for Hanks, and Best Adapted Screenplay for Roth."
+                },
+                {
+                    "question": "Who directed and wrote the film Forrest Gump?",
+                    "answer": "Tom Hanks",
+                    "explanation": "The film was a commercial and critical success, grossing over $677 million worldwide and winning six Academy Awards, including Best Picture, Best Director, Best Actor for Hanks, and Best Adapted Screenplay for Roth."
+                }
+            ],
+            "hops": [
+                "Forrest Gump"
+            ]
+        },
+        "Friends": {
+            "term": "Friends",
+            "passage": "Friends is an American television sitcom that originally aired on NBC from September 22, 1994, to May 6, 2004, lasting ten seasons. With an ensemble cast starring Jennifer Aniston, Courteney Cox, Lisa Kudrow, Matt LeBlanc, Matthew Perry, and David Schwimmer, the show revolves around a group of friends in Manhattan. The series was created by David Crane and Marta Kauffman, and originally aired on NBC. The show was popular throughout its run and gained a large following, becoming one of the most popular sitcoms of all time. It also received critical acclaim, winning several awards, including the Primetime Emmy Award for Outstanding Comedy Series in 2002. The show's popularity has led to numerous spin-offs, including Joey and How I Met Your Mother. The show's premise was based on the idea of a group of friends in their 20s and 30s living in New York City. The main characters are Rachel Green, Monica Geller, Phoebe Buffay, Joey Tribbiani, Chandler Bing, and Ross Geller. The show follows their lives as they navigate relationships, careers, and the challenges of adult life. The show's popularity led to a number of successful merchandising tie-ins, including a line of dolls featuring the main characters, a board game, and a series of books. The show's theme song, \"I'll Be There for You\" by The Rembrandts, became a cultural phenomenon and is still widely recognized today.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the band that sang the Friends theme song?",
+                    "answer": "Rembrandts",
+                    "explanation": "The show was popular throughout its run and gained a large following, becoming one of the most popular sitcoms of all time."
+                },
+                {
+                    "question": "Who is the actor who played Chandler Bing on Friends? 'Joey' is the answer to which question: What was the name of the spin-off of Friends that followed the character of Joey Tribbiani? 'Rachel Green' is the answer to which question:",
+                    "answer": "Matthew Perry",
+                    "explanation": "The show was popular throughout its run and gained a large following, becoming one of the most popular sitcoms of all time."
+                },
+                {
+                    "question": "What year did Friends win the Primetime Emmy Award for Outstanding Comedy Series?",
+                    "answer": "2002",
+                    "explanation": "The show was popular throughout its run and gained a large following, becoming one of the most popular sitcoms of all time."
+                },
+                {
+                    "question": "What is the date that the final episode of Friends aired on NBC?",
+                    "answer": "May 6, 2004",
+                    "explanation": "The show was popular throughout its run and gained a large following, becoming one of the most popular sitcoms of all time."
+                },
+                {
+                    "question": "What is the name of the city where the show Friends is set?",
+                    "answer": "Manhattan",
+                    "explanation": "The show was popular throughout its run and gained a large following, becoming one of the most popular sitcoms of all time. It also received critical acclaim, winning several awards, including the Primetime Emmy Award for Outstanding Comedy Series in 2002."
+                },
+                {
+                    "question": "What is the location of the popular television sitcom 'Friends'?",
+                    "answer": "New York City",
+                    "explanation": "The show's premise was based on the idea of a group of friends in their 20s and 30s living in New York City."
+                },
+                {
+                    "question": "'What is the name of the character played by David Schwimmer on the popular TV show Friends?'     Passage about Fitness: Fitness is the condition of being physically fit and healthy. It is a state of well-being that allows individuals to perform their daily activities with vig",
+                    "answer": "Ross Geller",
+                    "explanation": "The show's premise was based on the idea of a group of friends in their 20s and 30s living in New York City. Explanation: The evidence sentence provides information about the premise of the show Friends, which is the basis for the show's storyline and characters. It explains that the show is about a group of friends in their 20s and 30s living in New York City, which is the setting for the show."
+                }
+            ],
+            "hops": [
+                "Friends"
+            ]
+        }
+    },
+    "second_hops": {
+        "Francis Ford Coppola": {
+            "term": "Francis Ford Coppola",
+            "passage": "Francis Ford Coppola is an American film director, producer, and screenwriter. He is most famous for his work on the Godfather films, which are widely regarded as some of the greatest films ever made. Coppola was born in Detroit, Michigan, in 1939, and grew up in a family of musicians and filmmakers. He began his career in the film industry in the 1960s, working as a scriptwriter and assistant director on a number of low-budget films. In the 1970s, he became a successful director in his own right, with films such as The Godfather, Apocalypse Now, and The Conversation. Coppola has won multiple Academy Awards for his work, including Best Director Oscars for The Godfather Part II and Apocalypse Now. He is also known for his work in the wine industry, having founded the Francis Ford Coppola Winery in California in 2006. Today, Coppola continues to work in the film industry, and is considered one of the most influential and innovative filmmakers of his generation.",
+            "qae_pairs": [
+                {
+                    "question": "What year did Francis Ford Coppola found the Francis Ford Coppola Winery?",
+                    "answer": "2006",
+                    "explanation": "Coppola has won multiple Academy Awards for his work, including Best Director Oscars for The Godfather Part II and Apocalypse Now. He is also known for his work in the wine industry, having founded the Francis Ford Coppola Winery in California in 2006."
+                }
+            ],
+            "hops": [
+                "The Godfather",
+                "Francis Ford Coppola"
+            ]
+        },
+        "Marlon Brando": {
+            "term": "Marlon Brando",
+            "passage": "Marlon Brando, Jr. was an American actor and film director. He is widely considered one of the greatest and most influential actors of the 20th century. Brando's career spanned over 60 years, during which he became famous for his realistic and naturalistic acting style. He was also known for his cultural influence, having helped to redefine the way actors approach their craft. Brando was born in Omaha, Nebraska, in 1924, and began his career on Broadway before moving to Hollywood in the 1950s. He won two Academy Awards for Best Actor, for his performances in \"On the Waterfront\" and \"The Godfather\". Brando was also known for his humanitarian work, including his support for Native American rights and his advocacy for the rights of LGBTQ+ people. He passed away in 2004 at the age of 80.",
+            "qae_pairs": [
+                {
+                    "question": "What year did Marlon Brando pass away?",
+                    "answer": "2004",
+                    "explanation": "Brando was born in Omaha, Nebraska, in 1924, and began his career on Broadway before moving to Hollywood in the 1950s. Evidence sentence: Brando was born in Omaha, Nebraska, in 1924."
+                }
+            ],
+            "hops": [
+                "The Godfather",
+                "Marlon Brando"
+            ]
+        },
+        "Albert S. Ruddy": {
+            "term": "Albert S. Ruddy",
+            "passage": "Albert S. Ruddy is a Canadian-American film and television producer, director, and screenwriter. He is best known for producing the 1972 film The Godfather, for which he won the Academy Award for Best Picture. He has also produced and directed numerous other films and television shows, including The Cannonball Run, Murder, She Wrote, and The Fresh Prince of Bel-Air. Born in Montreal, Quebec, Canada, Ruddy began his career in the film industry in the 1960s, working as a production assistant and assistant director on various films and television shows. He later became a producer and director, working on a variety of projects in both film and television. Throughout his career, Ruddy has been nominated for numerous awards, including multiple Emmy Awards and a Golden Globe Award. He is a member of the Academy of Motion Picture Arts and Sciences and the Directors Guild of America.",
+            "qae_pairs": [
+                {
+                    "question": "What was the birthplace of Albert S. Ruddy, the Canadian-American film and television producer, director, and screenwriter?",
+                    "answer": "Quebec",
+                    "explanation": "He has also produced and directed numerous other films and television shows, including The Cannonball Run, Murder, She Wrote, and The Fresh Prince of Bel-Air. This sentence explains that Albert S. Ruddy has produced and directed various other films and television shows in addition to The Godfather."
+                },
+                {
+                    "question": "What decade did Albert S. Ruddy begin his career in the film industry?",
+                    "answer": "the 1960s",
+                    "explanation": "Albert S. Ruddy began his career in the film industry in the 1960s, working as a production assistant and assistant director on various films and television shows."
+                }
+            ],
+            "hops": [
+                "The Godfather",
+                "Albert S. Ruddy"
+            ]
+        },
+        "Vito Corleone": {
+            "term": "Vito Corleone",
+            "passage": "Vito Andolini Corleone, commonly known as Vito Corleone, is a fictional character and the main protagonist of Mario Puzo's novel The Godfather and its sequels, as well as the 1972 film The Godfather, directed by Francis Ford Coppola. He is portrayed by Marlon Brando in the film and by Jon Polito in the 1974 film The Godfather Part II. Vito Corleone is the founder and head of the Corleone crime family, one of the most powerful and influential organized crime groups in the United States. He is known for his shrewd business acumen, his strong sense of loyalty and family values, and his ruthless tactics in maintaining his power and influence. Vito Corleone was born in 1891 in the town of Corleone, Sicily, and emigrated to the United States in 1901. He became a naturalized citizen in 1917. He married Appollonia Vitelli in 1918 and had three children with her: Sonny, Fredo, and Michael. Vito Corleone is portrayed as a complex and multifaceted character, who is both a ruthless criminal and a loving family man. He is fiercely loyal to his family and his friends, and is willing to go to great lengths to protect them. He is also a shrewd businessman, who understands the value of networking and building relationships. Despite his criminal activities, Vito Corleone is also shown to have a strong sense of morality and a deep respect for traditional Italian values.",
+            "qae_pairs": [
+                {
+                    "question": "What year did the film The Godfather Part II, which features the character Vito Corleone, premiere in theaters?",
+                    "answer": "1974",
+                    "explanation": "The film The Godfather Part II, which features the character Vito Corleone, premiered in theaters in 1974."
+                }
+            ],
+            "hops": [
+                "The Godfather",
+                "Vito Corleone"
+            ]
+        },
+        "Walter White": {
+            "term": "Walter White",
+            "passage": "Walter Hartwell White was a fictional character and the main protagonist of the American television drama series Breaking Bad, which aired on AMC from 2008 to 2013. He was portrayed by Bryan Cranston. White was a high school chemistry teacher who turned to manufacturing and selling methamphetamine in order to secure his family's financial future after being diagnosed with cancer. The character's story arc spans five seasons, during which he transforms from a meek and unassuming teacher to a ruthless drug kingpin. White's character has been widely praised for his complexity and depth, and Cranston's performance has been widely acclaimed, earning him several awards, including four Primetime Emmy Awards for Outstanding Lead Actor in a Drama Series.",
+            "qae_pairs": [
+                {
+                    "question": "What channel did Walter White's show Breaking Bad air on?",
+                    "answer": "AMC",
+                    "explanation": "He was portrayed by Bryan Cranston."
+                },
+                {
+                    "question": "Who played the role of Walter White in the television drama series Breaking Bad?",
+                    "answer": "Bryan Cranston",
+                    "explanation": "Walter Hartwell White was a fictional character and the main protagonist of the American television drama series Breaking Bad, which aired on AMC from 2008 to 2013. He was portrayed by Bryan Cranston."
+                }
+            ],
+            "hops": [
+                "Breaking Bad",
+                "Walter White"
+            ]
+        },
+        "AMC": {
+            "term": "AMC",
+            "passage": "AMC is an American entertainment company that specializes in the production and distribution of movies, television shows, and other forms of media. It is the second-largest movie studio in North America, after Disney's Hollywood Pictures. AMC was founded in 1924 as a movie theater chain, and it has since expanded its operations to include television production and distribution. The company is best known for its flagship network, AMC, which airs a variety of original and licensed programming, including popular shows like \"The Walking Dead\" and \"Breaking Bad.\" AMC also owns and operates several other networks, including BBC America, IFC, and Sundance TV. In addition to its entertainment business, AMC also has a significant presence in the global advertising industry, with a portfolio of brands that includes AMC Networks International and AMC Networks Media.",
+            "qae_pairs": [
+                {
+                    "question": "What year was AMC founded as a movie theater chain?",
+                    "answer": "1924",
+                    "explanation": "AMC was founded in 1924 as a movie theater chain, and it has since expanded its operations to include television production and distribution."
+                },
+                {
+                    "question": "What is the name of the movie studio that is the largest in North America, according to the passage about AMC?",
+                    "answer": "Disney's Hollywood Pictures",
+                    "explanation": "AMC is the second-largest movie studio in North America, after Disney's Hollywood Pictures."
+                }
+            ],
+            "hops": [
+                "Breaking Bad",
+                "AMC"
+            ]
+        },
+        "Frank Darabont": {
+            "term": "Frank Darabont",
+            "passage": "Frank Darabont is an American film director, screenwriter, and producer. He is best known for his work on the films The Shawshank Redemption, The Green Mile, and The Mist, as well as his work on the television series The Walking Dead. Darabont was born in Montbéliard, France, and moved to Los Angeles, California with his family when he was a young child. He began his career in the film industry as a production assistant on the film The Terminator in 1984. He went on to work as a writer and director on a number of films and television shows, including the aforementioned works, as well as films like A Nightmare on Elm Street 3: Dream Warriors and The Majestic. Darabont has been nominated for numerous awards throughout his career, including an Academy Award for Best Adapted Screenplay for his work on The Shawshank Redemption. He is known for his dark and often bleak storytelling, and his ability to bring out strong performances from his actors.",
+            "qae_pairs": [
+                {
+                    "question": "What city did Frank Darabont move to with his family when he was a young child?",
+                    "answer": "Los Angeles",
+                    "explanation": "Darabont was born in Montbéliard, France, and moved to Los Angeles, California with his family when he was a young child."
+                },
+                {
+                    "question": "What award did Frank Darabont win for his work on The Green Mile?",
+                    "answer": "an Academy Award",
+                    "explanation": "Darabont was born in Montbéliard, France, and moved to Los Angeles, California with his family when he was a young child."
+                }
+            ],
+            "hops": [
+                "The Shawshank Redemption",
+                "Frank Darabont"
+            ]
+        },
+        "Morgan Freeman": {
+            "term": "Morgan Freeman",
+            "passage": "Morgan Freeman is an American actor, film director, and narrator. He has received numerous awards for his work, including an Academy Award, a Golden Globe Award, and a Screen Actors Guild Award. Freeman has appeared in many popular films, including Driving Miss Daisy, The Shawshank Redemption, and Million Dollar Baby. He is also known for his distinctive voice, which has made him a popular choice for narration in documentaries and other programs. Freeman is a member of the Democratic Party and has been an outspoken advocate for various social and political causes, including civil rights and gun control. He is also a pilot and has his own production company, Revelations Entertainment.",
+            "qae_pairs": [
+                {
+                    "question": "In which movie did Morgan Freeman play the role of a chauffeur?",
+                    "answer": "Miss Daisy",
+                    "explanation": "Freeman has appeared in many popular films, including Driving Miss Daisy, The Shawshank Redemption, and Million Dollar Baby."
+                },
+                {
+                    "question": "What award did Morgan Freeman win for his work in film?",
+                    "answer": "an Academy Award",
+                    "explanation": "Morgan Freeman has received numerous awards for his work, including an Academy Award, a Golden Globe Award, and a Screen Actors Guild Award."
+                },
+                {
+                    "question": "What political party is Morgan Freeman a member of?",
+                    "answer": "the Democratic Party",
+                    "explanation": "Freeman is a member of the Democratic Party and has been an outspoken advocate for various social and political causes, including civil rights and gun control."
+                }
+            ],
+            "hops": [
+                "The Shawshank Redemption",
+                "Morgan Freeman"
+            ]
+        },
+        "Stephen King": {
+            "term": "Stephen King",
+            "passage": "Stephen King is an American author of horror, science fiction, and fantasy fiction. His books have sold more than 350 million copies worldwide, many of which have been adapted into feature films, miniseries, television shows, and comic books. King has published 61 novels, including \"Carrie,\" \"The Shining,\" \"It,\" \"The Green Mile,\" and \"The Stand.\" He has also published non-fiction, including \"On Writing: A Memoir of the Craft,\" and \"The Plant,\" a serial novel written with the help of his fans. King has won numerous awards for his writing, including the National Book Foundation's Medal for Distinguished Contribution to American Letters, and has been inducted into the Modern Library's 100 Best Novels list three times. He lives in Bangor, Maine, with his wife, novelist Tabitha King.",
+            "qae_pairs": [
+                {
+                    "question": "What is the award that Stephen King has won for his writing?",
+                    "answer": "Medal for Distinguished Contribution to",
+                    "explanation": "King has won numerous awards for his writing, including the National Book Foundation's Medal for Distinguished Contribution to American Letters, and has been inducted into the Modern Library's 100 Best Novels list three times."
+                },
+                {
+                    "question": "Who is Stephen King's wife?",
+                    "answer": "Tabitha King",
+                    "explanation": "He has published 61 novels, including Carrie, The Shining, It, The Green Mile, and The Stand. This sentence explains that Stephen King has published 61 novels, which are some of the most famous and successful books in the horror, science fiction, and fantasy genres. The specific novels mentioned in this sentence are Carrie, The Shining, It, The Green Mile, and The Stand, which are all critically acclaimed and have been adapted into films or television shows."
+                },
+                {
+                    "question": "What is the hometown of Stephen King?",
+                    "answer": "Bangor",
+                    "explanation": "He lives in Bangor, Maine, with his wife, novelist Tabitha King."
+                }
+            ],
+            "hops": [
+                "The Shawshank Redemption",
+                "Stephen King"
+            ]
+        },
+        "Shawshank State Penitentiary": {
+            "term": "Shawshank State Penitentiary",
+            "passage": "Shawshank State Penitentiary is a fictional prison in Maine, United States, featured in the 1994 film The Shawshank Redemption. The prison is portrayed as a harsh and oppressive environment, with a high level of violence and corruption among the guards and wardens. The film follows the story of Andy Dufresne, a banker who is sentenced to life in prison for the murder of his wife and her lover, and his friendship with fellow inmate Red. The prison is known for its brutal conditions, including the use of forced labor and the widespread abuse of inmates by the guards. Despite the harsh environment, the film portrays the resilience and hope of the human spirit, as Andy uses his intelligence and resourcefulness to improve his situation and eventually gain his freedom. The Shawshank State Penitentiary has become a cultural icon and is often cited as one of the greatest films of all time.",
+            "qae_pairs": [
+                {
+                    "question": "What year was Shawshank State Penitentiary featured in the film?",
+                    "answer": "1994",
+                    "explanation": "The Shawshank State Penitentiary is a fictional prison in Maine, United States, featured in the 1994 film The Shawshank Redemption."
+                },
+                {
+                    "question": "What state is Shawshank State Penitentiary located in?",
+                    "answer": "Maine",
+                    "explanation": "The prison is known for its brutal conditions, including the use of forced labor and the widespread abuse of inmates by the guards."
+                }
+            ],
+            "hops": [
+                "The Shawshank Redemption",
+                "Shawshank State Penitentiary"
+            ]
+        },
+        "Tim Robbins": {
+            "term": "Tim Robbins",
+            "passage": "Tim Robbins (born October 16, 1958) is an American actor, screenwriter, director, producer, and activist. He is known for his roles in films such as Bull Durham (1988), The Player (1992), and Mystic River (2003), for which he received critical acclaim and a nomination for the Academy Award for Best Supporting Actor. Robbins is also known for his political activism and humanitarian work. He has been involved in various social and political causes, including opposition to the War in Iraq, support for the Occupy Wall Street movement, and advocacy for environmentalism and human rights. In addition to his work in film and activism, Robbins has also directed and produced several films, including Dead Man Walking (1995), which won him the Academy Award for Best Original Screenplay.",
+            "qae_pairs": [
+                {
+                    "question": "What movie did Tim Robbins receive critical acclaim for his role in, according to the passage?",
+                    "answer": "Mystic River",
+                    "explanation": "Tim Robbins is known for his roles in films such as Bull Durham (1988), The Player (1992), and Mystic River (2003), for which he received critical acclaim and a nomination for the Academy Award for Best Supporting Actor."
+                },
+                {
+                    "question": "What movie did Tim Robbins star in before he appeared in The Shawshank Redemption?",
+                    "answer": "Bull Durham",
+                    "explanation": "Tim Robbins is known for his roles in films such as Bull Durham (1988), The Player (1992), and Mystic River (2003), for which he received critical acclaim and a nomination for the Academy Award for Best Supporting Actor."
+                },
+                {
+                    "question": "What year did Tim Robbins receive a nomination for the Academy Award for Best Supporting Actor?",
+                    "answer": "2003",
+                    "explanation": "Tim Robbins is known for his roles in films such as Bull Durham (1988), The Player (1992), and Mystic River (2003), for which he received critical acclaim and a nomination for the Academy Award for Best Supporting Actor."
+                }
+            ],
+            "hops": [
+                "The Shawshank Redemption",
+                "Tim Robbins"
+            ]
+        },
+        "Batman Begins": {
+            "term": "Batman Begins",
+            "passage": "Batman Begins is a 2005 American superhero film directed by Christopher Nolan and starring Christian Bale as the titular character, with supporting roles played by Michael Caine, Liam Neeson, Katie Holmes, and Gary Oldman. Based on the DC Comics character Batman, the film follows Bruce Wayne's journey to become a crime-fighting vigilante after his parents' murder, and his battle against Gotham City's criminal underworld led by Carmine Falcone. The film explores themes of fear, trauma, and redemption, and features a darker and more realistic tone than previous Batman films. Batman Begins was well-received by critics and audiences, and is considered one of the best superhero films ever made. It was followed by two sequels, The Dark Knight and The Dark Knight Rises.",
+            "qae_pairs": [
+                {
+                    "question": "Who played the role of Henri Ducard in Batman Begins?",
+                    "answer": "Liam Neeson",
+                    "explanation": "Batman Begins is a 2005 American superhero film directed by Christopher Nolan and starring Christian Bale as the titular character, with supporting roles played by Michael Caine, Liam Neeson, Katie Holmes, and Gary Oldman."
+                },
+                {
+                    "question": "What was the name of the crime boss that Batman fought against in Batman Begins?",
+                    "answer": "Carmine Falcone",
+                    "explanation": "Based on the DC Comics character Batman, the film follows Bruce Wayne's journey to become a crime-fighting vigilante after his parents' murder, and his battle against Gotham City's criminal underworld led by Carmine Falcone."
+                },
+                {
+                    "question": "What year did Batman Begins premiere in theaters?",
+                    "answer": "2005",
+                    "explanation": "Batman Begins is a 2005 American superhero film directed by Christopher Nolan and starring Christian Bale as the titular character, with supporting roles played by Michael Caine, Liam Neeson, Katie Holmes, and Gary Oldman. Evidence sentence: Batman Begins is a 2005 American superhero film."
+                },
+                {
+                    "question": "What was the name of the character played by Katie Holmes in Batman Begins?",
+                    "answer": "Katie Holmes",
+                    "explanation": "Batman Begins is a 2005 American superhero film directed by Christopher Nolan and starring Christian Bale as the titular character, with supporting roles played by Michael Caine, Liam Neeson, Katie Holmes, and Gary Oldman."
+                }
+            ],
+            "hops": [
+                "The Dark Knight",
+                "Batman Begins"
+            ]
+        },
+        "the United States": {
+            "term": "the United States",
+            "passage": "The United States of America, commonly referred to as the United States or America, is a federal republic consisting of 50 states and a federal district. The United States is a developed country and has the world's largest economy by nominal GDP and second-largest economy by PPP, with the U.S. dollar being the world's primary reserve currency. The United States is a founding member of the United Nations, World Trade Organization, International Monetary Fund, and other international organizations. The United States is a highly developed country, with the world's highest GDP per capita and a highly diversified economy that is dominated by the service sector.",
+            "qae_pairs": [
+                {
+                    "question": "What international organization is the United States a founding member of, and where is its headquarters located?",
+                    "answer": "the United Nations",
+                    "explanation": "The United States is a founding member of the United Nations, World Trade Organization, International Monetary Fund, and other international organizations."
+                },
+                {
+                    "question": "What international organization is the United States a founding member of, which is dominated by the service sector and has the world's highest GDP per capita?",
+                    "answer": "International Monetary Fund",
+                    "explanation": "The United States is a founding member of the United Nations, World Trade Organization, International Monetary Fund, and other international organizations."
+                },
+                {
+                    "question": "What is the abbreviation for the United States in the United Nations?",
+                    "answer": "U.S",
+                    "explanation": "The United States is a founding member of the United Nations, World Trade Organization, International Monetary Fund, and other international organizations."
+                }
+            ],
+            "hops": [
+                "Forrest Gump",
+                "the United States"
+            ]
+        },
+        "James Gordon": {
+            "term": "James Gordon",
+            "passage": "James Gordon is a fictional character appearing in American comic books published by DC Comics, commonly in association with Batman. Created by Dennis O'Neil and Neal Adams, he first appeared in Batman #411 (January 1987). Gordon is depicted as the chief of police in Gotham City, a city with a high crime rate and a large number of criminals, including Batman's rogues gallery. He is a close ally of Batman and often works with him to solve crimes and bring criminals to justice. Gordon is known for his honesty, integrity, and dedication to his job, and is widely respected by both his colleagues and the citizens of Gotham City. He is also a father figure to Batman, who lost his own father at a young age.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the city where James Gordon serves as the chief of police?",
+                    "answer": "Gotham City",
+                    "explanation": "Gordon is known for his honesty, integrity, and dedication to his job, and is widely respected by both his colleagues and the citizens of Gotham City."
+                },
+                {
+                    "question": "What artist collaborated with Dennis O'Neil to create James Gordon, the chief of police in Gotham City?",
+                    "answer": "Neal Adams",
+                    "explanation": "James Gordon is a fictional character appearing in American comic books published by DC Comics, commonly in association with Batman. Created by Dennis O'Neil and Neal Adams, he first appeared in Batman #411 (January 1987). Explanation: The evidence sentence is James Gordon is a fictional character appearing in American comic books published by DC Comics, commonly in association with Batman."
+                },
+                {
+                    "question": "Who created the character James Gordon in the Batman comics?",
+                    "answer": "Dennis O'Neil",
+                    "explanation": "James Gordon is a fictional character appearing in American comic books published by DC Comics, commonly in association with Batman. Created by Dennis O'Neil and Neal Adams, he first appeared in Batman #411 (January 1987). The evidence sentence is: James Gordon is a fictional character appearing in American comic books published by DC Comics, commonly in association with Batman."
+                }
+            ],
+            "hops": [
+                "The Dark Knight",
+                "James Gordon"
+            ]
+        },
+        "Clarke Peters": {
+            "term": "Clarke Peters",
+            "passage": "Clarke Peters is an American actor, singer, and writer. He is best known for his roles as Lester Freamon on the HBO drama series The Wire and as Detective Augustus \"Gus\" Norwood on the CBS drama series The Good Wife. Peters was born in New York City and raised in the Bronx. He began his career as a singer, performing in nightclubs and on Broadway. He made his film debut in the 1972 film The Super Cops. Peters has also appeared in numerous other films and television shows, including The Silence of the Lambs, The X-Files, and Treme. In addition to his acting work, Peters has written and directed several plays, including the off-Broadway production of Jitney, which was later adapted into a film. He has received numerous awards and nominations for his work, including a Primetime Emmy Award for Outstanding Supporting Actor in a Drama Series for his role on The Wire. Peters is married to actress and singer Kathleen McNenny, with whom he has two children.",
+            "qae_pairs": [
+                {
+                    "question": "What character did Clarke Peters play on The Wire?",
+                    "answer": "Lester Freamon",
+                    "explanation": "Peters was born in New York City and raised in the Bronx."
+                },
+                {
+                    "question": "What play did Clarke Peters write and direct, which was later adapted into a film?",
+                    "answer": "Jitney",
+                    "explanation": "Peters has written and directed several plays, including the off-Broadway production of Jitney, which was later adapted into a film."
+                },
+                {
+                    "question": "What year did Clarke Peters make his film debut?",
+                    "answer": "1972",
+                    "explanation": "He made his film debut in the 1972 film The Super Cops."
+                },
+                {
+                    "question": "What is the birthplace of Clarke Peters, the American actor, singer, and writer known for his roles in The Good Wife and The X-Files?",
+                    "answer": "New York City",
+                    "explanation": "He was born in New York City and raised in the Bronx."
+                },
+                {
+                    "question": "What film did Clarke Peters make his debut in?",
+                    "answer": "The Super Cops",
+                    "explanation": "He made his film debut in the 1972 film The Super Cops."
+                }
+            ],
+            "hops": [
+                "The Wire",
+                "Clarke Peters"
+            ]
+        },
+        "Idris Elba": {
+            "term": "Idris Elba",
+            "passage": "Idris Elba (born 6 September 1972) is an English actor, producer, musician, and DJ. He is known for his portrayal of drug lord and aspiring businessman Russell \"Stringer\" Bell on the HBO series The Wire, Detective John Luther on the BBC One series Luther, and Nelson Mandela in the biographical film Mandela: Long Walk to Freedom (2013). He has also appeared in films such as Pacific Rim (2013), Thor (2011), Prometheus (2012), and The Jungle Book (2016). Elba was born in Hackney, London, the son of a Ghanian father and a Sierra Leonean mother. He attended the National Youth Music Theatre and went on to study acting at the Guildhall School of Music and Drama. He began his acting career in British television, appearing in shows such as Ultraviolet, The Bill, and Family Affairs. In addition to his acting career, Elba is also a musician and DJ. He has released several mixtapes and collaborated with artists such as Jay-Z and Nas. He has also produced and performed on several albums, including his own debut album, Idris Elba: Mandela, My Dad, and Me, which was released in 2021. Elba has been nominated for several awards for his acting work, including a Golden Globe Award for Best Actor in a Miniseries or Television Film for his role in the television film Luther. He has also been named one of Time magazine's 100 most influential people in the world.",
+            "qae_pairs": [
+                {
+                    "question": "What is the birthplace of Idris Elba?",
+                    "answer": "London",
+                    "explanation": "Idris Elba was born in Hackney, London, the son of a Ghanian father and a Sierra Leonean mother."
+                }
+            ],
+            "hops": [
+                "The Wire",
+                "Idris Elba"
+            ]
+        },
+        "the Writers Guild of America": {
+            "term": "the Writers Guild of America",
+            "passage": "The Writers Guild of America, East (WGAE) and the Writers Guild of America, West (WGAW) are labor unions representing writers in the motion picture and television industries in the United States. The two organizations were founded in the 1950s, and merged in 2012 to form the Writers Guild of America, East and West. The WGAE and WGAW negotiate minimum compensation rates, working conditions, and other terms and conditions of employment for writers working under WGA contracts. The WGA also provides legal representation and other services to its members, and advocates for the rights of writers in the entertainment industry. The WGA has been involved in numerous strikes and negotiations over the years, including a 10-month strike in 1988 and a 100-day strike in 2007-2008. The WGA has also been involved in advocating for the rights of writers in the digital age, including fighting for fair compensation for writers whose work is distributed online.",
+            "qae_pairs": [
+                {
+                    "question": "What was the decade in which the Writers Guild of America was founded?",
+                    "answer": "the 1950s",
+                    "explanation": "The two organizations were founded in the 1950s, and merged in 2012 to form the Writers Guild of America, East and West."
+                },
+                {
+                    "question": "What was the year of the 10-month strike by the Writers Guild of America?",
+                    "answer": "1988",
+                    "explanation": "The two organizations were founded in the 1950s, and merged in 2012 to form the Writers Guild of America, East and West."
+                },
+                {
+                    "question": "What was the year of the 100-day strike by the Writers Guild of America?",
+                    "answer": "2007-2008",
+                    "explanation": "The WGA has been involved in numerous strikes and negotiations over the years, including a 10-month strike in 1988 and a 100-day strike in 2007-2008."
+                },
+                {
+                    "question": "What was the duration of the strike by the Writers Guild of America in the 1980s?",
+                    "answer": "10-month",
+                    "explanation": "The WGA has been involved in numerous strikes and negotiations over the years, including a 10-month strike in 1988 and a 100-day strike in 2007-2008. The duration of the strike by the Writers Guild of America in the 1980s was 10 months."
+                }
+            ],
+            "hops": [
+                "The Wire",
+                "the Writers Guild of America"
+            ]
+        },
+        "Keanu Reeves": {
+            "term": "Keanu Reeves",
+            "passage": "Keanu Charles Reeves (born September 2, 1964) is a Canadian actor, producer, and musician. He gained fame for his starring roles in several blockbuster films, including the Bill and Ted franchise, Point Break, and the John Wick franchise. He has also appeared in several dramatic and artistic films, such as My Own Private Idaho, The Matrix, and Little Buddha. Reeves has been active in the film industry since the 1980s and has since become one of the most successful and respected actors of his generation. He has received critical acclaim for his performances and has been nominated for several awards, including an Academy Award for Best Supporting Actor for his role in The Devil's Advocate. In addition to his acting career, Reeves is also a musician and has played bass guitar in the bands Dogstar and Becky. He is known for his humility and private lifestyle, and has been described as \"the nicest guy in Hollywood\" by several media outlets.",
+            "qae_pairs": [
+                {
+                    "question": "What movie did Keanu Reeves star in alongside River Phoenix before the release of The Matrix?(Avoid the following entities in the question: The Matrix).",
+                    "answer": "My Own Private Idaho",
+                    "explanation": "Reeves has been active in the film industry since the 1980s and has since become one of the most successful and respected actors of his generation. Explanation: The evidence sentence from the passage explains that Keanu Reeves has been active in the film industry since the 1980s and has since become one of the most successful and respected actors of his generation. This suggests that he has had a long and successful career in the film industry, and that he is well-regarded by his peers and audiences alike."
+                },
+                {
+                    "question": "What is the name of the character that Keanu Reeves played in the Bill and Ted franchise?",
+                    "answer": "Ted",
+                    "explanation": "Keanu Reeves has gained fame for his starring roles in several blockbuster films, including the Bill and Ted franchise, Point Break, and the John Wick franchise."
+                }
+            ],
+            "hops": [
+                "The Matrix",
+                "Keanu Reeves"
+            ]
+        },
+        "Laurence Fishburne": {
+            "term": "Laurence Fishburne",
+            "passage": "Laurence Fishburne III (born July 30, 1961) is an American actor, director, and playwright. He is known for his roles as Morpheus in The Matrix trilogy, Tyrone \"Mr. Clean\" Miller in Apocalypse Now, and as Othello in the 1995 film adaptation of the Shakespeare play. Fishburne has also starred in other films such as Boyz n the Hood, What's Love Got to Do with It, and The Matrix Reloaded. He has won a Tony Award for his performance in the play \"Fences\" and has been nominated for an Academy Award for his role in the film \"The Tuskegee Airmen\". Fishburne has also directed several films, including Once in the Life and the 2006 film \"Akeelah and the Bee\".",
+            "qae_pairs": [
+                {
+                    "question": "What is the birthdate of Laurence Fishburne?",
+                    "answer": "July 30, 1961",
+                    "explanation": "Laurence Fishburne III (born July 30, 1961) is an American actor, director, and playwright."
+                },
+                {
+                    "question": "In what year did Laurence Fishburne star in the film adaptation of the Shakespeare play \"Othello\"?",
+                    "answer": "1995",
+                    "explanation": "He is known for his roles as Morpheus in The Matrix trilogy, Tyrone Mr. Clean Miller in Apocalypse Now, and as Othello in the 1995 film adaptation of the Shakespeare play."
+                },
+                {
+                    "question": "What is the name of the Shakespeare play in which Laurence Fishburne starred as Othello?",
+                    "answer": "Shakespeare",
+                    "explanation": "He is known for his roles as Morpheus in The Matrix trilogy, Tyrone Mr. Clean Miller in Apocalypse Now, and as Othello in the 1995 film adaptation of the Shakespeare play."
+                },
+                {
+                    "question": "What is the name of the character that Laurence Fishburne played in Apocalypse Now?",
+                    "answer": "Tyrone",
+                    "explanation": "He is known for his roles as Morpheus in The Matrix trilogy, Tyrone Mr. Clean Miller in Apocalypse Now, and as Othello in the 1995 film adaptation of the Shakespeare play."
+                }
+            ],
+            "hops": [
+                "The Matrix",
+                "Laurence Fishburne"
+            ]
+        },
+        "J. R. R. Tolkien": {
+            "term": "J. R. R. Tolkien",
+            "passage": "Tolkien was born on January 3, 1892, in Bloemfontein, South Africa, to Arthur Tolkien, a bank manager, and Mabel Tolkien (née Suffield). The Tolkien family moved to England when Tolkien was three years old, and he grew up in the village of Sarehole, Worcestershire. Tolkien's early life was marked by tragedy, as his mother died when he was only 12 years old, and his father died when he was only 16. Tolkien attended King Edward's School in Birmingham, and later studied at Oxford University, where he earned a degree in Classics. During World War I, Tolkien served as a second lieutenant in the Lancashire Fusiliers, and was severely wounded at the Battle of the Somme. After the war, Tolkien returned to Oxford and began teaching at the university. He eventually became a professor of Anglo-Saxon language and literature, and was known for his expertise in the field. Tolkien's academic work was highly influential, and he was instrumental in the development of modern fantasy literature. Tolkien's most famous work is The Lord of the Rings, a trilogy of novels that tells the story of a group of hobbits who embark on a quest to destroy the One Ring, a powerful artifact that threatens to enslave the world. The Lord of the Rings has been translated into numerous languages and has sold millions of copies worldwide. Tolkien was also a skilled linguist, and created several languages for his works, including Elvish and the Black Speech of the Nazgûl. He was a member of the Inklings, a literary group that included C.S.",
+            "qae_pairs": [
+                {
+                    "question": "What is the birthplace of J. R. R. Tolkien?",
+                    "answer": "South Africa",
+                    "explanation": "The Tolkien family moved to England when Tolkien was three years old, and he grew up in the village of Sarehole, Worcestershire. This sentence explains that J.R.R. Tolkien was born in South Africa but moved to England with his family when he was three years old and grew up in the village of Sarehole, Worcestershire."
+                },
+                {
+                    "question": "What school did J. R. R. Tolkien attend before going to Oxford University?",
+                    "answer": "King Edward's School",
+                    "explanation": "Tolkien's early life was marked by tragedy, as his mother died when he was only 12 years old, and his father died when he was only 16."
+                }
+            ],
+            "hops": [
+                "The Lord of the Rings",
+                "J. R. R. Tolkien"
+            ]
+        },
+        "the Free Peoples of Middle-earth": {
+            "term": "the Free Peoples of Middle-earth",
+            "passage": "The Free Peoples of Middle-earth were the various races of Men, Elves, Dwarves, and Hobbits who fought against the darkness of Sauron and his armies during the War of the Ring. These peoples were united in their desire to preserve the freedom and safety of Middle-earth, and worked together to defeat the evil forces that threatened their way of life. The Men of Middle-earth were divided into many different tribes and kingdoms, each with their own customs and traditions. However, they were all united in their desire to protect their homes and families from the darkness that was spreading throughout the land. The Elves, who had lived in Middle-earth for thousands of years, were wise and powerful, and their knowledge and magic were invaluable to the Free Peoples. The Dwarves were skilled in mining and crafting, and their weapons and armor were renowned throughout Middle-earth. The Hobbits, who were relatively new to the world of Men, were small and unassuming, but their courage and loyalty were unmatched. Together, these peoples formed a formidable alliance, and their combined strength was what ultimately led to the downfall of Sauron and the return of peace to Middle-earth. Despite their differences, the Free Peoples of Middle-earth were united in their common goal, and their bravery and determination will be remembered for generations to come.",
+            "qae_pairs": [
+                {
+                    "question": "What was the approximate time period that the Elves had lived in Middle-earth for, according to the passage about the Free Peoples of Middle-earth?",
+                    "answer": "thousands of years",
+                    "explanation": "The Elves, who had lived in Middle-earth for thousands of years, were wise and powerful, and their knowledge and magic were invaluable to the Free Peoples."
+                }
+            ],
+            "hops": [
+                "The Lord of the Rings",
+                "the Free Peoples of Middle-earth"
+            ]
+        },
+        "Sauron": {
+            "term": "Sauron",
+            "passage": "Sauron was a fictional character in J.R.R. Tolkien's Middle-earth legendarium. He was the main antagonist in The Lord of the Rings. Sauron was a powerful Maia who had fallen into darkness and became the ruler of the Dark Lord of Mordor. He created the One Ring to rule the other Rings of Power and control the other Rings of Power and dominate the world. He was eventually defeated by the combined forces of the free peoples of Middle-earth, who were led by Aragorn, the heir of Isildur.",
+            "qae_pairs": [
+                {
+                    "question": "Who is the creator of the fictional character Sauron in Middle-earth legendarium?",
+                    "answer": "Tolkien",
+                    "explanation": "Sauron was a fictional character in J.R.R. Tolkien's Middle-earth legendarium."
+                },
+                {
+                    "question": "What is the name of the fictional world where Sauron ruled and created the One Ring to dominate the world?",
+                    "answer": "Middle-earth",
+                    "explanation": "Sauron was a fictional character in J.R.R. Tolkien's Middle-earth legendarium."
+                }
+            ],
+            "hops": [
+                "The Lord of the Rings",
+                "Sauron"
+            ]
+        },
+        "Best Original Screenplay": {
+            "term": "Best Original Screenplay",
+            "passage": "The Academy Award for Best Original Screenplay is one of the awards given annually to people working in the motion picture industry by the Academy of Motion Picture Arts and Sciences. It is presented to the writers who have produced the best script that has not been based on any pre-existing source material. The award has been presented annually since the first Academy Awards ceremony in 1929. The award is presented to the writers who have produced the best script that has not been based on any pre-existing source material.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the organization that presents the Best Original Screenplay award at the Academy Awards?",
+                    "answer": "the Academy of Motion Picture Arts and Sciences",
+                    "explanation": "The Academy Award for Best Original Screenplay is one of the awards given annually to people working in the motion picture industry by the Academy of Motion Picture Arts and Sciences."
+                },
+                {
+                    "question": "What year did the Academy Award for Best Original Screenplay first become a category at the Academy Awards?",
+                    "answer": "1929",
+                    "explanation": "The Academy Award for Best Original Screenplay is one of the awards given annually to people working in the motion picture industry by the Academy of Motion Picture Arts and Sciences. It is presented to the writers who have produced the best script that has not been based on any pre-existing source material. The award has been presented annually since the first Academy Awards ceremony in 1929."
+                }
+            ],
+            "hops": [
+                "Pulp Fiction",
+                "Best Original Screenplay"
+            ]
+        },
+        "Roger Avary": {
+            "term": "Roger Avary",
+            "passage": "Roger Avary is an American screenwriter, film director, and producer. He is best known for his collaborations with Quentin Tarantino, with whom he shared an Academy Award for Best Original Screenplay for their work on the 1994 film Pulp Fiction. Avary has also directed several films, including Killing Zoe, Rules of Attraction, and The Rules of Attraction. He has also written screenplays for films such as Beowulf and The Punisher. Avary was born in Los Angeles, California, and began his career in the film industry in the late 1980s. He has been nominated for several awards throughout his career, including a Satellite Award for Best Screenplay for his work on the 2001 film The Beaver Trilogy.",
+            "qae_pairs": [
+                {
+                    "question": "What year did Roger Avary win the Satellite Award for Best Screenplay?",
+                    "answer": "2001",
+                    "explanation": "Roger Avary has been nominated for several awards throughout his career, including a Satellite Award for Best Screenplay for his work on the 2001 film The Beaver Trilogy."
+                },
+                {
+                    "question": "What city did Roger Avary grow up in?",
+                    "answer": "Los Angeles",
+                    "explanation": "Roger Avary was born in Los Angeles, California."
+                },
+                {
+                    "question": "What film did Roger Avary direct before Killing Zoe?",
+                    "answer": "Killing Zoe",
+                    "explanation": "Passage: Roger Avary is an American screenwriter, film director, and producer. He is best known for his collaborations with Quentin Tarantino, with whom he shared an Academy Award for Best Original Screenplay for their work on the 1994 film Pulp Fiction. Avary has also directed several films, including Killing Zoe, Rules of Attraction, and The Rules of Attraction. He has also written screenplays for films such as Beowulf and The Punisher."
+                }
+            ],
+            "hops": [
+                "Pulp Fiction",
+                "Roger Avary"
+            ]
+        },
+        "Robin Wright": {
+            "term": "Robin Wright",
+            "passage": "Robin Wright is an American actress and model. She was born in Dallas, Texas, on April 8, 1966. Wright began her career as a model when she was 14 years old, and made her acting debut in the television series \"Dynasty\" in 1985. She has since appeared in numerous films and television shows, including \"The Princess Bride,\" \"Forrest Gump,\" \"House of Cards,\" and \"Wonder Woman.\" Wright has been nominated for several awards throughout her career, including an Academy Award for Best Supporting Actress for her role in \"The Princess Bride.\" She is also known for her philanthropic work, including her involvement with the Raising Malawi organization, which helps to support the education and healthcare of children in Malawi. Wright has been married three times and has four children.",
+            "qae_pairs": [
+                {
+                    "question": "What organization is Robin Wright involved with that helps to support the education and healthcare of children in Malawi?",
+                    "answer": "Raising Malawi",
+                    "explanation": "Robin Wright is known for her philanthropic work, including her involvement with the Raising Malawi organization, which helps to support the education and healthcare of children in Malawi."
+                },
+                {
+                    "question": "What award did Robin Wright win for her role in \"The Princess Bride\"?",
+                    "answer": "an Academy Award",
+                    "explanation": "Robin Wright won an Academy Award for Best Supporting Actress for her role in The Princess Bride."
+                },
+                {
+                    "question": "What state was Robin Wright born in?",
+                    "answer": "Texas",
+                    "explanation": "Robin Wright is an American actress and model. She was born in Dallas, Texas, on April 8, 1966."
+                }
+            ],
+            "hops": [
+                "Forrest Gump",
+                "Robin Wright"
+            ]
+        },
+        "Robert Zemeckis": {
+            "term": "Robert Zemeckis",
+            "passage": "Robert Zemeckis is an American filmmaker and screenwriter. He is best known for his work in the film industry, particularly in the science fiction and action genres. Zemeckis has directed and produced many popular films, including the Back to the Future trilogy, Who Framed Roger Rabbit, Forrest Gump, Contact, Cast Away, and The Polar Express. He has also worked as a writer and producer on several other films. Zemeckis has won numerous awards for his work, including an Academy Award for Best Director for his work on Forrest Gump. He has also been nominated for several other awards, including several Academy Awards and Golden Globe Awards. Zemeckis is known for his innovative use of special effects and his ability to combine live-action and animation in his films. He continues to be an influential figure in the film industry and is widely regarded as one of the most talented and successful filmmakers of his generation.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the character that Robert Zemeckis directed in the film Who Framed Roger Rabbit?",
+                    "answer": "Roger Rabbit",
+                    "explanation": "Zemeckis has directed and produced many popular films, including the Back to the Future trilogy, Who Framed Roger Rabbit, Forrest Gump, Contact, Cast Away, and The Polar Express."
+                }
+            ],
+            "hops": [
+                "Forrest Gump",
+                "Robert Zemeckis"
+            ]
+        },
+        "Eric Roth": {
+            "term": "Eric Roth",
+            "passage": "Eric Roth (born July 15, 1945) is an American screenwriter and producer. He is known for his work on Forrest Gump (1994), The Insider (1999), and The Curious Case of Benjamin Button (2008), for which he won an Academy Award for Best Original Screenplay. Roth has also written screenplays for other notable films such as Munich (2005), The Good Shepherd (2006), and The King's Speech (2010), for which he received an Academy Award nomination for Best Adapted Screenplay. Roth has also produced films such as The Revenant (2015) and The Post (2017).",
+            "qae_pairs": [
+                {
+                    "question": "What was the year that Eric Roth won his first Academy Award for Best Original Screenplay?",
+                    "answer": "1994",
+                    "explanation": "Eric Roth (born July 15, 1945) is an American screenwriter and producer. He is known for his work on Forrest Gump (1994), The Insider (1999), and The Curious Case of Benjamin Button (2008), for which he won an Academy Award for Best Original Screenplay."
+                },
+                {
+                    "question": "What film did Eric Roth produce that was released in 2017 and starred Meryl Streep and Tom Hanks?",
+                    "answer": "The Post",
+                    "explanation": ""
+                }
+            ],
+            "hops": [
+                "Forrest Gump",
+                "Eric Roth"
+            ]
+        },
+        "Tom Hanks": {
+            "term": "Tom Hanks",
+            "passage": "Tom Hanks is an American actor, producer, and director. Hanks is known for his roles in Saving Private Ryan, Forrest Gump, Cast Away, The Da Vinci Code, and The Post. He has won numerous awards for his work, including two Academy Awards, a Golden Globe Award, and a Screen Actors Guild Award. Hanks was born in Concord, California, in 1956. He began his acting career in the late 1970s and quickly became known for his versatility and range. Hanks has also been involved in various philanthropic endeavors, including his work as a UNICEF Goodwill Ambassador. He has been married to actress Rita Wilson since 1988 and has two children with her.",
+            "qae_pairs": [
+                {
+                    "question": "What year was Tom Hanks born?",
+                    "answer": "1956",
+                    "explanation": "Tom Hanks was born in Concord, California, in 1956."
+                },
+                {
+                    "question": "What awards has Tom Hanks won for his acting career?",
+                    "answer": "Academy Awards",
+                    "explanation": "Tom Hanks has won numerous awards for his work, including two Academy Awards."
+                },
+                {
+                    "question": "What state was Tom Hanks born in?",
+                    "answer": "California",
+                    "explanation": "Tom Hanks was born in Concord, California, in 1956."
+                },
+                {
+                    "question": "What movie did Tom Hanks star in with Meryl Streep, which was directed by Steven Spielberg, and released in 2017?",
+                    "answer": "The Post",
+                    "explanation": "Tom Hanks is known for his roles in Saving Private Ryan, Forrest Gump, Cast Away, The Da Vinci Code, and The Post."
+                }
+            ],
+            "hops": [
+                "Forrest Gump",
+                "Tom Hanks"
+            ]
+        },
+        "Manhattan": {
+            "term": "Manhattan",
+            "passage": "Manhattan is a borough of New York City, coterminous with New York County, located in the U.S. state of New York. It is the oldest and most densely populated of the five boroughs of New York City. It is situated at the mouth of the Hudson River and is separated from the mainland by the East River and Harlem River. The borough is home to many iconic landmarks, including the Empire State Building, the Statue of Liberty, and Central Park. Manhattan is also home to the United Nations headquarters, and has a diverse range of cultures and ethnicities. It is a major commercial, financial, and cultural center, and is home to the New York Stock Exchange and NASDAQ. The borough has a population of over 1.6 million people, and is the third-largest in population among the boroughs of New York City.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the river that separates Manhattan from the mainland?",
+                    "answer": "the East River",
+                    "explanation": "Manhattan is a borough of New York City, coterminous with New York County, located in the U.S. state of New York. It is the oldest and most densely populated of the five boroughs of New York City. It is situated at the mouth of the Hudson River and is separated from the mainland by the East River and Harlem River. Explanation: The evidence sentence is Manhattan is a borough of New York City, coterminous with New York County, located in the U.S. state of New York."
+                },
+                {
+                    "question": "What is the name of the international organization located in Manhattan, New York City?",
+                    "answer": "the United Nations",
+                    "explanation": "Manhattan is home to the United Nations headquarters, and has a diverse range of cultures and ethnicities."
+                }
+            ],
+            "hops": [
+                "Friends",
+                "Manhattan"
+            ]
+        },
+        "Ross Geller": {
+            "term": "Ross Geller",
+            "passage": "Ross Geller is a fictional character from the NBC sitcom Friends, portrayed by David Schwimmer. Ross is the socially awkward paleontologist and tenured professor of paleontology at New York University. He is known for his intelligence, his love for his ex-wife and his son, and his tendency to make inappropriate comments. Ross is also known for his love of the New York Knicks and his dislike of the Boston Celtics. He is the older brother of Monica Geller and the father of Ben Geller.",
+            "qae_pairs": [
+                {
+                    "question": "What network did the character Ross Geller appear on?",
+                    "answer": "NBC",
+                    "explanation": "Ross Geller is a fictional character from the NBC sitcom Friends, portrayed by David Schwimmer."
+                }
+            ],
+            "hops": [
+                "Friends",
+                "Ross Geller"
+            ]
+        }
+    }
+}

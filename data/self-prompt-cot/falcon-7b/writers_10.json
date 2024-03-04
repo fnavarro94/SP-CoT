@@ -1,0 +1,637 @@
+{
+    "first_hops": {
+        "William Shakespeare": {
+            "term": "William Shakespeare",
+            "passage": "“William Shakespeare (1564-1616) was an English playwright, poet, and essayist known for his works, such as “Hamlet”, “Macbeth”, and “Romeo and Juliet”. Shakespeare’s works have become renowned for their historical and cultural significance. He is widely regarded as the greatest writer in the English language, and he is the only author to have written works in all the major genres of literature. In 2016, he was listed as the world’s most quoted playwright, with an estimated 44.6% of the world’s plays attributed to him.” (Wikipedia)\nThis is the first part of this great play. It has lots of beautiful phrases to learn and the pronunciation of the words are really fun.",
+            "qae_pairs": [
+                {
+                    "question": "When did William Shakespeare die?",
+                    "answer": "1564-1616",
+                    "explanation": "“William Shakespeare (1564-1616) was an English playwright, poet, and essayist known for his works, such as “Hamlet”, “Macbeth”, and “Romeo and Juliet”. Shakespeare’s works have become renowned for their historical and cultural significance. He is widely regarded as the greatest writer in the English language, and he is the only author to have written works in all the major genres of literature. In 2016, he was listed as the world’s most quoted playwright, with an estimated 44.6% of the world’s plays attributed to him.”"
+                }
+            ],
+            "hops": [
+                "William Shakespeare"
+            ]
+        },
+        "Jane Austen": {
+            "term": "Jane Austen",
+            "passage": "\"Jane Austen (/ˈæntriəs (i)s/ (May 15, 1789 – July 18, 1817) was an English author of the 18th century who is best known for her novel 'Pride and Prejudice'. She wrote several novels and short stories which have since been adapted into many popular films and television series. Her most famous work is her novel 'Pride and Prejudice', which she began writing in 1799 and completed in 1815. This novel is generally regarded as a seminal work in English literature. It has been adapted into countless movies, radio shows and stage productions since the late 18th century. Her other most famous works include 'The Birth of a Nation' by Thomas Edison, 'Jane Eyre' by Charlotte Bronte, and 'Emma' by Jane Austen, which became popular in the 18th century and is still popular today. She wrote two screenplays for films, including 'Northanger Abbey' and 'Moral Eyes'. Austen's works are also generally regarded as very important in the development of English literature. She was one of the first women writers to make a living from their literary work and she was well known as a writer in her own day.",
+            "qae_pairs": [
+                {
+                    "question": "When did Jane Austen begin writing her famous novel Pride and Prejudice?",
+                    "answer": "1799",
+                    "explanation": "Pride and Prejudice was written by Jane Austen between 1799 and 1815."
+                },
+                {
+                    "question": "When was Jane Austen born?",
+                    "answer": "May 15, 1789",
+                    "explanation": "Pride and Prejudice author Jane Austen was born on May 15, 1789."
+                },
+                {
+                    "question": "Who invented the phonograph?",
+                    "answer": "Thomas Edison",
+                    "explanation": "The phonograph was invented by Thomas Edison in 1877. It was a device that could record and play back sound. The phonograph was a significant invention because it allowed people to listen to music and other sounds without having to physically perform them. It was also a major step forward in the development of the music industry."
+                }
+            ],
+            "hops": [
+                "Jane Austen"
+            ]
+        },
+        "George Orwell": {
+            "term": "George Orwell",
+            "passage": "\"George Orwell (June 25, 1903 – January 14, 1950), the son of Richard and Eileen Orwell, was an English novelist, essayist, journalist and critic. He is credited with helping to develop modern political writing and analysis of 1940s and 1950s Europe. Orwell became a writer after serving in the British Army in the First World War. He is best known for his novels Animal Farm and 1984. He is also known for his works on animal experimentation, newspeak, language and its relation to politics, and many other topics. He is now the author of one of the most widely read books in the English language, Animal Farm. Orwell was born in an old rectory on the outskirts of the small village of Droitwich Spa, near Worcester, in the county of Worcestershire in 1903.... In 1913, Orwell was appointed to the Indian Imperial Police (renamed in 1922 the Imperial Police) to help investigate the Tibetan uprising. In 1920, he returned to England and found himself unemployed. In 1927, he became the first assistant editor of the Manchester Evening News, a weekly newspaper, and editor of a monthly magazine called the New Writing. The magazine was founded to encourage writers to be more aware of and involved in their communities.",
+            "qae_pairs": [
+                {
+                    "question": "What is the word for a magazine that is published once a month?",
+                    "answer": "monthly",
+                    "explanation": "Monthly is an adjective that describes a magazine or publication that is published once a month."
+                },
+                {
+                    "question": "Who is George Orwells father?",
+                    "answer": "Richard",
+                    "explanation": "George Orwells father, Richard, was a civil servant in the British Foreign Office. He was a member of the Liberal Party and a member of the British Parliament. He was also a member of the British Cabinet. He was a member of the British Cabinet. He was also a member of the British Cabinet. He was also a member of the British Cabinet. He was also a member of the British Cabinet. He was also a member of the British Cabinet. He was also a member of the British Cabinet. He was also a member of the British Cabinet. He was also a member of the British Cabinet. He was also a"
+                },
+                {
+                    "question": "What is the name of the country that Orwell was born in?",
+                    "answer": "England",
+                    "explanation": "George Orwell was born in the county of Worcestershire in England."
+                },
+                {
+                    "question": "Which decade did George Orwell belong to?",
+                    "answer": "1940s",
+                    "explanation": "1940s"
+                },
+                {
+                    "question": "What is the name of the newspaper that George Orwell worked for?",
+                    "answer": "the Manchester Evening News",
+                    "explanation": "George Orwell worked for the Manchester Evening News, where he served as a writer and journalist for several years. He was also the editor of a monthly magazine called the New Writing."
+                },
+                {
+                    "question": "What is the name of the police force that Orwell was a member of in India?",
+                    "answer": "the Indian Imperial Police",
+                    "explanation": "George Orwell was an English novelist, essayist, journalist, and critic. He is best known for his novels Animal Farm and 1984. He is also known for his works on animal experimentation, newspeak, language, and its relation to politics. He is the author of one of the most widely read books in the English language, Animal Farm. Orwell was born in an old rectory on the outskirts of the small village of Droitwich Spa, near Worcester, in the county of Worcestershire in 1903. In 1913, Orwell was appointed to the Indian Imperial Police to help investigate the Tibetan uprising. In"
+                },
+                {
+                    "question": "Wheres the county?",
+                    "answer": "Worcestershire",
+                    "explanation": "Worcestershire is a county in the West Midlands region of England. It is bounded by the counties of Herefordshire, Gloucestershire, and Warwickshire."
+                },
+                {
+                    "question": "What is the name of the town where George Orwell was born?",
+                    "answer": "Droitwich Spa",
+                    "explanation": "Droitwich Spa is a town in the county of Worcestershire, England. It is located near Worcester."
+                },
+                {
+                    "question": "What is the best book you have read?",
+                    "answer": "Animal Farm",
+                    "explanation": "Animal Farm is a novel by George Orwell that tells the story of a group of farm animals who revolt against their human caretakers and establish their own society. The book is a critique of totalitarianism and a commentary on the Russian Revolution. It is a classic of modern political writing and is now considered one of the most widely read books in the English language."
+                },
+                {
+                    "question": "What is the best book in the English language?",
+                    "answer": "1984",
+                    "explanation": "1984 is a dystopian novel by George Orwell. It is a story about a totalitarian state that uses fear and propaganda to control its citizens. The novel is a commentary on the dangers of totalitarianism and the importance of individual freedom. It is considered one of the best books in the English language."
+                }
+            ],
+            "hops": [
+                "George Orwell"
+            ]
+        },
+        "Ernest Hemingway": {
+            "term": "Ernest Hemingway",
+            "passage": "\"Ernest Hemingway was an American author and journalist. He is best known for his works of fiction and his journalism. He is considered one of the most influential writers in the modernist and postmodernist styles. He is also known for his minimalist writing style and his use of the sentence as a unit of narrative. Ernest Hemingway was born on July 21, 1899, in Oak Park, Illinois. He attended the University of Kansas, where he studied law, and graduated in 1922. He was a journalist for the Kansas City Star and the Chicago Sun. He was also a writer for the Kansas City Star and the New York Post. He was a writer for the Kansas City Star and the New York Post.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the newspaper that Ernest Hemingway worked for?",
+                    "answer": "the New York Post",
+                    "explanation": "Ernest Hemingway worked for the New York Post from 1922 to 1924. He was a reporter and writer for the paper."
+                },
+                {
+                    "question": "What is the name of the state in which Ernest Hemingway was born?",
+                    "answer": "Illinois",
+                    "explanation": "Ernest Hemingway was born in Oak Park, Illinois."
+                },
+                {
+                    "question": "What is Ernest Hemingways birthdate?",
+                    "answer": "July 21, 1899",
+                    "explanation": "Ernest Hemingway was born on July 21, 1899, in Oak Park, Illinois."
+                },
+                {
+                    "question": "What is the name of the town where Ernest Hemingway was born?",
+                    "answer": "Oak Park",
+                    "explanation": "Ernest Hemingway was born in Oak Park, Illinois."
+                }
+            ],
+            "hops": [
+                "Ernest Hemingway"
+            ]
+        },
+        "Charles Dickens": {
+            "term": "Charles Dickens",
+            "passage": "'\nThis year, to celebrate the bicentenary of Charles Dickens’ birth, English Heritage and the British Council are unveiling a new way of experiencing 12 of his novels and poems by placing famous locations from the stories at the centre of these special events. The launch will take place with a major international – and very personal – exhibition at the British Library in London on 10 December. And what a lot it is! From the Little Dorrit novel to Little Nell in Great Expectations, each of the stories was a product of Dickens’ imagination, and there are many locations in and around the UK that can help to illustrate how each of these were first conceived. Read the full article at \"Charles Dickens: The World In His Footprint\" by Anna McClean at the British Council website.",
+            "qae_pairs": [
+                {
+                    "question": "What is the capital of England?",
+                    "answer": "London",
+                    "explanation": "London is the capital of England."
+                }
+            ],
+            "hops": [
+                "Charles Dickens"
+            ]
+        },
+        "Virginia Woolf": {
+            "term": "Virginia Woolf",
+            "passage": "I was inspired by Virginia Woolf’s “Death of the Moth” from her collection “The Modernist” (1912). It made me feel like a moth is like me, and as I am in this place with an invisible boundary (my home) I wonder what the moth (and I) can do if we are in a box?",
+            "qae_pairs": [
+                {
+                    "question": "What is the modernist period?",
+                    "answer": "1912",
+                    "explanation": "1912 is the year that Virginia Woolf published her collection of short stories, “The Modernist.” The modernist period is a literary movement that emerged in the early 20th century and is characterized by a focus on individualism, fragmentation, and the breakdown of traditional narrative structures."
+                }
+            ],
+            "hops": [
+                "Virginia Woolf"
+            ]
+        },
+        "James Joyce": {
+            "term": "James Joyce",
+            "passage": "\"James Joyce (2 February 1882 – 13 January 1941) was an Irish writer. He is best known for his works Ulysses and A Portrait of the Artist as a Young Man. He is also the author of the short story collection The Dubliners, and the novels Finnegans Wake and The Dead. He is considered one of the most important writers of the 20th century. Joyce was born in Dublin, Ireland, on February 2, 1882. He was the son of Margaret and James Joyce, a Catholic priest. He attended the National School of Dublin and later the University College Dublin. He studied law at Trinity College Dublin, but dropped out after one year. He then studied medicine at the University of Zurich, Switzerland. He was a medical student at the University of Vienna, Austria, for two years. In 1904, he began writing short stories. He wrote his first novel, A Portrait of the Artist as a Young Man, in 1914.",
+            "qae_pairs": [
+                {
+                    "question": "what century are we in now?",
+                    "answer": "the 20th century",
+                    "explanation": "(1) The 20th century began in 1901 and ended in 2001. (2) James Joyce lived in the 20th century."
+                },
+                {
+                    "question": "Who is the mother of James Joyce?",
+                    "answer": "Margaret",
+                    "explanation": "James Joyces mother was named Margaret Joyce. She was a Catholic, and his father was a Catholic priest."
+                },
+                {
+                    "question": "where did James Joyce study medicine?",
+                    "answer": "the University of Zurich",
+                    "explanation": "James Joyce studied medicine at the University of Zurich, Switzerland."
+                },
+                {
+                    "question": "How long did James Joyce study medicine?",
+                    "answer": "two years",
+                    "explanation": "He studied medicine at the University of Zurich, Switzerland. He was a medical student at the University of Vienna, Austria, for two years."
+                },
+                {
+                    "question": "Where did James Joyce go to school?",
+                    "answer": "University College Dublin",
+                    "explanation": "James Joyce was born in Dublin, Ireland, on February 2, 1882. He attended the National School of Dublin and later the University College Dublin."
+                },
+                {
+                    "question": "When did James Joyce begin writing his first novel?",
+                    "answer": "1904",
+                    "explanation": "James Joyce began writing his first novel, A Portrait of the Artist as a Young Man, in 1904."
+                },
+                {
+                    "question": "What year did James Joyce write his first novel?",
+                    "answer": "1914",
+                    "explanation": "A Portrait of the Artist as a Young Man was written in 1914 by James Joyce."
+                },
+                {
+                    "question": "What is the meaning of life?",
+                    "answer": "Ulysses",
+                    "explanation": "Ulysses is a novel by James Joyce that tells the story of a mans journey through life. The protagonist, Leopold Bloom, is a middle-aged man who is trying to find meaning and purpose in his life. The novel explores themes of identity, mortality, and the human experience. The protagonists journey is a metaphor for the human experience of life, and the meaning of life is a central theme throughout the novel. The novel is divided into 18 sections, each of which is named after a day of the week. The novel is considered a modernist masterpiece, and is one of the most important works"
+                },
+                {
+                    "question": "What is the date of James Joyces death?",
+                    "answer": "13 January 1941",
+                    "explanation": "13 January 1941 is the date of James Joyces death."
+                },
+                {
+                    "question": "What is the date of James Joyces birth?",
+                    "answer": "2 February 1882",
+                    "explanation": "James Joyce (2 February 1882 – 13 January 1941) was an Irish writer. He is best known for his works Ulysses and A Portrait of the Artist as a Young Man. He is also the author of the short story collection The Dubliners, and the novels Finnegans Wake and The Dead. He is considered one of the most important writers of the 20th century. Joyce was born in Dublin, Ireland, on February 2, 1882. He was the son of Margaret and James Joyce, a Catholic priest. He attended the National School of Dublin and later the University"
+                }
+            ],
+            "hops": [
+                "James Joyce"
+            ]
+        },
+        "William Faulkner": {
+            "term": "William Faulkner",
+            "passage": "“William Faulkner: Author, Artist, Man of the South” and it gives some excellent quotes from his work (e.g. ““William Faulkner: Author, Artist, Man of the South” and it gives some excellent quotes from his work (e.g. ““William Faulkner: Author, Artist, Man of the South” and it gives some excellent quotes from his work)\nWilliam Faulkner is the author of many great works such as “As I Lay Dying” and “The Great Gatsby” and is widely known as a novelist. He’s also a well-respected artist, and is widely recognized as one of America’s most important writers, known for their use of language and their realistic portrayal of the South. I’ve been reading more about him lately because of the upcoming release of “The Light at the End of the World” movie, and I’m fascinated by the man and his work. The author also writes about his experience during the Civil War.",
+            "qae_pairs": [
+                {
+                    "question": "What is the meaning of life?",
+                    "answer": "World",
+                    "explanation": "“The meaning of life is to be found in the world.” The quote is from “The Light at the End of the World” by William Faulkner. It’s a quote that has been widely used by the author, and is a very famous quote. The quote is about the meaning of life and how it is to be found in the world. The quote is a great example of how the author’s work is about the world and the people in it. It’s a quote that is very thought-provoking and makes you think about the meaning of life."
+                },
+                {
+                    "question": "Where are you from?",
+                    "answer": "South",
+                    "explanation": "“I’m from the South. I’m a Southerner. I’m a Southerner. I’m a Southerner. I’m a Southerner. I’m a Southerner. I’m a Southerner. I’m a Southerner. I’m a Southerner. I’m a Southerner. I’m a Southerner. I’m a Southerner. I’m a Southerner. I’m a Southerner. I’m a Southerner. I’m a Southerner."
+                },
+                {
+                    "question": "What is the best country in the world?",
+                    "answer": "America",
+                    "explanation": "“The best country in the world is America. It is the best country in the world because it is the best country in the world.” – William Faulkner I’m not sure if I agree with him, but I do think that America is a great country. I’m not sure if I agree with him, but I do think that America is a great country. I’m not sure if I agree with him, but I do think that America is a great country. I’m not sure if I agree with him, but I do think that America is a great country. I’m not sure"
+                }
+            ],
+            "hops": [
+                "William Faulkner"
+            ]
+        },
+        "Margaret Atwood": {
+            "term": "Margaret Atwood",
+            "passage": "\"Margaret Atwood was born on September 25, 1939 in London, Ontario. She is the youngest of three daughters born to Agnes and John Atwood. She was raised in a Roman Catholic family, and as a child, her mother would read to her from Shakespearean plays, which she found boring (although she did learn to read them by age nine).\" Margaret Atwood studied English at the University of Toronto. While studying at the University of Toronto, Margaret Atwood wrote a short story called \"The Handmaid's Tale\" which was later adapted into a novel. Her novels \"The Handmaid's Tale\" and \"The Heart Goes Last\" have both been adapted into movies and have received critical acclaim. Margaret Atwood has won the Man Booker Prize twice, first with \"The Handmaid's Tale\" and then later with \"The Heart Goes Last\". She is currently a professor of English at the University of Toronto. Margaret Atwood is known for her writing style which has often been described as \"Canadiantext\" or \"Canadian minimalism\".",
+            "qae_pairs": [
+                {
+                    "question": "Where is Margaret Atwood from?",
+                    "answer": "Ontario",
+                    "explanation": "Margaret Atwood was born in London, Ontario, Canada. She is the youngest of three daughters born to Agnes and John Atwood. She was raised in a Roman Catholic family, and as a child, her mother would read to her from Shakespearean plays, which she found boring (although she did learn to read them by age nine)."
+                },
+                {
+                    "question": "What is the name of Margaret Atwoods mother?",
+                    "answer": "Agnes",
+                    "explanation": "Margaret Atwood was born on September 25, 1939 in London, Ontario. She is the youngest of three daughters born to Agnes and John Atwood. Her mothers name is Agnes Atwood."
+                },
+                {
+                    "question": "What is Margaret Atwoods birthdate?",
+                    "answer": "September 25, 1939",
+                    "explanation": "Margaret Atwood was born on September 25, 1939 in London, Ontario. She is the youngest of three daughters born to Agnes and John Atwood. She was raised in a Roman Catholic family, and as a child, her mother would read to her from Shakespearean plays, which she found boring (although she did learn to read them by age nine)."
+                },
+                {
+                    "question": "Who is Margaret Atwoods father?",
+                    "answer": "John Atwood",
+                    "explanation": "Margaret Atwood was born on September 25, 1939 in London, Ontario. She is the youngest of three daughters born to Agnes and John Atwood. Her father, John Atwood, was a lawyer and a judge. He was also a member of the Liberal Party of Canada. Margaret Atwoods mother, Agnes Atwood, was a teacher and a writer. She wrote childrens books, poetry, and short stories. Margaret Atwoods father, John Atwood, was a lawyer and a judge. He was also a member of the Liberal Party of Canada. Margaret Atwoods mother,"
+                },
+                {
+                    "question": "Where did Margaret Atwood study?",
+                    "answer": "the University of Toronto",
+                    "explanation": "Margaret Atwood studied English at the University of Toronto. While studying at the University of Toronto, Margaret Atwood wrote a short story called The Handmaids Tale which was later adapted into a novel."
+                }
+            ],
+            "hops": [
+                "Margaret Atwood"
+            ]
+        }
+    },
+    "second_hops": {
+        "Richard": {
+            "term": "Richard",
+            "passage": "After his death, Richard's remains were moved to a shrine inside the old church of All Saints, and there they are laid out. The entrance to the church is through a door which is kept locked on account of his resting place. Richard is a Catholic saint. It also lists a series of interesting facts about him:\nRichard the Lionheart is born in 1157 at Fontevrault.",
+            "qae_pairs": [
+                {
+                    "question": "What year was Richard the Lionheart born?",
+                    "answer": "1157",
+                    "explanation": "1157"
+                },
+                {
+                    "question": "What is the birthplace of Richard the Lionheart?",
+                    "answer": "Fontevrault",
+                    "explanation": "Fontevrault is a town in the Loire Valley, France. Richard the Lionheart was born there in 1157."
+                }
+            ],
+            "hops": [
+                "George Orwell",
+                "Richard"
+            ]
+        },
+        "England": {
+            "term": "England",
+            "passage": "\"For centuries, English has been the \"working language\" of British society, while only a small fraction of English people now speak it at home.\" \"A new study has suggested that one in three families will be bilingual (meaning the family members speak two different languages), the highest level in the world. A quarter of Londoners are not English-speaking and the study found \"one in five of the new generation\" of children in the capital do not speak English at home. In 1996, 50 percent of Londoners spoke English at home; today that figure is around 40 percent.\" Why have so many people lost the English language? We have been learning French. I'm sure we will learn Russian as well in the future. I've been thinking about this lately. I've been working with kids that are learning French (and a few with Spanish) and it's becoming apparent that it's getting more difficult to keep the French going. English is a very easy language for children to learn to speak -- even if they learn other languages -- so, if I had to choose, I think I'd teach them French over English. But...\nWhy are there so many non-native English speakers in America? In other words, why is English such an important language to learn? I've heard this question asked over and over.",
+            "qae_pairs": [
+                {
+                    "question": "What is the significance of English in England?",
+                    "answer": "centuries",
+                    "explanation": "The English language has been the working language of British society for centuries, while only a small fraction of English people now speak it at home. English is also the language of international communication and is used in many countries around the world. It is the language of the British monarchy, government and the legal system, and is used in many scientific and technical fields. I think the answer is that English is the language of the British Empire. It is the language of the British legal system. It is the language of the British government. It is the language of the British military. It is the language of the British economy. It is the"
+                },
+                {
+                    "question": "\nIf today's England could be transformed back to the way it was during my childhood, what would I do?",
+                    "answer": "today",
+                    "explanation": "Id probably choose to learn French over English. Its a very easy language to learn for kids. I think it would be a good idea to teach children French over English. In the future, I think well be learning Russian as well. Im sure well learn Russian eventually. I think its a good idea to learn French over English because its a very easy language for children to learn. I think its a good idea to teach children French over English. In the future, I think well be learning Russian as well. Im sure well"
+                }
+            ],
+            "hops": [
+                "George Orwell",
+                "England"
+            ]
+        },
+        "the Manchester Evening News": {
+            "term": "the Manchester Evening News",
+            "passage": "The newspaper was founded in 1878 in Manchester as the Manchester Evening News. It was the work of the brothers John George Agnew and Charles Agnew. In the 1920s the “Evening News” name was dropped and the newspaper became the Manchester Evening News. I know this information is true because there are several web sites I have checked out which also provide the same information.",
+            "qae_pairs": [
+                {
+                    "question": "Who founded the Manchester Evening News?",
+                    "answer": "John George Agnew",
+                    "explanation": "“The Manchester Evening News” was founded by John George Agnew and his brother Charles Agnew in 1878."
+                },
+                {
+                    "question": "What year was the Manchester Evening News founded?",
+                    "answer": "1878",
+                    "explanation": "1878"
+                }
+            ],
+            "hops": [
+                "George Orwell",
+                "the Manchester Evening News"
+            ]
+        },
+        "the Indian Imperial Police": {
+            "term": "the Indian Imperial Police",
+            "passage": "The Indian Imperial Police (or the British Indian Army) was established in 1758 under the British Raj. The police force had to maintain law and order in a country that had a large number of diverse religions, languages, customs and traditions. Indian soldiers in the British Army continued to retain their status as the Indian Imperial Police after India's independence. In terms of recruitment, an early Imperial Police recruiting poster in 1803 sought candidates from \"native soldiers of all religions and all castes who were willing to take the oath and pledge loyalty to the Governor-General\" and \"native soldiers of the East India Company\".",
+            "qae_pairs": [
+                {
+                    "question": "What year was the Indian Imperial Police established?",
+                    "answer": "1758",
+                    "explanation": "1758"
+                },
+                {
+                    "question": "\nQuestion: Which organization had an influence on the creation of the Indian Imperial Police?",
+                    "answer": "the East India Company",
+                    "explanation": "The East India Company was a British trading company that was founded in 1600. The companys aim was to establish trading posts in India and gain control over Indian resources. The companys employees were recruited from diverse backgrounds, including soldiers from different European countries. The companys soldiers were known as native soldiers and were recruited from the Indian Army. The companys soldiers were recruited for various roles, including the Indian Imperial Police. The companys soldiers were recruited to serve in the Indian Army, and their recruitment was also used as a recruitment strategy for the Indian Imperial Police."
+                }
+            ],
+            "hops": [
+                "George Orwell",
+                "the Indian Imperial Police"
+            ]
+        },
+        "Worcestershire": {
+            "term": "Worcestershire",
+            "passage": "Witchcraft is the worship of the moon, and has been popular in Britain since the 13th century. It appears to have originated from the worship of the goddess of the night, Hecate, associated with witches in the old folklore of the county. She has been worshiped in Worcestershire since the 13th century, and is still seen in some parts of the county, for example on the moon-worshiping site of Bleddford near Hereford. The witchcraft in this area dates back to the period of the Black Death, and the names of the 'witch's names' are mentioned in the Domesday Book.",
+            "qae_pairs": [
+                {
+                    "question": "What type of worship was associated with the goddess of the night, Hecate, in Worcestershire?",
+                    "answer": "Witchcraft",
+                    "explanation": "Witchcraft was associated with the worship of the moon in Worcestershire."
+                },
+                {
+                    "question": "\nWhat place in Worcestershire do witches commonly worship Hecate at?",
+                    "answer": "Bleddford",
+                    "explanation": "Bleddford is a small village in the south of the county, and is situated on the banks of the River Severn. It is believed that the worship of Hecate was common in this area, and that the site of the old church of St. Peter and St. Paul was used for the worship of the goddess. The church was built in the 13th century, and is still standing today. The name of the church is Bleddford, and it is believed that the name is derived from the name of the goddess."
+                },
+                {
+                    "question": "What is the name of the goddess of the night worshiped by witches in Worcestershire?",
+                    "answer": "Hecate",
+                    "explanation": "Hecate is the name of the goddess of the night worshiped by witches in Worcestershire. She is also known as the Queen of the Witches and is associated with the moon."
+                },
+                {
+                    "question": "\nQuestion: In the county of Worcestershire, where did the worship of the moon and witches originate?",
+                    "answer": "Hereford",
+                    "explanation": "The worship of the moon and witches originated in the county of Worcestershire, specifically in the town of Hereford. The worship of the moon is believed to have originated from the worship of the goddess of the night, Hecate, associated with witches in old folklore. The worship of the moon is still seen in some parts of the county, for example on the moon-worshiping site of Bleddford near Hereford. The witchcraft in this area dates back to the period of the Black Death, and the names of the witchs names are mentioned in the Domesday Book."
+                }
+            ],
+            "hops": [
+                "George Orwell",
+                "Worcestershire"
+            ]
+        },
+        "Droitwich Spa": {
+            "term": "Droitwich Spa",
+            "passage": "Droitwich is a town in the administrative county of Worcester and ceremonial county of Herefordshire, England. The town lies within the Severnaya Plavda (Lower Severn) valley and is crossed by the River Salwarpe, which runs through the town centre, and its local railway station. (...) The town is a part of the Malvern Hills National Park. If you've visited a town or city in Herefordshire before, you'll probably have heard of a county show. There are many counties in England and all over the UK but the Malvern show is one of the best, if not the best. Now owned by the farming group Countryside Media (which owns the Royal Bath & West of England Showground) it is a place to go, if you're interested in the countryside, rural life or farming. The show is a mixture of a country fair and a contemporary exhibition - but there is so much for the whole family to enjoy. I haven't even started to mention some of the other things in the area, like the Malvern Hills, a golf course and other activities such as the Severnaya Plavda or the Malvern Railway (or \"MR\" as it's better known to us). We didn't get to see the show this time. One day, we'll have to.",
+            "qae_pairs": [
+                {
+                    "question": "\nQuestion: What is the Malvern Hills and how is it related to Droitwich Spa?",
+                    "answer": "the Malvern Hills",
+                    "explanation": "The Malvern Hills are a range of hills in the Malvern Hills National Park, in the south of England. They are part of the Midlands, and are located in the county of Herefordshire. The hills are made up of sandstone, and are part of the Malvern Range. The hills are 1,000 feet (300 metres) high, and are 10 miles (16 kilometres) long. The hills are part of the Malvern Hills National Park, and are a popular tourist attraction. The hills are popular with walkers, and are a popular place for people to go for a walk. The hills"
+                }
+            ],
+            "hops": [
+                "George Orwell",
+                "Droitwich Spa"
+            ]
+        },
+        "the New York Post": {
+            "term": "the New York Post",
+            "passage": "\"The New York Post is a daily American general interest newspaper published in New York City, New York. It is owned by News Corp. It is the second oldest New York newspaper, having first appeared on August 26, 1857. Its headquarters are located in midtown Manhattan at 1211 Avenue of the Americas.\" I'm just not sure if a newspaper with this name is one that I should buy, to read, or just throw away. If you could help me decide, I would be grateful. - \"The New York Post is...\"\n1 day ago\n9 comments:\nA newspaper with a name like that has to be some sort of crazy newspaper... I'd pass. My parents are from New York and they used to get the Post, and now in their 60's, after several years in their house and after many trips to the Post office, it's all just been too much, so now they just get the Times or the Post Online for FREE online. I would be hesitant to purchase. I would get rid of it. It's not a credible newspaper with good journalism. It's a trash tabloid that focuses on the superficial. I wouldn't buy it, but I wouldn't burn it either.",
+            "qae_pairs": [
+                {
+                    "question": "What is the date of the New York Posts first publication?",
+                    "answer": "August 26, 1857",
+                    "explanation": "The New York Post is a daily American general interest newspaper published in New York City, New York. It is owned by News Corp. It is the second oldest New York newspaper, having first appeared on August 26, 1857. Its headquarters are located in midtown Manhattan at 1211 Avenue of the Americas. Im sorry, I dont think I can help you decide whether or not to buy the New York Post. Its not a credible newspaper with good journalism. Its a trash tabloid that focuses on the superficial. I wouldnt buy it, but I wouldnt"
+                },
+                {
+                    "question": "What is the New York Post?",
+                    "answer": "daily",
+                    "explanation": "The New York Post is a daily American general interest newspaper published in New York City, New York. It is owned by News Corp. It is the second oldest New York newspaper, having first appeared on August 26, 1857. Its headquarters are located in midtown Manhattan at 1211 Avenue of the Americas. Im sorry, but Im not sure what the New York Post is. Im not sure if its a credible newspaper or not. Im not sure if its a trash tabloid that focuses on the superficial. Im not sure if I should buy"
+                }
+            ],
+            "hops": [
+                "Ernest Hemingway",
+                "the New York Post"
+            ]
+        },
+        "Illinois": {
+            "term": "Illinois",
+            "passage": "This state is called the “Land of Lincoln” (referring to President Abraham Lincoln) because the President was born in the town of Rushville and spent a large part of his adult life in the state, and where his last days were spent.",
+            "qae_pairs": [
+                {
+                    "question": "\nQuestion: What town in Illinois was Ernest Hemingway born in?",
+                    "answer": "Rushville",
+                    "explanation": "Ernest Hemingway was born in the town of Rushville, Illinois, on July 21, 1899."
+                }
+            ],
+            "hops": [
+                "Ernest Hemingway",
+                "Illinois"
+            ]
+        },
+        "Oak Park": {
+            "term": "Oak Park",
+            "passage": "\"Oak Park, Illinois is a suburb of Chicago and home to the headquarters of the Public YMCA. The town was founded in 1891 and was first known as West Oak Park. It is situated in Cook County and has a population of 52,892. According to the 2000 Census, Oak Park is the home to 33,608 people who speak 108 different languages, with the most common ones being English, Polish, and Italian. The town is also home to over 100 restaurants and over 30 shops, as well as a number of large parks and numerous libraries. The Oak Park Library is a large building located in the northwest corner of the village that houses the main branch of the Oak Park Public Library system. The main library was built in 1931 and is now the largest public library in the Cook County area. It is one of the oldest libraries in Illinois.\" To get this image into your home, you would need to visit your local craft or home improvement store. This was taken on the main library building and can be used for personal purposes, such as printing, scrapbooking, card making, etc.",
+            "qae_pairs": [
+                {
+                    "question": "\nHow did the town of Oak Park, Illinois get its name?",
+                    "answer": "Illinois",
+                    "explanation": "The town of Oak Park, Illinois was named after the oak trees that were planted in the area. The name was given to the town by the Chicago and Northwestern Railroad, which was built in the 1830s. The railroad was built to connect Chicago to the western frontier, and the town was named after the oak trees that were planted in the area. The name was given to the town by the Chicago and Northwestern Railroad, which was built in the 1830s."
+                },
+                {
+                    "question": "Question: What county is Oak Park located in?",
+                    "answer": "Cook County",
+                    "explanation": "Oak Park is located in Cook County, Illinois. Cook County is a county located in the state of Illinois. The population of Cook County is 2,711,000 people. According to the 2000 Census, Cook County has a population of 2,711,000 people. The county seat is Chicago, Illinois. Cook County is a county located in Illinois. Cook County is a county located in Illinois. Cook County is a county located in Illinois. Cook County is a county located in Illinois. Cook County is a county located in Illinois. Cook County is a county located in Illinois. Cook County is a county located in"
+                },
+                {
+                    "question": "What year was Oak Park, Illinois founded?",
+                    "answer": "1891",
+                    "explanation": "Oak Park, Illinois was founded in 1891 by a group of Chicago businessmen. The town was originally known as West Oak Park, but was later renamed Oak Park. The town was founded to be a suburb of Chicago and home to the headquarters of the Public YMCA. The town is situated in Cook County and has a population of 52,892. According to the 2000 Census, Oak Park is the home to 33,608 people who speak 108 different languages, with the most common ones being English, Polish, and Italian. The town is also home to over 100 restaurants and over 30 shops, as"
+                },
+                {
+                    "question": "Question: When was the main library building of the Oak Park Public Library system built?",
+                    "answer": "1931",
+                    "explanation": "The main library building of the Oak Park Public Library system was built in 1931. It is one of the oldest libraries in Illinois."
+                }
+            ],
+            "hops": [
+                "Ernest Hemingway",
+                "Oak Park"
+            ]
+        },
+        "London": {
+            "term": "London",
+            "passage": "In 1938, London was bombed by the Germans in a night of widespread destruction that destroyed not just the Docklands, but also a significant portion of the British capital. When the war came to London, it was transformed into a city of refugees and a base for troops. Despite the massive loss of life, a large part of the city remained unscathed, as the Germans were keen not to damage important buildings that would still be of use to the government for the time being.",
+            "qae_pairs": [
+                {
+                    "question": "What was the name of the area in London that was destroyed in 1938 during World War II?",
+                    "answer": "Docklands",
+                    "explanation": "1938 was a year of destruction for London, as the city was bombed by the Germans in a night of widespread destruction that destroyed not just the Docklands, but also a significant portion of the British capital."
+                },
+                {
+                    "question": "What year did London experience widespread destruction during World War II?",
+                    "answer": "1938",
+                    "explanation": "1938 was the year that London was bombed by the Germans in a night of widespread destruction that destroyed not just the Docklands, but also a significant portion of the British capital."
+                }
+            ],
+            "hops": [
+                "Charles Dickens",
+                "London"
+            ]
+        },
+        "Margaret": {
+            "term": "Margaret",
+            "passage": "Margaret, the second daughter of King Edward the Confessor, and sister of Henry I, was a wife of William Rufus, King of England, and a daughter of the Duke of Poitou. She was also a mother of three children, and the fourth-great-grandmother of King Henry VI of England.",
+            "qae_pairs": [
+                {
+                    "question": "\nWhat was Margaret's relationship to King Edward the Confessor?",
+                    "answer": "Edward",
+                    "explanation": "Edward the Confessor was the son of King Athelstan, and the father of King Athelstan the Unready. He was also the father of King Athelstans son, King Athelstan the Unready."
+                }
+            ],
+            "hops": [
+                "James Joyce",
+                "Margaret"
+            ]
+        },
+        "the University of Zurich": {
+            "term": "the University of Zurich",
+            "passage": "The University of Zurich is a public university located in Zürich, Switzerland. Founded in 1630, it is one of the oldest universities in Europe and the first in Switzerland. The UZH is the largest university in the city. The University of Zurich currently has 25,000 undergraduate and 7,500 postgraduate students. About 25% of the students come from abroad, mainly from the United States, China, and Switzerland.",
+            "qae_pairs": [
+                {
+                    "question": "What year was the University of Zurich founded?",
+                    "answer": "1630",
+                    "explanation": "The University of Zurich was founded in 1630 by the Bernese government. It is one of the oldest universities in Europe and the first in Switzerland."
+                },
+                {
+                    "question": "Which city is the University of Zurich located in?",
+                    "answer": "Switzerland",
+                    "explanation": "The University of Zurich is located in Zürich, Switzerland."
+                },
+                {
+                    "question": "\nWhich country does the University of Zurich mainly attract students from?",
+                    "answer": "the United States",
+                    "explanation": "The University of Zurich is one of the most prestigious universities in Switzerland and attracts students from all over the world. However, the United States is the largest source of international students, followed by China and Switzerland."
+                }
+            ],
+            "hops": [
+                "James Joyce",
+                "the University of Zurich"
+            ]
+        },
+        "University College Dublin": {
+            "term": "University College Dublin",
+            "passage": "The new academic year at University College Dublin began on 26 September 2006 and its first week was extended to 28 October. This year, University College Dublin celebrates its 100th anniversary with a special year of celebrations for the year ahead.",
+            "qae_pairs": [
+                {
+                    "question": "What is the date of the first week of the new academic year at University College Dublin?",
+                    "answer": "26 September 2006",
+                    "explanation": "26 September 2006 is the date of the first week of the new academic year at University College Dublin."
+                }
+            ],
+            "hops": [
+                "James Joyce",
+                "University College Dublin"
+            ]
+        },
+        "Ulysses": {
+            "term": "Ulysses",
+            "passage": "Ulysses was written by James Joyce in 1926 and was first published in 1939. Ulysses is also the name of the hero. He is the protagonist of the novel. I haven't got any idea why Ulysses is such an interesting name for the man.",
+            "qae_pairs": [
+                {
+                    "question": "What year was Ulysses written by James Joyce?",
+                    "answer": "1926",
+                    "explanation": "1926"
+                }
+            ],
+            "hops": [
+                "James Joyce",
+                "Ulysses"
+            ]
+        },
+        "Agnes": {
+            "term": "Agnes",
+            "passage": "Agnes (English: St. Agnes) is a fictional name often used in names, usually female names or children's names. The name is derived from the Latin term \"St. Agnes of Assisi\" (Agnes of Assisi) who was born to King Dauphin, son of the Duke of Burgundy, and his queen who was later his daughter. The namesake was the Patron Saint of unmarried and virginal women. Agnes was a female given name in the medieval Latin period, and later used as an English name. The name was used in England, Ireland, Scotland, and Wales, but not in France, where it is of Italian origin. It is still used as a first name in Portugal, Italy, the Vatican, France, and in other parts of the world. From my birth certificate, it looks like Agnes was 'a name I never heard before' on the birth certificate, yet that is the name given to me by my mother, the name she had chosen. I do not know if it was always spelled that way or if it was a name given to her after she married my father. When I look back, I am grateful I have an unique name for my name day, but I do wonder what the name means.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the French city where Agnes was born?",
+                    "answer": "France",
+                    "explanation": "Agnes is a female given name in the Latin language, and it is derived from the name Agnes of Assisi (Agnes of Assisi) who was born to King Dauphin, son of the Duke of Burgundy, and his queen who was later his daughter. The name was used in medieval Latin period, and later used in England, Ireland, Scotland, and Wales. It is still used as a first name in Portugal, Italy, the Vatican, France, and in other parts of the world."
+                },
+                {
+                    "question": "What is the name of the English town where Agnes was born?",
+                    "answer": "England",
+                    "explanation": "Agnes is a female given name in the English language. It is derived from the Latin term St. Agnes of Assisi (Agnes of Assisi) who was born to King Dauphin, son of the Duke of Burgundy, and his queen who was later his daughter. The name was used in England, Ireland, Scotland, and Wales, but not in France, where it is of Italian origin. It is still used as a first name in Portugal, Italy, the Vatican, France, and in other parts of the world."
+                },
+                {
+                    "question": "What is the name of the Italian city that is the birthplace of Agnes?",
+                    "answer": "Italy",
+                    "explanation": "Agnes is a female given name in the Latin language, and it is derived from the name Agnes of Assisi (Agnes of Assisi). Agnes of Assisi was born to King Dauphin, son of the Duke of Burgundy, and his queen who was later his daughter. The name was used in medieval Latin period, and later used as an English name. Agnes is a name that is still used in Portugal, Italy, the Vatican, France, and in other parts of the world."
+                }
+            ],
+            "hops": [
+                "Margaret Atwood",
+                "Agnes"
+            ]
+        },
+        "John Atwood": {
+            "term": "John Atwood",
+            "passage": "\"In 2004 John Atwood moved to Glasgow, Scotland after living in the north east for ten years to be able to work on his own projects in the region. He is now involved in the running of the Scottish National Galleries of Modern Art where he is head of the learning programme. He first studied music at the University of Liverpool, then fine arts at Glasgow School of Art. This is where he discovered his 'calling'. He is currently Head of the Animation and Multimedia department at Glasgow School of Art. He is known for his work as a teacher and as a film maker. He has been a lecturer and mentor at most of the British art schools and has taught internationally throughout Europe, Asia and in Africa. He is currently involved in a number of films in which he plays the lead character, which has been made in India and produced by \"Kommissar\" German film company. John Atwood is also involved in the charity and arts work at the Scottish National Galleries of Modern Art where he has recently produced \"Gorbals Girls - A Life in the Real Gorbals\" for the museum in Edinburgh.\" The quote he came up with is: \"In the first instance, I have to be the one creating the work. To begin, I would do it all myself and work it up until it becomes something that can be done in front of an audience.",
+            "qae_pairs": [
+                {
+                    "question": "\nQuestion: Where in Edinburgh has John Atwood worked in the past?",
+                    "answer": "Edinburgh",
+                    "explanation": "John Atwood has worked in Edinburgh, Scotland."
+                },
+                {
+                    "question": "What year did John Atwood move to Glasgow, Scotland?",
+                    "answer": "2004",
+                    "explanation": "In 2004 John Atwood moved to Glasgow, Scotland after living in the north east for ten years to be able to work on his own projects in the region."
+                },
+                {
+                    "question": "What is the name of the university that John Atwood attended?",
+                    "answer": "the University of Liverpool",
+                    "explanation": "John Atwood studied music at the University of Liverpool, then fine arts at Glasgow School of Art. This is where he discovered his calling."
+                },
+                {
+                    "question": "What is the name of the museum in Edinburgh that John Atwood is currently involved in?",
+                    "answer": "the Scottish National Galleries of Modern Art",
+                    "explanation": "Gorbals Girls - A Life in the Real Gorbals is a film that John Atwood made for the Scottish National Galleries of Modern Art in Edinburgh."
+                }
+            ],
+            "hops": [
+                "Margaret Atwood",
+                "John Atwood"
+            ]
+        },
+        "the University of Toronto": {
+            "term": "the University of Toronto",
+            "passage": "The University of Toronto (U of T) is the oldest institution of higher learning in Canada, founded in 1827 by King George IV of the United Kingdom. It is one of the 91 members of the Association to Advance Collegiate Schools of Business (AACSB) in the world. Its campus is spread over two campuses, Toronto and Scarborough. It was recently ranked in the top 10 universities in the world by the Financial Times in 2012.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the other campus of the University of Toronto?",
+                    "answer": "Scarborough",
+                    "explanation": "The Scarborough campus of the University of Toronto is located in Scarborough, Ontario, Canada. It was established in 1967 and is the second campus of the University of Toronto. It is the only campus of the University of Toronto that is located outside of Toronto."
+                },
+                {
+                    "question": "When was the University of Toronto founded?",
+                    "answer": "1827",
+                    "explanation": "1827"
+                },
+                {
+                    "question": "Who founded the University of Toronto?",
+                    "answer": "the United Kingdom",
+                    "explanation": "The University of Toronto was founded by King George IV of the United Kingdom in 1827."
+                }
+            ],
+            "hops": [
+                "Margaret Atwood",
+                "the University of Toronto"
+            ]
+        }
+    }
+}

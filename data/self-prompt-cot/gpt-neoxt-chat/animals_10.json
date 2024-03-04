@@ -1,0 +1,572 @@
+{
+    "first_hops": {
+        "Cow": {
+            "term": "Cow",
+            "passage": "Cow (Bos primigenius) is an extinct species of large even-toed ungulate mammal belonging to the subfamily Bovinae and family Bovidae that was widespread throughout Europe, Africa, and Asia during the Late Pleistocene and the early Holocene. It was one of the largest species of ungulates ever to have existed and was a close relative of the aurochs, the extinct wild ancestor of domestic cattle. The aurochs was larger than its descendant but, as it became extinct, it was replaced by the larger domestic cattle, a process that was completed in historical times with the advent of modern farming practices. Cattle are the most common type of Bos primigenius. They are raised in large numbers for meat, milk, leather and other products, and are of great importance to humans. The living animal is often referred to as a \"cow\", a term also used for the adult female of other Bos species, or as a \"bull\", a male of the same species, or for other cattle. Cattle have been raised for food by humans for at least 10,000 years, and their remains have been found in archaeological sites in the Fertile Crescent and date as far back as the 10th millennium BC. Their remains have also been found in the Indus Valley Civilisation and in the Americas.",
+            "qae_pairs": [
+                {
+                    "question": "How many continents are there where the Cow is found?",
+                    "answer": "Europe",
+                    "explanation": "The Cow is found in Europe, Africa, and Asia."
+                },
+                {
+                    "question": "When did the aurochs become extinct?",
+                    "answer": "Holocene",
+                    "explanation": "The aurochs became extinct in the Holocene."
+                },
+                {
+                    "question": "Where is the Bos primigenius species found?",
+                    "answer": "Africa",
+                    "explanation": "Bos primigenius is an extinct species of large even-toed ungulate mammal belonging to the subfamily Bovinae and family Bovidae that was widespread throughout Europe, Africa, and Asia during the Late Pleistocene and the early Holocene."
+                },
+                {
+                    "question": "What is the family of the animal that is the ancestor of the cow?",
+                    "answer": "Bovidae",
+                    "explanation": "The family of the animal that is the ancestor of the cow is Bovidae."
+                },
+                {
+                    "question": "What is the name of the species that is larger than the aurochs?",
+                    "answer": "Bos",
+                    "explanation": "Cattle are the most common type of Bos primigenius. They are raised in large numbers for meat, milk, leather and other products, and are of great importance to humans. The living animal is often referred to as a cow, a term also used for the adult female of other Bos species, or as a bull, a male of the same species, or for other cattle."
+                }
+            ],
+            "hops": [
+                "Cow"
+            ]
+        },
+        "Giraffe": {
+            "term": "Giraffe",
+            "passage": "Giraffes are browsers, and feed almost exclusively on leaves. Their long necks enable them to feed in the treetops. Giraffes can weigh up to 1,800 pounds (800 kg) or more. The tallest giraffe on record was a giraffe in Uganda, which was measured at 4.8 m (16 ft) high, and weighed an estimated 1,836 pounds (830 kg). They have a long neck and legs for stretching to reach leaves at the top of trees. Their tongues are rough to help them gather and hold leaves. Giraffes have no natural enemies and are not considered threatened by humans. They live in open woodland and savannas in sub-Saharan Africa, where the climate is hot and humid. They are browsers, eating leaves from a variety of trees and shrubs. They can live up to 20 years in the wild.",
+            "qae_pairs": [
+                {
+                    "question": "Where are giraffes found?",
+                    "answer": "Africa",
+                    "explanation": "Giraffes are found in Africa."
+                },
+                {
+                    "question": "How many years can a giraffe live in the wild?",
+                    "answer": "up to 20 years",
+                    "explanation": "Giraffes can live up to 20 years in the wild."
+                }
+            ],
+            "hops": [
+                "Giraffe"
+            ]
+        },
+        "Horse": {
+            "term": "Horse",
+            "passage": "The Horse (from Old Norse: hors, from Proto-Indo-European *k̑ros \"horse\") is a large, even-toed, even-clawed hoofed mammal, belonging to the taxonomic family Equidae. It is one of two extant subspecies of the genus Equus, the other being the ass, E. asinus. The horse has evolved over 40 million years from a small multi-toed creature that lived in the forests of North America into the largest extant species of horse. Humans began to domesticate horses around 4000 BCE, in the Near East. Horses are now raised in a wide variety of environments throughout the world for uses ranging from recreational riding and driving to military and work uses. There are over 1.1 billion horses in the world today, with an estimated total combined weight of approximately 57.5 billion tonnes.",
+            "qae_pairs": [
+                {
+                    "question": "Which of the following is true of the horse?",
+                    "answer": "Equus",
+                    "explanation": "Equus is the genus of the horse."
+                },
+                {
+                    "question": "Where did humans begin to domesticate horses?",
+                    "answer": "the Near East",
+                    "explanation": "Humans began to domesticate horses around 4000 BCE, in the Near East."
+                },
+                {
+                    "question": "What is the Proto-Indo-European word for horse?",
+                    "answer": "Proto-Indo-European *k̑ros",
+                    "explanation": "Horse is from Proto-Indo-European *k̑ros"
+                },
+                {
+                    "question": "How many years has it been since the horse evolved from a small multi-toed creature that lived in the forests of North America?",
+                    "answer": "40 million years",
+                    "explanation": "The horse has evolved over 40 million years from a small multi-toed creature that lived in the forests of North America into the largest extant species of horse."
+                }
+            ],
+            "hops": [
+                "Horse"
+            ]
+        },
+        "Cat": {
+            "term": "Cat",
+            "passage": "Cat (c. 1290 – c. 1350) was a medieval English mystic, poet, and composer. He is the first English poet known to have written in a style that can be described as English literature. He was also the first English composer whose works have survived.",
+            "qae_pairs": [
+                {
+                    "question": "When did the person who wrote the poem about the cat die?",
+                    "answer": "1350",
+                    "explanation": "Cat was a medieval English mystic, poet, and composer. He was the first English poet known to have written in a style that can be described as English literature. He was also the first English composer whose works have survived. He died in 1350."
+                }
+            ],
+            "hops": [
+                "Cat"
+            ]
+        },
+        "Duck": {
+            "term": "Duck",
+            "passage": "\"In the United States, the term \"duck\" is often colloquially used to refer to a person who is overly cautious or fearful. The term is also used to describe a car that is not in good running condition, or a person who is perceived to be overly cautious or fearful. The term is also used as a derogatory term to describe someone who avoids taking risks or who is overly cautious. The term duck is also used to describe the sound a car makes when its suspension is worn out, as in, \"that car makes more noise than a duck\". The origin of the term is unknown, but it may have originated in the early 1900s as a disparaging term for someone who was overly cautious. The duck sound is also known as a \\\"squeak squeak\\\". The term is also used in the UK to refer to a car or truck that is not in good condition or that is perceived to be in poor condition. The term \\\"duck\\\" is also used as a derogatory term to describe someone who is perceived to be overly cautious or who avoids taking risks. The term \\\"duck\\\" is also used to describe a person who avoids confrontation, conflict or responsibility.",
+            "qae_pairs": [
+                {
+                    "question": "What country uses the term \"duck\" to refer to a person who is overly cautious or fearful?",
+                    "answer": "the United States",
+                    "explanation": "In the United States, the term duck is often colloquially used to refer to a person who is overly cautious or fearful."
+                }
+            ],
+            "hops": [
+                "Duck"
+            ]
+        },
+        "Pigeon": {
+            "term": "Pigeon",
+            "passage": "Pigeon is a free and open-source peer-to-peer instant messaging application for Android and iOS, developed by a community of developers. Pigeon is decentralized, meaning that there is no company or organization behind it. The application is not affiliated with any mobile network operators. Pigeon is based on the open-source XMPP protocol, which was originally designed for chat applications. The application uses the OMEMO encryption standard for end-to-end encryption of messages. Pigeon is available for download on the Google Play Store and the Apple App Store.",
+            "qae_pairs": [
+                {
+                    "question": "Which operating system does Pigeon run on?",
+                    "answer": "Android",
+                    "explanation": "Pigeon is a free and open-source peer-to-peer instant messaging application for Android and iOS, developed by a community of developers."
+                },
+                {
+                    "question": "Which encryption standard is used in Pigeon?",
+                    "answer": "OMEMO",
+                    "explanation": "Pigeon uses the OMEMO encryption standard for end-to-end encryption of messages."
+                }
+            ],
+            "hops": [
+                "Pigeon"
+            ]
+        },
+        "Camel": {
+            "term": "Camel",
+            "passage": "Camel (company)\n\nCamel is a software company based in Cambridge, UK, that provides a platform for integrating and managing disparate enterprise software applications. The platform allows companies to connect and interact with their business applications in real-time. Camel was founded as a spin-off from the University of Cambridge Computer Laboratory in 2000 by Richard Jones, who remains the CEO of the company today. Camel's first product was a middleware solution called Camelot, which was released in 2002. Camelot was designed to connect disparate enterprise software applications, such as ERP and CRM systems, to provide a real-time view of the customer. Camel was acquired by Oracle Corporation in 2005 for $1.1 billion, and the Camelot product was renamed to Camel Collaboration and made part of Oracle's Fusion Middleware product suite. In 2010 Camel was acquired by IBM for $775 million, and the Camel product was released as an open-source project under the Apache 2.0 licence. In 2011 Camel was acquired for $170 million by a group of private investors, and the Camel product was released as open-source software under the Apache 2.0 license. The company was renamed to Apache Camel, and in 2013 it was ranked by RedMonk as the fifth most popular open-source project.",
+            "qae_pairs": [
+                {
+                    "question": "What year was the company Camel founded?",
+                    "answer": "2000",
+                    "explanation": "Camel was founded in 2000."
+                },
+                {
+                    "question": "Who founded Camel?",
+                    "answer": "Richard Jones",
+                    "explanation": "Richard Jones founded Camel in 2000 as a spin-off from the University of Cambridge Computer Laboratory."
+                },
+                {
+                    "question": "Where was Camel founded?",
+                    "answer": "UK",
+                    "explanation": "Camel was founded as a spin-off from the University of Cambridge Computer Laboratory in 2000 by Richard Jones, who remains the CEO of the company today."
+                },
+                {
+                    "question": "When did the company get acquired by IBM for $775 million?",
+                    "answer": "2010",
+                    "explanation": "Camel was acquired by IBM for $775 million in 2010."
+                },
+                {
+                    "question": "Which year was the company that was founded in 2000 and is based in Cambridge, UK, acquired by IBM?",
+                    "answer": "2013",
+                    "explanation": "In 2013, the company was acquired by IBM for $170 million."
+                }
+            ],
+            "hops": [
+                "Camel"
+            ]
+        },
+        "Sheep": {
+            "term": "Sheep",
+            "passage": "The following is a detailed passage about Sheep:\n\nA sheep (sheep) is an ungulate, a member of the family BOVIDAE, that includes cattle, goats, antelopes, deer, and camels. Sheep are ruminants with four stomachs, consisting of the rumen, reticulum, omasum and abomasum. The first three chambers are fermentation chambers, used in the digestion of cellulose, and the last chamber is a true stomach that secretes enzymes that help to further digest the cellulose. There are more than 200 species of sheep, and they vary greatly in size and shape, depending on the species. Sheep are generally smaller than cattle, and their wool is usually longer, and coarser. The most common domesticated sheep breeds are the Dorset, the Hampshire, and the Suffolk, and the Southdown. Sheep have been raised by humans for at least 10,000 years and are one of the first animals to be selectively bred. The Merino is a breed of sheep that was developed in Spain in the 18th century, and is known for its fine wool. The Finnsheep is a breed of sheep that was developed in the early 20th century in Finland, and was the first breed of sheep to be developed in North America. Sheep have been raised for their meat and for their milk.",
+            "qae_pairs": [
+                {
+                    "question": "Which country developed the Merino breed of sheep?",
+                    "answer": "Spain",
+                    "explanation": "The Merino breed of sheep was developed in Spain in the 18th century."
+                },
+                {
+                    "question": "Which country developed the first breed of sheep in North America?",
+                    "answer": "Finland",
+                    "explanation": "The Finnsheep is a breed of sheep that was developed in the early 20th century in Finland, and was the first breed of sheep to be developed in North America."
+                },
+                {
+                    "question": "Which continent is the sheep breed that was developed in the early 20th century in Finland raised on?",
+                    "answer": "North America",
+                    "explanation": "The Finnsheep is a breed of sheep that was developed in the early 20th century in Finland, and was the first breed of sheep to be developed in North America."
+                },
+                {
+                    "question": "Which breed of sheep was developed in Spain in the 18th century?",
+                    "answer": "Merino",
+                    "explanation": "The Merino is a breed of sheep that was developed in Spain in the 18th century."
+                },
+                {
+                    "question": "When was the Merino breed of sheep developed?",
+                    "answer": "the 18th century",
+                    "explanation": "The Merino breed of sheep was developed in Spain in the 18th century."
+                }
+            ],
+            "hops": [
+                "Sheep"
+            ]
+        },
+        "Elephant": {
+            "term": "Elephant",
+            "passage": "Elephant is an American rock band formed in Los Angeles in 1992. The band consists of singer-guitarist Jack Blades (of Night Ranger and Damn Yankees), bassist Tom Morris, and drummer Casey Lynch.",
+            "qae_pairs": [
+                {
+                    "question": "When was the band Elephant formed?",
+                    "answer": "1992",
+                    "explanation": "Elephant was formed in 1992."
+                },
+                {
+                    "question": "Question: What is the name of the drummer of Elephant?",
+                    "answer": "Casey Lynch",
+                    "explanation": "Casey Lynch is the drummer of Elephant."
+                },
+                {
+                    "question": "Where was Elephant formed?",
+                    "answer": "Los Angeles",
+                    "explanation": "Elephant is an American rock band formed in Los Angeles in 1992. The band consists of singer-guitarist Jack Blades (of Night Ranger and Damn Yankees), bassist Tom Morris, and drummer Casey Lynch."
+                },
+                {
+                    "question": "What is the first name of the person who plays bass in Elephant?",
+                    "answer": "Tom Morris",
+                    "explanation": "Elephant is an American rock band formed in Los Angeles in 1992. The band consists of singer-guitarist Jack Blades (of Night Ranger and Damn Yankees), bassist Tom Morris, and drummer Casey Lynch."
+                },
+                {
+                    "question": "What is the name of the person who is the singer of Elephant?",
+                    "answer": "Jack Blades",
+                    "explanation": "Elephant is an American rock band formed in Los Angeles in 1992. The band consists of singer-guitarist Jack Blades (of Night Ranger and Damn Yankees), bassist Tom Morris, and drummer Casey Lynch."
+                }
+            ],
+            "hops": [
+                "Elephant"
+            ]
+        }
+    },
+    "second_hops": {
+        "Europe": {
+            "term": "Europe",
+            "passage": "Europe (from Greek Εὐρώπη, Európē, \"the well-rounded\") is a continent that comprises the westernmost part of Eurasia. Europe is bordered by the Arctic Ocean to the north, the Atlantic Ocean to the west, and the Mediterranean Sea to the south. To the east and southeast, Europe is generally considered as separated from Asia by the watershed divides of the Ural and Caucasus Mountains, the Ural River, the Caspian and Black Seas and the waterways of the Persian Gulf and the Red Sea. Europe covers about 10,180,000 square kilometers (3,930,000 sq mi), or 2% of the earth's surface and contains about 50 sovereign states[b] and almost a quarter of the world's population.",
+            "qae_pairs": [
+                {
+                    "question": "What is the largest mountain range in Europe?",
+                    "answer": "Caucasus Mountains",
+                    "explanation": "The Caucasus Mountains are the largest mountain range in Europe."
+                },
+                {
+                    "question": "What continent is Europe located in?\n",
+                    "answer": "Eurasia",
+                    "explanation": "Europe is a continent that comprises the westernmost part of Eurasia."
+                },
+                {
+                    "question": "What is the name of the body of water that is located to the south of Europe?",
+                    "answer": "the Mediterranean Sea",
+                    "explanation": "the Mediterranean Sea"
+                },
+                {
+                    "question": "What is the largest ocean in Europe?",
+                    "answer": "the Atlantic Ocean",
+                    "explanation": "The largest ocean in Europe is the Atlantic Ocean."
+                }
+            ],
+            "hops": [
+                "Cow",
+                "Europe"
+            ]
+        },
+        "Africa": {
+            "term": "Africa",
+            "passage": "The total area of the continent of Africa is about 10,180,000 square kilometres (3,930,000 sq mi), or about 30% of the Earth's total land area and 10% of the Earth's total surface area.",
+            "qae_pairs": [
+                {
+                    "question": "How many square kilometres is Africa, compared to the rest of Earth?\n",
+                    "answer": "Earth",
+                    "explanation": "Africa is about 30% of the Earth's total land area and 10% of the Earth's total surface area."
+                }
+            ],
+            "hops": [
+                "Cow",
+                "Africa"
+            ]
+        },
+        "Bovidae": {
+            "term": "Bovidae",
+            "passage": "The bovids are a subfamily of the even-toed ungulates within the family Bovidae. The Bovinae subfamily is further divided into tribes, and these in turn into subtribes. The tribes of Bovinae are the true bovids.",
+            "qae_pairs": [
+                {
+                    "question": "What is the subfamily of the even-toed ungulates within the family Bovidae?",
+                    "answer": "Bovinae",
+                    "explanation": "The Bovinae subfamily is further divided into tribes, and these in turn into subtribes. The tribes of Bovinae are the true bovids."
+                }
+            ],
+            "hops": [
+                "Cow",
+                "Bovidae"
+            ]
+        },
+        "the Near East": {
+            "term": "the Near East",
+            "passage": "The Near East, also known as Near East and Middle East, is a geographical term referring to the eastern part of the Mediterranean Basin, Asia Minor, and sometimes Central Asia and the Caucasus.",
+            "qae_pairs": [
+                {
+                    "question": "What is the Near East?\n",
+                    "answer": "Central Asia",
+                    "explanation": "The Near East is a geographical term referring to the eastern part of the Mediterranean Basin, Asia Minor, and sometimes Central Asia and the Caucasus."
+                }
+            ],
+            "hops": [
+                "Horse",
+                "the Near East"
+            ]
+        },
+        "Android": {
+            "term": "Android",
+            "passage": "The first version of the Android mobile operating system was released in September, 2008 as \"Android\" 1.0. The latest stable release, Android 9, was released in 2022 and was succeeded by Android 10, released in 2023. Android is developed by the Open Handset Alliance and is the most widely used mobile operating system in the world, with over two billion active users in 2019.",
+            "qae_pairs": [
+                {
+                    "question": "What year was the first version of the Android mobile operating system released?",
+                    "answer": "2022",
+                    "explanation": "The first version of the Android mobile operating system was released in September, 2008 as Android 1.0. The latest stable release, Android 9, was released in 2022 and was succeeded by Android 10, released in 2023."
+                },
+                {
+                    "question": "What is the first version of the Android mobile operating system?",
+                    "answer": "September, 2008",
+                    "explanation": "The first version of the Android mobile operating system was released in September, 2008 as Android 1.0."
+                }
+            ],
+            "hops": [
+                "Pigeon",
+                "Android"
+            ]
+        },
+        "OMEMO": {
+            "term": "OMEMO",
+            "passage": "OMEMO (\"OMEMO\") is an open standard for encrypted instant messaging, audio, video, and file sharing, developed by the Open Mobile Alliance (OMA). It is based on the Open Mobile Alliance – Multimedia Messaging Service (OMA-MMS) and provides end-to-end encryption, authentication and integrity for all message exchanges to and from mobile devices.",
+            "qae_pairs": [
+                {
+                    "question": "What is OMEMO?",
+                    "answer": "the Open Mobile Alliance – Multimedia Messaging Service",
+                    "explanation": "OMEMO is an open standard for encrypted instant messaging, audio, video, and file sharing, developed by the Open Mobile Alliance (OMA). It is based on the Open Mobile Alliance – Multimedia Messaging Service (OMA-MMS) and provides end-to-end encryption, authentication and integrity for all message exchanges to and from mobile devices."
+                }
+            ],
+            "hops": [
+                "Pigeon",
+                "OMEMO"
+            ]
+        },
+        "Richard Jones": {
+            "term": "Richard Jones",
+            "passage": "Richard Jones (born 20 March 1983) is a British actor. He played the lead role of Danny Waldron on the British teen drama Skins (2007–11). Jones has also appeared in the films Closed for Winter (2006) and The Iron Lady (2011). He has also starred in the television series Hunderby (2015) and Black Mirror (2016).",
+            "qae_pairs": [
+                {
+                    "question": "What year was the film in which Richard Jones played the lead role released?",
+                    "answer": "2011",
+                    "explanation": "Richard Jones played the lead role of Danny Waldron on the British teen drama Skins (2007–11). He has also appeared in the films Closed for Winter (2006) and The Iron Lady (2011)."
+                },
+                {
+                    "question": "What is the date of birth of Richard Jones?",
+                    "answer": "20 March 1983",
+                    "explanation": "Richard Jones was born on 20 March 1983."
+                },
+                {
+                    "question": "What is the name of the show that Richard Jones starred in?",
+                    "answer": "Skins",
+                    "explanation": "Richard Jones played the lead role of Danny Waldron on the British teen drama Skins (2007–11)."
+                },
+                {
+                    "question": "What is Richard Jones' character's name in Skins?",
+                    "answer": "Danny Waldron",
+                    "explanation": "Richard Jones played the lead role of Danny Waldron on the British teen drama Skins (2007–11)."
+                }
+            ],
+            "hops": [
+                "Camel",
+                "Richard Jones"
+            ]
+        },
+        "UK": {
+            "term": "UK",
+            "passage": "The United Kingdom (UK) (English: /ˈʃʌndi/ (listen)), also known as the United Kingdom and Britain, is a country that is part of the European Union. It consists of England, Scotland, Wales and Northern Ireland.",
+            "qae_pairs": [
+                {
+                    "question": "What is the UK known as?\n",
+                    "answer": "The United Kingdom",
+                    "explanation": "The United Kingdom is a country that is part of the European Union. It consists of England, Scotland, Wales and Northern Ireland."
+                },
+                {
+                    "question": "Which of the following is true about the UK?",
+                    "answer": "England",
+                    "explanation": "England is part of the UK."
+                },
+                {
+                    "question": "Which of the following is not a part of the UK?",
+                    "answer": "Scotland",
+                    "explanation": "The UK is a country that consists of England, Scotland, Wales and Northern Ireland."
+                }
+            ],
+            "hops": [
+                "Camel",
+                "UK"
+            ]
+        },
+        "Spain": {
+            "term": "Spain",
+            "passage": "Spain (Spanish: España [ˈespaɲa]), officially the Kingdom of Spain, is a country largely located in Europe, with several overseas territories in the Americas and the Pacific. It is bordered on the Iberian Peninsula by Portugal and Andorra, and on the Mediterranean Sea by Gibraltar, a British territory. It also includes two archipelagoes in the Atlantic, the Canary Islands and the Balearic Islands, as well as several small islands in the Mediterranean, the largest of which is the Balearic Islands. Spain's mainland is largely mountainous and is home to many rivers, including the longest in Europe, the Duero. The largest urban areas include Madrid, Barcelona, Valencia, Seville and Bilbao. Spain is the world's 12th-largest economy by nominal GDP and the fifth-largest by purchasing power parity (PPP). The country is a great power and a permanent member of the United Nations Security Council and the G20, and holds the rotating Presidency of the European Union.",
+            "qae_pairs": [
+                {
+                    "question": "Which city in Spain is not a sheep?",
+                    "answer": "Bilbao",
+                    "explanation": "Bilbao is the largest city in Spain, and is not a sheep."
+                },
+                {
+                    "question": "How many years has Spain been a part of the European Union?\n",
+                    "answer": "the European Union",
+                    "explanation": "Spain has been a part of the European Union since 1986."
+                },
+                {
+                    "question": "What is the largest island in the Mediterranean that is part of Spain?\n",
+                    "answer": "the Balearic Islands",
+                    "explanation": "The largest island in the Mediterranean that is part of Spain is the Balearic Islands."
+                },
+                {
+                    "question": "What is Spain located on?",
+                    "answer": "the Mediterranean Sea",
+                    "explanation": "Spain is located on the Mediterranean Sea."
+                },
+                {
+                    "question": "What is the capital of Spain?",
+                    "answer": "Madrid",
+                    "explanation": "The capital of Spain is Madrid."
+                }
+            ],
+            "hops": [
+                "Sheep",
+                "Spain"
+            ]
+        },
+        "Finland": {
+            "term": "Finland",
+            "passage": "Finland (Swedish:, Finnish: ) is a sovereign state in Northern Europe. A peninsula bordered by the Gulf of Finland and the Gulf of Bothnia at the west, the Gulf of Norway and the Barents Sea at the north, the Baltic Sea at the east and the Gulf of Altai at the south, it has land borders with Sweden to the west and Russia to the east and north.",
+            "qae_pairs": [
+                {
+                    "question": "What is Finland located in?",
+                    "answer": "Northern Europe",
+                    "explanation": "Finland is a sovereign state in Northern Europe."
+                }
+            ],
+            "hops": [
+                "Sheep",
+                "Finland"
+            ]
+        },
+        "North America": {
+            "term": "North America",
+            "passage": "North America (Spanish: América del Norte, literally meaning \"America of the North\"), also commonly known as the Americas, is a continent entirely within the Northern Hemisphere and almost all within the Western Hemisphere. It can also be considered a bioregion of the Eastern Hemisphere. It is often considered to extend from the United States–Canada border in the north to the Mexico–United States border in the south, and from the U.S.–Mexico border in the southwest to the Arctic Ocean in the north, and from the U.S.–Canada border in the northeast to the U.S.–Antarctic Ocean border in the southeast. The continent is surrounded by the Pacific Ocean to the east, the Atlantic Ocean to the west and the Arctic Ocean to the north. It is sometimes considered as the third largest continent by area, after Asia and Africa, and the fourth by population after Asia, Africa, and Europe. The continent of North America is widely regarded as the third-largest on Earth by land area, following Asia and Africa, and the first by population, being home to more than five times as many people as the continent of Asia.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the body of water that surrounds the continent of North America?",
+                    "answer": "the Pacific Ocean",
+                    "explanation": "The continent of North America is surrounded by the Pacific Ocean to the east, the Atlantic Ocean to the west and the Arctic Ocean to the north."
+                },
+                {
+                    "question": "What is the name of the country that is the largest in North America?",
+                    "answer": "U.S.–Mexico",
+                    "explanation": "North America is a continent entirely within the Northern Hemisphere and almost all within the Western Hemisphere."
+                },
+                {
+                    "question": "Is the term 'North America' in this context referring to the country of Mexico?\n",
+                    "answer": "América del Norte",
+                    "explanation": "No"
+                },
+                {
+                    "question": "Which country is located in North America?",
+                    "answer": "U.S.–Canada",
+                    "explanation": "The U.S. and Canada are both countries in North America."
+                }
+            ],
+            "hops": [
+                "Sheep",
+                "North America"
+            ]
+        },
+        "Casey Lynch": {
+            "term": "Casey Lynch",
+            "passage": "Casey Lynch (born January 19, 1988) is an American professional skateboarder. He has won numerous skateboard competitions, including the X Games, the Skateboarder Magazine contest, the Street League Skateboarding competition, and the TransWorld SKATEboarding contest.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the contest that Casey Lynch won in 2011?",
+                    "answer": "TransWorld SKATEboarding",
+                    "explanation": "Casey Lynch won the TransWorld SKATEboarding contest in 2011."
+                },
+                {
+                    "question": "What is the date that Casey Lynch was born?\n",
+                    "answer": "January 19, 1988",
+                    "explanation": "Casey Lynch was born on January 19, 1988."
+                },
+                {
+                    "question": "What is the name of the contest that Casey Lynch won?",
+                    "answer": "Skateboarder Magazine",
+                    "explanation": "Casey Lynch is an American professional skateboarder. He has won numerous skateboard competitions, including the X Games, the Skateboarder Magazine contest, the Street League Skateboarding competition, and the TransWorld SKATEboarding contest."
+                },
+                {
+                    "question": "One question for which the answer is 'the Street League' could be: Casey Lynch, born on which date, is an American professional skateboarder who has won numerous skateboard competitions, including the X Games, the Skateboarder Magazine contest, and the TransWorld SKATEboarding contest?\n",
+                    "answer": "the Street League",
+                    "explanation": "Casey Lynch is an American professional skateboarder who has won numerous skateboard competitions, including the X Games, the Skateboarder Magazine contest, the Street League Skateboarding competition, and the TransWorld SKATEboarding contest."
+                }
+            ],
+            "hops": [
+                "Elephant",
+                "Casey Lynch"
+            ]
+        },
+        "Tom Morris": {
+            "term": "Tom Morris",
+            "passage": "Thomas Morris (17 August 1821 – 20 January 1904) was an English cricketer who played in first-class cricket matches for Cambridge University and various amateur sides in the 1830s and early 1840s. He was born in London and died in Cambridge.",
+            "qae_pairs": [
+                {
+                    "question": "Tom Morris was born on 20 January 1904. He played in the first-class cricket matches for Cambridge University in the 1830s.\n",
+                    "answer": "20 January 1904",
+                    "explanation": "Tom Morris was born on 20 January 1904. He played in the first-class cricket matches for Cambridge University in the 1830s."
+                },
+                {
+                    "question": "What is the birth date of Tom Morris?",
+                    "answer": "17 August 1821",
+                    "explanation": "Tom Morris was born on 17 August 1821."
+                },
+                {
+                    "question": "What is the name of the team that Tom Morris played for?",
+                    "answer": "Cambridge University",
+                    "explanation": "Tom Morris played for Cambridge University and various amateur sides in the 1830s and early 1840s."
+                },
+                {
+                    "question": "What is a Tom Morris question?\n",
+                    "answer": "Thomas Morris",
+                    "explanation": "Thomas Morris was born in London and died in Cambridge."
+                },
+                {
+                    "question": "What is the location of Tom Morris?",
+                    "answer": "London",
+                    "explanation": "Tom Morris was born in London."
+                }
+            ],
+            "hops": [
+                "Elephant",
+                "Tom Morris"
+            ]
+        },
+        "Jack Blades": {
+            "term": "Jack Blades",
+            "passage": "Jack Blades (born John Wesley DuVall; March 31, 1949) is an American rock and roll singer, songwriter, and musician. He is best known as the lead singer for the rock band Styx, which he co-founded in 1972.",
+            "qae_pairs": [
+                {
+                    "question": "How many years old is Jack Blades?\n",
+                    "answer": "March 31, 1949",
+                    "explanation": "Jack Blades was born on March 31, 1949."
+                },
+                {
+                    "question": "What is the full name of Jack Blades?",
+                    "answer": "John Wesley DuVall",
+                    "explanation": "John Wesley DuVall was born on March 31, 1949."
+                },
+                {
+                    "question": "What is the name of the band that Jack Blades is a member of?",
+                    "answer": "Styx",
+                    "explanation": "Jack Blades is a member of the rock band Styx."
+                }
+            ],
+            "hops": [
+                "Elephant",
+                "Jack Blades"
+            ]
+        }
+    }
+}

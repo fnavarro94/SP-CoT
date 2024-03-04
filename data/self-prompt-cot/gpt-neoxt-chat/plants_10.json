@@ -1,0 +1,566 @@
+{
+    "first_hops": {
+        "Allium": {
+            "term": "Allium",
+            "passage": "Allium is a genus of about 600 species of bulbous plants, including onions, garlic, and shallots. Alliums are native to temperate regions of the Northern Hemisphere, but many have been introduced to other parts of the world, and many species are grown as ornamental plants. They are also grown for their edible bulbous underground storage organs, which are sometimes called \"onions\" in the culinary tradition. The most widely known species is the common onion, which is a domesticated variety of the related wild species Allium cepa. The genus name \"Allium\" comes from the Ancient Greek word for garlic, <ελ-λεις>. The name \"Allium\" was first used by Carl von Linné to cover the genus, and was later extended by Joseph Gaertner to include the closely related genus \"Nepeta\". The common name \"onion\" for Allium cepa is thought to have originated as a diminutive of the Latin word <unio> (\"union\"), which was a common name for the bulb.",
+            "qae_pairs": [
+                {
+                    "question": "Who first used the name \"Allium\"?",
+                    "answer": "Joseph Gaertner",
+                    "explanation": "Joseph Gaertner"
+                },
+                {
+                    "question": "Where are Alliums native to?",
+                    "answer": "the Northern Hemisphere",
+                    "explanation": "Alliums are native to temperate regions of the Northern Hemisphere."
+                },
+                {
+                    "question": "Who is the person who first used the name \"Allium\"?",
+                    "answer": "Carl von Linné",
+                    "explanation": "Carl von Linné first used the name Allium to cover the genus, and was later extended by Joseph Gaertner to include the closely related genus Nepeta."
+                }
+            ],
+            "hops": [
+                "Allium"
+            ]
+        },
+        "Aloe": {
+            "term": "Aloe",
+            "passage": "Aloe is a genus of succulent flowering plants in the family Liliaceae, native to the arid areas of Africa, Arabia and Asia. The genus is represented by more than 300 species, many of which are popular ornamental house plants. The genus has been divided into three subgenera: Aloe, Haworthia and Woodfordia. Aloe species are often used in traditional medicine, and many species have potential as a source of biofuel. Aloes vary in size from diminutive, creeping plants to large, erect species. They have fleshy leaves with sharp-pointed edges, arranged in rosettes or dense clusters. They are often covered with a white powder, composed of silica, that gives them their characteristic feel and appearance. The leaves contain a viscous gel that is yellow to orange in color. The gel is made up mostly of water-soluble aliphatic compounds known as aloins, of which the most common are aloin A and B. Other substances found in the gel include anthranoids, such as ascorbigen, and various unidentified flavonoid compounds. The species of Aloe vary considerably in appearance, with many exhibiting considerable variation in leaf size, shape and color. The leaves are usually thick and fleshy, and range in size from a few millimetres to over a metre.",
+            "qae_pairs": [
+                {
+                    "question": "Which continent is Aloe native to?",
+                    "answer": "Asia",
+                    "explanation": "Aloe is a genus of succulent flowering plants in the family Liliaceae, native to the arid areas of Africa, Arabia and Asia."
+                },
+                {
+                    "question": "Where are the Aloe species native to?",
+                    "answer": "Africa",
+                    "explanation": "Aloe is a genus of succulent flowering plants in the family Liliaceae, native to the arid areas of Africa, Arabia and Asia."
+                }
+            ],
+            "hops": [
+                "Aloe"
+            ]
+        },
+        "Anemone": {
+            "term": "Anemone",
+            "passage": "Anemones are carnivorous plants that grow in the northern hemisphere and southern hemisphere. They have been used as food by humans for centuries. The name anemone comes from the Greek word anemos, meaning \\\"wind\\\", which is a reference to their wind-pollinated flowers. Anemones are also known as wind flowers.",
+            "qae_pairs": [
+                {
+                    "question": "How long have humans been using Anemones as food?",
+                    "answer": "centuries",
+                    "explanation": "Anemones have been used as food by humans for centuries."
+                }
+            ],
+            "hops": [
+                "Anemone"
+            ]
+        },
+        "Aster": {
+            "term": "Aster",
+            "passage": "Aster is a genus of flowering plants in the sunflower family, native to the Mediterranean and adjacent parts of Asia and the Canary Islands. They are annual or perennial herbs with branching stems growing to 30 cm (1 ft) tall.",
+            "qae_pairs": [
+                {
+                    "question": "Which continent is Aster native to?",
+                    "answer": "Asia",
+                    "explanation": "Aster is a genus of flowering plants in the sunflower family, native to the Mediterranean and adjacent parts of Asia and the Canary Islands."
+                },
+                {
+                    "question": "One question is 'Where is Aster native to?'",
+                    "answer": "the Canary Islands",
+                    "explanation": "Aster is a genus of flowering plants in the sunflower family, native to the Mediterranean and adjacent parts of Asia and the Canary Islands."
+                },
+                {
+                    "question": "What is the name of the place where Aster is found?",
+                    "answer": "Mediterranean",
+                    "explanation": "Aster is a genus of flowering plants in the sunflower family, native to the Mediterranean and adjacent parts of Asia and the Canary Islands."
+                }
+            ],
+            "hops": [
+                "Aster"
+            ]
+        },
+        "Azalea": {
+            "term": "Azalea",
+            "passage": "Azalea is a genus in the flowering plant family Rhododendron, commonly called azaleas. It is a group of some 200 species of deciduous and evergreen shrubs and small trees native to the temperate regions of the Northern Hemisphere.",
+            "qae_pairs": [
+                {
+                    "question": "In what family are azaleas?",
+                    "answer": "Rhododendron",
+                    "explanation": "Azaleas are a genus in the flowering plant family Rhododendron."
+                },
+                {
+                    "question": "In which hemisphere are the Azalea plants native?",
+                    "answer": "the Northern Hemisphere",
+                    "explanation": "Azalea plants are native to the Northern Hemisphere."
+                }
+            ],
+            "hops": [
+                "Azalea"
+            ]
+        },
+        "Caladium": {
+            "term": "Caladium",
+            "passage": "Caladium is a genus of flowering plants in the family Araceae. It is a monotypic genus, with only one species, Caladium bicolor, which is commonly referred to as the heartleaf elephant ear or just elephant ear. Caladium bicolor is a tropical perennial that is native to Central America, the Caribbean, and South America. It is also known as \"elephant's ear\" and \"cane-like plant\". This species has become a common ornamental plant throughout much of the tropics, and it is also grown as a houseplant.",
+            "qae_pairs": [
+                {
+                    "question": "What is the location of the species Caladium bicolor?",
+                    "answer": "Caribbean",
+                    "explanation": "Caladium bicolor is a tropical perennial that is native to Central America, the Caribbean, and South America. It is also known as elephant's ear and cane-like plant. This species has become a common ornamental plant throughout much of the tropics, and it is also grown as a houseplant."
+                },
+                {
+                    "question": "Where is Caladium bicolor native?",
+                    "answer": "Central America",
+                    "explanation": "Caladium bicolor is a tropical perennial that is native to Central America, the Caribbean, and South America."
+                },
+                {
+                    "question": "Where is Caladium bicolor native to?",
+                    "answer": "South America",
+                    "explanation": "Caladium bicolor is a tropical perennial that is native to Central America, the Caribbean, and South America."
+                }
+            ],
+            "hops": [
+                "Caladium"
+            ]
+        },
+        "Calla Lily": {
+            "term": "Calla Lily",
+            "passage": "Calla lily is a common name for a number of monocotyledonous flowering plants, commonly known as \"calla\" or \"callus\" lilies, that are valued for their showy flowers and are widely cultivated as ornamental plants in many regions of the world. The term \"calla\" lily is also used to refer to a group of plants that are commonly called \"calla\" or \"callus\" lilies. These are members of the Araceae family, native to the tropical Americas, and they are not true lilies (genus Lilium, family Liliaceae). True lilies are herbaceous plants with long, linear leaves and a single large, erect, trumpet-shaped flower that is often fragrant. Calla lilies, on the other hand, are tropical, sub-shrubby plants that bear flowers in dense, terminal spikes, with a single large, broad, trumpet-shaped flower that has a thick rind and a prominent \"callus\" (a thickened, fleshy, central portion of the flower). They are sometimes grown as houseplants. The term is sometimes also used to refer to other plants with similar characteristics, such as the genus Zantedeschia (Araceae), the genus Hemerocallis (Xanthorrhoeaceae), and the genus Alocasia (Araceae).",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the plant that is not a lily?",
+                    "answer": "Araceae",
+                    "explanation": "Araceae"
+                },
+                {
+                    "question": "What is the name of the plant that has a single large, broad, trumpet-shaped flower with a thick rind and a prominent \"callus\"?",
+                    "answer": "Calla",
+                    "explanation": "Calla lilies are tropical, sub-shrubby plants that bear flowers in dense, terminal spikes, with a single large, broad, trumpet-shaped flower that has a thick rind and a prominent callus."
+                },
+                {
+                    "question": "What is a genus of plants that are commonly called \"calla\" or \"callus\" lilies?",
+                    "answer": "Hemerocallis",
+                    "explanation": "Hemerocallis is a genus of plants that are commonly called calla or callus lilies."
+                }
+            ],
+            "hops": [
+                "Calla Lily"
+            ]
+        },
+        "Cyclamen": {
+            "term": "Cyclamen",
+            "passage": "Cyclamen are herbaceous perennial plants belonging to the family Primulaceae. They are native to the Mediterranean region and adjacent areas of Asia and Africa, but have been naturalized in other areas of the world, including North America. The genus name, Cyclamen, is derived from the Greek kuklos (meaning circle) and mene (meaning to depart), referring to the flowers that depart from the stem in a circle, while the specific epithet, hedera, is derived from the Greek hedera (meaning ivy), referring to the leaves, which are shaped like the leaves of ivy. Cyclamen species are herbaceous perennials with tuberous roots. The leaves are basal, long, narrow, and fleshy, with parallel veins and parallel-sided teeth along the margins. The flowers grow in a circle around the stem. They are bell-shaped and white to pink in colour, and have a sweet fragrance. The sepals and petals are joined together at the base to form a tube. The tube narrows into the upper part of the flower, where the petals are joined into a hood or \"galea\", and the lower part is the \"carpophore\", which bears the stigma. The galea and carpophore are fused into a cup- or saucer-shaped structure. The fruit is a capsule. The flowers are hermaphrodite and pollinated by insects, especially bees.",
+            "qae_pairs": [
+                {
+                    "question": "Where are Cyclamen species native to?",
+                    "answer": "Mediterranean",
+                    "explanation": "Cyclamen species are native to the Mediterranean region and adjacent areas of Asia and Africa."
+                },
+                {
+                    "question": "Where are Cyclamen species native?",
+                    "answer": "Africa",
+                    "explanation": "Cyclamen species are native to the Mediterranean region and adjacent areas of Asia and Africa."
+                }
+            ],
+            "hops": [
+                "Cyclamen"
+            ]
+        },
+        "Daffodil": {
+            "term": "Daffodil",
+            "passage": "Daffodil (botanical name Narcissus pseudonarcissus) is a genus of about 200 species of bulbous perennials. The genus name is derived from the Greek \"narkissos\", narcissus, a narcissus bulb, and \"pseudo\", false, a reference to the fact that the bulbs are not true narcissus. The name was first used by Carl Linnaeus, who classified it in the family Amaryllidaceae, but the modern classification system of the angiosperms places it in the monocot order Liliales, the family Amaryllidaceae, and the tribe Narcissus. Daffodils are the most widely cultivated of all the members of the Amaryllidaceae. They are native to Europe and western Asia, with the greatest diversity in the Mediterranean area, but they have been naturalised in other regions of the world. The flowers vary in colour from white to yellow, orange, pink, red, purple, blue and even black. Daffodil foliage is usually green, sometimes with white or silver markings. The leaves are usually long, narrow and strap-shaped, but some are broader and heart-shaped, and others are lance-shaped. Daffodils are herbaceous perennial plants. They are usually grown from bulbs, which can be forced to grow in the autumn, and bloom in spring.",
+            "qae_pairs": [
+                {
+                    "question": "In what season do daffodils bloom?",
+                    "answer": "spring",
+                    "explanation": "Daffodils bloom in spring."
+                },
+                {
+                    "question": "Question: What is the genus name of the plant that is commonly known as the daffodil?",
+                    "answer": "Narcissus",
+                    "explanation": "Narcissus is a genus of about 200 species of bulbous perennials."
+                },
+                {
+                    "question": "who classified it in the family Amaryllidaceae, but the modern classification system of the angiosperms places it in the monocot order Liliales, the family Amaryllidaceae, and the tribe Narcissus.",
+                    "answer": "Carl Linnaeus",
+                    "explanation": "Daffodil is a genus of about 200 species of bulbous perennials. The genus name is derived from the Greek narkissos, narcissus, a narcissus bulb, and pseudo, false, a reference to the fact that the bulbs are not true narcissus. The name was first used by Carl Linnaeus, who classified it in the family Amaryllidaceae, but the modern classification system of the angiosperms places it in the monocot order Liliales, the family Amaryllidaceae, and the tribe Narcissus. Daffodils are the most"
+                },
+                {
+                    "question": "Where are the daffodils from?",
+                    "answer": "Europe",
+                    "explanation": "Daffodils are native to Europe and western Asia, with the greatest diversity in the Mediterranean area, but they have been naturalised in other regions of the world."
+                },
+                {
+                    "question": "Where are the Narcissus pseudonarcissus species native?",
+                    "answer": "Asia",
+                    "explanation": "Daffodils are native to Europe and western Asia, with the greatest diversity in the Mediterranean area, but they have been naturalised in other regions of the world."
+                }
+            ],
+            "hops": [
+                "Daffodil"
+            ]
+        },
+        "Fern": {
+            "term": "Fern",
+            "passage": "Fern (botany) is a genus of ferns in the family Polypodiaceae. It is the largest genus in the subfamily Grammitidoideae and the second largest fern genus overall, after Pteridaceae. The genus is commonly known as bracken, brake, brake fern, brackenfern, or bracken.",
+            "qae_pairs": [
+                {
+                    "question": "What is the scientific name of the genus of the plant that is commonly known as bracken?",
+                    "answer": "Polypodiaceae",
+                    "explanation": "Polypodiaceae is the scientific name of the genus of the plant that is commonly known as bracken."
+                }
+            ],
+            "hops": [
+                "Fern"
+            ]
+        }
+    },
+    "second_hops": {
+        "Joseph Gaertner": {
+            "term": "Joseph Gaertner",
+            "passage": "Joseph Gaertner (1877–1927) was a German-American artist and art educator. He was born in Germany and immigrated to the United States in 1902. He was a professor of art at the University of Iowa from 1908 to 1927.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the institution that Joseph Gaertner was a professor of art at?",
+                    "answer": "the University of Iowa",
+                    "explanation": "Joseph Gaertner was a professor of art at the University of Iowa from 1908 to 1927."
+                },
+                {
+                    "question": "What is the nationality of Joseph Gaertner?",
+                    "answer": "Germany",
+                    "explanation": "Joseph Gaertner was born in Germany and immigrated to the United States in 1902."
+                },
+                {
+                    "question": "Which year did Joseph Gaertner die?",
+                    "answer": "1927",
+                    "explanation": "Joseph Gaertner was born in Germany and immigrated to the United States in 1902. He was a professor of art at the University of Iowa from 1908 to 1927. He died in 1927."
+                },
+                {
+                    "question": "How many years after Joseph Gaertner immigrated to the United States did he become a professor of art at the University of Iowa?",
+                    "answer": "1902",
+                    "explanation": "Joseph Gaertner immigrated to the United States in 1902. He was a professor of art at the University of Iowa from 1908 to 1927."
+                }
+            ],
+            "hops": [
+                "Allium",
+                "Joseph Gaertner"
+            ]
+        },
+        "the Northern Hemisphere": {
+            "term": "the Northern Hemisphere",
+            "passage": "The Northern Hemisphere is the half of the Earth that is north of the equator. It is the half of the Earth that rotates around the Earth's axis of rotation, which is tilted 23.5 degrees from the plane of the planet's orbit around the Sun. The Northern Hemisphere is the half of the Earth that receives the Sun's direct rays during the day.",
+            "qae_pairs": [
+                {
+                    "question": "How many hours is the day on the Northern Hemisphere?\n",
+                    "answer": "the day",
+                    "explanation": "The Northern Hemisphere receives the Sun's direct rays for 24 hours a day."
+                },
+                {
+                    "question": "Which of the following is true of the Northern Hemisphere?",
+                    "answer": "Sun",
+                    "explanation": "The Northern Hemisphere is the half of the Earth that receives the Sun's direct rays during the day."
+                }
+            ],
+            "hops": [
+                "Allium",
+                "the Northern Hemisphere"
+            ]
+        },
+        "Carl von Linné": {
+            "term": "Carl von Linné",
+            "passage": "Carl von Linné (1707–1778) was a Swedish botanist and physician born on the island of Lidingö in Stockholm. His birth name was Carl von Linné. He is best known for his work in the fields of plant biology, phytogeography and taxonomy. His binomial nomenclature system for plants, still in use today, is the cornerstone of plant taxonomy and is known as Linnæan system.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the system that Carl von Linné developed?",
+                    "answer": "Linnæan",
+                    "explanation": "Carl von Linné developed the binomial nomenclature system for plants, still in use today, which is known as Linnæan system."
+                },
+                {
+                    "question": "What is the name of the island where Carl von Linné was born?",
+                    "answer": "Lidingö",
+                    "explanation": "Carl von Linné was born on the island of Lidingö in Stockholm."
+                }
+            ],
+            "hops": [
+                "Allium",
+                "Carl von Linné"
+            ]
+        },
+        "Africa": {
+            "term": "Africa",
+            "passage": "The continent of Africa, also known as Africah, is the second-largest and second-most-populous continent, covering 6% of the Earth's total surface area and 20% of its total land area. At about 30.3 million km2 (11.7 million square miles) including adjacent islands (such as Madagascar and the Cape Verde archipelago), it covers 6% of Earth's total surface area and 20.4% of its total land area. The continent is surrounded by the Mediterranean Sea to the north, the Red Sea to the northeast, the Indian Ocean to the south, and the Atlantic Ocean to the west.",
+            "qae_pairs": [
+                {
+                    "question": "What is the largest island in Africa?",
+                    "answer": "Madagascar",
+                    "explanation": "Madagascar is the largest island in Africa."
+                },
+                {
+                    "question": "What is the largest ocean on the continent of Africa?",
+                    "answer": "the Indian Ocean",
+                    "explanation": "The largest ocean on the continent of Africa is the Indian Ocean."
+                }
+            ],
+            "hops": [
+                "Cyclamen",
+                "Africa"
+            ]
+        },
+        "Asia": {
+            "term": "Asia",
+            "passage": "Asia covers an area of, which is about 4.4% of the Earth's total land area, and with approximately 20% of the world population, it is the most populated continent. It is also the third-largest continent after Africa and North America. The continent of Asia is situated primarily between the Pacific and the Indian oceans, and the eastern coastline of the Asian mainland (China) is washed by the East China and South China seas. It contains many subcontinental landmasses, such as the mainland, the islands and the continent itself. Asia has been home to the world's first modern civilizations and the majority of its current urbanization and economic activity occurs in East Asia. The bulk of Asia is dominated by Asia's two largest economies: China and India.",
+            "qae_pairs": [
+                {
+                    "question": "How many countries are in Asia?",
+                    "answer": "India",
+                    "explanation": "There are many countries in Asia, including India."
+                },
+                {
+                    "question": "Which continent is larger than Asia?",
+                    "answer": "Africa",
+                    "explanation": "Asia is larger than Africa."
+                },
+                {
+                    "question": "Which of the following is true about Asia?",
+                    "answer": "North America",
+                    "explanation": "Asia is the third-largest continent after Africa and North America"
+                },
+                {
+                    "question": "Which of the following is true of the continent of Asia?",
+                    "answer": "Pacific",
+                    "explanation": "The continent of Asia is situated primarily between the Pacific and the Indian oceans."
+                }
+            ],
+            "hops": [
+                "Daffodil",
+                "Asia"
+            ]
+        },
+        "the Canary Islands": {
+            "term": "the Canary Islands",
+            "passage": "The Canary Islands (/ˈkænjəriː/), also called the Canaries (Spanish: islas de las canarias), are an island group in the Atlantic Ocean off the northwest coast of Africa, belonging to Spain. The Canary Islands consist of seven major islands, called the seven sisters (Spanish: siete sierras), and several smaller ones. The seven major islands are Tenerife (the largest, also known by its former name Gran Canaria), La Gomera, El Hierro, La Palma, Gran Canaria, Lanzarote, and Fuerteventura. The archipelago also includes a number of smaller islands, including Roque del Oeste (the most westerly point of Spain), as well as numerous islets and rocks. The total land area of the Canary Islands is 2,038 km2 (780 sq mi), and the total maritime area is 783 km2 (307 sq mi). The islands are volcanic in origin. The climate is subtropical, with mild winters and hot summers, moderated by the Canary Current. The population of the islands in 2010 was 2,072,000, with an average of just under 1.5 million people per year in recent decades. The capital and largest city is Las Palmas de Gran Canaria, on the island of Gran Canaria.",
+            "qae_pairs": [
+                {
+                    "question": "What is the largest island in the Canary Islands?",
+                    "answer": "Tenerife",
+                    "explanation": "The largest island in the Canary Islands is Tenerife."
+                },
+                {
+                    "question": "What is the name of the current that flows from the Canary Islands?",
+                    "answer": "the Canary Current",
+                    "explanation": "The Canary Current is a current of the Atlantic Ocean that flows from the Canary Islands."
+                },
+                {
+                    "question": "What is the capital of the island group that is also known as the Canary Islands?",
+                    "answer": "Las Palmas de",
+                    "explanation": "The capital and largest city is Las Palmas de Gran Canaria, on the island of Gran Canaria."
+                }
+            ],
+            "hops": [
+                "Aster",
+                "the Canary Islands"
+            ]
+        },
+        "Mediterranean": {
+            "term": "Mediterranean",
+            "passage": "The Mediterranean Sea ( /ˌmɛdʒiˈlænniə/ or /-ˈlæn-/, US: /-lən-/; Greek: Μεσσήνη Me̱ssíne, Italian: Mediterraneo, French: Mer Méditerranéenne, Spanish: Mare Mediterráneo) is a sea connecting the Atlantic Ocean and the Indian Ocean, mostly located between Southern Europe and Africa (although Turkey protrudes into the eastern part of the sea and Cyprus into the north-eastern part). The sea is named after the Mediterranean Basin, a large plateau land mass in the south-eastern part of the sea, which is surrounded by steep mountain slopes.",
+            "qae_pairs": [
+                {
+                    "question": "How many seas border the Mediterranean Sea?\n",
+                    "answer": "the Indian Ocean",
+                    "explanation": "The Mediterranean Sea is a sea that connects the Atlantic Ocean and the Indian Ocean."
+                },
+                {
+                    "question": "What is the Mediterranean Sea located between?",
+                    "answer": "Africa",
+                    "explanation": "The Mediterranean Sea is located between Africa and Europe."
+                },
+                {
+                    "question": "How many countries are there in the Mediterranean Sea?\n",
+                    "answer": "Turkey",
+                    "explanation": "There are seven countries in the Mediterranean Sea: Turkey, France, Italy, Spain, Greece, Cyprus, and Morocco."
+                }
+            ],
+            "hops": [
+                "Cyclamen",
+                "Mediterranean"
+            ]
+        },
+        "Rhododendron": {
+            "term": "Rhododendron",
+            "passage": "Rhododendron (Greek: ῥοδόδερμος rhódo-dódromos, \"rose tree\" or \"rose-tree\") is the genus of about 1,200 species of woody plants in the heath subfamily of the heath family, Ericaceae, native to the northern hemisphere, with the greatest diversity in eastern Asia and North America.",
+            "qae_pairs": [
+                {
+                    "question": "What is the scientific name of the plant genus that contains the Rhododendron species?\n",
+                    "answer": "Ericaceae",
+                    "explanation": "Rhododendron is the genus of about 1,200 species of woody plants in the heath subfamily of the heath family, Ericaceae, native to the northern hemisphere, with the greatest diversity in eastern Asia and North America."
+                }
+            ],
+            "hops": [
+                "Azalea",
+                "Rhododendron"
+            ]
+        },
+        "Caribbean": {
+            "term": "Caribbean",
+            "passage": "The Caribbean consists of more than 7,400 islands spread over the major North Atlantic islands of the Greater Antilles (Cuba, Hispaniola, Jamaica, Puerto Rico, and the Bahamas) and smaller islands to the west and the south, including the Leeward Antilles (Aruba, Barbados, the Cayman Islands, and smaller islands), Windward Antilles (Bermuda, the Dominican Republic, and smaller islands), and the ABC islands (the Netherlands, the British Virgin Islands, and smaller islands). The Greater Antilles have a total land area of about 120,800 square kilometres (46,400 sq mi), while the smaller islands combined have an area of about 23,800 square kilometres (9,100 sq mi). The combined land area of the entire region is approximately 153,400 square kilometres (59,700 sq mi).",
+            "qae_pairs": [
+                {
+                    "question": "Which of the following is true of the Caribbean?",
+                    "answer": "North Atlantic",
+                    "explanation": "The Caribbean consists of more than 7,400 islands spread over the major North Atlantic islands of the Greater Antilles (Cuba, Hispaniola, Jamaica, Puerto Rico, and the Bahamas) and smaller islands to the west and the south, including the Leeward Antilles (Aruba, Barbados, the Cayman Islands, and smaller islands), Windward Antilles (Bermuda, the Dominican Republic, and smaller islands), and the ABC islands (the Netherlands, the British Virgin Islands, and smaller islands). The Greater Antilles have a total land area of about 120,800 square kilometres (46,400"
+                },
+                {
+                    "question": "What is the capital of the country that is home to the largest island in the Caribbean?",
+                    "answer": "Jamaica",
+                    "explanation": "Jamaica is the largest island in the Caribbean."
+                },
+                {
+                    "question": "What is the largest island in the Caribbean?",
+                    "answer": "Cuba",
+                    "explanation": "The largest island in the Caribbean is Cuba."
+                }
+            ],
+            "hops": [
+                "Caladium",
+                "Caribbean"
+            ]
+        },
+        "Central America": {
+            "term": "Central America",
+            "passage": "Central America (Spanish: \"Centroamérica\"; also known as \"Central America\" or \"Latin America\" or the \"Americas\") is a subregion of the Americas, consisting of seven countries: Belize, Costa Rica, El Salvador, Guatemala, Honduras, Nicaragua, and Panama. The term \"Central America\" can refer to the whole subregion, or more commonly to the isthmus connecting North and South America, which contains Central America.",
+            "qae_pairs": [
+                {
+                    "question": "What is Central America?",
+                    "answer": "Americas",
+                    "explanation": "Central America is a subregion of the Americas, consisting of seven countries: Belize, Costa Rica, El Salvador, Guatemala, Honduras, Nicaragua, and Panama."
+                }
+            ],
+            "hops": [
+                "Caladium",
+                "Central America"
+            ]
+        },
+        "Araceae": {
+            "term": "Araceae",
+            "passage": "Araceae is a large and diverse family of flowering plants, with some species commonly known as \"monkey cups\" because of the shape of their fruit. It is sometimes treated as a subfamily of the family Amaryllidaceae, but recent phylogenetic studies have shown it to be the sister group of all other Amaryllidaceae.",
+            "qae_pairs": [
+                {
+                    "question": "What is the family of flowering plants that Araceae is a subfamily of?",
+                    "answer": "Amaryllidaceae",
+                    "explanation": "Araceae is a large and diverse family of flowering plants, with some species commonly known as monkey cups because of the shape of their fruit. It is sometimes treated as a subfamily of the family Amaryllidaceae, but recent phylogenetic studies have shown it to be the sister group of all other Amaryllidaceae."
+                }
+            ],
+            "hops": [
+                "Calla Lily",
+                "Araceae"
+            ]
+        },
+        "Calla": {
+            "term": "Calla",
+            "passage": "Calla Lillich-Sulich (born March 3, 1992), also known as Calla or Calla Lillich-Sulich, is a Swedish actress. She played the role of the witch Malkin in the film \"Harry Potter and the Goblet of Fire\". She has also starred in the films \"The Girl with the Dragon Tattoo\", \"The Girl Who Kicked the Hornets' Nest\" and \"A Royal Affair\".",
+            "qae_pairs": [
+                {
+                    "question": "What is the year that Calla Lillich-Sulich was born?\n",
+                    "answer": "March 3, 1992",
+                    "explanation": "Calla Lillich-Sulich was born on March 3, 1992."
+                }
+            ],
+            "hops": [
+                "Calla Lily",
+                "Calla"
+            ]
+        },
+        "spring": {
+            "term": "spring",
+            "passage": "The spring is the season of the northern hemisphere between winter and summer, roughly between the solstices of December and June. The season occurs when the days begin to lengthen after the winter solstice, around 21 or 22 of March in the northern hemisphere, and when the nights become shorter than the days after the summer solstice, around June 22.",
+            "qae_pairs": [
+                {
+                    "question": "Which season of the northern hemisphere occurs after the spring but before summer?\n",
+                    "answer": "between winter and summer",
+                    "explanation": "fall"
+                },
+                {
+                    "question": "Which date in June is around when the spring occurs?\n",
+                    "answer": "around June 22",
+                    "explanation": "The spring is the season of the northern hemisphere between winter and summer, roughly between the solstices of December and June. The season occurs when the days begin to lengthen after the winter solstice, around 21 or 22 of March in the northern hemisphere, and when the nights become shorter than the days after the summer solstice, around June 22."
+                },
+                {
+                    "question": "How many hours of daylight does it take until spring?\n",
+                    "answer": "22 of March",
+                    "explanation": "The days begin to lengthen after the winter solstice, around 21 or 22 of March in the northern hemisphere, and when the nights become shorter than the days after the summer solstice, around June 22."
+                },
+                {
+                    "question": "Write a question about the following passage.\n\n\"The first day of Spring is called Vernal Equinox. On the day of the Spring Equinox, day and night are of equal length all over the world. This occurs at a different time of the year for each place on the earth, but always",
+                    "answer": "the days",
+                    "explanation": "On the day of the Spring Equinox, day and night are of equal length all over the world."
+                }
+            ],
+            "hops": [
+                "Daffodil",
+                "spring"
+            ]
+        },
+        "Narcissus": {
+            "term": "Narcissus",
+            "passage": "Narcissus (/ˈnɑːrˌsaɪs/; Greek: Νάρκισσος, Nárrissos; Latin: Narcissus; Ancient Greek: Ναρκισσός, Narkissos; Narcissus; Greek: Νάρκισσος, Narkissos; Latin: Narcissus) is a character in Greek mythology. He is the son of the river god Cephissus and the nymph Liriope.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the river that flows through the city where the Narcissus Fountain is located?",
+                    "answer": "Cephissus",
+                    "explanation": "The Narcissus Fountain is located in the city of Narcissus, which is located in the river Cephissus."
+                }
+            ],
+            "hops": [
+                "Daffodil",
+                "Narcissus"
+            ]
+        },
+        "Carl Linnaeus": {
+            "term": "Carl Linnaeus",
+            "passage": "Carl Linnaeus (10 June 1707 – 10 February 1778) was a Swedish botanist and zoologist who developed the system of binomial nomenclature for plants and animals, which is still in use today. He also founded the fields of plant systematics and phytogeography. He is regarded as the father of modern taxonomy.",
+            "qae_pairs": [
+                {
+                    "question": "How many years did Carl Linnaeus live?",
+                    "answer": "10 June 1707",
+                    "explanation": "Carl Linnaeus was born on 10 June 1707 and died on 10 February 1778."
+                }
+            ],
+            "hops": [
+                "Daffodil",
+                "Carl Linnaeus"
+            ]
+        },
+        "Europe": {
+            "term": "Europe",
+            "passage": "Europe is a continent that comprises the westernmost part of Eurasia. Europe is bordered by the Arctic Ocean to the north, the Atlantic Ocean to the west, and the Mediterranean Sea to the south. To the east and southeast, Europe is bound by the vast expanse of the Caucasus and Central Asia. To the northeast, it is bounded by the Baltic Sea and the Gulf of Finland, and by the North Pole over Russia to the northwest.",
+            "qae_pairs": [
+                {
+                    "question": "Which ocean is located to the west of Europe?",
+                    "answer": "the Atlantic Ocean",
+                    "explanation": "Europe is located to the west of the Atlantic Ocean."
+                },
+                {
+                    "question": "Which of the following is true of Europe?",
+                    "answer": "Eurasia",
+                    "explanation": "Europe is a continent that comprises the westernmost part of Eurasia."
+                },
+                {
+                    "question": "Which country is located in the northern part of Europe?",
+                    "answer": "Russia",
+                    "explanation": "Russia is located in the northern part of Europe."
+                },
+                {
+                    "question": "Which body of water that is located in the north of Europe is the largest body of water in Europe?",
+                    "answer": "the Baltic Sea",
+                    "explanation": "The largest body of water in Europe is the Baltic Sea."
+                }
+            ],
+            "hops": [
+                "Daffodil",
+                "Europe"
+            ]
+        }
+    }
+}

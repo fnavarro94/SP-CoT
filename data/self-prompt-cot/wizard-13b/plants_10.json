@@ -1,0 +1,446 @@
+{
+    "first_hops": {
+        "Rose": {
+            "term": "Rose",
+            "passage": "Rose is a common name for a flowering shrub of the genus Rosa, and is also used as a color name. The name \"rose\" comes from the Latin rosa, which was borrowed from Greek rhodon (ρόδον), meaning \"rose\" or \"pink\". The flower has been known and cultivated for its beauty and fragrance for thousands of years, and is often associated with love and romance. The rose is also a symbol of secrecy, as the petals are often used to convey messages without being seen. The rose is native to regions of Asia, Europe, and North America, and has been introduced to other parts of the world. It is a woody perennial plant with thorny stems, and can grow to be a shrub or small tree. The leaves are typically green and serrated, and the flowers are typically red, pink, white, or yellow. Roses are grown for their beauty, and are often used in gardens, as cut flowers, and in perfumes. The rose has been used in various cultures for thousands of years. In ancient Greece, the rose was associated with the goddess Aphrodite, and was used in her worship. In ancient Rome, the rose was associated with the goddess Venus, and was used in her worship as well. The rose was also used in ancient Egypt, where it was associated with the god Horus. In Christianity, the rose is often associated with the Virgin Mary, and is used as a symbol of purity and love. The rose is also used as a symbol of the Passion of Christ, as the thorns on the stem represent the crown of thorns that was placed on Jesus' head. In Islam, the rose is associated with the Prophet Muhammad, and is used as a symbol of love and beauty.",
+            "qae_pairs": [
+                {
+                    "question": "What is the capital of Italy?",
+                    "answer": "Rome",
+                    "explanation": "Roses are often used in gardens, as cut flowers, and in perfumes."
+                },
+                {
+                    "question": "\"In which region is the rose native?\"",
+                    "answer": "North America",
+                    "explanation": "The rose is native to regions of Asia, Europe, and North America, and has been introduced to other parts of the world."
+                }
+            ],
+            "hops": [
+                "Rose"
+            ]
+        },
+        "Sunflower": {
+            "term": "Sunflower",
+            "passage": "Sunflower is a plant that belongs to the family Asteraceae. It is native to North America and has been cultivated for thousands of years by indigenous peoples. The sunflower was first domesticated by the Aztecs, who used it for its oil-rich seeds and as a symbol of worship to their sun god, Huitzilopochtli. The sunflower was introduced to Europe in the 16th century and quickly became a popular garden plant. Today, sunflowers are grown in many parts of the world for their seeds, which are used in cooking and as a source of vegetable oil. The sunflower is also used as a decorative plant and is often grown for its bright, cheerful appearance. The plant can grow up to 30 feet tall and has large, bright yellow flowers that follow the movement of the sun. Sunflowers are known for their ability to track the sun across the sky, which is why they are often associated with the sun. The plant is also known for its medicinal properties and has been used to treat a variety of ailments, including fever, cough, and sore throat. Sunflowers are a popular choice for gardeners and are often grown in home gardens and on farms. They are easy to grow and require full sun and well-drained soil. Sunflowers are a versatile plant that can be used for a variety of purposes, including food, medicine, and decoration.",
+            "qae_pairs": [
+                {
+                    "question": "What is the scientific name of the family to which the sunflower belongs?",
+                    "answer": "Asteraceae",
+                    "explanation": "Sunflowers are known for their ability to track the sun across the sky, which is why they are often associated with the sun."
+                },
+                {
+                    "question": "* What is the history of sunflower cultivation by indigenous peoples? * How long have sunflowers been cultivated by indigenous peoples? * How long have sunflowers been a popular garden plant in Europe? * How long can sunflowers",
+                    "answer": "thousands of years",
+                    "explanation": "The sunflower was first domesticated by the Aztecs, who used it for its oil-rich seeds and as a symbol of worship to their sun god, Huitzilopochtli."
+                },
+                {
+                    "question": "Where is sunflower native?",
+                    "answer": "North America",
+                    "explanation": "The sunflower was first domesticated by the Aztecs, who used it for its oil-rich seeds and as a symbol of worship to their sun god, Huitzilopochtli."
+                },
+                {
+                    "question": "What is the name of the indigenous people who first domesticated sunflowers?",
+                    "answer": "Aztecs",
+                    "explanation": "The sunflower was first domesticated by the Aztecs, who used it for its oil-rich seeds and as a symbol of worship to their sun god, Huitzilopochtli."
+                }
+            ],
+            "hops": [
+                "Sunflower"
+            ]
+        },
+        "Lavender": {
+            "term": "Lavender",
+            "passage": "Lavender is a fragrant herb that is native to the Mediterranean and the Middle East. It is a member of the mint family and is closely related to other herbs such as rosemary, sage, and thyme. Lavender is a perennial plant that can grow up to 1 meter in height and has narrow, linear leaves and purple or blue flowers. The flowers are typically harvested during the summer months and are used to produce essential oils, which are used in aromatherapy, perfumes, and cosmetics. Lavender is also used in cooking, where it is used to flavor desserts, teas, and other dishes. In addition to its culinary and aromatic uses, lavender has also been used for medicinal purposes for centuries. It is believed to have calming and relaxing properties and is often used to treat anxiety, insomnia, and other stress-related conditions. Lavender is also used to treat skin conditions such as acne, eczema, and psoriasis. The herb is also believed to have antiseptic and anti-inflammatory properties and is often used to treat minor burns and wounds. Overall, lavender is a versatile herb that has been used for centuries for its fragrant, medicinal, and culinary properties.",
+            "qae_pairs": [
+                {
+                    "question": "What is the time of year when lavender flowers are typically harvested?",
+                    "answer": "the summer months",
+                    "explanation": "The flowers are typically harvested during the summer months and are used to produce essential oils, which are used in aromatherapy, perfumes, and cosmetics. The evidence sentence is The flowers are typically harvested during the summer months and are used to produce essential oils, which are used in aromatherapy, perfumes, and cosmetics."
+                },
+                {
+                    "question": "What is the native region of lavender?",
+                    "answer": "Mediterranean",
+                    "explanation": "The flowers are typically harvested during the summer months and are used to produce essential oils, which are used in aromatherapy, perfumes, and cosmetics. This sentence explains that the flowers of lavender are harvested during the summer months and are used to produce essential oils, which are used in aromatherapy, perfumes, and cosmetics."
+                },
+                {
+                    "question": "What is the shape of the leaves of lavender?",
+                    "answer": "linear",
+                    "explanation": "The flowers are typically harvested during the summer months and are used to produce essential oils, which are used in aromatherapy, perfumes, and cosmetics. This sentence explains that the flowers of lavender are harvested during the summer months and are used to produce essential oils that are used in aromatherapy, perfumes, and cosmetics."
+                }
+            ],
+            "hops": [
+                "Lavender"
+            ]
+        },
+        "Orchid": {
+            "term": "Orchid",
+            "passage": "Orchids are a diverse and widespread family of flowering plants, with blooms that range in color from white to black, and from yellow to red. They are often considered a symbol of love and beauty, and are widely cultivated as ornamental plants. Orchids are native to many parts of the world, including Asia, Africa, Europe, and North and South America. They are found in a wide range of habitats, from tropical rainforests to alpine meadows. There are over 25,000 known species of orchids, making them one of the largest families of flowering plants. They are classified into eight different subfamilies, based on their morphology and evolutionary history. Orchids have evolved a wide range of adaptations to help them survive and thrive in their various habitats. Some species have developed specialized pollination mechanisms, such as traps that mimic the appearance and scent of female insects, in order to attract male pollinators. Others have developed symbiotic relationships with fungi, which help them to absorb nutrients from the soil. Orchids are also known for their complex and beautiful blooms, which can range in size from tiny, delicate flowers to large, showy displays. Many species have evolved intricate patterns and colors on their petals, which are thought to help them attract pollinators. Despite their beauty and popularity, many orchid species are threatened by habitat loss and over-collection for the horticultural trade. Conservation efforts are underway to protect these important plants and their habitats.",
+            "qae_pairs": [
+                {
+                    "question": "Which parts of the world are orchids native to?",
+                    "answer": "North and South America",
+                    "explanation": "Orchids are native to many parts of the world, including Asia, Africa, Europe, and North and South America."
+                },
+                {
+                    "question": "What is the name of the continent where orchids are native?",
+                    "answer": "Asia",
+                    "explanation": "Orchids are a diverse and widespread family of flowering plants, with blooms that range in color from white to black, and from yellow to red. They are often considered a symbol of love and beauty, and are widely cultivated as ornamental plants. Evidence sentence: Orchids are a diverse and widespread family of flowering plants."
+                },
+                {
+                    "question": "What is the name of the continent that is home to the Nile River, the Sahara Desert, and the Serengeti Plains?",
+                    "answer": "Africa",
+                    "explanation": "Orchids are a diverse and widespread family of flowering plants, with blooms that range in color from white to black, and from yellow to red. Evidence sentence: Orchids are a diverse and widespread family of flowering plants."
+                }
+            ],
+            "hops": [
+                "Orchid"
+            ]
+        },
+        "Ivy": {
+            "term": "Ivy",
+            "passage": "Ivy is a genus of about 130 species of evergreen climbing or ground-creeping plants in the family Araliaceae, native to eastern Asia, ranging from the Himalayas east to Japan and Indonesia. Ivies are popular as ornamental plants, and some species are used in traditional medicine. Ivies are characterized by their tendrils, which are modified leaves that allow them to climb up trees and other structures. They have large, glossy leaves that are often variegated, and small greenish-white flowers that are borne in clusters. The fruit is a small black berry that is poisonous to humans and many animals. Ivies are hardy plants that can tolerate a wide range of temperatures and soil conditions. They are often used as ground covers, and can also be trained to climb up walls, trellises, and other structures. Some species, such as English ivy (Hedera helix), are commonly used as houseplants. Ivies have a long history of use in traditional medicine. In China, for example, the roots of some species are used to treat fever, cough, and other respiratory ailments. In Europe, ivy has been used to treat skin conditions, such as eczema and psoriasis. Despite their many uses, ivies can be invasive in some areas, particularly in regions where the climate is mild and rainfall is abundant. They can quickly overtake native plant species and disrupt local ecosystems. For this reason, it is important to carefully consider the potential impact of planting ivies before doing so.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the continent where Ivy is used to treat skin conditions?",
+                    "answer": "Europe",
+                    "explanation": "In Europe, ivy has been used to treat skin conditions, such as eczema and psoriasis."
+                },
+                {
+                    "question": "What are the origins of the Ivy plant?",
+                    "answer": "Himalayas",
+                    "explanation": "The Ivy plant is native to eastern Asia, ranging from the Himalayas east to Japan and Indonesia."
+                },
+                {
+                    "question": "Which continent is home to the Ivy genus?",
+                    "answer": "Asia",
+                    "explanation": "Ivies are characterized by their tendrils, which are modified leaves that allow them to climb up trees and other structures."
+                },
+                {
+                    "question": "What is the family to which Ivy belongs?",
+                    "answer": "Araliaceae",
+                    "explanation": "Passage: Ivies are hardy plants that can tolerate a wide range of temperatures and soil conditions. They are often used as ground covers, and can also be trained to climb up walls, trellises, and other structures. Some species, such as English ivy (Hedera helix), are commonly used as houseplants. Ivies have a long history of use in traditional medicine. In China, for example, the roots of some species are used to treat fever, cough, and other respiratory ailments."
+                }
+            ],
+            "hops": [
+                "Ivy"
+            ]
+        },
+        "Daisy": {
+            "term": "Daisy",
+            "passage": "Daisy is a common name for several plants in the aster family, Asteraceae. The name \"daisy\" is also used colloquially to refer to any of several other plants with white petals and a yellow center, including the Shasta daisy (Leucanthemum x superbum) and the marigold (Tagetes). The term \"daisy\" is derived from the Old English word \"dægeseage,\" which means \"day's eye,\" referring to the fact that the petals of many daisy species open during the day and close at night. Daisies are native to Europe, Asia, and North America, and are found in a variety of habitats, including meadows, fields, and woodlands. They are often used as ornamental plants in gardens and parks, and are also cultivated for their edible flowers, which are used in salads and other dishes. Daisies are typically low-growing plants, with leaves that are arranged in a basal rosette. The flowers are typically white or yellow, with a central disk surrounded by a ring of petals. Some species of daisy have pink or red flowers, and some have multiple rows of petals. The flowers are typically 2-4 inches in diameter, and are borne on long, thin stems. Daisies are important sources of nectar for bees and other pollinators, and are also used as food plants by the larvae of some Lepidoptera species, including the Large White butterfly. In addition to their ecological importance, daisies have cultural significance in many parts of the world.",
+            "qae_pairs": [
+                {
+                    "question": "What is the scientific name for the family of plants that includes daisies?",
+                    "answer": "Asteraceae",
+                    "explanation": "The term daisy is derived from the Old English word dægeseage, which means day's eye, referring to the fact that the petals of many daisy species open during the day and close at night."
+                },
+                {
+                    "question": "What is the name of the continent where Daisy is native?",
+                    "answer": "Europe",
+                    "explanation": "Daisies are native to Europe, Asia, and North America, and are found in a variety of habitats, including meadows, fields, and woodlands."
+                },
+                {
+                    "question": "Which continent has the highest population density?",
+                    "answer": "Asia",
+                    "explanation": "Daisies are important sources of nectar for bees and other pollinators, and are also used as food plants by the larvae of some Lepidoptera species, including the Large White butterfly. This sentence explains the ecological importance of daisies as a source of food for pollinators and herbivorous insects."
+                },
+                {
+                    "question": "What is the scientific name for the order of insects that includes butterflies and moths?",
+                    "answer": "Lepidoptera",
+                    "explanation": "Passage: Daisies are important sources of nectar for bees and other pollinators, and are also used as food plants by the larvae of some Lepidoptera species, including the Large White butterfly. Evidence sentence: Daisies are important sources of nectar for bees and other pollinators."
+                },
+                {
+                    "question": "What is the scientific name for the marigold?",
+                    "answer": "Tagetes",
+                    "explanation": "The term daisy is derived from the Old English word dægeseage, which means day's eye, referring to the fact that the petals of many daisy species open during the day and close at night. This evidence sentence explains the origin of the name daisy and how it got its name."
+                }
+            ],
+            "hops": [
+                "Daisy"
+            ]
+        },
+        "Lotus": {
+            "term": "Lotus",
+            "passage": "Lotus is a genus of flowering plants in the family Fabaceae, which includes the pea, bean, and lentil families. The genus is named after the flower lotus, which is often associated with divine beauty in many cultures. Lotus plants are native to a wide area of the world, including most of Asia, Australia, and parts of Africa and the Americas. Lotus plants are known for their unique ability to grow in muddy or murky water, where they are able to extract nutrients from the water and sunlight. They have long, slender stems that can grow up to 20 feet tall, and large, colorful flowers that bloom in a variety of colors, including pink, red, yellow, and white. Lotus plants have been used for a variety of purposes throughout history. In ancient Egypt, lotus flowers were used in religious ceremonies and as offerings to the gods. In Hinduism and Buddhism, the lotus is a symbol of purity, enlightenment, and rebirth. In traditional Chinese medicine, lotus seeds are believed to have medicinal properties and are used to treat a variety of ailments. Today, lotus plants are grown for their ornamental value, as well as for their edible seeds and young leaves. The seeds are often used in cooking and baking, and the young leaves can be eaten raw or cooked. Lotus flowers are also used in perfumes and cosmetics. Overall, the lotus plant is a fascinating and versatile plant that has been valued by many cultures throughout history. Its unique ability to grow in difficult conditions and its beauty have made it a beloved plant around the world.",
+            "qae_pairs": [
+                {
+                    "question": "What is the continent where the lotus plant is native to?",
+                    "answer": "Americas",
+                    "explanation": "Lotus plants are native to a wide area of the world, including most of Asia, Australia, and parts of Africa and the Americas."
+                },
+                {
+                    "question": "What is the continent that is home to the lotus plant?",
+                    "answer": "Africa",
+                    "explanation": "Lotus plants are native to a wide area of the world, including most of Asia, Australia, and parts of Africa and the Americas. Question: What is the wide area of the world where lotus plants are native to? Answer: Lotus plants are native to a wide area of the world, including most of Asia, Australia, and parts of Africa and the Americas."
+                },
+                {
+                    "question": "Which continent does the lotus plant grow in?",
+                    "answer": "Asia",
+                    "explanation": "Lotus plants are native to a wide area of the world, including most of Asia, Australia, and parts of Africa and the Americas."
+                },
+                {
+                    "question": "What is the scientific name for the family of flowering plants that includes the pea, bean, and lentil families?",
+                    "answer": "Fabaceae",
+                    "explanation": "In ancient Egypt, lotus flowers were used in religious ceremonies and as offerings to the gods."
+                }
+            ],
+            "hops": [
+                "Lotus"
+            ]
+        },
+        "Jasmine": {
+            "term": "Jasmine",
+            "passage": "Jasmine is a female given name of Persian origin, meaning \"gift from God\" or \"night flower\". It is also the name of a fragrant plant with white or yellow flowers, native to the Mediterranean region and western Asia. Jasmine is a popular name in many countries, including the United States, where it has been in the top 100 names for girls since the 1980s. It has also been a popular name in India, where it is a symbol of love and passion. The jasmine plant is known for its delicate and sweet-smelling flowers, which are often used in perfumes, cosmetics, and herbal teas. The flowers are also used in traditional medicine to treat a variety of ailments, including anxiety, depression, and insomnia. In addition to its use in traditional medicine, jasmine has been used in various cultural and religious practices throughout history. In Hinduism, jasmine is considered a symbol of purity and is often used in religious ceremonies. In Buddhism, jasmine is associated with enlightenment and is used in meditation practices. Jasmine is also a popular motif in art and literature. In poetry, jasmine is often used as a symbol of love and beauty. In music, jasmine is a common theme in songs and instrumental pieces. Overall, jasmine is a name and a plant that is rich in cultural and historical significance, and continues to be a popular choice for both individuals and businesses.",
+            "qae_pairs": [
+                {
+                    "question": "What decade was Jasmine a popular name in the United States?",
+                    "answer": "the 1980s",
+                    "explanation": "Jasmine is a popular name in many countries, including the United States, where it has been in the top 100 names for girls since the 1980s."
+                },
+                {
+                    "question": "What is the name of the country where Jasmine is a popular name for girls?",
+                    "answer": "the United States",
+                    "explanation": "Jasmine is a popular name in many countries, including the United States, where it has been in the top 100 names for girls since the 1980s."
+                },
+                {
+                    "question": "Which country is the largest producer of jasmine in the world?",
+                    "answer": "India",
+                    "explanation": "Jasmine is a popular name in many countries, including the United States, where it has been in the top 100 names for girls since the 1980s."
+                },
+                {
+                    "question": "What is the name of the region where the jasmine plant is native?",
+                    "answer": "Mediterranean",
+                    "explanation": "Jasmine is a popular name in many countries, including the United States, where it has been in the top 100 names for girls since the 1980s."
+                },
+                {
+                    "question": "Which continent is the world's largest?",
+                    "answer": "Asia",
+                    "explanation": "Jasmine is a popular name in many countries, including the United States, where it has been in the top 100 names for girls since the 1980s."
+                },
+                {
+                    "question": "1. What is the most popular religion in India? 2. What is the name of the most important Hindu festival? 3. Which Hindu god is associated with destruction and renewal? 4. Which Hindu scripture is considered the most important? 5. In which city is the",
+                    "answer": "Hinduism",
+                    "explanation": "Jasmine is a popular name in many countries, including the United States, where it has been in the top 100 names for girls since the 1980s. This sentence explains that Jasmine is a well-known name in many countries and has been popular in the United States for several decades."
+                }
+            ],
+            "hops": [
+                "Jasmine"
+            ]
+        },
+        "Marigold": {
+            "term": "Marigold",
+            "passage": "Marigold is a common name for several plants of the family Asteraceae, which also includes daisies, chrysanthemums, and ragweed. The name \"marigold\" is derived from the Old French \"mari-gilt\", meaning \"marriage gold\", and refers to the traditional use of the flowers in weddings. Marigolds are native to the Americas, but are now widely cultivated in many parts of the world. They are annual or perennial plants, with bright yellow, orange, or red flowers that bloom from early summer to autumn. The petals of marigolds are often edible and can be used to add color and flavor to salads, soups, and other dishes. Marigolds are also known for their medicinal properties. The plant contains compounds that have antibacterial and antifungal properties, and has been used to treat a variety of ailments, including minor cuts and burns, and as a natural insect repellent. In traditional medicine, marigold extracts have been used to treat digestive problems, skin conditions, and respiratory infections. In addition to their culinary and medicinal uses, marigolds are also popular in the garden for their ability to repel pests and nurture the growth of other plants. The roots of marigolds release compounds that inhibit the growth of certain fungi and bacteria, making them a useful companion plant for other crops. Marigolds are also attractive to beneficial insects such as bees and butterflies, and can be planted alongside other flowers to create a pollinator-friendly garden. Overall, marigolds are a versatile and valuable plant with a wide range of uses.",
+            "qae_pairs": [
+                {
+                    "question": "What is the native region of marigolds?",
+                    "answer": "Americas",
+                    "explanation": "Marigolds are native to the Americas, but are now widely cultivated in many parts of the world."
+                },
+                {
+                    "question": "What is the scientific name for the family of plants that includes marigolds, daisies, chrysanthemums, and ragweed?",
+                    "answer": "Asteraceae",
+                    "explanation": "Marigolds are native to the Americas, but are now widely cultivated in many parts of the world. They are annual or perennial plants, with bright yellow, orange, or red flowers that bloom from early summer to autumn."
+                }
+            ],
+            "hops": [
+                "Marigold"
+            ]
+        },
+        "Peony": {
+            "term": "Peony",
+            "passage": "Peony is a flowering plant in the genus Paeonia, native to Asia, Europe and Western North America. It is also known as the Chinese Peony, and is one of the most ancient and highly revered of all flowers. The peony is a perennial plant, growing from 2.5 to 3.5 feet tall, with a stem that is round and hairy. The leaves are dark green, 12 to 18 inches long, and 4 to 8 inches wide, with a serrated edge. The flowers are large, usually 4 to 8 inches in diameter, and come in a range of colors, including white, red, pink, and yellow. The petals are soft and silky, and are arranged in a circle around the center of the flower, which is composed of many stamens and pistils. The peony is a symbol of good fortune and a happy marriage in China, and is often used in traditional Chinese medicine to treat a variety of ailments. The peony is also a popular garden plant, and is grown in many parts of the world for its beautiful flowers and fragrant scent.",
+            "qae_pairs": [
+                {
+                    "question": "What is the scientific name for the peony plant?",
+                    "answer": "Paeonia",
+                    "explanation": "The peony is a perennial plant, growing from 2.5 to 3.5 feet tall, with a stem that is round and hairy. The leaves are dark green, 12 to 18 inches long, and 4 to 8 inches wide, with a serrated edge."
+                },
+                {
+                    "question": "What is the continent where the peony plant is native?",
+                    "answer": "Asia",
+                    "explanation": "The peony is a perennial plant, growing from 2.5 to 3.5 feet tall, with a stem that is round and hairy. The evidence sentence from the passage is: The peony is a perennial plant, growing from 2.5 to 3.5 feet tall, with a stem that is round and hairy."
+                }
+            ],
+            "hops": [
+                "Peony"
+            ]
+        }
+    },
+    "second_hops": {
+        "Rome": {
+            "term": "Rome",
+            "passage": "1. Rome is the capital city of Italy and the largest city in the country. 2. It is located in the central-western portion of the Italian peninsula, on the Tiber River. 3. Rome is one of the oldest continuously occupied cities in the world, with a history spanning over 2,500 years. 4. The city is known for its rich history, art, culture, and architecture. 5. Rome has been the center of the Roman Catholic Church for centuries, and is home to the Vatican City, the smallest independent state in the world. 6. The city is also known for its cuisine, fashion, and design. 7. Rome is a major tourist destination, attracting millions of visitors each year. 8. The city is home to many iconic landmarks, including the Colosseum, the Pantheon, and the Trevi Fountain. 9. Rome is also known for its museums, including the Vatican Museums, the Capitoline Museums, and the National Roman Museum. 10. The city is served by two airports, Fiumicino and Ciampino, and is connected to the rest of Italy and Europe by a network of trains, buses, and highways.",
+            "qae_pairs": [
+                {
+                    "question": "What is the estimated age of Rome in years?",
+                    "answer": "2,500 years",
+                    "explanation": "Rome is one of the oldest continuously occupied cities in the world, with a history spanning over 2,500 years. This sentence is an evidence sentence because it provides a factual statement about the age of Rome, which supports the main idea of the passage that Rome is an ancient city with a rich history."
+                },
+                {
+                    "question": "What is the name of the museum located on the Capitoline Hill in Rome?",
+                    "answer": "the Capitoline Museums",
+                    "explanation": "The city is known for its rich history, art, culture, and architecture. Rationale: This sentence provides a general explanation of one of the main characteristics of Rome, which is its cultural heritage. Passage 2: Passage about London: 1. London is the capital city of England and the United Kingdom. 2. It is located on the River Thames in southeastern England. 3. London has a population of over 8 million people, making it one of the most populous cities in Europe. 4."
+                },
+                {
+                    "question": "What is the smallest independent state in Rome?",
+                    "answer": "Vatican City",
+                    "explanation": "The city is known for its rich history, art, culture, and architecture. Answer: Rome is known for its rich history, art, culture, and architecture."
+                }
+            ],
+            "hops": [
+                "Rose",
+                "Rome"
+            ]
+        },
+        "North America": {
+            "term": "North America",
+            "passage": "North America is a continent entirely within the Northern Hemisphere and almost all within the Western Hemisphere. It is also considered a northern subcontinent of the Americas. It is bordered to the north by the Arctic Ocean, to the east by the Atlantic Ocean, to the west and south by the Pacific Ocean, and to the southeast by the Caribbean Sea. North America covers an area of about 24,709,000 square kilometers (9,540,000 square miles) and has a population of over 579 million people.",
+            "qae_pairs": [
+                {
+                    "question": "What body of water is located to the southeast of North America?",
+                    "answer": "the Caribbean Sea",
+                    "explanation": "North America covers an area of about 24,709,000 square kilometers (9,540,000 square miles) and has a population of over 579 million people. This sentence explains the size and population of North America."
+                },
+                {
+                    "question": "What body of water is located to the east of North America?",
+                    "answer": "the Atlantic Ocean",
+                    "explanation": "North America is a continent entirely within the Northern Hemisphere and almost all within the Western Hemisphere. Evidence sentence: North America is a continent."
+                },
+                {
+                    "question": "What body of water is located to the west and south of North America?",
+                    "answer": "the Pacific Ocean",
+                    "explanation": "North America covers an area of about 24,709,000 square kilometers (9,540,000 square miles) and has a population of over 579 million people. This sentence is an evidence sentence because it provides specific information about the size and population of North America, which supports the main idea that North America is a continent with a large population and area."
+                },
+                {
+                    "question": "What continent is North America located entirely within?",
+                    "answer": "the Northern Hemisphere",
+                    "explanation": "North America is a continent entirely within the Northern Hemisphere and almost all within the Western Hemisphere."
+                }
+            ],
+            "hops": [
+                "Sunflower",
+                "North America"
+            ]
+        },
+        "Asteraceae": {
+            "term": "Asteraceae",
+            "passage": "Asteraceae, also known as the aster, daisy, or composite family, is a flowering plant family that is one of the largest in the world. The family includes over 1,600 genera and 23,000 species, making it the second largest after the Orchidaceae. The name \"Asteraceae\" comes from the type genus Aster, which includes the daisy and the sunflower. The family is characterized by the presence of composite flowers, which are made up of many small flowers arranged in a head or inflorescence. The family is found throughout the world, but is most diverse in the temperate zones of the Northern Hemisphere. Many members of the family are of economic importance, including many crops such as lettuce, sunflower, and artichoke, as well as many weeds such as dandelion and plantain. The family also includes many ornamental plants, such as chrysanthemums and zinnias.",
+            "qae_pairs": [
+                {
+                    "question": "Which region of the world is Asteraceae, also known as the aster, daisy, or composite family, most diverse in?",
+                    "answer": "the Northern Hemisphere",
+                    "explanation": "The family is found throughout the world, but is most diverse in the temperate zones of the Northern Hemisphere."
+                }
+            ],
+            "hops": [
+                "Daisy",
+                "Asteraceae"
+            ]
+        },
+        "North and South America": {
+            "term": "North and South America",
+            "passage": "North and South America are two separate continents in the Western Hemisphere. North America is located to the north of South America and is bordered by the Arctic Ocean to the north, the Atlantic Ocean to the east, and the Pacific Ocean to the west. South America is located to the south of North America and is bordered by the Pacific Ocean to the west and the Atlantic Ocean to the east. The two continents are connected by the Isthmus of Panama, which allows for easy travel between them. North America is home to many diverse cultures and landscapes, including the Great Plains, the Rocky Mountains, and the Great Lakes. South America is known for its Amazon rainforest, Andes Mountains, and diverse cultures, including the Inca Empire and the Maya civilization. Both continents have played important roles in world history, with North America being the site of many important historical events, such as the American Revolution and the Civil War. South America has also played a significant role in world history, with countries such as Brazil and Argentina being major players in the global economy.",
+            "qae_pairs": [
+                {
+                    "question": "What body of water is located to the north of North and South America?",
+                    "answer": "the Arctic Ocean",
+                    "explanation": "North America is located to the north of South America and is bordered by the Arctic Ocean to the north, the Atlantic Ocean to the east, and the Pacific Ocean to the west. This sentence explains that North America is located to the north of South America and is bordered by three different bodies of water: the Arctic Ocean to the north, the Atlantic Ocean to the east, and the Pacific Ocean to the west."
+                }
+            ],
+            "hops": [
+                "Orchid",
+                "North and South America"
+            ]
+        },
+        "Asia": {
+            "term": "Asia",
+            "passage": "Asia is the world's largest and most populous continent, located primarily in the eastern and northern hemispheres. It covers 8.7% of the Earth's total surface area and comprises 30% of its land area. With approximately 4.5 billion people, it hosts 60% of the world's current human population. In modern times, Asia has emerged as a major global power and economically dominant continent, with several of the world's largest economies belonging to its countries. It is home to many of the world's oldest civilizations, including those of China, India, Japan, Korea, and the Middle East. Asia is divided into several subregions, including Central Asia, East Asia, South Asia, Southeast Asia, and the Middle East. It is home to a wide variety of ethnic groups, cultures, and languages, with the most populous being Chinese, Indian, and Indonesian. The continent is also home to a diverse range of landscapes, from the deserts of the Middle East to the tropical rainforests of Southeast Asia, and from the snow-capped mountains of Central Asia to the coastal plains of the Indian Ocean. Asia is also home to several major rivers, including the Yangtze, Yellow, and Mekong, which flow into the Pacific Ocean, and the Ganges, Indus, and Brahmaputra, which flow into the Indian Ocean. Despite its many strengths, Asia also faces several challenges, including poverty, political instability, and environmental degradation. However, the continent is also home to many innovative solutions to these problems, and is increasingly seen as a leader in the global fight against climate change.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the planet that Asia is located on?",
+                    "answer": "Earth",
+                    "explanation": "Asia is the world's largest and most populous continent, located primarily in the eastern and northern hemispheres. It covers 8.7% of the Earth's total surface area and comprises 30% of its land area. Evidence sentence: Asia is the world's largest and most populous continent, located primarily in the eastern and northern hemispheres. Explanation: This evidence sentence explains that Asia is the largest and most populous continent in the world, located in the eastern and northern hemispheres."
+                }
+            ],
+            "hops": [
+                "Peony",
+                "Asia"
+            ]
+        },
+        "Africa": {
+            "term": "Africa",
+            "passage": "1. Africa is the world's second-largest and second-most-populous continent. 2. At about 30.3 million km², it covers six percent of the Earth's total surface area and 20.4 percent of the total land area. 3. With 1.2 billion people as of 2016, it accounts for about 16% of the world's human population. 4. The continent is surrounded by the Mediterranean Sea to the north, both the Suez Canal and the Red Sea along the Sinai Peninsula to the northeast, the Indian Ocean to the southeast, and the Atlantic Ocean to the west. 5. The continent includes Madagascar and various archipelagoes. 6. Africa, particularly central Eastern Africa, is the origin of humans and the Hominidae family, as well as the Homo sapiens species. 7. The continent is home to a diverse array of ethnicities, cultures, and languages. 8. Africa has been inhabited by humans for at least 3 million years, as shown by the discovery of the earliest hominids in the Sahara region of North Africa. 9. The continent is home to a diverse array of wildlife, including the big five game animals, which are the lion, leopard, elephant, rhinoceros, and buffalo. 10. Africa has a rich cultural heritage, with many ancient civilizations and traditions.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the desert that covers most of North Africa?",
+                    "answer": "Sahara",
+                    "explanation": "1. The continent is home to a diverse array of ethnicities, cultures, and languages."
+                },
+                {
+                    "question": "What is the name of the waterway that connects the Mediterranean Sea to the Red Sea, and is located in Africa?",
+                    "answer": "the Suez Canal",
+                    "explanation": "The continent is surrounded by the Mediterranean Sea to the north, both the Suez Canal and the Red Sea along the Sinai Peninsula to the northeast, the Indian Ocean to the southeast, and the Atlantic Ocean to the west. This sentence explains the geographical location of Africa, which is surrounded by four different bodies of water, including the Mediterranean Sea to the north, the Suez Canal and the Red Sea along the Sinai Peninsula to the northeast, the Indian Ocean to the southeast, and the Atlantic Ocean to the west."
+                },
+                {
+                    "question": "What is the name of the body of water that borders Africa to the west?",
+                    "answer": "the Atlantic Ocean",
+                    "explanation": "Africa is the world's second-largest and second-most-populous continent. This sentence explains that Africa is a very large and populous continent, making it an important geographic feature."
+                }
+            ],
+            "hops": [
+                "Lotus",
+                "Africa"
+            ]
+        },
+        "Europe": {
+            "term": "Europe",
+            "passage": "Europe is a continent located entirely in the Northern Hemisphere and mostly in the Eastern Hemisphere. It is bordered by the Arctic Ocean to the north, the Atlantic Ocean to the west, and the Mediterranean Sea to the south. It comprises 47 countries, with Russia, Germany, France, the United Kingdom, Italy, Spain, and Poland being the most populous. Europe is the world's second-smallest continent by land area, covering about 10,180,000 square kilometres (3,930,000 sq mi) or 2% of the Earth's surface and about 6.8% of its land area. Of Europe's approximately 730 million people, about 47% are male and 53% are female. The largest country in Europe, both in terms of area and population, is Russia. The European Union, a political and economic union of 27 member states located primarily in Europe, is the largest economy in the world.",
+            "qae_pairs": [
+                {
+                    "question": "What country in Europe is known for its fashion industry and is home to the famous city of Rome?",
+                    "answer": "Italy",
+                    "explanation": "Italy is a country in Europe that is known for its fashion industry and is home to the famous city of Rome."
+                }
+            ],
+            "hops": [
+                "Ivy",
+                "Europe"
+            ]
+        },
+        "Americas": {
+            "term": "Americas",
+            "passage": "The Americas, also collectively called America, are lands in the Western Hemisphere, composed of multiple sovereign states and territories. The Americas cover 8.3% of the Earth's total land area and are home to over 1,200 million people, making up around 16% of the world's population. The Americas have a diverse range of landscapes, ranging from the tropical rainforests in South America to the arctic tundra in Canada. The Americas have a rich history, with many indigenous cultures and civilizations, such as the Maya, Aztec, and Inca, that developed prior to European colonization. The first European to reach the Americas was Christopher Columbus in 1492, who claimed the land for Spain. The Americas have since been colonized by several European powers, including Spain, France, and England, leading to the development of new cultures and societies. Today, the Americas are home to a diverse range of cultures, languages, and religions, with the majority of the population being Christian. The Americas are also home to many important cities, such as New York City, Mexico City, and São Paulo, which are major economic and cultural centers.",
+            "qae_pairs": [
+                {
+                    "question": "What was the name of the indigenous civilization that developed in the Americas prior to European colonization, and was known for its advancements in agriculture, architecture, and writing?",
+                    "answer": "Maya",
+                    "explanation": "The Americas have a rich history, with many indigenous cultures and civilizations, such as the Maya, Aztec, and Inca, that developed prior to European colonization."
+                },
+                {
+                    "question": "What civilization in the Americas was known for building the Machu Picchu?",
+                    "answer": "Inca",
+                    "explanation": "The Americas have a rich history, with many indigenous cultures and civilizations, such as the Maya, Aztec, and Inca, that developed prior to European colonization."
+                }
+            ],
+            "hops": [
+                "Marigold",
+                "Americas"
+            ]
+        },
+        "India": {
+            "term": "India",
+            "passage": "India, officially the Republic of India, is a country in South Asia. It is the seventh-largest country by area, the second-most populous country, and the most populous democracy in the world. Bounded by the Indian Ocean on the south, the Arabian Sea on the west, and the Bay of Bengal on the east, India has a coastline of 7,517 kilometers (4,700 mi). It is bordered by Pakistan to the west; China, Nepal, and Bhutan to the north-east; and Bangladesh and Myanmar to the east. India is home to the Indus Valley Civilization, one of the world's oldest civilizations, dating back at least 4,500 years. In the ancient era, India was known for its trade routes, and the Silk Road passed through its borders. Today, India is a major economic power and a member of the BRICS group of countries. It is also a nuclear-armed state and has the second-largest standing army in the world. India has a diverse and multicultural society, with a population that includes many ethnic and religious groups. The country is known for its rich history, culture, and cuisine, and is home to many world-famous landmarks, such as the Taj Mahal, the Himalayas, and the beaches of Goa.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the region that India is located in?",
+                    "answer": "South Asia",
+                    "explanation": "India is bordered by Pakistan to the west; China, Nepal, and Bhutan to the north-east; and Bangladesh and Myanmar to the east. This sentence provides evidence that India is located in South Asia, as it lists the countries that border India to the north and east, which are all part of the South Asian region."
+                }
+            ],
+            "hops": [
+                "Jasmine",
+                "India"
+            ]
+        }
+    }
+}

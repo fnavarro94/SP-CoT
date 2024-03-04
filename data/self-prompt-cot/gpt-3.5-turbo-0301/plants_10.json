@@ -1,0 +1,592 @@
+{
+    "first_hops": {
+        "sunflower": {
+            "term": "sunflower",
+            "passage": "Sunflower (Helianthus annuus) is an annual plant native to the Americas, but it is now widely cultivated around the world for its edible seeds and oil. The sunflower is named after its characteristic sun-like appearance, with a large, round, yellow flower head surrounded by bright yellow petals. The flower head is actually made up of many small flowers, each with its own set of petals, and the seeds are produced in the center of the flower head. Sunflowers can grow up to 10 feet tall, with a single stem that is covered in rough, hairy leaves. The flowers can range in size from small, 2-inch blooms to giant, 12-inch heads. The seeds are large and flat, with a black and white striped shell that is easy to crack open. Sunflower seeds are a popular snack food, and they are also used in cooking and baking. Sunflowers are easy to grow and are often used in gardens and landscaping. They prefer full sun and well-drained soil, and they can tolerate drought and heat. Sunflowers are also used as a source of biofuel, as the oil extracted from the seeds can be used to produce biodiesel. In addition to their practical uses, sunflowers have also been used in art and culture. Vincent van Gogh famously painted a series of sunflower paintings, and the flower has been used as a symbol of happiness, loyalty, and longevity in various cultures around the world. Overall, the sunflower is a versatile and beloved plant that has played an important role in human history and culture.",
+            "qae_pairs": [
+                {
+                    "context": "In addition to their practical uses, sunflowers have also been used in art and culture. Vincent van Gogh famously painted a series of sunflower paintings, and the flower has been used as a symbol of happiness, loyalty, and longevity in various cultures around the world.",
+                    "question": "Who famously painted a series of sunflower paintings?",
+                    "answer": "Vincent van Gogh.",
+                    "explanation": "The passage states that Vincent van Gogh famously painted a series of sunflower paintings."
+                }
+            ],
+            "hops": [
+                "sunflower"
+            ]
+        },
+        "rose": {
+            "term": "rose",
+            "passage": "The rose is a woody perennial flowering plant of the genus Rosa, in the family Rosaceae, or the flower it bears. There are over three hundred species and tens of thousands of cultivars. They form a group of plants that can be erect shrubs, climbing, or trailing, with stems that are often armed with sharp prickles. Flowers vary in size and shape and are usually large and showy, in colours ranging from white through yellows and reds. Most species are native to Asia, with smaller numbers native to Europe, North America, and northwest Africa. Species, cultivars and hybrids are all widely grown for their beauty and often are fragrant. Roses have acquired cultural significance in many societies. Rose plants range in size from compact, miniature roses, to climbers that can reach seven meters in height. Different species hybridize easily, and this has been used in the development of the wide range of garden roses.",
+            "qae_pairs": [
+                {
+                    "context": "Most species are native to Asia, with smaller numbers native to Europe, North America, and northwest Africa. Species, cultivars and hybrids are all widely grown for their beauty and often are fragrant.",
+                    "question": "Where are most species of roses native to?",
+                    "answer": "Asia.",
+                    "explanation": "The majority of rose species come from Asia."
+                },
+                {
+                    "context": "Most species are native to Asia, with smaller numbers native to Europe, North America, and northwest Africa. Species, cultivars and hybrids are all widely grown for their beauty and often are fragrant.",
+                    "question": "Which continent has a smaller number of native rose species compared to Asia and Europe?",
+                    "answer": "North America.",
+                    "explanation": "The passage states that Asia has the most native rose species, followed by Europe. North America has a smaller number of native rose species compared to Asia and Europe."
+                }
+            ],
+            "hops": [
+                "rose"
+            ]
+        },
+        "lily": {
+            "term": "lily",
+            "passage": "Lilies are a group of flowering plants that are native to the temperate regions of the Northern Hemisphere. They are known for their large, showy flowers that come in a variety of colors, including white, yellow, pink, red, and orange. Lilies are popular garden plants and are often used in floral arrangements. There are over 100 species of lilies, and they belong to the family Liliaceae. The most commonly cultivated species include the Asiatic lily, the Easter lily, the Oriental lily, and the trumpet lily. Each species has its own unique characteristics, but all lilies share certain traits, such as their six-petaled flowers and their bulbous roots. Lilies are typically grown from bulbs, which are planted in the fall and bloom in the spring or summer. They prefer well-drained soil and full sun or partial shade. Lilies are also relatively easy to care for, requiring only occasional watering and fertilization. In addition to their ornamental value, lilies have been used for medicinal and culinary purposes for centuries. The bulbs of some species, such as the tiger lily, are edible and have a starchy, potato-like flavor. Lilies have also been used in traditional medicine to treat a variety of ailments, including fever, coughs, and skin conditions. Despite their beauty and usefulness, lilies can be toxic to cats, causing kidney failure if ingested. It is important for cat owners to keep lilies out of their homes and gardens to prevent accidental poisoning. Overall, lilies are a beloved and versatile group of plants that have captured the hearts of gardeners and flower enthusiasts around the world. With their stunning blooms and easy care requirements, they are sure to remain a popular choice for years to come.",
+            "qae_pairs": [
+                {
+                    "context": "Lilies are also relatively easy to care for, requiring only occasional watering and fertilization. In addition to their ornamental value, lilies have been used for medicinal and culinary purposes for centuries.",
+                    "question": "For how long have lilies been used for medicinal and culinary purposes?",
+                    "answer": "Centuries.",
+                    "explanation": "The passage states that lilies have been used for medicinal and culinary purposes for a long time, specifically for centuries."
+                }
+            ],
+            "hops": [
+                "lily"
+            ]
+        },
+        "daffodil": {
+            "term": "daffodil",
+            "passage": "Daffodils are a type of bulbous plant that belong to the genus Narcissus. They are native to Europe and North Africa, but have been widely cultivated and naturalized in many other parts of the world. Daffodils are known for their bright yellow or white flowers, which typically bloom in the spring. They are a popular ornamental plant, and are often used in gardens, parks, and other public spaces. Daffodils are typically grown from bulbs, which are planted in the fall and bloom in the spring. The bulbs are relatively easy to grow, and can be planted in a variety of soil types and conditions. Daffodils prefer well-drained soil and full sun, but can also tolerate partial shade. Daffodils are known for their distinctive trumpet-shaped flowers, which are typically yellow or white in color. The flowers are borne on tall, slender stems, and are surrounded by long, narrow leaves. Daffodils are also known for their sweet fragrance, which is particularly strong in some varieties. There are many different varieties of daffodils, each with its own unique characteristics. Some of the most popular varieties include the King Alfred daffodil, which is known for its large, bright yellow flowers, and the Ice Follies daffodil, which has white petals and a yellow trumpet. Other popular varieties include the Tete-a-Tete daffodil, which is a miniature variety that is perfect for small gardens or containers, and the Thalia daffodil, which has delicate white flowers and a sweet fragrance. Daffodils have a long history of use in art and literature. They have been depicted in paintings, poems, and other works of art for centuries, and are often associated with spring and renewal. In some cultures, daffodils are also associated with good luck and prosperity. Despite their beauty and popularity, daffodils can be toxic if ingested. The bulbs contain a toxic compound called lycorine, which can cause vomiting, diarrhea, and other symptoms if consumed in large quantities. It is important to keep daffodils away from children and pets, and to wash your hands thoroughly after handling them. Overall, daffodils are a beautiful and popular ornamental plant that are easy to grow and care for. Whether you are planting them in your garden or enjoying them in a public space, daffodils are sure to brighten up your day with their cheerful flowers and sweet fragrance.",
+            "qae_pairs": [
+                {
+                    "context": "Daffodils are a type of bulbous plant that belong to the genus Narcissus. They are native to Europe and North Africa, but have been widely cultivated and naturalized in many other parts of the world.",
+                    "question": "What is the genus to which daffodils belong?",
+                    "answer": "Narcissus.",
+                    "explanation": "Daffodils belong to the genus Narcissus."
+                },
+                {
+                    "context": "Daffodils are known for their bright yellow or white flowers, which typically bloom in the spring. They are a popular ornamental plant, and are often used in gardens, parks, and other public spaces.",
+                    "question": "During which season do daffodils typically bloom?",
+                    "answer": "Spring.",
+                    "explanation": "Daffodils bloom in the season of spring, as stated in the passage."
+                },
+                {
+                    "context": "There are many different varieties of daffodils, each with its own unique characteristics. Some of the most popular varieties include the King Alfred daffodil, which is known for its large, bright yellow flowers, and the Ice Follies daffodil, which has white petals and a yellow trumpet.",
+                    "question": "What is the name of the daffodil variety with white petals and a yellow trumpet?",
+                    "answer": "Ice Follies.",
+                    "explanation": "The daffodil variety with white petals and a yellow trumpet is called Ice Follies, as stated in the passage."
+                },
+                {
+                    "context": "Other popular varieties include the Tete-a-Tete daffodil, which is a miniature variety that is perfect for small gardens or containers, and the Thalia daffodil, which has delicate white flowers and a sweet fragrance. Daffodils have a long history of use in art and literature.",
+                    "question": "What variety of daffodil has delicate white flowers and a sweet fragrance?",
+                    "answer": "Thalia daffodil.",
+                    "explanation": "The variety of daffodil with delicate white flowers and a sweet fragrance is called Thalia, as mentioned in the passage."
+                },
+                {
+                    "context": "They have been depicted in paintings, poems, and other works of art for centuries, and are often associated with spring and renewal. In some cultures, daffodils are also associated with good luck and prosperity.",
+                    "question": "For how long have daffodils been depicted in paintings, poems, and other works of art?",
+                    "answer": "Centuries.",
+                    "explanation": "Daffodils have been depicted in paintings, poems, and other works of art for a very long time, spanning over several centuries."
+                }
+            ],
+            "hops": [
+                "daffodil"
+            ]
+        },
+        "cactus": {
+            "term": "cactus",
+            "passage": "Cactus is a type of plant that belongs to the family Cactaceae. These plants are known for their unique appearance, which includes thick, fleshy stems and spines or thorns. Cacti are found in a variety of habitats, including deserts, grasslands, and forests, and are native to North and South America. Cacti are adapted to survive in harsh environments, such as deserts, where water is scarce. They have evolved a number of unique features that allow them to conserve water and thrive in these conditions. For example, cacti have shallow roots that spread out widely to absorb as much water as possible when it does rain. They also have thick, fleshy stems that store water for long periods of time, allowing them to survive during droughts. Cacti come in a wide variety of shapes and sizes, from small, round plants to tall, branching trees. Some cacti are covered in spines or thorns, which help to protect them from predators and also provide shade to the plant. Other cacti have no spines at all, but instead have a waxy coating on their stems that helps to prevent water loss. Cacti are also known for their beautiful flowers, which bloom in a wide range of colors, including red, pink, yellow, and white. These flowers are often large and showy, and are pollinated by a variety of insects, including bees, butterflies, and moths. Cacti have been used by humans for thousands of years for a variety of purposes. Native Americans used cacti for food, medicine, and building materials, while modern humans use cacti for ornamental purposes, as well as for food and medicine. Some species of cactus are also used to make tequila and other alcoholic beverages. Overall, cacti are fascinating plants that have adapted to survive in some of the harshest environments on Earth. Their unique appearance and ability to thrive in difficult conditions make them a popular choice for gardeners and plant enthusiasts around the world.",
+            "qae_pairs": [
+                {
+                    "context": "Cacti are found in a variety of habitats, including deserts, grasslands, and forests, and are native to North and South America. Cacti are adapted to survive in harsh environments, such as deserts, where water is scarce.",
+                    "question": "Where are cacti native to?",
+                    "answer": "North and South America.",
+                    "explanation": "Cacti are originally from North and South America, as stated in the passage."
+                },
+                {
+                    "context": "Cacti have been used by humans for thousands of years for a variety of purposes. Native Americans used cacti for food, medicine, and building materials, while modern humans use cacti for ornamental purposes, as well as for food and medicine.",
+                    "question": "For how long have humans been using cacti for various purposes?",
+                    "answer": "Thousands of years.",
+                    "explanation": "Humans have been using cacti for food, medicine, and building materials for thousands of years, as stated in the passage."
+                }
+            ],
+            "hops": [
+                "cactus"
+            ]
+        },
+        "fern": {
+            "term": "fern",
+            "passage": "Ferns are a group of vascular plants that reproduce via spores and have neither seeds nor flowers. They are found in a variety of habitats, from tropical rainforests to deserts, and are known for their distinctive fronds, which are often highly divided and feathery. Ferns are an ancient group of plants, with fossils dating back over 360 million years, and they have played an important role in the evolution of life on Earth. Ferns are characterized by their unique life cycle, which involves two distinct stages: the sporophyte and the gametophyte. The sporophyte is the familiar fern plant that we see above ground, with its fronds and spore-producing structures. The gametophyte, on the other hand, is a small, often inconspicuous plant that produces the male and female gametes (sperm and eggs) that combine to form the sporophyte. Ferns reproduce via spores, which are produced in specialized structures called sporangia. These sporangia are typically found on the undersides of the fronds, and when they mature, they release the spores into the air. The spores can then germinate and grow into gametophytes, which in turn produce the sperm and eggs that combine to form new sporophytes. Ferns are an important part of many ecosystems, providing habitat and food for a wide variety of animals. They are also used by humans for a variety of purposes, including as ornamental plants, in traditional medicine, and as a source of food and fiber. Despite their many benefits, ferns are also facing a number of threats, including habitat loss, climate change, and invasive species. Conservation efforts are underway to protect these important plants and ensure their survival for future generations.",
+            "qae_pairs": [
+                {
+                    "context": "Ferns are an ancient group of plants, with fossils dating back over 360 million years, and they have played an important role in the evolution of life on Earth. Ferns are characterized by their unique life cycle, which involves two distinct stages: the sporophyte and the gametophyte.",
+                    "question": "What is the planet on which ferns have played an important role in the evolution of life?",
+                    "answer": "Earth.",
+                    "explanation": "Ferns have played an important role in the evolution of life on Earth, as evidenced by their fossils dating back over 360 million years."
+                }
+            ],
+            "hops": [
+                "fern"
+            ]
+        },
+        "tulip": {
+            "term": "tulip",
+            "passage": "Tulips are a genus of spring-blooming perennial herbaceous bulbiferous geophytes. The flowers are usually large, showy and brightly colored, generally red, pink, yellow, or white (usually in warm colors). They often have a different colored blotch at the base of the tepals (petals and sepals, collectively), internally. Because of a degree of variability within the populations, and a long history of cultivation, classification has been complex and controversial. The tulip is a member of the Liliaceae (lily) family, along with 14 other genera, where it is most closely related to Amana, Erythronium and Gagea in the tribe Lilieae. There are about 75 species, and these are divided among four subgenera. The name \"tulip\" is thought to be derived from a Persian word for turban, which it may have been thought to resemble. Tulips originally were found in a band stretching from Southern Europe to Central Asia, but since the seventeenth century have become widely naturalised and cultivated (see map). In their natural state they are adapted to steppes and mountainous areas with temperate climates. Flowering in the spring, they become dormant in the summer once the flowers and leaves die back, emerging above ground as a shoot from the underground bulb in early spring.",
+            "qae_pairs": [
+                {
+                    "context": "The tulip is a member of the Liliaceae (lily) family, along with 14 other genera, where it is most closely related to Amana, Erythronium and Gagea in the tribe Lilieae. There are about 75 species, and these are divided among four subgenera.",
+                    "question": "In which tribe is the tulip most closely related to Amana, Erythonium, and Gagea?",
+                    "answer": "Lilieae.",
+                    "explanation": "The tulip is most closely related to Amana, Erythonium, and Gagea in the tribe Lilieae."
+                },
+                {
+                    "context": "In their natural state they are adapted to steppes and mountainous areas with temperate climates. Flowering in the spring, they become dormant in the summer once the flowers and leaves die back, emerging above ground as a shoot from the underground bulb in early spring.",
+                    "question": "During which season do tulips become dormant?",
+                    "answer": "Summer.",
+                    "explanation": "Tulips become dormant in the summer once their flowers and leaves die back."
+                },
+                {
+                    "context": "In their natural state they are adapted to steppes and mountainous areas with temperate climates. Flowering in the spring, they become dormant in the summer once the flowers and leaves die back, emerging above ground as a shoot from the underground bulb in early spring.",
+                    "question": "When does the tulip emerge above ground as a shoot from the underground bulb?",
+                    "answer": "In early spring.",
+                    "explanation": "The tulip emerges above ground as a shoot from the underground bulb in early spring, as stated in the passage."
+                }
+            ],
+            "hops": [
+                "tulip"
+            ]
+        },
+        "orchid": {
+            "term": "orchid",
+            "passage": "Orchids are a diverse and widespread family of flowering plants, with blooms that are often colourful and fragrant. They are found in almost every habitat, from rainforests to deserts, and on every continent except Antarctica. Orchids have been cultivated for centuries, prized for their beauty and rarity. They are also important in many cultures, where they are used in medicine, food, and religious ceremonies. There are over 25,000 species of orchids, making them one of the largest families of flowering plants. They come in a wide range of shapes and sizes, from tiny flowers that are only a few millimetres across to large blooms that can be over a metre in diameter. Some orchids have a single flower, while others have clusters of flowers on a single stem. Orchids are known for their complex and intricate flowers, which are often highly adapted to specific pollinators. Many orchids have evolved to attract specific insects or birds, using bright colours, strong fragrances, or even mimicry to lure them in. Some orchids have even developed elaborate traps to catch their pollinators, such as sticky surfaces or slippery petals. Orchids are also known for their symbiotic relationships with fungi. Many orchids rely on fungi to help them germinate and grow, forming a close partnership that benefits both organisms. The fungi provide the orchids with nutrients and protection, while the orchids provide the fungi with sugars and other compounds. Despite their beauty and popularity, many orchids are threatened by habitat loss, over-collection, and climate change. Some species are now endangered or extinct in the wild, and many more are at risk. Conservation efforts are underway to protect these valuable plants and their habitats, and to ensure that they continue to thrive for generations to come.",
+            "qae_pairs": [
+                {
+                    "context": "Orchids are a diverse and widespread family of flowering plants, with blooms that are often colourful and fragrant. They are found in almost every habitat, from rainforests to deserts, and on every continent except Antarctica.",
+                    "question": "On which continent are orchids not found?",
+                    "answer": "Antarctica.",
+                    "explanation": "Orchids can be found on every continent except for Antarctica."
+                },
+                {
+                    "context": "Orchids have been cultivated for centuries, prized for their beauty and rarity. They are also important in many cultures, where they are used in medicine, food, and religious ceremonies.",
+                    "question": "For how long have orchids been cultivated and prized?",
+                    "answer": "Centuries.",
+                    "explanation": "Orchids have been cultivated and prized for a very long time, spanning over many centuries."
+                }
+            ],
+            "hops": [
+                "orchid"
+            ]
+        },
+        "hyacinth": {
+            "term": "hyacinth",
+            "passage": "Hyacinth is a genus of bulbous flowering plants in the family Asparagaceae, subfamily Scilloideae. These plants are native to the eastern Mediterranean region, including Turkey, Syria, Lebanon, and Israel. The genus includes about 30 species, with the most commonly cultivated species being Hyacinthus orientalis, also known as the common hyacinth. The common hyacinth is a popular garden plant, known for its fragrant and colorful flowers. The flowers are typically blue, pink, white, or purple, and are arranged in dense spikes on a tall stem. The leaves are strap-shaped and grow from the base of the plant. The bulbs of the common hyacinth are large and round, and are planted in the fall for spring blooming. Hyacinths have been cultivated for thousands of years, and were highly prized by the ancient Greeks and Romans. In Greek mythology, the hyacinth was the flower of the god Apollo, and was said to have grown from the blood of his lover, Hyacinthus, who was accidentally killed by a discus thrown by Apollo. The flower was also associated with rebirth and renewal, and was used in religious ceremonies and festivals. In addition to their ornamental value, hyacinths have also been used for medicinal and culinary purposes. The bulbs contain a number of compounds that have been shown to have antimicrobial, anti-inflammatory, and antioxidant properties. They have been used to treat a variety of ailments, including respiratory infections, digestive disorders, and skin conditions. Hyacinths are also used in cooking, particularly in the Middle East and Mediterranean regions. The bulbs are sliced and boiled, and are used in soups, stews, and salads. The flowers are also edible, and can be used as a garnish or in salads. Despite their beauty and usefulness, hyacinths can be toxic if ingested in large quantities. The bulbs contain a number of alkaloids, including hyacinthine and scilliroside, which can cause nausea, vomiting, and diarrhea. Ingestion of large amounts can also cause convulsions and cardiac arrest. Overall, hyacinths are a fascinating and versatile group of plants, with a rich history and a wide range of uses. Whether grown for their beauty, their medicinal properties, or their culinary value, they are sure to continue to be a beloved and important part of gardens and cultures around the world.",
+            "qae_pairs": [
+                {
+                    "context": "Hyacinth is a genus of bulbous flowering plants in the family Asparagaceae, subfamily Scilloideae. These plants are native to the eastern Mediterranean region, including Turkey, Syria, Lebanon, and Israel.",
+                    "question": "What is the subfamily of the family Asparagaceae that hyacinths belong to?",
+                    "answer": "Scilloideae.",
+                    "explanation": "Hyacinths belong to the subfamily Scilloideae of the family Asparagaceae, as stated in the passage."
+                },
+                {
+                    "context": "The genus includes about 30 species, with the most commonly cultivated species being Hyacinthus orientalis, also known as the common hyacinth. The common hyacinth is a popular garden plant, known for its fragrant and colorful flowers.",
+                    "question": "What is the most commonly cultivated species of the hyacinthus genus?",
+                    "answer": "Hyacinthus orientalis.",
+                    "explanation": "The most commonly cultivated species of the hyacinthus genus is Hyacinthus orientalis, which is also known as the common hyacinthus and is popular for its fragrant and colorful flowers."
+                },
+                {
+                    "context": "The bulbs of the common hyacinth are large and round, and are planted in the fall for spring blooming. Hyacinths have been cultivated for thousands of years, and were highly prized by the ancient Greeks and Romans.",
+                    "question": "What season do hyacinths typically bloom in?",
+                    "answer": "Spring.",
+                    "explanation": "Hyacinths are planted in the fall and bloom in the spring."
+                },
+                {
+                    "context": "In Greek mythology, the hyacinth was the flower of the god Apollo, and was said to have grown from the blood of his lover, Hyacinthus, who was accidentally killed by a discus thrown by Apollo. The flower was also associated with rebirth and renewal, and was used in religious ceremonies and festivals.",
+                    "question": "Who was the god associated with the hyacinths in Greek mythology?",
+                    "answer": "Apollo.",
+                    "explanation": "The god associated with the hyacinths in Greek mythology was Apollo, as stated in the passage which also mentions that the hyacinths were considered to be his flower."
+                }
+            ],
+            "hops": [
+                "hyacinth"
+            ]
+        },
+        "azalea": {
+            "term": "azalea",
+            "passage": "Azaleas are flowering shrubs that belong to the genus Rhododendron. They are native to several regions, including Asia, Europe, and North America. Azaleas are known for their showy, colorful blooms, which range in color from white to pink, red, orange, and purple. They typically bloom in the spring, although some varieties may bloom in the summer or fall. Azaleas are popular ornamental plants and are often used in landscaping and gardening. They are also commonly grown as houseplants. There are over 10,000 different varieties of azaleas, which vary in size, shape, and color. Some varieties are small and compact, while others can grow up to 20 feet tall. Azaleas prefer acidic soil and partial shade, although some varieties can tolerate full sun. They require regular watering and fertilization to thrive. Azaleas are susceptible to several pests and diseases, including lace bugs, spider mites, and root rot. In addition to their ornamental value, azaleas have several medicinal uses. The leaves and flowers of some varieties contain compounds that have been shown to have anti-inflammatory, antioxidant, and anti-cancer properties. Azalea honey, which is made from the nectar of azalea flowers, is also prized for its unique flavor and health benefits. Despite their beauty and usefulness, some varieties of azaleas are considered invasive species in certain regions. Invasive azaleas can outcompete native plants and disrupt local ecosystems. As a result, it is important to choose non-invasive varieties and to properly dispose of any plant material to prevent the spread of invasive species. Overall, azaleas are a beloved and versatile plant that have been cultivated for centuries. Whether grown for their ornamental value or medicinal properties, these colorful shrubs are sure to brighten up any garden or home.",
+            "qae_pairs": [
+                {
+                    "context": "Azaleas are flowering shrubs that belong to the genus Rhododendron. They are native to several regions, including Asia, Europe, and North America.",
+                    "question": "In which continent are azaleas native to, along with Asia and Europe?",
+                    "answer": "North America.",
+                    "explanation": "Azaleas are native to North America, as well as Asia and Europe, according to the passage."
+                },
+                {
+                    "context": "Azaleas are flowering shrubs that belong to the genus Rhododendron. They are native to several regions, including Asia, Europe, and North America.",
+                    "question": "What genus do azaleas belong to?",
+                    "answer": "Rhododendron.",
+                    "explanation": "Azaleas belong to the genus Rhododendron, as stated in the passage."
+                }
+            ],
+            "hops": [
+                "azalea"
+            ]
+        }
+    },
+    "second_hops": {
+        "Vincent van Gogh.": {
+            "term": "Vincent van Gogh.",
+            "passage": "Vincent van Gogh was a Dutch post-impressionist painter who is among the most famous and influential figures in the history of Western art. In just over a decade, he created about 2,100 artworks, including around 860 oil paintings, most of which date from the last two years of his life. They include landscapes, still lifes, portraits and self-portraits, and are characterised by bold colours and dramatic, impulsive and expressive brushwork that contributed to the foundations of modern art. He was not commercially successful, and his suicide at 37 came after years of mental illness and poverty. Van Gogh's works are now among the world's most expensive paintings to have ever sold at auction, and his legacy is honoured by a museum in his name, the Van Gogh Museum in Amsterdam, which holds the world's largest collection of his paintings and drawings.",
+            "qae_pairs": [
+                {
+                    "context": "Vincent van Gogh was a Dutch post-impressionist painter who is among the most famous and influential figures in the history of Western art. In just over a decade, he created about 2,100 artworks, including around 860 oil paintings, most of which date from the last two years of his life.",
+                    "question": "How long did Vincent van Gogh create artworks for?",
+                    "answer": "Just over a decade.",
+                    "explanation": "Vincent van Gogh created artworks for a little over 10 years."
+                },
+                {
+                    "context": "They include landscapes, still lifes, portraits and self-portraits, and are characterised by bold colours and dramatic, impulsive and expressive brushwork that contributed to the foundations of modern art. He was not commercially successful, and his suicide at 37 came after years of mental illness and poverty.",
+                    "question": "At what age did Vincent van Gogh pass away?",
+                    "answer": "37.",
+                    "explanation": "Vincent van Gogh passed away at the age of 37, as stated in the passage, after years of mental illness and poverty."
+                },
+                {
+                    "context": "They include landscapes, still lifes, portraits and self-portraits, and are characterised by bold colours and dramatic, impulsive and expressive brushwork that contributed to the foundations of modern art. He was not commercially successful, and his suicide at 37 came after years of mental illness and poverty.",
+                    "question": "What was the duration of Vincent van Gogh's mental illness and poverty?",
+                    "answer": "Years.",
+                    "explanation": "Vincent van Gogh experienced mental illness and poverty for a prolonged period of time."
+                },
+                {
+                    "context": "Van Gogh's works are now among the world's most expensive paintings to have ever sold at auction, and his legacy is honoured by a museum in his name, the Van Gogh Museum in Amsterdam, which holds the world's largest collection of his paintings and drawings. Van Gogh's works are now among the world's most expensive paintings to have ever sold at auction, and his legacy is honoured by a museum in his name, the Van Gogh Museum in Amsterdam, which holds the world's largest collection of his paintings and drawings.",
+                    "question": "What is the name of the museum in Amsterdam that holds the world's largest collection of Vincent van Gogh's paintings and drawings?",
+                    "answer": "Van Gogh Museum.",
+                    "explanation": "The museum in Amsterdam that holds the world's largest collection of Vincent van Gogh's paintings and drawings is called the Van Gogh Museum."
+                }
+            ],
+            "hops": [
+                "sunflower",
+                "Vincent van Gogh."
+            ]
+        },
+        "Asia.": {
+            "term": "Asia.",
+            "passage": "Asia is Earth's largest and most populous continent, located primarily in the Eastern and Northern Hemispheres. It shares the continental landmass of Eurasia with the continent of Europe and the continental landmass of Afro-Eurasia with both Europe and Africa. Asia covers an area of 44,579,000 square kilometers (17,212,000 sq mi), about 30% of Earth's total land area and 8.7% of the Earth's total surface area. The continent, which has long been home to the majority of the human population, was the site of many of the first civilizations. Asia is notable for not only its overall large size and population, but also dense and large settlements, as well as vast barely populated regions. Its 4.5 billion people constitute roughly 60% of the world's population.",
+            "qae_pairs": [
+                {
+                    "context": "Asia is Earth's largest and most populous continent, located primarily in the Eastern and Northern Hemispheres. It shares the continental landmass of Eurasia with the continent of Europe and the continental landmass of Afro-Eurasia with both Europe and Africa.",
+                    "question": "Which continent shares the continental landmass of Eurasia with Asia?",
+                    "answer": "Europe.",
+                    "explanation": "The continent that shares the continental landmass of Eurasia with Asia is Europe, as stated in the passage."
+                }
+            ],
+            "hops": [
+                "rose",
+                "Asia."
+            ]
+        },
+        "North America.": {
+            "term": "North America.",
+            "passage": "North America is a continent entirely within the Northern Hemisphere and almost all within the Western Hemisphere. It can also be described as a northern subcontinent of the Americas, or America, in models that use fewer than seven continents. It is bordered to the north by the Arctic Ocean, to the east by the Atlantic Ocean, to the southeast by South America and the Caribbean Sea, and to the west and south by the Pacific Ocean. Because it is on the North American Tectonic Plate, Greenland is included as part of North America geographically.",
+            "qae_pairs": [
+                {
+                    "context": "It is bordered to the north by the Arctic Ocean, to the east by the Atlantic Ocean, to the southeast by South America and the Caribbean Sea, and to the west and south by the Pacific Ocean. Because it is on the North American Tectonic Plate, Greenland is included as part of North America geographically.",
+                    "question": "What country is included as part of North America geographically due to its location on the North American Tectonic Plate?",
+                    "answer": "Greenland.",
+                    "explanation": "The country that is considered part of North America geographically is due to its location on the North American Tectonic Plate, and that country is Greenland."
+                },
+                {
+                    "context": "It is bordered to the north by the Arctic Ocean, to the east by the Atlantic Ocean, to the southeast by South America and the Caribbean Sea, and to the west and south by the Pacific Ocean. Because it is on the North American Tectonic Plate, Greenland is included as part of North America geographically.",
+                    "question": "What body of water borders North America to the west and south?",
+                    "answer": "The Pacific Ocean.",
+                    "explanation": "North America is bordered to the west and south by the Pacific Ocean."
+                },
+                {
+                    "context": "It is bordered to the north by the Arctic Ocean, to the east by the Atlantic Ocean, to the southeast by South America and the Caribbean Sea, and to the west and south by the Pacific Ocean. Because it is on the North American Tectonic Plate, Greenland is included as part of North America geographically.",
+                    "question": "What continent is located southeast of North America?",
+                    "answer": "South America.",
+                    "explanation": "The continent located southeast of North America is South America, as stated in the passage."
+                }
+            ],
+            "hops": [
+                "azalea",
+                "North America."
+            ]
+        },
+        "Centuries.": {
+            "term": "Centuries.",
+            "passage": "Centuries are units of time that are equal to 100 years. They are commonly used to measure the passage of time in human history, particularly in the study of art, literature, and culture. The concept of centuries is based on the Gregorian calendar, which was introduced by Pope Gregory XIII in 1582. This calendar replaced the Julian calendar, which had been in use since 45 BCE. The Gregorian calendar is a solar calendar, meaning that it is based on the Earth's orbit around the sun. It is divided into 12 months, each of which has either 30 or 31 days, except for February, which has 28 days in a common year and 29 days in a leap year. The first century CE began on January 1, 1 CE, and ended on December 31, 100 CE. The second century began on January 1, 101 CE, and ended on December 31, 200 CE, and so on. The current century, the 21st century, began on January 1, 2001, and will end on December 31, 2100.",
+            "qae_pairs": [
+                {
+                    "context": "The concept of centuries is based on the Gregorian calendar, which was introduced by Pope Gregory XIII in 1582. This calendar replaced the Julian calendar, which had been in use since 45 BCE.",
+                    "question": "What year did the Julian calendar, which was in use for centuries, begin?",
+                    "answer": "45 BCE.",
+                    "explanation": "The Julian calendar, which had been in use for centuries, began in 45 BCE."
+                },
+                {
+                    "context": "The concept of centuries is based on the Gregorian calendar, which was introduced by Pope Gregory XIII in 1582. This calendar replaced the Julian calendar, which had been in use since 45 BCE.",
+                    "question": "In what year was the Gregorian calendar, which is the basis for counting centuries, introduced?",
+                    "answer": "1582.",
+                    "explanation": "The Gregorian calendar, which is used for counting centuries, was introduced in the year 1582."
+                },
+                {
+                    "context": "The Gregorian calendar is a solar calendar, meaning that it is based on the Earth's orbit around the sun. It is divided into 12 months, each of which has either 30 or 31 days, except for February, which has 28 days in a common year and 29 days in a leap year.",
+                    "question": "In what type of year, occurring every four centuries, does February have 29 days instead of 28 in the Gregorian calendar?",
+                    "answer": "Leap year.",
+                    "explanation": "February has 29 days instead of 28 in the Gregorian calendar during a leap year, which occurs every four centuries."
+                },
+                {
+                    "context": "The Gregorian calendar is a solar calendar, meaning that it is based on the Earth's orbit around the sun. It is divided into 12 months, each of which has either 30 or 31 days, except for February, which has 28 days in a common year and 29 days in a leap year.",
+                    "question": "In which month of the Gregorian calendar does the number of days change every four centuries due to leap years?",
+                    "answer": "February.",
+                    "explanation": "The number of days in February changes every four centuries due to leap years in the Gregorian calendar."
+                }
+            ],
+            "hops": [
+                "orchid",
+                "Centuries."
+            ]
+        },
+        "Narcissus.": {
+            "term": "Narcissus.",
+            "passage": "Narcissus is a genus of predominantly spring perennial plants in the Amaryllidaceae (amaryllis) family. Various common names including daffodil, narcissus and jonquil are used to describe all or some members of the genus. Narcissus has conspicuous flowers with six petal-like tepals surmounted by a cup- or trumpet-shaped corona. The flowers are generally white or yellow (also orange or pink in garden varieties), with either uniform or contrasting coloured tepals and corona. Narcissus were well known in ancient civilisation, both medicinally and botanically, but formally described by Linnaeus in his Species Plantarum (1753). The genus is generally considered to have about ten sections with approximately 50 species. The number of species has varied, depending on how they are classified, due to similarity between species and hybridization. The genus arose some time in the Late Oligocene to Early Miocene epochs, in the Iberian peninsula and adjacent areas of southwest Europe. The exact origin of the name Narcissus is unknown, but it is often linked to a Greek word for intoxicated (narcotic) and the myth of the youth of that name who fell in love with his own reflection.",
+            "qae_pairs": [
+                {
+                    "context": "Narcissus is a genus of predominantly spring perennial plants in the Amaryllidaceae (amaryllis) family. Various common names including daffodil, narcissus and jonquil are used to describe all or some members of the genus.",
+                    "question": "What is another common name for some members of the Narcissus genus besides daffodil?",
+                    "answer": "Jonquil.",
+                    "explanation": "The Narcissus genus has various common names, including daffodil and jonquil, to describe its members."
+                },
+                {
+                    "context": "Narcissus were well known in ancient civilisation, both medicinally and botanically, but formally described by Linnaeus in his Species Plantarum (1753). The genus is generally considered to have about ten sections with approximately 50 species.",
+                    "question": "In what year did Linnaeus formally describe Narcissus in his Species Plantarums?",
+                    "answer": "1753.",
+                    "explanation": "Linnaeus formally described Narcissus in his Species Plantarums in the year 1753, as stated in the passage."
+                },
+                {
+                    "context": "Narcissus were well known in ancient civilisation, both medicinally and botanically, but formally described by Linnaeus in his Species Plantarum (1753). The genus is generally considered to have about ten sections with approximately 50 species.",
+                    "question": "Who formally described Narcissus in his Species Plantarun in 1753?",
+                    "answer": "Linnaeus.",
+                    "explanation": "The formal description of Narcissus in his Species Plantarun in 1753 was made by Linnaeus."
+                }
+            ],
+            "hops": [
+                "daffodil",
+                "Narcissus."
+            ]
+        },
+        "Ice Follies.": {
+            "term": "Ice Follies.",
+            "passage": "Ice Follies was a touring ice show that entertained audiences across the United States and Canada from 1936 to 1979. The show was created by Eddie Shipstad, Roy Shipstad, and Oscar Johnson, who were also the founders of the Shipstad and Johnson Ice Follies. The Ice Follies featured a cast of skaters who performed elaborate ice skating routines set to music and accompanied by colorful costumes and sets. The show was known for its high production values and its ability to attract top talent in the world of figure skating. Over the years, the Ice Follies featured performances by some of the biggest names in the sport, including Peggy Fleming, Dorothy Hamill, and Scott Hamilton. The show was also known for its innovative use of technology, including the use of artificial ice and special lighting effects. Despite its popularity, the Ice Follies eventually fell out of favor with audiences in the late 1970s, and the show was discontinued in 1979. However, its legacy lives on, and the Ice Follies remains an important part of the history of figure skating and ice shows in the United States.",
+            "qae_pairs": [
+                {
+                    "context": "Ice Follies was a touring ice show that entertained audiences across the United States and Canada from 1936 to 1979. The show was created by Eddie Shipstad, Roy Shipstad, and Oscar Johnson, who were also the founders of the Shipstad and Johnson Ice Follies.",
+                    "question": "Who was one of the founders of the Ice Follies along with Eddie Shipstad and Roy Shipstad?",
+                    "answer": "Oscar Johnson.",
+                    "explanation": "The founder of the Ice Follies along with Eddie Shipstad and Roy Shipstad was Oscar Johnson."
+                },
+                {
+                    "context": "Over the years, the Ice Follies featured performances by some of the biggest names in the sport, including Peggy Fleming, Dorothy Hamill, and Scott Hamilton. The show was also known for its innovative use of technology, including the use of artificial ice and special lighting effects.",
+                    "question": "Who was one of the biggest names in the sport to perform in the Ice Follies?",
+                    "answer": "Peggy Fleming.",
+                    "explanation": "The Ice Follies featured performances by Peggy Fleming, who was one of the biggest names in the sport."
+                },
+                {
+                    "context": "Despite its popularity, the Ice Follies eventually fell out of favor with audiences in the late 1970s, and the show was discontinued in 1979. However, its legacy lives on, and the Ice Follies remains an important part of the history of figure skating and ice shows in the United States.",
+                    "question": "In what year was the Ice Follies discontinued?",
+                    "answer": "1979.",
+                    "explanation": "The Ice Follies was discontinued in 1979, as stated in the passage."
+                },
+                {
+                    "context": "Despite its popularity, the Ice Follies eventually fell out of favor with audiences in the late 1970s, and the show was discontinued in 1979. However, its legacy lives on, and the Ice Follies remains an important part of the history of figure skating and ice shows in the United States.",
+                    "question": "In what decade did the Ice Follies fall out of favor with audiences?",
+                    "answer": "Late 1970s.",
+                    "explanation": "The Ice Follies lost its popularity with audiences in the latter part of the 1970s, as stated in the passage."
+                }
+            ],
+            "hops": [
+                "daffodil",
+                "Ice Follies."
+            ]
+        },
+        "North and South America.": {
+            "term": "North and South America.",
+            "passage": "North and South America are two continents located in the Western Hemisphere, bordered by the Arctic Ocean to the north, the Atlantic Ocean to the east, the Pacific Ocean to the west, and the Southern Ocean to the south. North America is the third largest continent in the world, while South America is the fourth largest. The two continents are separated by the Panama Canal, which connects the Atlantic and Pacific Oceans. The Americas are home to a diverse range of cultures, languages, and ecosystems, including the Amazon rainforest, the Rocky Mountains, and the Great Lakes. The indigenous peoples of the Americas have a rich history and cultural heritage, and their contributions to the world are still being discovered and celebrated today. The Americas have also been shaped by colonialism, slavery, and immigration, and continue to grapple with issues of inequality, social justice, and environmental sustainability. Despite these challenges, the Americas remain a vibrant and dynamic region, with a wealth of natural resources, cultural treasures, and human potential.",
+            "qae_pairs": [
+                {
+                    "context": "North and South America are two continents located in the Western Hemisphere, bordered by the Arctic Ocean to the north, the Atlantic Ocean to the east, the Pacific Ocean to the west, and the Southern Ocean to the south. North America is the third largest continent in the world, while South America is the fourth largest.",
+                    "question": "What ocean borders North and South America to the west?",
+                    "answer": "Pacific Ocean.",
+                    "explanation": "The Pacific Ocean is the ocean that borders North and South America to the west."
+                },
+                {
+                    "context": "The two continents are separated by the Panama Canal, which connects the Atlantic and Pacific Oceans. The Americas are home to a diverse range of cultures, languages, and ecosystems, including the Amazon rainforest, the Rocky Mountains, and the Great Lakes.",
+                    "question": "What ecosystem in North and South America is known for its vast freshwater reserves and is shared by the United States and Canada?",
+                    "answer": "The Great Lakes.",
+                    "explanation": "The Great Lakes, which are known for their vast freshwater reserves, are an ecosystem shared by the United States and Canada."
+                },
+                {
+                    "context": "The two continents are separated by the Panama Canal, which connects the Atlantic and Pacific Oceans. The Americas are home to a diverse range of cultures, languages, and ecosystems, including the Amazon rainforest, the Rocky Mountains, and the Great Lakes.",
+                    "question": "What famous mountain range is located in North and South America?",
+                    "answer": "Rocky Mountains.",
+                    "explanation": "The Rocky Mountains are mentioned as one of the diverse ecosystems found in North and South America."
+                }
+            ],
+            "hops": [
+                "cactus",
+                "North and South America."
+            ]
+        },
+        "Earth.": {
+            "term": "Earth.",
+            "passage": "Earth is the third planet from the Sun and the only astronomical object known to harbor life. According to radiometric dating and other sources of evidence, Earth formed over 4.5 billion years ago. Earth's gravity interacts with other objects in space, especially the Sun and the Moon, which is Earth's only natural satellite. Earth orbits around the Sun in 365.256 solar days, a period known as an Earth year. During this time, Earth rotates about its axis about 366.256 times. Earth's axis of rotation is tilted with respect to its orbital plane, producing seasons on Earth. The gravitational interaction between Earth and the Moon causes ocean tides, stabilizes Earth's orientation on its axis, and gradually slows its rotation. Earth's atmosphere consists mostly of nitrogen and oxygen, with small amounts of water vapor, carbon dioxide, and other gases. The atmospheric pressure varies at different layers and is about 1 atm at sea level. Earth's biosphere has significantly altered its atmosphere, oceans, and other abiotic factors, enabling the proliferation of aerobic organisms as well as the formation of the ozone layer which, together with Earth's magnetic field, blocks harmful solar radiation, permitting life on land. The physical properties of the Earth, as well as its geological history and orbit, have allowed life to persist.",
+            "qae_pairs": [
+                {
+                    "context": "Earth is the third planet from the Sun and the only astronomical object known to harbor life. According to radiometric dating and other sources of evidence, Earth formed over 4.5 billion years ago.",
+                    "question": "What is the name of the star that Earth is the third planet from?",
+                    "answer": "Sun.",
+                    "explanation": "The star that Earth is the third planet from is referred to as the Sun, as stated in the passage."
+                },
+                {
+                    "context": "Earth's gravity interacts with other objects in space, especially the Sun and the Moon, which is Earth's only natural satellite. Earth orbits around the Sun in 365.256 solar days, a period known as an Earth year.",
+                    "question": "What is Earth's only natural satellite?",
+                    "answer": "The Moon.",
+                    "explanation": "The passage states that the Moon is Earth's only natural satellite."
+                }
+            ],
+            "hops": [
+                "fern",
+                "Earth."
+            ]
+        },
+        "Lilieae.": {
+            "term": "Lilieae.",
+            "passage": "Lilieae is a tribe of herbaceous perennial flowering plants in the family Liliaceae, native to temperate regions of the Northern Hemisphere. The tribe includes many popular garden plants, such as lilies, tulips, and fritillaries. Lilieae plants typically have bulbs or rhizomes, and produce showy flowers with six petals arranged in a distinctive trumpet or cup shape. The flowers are often fragrant and come in a wide range of colors, from pure white to deep reds and purples. Lilieae plants are important ornamental plants, and many have been cultivated for centuries for their beauty and fragrance. Some species are also used in traditional medicine, and the bulbs of some lilies are edible. Despite their popularity, many Lilieae species are threatened by habitat loss and over-collection, and several are listed as endangered or vulnerable. Conservation efforts are underway to protect these important plants and their habitats.",
+            "qae_pairs": [
+                {
+                    "context": "Lilieae is a tribe of herbaceous perennial flowering plants in the family Liliaceae, native to temperate regions of the Northern Hemisphere. The tribe includes many popular garden plants, such as lilies, tulips, and fritillaries.",
+                    "question": "What family do the herbaceous perennial flowering plants in the Lilieae tribe belong to?",
+                    "answer": "Liliaceae.",
+                    "explanation": "The herbaceous perennial flowering plants in the Lilieae tribe belong to the family Liliaceae, as stated in the passage."
+                },
+                {
+                    "context": "Lilieae plants are important ornamental plants, and many have been cultivated for centuries for their beauty and fragrance. Some species are also used in traditional medicine, and the bulbs of some lilies are edible.",
+                    "question": "For how long have Lilieae plants been cultivated for their beauty and fragrance?",
+                    "answer": "Centuries.",
+                    "explanation": "The Lilieae plants have been cultivated for their beauty and fragrance for a long time, spanning over several centuries."
+                }
+            ],
+            "hops": [
+                "tulip",
+                "Lilieae."
+            ]
+        },
+        "Antarctica.": {
+            "term": "Antarctica.",
+            "passage": "Antarctica is the southernmost continent and the fifth largest continent in the world. It is located almost entirely within the Antarctic Circle and is surrounded by the Southern Ocean. The continent is divided into two regions: East Antarctica, which is largely composed of a high ice plateau, and West Antarctica, which is dominated by the Antarctic Peninsula and the ice shelves that surround it. Antarctica is the coldest, driest, and windiest continent on Earth, with temperatures reaching as low as -128.6°F (-89.2°C) and winds reaching speeds of up to 200 mph (320 km/h). Despite its harsh conditions, Antarctica is home to a diverse range of wildlife, including penguins, seals, whales, and various species of birds. The continent is also a hub for scientific research, with numerous research stations operated by various countries. The Antarctic Treaty, signed in 1959, designates Antarctica as a scientific preserve and prohibits military activity on the continent.",
+            "qae_pairs": [
+                {
+                    "context": "Antarctica is the southernmost continent and the fifth largest continent in the world. It is located almost entirely within the Antarctic Circle and is surrounded by the Southern Ocean.",
+                    "question": "What body of water surrounds Antarctica?",
+                    "answer": "Southern Ocean.",
+                    "explanation": "The Southern Ocean surrounds Antarctica."
+                },
+                {
+                    "context": "The continent is divided into two regions: East Antarctica, which is largely composed of a high ice plateau, and West Antarctica, which is dominated by the Antarctic Peninsula and the ice shelves that surround it. Antarctica is the coldest, driest, and windiest continent on Earth, with temperatures reaching as low as -128.6°F (-89.2°C) and winds reaching speeds of up to 200 mph (320 km/h).",
+                    "question": "Which region of Antarctica is dominated by the Antarctic Peninsula and the surrounding ice shelves?",
+                    "answer": "West Antarctica.",
+                    "explanation": "The Antarctic Peninsula and the ice shelves that surround it are located in the region of Antarctica known as West Antarctica."
+                },
+                {
+                    "context": "The Antarctic Treaty, signed in 1959, designates Antarctica as a scientific preserve and prohibits military activity on the continent. The Antarctic Treaty, signed in 1959, designates Antarctica as a scientific preserve and prohibits military activity on the continent.",
+                    "question": "In what year was the Antarctic Treaty signed, designating Antarctica as a scientific preserve and prohibiting military activity on the continent?",
+                    "answer": "1959.",
+                    "explanation": "The Antarctic Treaty was signed in 1959 and it designated Antarctica as a scientific preserve while also prohibiting military activity on the continent."
+                }
+            ],
+            "hops": [
+                "orchid",
+                "Antarctica."
+            ]
+        },
+        "Scilloideae.": {
+            "term": "Scilloideae.",
+            "passage": "Scilloideae is a subfamily of the Asparagaceae family, which includes plants commonly known as squills. The subfamily contains approximately 90 species, distributed throughout the world, but mainly in the Mediterranean region. The plants in this subfamily are characterized by their bulbous or rhizomatous habit, and their leaves are usually basal and linear. The flowers are usually blue or white, and are arranged in racemes or panicles. The fruit is a capsule containing several seeds. Some species of Scilloideae are used in traditional medicine, and some are cultivated as ornamental plants. The subfamily was first described by John Lindley in 1830, and its name is derived from the genus Scilla, which is the type genus of the subfamily.",
+            "qae_pairs": [
+                {
+                    "context": "The subfamily was first described by John Lindley in 1830, and its name is derived from the genus Scilla, which is the type genus of the subfamily. The subfamily was first described by John Lindley in 1830, and its name is derived from the genus Scilla, which is the type genus of the subfamily.",
+                    "question": "In what year was the subfamily Scilloideae first described by John Lindley?",
+                    "answer": "1830.",
+                    "explanation": "John Lindley described the subfamily Scilloideae in the year 1830."
+                },
+                {
+                    "context": "The subfamily was first described by John Lindley in 1830, and its name is derived from the genus Scilla, which is the type genus of the subfamily. The subfamily was first described by John Lindley in 1830, and its name is derived from the genus Scilla, which is the type genus of the subfamily.",
+                    "question": "Who first described the subfamily Scilloideae?",
+                    "answer": "John Lindley.",
+                    "explanation": "The subfamily Scilloideae was first described by John Lindley in 1830, as stated in the passage."
+                }
+            ],
+            "hops": [
+                "hyacinth",
+                "Scilloideae."
+            ]
+        },
+        "Hyacinthus orientalis.": {
+            "term": "Hyacinthus orientalis.",
+            "passage": "Hyacinthus orientalis, commonly known as the garden hyacinth, is a bulbous plant native to the eastern Mediterranean region, including Turkey, Syria, and Lebanon. It is a popular ornamental plant, grown for its fragrant and colorful flowers in shades of blue, pink, white, and purple. The flowers are arranged in dense spikes on tall, sturdy stems, and bloom in early spring. The leaves are strap-shaped and glossy, and emerge from the base of the plant. Hyacinthus orientalis is easy to grow and requires well-drained soil and full sun to partial shade. It is often planted in borders, rock gardens, and containers, and is also used as a cut flower. The plant has a long history of cultivation, dating back to ancient Greece, where it was associated with the god Apollo and the legend of Hyacinthus.",
+            "qae_pairs": [
+                {
+                    "context": "The plant has a long history of cultivation, dating back to ancient Greece, where it was associated with the god Apollo and the legend of Hyacinthus. The plant has a long history of cultivation, dating back to ancient Greece, where it was associated with the god Apollo and the legend of Hyacinthus.",
+                    "question": "In which country does the history of cultivation of Hyacinthus orientalis date back to ancient times and is associated with the god Apollo and the legend of Hyacinthus?",
+                    "answer": "Greece.",
+                    "explanation": "The history of cultivating Hyacinthus orientalis dates back to ancient Greece, where it was associated with the god Apollo and the legend of Hyacinthus."
+                },
+                {
+                    "context": "The plant has a long history of cultivation, dating back to ancient Greece, where it was associated with the god Apollo and the legend of Hyacinthus. The plant has a long history of cultivation, dating back to ancient Greece, where it was associated with the god Apollo and the legend of Hyacinthus.",
+                    "question": "With which Greek god was Hyacinthus orientalis associated in ancient Greece?",
+                    "answer": "Apollo.",
+                    "explanation": "The plant Hyacinthus orientalis was associated with the Greek god Apollo in ancient Greece, as mentioned in the passage."
+                }
+            ],
+            "hops": [
+                "hyacinth",
+                "Hyacinthus orientalis."
+            ]
+        },
+        "Apollo.": {
+            "term": "Apollo.",
+            "passage": "Apollo is a god in Greek mythology, and one of the Twelve Olympians. He is the son of Zeus and Leto, and the twin brother of Artemis. Apollo is known as the god of music, poetry, prophecy, and healing, among other things. He is often depicted as a handsome young man with long hair and a lyre, or as a bow-wielding archer. Apollo was also associated with the sun, and was sometimes called the \"Sun God\". In addition to his many other roles, Apollo was also a patron of the arts, and was said to have inspired many great works of literature and music. He was worshipped throughout the ancient Greek world, and his cult was particularly strong in Delphi, where he was believed to have a temple and oracle. Today, Apollo remains a popular figure in art, literature, and popular culture, and his influence can be seen in everything from classical music to science fiction.",
+            "qae_pairs": [
+                {
+                    "context": "Apollo is a god in Greek mythology, and one of the Twelve Olympians. He is the son of Zeus and Leto, and the twin brother of Artemis.",
+                    "question": "Who is the mother of Apollo in Greek mythology?",
+                    "answer": "Leto.",
+                    "explanation": "The mother of Apollo in Greek mythology is Leto, as stated in the passage."
+                },
+                {
+                    "context": "Apollo is a god in Greek mythology, and one of the Twelve Olympians. He is the son of Zeus and Leto, and the twin brother of Artemis.",
+                    "question": "Who is the father of Apollo in Greek mythology?",
+                    "answer": "Zeus.",
+                    "explanation": "In Greek mythology, Apollo's father is Zeus."
+                },
+                {
+                    "context": "Apollo is a god in Greek mythology, and one of the Twelve Olympians. He is the son of Zeus and Leto, and the twin brother of Artemis.",
+                    "question": "Who is the twin brother of Apollo in Greek mythology?",
+                    "answer": "Artemis.",
+                    "explanation": "The twin brother of Apollo in Greek mythology is Artemis, as stated in the passage which describes them as siblings and children of Zeus and Leto."
+                },
+                {
+                    "context": "Apollo is known as the god of music, poetry, prophecy, and healing, among other things. He is often depicted as a handsome young man with long hair and a lyre, or as a bow-wielding archer.",
+                    "question": "What musical instrument is often depicted alongside Apollo in art?",
+                    "answer": "The lyre.",
+                    "explanation": "In art, Apollo is often shown with a musical instrument, specifically a lyre."
+                },
+                {
+                    "context": "He was worshipped throughout the ancient Greek world, and his cult was particularly strong in Delphi, where he was believed to have a temple and oracle. Today, Apollo remains a popular figure in art, literature, and popular culture, and his influence can be seen in everything from classical music to science fiction.",
+                    "question": "Where was Apollo's temple and oracle particularly strong in the ancient Greek world?",
+                    "answer": "Delphi.",
+                    "explanation": "The cult of Apollo was particularly strong in Delphi, where he was believed to have a temple and oracle."
+                }
+            ],
+            "hops": [
+                "hyacinth",
+                "Apollo."
+            ]
+        }
+    }
+}

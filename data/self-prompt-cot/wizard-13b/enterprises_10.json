@@ -1,0 +1,966 @@
+{
+    "first_hops": {
+        "Apple Inc.": {
+            "term": "Apple Inc.",
+            "passage": "Apple Inc. is an American multinational technology company headquartered in Cupertino, California, that designs, develops, and sells consumer electronics, computer software, and online services. The company's hardware products include the iPhone smartphone, the iPad tablet computer, the Mac personal computer, the iPod portable media player, the Apple Watch smartwatch, the Apple TV digital media player, and the HomePod smart speaker. Apple's software includes the macOS and iOS operating systems, the iTunes media player, the Safari web browser, and the iLife and iWork creativity and productivity suites. Its online services include the iTunes Store, the iOS App Store, and Mac App Store, Apple Music, and iCloud. Apple was founded by Steve Jobs, Steve Wozniak, and Ronald Wayne in April 1976 to develop and sell Wozniak's Apple I personal computer. It was incorporated as Apple Computer, Inc. in January 1977, and sales of its computers, including the Apple II, grew quickly. Apple went public in 1980 to instant financial success. Over the next few years, Apple shipped new computers featuring innovative graphical user interfaces, such as the original Macintosh in 1984, and Apple's marketing advertisements for its products received widespread critical acclaim. However, the high price of its products and limited application library caused problems, as did power struggles between executives. In 1985, Wozniak departed Apple amicably and remained a shareholder, while Jobs resigned to found NeXT.",
+            "qae_pairs": [
+                {
+                    "question": "Apple's web browser?",
+                    "answer": "Safari",
+                    "explanation": "Apple's software includes the macOS and iOS operating systems, the iTunes media player, the Safari web browser, and the iLife and iWork creativity and productivity suites."
+                },
+                {
+                    "question": "What is the name of the city where Apple Inc. is headquartered?",
+                    "answer": "Cupertino",
+                    "explanation": "Apple Inc. is an American multinational technology company headquartered in Cupertino, California, that designs, develops, and sells consumer electronics, computer software, and online services."
+                },
+                {
+                    "question": "What is the date of Apple's founding?",
+                    "answer": "April 1976",
+                    "explanation": "Apple was founded by Steve Jobs, Steve Wozniak, and Ronald Wayne in April 1976 to develop and sell Wozniak's Apple I personal computer."
+                },
+                {
+                    "question": "What is the date that Apple Computer, Inc. was incorporated?",
+                    "answer": "January 1977",
+                    "explanation": "Apple Computer, Inc. was incorporated in January 1977."
+                },
+                {
+                    "question": "What year did Apple go public?",
+                    "answer": "1980",
+                    "explanation": "Apple went public in 1980 to instant financial success."
+                },
+                {
+                    "question": "'What is a popular Apple product that is a smartphone?'",
+                    "answer": "iPhone",
+                    "explanation": "Apple's hardware products include the iPhone smartphone, the iPad tablet computer, the Mac personal computer, the iPod portable media player, the Apple Watch smartwatch, the Apple TV digital media player, and the HomePod smart speaker."
+                }
+            ],
+            "hops": [
+                "Apple Inc."
+            ]
+        },
+        "Amazon.com": {
+            "term": "Amazon.com",
+            "passage": "Amazon.com, Inc. is an American multinational technology company based in Seattle, Washington that focuses on e-commerce, cloud computing, digital streaming, and artificial intelligence. It is the largest internet-based retailer in the world by total sales and market capitalization. Amazon.com started as an online bookstore, but soon diversified, selling DVDs, CDs, MP3s, software, video games, electronics, apparel, furniture, food, toys, and jewelry. The company also produces consumer electronics—notably, Amazon Kindle e-book readers, Amazon Echo smart speakers, and Amazon Fire tablets—and is the world's largest provider of cloud infrastructure services (IaaS and PaaS) through its Amazon Web Services (AWS) subsidiary. Amazon has also expanded into the delivery of groceries, furniture, and other home goods through Amazon Fresh, Amazon Prime, Amazon Restaurants, and Amazon Home Services. Amazon's initial public offering (IPO) took place on May 15, 1997, and the company's stock price climbed to a peak of US$1,047 a share in 2017 before falling back. In 2019, Amazon surpassed Microsoft to become the most valuable company in the world, with a market capitalization of over $1 trillion. Amazon is the world's largest retailer by total sales and the largest online retailer in the world by total sales. In 2017, Amazon acquired Whole Foods Market for $13.4 billion, which vastly increased Amazon's presence as a brick-and-mortar retailer.",
+            "qae_pairs": [
+                {
+                    "question": "Which of the following services offered by Amazon is a platform that allows customers to hire local professionals for various home-related services?",
+                    "answer": "Amazon Home Services",
+                    "explanation": "Amazon has also expanded into the delivery of groceries, furniture, and other home goods through Amazon Fresh, Amazon Prime, Amazon Restaurants, and Amazon Home Services."
+                },
+                {
+                    "question": "'What is the Amazon service that delivers groceries?'",
+                    "answer": "Amazon Fresh",
+                    "explanation": "Amazon has also expanded into the delivery of groceries, furniture, and other home goods through Amazon Fresh, Amazon Prime, Amazon Restaurants, and Amazon Home Services."
+                },
+                {
+                    "question": "Amazon.com is an American multinational technology company that focuses on e-commerce, cloud computing, digital streaming, and artificial intelligence. What is the name of Amazon's cloud infrastructure services?",
+                    "answer": "Amazon Web Services",
+                    "explanation": "Amazon Web Services (AWS) is the world's largest provider of cloud infrastructure services (IaaS and PaaS)."
+                },
+                {
+                    "question": "What year did Amazon acquire Whole Foods Market?",
+                    "answer": "2017",
+                    "explanation": "Amazon's initial public offering (IPO) took place on May 15, 1997, and the company's stock price climbed to a peak of US$1,047 a share in 2017 before falling back. Answer: Amazon's initial public offering (IPO) took place on May 15, 1997, and the company's stock price climbed to a peak of US$1,047 a share in 2017 before falling back."
+                },
+                {
+                    "question": "What is the Amazon product that allows users to interact with a voice-activated assistant, Amazon Alexa?",
+                    "answer": "Amazon Echo",
+                    "explanation": "Amazon.com started as an online bookstore, but soon diversified, selling DVDs, CDs, MP3s, software, video games, electronics, apparel, furniture, food, toys, and jewelry."
+                }
+            ],
+            "hops": [
+                "Amazon.com"
+            ]
+        },
+        "Microsoft Corporation": {
+            "term": "Microsoft Corporation",
+            "passage": "Microsoft Corporation is an American multinational technology company that develops software, hardware, and services. It was founded by Bill Gates and Paul Allen on April 4, 1975, and is headquartered in Redmond, Washington. Microsoft is the world's largest software maker by revenue, and one of the world's most valuable companies. Microsoft develops and licenses a wide range of software products for various computing devices, including operating systems, server software, productivity software, and video game consoles. Its flagship products include the Windows operating system, Microsoft Office suite, and Internet Explorer web browser. In addition to software development, Microsoft is also involved in hardware manufacturing and selling, such as the Xbox gaming console and Surface line of tablets. The company also offers online services, including the Bing search engine, Skype communication software, and OneDrive cloud storage. Microsoft has a strong presence in the gaming industry, with its Xbox brand being one of the leading gaming consoles in the market. The company also has a significant presence in the professional sports industry, with its Microsoft Teams collaboration software being used by many teams in the National Football League (NFL) and National Basketball Association (NBA). Microsoft has a long history of innovation and has been involved in several groundbreaking technologies, including the development of the first graphical user interface (GUI) for personal computers with Windows, the creation of the .NET framework for developing software, and the development of the Kinect motion sensor for Xbox. The company has faced several legal challenges over the years, including antitrust lawsuits and patent disputes. However, Microsoft has continued to grow and expand its business, with a strong focus on innovation and customer satisfaction.",
+            "qae_pairs": [
+                {
+                    "question": "What is Microsoft's flagship line of tablets and laptops?",
+                    "answer": "Surface",
+                    "explanation": "Microsoft is also involved in hardware manufacturing and selling, such as the Xbox gaming console and Surface line of tablets."
+                },
+                {
+                    "question": "What is the name of the professional sports league that uses Microsoft Teams collaboration software?",
+                    "answer": "the National Football League",
+                    "explanation": "Microsoft is the world's largest software maker by revenue, and one of the world's most valuable companies. Evidence sentence: Microsoft is the world's largest software maker by revenue."
+                },
+                {
+                    "question": "What is the headquarters of Microsoft Corporation?",
+                    "answer": "Redmond",
+                    "explanation": "Microsoft is the world's largest software maker by revenue, and one of the world's most valuable companies. Evidence sentence: Microsoft is the world's largest software maker by revenue, and one of the world's most valuable companies."
+                },
+                {
+                    "question": "What is the name of the operating system developed by Microsoft Corporation?",
+                    "answer": "Windows",
+                    "explanation": "Microsoft is the world's largest software maker by revenue, and one of the world's most valuable companies. Explanation: This sentence provides evidence that Microsoft is a successful and influential company in the technology industry."
+                },
+                {
+                    "question": "What is a software application that allows users to make voice and video calls over the internet? What is a popular social media platform that allows users to share photos and videos? What is a programming language that is commonly used for web development? What is a search engine that is commonly used for finding information on",
+                    "answer": "Skype",
+                    "explanation": "Microsoft is also involved in hardware manufacturing and selling, such as the Xbox gaming console and Surface line of tablets."
+                }
+            ],
+            "hops": [
+                "Microsoft Corporation"
+            ]
+        },
+        "Alphabet Inc.": {
+            "term": "Alphabet Inc.",
+            "passage": "Alphabet Inc. is an American multinational conglomerate headquartered in Mountain View, California. It was created through a corporate restructuring of Google in 2015, and is the parent company of Google and several other companies founded within the Alphabet umbrella. The company's portfolio includes several successful ventures, such as Google's core search and advertising business, as well as subsidiaries such as Google Cloud, Google Ventures, and Google X, which focuses on developing new technologies and products. Other subsidiaries include Nest Labs, which produces smart home products, and Waymo, which is developing self-driving car technology. Alphabet Inc. is one of the world's largest and most valuable companies, with a market capitalization of over $1 trillion as of 2021. Its success is largely attributed to its ability to innovate and adapt to changing market conditions, as well as its strong focus on research and development. The company has also faced criticism for its dominance in the tech industry and its impact on privacy and competition. In 2020, the Federal Trade Commission fined Alphabet $170 million for violating a consent decree related to its acquisition of the mobile advertising company AdMob. Despite these challenges, Alphabet Inc. continues to be a leader in the tech industry and a major player in the global economy. Its focus on innovation and its ability to adapt to changing market conditions make it a company to watch in the years to come.",
+            "qae_pairs": [
+                {
+                    "question": "What is the state that is the home of the headquarters of Alphabet Inc.?",
+                    "answer": "California",
+                    "explanation": "Alphabet Inc. is an American multinational conglomerate headquartered in Mountain View, California."
+                },
+                {
+                    "question": "'What is the name of the subsidiary of Alphabet Inc. that provides cloud computing services?'",
+                    "answer": "Google Cloud",
+                    "explanation": "Alphabet Inc. is one of the world's largest and most valuable companies, with a market capitalization of over $1 trillion as of 2021."
+                },
+                {
+                    "question": "'Which year did the Federal Trade Commission fine Alphabet $170 million for violating a consent decree related to its acquisition of the mobile advertising company AdMob?'",
+                    "answer": "2020",
+                    "explanation": "In 2020, the Federal Trade Commission fined Alphabet $170 million for violating a consent decree related to its acquisition of the mobile advertising company AdMob."
+                },
+                {
+                    "question": "What company produces smart home products?",
+                    "answer": "Nest Labs",
+                    "explanation": "Nest Labs, which produces smart home products, is a subsidiary of Alphabet Inc."
+                },
+                {
+                    "question": "'Which company did the Federal Trade Commission fine $170 million for violating a consent decree related to its acquisition?'",
+                    "answer": "AdMob",
+                    "explanation": "The Federal Trade Commission fined Alphabet $170 million for violating a consent decree related to its acquisition of the mobile advertising company AdMob."
+                },
+                {
+                    "question": "'What is the location of the headquarters of Alphabet Inc.?'",
+                    "answer": "Mountain View",
+                    "explanation": "Alphabet Inc. is an American multinational conglomerate headquartered in Mountain View, California."
+                },
+                {
+                    "question": "What is the name of the subsidiary of Alphabet Inc. that focuses on developing new technologies and products?",
+                    "answer": "Google X",
+                    "explanation": "Google X is the subsidiary of Alphabet Inc. that focuses on developing new technologies and products."
+                }
+            ],
+            "hops": [
+                "Alphabet Inc."
+            ]
+        },
+        "Facebook": {
+            "term": "Facebook",
+            "passage": "Facebook is an American online social media and social networking service based in Menlo Park, California. Its website was launched on February 4, 2004, by Mark Zuckerberg, along with fellow Harvard College students and roommates Eduardo Saverin, Andrew McCollum, Dustin Moskovitz, and Chris Hughes. The founders initially limited the website's membership to Harvard students, but later expanded it to other colleges in the Boston area, the Ivy League, and eventually, to any university student with a valid email address. Membership was eventually opened to anyone with a valid email address, and the site began to attract users outside of the university population. Facebook has more than 2.7 billion monthly active users as of January 2021, which is roughly 36% of the world's population. As of May 2021, Facebook is the most popular social networking site in the world, followed by YouTube, WhatsApp, and Messenger. Facebook's revenue was $70.7 billion in 2019, and it is expected to reach $85.9 billion in 2020. The company has also faced controversies over its handling of user data, election interference, and its role in spreading misinformation. Facebook's mission is to give people the power to build community and bring the world closer together. The company aims to create a platform that allows people to connect with each other, share information, and build relationships. Facebook's features include the ability to create a personal profile, share photos and videos, send messages, and join groups based on common interests. The site also allows users to connect with friends, family, and acquaintances, and to create and join groups based on shared interests.",
+            "qae_pairs": [
+                {
+                    "question": "'What is the name of one of the founders of Facebook?'",
+                    "answer": "Eduardo Saverin",
+                    "explanation": "Facebook's website was launched on February 4, 2004, by Mark Zuckerberg, along with fellow Harvard College students and roommates Eduardo Saverin, Andrew McCollum, Dustin Moskovitz, and Chris Hughes."
+                },
+                {
+                    "question": "\"What is the state that Facebook's headquarters is located in?\"",
+                    "answer": "California",
+                    "explanation": "Facebook has more than 2.7 billion monthly active users as of January 2021, which is roughly 36% of the world's population."
+                },
+                {
+                    "question": "'Who were the co-founders of Facebook along with Mark Zuckerberg?'",
+                    "answer": "Andrew McCollum",
+                    "explanation": "The founders initially limited the website's membership to Harvard students, but later expanded it to other colleges in the Boston area, the Ivy League, and eventually, to any university student with a valid email address. This sentence explains how Facebook's membership was initially limited to Harvard students but later expanded to other colleges and universities."
+                },
+                {
+                    "question": "Who are the founders of Facebook?",
+                    "answer": "Dustin Moskovitz",
+                    "explanation": "The founders initially limited the website's membership to Harvard students, but later expanded it to other colleges in the Boston area, the Ivy League, and eventually, to any university student with a valid email address."
+                },
+                {
+                    "question": "'What is Facebook's messaging app called?'",
+                    "answer": "Messenger",
+                    "explanation": "Facebook's messaging app is called Messenger."
+                },
+                {
+                    "question": "What is the year in which Facebook's revenue was $70.7 billion?",
+                    "answer": "2019",
+                    "explanation": "Facebook's revenue was $70.7 billion in 2019, and it is expected to reach $85.9 billion in 2020."
+                },
+                {
+                    "question": "What is the name of the university where Facebook was initially limited to its membership?",
+                    "answer": "Harvard College",
+                    "explanation": "Facebook's website was launched on February 4, 2004, by Mark Zuckerberg, along with fellow Harvard College students and roommates Eduardo Saverin, Andrew McCollum, Dustin Moskovitz, and Chris Hughes."
+                }
+            ],
+            "hops": [
+                "Facebook"
+            ]
+        },
+        "Berkshire Hathaway Inc.": {
+            "term": "Berkshire Hathaway Inc.",
+            "passage": "Berkshire Hathaway Inc. is an American multinational conglomerate holding company headquartered in Omaha, Nebraska, United States. The company is led by chairman and CEO Warren Buffett, who is considered one of the most successful investors in the world. Berkshire Hathaway is the fourth-largest public company in the world, with a market capitalization of over $500 billion as of 2021. Berkshire Hathaway was founded in 1839 as a textile manufacturer, and it grew to become one of the largest companies in the world by the early 20th century. However, the company struggled in the latter half of the 20th century as it failed to adapt to changing market conditions and technological advancements. In 1965, Warren Buffett began purchasing shares in Berkshire Hathaway, and by 1970 he had acquired a controlling interest in the company. Under Buffett's leadership, Berkshire Hathaway shifted its focus from textiles to investing in a diverse range of companies across various industries. Today, the company's portfolio includes well-known brands such as Coca-Cola, Apple, American Express, and Geico, among others. Berkshire Hathaway also has significant investments in the insurance industry, including GEICO, Berkshire Hathaway Homestate Companies, and General Re Corporation. Berkshire Hathaway is known for its long-term investment strategy, which emphasizes buying and holding onto companies for many years. The company has also been successful in identifying undervalued companies and making strategic acquisitions to expand its portfolio.",
+            "qae_pairs": [
+                {
+                    "question": "What year was Berkshire Hathaway founded?",
+                    "answer": "1839",
+                    "explanation": "Berkshire Hathaway was founded in 1839 as a textile manufacturer, and it grew to become one of the largest companies in the world by the early 20th century."
+                },
+                {
+                    "question": "'Which of the following companies is part of Berkshire Hathaway's portfolio?'",
+                    "answer": "American Express",
+                    "explanation": "Berkshire Hathaway's portfolio includes well-known brands such as Coca-Cola, Apple, American Express, and Geico, among others."
+                },
+                {
+                    "question": "What year did Warren Buffett begin purchasing shares in Berkshire Hathaway?",
+                    "answer": "1965",
+                    "explanation": "Warren Buffett began purchasing shares in Berkshire Hathaway in 1965."
+                }
+            ],
+            "hops": [
+                "Berkshire Hathaway Inc."
+            ]
+        },
+        "JPMorgan Chase": {
+            "term": "JPMorgan Chase",
+            "passage": "JPMorgan Chase & Co. is an American multinational investment bank and financial services company headquartered in New York City. JPMorgan Chase is the largest bank in the United States, with total assets of $2.6 trillion and is one of the largest banks in the world. The company was formed in 2000, when Chase Manhattan Corporation merged with J.P. Morgan & Co. JPMorgan Chase provides a wide range of financial services, including investment banking, asset management, commercial banking, and retail banking. The company operates in more than 60 countries and has over 240,000 employees. JPMorgan Chase is also one of the largest credit card issuers in the United States, with over 83 million active accounts. JPMorgan Chase has a strong presence in the global financial markets, and is one of the largest underwriters of debt and equity securities in the world. The company also has a significant presence in the derivatives market, and is one of the largest traders of interest rate and foreign exchange derivatives. In addition to its financial services business, JPMorgan Chase is also involved in various philanthropic activities. The company has a long history of supporting education, and has donated millions of dollars to schools and universities across the United States. JPMorgan Chase also has a strong commitment to environmental sustainability, and has pledged to reduce its carbon footprint by 50% by 2020. JPMorgan Chase has faced several legal and regulatory challenges in recent years.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the company that merged with Chase Manhattan Corporation to form JPMorgan Chase & Co.?",
+                    "answer": "J.P. Morgan & Co",
+                    "explanation": "JPMorgan Chase & Co. is an American multinational investment bank and financial services company headquartered in New York City. JPMorgan Chase is the largest bank in the United States, with total assets of $2.6 trillion and is one of the largest banks in the world. The company was formed in 2000, when Chase Manhattan Corporation merged with J.P. Morgan & Co."
+                },
+                {
+                    "question": "What year did Chase Manhattan Corporation merge with J.P. Morgan & Co. to form JPMorgan Chase & Co.?",
+                    "answer": "2000",
+                    "explanation": "JPMorgan Chase is the largest bank in the United States, with total assets of $2.6 trillion and is one of the largest banks in the world. Explanation:  This sentence is an evidence sentence because it provides a factual statement about the size and ranking of JPMorgan Chase in the banking industry."
+                },
+                {
+                    "question": "1. What is the name of the country where JPMorgan Chase is headquartered? 2. What is the name of the company that merged with J.P. Morgan & Co. to form JPMorgan Chase? 3. What is the name of the largest bank in",
+                    "answer": "the United States",
+                    "explanation": "JPMorgan Chase is the largest bank in the United States, with total assets of $2.6 trillion and is one of the largest banks in the world."
+                },
+                {
+                    "question": "What is the name of the bank that merged with J.P. Morgan & Co. to form JPMorgan Chase & Co.?",
+                    "answer": "Chase Manhattan Corporation",
+                    "explanation": "JPMorgan Chase & Co. is an American multinational investment bank and financial services company headquartered in New York City. JPMorgan Chase is the largest bank in the United States, with total assets of $2.6 trillion and is one of the largest banks in the world. The company was formed in 2000, when Chase Manhattan Corporation merged with J.P. Morgan & Co."
+                }
+            ],
+            "hops": [
+                "JPMorgan Chase"
+            ]
+        },
+        "Johnson": {
+            "term": "Johnson",
+            "passage": "Johnson was a prominent figure in the American Civil Rights Movement, who played a key role in the struggle for racial equality in the United States during the 1950s and 1960s. He was born on January 15, 1930, in Montgomery, Alabama, and grew up in a family that was deeply involved in the struggle for civil rights. Johnson's father was a Baptist minister, and his mother was a schoolteacher. Johnson attended segregated public schools in Montgomery, where he was an excellent student and a standout athlete. He went on to attend the historically black Tuskegee Institute, where he studied mechanical engineering. After graduating in 1952, Johnson worked as a teacher and a coach in rural Alabama. In 1955, Johnson became involved in the civil rights movement when he was recruited by the Montgomery Improvement Association to serve as a leader in the bus boycott. He played a key role in organizing the boycott, which lasted for over a year and ultimately led to the desegregation of Montgomery's public transportation system. Johnson's leadership in the bus boycott made him a national figure, and he went on to become a prominent leader in the civil rights movement. He worked closely with Martin Luther King Jr. and other civil rights leaders, and played a key role in organizing the March on Washington in 1963. Johnson was also a key figure in the Selma to Montgomery marches, which were a series of protests that took place in 1965. The marches were organized to demand voting rights for African Americans, and they were met with violent resistance from state and local authorities.",
+            "qae_pairs": [
+                {
+                    "question": "What is the country where Johnson was a prominent figure in the American Civil Rights Movement?",
+                    "answer": "the United States",
+                    "explanation": "Johnson was a prominent figure in the American Civil Rights Movement, who played a key role in the struggle for racial equality in the United States during the 1950s and 1960s."
+                },
+                {
+                    "question": "What is the capital city of the United States of America?",
+                    "answer": "Washington",
+                    "explanation": "Johnson's father was a Baptist minister, and his mother was a schoolteacher. Evidence sentence: Johnson's father was a Baptist minister, and his mother was a schoolteacher."
+                },
+                {
+                    "question": "What year did the Selma to Montgomery marches take place?",
+                    "answer": "1965",
+                    "explanation": "Johnson's leadership in the bus boycott made him a national figure, and he went on to become a prominent leader in the civil rights movement. He worked closely with Martin Luther King Jr. and other civil rights leaders, and played a key role in organizing the March on Washington in 1963."
+                },
+                {
+                    "question": "What year did Johnson become involved in the civil rights movement?",
+                    "answer": "1955",
+                    "explanation": "Johnson played a key role in organizing the bus boycott, which lasted for over a year and ultimately led to the desegregation of Montgomery's public transportation system."
+                }
+            ],
+            "hops": [
+                "Johnson"
+            ]
+        },
+        "Procter": {
+            "term": "Procter",
+            "passage": "Procter & Gamble (P&G) is an American multinational consumer goods corporation headquartered in downtown Cincinnati, Ohio, United States, founded in 1837 by William Procter and James Gamble. It specializes in a wide range of products, including cleaning agents, and personal care products. P&G is known for its many well-known brands, such as Tide laundry detergent, Crest toothpaste, and Pampers diapers. The company also produces a variety of other household products, including Dawn dishwashing liquid, Gillette razors, and Charmin toilet paper. P&G is one of the largest consumer goods companies in the world, with operations in over 70 countries. The company has a strong focus on research and development, and is known for its innovative products and marketing strategies. In addition to its consumer products, P&G also has a strong presence in the beauty and grooming industry, with brands such as Olay, Head & Shoulders, and Old Spice. The company is committed to sustainability and has set ambitious goals to reduce its environmental impact, including reducing greenhouse gas emissions and increasing the use of renewable energy. P&G has a long history of corporate social responsibility, and has been recognized for its efforts in areas such as diversity and inclusion, community involvement, and philanthropy. The company has also been named one of the World's Most Ethical Companies by Ethisphere Institute for 14 consecutive years.",
+            "qae_pairs": [
+                {
+                    "question": "Procter & Gamble is an American multinational consumer goods corporation headquartered in which country?",
+                    "answer": "United States",
+                    "explanation": "P&G is known for its many well-known brands, such as Tide laundry detergent, Crest toothpaste, and Pampers diapers. This sentence provides evidence that Procter & Gamble is known for its many well-known brands."
+                },
+                {
+                    "question": "What is one of P&G's well-known brands of toilet paper?",
+                    "answer": "Charmin",
+                    "explanation": "P&G is known for its many well-known brands, such as Tide laundry detergent, Crest toothpaste, and Pampers diapers. The company also produces a variety of other household products, including Dawn dishwashing liquid, Gillette razors, and Charmin toilet paper. This sentence explains that P&G is known for producing many well-known brands, including Charmin toilet paper, which is one of the company's household products."
+                },
+                {
+                    "question": "Who founded Procter & Gamble with William Procter?",
+                    "answer": "James Gamble",
+                    "explanation": "P&G is known for its many well-known brands, such as Tide laundry detergent, Crest toothpaste, and Pampers diapers. Evidence sentence: P&G is known for its many well-known brands."
+                },
+                {
+                    "question": "Which toothpaste brand is known for its cavity protection and whitening properties?",
+                    "answer": "Crest",
+                    "explanation": "P&G is known for its many well-known brands, such as Tide laundry detergent, Crest toothpaste, and Pampers diapers. Explanation: The evidence sentence is extracted from the passage as an explanation of the fact that P&G is known for its many well-known brands, including Crest toothpaste, which is known for its cavity protection and whitening properties."
+                },
+                {
+                    "question": "What is the answer to the question \"How many consecutive years has Procter & Gamble been named one of the World's Most Ethical Companies by Ethisphere Institute?\"",
+                    "answer": "14 consecutive years",
+                    "explanation": "P&G has been named one of the World's Most Ethical Companies by Ethisphere Institute for 14 consecutive years."
+                },
+                {
+                    "question": "What is the name of the organization that has named Procter & Gamble one of the World's Most Ethical Companies for 14 consecutive years?",
+                    "answer": "Ethisphere Institute",
+                    "explanation": "Procter & Gamble has been named one of the World's Most Ethical Companies by Ethisphere Institute for 14 consecutive years."
+                },
+                {
+                    "question": "What is the name of the state where the headquarters of Procter & Gamble is located?",
+                    "answer": "Ohio",
+                    "explanation": "Procter & Gamble is known for its innovative products and marketing strategies."
+                },
+                {
+                    "question": "What is the name of the American multinational consumer goods corporation headquartered in downtown Cincinnati, Ohio, United States, founded in 1837 by William Procter and James Gamble?",
+                    "answer": "P&G",
+                    "explanation": "P&G is known for its many well-known brands, such as Tide laundry detergent, Crest toothpaste, and Pampers diapers."
+                },
+                {
+                    "question": "What is the name of the well-known brand of razors produced by Procter & Gamble?",
+                    "answer": "Gillette",
+                    "explanation": "Procter & Gamble is known for its innovative products and marketing strategies."
+                }
+            ],
+            "hops": [
+                "Procter"
+            ]
+        },
+        "Exxon Mobil Corporation": {
+            "term": "Exxon Mobil Corporation",
+            "passage": "Exxon Mobil Corporation is an American multinational oil and gas corporation headquartered in Irving, Texas. It is the largest direct descendant of John D. Rockefeller's Standard Oil Company, and was formed on November 30, 1999, by the merger of Exxon and Mobil. The company is the largest oil refiner in the world, with a refining capacity of 5.5 million barrels per day. It is also one of the world's largest producers of natural gas, and the largest producer of oil in the United States. Exxon Mobil's operations are divided into two main businesses: Upstream and Downstream. The Upstream business is focused on oil and gas exploration, development, and production, while the Downstream business is focused on refining, marketing, and distributing petroleum products. The company operates in most countries around the world, and has a diverse portfolio of energy resources, including oil, natural gas, coal, and renewable energy sources. Exxon Mobil is one of the largest publicly traded companies in the world, with a market capitalization of over $200 billion. It is also one of the most profitable companies in the world, with a net income of over $20 billion in 2019. The company has been involved in several controversies over the years, including allegations of environmental pollution and human rights abuses. However, it has also been recognized for its corporate social responsibility initiatives, including its support for education and community development programs.",
+            "qae_pairs": [
+                {
+                    "question": "What state is the headquarters of Exxon Mobil Corporation?",
+                    "answer": "Texas",
+                    "explanation": "Exxon Mobil Corporation is an American multinational oil and gas corporation headquartered in Irving, Texas."
+                },
+                {
+                    "question": "What is Exxon Mobil Corporation's business focused on?",
+                    "answer": "Upstream",
+                    "explanation": "Exxon Mobil Corporation's operations are divided into two main businesses: Upstream and Downstream. The Upstream business is focused on oil and gas exploration, development, and production."
+                },
+                {
+                    "question": "What is the net income of Exxon Mobil Corporation in?",
+                    "answer": "2019",
+                    "explanation": "Exxon Mobil Corporation is one of the largest publicly traded companies in the world, with a market capitalization of over $200 billion."
+                },
+                {
+                    "question": "Who is the founder of Exxon Mobil Corporation?",
+                    "answer": "John D. Rockefeller's",
+                    "explanation": "Exxon Mobil Corporation is the largest direct descendant of John D. Rockefeller's Standard Oil Company, and was formed on November 30, 1999, by the merger of Exxon and Mobil."
+                },
+                {
+                    "question": "Which city is the headquarters of Exxon Mobil Corporation?",
+                    "answer": "Irving",
+                    "explanation": "Exxon Mobil Corporation is an American multinational oil and gas corporation headquartered in Irving, Texas."
+                },
+                {
+                    "question": "What is the business of Exxon Mobil Corporation that is focused on refining, marketing, and distributing petroleum products?",
+                    "answer": "Downstream",
+                    "explanation": "Exxon Mobil Corporation is one of the largest publicly traded companies in the world, with a market capitalization of over $200 billion."
+                }
+            ],
+            "hops": [
+                "Exxon Mobil Corporation"
+            ]
+        }
+    },
+    "second_hops": {
+        "Safari": {
+            "term": "Safari",
+            "passage": "Safari is a web browser developed by Apple Inc. First released as a public beta in January 2003 with Mac OS X version 10.2, it became a default browser on Mac OS X with version 10.3 \"Panther\". Safari is also the native browser for iOS devices, including the iPhone, iPad, and iPod Touch. It is also available for Windows. Safari has been praised for its speed, ease of use, and security features, such as its phishing and fraud protection. It also includes the ability to block pop-up windows and the ability to save web pages in various formats, including PDF. Safari is also known for its support of web standards, including HTML5, CSS3, and JavaScript.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the CSS3 feature that Safari supports?",
+                    "answer": "CSS3",
+                    "explanation": "Safari is a web browser developed by Apple Inc. It became a default browser on Mac OS X with version 10.3 Panther. Safari is also the native browser for iOS devices. It is also available for Windows. Safari has been praised for its speed, ease of use, and security features. It also includes the ability to block pop-up windows and the ability to save web pages in various formats. Safari is also known for its support of web standards, including HTML5, CSS3, and JavaScript."
+                },
+                {
+                    "question": "What was the month when Safari, the web browser developed by Apple Inc., was first released as a public beta?",
+                    "answer": "January 2003",
+                    "explanation": "Safari was first released as a public beta in January 2003 with Mac OS X version 10.2."
+                },
+                {
+                    "question": "What device is Safari the default browser for?",
+                    "answer": "iPad",
+                    "explanation": "Safari is also the native browser for iOS devices, including the iPhone, iPad, and iPod Touch."
+                },
+                {
+                    "question": "What format does Safari support for saving web pages?",
+                    "answer": "PDF",
+                    "explanation": "Safari is also known for its support of web standards, including HTML5, CSS3, and JavaScript."
+                }
+            ],
+            "hops": [
+                "Apple Inc.",
+                "Safari"
+            ]
+        },
+        "Cupertino": {
+            "term": "Cupertino",
+            "passage": "Cupertino is a city in Santa Clara County, California, United States, directly west of San Jose on the western edge of the Santa Clara Valley with portions extending into the foothills of the Santa Cruz Mountains. The population was 58,302 as of the 2010 census. Forbes ranked Cupertino as one of the most educated small towns, with over 70% of adults holding a bachelor's degree or higher. It is known as the home of the Apple Inc. corporate headquarters.",
+            "qae_pairs": [
+                {
+                    "question": "What is the city that is directly west of Cupertino, California, and is known as the \"Capital of Silicon Valley\"?",
+                    "answer": "San Jose",
+                    "explanation": "Forbes ranked Cupertino as one of the most educated small towns, with over 70% of adults holding a bachelor's degree or higher. Evidence sentence: Forbes ranked Cupertino as one of the most educated small towns, with over 70% of adults holding a bachelor's degree or higher. Explanation: The evidence sentence explains that Cupertino is known for having a highly educated population, with a high percentage of adults holding a bachelor's degree or higher."
+                },
+                {
+                    "question": "What is the name of the county where the city of Cupertino is located?",
+                    "answer": "Santa Clara County",
+                    "explanation": "The population was 58,302 as of the 2010 census. This sentence is an evidence sentence because it provides a specific number of the population of Cupertino as of a certain year, which supports the statement that Cupertino is a city in Santa Clara County, California, United States."
+                },
+                {
+                    "question": "What are the foothills of the Santa Cruz Mountains that extend into Cupertino?",
+                    "answer": "Santa Cruz Mountains",
+                    "explanation": "The population was 58,302 as of the 2010 census."
+                }
+            ],
+            "hops": [
+                "Apple Inc.",
+                "Cupertino"
+            ]
+        },
+        "iPhone": {
+            "term": "iPhone",
+            "passage": "The iPhone is a line of smartphones designed and marketed by Apple Inc. The first iPhone was announced by Steve Jobs, then CEO of Apple, on January 9, 2007, and was released on June 29, 2007. The user interface is built around the device's multi-touch screen, including a virtual keyboard. The iPhone has Wi-Fi and cellular connectivity, as well as Bluetooth and GPS capabilities. The iPhone's operating system, iOs, is the second most popular mobile operating system in the world as of 2021. The iPhone has been a significant player in the smartphone market since its introduction, and has been credited with helping to popularize the smartphone as a mainstream consumer device.",
+            "qae_pairs": [
+                {
+                    "question": "What year did the iPhone become the second most popular mobile operating system in the world?",
+                    "answer": "2021",
+                    "explanation": "The iPhone has been a significant player in the smartphone market since its introduction, and has been credited with helping to popularize the smartphone as a mainstream consumer device."
+                },
+                {
+                    "question": "What was the name of the person who introduced the first iPhone in 2007?",
+                    "answer": "Steve Jobs",
+                    "explanation": "The user interface is built around the device's multi-touch screen, including a virtual keyboard."
+                },
+                {
+                    "question": "What date was the first iPhone announced by Steve Jobs?",
+                    "answer": "January 9, 2007",
+                    "explanation": "The first iPhone was announced by Steve Jobs, then CEO of Apple, on January 9, 2007, and was released on June 29, 2007."
+                },
+                {
+                    "question": "What date did the first iPhone become available to the public?",
+                    "answer": "June 29, 2007",
+                    "explanation": "The iPhone has been a significant player in the smartphone market since its introduction, and has been credited with helping to popularize the smartphone as a mainstream consumer device. Rationale: This sentence explains the impact of the iPhone on the smartphone market and how it has contributed to the popularity of smartphones as a mainstream consumer device. Questions: 1. What is the iPhone? 2. When was the first iPhone announced? 3. What are some of the features of the iPhone? 4."
+                }
+            ],
+            "hops": [
+                "Apple Inc.",
+                "iPhone"
+            ]
+        },
+        "Amazon Fresh": {
+            "term": "Amazon Fresh",
+            "passage": "Amazon Fresh is a subsidiary of Amazon.com that offers a grocery delivery service. The service was launched in Seattle in 2007 and has since expanded to other cities in the United States and the United Kingdom. Amazon Fresh offers a wide range of grocery items, including fresh produce, meat, dairy, and household essentials. Customers can place orders online or through the Amazon Fresh app and receive deliveries within a designated time slot. Amazon Fresh also offers a subscription service that allows customers to receive regular deliveries of their favorite items. The service has faced criticism for its environmental impact, as it relies heavily on single-use packaging and has been accused of contributing to food waste. Despite these concerns, Amazon Fresh has continued to grow in popularity and is seen as a major player in the online grocery market.",
+            "qae_pairs": [
+                {
+                    "question": "What city was Amazon Fresh launched in?",
+                    "answer": "Seattle",
+                    "explanation": "Amazon Fresh was launched in Seattle in 2007."
+                },
+                {
+                    "question": "What year did Amazon Fresh launch its grocery delivery service?",
+                    "answer": "2007",
+                    "explanation": "Amazon Fresh offers a wide range of grocery items, including fresh produce, meat, dairy, and household essentials."
+                },
+                {
+                    "question": "What is the name of the country where Amazon Fresh is available?",
+                    "answer": "the United States",
+                    "explanation": "Amazon Fresh offers a wide range of grocery items, including fresh produce, meat, dairy, and household essentials. Evidence sentence: Amazon Fresh offers a wide range of grocery items, including fresh produce, meat, dairy, and household essentials."
+                }
+            ],
+            "hops": [
+                "Amazon.com",
+                "Amazon Fresh"
+            ]
+        },
+        "Amazon Web Services": {
+            "term": "Amazon Web Services",
+            "passage": "Amazon Web Services (AWS) is a subsidiary of Amazon.com that provides on-demand cloud computing platforms to individuals, companies, and governments, on a paid basis with a free tier for 12 months. AWS specializes in providing a broad set of global compute, storage, and database services over the Internet. The most central and well-known of these services are Amazon Elastic Compute Cloud (EC2) and Amazon Simple Storage Service (S3). AWS's suite of services is used by companies and governments in more than 190 countries around the world.",
+            "qae_pairs": [
+                {
+                    "question": "What is the duration of the free tier offered by Amazon Web Services?",
+                    "answer": "12 months",
+                    "explanation": "AWS specializes in providing a broad set of global compute, storage, and database services over the Internet. Evidence sentence: AWS specializes in providing a broad set of global compute, storage, and database services over the Internet."
+                },
+                {
+                    "question": "What service provided by Amazon Web Services is used for storing and retrieving data on the internet?",
+                    "answer": "Amazon Simple Storage Service",
+                    "explanation": "Amazon Simple Storage Service (S3) is used for storing and retrieving data on the internet."
+                },
+                {
+                    "question": "What is the name of the service provided by Amazon Web Services that allows users to rent computing power and storage on a pay-as-you-go basis?",
+                    "answer": "Amazon Elastic Compute Cloud",
+                    "explanation": "Amazon Web Services (AWS) is a subsidiary of Amazon.com that provides on-demand cloud computing platforms to individuals, companies, and governments, on a paid basis with a free tier for 12 months. AWS specializes in providing a broad set of global compute, storage, and database services over the Internet. The most central and well-known of these services are Amazon Elastic Compute Cloud (EC2) and Amazon Simple Storage Service (S3). AWS's suite of services is used by companies and governments in more than 190 countries around the world."
+                }
+            ],
+            "hops": [
+                "Amazon.com",
+                "Amazon Web Services"
+            ]
+        },
+        "Amazon Echo": {
+            "term": "Amazon Echo",
+            "passage": "Amazon Echo is a smart speaker developed by Amazon.com. It uses the voice-activated virtual assistant Alexa, which can perform various tasks such as playing music, setting alarms, and answering questions. The device is controlled using voice commands, and can also be controlled using a mobile app. The Echo is capable of connecting to other smart devices in the home, such as lights and thermostats, and can be used to control them. The Echo is available in several different models, including the Echo Dot, Echo Plus, and Echo Show. The Echo has become a popular device for home automation and smart home technology.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the smallest and most affordable Amazon Echo device?",
+                    "answer": "the Echo Dot",
+                    "explanation": "The Echo is capable of connecting to other smart devices in the home, such as lights and thermostats, and can be used to control them. Answer: The Echo is capable of connecting to other smart devices in the home, such as lights and thermostats, and can be used to control them."
+                }
+            ],
+            "hops": [
+                "Amazon.com",
+                "Amazon Echo"
+            ]
+        },
+        "Surface": {
+            "term": "Surface",
+            "passage": "Surface is a line or plane that is the boundary of a three-dimensional space. It is an example of a mathematical object that is defined in terms of other mathematical objects. Surfaces can be classified into several types, including plane surfaces, curved surfaces, and surfaces of constant width. Plane surfaces are flat and have no curvature, while curved surfaces have a continuous curvature in all directions. Surfaces of constant width are surfaces that have a constant distance between their points and a reference plane. Surfaces can also be classified based on their geometric properties, such as their curvature, torsion, and Gaussian curvature. Surfaces play an important role in mathematics, physics, and engineering, and are used to model a wide range of phenomena, from the shape of the Earth to the flow of fluids.",
+            "qae_pairs": [
+                {
+                    "question": "What is the surface area of the Earth?",
+                    "answer": "Earth",
+                    "explanation": "Surfaces can be classified into several types, including plane surfaces, curved surfaces, and surfaces of constant width. Plane surfaces are flat and have no curvature, while curved surfaces have a continuous curvature in all directions. Surfaces of constant width are surfaces that have a constant distance between their points and a reference plane. Surfaces can also be classified based on their geometric properties, such as their curvature, torsion, and Gaussian curvature."
+                }
+            ],
+            "hops": [
+                "Microsoft Corporation",
+                "Surface"
+            ]
+        },
+        "Redmond": {
+            "term": "Redmond",
+            "passage": "Redmond is a city in King County, Washington, United States, located 16 miles (26 km) east of Seattle, within the Seattle metropolitan area. The population was 60,096 at the 2020 census. Redmond is known as the \"Bicycle Capital of the Northwest\" and is home to the Overlake Transit Center, the northern terminus of Sound Transit's Express Bus Service. It is also home to Marymoor Park, which is known for its outdoor concerts and movies and its dog park. The city has a strong economy, driven by its technology sector, with companies such as Nintendo of America, Concur Technologies, and Microsoft having major offices in the city. Redmond is also home to the headquarters of the Washington Technology Industry Association, the Northwest Entrepreneur Network, and the Pacific Northwest Software Association.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the organization that is headquartered in Redmond and serves as a trade association for software companies in the Pacific Northwest?",
+                    "answer": "the Pacific Northwest Software Association",
+                    "explanation": "Redmond is known as the Bicycle Capital of the Northwest and is home to the Overlake Transit Center, the northern terminus of Sound Transit's Express Bus Service. Evidence sentence: Redmond is known as the Bicycle Capital of the Northwest."
+                },
+                {
+                    "question": "What organization is headquartered in Redmond that focuses on promoting and supporting the technology industry in the Pacific Northwest?",
+                    "answer": "the Washington Technology Industry Association",
+                    "explanation": "The city has a strong economy, driven by its technology sector, with companies such as Nintendo of America, Concur Technologies, and Microsoft having major offices in the city. Explanation: This sentence explains that Redmond has a strong economy that is driven by its technology sector, with several major technology companies having offices in the city."
+                },
+                {
+                    "question": "What technology company in Redmond, Washington, is known for its travel and expense management software?",
+                    "answer": "Concur Technologies",
+                    "explanation": "Redmond is known as the Bicycle Capital of the Northwest and is home to the Overlake Transit Center, the northern terminus of Sound Transit's Express Bus Service. It is also home to Marymoor Park, which is known for its outdoor concerts and movies and its dog park."
+                }
+            ],
+            "hops": [
+                "Microsoft Corporation",
+                "Redmond"
+            ]
+        },
+        "Windows": {
+            "term": "Windows",
+            "passage": "Windows is a series of operating systems developed by Microsoft. It is the most widely used operating system in the world, with over 1.5 billion users. Windows was first released in 1985 as an operating environment for IBM PC-compatible computers. It has since been adapted to run on a wide range of hardware platforms. The most recent version of Windows is Windows 10, which was released in 2015. Windows is known for its user-friendly interface and wide range of software applications. It is used by individuals, businesses, and organizations around the world for a variety of purposes, including personal computing, gaming, and enterprise computing.",
+            "qae_pairs": [
+                {
+                    "question": "What year was Windows first released?",
+                    "answer": "1985",
+                    "explanation": "Windows was first released in 1985 as an operating environment for IBM PC-compatible computers."
+                },
+                {
+                    "question": "What year was the most recent version of Windows released?",
+                    "answer": "2015",
+                    "explanation": "Windows was first released in 1985 as an operating environment for IBM PC-compatible computers."
+                },
+                {
+                    "question": "What company was the first to develop Windows operating system?",
+                    "answer": "IBM",
+                    "explanation": "Windows was first released in 1985 as an operating environment for IBM PC-compatible computers."
+                },
+                {
+                    "question": "What is the name of the company that developed the Windows operating system?",
+                    "answer": "Microsoft",
+                    "explanation": "Windows is known for its user-friendly interface and wide range of software applications. Evidence sentence: Windows is known for its user-friendly interface and wide range of software applications."
+                }
+            ],
+            "hops": [
+                "Microsoft Corporation",
+                "Windows"
+            ]
+        },
+        "Skype": {
+            "term": "Skype",
+            "passage": "Skype is a telecommunications application software product that specializes in providing video chat and voice call services via the Internet. Skype was founded in 2003 by Niklas Zennström and Janus Friis, in Stockholm, Sweden. Skype was originally developed by the Swedish company Skype AB, but was later bought by eBay in 2005, and then by Microsoft in 2011. Skype has over 300 million active users as of 2018, and is available in 14 languages. The service is supported on a variety of platforms, including Windows, Mac, Linux, Android, iOS, and Windows Phone. Skype allows users to communicate with others via voice calls, video calls, and instant messaging. It also offers features such as file transfer, screen sharing, and call recording. Skype has been used for a variety of purposes, including personal communication, business meetings, and remote work.",
+            "qae_pairs": [
+                {
+                    "question": "What year did eBay acquire Skype?",
+                    "answer": "2005",
+                    "explanation": "Skype was originally developed by the Swedish company Skype AB, but was later bought by eBay in 2005."
+                },
+                {
+                    "question": "What country was Skype founded in?",
+                    "answer": "Sweden",
+                    "explanation": "Skype was founded in 2003 by Niklas Zennström and Janus Friis, in Stockholm, Sweden."
+                },
+                {
+                    "question": "What year was Skype founded?",
+                    "answer": "2003",
+                    "explanation": "Skype was founded in 2003 by Niklas Zennström and Janus Friis, in Stockholm, Sweden."
+                }
+            ],
+            "hops": [
+                "Microsoft Corporation",
+                "Skype"
+            ]
+        },
+        "California": {
+            "term": "California",
+            "passage": "California is a state in the Pacific Region of the United States. With 39.5 million residents, California is the most populous state in the United States and the third-largest by area. The state capital is Sacramento, and the largest city is Los Angeles. California's diverse geography ranges from the Pacific Coast in the west, to the Sierra Nevada mountains in the east, and from the redwood–Douglas fir forests in the northwest, to the Mojave Desert in the southeast. The state is home to several national parks, including Yosemite, Sequoia & Kings Canyon, and Joshua Tree. California is known for its rich natural resources, including timber, gold, and natural gas. The state is also a global leader in the entertainment industry, with Hollywood in Los Angeles being the center of the U.S. film industry. California is also known for its agricultural production, particularly its wineries and vineyards in Napa Valley and Sonoma County. California is one of the most ethnically diverse states in the U.S., with large populations of Asian, Hispanic, and African American residents. The state has a diverse economy that includes technology, aerospace, and agriculture. California is also home to several major universities, including the University of California, Berkeley and the California Institute of Technology.",
+            "qae_pairs": [
+                {
+                    "question": "What region of the United States is California located in?",
+                    "answer": "the Pacific Region",
+                    "explanation": "California is a state in the Pacific Region of the United States."
+                },
+                {
+                    "question": "What type of tree is commonly found in the redwood-Douglas fir forests in California?",
+                    "answer": "Douglas fir",
+                    "explanation": "The state is home to several national parks, including Yosemite, Sequoia & Kings Canyon, and Joshua Tree."
+                }
+            ],
+            "hops": [
+                "Facebook",
+                "California"
+            ]
+        },
+        "Nest Labs": {
+            "term": "Nest Labs",
+            "passage": "Nest Labs is a home automation company that produces a range of smart home products, including thermostats, cameras, and smoke alarms. The company was founded in 2010 by Tony Fadell and Matt Rogers, who previously worked on the development of the iPod and iPhone at Apple Inc. Nest Labs is headquartered in Palo Alto, California, and has offices in several other locations around the world. Nest Labs' flagship product is the Nest Learning Thermostat, which uses machine learning algorithms to learn a user's schedule and preferences over time, and adjust the temperature accordingly. The thermostat also has a feature called \"Auto-Away,\" which detects when no one is home and adjusts the temperature to save energy. In addition to thermostats, Nest Labs also produces a line of smart cameras, including the Nest Cam Indoor and Nest Cam Outdoor. These cameras use computer vision technology to detect motion and send alerts to the user's phone or tablet. They also have features like person detection and facial recognition, which allow users to identify specific people and receive alerts when they enter or leave the home. Nest Labs' smoke and carbon monoxide alarms are also smart, with features like voice alerts and a mobile app that allows users to silence alarms and test the batteries. The alarms also have a feature called \"Split-Spectrum Sensor,\" which uses two different types of sensors to detect smoke and carbon monoxide more accurately. Overall, Nest Labs' products are designed to make home automation more accessible and user-friendly, with a focus on energy efficiency and safety.",
+            "qae_pairs": [
+                {
+                    "question": "What company did Tony Fadell and Matt Rogers work for before founding Nest Labs?",
+                    "answer": "Apple Inc",
+                    "explanation": "Nest Labs is a home automation company that produces a range of smart home products, including thermostats, cameras, and smoke alarms. The company was founded in 2010 by Tony Fadell and Matt Rogers, who previously worked on the development of the iPod and iPhone at Apple Inc."
+                }
+            ],
+            "hops": [
+                "Alphabet Inc.",
+                "Nest Labs"
+            ]
+        },
+        "AdMob": {
+            "term": "AdMob",
+            "passage": "AdMob is a mobile advertising platform developed by Google. It allows mobile app developers to monetize their apps through advertising, and provides advertisers with a way to reach their target audience on mobile devices. AdMob was founded in 2006 and acquired by Google in 2009. It is one of the largest mobile advertising platforms, with over 1 million active advertisers and 100 billion ad requests per month. AdMob offers a range of ad formats, including banner ads, interstitial ads, and native ads, and allows developers to customize their ads based on factors such as location, device type, and user behavior. AdMob also provides analytics and reporting tools to help developers track the performance of their ads and optimize their monetization strategy.",
+            "qae_pairs": [
+                {
+                    "question": "What company acquired AdMob in 2009?",
+                    "answer": "Google",
+                    "explanation": "AdMob was founded in 2006 and acquired by Google in 2009."
+                }
+            ],
+            "hops": [
+                "Alphabet Inc.",
+                "AdMob"
+            ]
+        },
+        "Mountain View": {
+            "term": "Mountain View",
+            "passage": "Mountain View is a city located in Santa Clara County, California, United States, named for its views of the Santa Cruz Mountains. From its origins as a stagecoach stop, it grew to be the largest city in Santa Clara County by the mid-20th century. Today, it is home to many high-technology companies, including Google, Mozilla, and Intuit. The city has a population of over 74,000 and a highly educated workforce, with 65% of adults holding a bachelor's degree or higher. Mountain View is also known for its annual Art & Wine Festival, which draws thousands of visitors each year.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the company that has its headquarters in Mountain View, California and is known for its search engine and other online services?",
+                    "answer": "Google",
+                    "explanation": "Today, it is home to many high-technology companies, including Google, Mozilla, and Intuit. Evidence sentence: Today, it is home to many high-technology companies, including Google, Mozilla, and Intuit."
+                },
+                {
+                    "question": "What company is located in Mountain View and is known for its financial software?",
+                    "answer": "Intuit",
+                    "explanation": "Today, it is home to many high-technology companies, including Google, Mozilla, and Intuit. Evidence sentence: Today, it is home to many high-technology companies, including Google, Mozilla, and Intuit."
+                },
+                {
+                    "question": "What is the county that Mountain View is located in?",
+                    "answer": "Santa Clara County",
+                    "explanation": "From its origins as a stagecoach stop, it grew to be the largest city in Santa Clara County by the mid-20th century. Evidence sentence: From its origins as a stagecoach stop, it grew to be the largest city in Santa Clara County by the mid-20th century."
+                }
+            ],
+            "hops": [
+                "Alphabet Inc.",
+                "Mountain View"
+            ]
+        },
+        "Google X": {
+            "term": "Google X",
+            "passage": "Google X is a semi-secret research and development facility within Google Inc. The facility is responsible for developing new technologies and products that are not yet ready for commercial release. The facility is known for its \"moonshot\" projects, which are ambitious and long-term projects that aim to solve some of the world's biggest problems. Some of the projects that have been developed at Google X include self-driving cars, Project Loon, and Google Glass. The facility is headed by Astro Teller, who is also the head of Google X's sister company, Google[x]. The facility is located in various locations around the world, including California, New York, and London.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the Google X project that aims to provide internet access to remote and rural areas using high-altitude balloons?",
+                    "answer": "Project Loon",
+                    "explanation": "Google X is a semi-secret research and development facility within Google Inc. The facility is responsible for developing new technologies and products that are not yet ready for commercial release. The facility is known for its moonshot projects, which are ambitious and long-term projects that aim to solve some of the world's biggest problems. Some of the projects that have been developed at Google X include self-driving cars, Project Loon, and Google Glass."
+                },
+                {
+                    "question": "4. The question is simple and easy to understand. What is the location of Google X? What city is the location of Google X? What city is Google X based in? What is the address of Google X? What is the location of the Google X headquarters? What is the",
+                    "answer": "London",
+                    "explanation": "The facility is known for its moonshot projects, which are ambitious and long-term projects that aim to solve some of the world's biggest problems."
+                },
+                {
+                    "question": "What is the name of the head of Google X's sister company, Google[x]?",
+                    "answer": "Astro Teller",
+                    "explanation": "Astro Teller is the head of Google X's sister company, Google[x]."
+                }
+            ],
+            "hops": [
+                "Alphabet Inc.",
+                "Google X"
+            ]
+        },
+        "Eduardo Saverin": {
+            "term": "Eduardo Saverin",
+            "passage": "Eduardo Saverin is a Brazilian entrepreneur and angel investor. He co-founded Facebook, Inc. with Mark Zuckerberg and several other colleagues while they were students at Harvard University. Saverin was born in São Paulo, Brazil, and moved to the United States to attend Harvard. He graduated with a degree in economics in 2006. Saverin was an important figure in the early days of Facebook, serving as the company's chief financial officer and a member of its board of directors. He also played a key role in securing early funding for the company. However, he left the company in 2009 and later moved to Singapore, where he became a citizen and set up a company to invest in startups. Saverin's wealth has been estimated at over $10 billion, making him one of the richest people in the world. He has invested in a number of startups, including Jumio, Qwiki, and MercadoLibre. He is also a co-founder of the VC firm B Capital Group. Despite his success, Saverin has faced criticism for his role in the early days of Facebook. Some have accused him of betraying Zuckerberg and the other early Facebook employees by leaving the company and moving to Singapore. Others have criticized him for his tax practices, which have involved moving his assets to low-tax jurisdictions. Despite these controversies, Saverin has remained a prominent figure in the tech industry and a successful investor. He continues to be involved in a number of startups and has been recognized for his contributions to the industry.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the university that Eduardo Saverin attended before co-founding Facebook?",
+                    "answer": "Harvard University",
+                    "explanation": "Saverin was an important figure in the early days of Facebook, serving as the company's chief financial officer and a member of its board of directors. He also played a key role in securing early funding for the company."
+                }
+            ],
+            "hops": [
+                "Facebook",
+                "Eduardo Saverin"
+            ]
+        },
+        "Andrew McCollum": {
+            "term": "Andrew McCollum",
+            "passage": "Andrew McCollum was a Scottish-born American businessman and entrepreneur who co-founded Facebook, Inc. in 2004. He was one of the company's first employees and played a key role in the development of the social networking site. McCollum was born in Edinburgh, Scotland, in 1983 and moved to the United States with his family when he was a child. He attended Harvard University, where he studied computer science and economics. After graduating in 2005, he worked at Facebook for several years before leaving to pursue other ventures. McCollum is credited with helping to create many of the features that made Facebook popular, including the News Feed and the \"Like\" button. He currently lives in San Francisco, California, and is involved in several start-up companies.",
+            "qae_pairs": [
+                {
+                    "question": "What year did Andrew McCollum graduate from Harvard University?",
+                    "answer": "2005",
+                    "explanation": "After graduating in 2005, he worked at Facebook for several years before leaving to pursue other ventures."
+                }
+            ],
+            "hops": [
+                "Facebook",
+                "Andrew McCollum"
+            ]
+        },
+        "Dustin Moskovitz": {
+            "term": "Dustin Moskovitz",
+            "passage": "Dustin Moskovitz is an American internet entrepreneur and programmer. He is best known as a co-founder of Facebook, Inc., along with Mark Zuckerberg, Andrew McCollum, and Chris Hughes. Moskovitz was born in Gainesville, Florida, on May 22, 1984. He attended Harvard University, where he met Zuckerberg and the other co-founders of Facebook. After leaving Facebook in 2008, Moskovitz founded Asana, a project management software company, with Justin Rosenstein. Asana has raised over $100 million in funding and has over 100 employees. Moskovitz is also a co-founder of Good Ventures, a philanthropic organization that focuses on global poverty and animal welfare. He has donated millions of dollars to charity and has been recognized for his philanthropic efforts.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the project management software company that Dustin Moskovitz founded after leaving Facebook?",
+                    "answer": "Asana",
+                    "explanation": "After leaving Facebook in 2008, Moskovitz founded Asana, a project management software company, with Justin Rosenstein."
+                },
+                {
+                    "question": "What is the birthplace of Dustin Moskovitz?",
+                    "answer": "Gainesville",
+                    "explanation": "Moskovitz was born in Gainesville, Florida, on May 22, 1984."
+                },
+                {
+                    "question": "What state was Dustin Moskovitz born in?",
+                    "answer": "Florida",
+                    "explanation": "Moskovitz was born in Gainesville, Florida, on May 22, 1984."
+                }
+            ],
+            "hops": [
+                "Facebook",
+                "Dustin Moskovitz"
+            ]
+        },
+        "Messenger": {
+            "term": "Messenger",
+            "passage": "Messenger is a messaging app developed by Facebook. It allows users to send messages, photos, videos, and files to other users. It also allows users to make voice and video calls, as well as use augmented reality features to enhance their conversations. Messenger is available on a variety of platforms, including iOS, Android, and Facebook's own desktop platform. It has over 1.3 billion monthly active users as of 2021, making it one of the most popular messaging apps in the world. Messenger was first released in 2011 and has since undergone several updates and redesigns to improve its user experience.",
+            "qae_pairs": [
+                {
+                    "question": "What was the year when Messenger was first released?",
+                    "answer": "2011",
+                    "explanation": "Messenger was first released in 2011 and has since undergone several updates and redesigns to improve its user experience."
+                },
+                {
+                    "question": "What is the current year in which Messenger has over 1.3 billion monthly active users?",
+                    "answer": "2021",
+                    "explanation": "Messenger is available on a variety of platforms, including iOS, Android, and Facebook's own desktop platform. It has over 1.3 billion monthly active users as of 2021, making it one of the most popular messaging apps in the world. Evidence sentence: Messenger has over 1.3 billion monthly active users as of 2021."
+                },
+                {
+                    "question": "How many people use Messenger every month?",
+                    "answer": "monthly",
+                    "explanation": "Messenger is available on a variety of platforms, including iOS, Android, and Facebook's own desktop platform. It has over 1.3 billion monthly active users as of 2021, making it one of the most popular messaging apps in the world."
+                }
+            ],
+            "hops": [
+                "Facebook",
+                "Messenger"
+            ]
+        },
+        "Harvard College": {
+            "term": "Harvard College",
+            "passage": "Harvard College is the undergraduate liberal arts college of Harvard University. Founded in 1636, it is the oldest institution of higher learning in the United States and one of the most prestigious in the world. The college is located in Cambridge, Massachusetts, on a 220-acre (0.89 km²) campus that contains over 120 buildings. Harvard College is organized into a small, tight-knit community of students, faculty, and staff. The college has an undergraduate enrollment of approximately 6,600 students, who are divided into ten residential houses. Each house is a self-governing community that provides a diverse range of academic, social, and cultural activities. The college offers a rigorous liberal arts curriculum that emphasizes critical thinking, creativity, and intellectual exploration. Students are required to complete a core curriculum that includes courses in literature, history, science, and philosophy, as well as a range of electives in their chosen fields of study. Harvard College is known for its strong research programs and its commitment to innovation and discovery. The college has produced numerous Nobel laureates, Pulitzer Prize winners, and other distinguished scholars and leaders. It also has a long history of social activism and public service, with many alumni going on to make significant contributions to society. In addition to its academic programs, Harvard College offers a wide range of extracurricular activities, including athletics, theater, music, and student organizations. The college also has a strong tradition of community service and volunteerism, with many students participating in local and global service projects. Overall, Harvard College is a dynamic and diverse community of scholars and leaders who are committed to excellence in all areas of life.",
+            "qae_pairs": [
+                {
+                    "question": "What is the location of Harvard College?",
+                    "answer": "Cambridge",
+                    "explanation": "The college is located in Cambridge, Massachusetts, on a 220-acre (0.89 km²) campus that contains over 120 buildings."
+                }
+            ],
+            "hops": [
+                "Facebook",
+                "Harvard College"
+            ]
+        },
+        "American Express": {
+            "term": "American Express",
+            "passage": "American Express Company, also known as Amex, is an American multinational financial services corporation headquartered in Three World Financial Center in New York City. Founded in 1850, it is one of the 30 components of the Dow Jones Industrial Average. The company is best known for its credit card, charge card, and traveler's cheque businesses. Amex cards account for the largest share of U.S. credit card transactions by dollar volume.",
+            "qae_pairs": [
+                {
+                    "question": "What year was American Express founded?",
+                    "answer": "1850",
+                    "explanation": "American Express Company, also known as Amex, is an American multinational financial services corporation headquartered in Three World Financial Center in New York City. Founded in 1850, it is one of the 30 components of the Dow Jones Industrial Average. The company is best known for its credit card, charge card, and traveler's cheque businesses. Amex cards account for the largest share of U.S. credit card transactions by dollar volume."
+                },
+                {
+                    "question": "What is the headquarters of American Express Company?",
+                    "answer": "New York City",
+                    "explanation": "American Express Company is an American multinational financial services corporation headquartered in Three World Financial Center in New York City."
+                }
+            ],
+            "hops": [
+                "Berkshire Hathaway Inc.",
+                "American Express"
+            ]
+        },
+        "J.P. Morgan & Co": {
+            "term": "J.P. Morgan & Co",
+            "passage": "J.P. Morgan & Co. was an American investment bank founded by J.P. Morgan in 1871. The firm dominated the financial industry in the late 19th and early 20th centuries, and played a significant role in the development of the American economy. Morgan's firm financed the construction of railroads, bridges, and other infrastructure projects, and also provided financing for the growth of industrial companies. The firm was also involved in mergers and acquisitions, and helped to consolidate many industries. In addition, J.P. Morgan & Co. was a major player in the government bond market, and helped to finance the federal government during times of war. The firm was also involved in the creation of several important financial institutions, including the Federal Reserve System. J.P. Morgan & Co. was dissolved in 1913, following the death of J.P. Morgan, and its assets were distributed among several successor firms.",
+            "qae_pairs": [
+                {
+                    "question": "What year was J.P. Morgan & Co founded?",
+                    "answer": "1871",
+                    "explanation": "J.P. Morgan & Co. was an American investment bank founded by J.P. Morgan in 1871."
+                },
+                {
+                    "question": "What year did J.P. Morgan & Co. dissolve?",
+                    "answer": "1913",
+                    "explanation": "J.P. Morgan & Co. was dissolved in 1913, following the death of J.P. Morgan, and its assets were distributed among several successor firms."
+                },
+                {
+                    "question": "What institution was created by J.P. Morgan & Co. that played a significant role in the development of the American economy?",
+                    "answer": "the Federal Reserve System",
+                    "explanation": "J.P. Morgan & Co. was also involved in the creation of several important financial institutions, including the Federal Reserve System."
+                }
+            ],
+            "hops": [
+                "JPMorgan Chase",
+                "J.P. Morgan & Co"
+            ]
+        },
+        "Chase Manhattan Corporation": {
+            "term": "Chase Manhattan Corporation",
+            "passage": "The Chase Manhattan Corporation was a multinational bank headquartered in New York City. It was formed by the 1955 merger of the Chase National Bank and the Bank of the Manhattan Company. The bank was one of the largest in the world and played a significant role in the development of the global financial system. It was acquired by Chemical Bank in 1996 to form the present-day JPMorgan Chase.",
+            "qae_pairs": [
+                {
+                    "question": "What was the name of the bank that acquired the Chase Manhattan Corporation in 1996?",
+                    "answer": "Chemical Bank",
+                    "explanation": "Passage: The bank was one of the largest in the world and played a significant role in the development of the global financial system."
+                },
+                {
+                    "question": "What year did the Chase Manhattan Corporation merge with Chemical Bank?",
+                    "answer": "1996",
+                    "explanation": "The Chase Manhattan Corporation was formed by the 1955 merger of the Chase National Bank and the Bank of the Manhattan Company."
+                },
+                {
+                    "question": "What was the name of the bank that merged with the Bank of the Manhattan Company to form the Chase Manhattan Corporation?",
+                    "answer": "the Chase National Bank",
+                    "explanation": "The Chase Manhattan Corporation was formed by the 1955 merger of the Chase National Bank and the Bank of the Manhattan Company."
+                }
+            ],
+            "hops": [
+                "JPMorgan Chase",
+                "Chase Manhattan Corporation"
+            ]
+        },
+        "P&G": {
+            "term": "P&G",
+            "passage": "Procter & Gamble (P&G) is an American multinational consumer goods corporation headquartered in downtown Cincinnati, Ohio, United States. Its products include cleaning agents and personal care products. P&G was founded in 1837 by William Procter and James Gamble, both of whom were born in the United Kingdom. Initially, the company produced soap and candles. In 1859, it launched its first branded product, Ivory soap. P&G has since expanded its product line to include many household names, such as Tide laundry detergent, Crest toothpaste, and Pampers diapers. The company operates in over 70 countries and has a workforce of approximately 95,000 employees. P&G is known for its strong branding and marketing strategies, which have helped it become one of the largest and most successful consumer goods companies in the world.",
+            "qae_pairs": [
+                {
+                    "question": "What year did P&G launch its first branded product?",
+                    "answer": "1859",
+                    "explanation": "In 1859, it launched its first branded product, Ivory soap."
+                }
+            ],
+            "hops": [
+                "Procter",
+                "P&G"
+            ]
+        },
+        "Texas": {
+            "term": "Texas",
+            "passage": "Texas is a state in the Southern United States, bordered by Mexico to the west, New Mexico to the west and north, Oklahoma to the north, Arkansas to the northeast, Louisiana to the east, and the Gulf of Mexico to the southeast. Texas has an area of 268,581 square miles and a population of over 29 million residents. Houston is the most populous city in Texas and the fourth most populous city in the United States, while San Antonio is the second most populous city in Texas and the seventh most populous city in the United States. Dallas–Fort Worth and Greater Houston are the fourth and fifth most populous metropolitan statistical areas in the United States, respectively. Texas is nicknamed the Lone Star State to signify Texas as a former independent republic and as a reminder of the state's struggle for independence from Mexico. The state's annexation as the 28th state of the United States in 1845 is still celebrated in Texas as an important milestone in the history of the state.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the fifth most populous metropolitan statistical area in the United States that is located in Texas?",
+                    "answer": "Greater Houston",
+                    "explanation": "Dallas–Fort Worth and Greater Houston are the fourth and fifth most populous metropolitan statistical areas in the United States, respectively."
+                },
+                {
+                    "question": "What is the nickname given to Texas for its struggle for independence from Mexico and its former status as a republic?",
+                    "answer": "the Lone Star State",
+                    "explanation": "Texas is nicknamed the Lone Star State to signify Texas as a former independent republic and as a reminder of the state's struggle for independence from Mexico."
+                },
+                {
+                    "question": "What state is located to the northeast of Texas?",
+                    "answer": "Arkansas",
+                    "explanation": "Texas has an area of 268,581 square miles and a population of over 29 million residents."
+                },
+                {
+                    "question": "What is the second most populous city in Texas?",
+                    "answer": "San Antonio",
+                    "explanation": "San Antonio is the second most populous city in Texas and the seventh most populous city in the United States."
+                },
+                {
+                    "question": "What is the name of the body of water that borders Texas to the southeast?",
+                    "answer": "the Gulf of Mexico",
+                    "explanation": "Texas has an area of 268,581 square miles and a population of over 29 million residents."
+                }
+            ],
+            "hops": [
+                "Exxon Mobil Corporation",
+                "Texas"
+            ]
+        },
+        "Upstream": {
+            "term": "Upstream",
+            "passage": "Upstream is a term used in the context of software development to refer to the source code of a software project that is not yet released or published. It is the code that is being actively developed and modified by the project's developers. The term \"upstream\" is used to distinguish it from \"downstream\" code, which refers to the version of the software that has been released and is being used by end-users. Upstream development is typically done by a project's core developers, who are responsible for adding new features, fixing bugs, and improving the overall quality of the software. The upstream code is often shared with the wider community of developers who are contributing to the project, either through a version control system like Git or through a code hosting platform like GitHub. Upstream development is an important part of the open-source software ecosystem, as it allows developers to collaborate and share their work with others. It also allows end-users to benefit from the latest features and improvements to the software, as they are incorporated into the downstream code. However, upstream development can also be challenging, as it requires a high degree of coordination and communication between developers, as well as a willingness to accept and incorporate feedback from others.",
+            "qae_pairs": [
+                {
+                    "question": "What is the role of GitHub in upstream development?",
+                    "answer": "GitHub",
+                    "explanation": "GitHub is a code hosting platform that allows developers to share their work with others and collaborate on software projects. Answer: GitHub is a code hosting platform that allows developers to share their work with others and collaborate on software projects."
+                }
+            ],
+            "hops": [
+                "Exxon Mobil Corporation",
+                "Upstream"
+            ]
+        },
+        "John D. Rockefeller's": {
+            "term": "John D. Rockefeller's",
+            "passage": "John D. Rockefeller was an American industrialist, philanthropist, and the founder of the Standard Oil Company. He was born on July 8, 1839, in Richford, New York, and died on May 23, 1937, in Ormond Beach, Florida. Rockefeller revolutionized the petroleum industry and became one of the richest people in history. He was also a major philanthropist, donating millions to various causes, including education and public health. Rockefeller's business practices were controversial, and he faced criticism for his monopolistic tactics. However, his contributions to the development of the United States and the betterment of humanity cannot be denied.",
+            "qae_pairs": [
+                {
+                    "question": "What was the location of John D. Rockefeller's death?",
+                    "answer": "Ormond Beach",
+                    "explanation": "Rockefeller's business practices were controversial, and he faced criticism for his monopolistic tactics."
+                }
+            ],
+            "hops": [
+                "Exxon Mobil Corporation",
+                "John D. Rockefeller's"
+            ]
+        }
+    }
+}

@@ -1,0 +1,643 @@
+{
+    "first_hops": {
+        "Beyonce": {
+            "term": "Beyonce",
+            "passage": "(Beyonce in case you haven't guessed the name is pronounced \"B'ayoncé\" as the \"ay\" is pronounced \"eh\" like the word \"kay\", so the \"ay\" is pronounced \"ay\" and \"bey\" is pronounced \"e\".) In this passage you will get to read the following quote:\n\"As a child, I grew up in Houston, Texas where I began singing in the church. ...\nBeyoncé attended middle school at an African-American Baptist church in Houston, Texas. Her music career began to take off in 2000 after the release of her single 'Work It Out' featuring rapper Missy Elliott. In 2001, the group Destiny's Child achieved international success with their album 'Survivor'...\"\nI highly recommend you to read this if you want to know more about Beyonce, who is Beyoncé, and what she has achieved in her career. The reason for that is you see how you could actually be Beyonce, a diva in her own way, and this is not just because of her talent and performance skills, this is a case of someone with a real talent in singing and dancing, but also, with a real talent in writing music and lyrics, to be a singer, and for sure, to sing well.",
+            "qae_pairs": [
+                {
+                    "question": "Where is Beyonce from?",
+                    "answer": "Houston",
+                    "explanation": "Beyoncé is a name that is pronounced Bayoncé as the ay is pronounced eh like the word kay, so the ay is pronounced ay and bey is pronounced e. Beyoncé is a singer, songwriter, and actress from Houston, Texas, United States. She is a member of Destinys Child, which was one of the most successful girl groups of all time. Beyoncés debut album, Dangerously in Love, was released in 2003 and it was"
+                }
+            ],
+            "hops": [
+                "Beyonce"
+            ]
+        },
+        "Ed Sheeran": {
+            "term": "Ed Sheeran",
+            "passage": "“Born on February 17, 1991, Edward Christopher Sheeran (–) is an English singer-songwriter. Sheeran has released two studio albums and one live album. His debut studio album (2004–05) has sold over 2 million copies worldwide and spawned three top 10 singles, including his debut single ‘She’s Amazing’. In 2014, Sheeran won a record nine Grammy Awards in the United States, making him the British male artist with the most Grammy Awards won by any artist. He won three British Academy Awards for the albums “Invasion of Privacy” and “Shape of You”. Currently, he is the most successful solo artist of the 2010s decade in the US. His worldwide best-selling single “Shape of You” has remained on top of the US Hot 100 for a total of nine weeks. In addition, “Shape of You” has been one of the most successful songs in the history of music on the Billboard Hot 100. On December 1, 2017, he released his third studio album (No. 1 on the US Billboard 200) titled “No. 6 Collaborations Project”. His most recent studio album, “(2019) = (Divide)”, features collaborations with artists including Billie Eilish, Lil Nas X, and Khalid, and was released on December 13, 2017.",
+            "qae_pairs": [
+                {
+                    "question": "What is Ed Sheerans new album called?",
+                    "answer": "2019",
+                    "explanation": "(2019) = (Divide)"
+                },
+                {
+                    "question": "What decade was Ed Sheeran born in?",
+                    "answer": "the 2010s decade",
+                    "explanation": "“Ed Sheeran” was born on February 17, 1991, which makes him a part of the 2010s decade."
+                },
+                {
+                    "question": "What is Ed Sheerans birthdate?",
+                    "answer": "February 17, 1991",
+                    "explanation": "“Ed Sheeran” was born on February 17, 1991."
+                },
+                {
+                    "question": "When did Ed Sheeran release his third studio album?",
+                    "answer": "December 1, 2017",
+                    "explanation": "“No. 6 Collaborations Project” was released on December 1, 2017."
+                },
+                {
+                    "question": "What is the name of the country in the United States?",
+                    "answer": "US",
+                    "explanation": "“The United States is a country in North America. It is the world’s third most populous country, with an estimated population of over 328 million people. The capital of the United States is Washington, D.C. The country has 3,796 miles of coastline and 3,796 miles of border with Canada.”"
+                }
+            ],
+            "hops": [
+                "Ed Sheeran"
+            ]
+        },
+        "Adele": {
+            "term": "Adele",
+            "passage": "\"Adele was born Adele Laurie...\"\n\"She was born on February 19, 1988 in Romford, Essex, England, UK. She has an older half-sister named Heidi, who is now a singer in a punk band named Rett Syndrome UK. Her mother's partner, a taxi man, later became her step-father. Adele's father, who is of Moroccan descent, became a Muslim and she was raised as a Muslim. Adele attended the St. Aloysius Roman Catholic primary school and the Saint Catherine's Convent high school, before she was expelled from her former school. She is in a long-term relationship with a hairdresser, and currently resides in her home town of Kent. Adele has stated that she is in a relationship with a British Army Major, whom she calls her boyfriend.",
+            "qae_pairs": [
+                {
+                    "question": "Where is Adele from?",
+                    "answer": "Kent",
+                    "explanation": "Adele was born Adele Laurie in Romford, Essex, England, UK on February 19, 1988. She is of Moroccan descent, and her father is of Moroccan descent. She is currently in a relationship with a British Army Major, whom she calls her boyfriend. Adele is from Kent, England."
+                },
+                {
+                    "question": "Who is Adeles boyfriend?",
+                    "answer": "British Army Major",
+                    "explanation": "Adele has been in a relationship with her boyfriend for over 10 years. He is a British Army Major and they have been together since 2006."
+                },
+                {
+                    "question": "What is Adeles birthplace?",
+                    "answer": "Romford",
+                    "explanation": "Adele was born in Romford, England, UK on February 19, 1988."
+                },
+                {
+                    "question": "What is Adeles birthdate?",
+                    "answer": "February 19, 1988",
+                    "explanation": "Adele was born on February 19, 1988 in Romford, Essex, England, UK. She has an older half-sister named Heidi, who is now a singer in a punk band named Rett Syndrome UK. Adeles mothers partner, a taxi man, later became her step-father. Adeles father, who is of Moroccan descent, became a Muslim and she was raised as a Muslim. Adele attended the St. Aloysius Roman Catholic primary school and the Saint Catherines Convent high school, before she was expelled from her former school. She is in a long"
+                },
+                {
+                    "question": "Who is Adeles half-sister?",
+                    "answer": "Heidi",
+                    "explanation": "She has an older half-sister named Heidi, who is now a singer in a punk band named Rett Syndrome UK."
+                }
+            ],
+            "hops": [
+                "Adele"
+            ]
+        },
+        "Ariana Grande": {
+            "term": "Ariana Grande",
+            "passage": "(I have made some edits for clarity purposes)\nAriana Grande is an American singer-songwriter from New York City, who began her career in the entertainment industry as a child actress. She began working as a backing vocalist for singers such as Tommy Page, Toni Basil, and Gloria Estefan, and also acted in small television and stage roles. At the age of 13, she was cast as the lead vocalist for The Mickey Mouse Club, and the following year she joined the children’s sitcom The Way Home. In 2000, she began work on the Nickelodeon television series Camp Orange County, and was cast as recurring character Lori Beth, with co-star Lauren Sanchez. At the age of 16, she co-starred with Jaleel White and others in a music video of the song “Hercules (The Legendary Journeys),” from the Disney animated television series Hercules. In 2001, she received her first break when she co-starred in the film Campfire Stories, which became a moderate box-office success. During the filming, she became romantically linked to castmate 12-year-old Danny Zuko (John Stockdale) and the pair became a well-known couple, lasting until the film’s release. After Campfire Stories, she was cast as Penny Pingleton in the musical 13!",
+            "qae_pairs": [
+                {
+                    "question": "What is Ariana Grandes first job?",
+                    "answer": "The Mickey Mouse Club",
+                    "explanation": "Ariana Grande began her career as a child actress on the Disney Channel show The Mickey Mouse Club. She was cast as a recurring character Lori Beth, with co-star Lauren Sanchez."
+                },
+                {
+                    "question": "Who is Ariana Grandes boyfriend?",
+                    "answer": "Danny Zuko",
+                    "explanation": "Ariana Grande is currently in a relationship with her boyfriend, Danny Zuko. They began dating in 2001, when they were both cast in the Disney Channel series Campfire Stories. They have been together ever since, and have been known to be very affectionate and loving."
+                },
+                {
+                    "question": "What is Ariana Grandes first movie?",
+                    "answer": "Campfire Stories",
+                    "explanation": "Campfire Stories is a 2001 American comedy-drama film directed by Mark Pellington. It stars a cast of young actors, including Ariana Grande, who plays the character of Penny Pingleton. The film follows the story of a group of teenagers who attend a summer camp, where they are introduced to the joys of love and life. The film was a moderate box-office success, grossing over $100 million worldwide."
+                },
+                {
+                    "question": "Who is Ariana Grandes co-star in the music video Hercules (The Legendary Journeys)?",
+                    "answer": "Lauren Sanchez",
+                    "explanation": "Ariana Grande co-starred in the music video Hercules (The Legendary Journeys) with Lauren Sanchez."
+                },
+                {
+                    "question": "What is Ariana Grandes most popular TV show?",
+                    "answer": "Nickelodeon",
+                    "explanation": "13! was a musical TV series that aired on Nickelodeon from 2001 to 2003. It was the last show of Nickelodeons original lineup and the last show of Nickelodeons original lineup to air before the network was rebranded as Nick Jr. The show starred Ariana Grande as Penny Pingleton, and the show was a success. It aired 13 episodes, and the shows theme song was 13! by Ariana Grande."
+                },
+                {
+                    "question": "What is the name of the city in which Ariana Grande was born?",
+                    "answer": "New York City",
+                    "explanation": "(I have made some edits for clarity purposes) Ariana Grande was born in New York City, New York, United States."
+                },
+                {
+                    "question": "What is Ariana Grandes first film?",
+                    "answer": "2001",
+                    "explanation": "Ariana Grandes first film was Campfire Stories, which was released in 2001."
+                },
+                {
+                    "question": "Who is Ariana Grandes character in the Nickelodeon show Camp Orange County?",
+                    "answer": "Lori Beth",
+                    "explanation": "Lori Beth is a recurring character in the Nickelodeon television series Camp Orange County. She is portrayed by Ariana Grande, who plays the character of a teenage girl who is friends with the main character, Lori Beth. The character is known for her love of the color orange, which is a recurring theme throughout the show."
+                }
+            ],
+            "hops": [
+                "Ariana Grande"
+            ]
+        },
+        "Billie Eilish": {
+            "term": "Billie Eilish",
+            "passage": "\"Billie Eilish (October 27, 1997 – | Eilish is often credited as a pioneer of the \"slightly spooky\" (as described by the BBC) genre of alt-indie pop music, which has been used to describe her debut EP, \"Don't Look New,\" and her debut album, \"Eilish\". [7] Her music has been described as \"lo-fi\", a term used to describe music made with fewer production techniques. \"I'm not afraid of saying I'm a huge fan of the lo-fi indie thing, it's so beautiful,\" said Eilish. \"I love the lo-fi thing. \"[7] It has also been said that her style is \"feminine\" and \"childlike\". [7] In 2017, she was featured on the BBC's list of the Top 100 Greatest Living Songwriters. [8] She has stated that she is an \"ambassador of the LGBTQ+ community\". [7] Her latest single, \"Therefore I Am\" was released on March 24, 2018.",
+            "qae_pairs": [
+                {
+                    "question": "What is the best album of 2017?",
+                    "answer": "Eilish",
+                    "explanation": "Therefore I Am is the second single from Eilishs debut album Eilish, released in 2017. The song debuted at number 1 on the US Billboard Hot 100 chart, becoming Eilishs second number one hit. It was also the first single to reach number one on the UK Singles Chart. Therefore I Am was written by Eilish and her brother Finneas OConnell, and produced by the latter. The song was described by the BBC as a haunting, slow-burning ballad that is as much about Eilishs own"
+                },
+                {
+                    "question": "Whats the best year in music?",
+                    "answer": "2017",
+                    "explanation": "2017 was a great year for music, with many great albums and songs. Some of the best albums of the year were Kendrick Lamars DAMN, Beyonces Lemonade, and Frank Oceans Blonde. Some of the best songs of the year were Kendrick Lamars Humble, Beyonces Formation, and Frank Oceans Nikes."
+                },
+                {
+                    "question": "When did Billie Eilish release her latest single?",
+                    "answer": "March 24, 2018",
+                    "explanation": "Therefore I Am was released on March 24, 2018."
+                },
+                {
+                    "question": "What is Billie Eilishs birthdate?",
+                    "answer": "October 27, 1997",
+                    "explanation": "Billie Eilish (October 27, 1997 – ) is an American singer, songwriter, and actress. She is the daughter of musician Billie Eilish and writer/producer Finneas OConnell. She was born in London, England, and raised in the San Francisco Bay Area. She began her career in 2010, when she was 12 years old, and has since released several albums and singles. She is the youngest artist to win a Grammy Award, and the youngest artist to win a Song of the Year award. She has been featured on the BBCs list of the"
+                }
+            ],
+            "hops": [
+                "Billie Eilish"
+            ]
+        },
+        "Justin Bieber": {
+            "term": "Justin Bieber",
+            "passage": "\"Justin Bieber (born March 1, 1990) is a Canadian singer and songwriter. He began his career in 2008 when he was discovered by talent manager Scooter Braun. He signed to RBMG Records and Island Records in 2008 and 2009, respectively. He released his debut studio album, My World, in March 2009. The album debuted at number one on the US Billboard 200 and has since been certified gold by the RIAA. He has since released four studio albums, including the chart-topping album, Purpose, which was released in 2015. He has won numerous awards, including 23 Grammy Awards, making him the youngest artist to receive a Grammy Award. He is also the youngest artist to have a number one hit on the US Billboard Hot 100. He is the best-selling artist of the 2000s decade, with over 100 million records sold worldwide. He is considered one of the best-selling music artists of all time, with over 7 billion streams on streaming services. He has sold over 250 million records worldwide, making him one of the best-selling music artists of all time. He has won 23 Grammy Awards, making him the youngest artist to receive a Grammy Award.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the award given to Justin Bieber?",
+                    "answer": "Grammy Awards",
+                    "explanation": "The Grammy Awards is the name of the award given to Justin Bieber."
+                },
+                {
+                    "question": "What is Justin Biebers birthdate?",
+                    "answer": "March 1, 1990",
+                    "explanation": "(Justin Bieber) (born March 1, 1990) is a Canadian singer and songwriter. He began his career in 2008 when he was discovered by talent manager Scooter Braun. He signed to RBMG Records and Island Records in 2008 and 2009, respectively. He released his debut studio album, My World, in March 2009. The album debuted at number one on the US Billboard 200 and has since been certified gold by the RIAA. He has since released four studio albums, including the chart-topping album, Purpose, which was released in 2015. He has"
+                },
+                {
+                    "question": "What is Justin Biebers best song?",
+                    "answer": "My World",
+                    "explanation": "My World is a song by Canadian singer Justin Bieber. It was released in 2009 and was the lead single from his debut studio album, My World. The song was written by a team of writers, including Justin himself, and was produced by the Canadian singers manager, Scooter Braun. The song was a commercial success, reaching number one on the US Billboard Hot 100 and becoming a hit in many other countries. It was also certified gold by the RIAA, making it one of the best-selling songs of all time. The song was also a hit in the UK, where it reached number one on"
+                }
+            ],
+            "hops": [
+                "Justin Bieber"
+            ]
+        },
+        "Lady Gaga": {
+            "term": "Lady Gaga",
+            "passage": "“In the beginning of the 2000s, she first came to prominence as the lead vocalist for the band named “Fingertips”. This act was largely seen as an electro-pop project with songs written and performed by other members of the group. This information comes directly from the Wikipedia article about Lady Gaga (as of May 2018):\n“Fingertips” (Lady Gaga)\nIn the beginning of the 2000s, she first came to prominence as the lead vocalist for the band named “Fingertips”. This act was largely seen as an electro-pop project with songs written and performed by other members of the group, including Mike Powell, a former member of the British group the Spandeckies. They performed in New York City in 2000-2001 and began touring the US, including with acts such as the Strokes, Oasis, and Foo Fighters. They gained notice by performing as support acts for acts such as Kylie Minogue, the Strokes, Oasis, and Foo Fighters. “Fingertips” began to gain notice in 2000-2001, performing in New York City as the support act for artists such as Kylie Minogue, Oasis, and Foo Fighters.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the band that Lady Gaga was in?",
+                    "answer": "New York City",
+                    "explanation": "“Fingertips” was a band formed in New York City in 2000."
+                }
+            ],
+            "hops": [
+                "Lady Gaga"
+            ]
+        },
+        "Bruno Mars": {
+            "term": "Bruno Mars",
+            "passage": "[The article can be found here.] Bruno Mars is an American singer-songwriter. His hits include “Uptown Funk”, “24K Magic”, “Famous” and “24K Magic.”\nMars is the son of parents of Puerto Rican descent. [1] As a child, he attended the La Mesa Junior High School in San Diego, California. In 1992, while in high school, he took a vocal and guitar lesson at a music school in San Francisco, California. After a few years, his family moved to the city of Atlanta, Georgia. When he was 13, his parents divorced, and he and his older brother Jaime moved into a $35,000 studio apartment. The first record of Bruno Mars’ career was his debut, “Innervated,” in 2001, while he was still in high school. It was released on Jive Records in 2003. This single reached number four on the Billboard Hot 100 charts. He later became a cast member of the television series “Everwood.” This made him the lead vocalist for a fictional band called “The Right Kind.”\nIn 2005, Mars started writing songs for himself and became a songwriter for the group Backyard Dogs. He released his first full-length album “Bruno Mars” on December 6, 2007.",
+            "qae_pairs": [
+                {
+                    "question": "When did Bruno Mars release his first full-length album?",
+                    "answer": "December 6, 2007",
+                    "explanation": "“Bruno Mars” was released on December 6, 2007."
+                },
+                {
+                    "question": "What is the name of the city where Bruno Mars was born?",
+                    "answer": "San Diego",
+                    "explanation": "“Innervated” was the first single of Bruno Mars’ career, which was released on Jive Records in 2003. The song reached number four on the Billboard Hot 100 charts. Mars was born in San Diego, California."
+                },
+                {
+                    "question": "What is the name of the school that Bruno Mars attended in San Diego, California?",
+                    "answer": "the La Mesa Junior High School",
+                    "explanation": "“In 1992, while in high school, he took a vocal and guitar lesson at a music school in San Francisco, California.”"
+                },
+                {
+                    "question": "What is the ethnicity of Bruno Mars?",
+                    "answer": "Puerto Rican",
+                    "explanation": "“Bruno Mars is of Puerto Rican descent. His parents are of Puerto Rican and African American descent. His father, Peter Mars, is a Puerto Rican, while his mother, Bernadette Mars, is of African American descent. His father is a former member of the band “The Right Kind.”"
+                },
+                {
+                    "question": "What is the name of the record label that released Bruno Mars first album?",
+                    "answer": "Jive Records",
+                    "explanation": "“Innervated” was released on Jive Records in 2003."
+                }
+            ],
+            "hops": [
+                "Bruno Mars"
+            ]
+        }
+    },
+    "second_hops": {
+        "Houston": {
+            "term": "Houston",
+            "passage": "Houston is a large city in the United States. It is the county seat of Harris County, and is one of the major cities of the Greater Houston metropolitan area. The population is 2.3 million. It is the fourth largest city in the United States, and the third largest city in the world. I find this city to be a strange mixture of new (the area has been largely developed by now, it used to be a town of only about 25,000 people in the 1930s) and old (there are a lot of old buildings and the architecture is very old). Anyways, I want to see if this city is as strange as it is in my head... or not... I guess I'm right. But it's also where a lot of people I know are moving to these days.",
+            "qae_pairs": [
+                {
+                    "question": "\nWhere is Houston located?",
+                    "answer": "Harris County",
+                    "explanation": "Harris County is located in the southeastern part of Texas, in the United States. It is the fourth largest county in the country, and the third largest in the world. It is the county seat of Harris County, and is one of the major cities of the Greater Houston metropolitan area."
+                }
+            ],
+            "hops": [
+                "Beyonce",
+                "Houston"
+            ]
+        },
+        "US": {
+            "term": "US",
+            "passage": "It’s really interesting. Especially when you see that the passage has been altered to have a more positive outlook. “On 12 July 1954, President Dwight D. Eisenhower signed the Alaska oil pipeline bill into law.",
+            "qae_pairs": [
+                {
+                    "question": "Who was the US president in 1954?",
+                    "answer": "Dwight D. Eisenhower",
+                    "explanation": "“On 12 July 1954, President Dwight D. Eisenhower signed the Alaska oil pipeline bill into law. The bill was passed by Congress to build a pipeline from Alaska to the lower 48 states. The pipeline was built to transport oil from the oil fields of Alaska to the refineries on the lower 48 states. The pipeline was built to transport oil from the oil fields of Alaska to the refineries on the lower 48 states. The pipeline was built to transport oil from the oil fields of Alaska to the refineries on the lower 48 states. The pipeline was built to transport oil from the oil fields of Alaska"
+                },
+                {
+                    "question": "\nQuestion: What event in US history took place on July 12th, 1954? Answer: The signing of the Alaska oil pipeline bill by Dwight D. Eisenhower.",
+                    "answer": "Alaska",
+                    "explanation": "The Alaska oil pipeline bill was signed into law by President Dwight D. Eisenhower on July 12th, 1954. This bill allowed for the construction of a pipeline to transport oil from Alaska to the lower 48 states. The pipeline was completed in 1974 and has since been a major source of oil for the United States."
+                }
+            ],
+            "hops": [
+                "Ed Sheeran",
+                "US"
+            ]
+        },
+        "Romford": {
+            "term": "Romford",
+            "passage": "- Romford\nRomford (pronunciation (listen), Romford) is a town in the London Borough of Havering. It is the capital of the East London Borough of Havering and lies about 19 miles (30 km) east of the Royal Observatory in Greenwich. According to The British Gazette, Havering was a place \"in the middle of nowhere which existed only because there were too many people in the rest of the borough. Its name has always been a source of controversy. To avoid confusion, in the latter part of the 19th century it was given the name 'Romford' by the Royal Commission for London. They changed the name of the nearby town (which was called Romford before) to Havering, and the rest of the borough took its name from this. Romford is a large town located in the East of England. In the 2001 Census the population of the town was 75,000, while the population of the London Borough of Havering was 88,000. In the town, there are a number of old listed buildings, such as the Romford Minster and the old railway station. Romford has also been known for its association with the American GIs of World War II. The town is served by the London Overground (TfL Rail) rail network.",
+            "qae_pairs": [
+                {
+                    "question": "\nThe answer to 'the London Overground (TfL Rail)' is 'Romford'.",
+                    "answer": "the London Overground (TfL Rail",
+                    "explanation": "Romford is a town located in the East of England. In the 2001 Census the population of the town was 75,000, while the population of the London Borough of Havering was 88,000. In the town, there are a number of old listed buildings, such as the Romford Minster and the old railway station. Romford has also been known for its association with the American GIs of World War II. The town is served by the London Overground (TfL Rail) rail network."
+                },
+                {
+                    "question": "\nWhat did the Royal Commission for do in Romford?",
+                    "answer": "the Royal Commission for",
+                    "explanation": "The Royal Commission for was a royal commission established in 1860 to investigate the state of the London Borough of Romford. The commission was established by the Queen Victoria, who was concerned about the poor state of the boroughs infrastructure, which included its inadequate drainage system. The commission was also responsible for the construction of a new railway station and the extension of the London Overground line."
+                },
+                {
+                    "question": "What is the name of the town that Romford is located in?",
+                    "answer": "Havering",
+                    "explanation": "- Romford is located in the East London Borough of Havering."
+                }
+            ],
+            "hops": [
+                "Adele",
+                "Romford"
+            ]
+        },
+        "Heidi": {
+            "term": "Heidi",
+            "passage": "Heidi (pronounced \"H-E-E-dee\") is a character from The Simpsons TV series. She is a 4-year-old girl from Norway, the daughter of Anders and Ingrid. She is known for her love of Norwegian folk music and Scandinavian cookies.",
+            "qae_pairs": [
+                {
+                    "question": "Where is Heidi from?",
+                    "answer": "Norway",
+                    "explanation": "Heidi is a character from The Simpsons TV series. She is a 4-year-old girl from Norway, the daughter of Anders and Ingrid. Anders is a Norwegian man, and Ingrid is a Norwegian woman. Therefore, Heidi is from Norway."
+                }
+            ],
+            "hops": [
+                "Adele",
+                "Heidi"
+            ]
+        },
+        "The Mickey Mouse Club": {
+            "term": "The Mickey Mouse Club",
+            "passage": "“Mickey Mouse (or simply Mickey Mouse) is a fictional character created by Walt Disney. He is the first Disney character, created as a prototype for Oswald the Lucky Rabbit, which was planned to be the character in a 1943 cartoon. Mickey Mouse Club is the title of a variety of television shows created for Walt Disney World Resort, first aired in 1983 and ended in 1997. The show was a spoof of the 1956–62 television series The Mickey Mouse Club, which was the title of Disney’s Mickey Mouse Club theme parks, created by Walt Disney, first aired in 1957.",
+            "qae_pairs": [
+                {
+                    "question": "When was the television show The Mickey Mouse Club first aired?",
+                    "answer": "1983",
+                    "explanation": "“The Mickey Mouse Club” was first aired on ABC on August 18, 1983."
+                },
+                {
+                    "question": "When did the television show The Mickey Mouse Club end?",
+                    "answer": "1997",
+                    "explanation": "“The Mickey Mouse Club” was a television show that aired from 1983 to 1997."
+                }
+            ],
+            "hops": [
+                "Ariana Grande",
+                "The Mickey Mouse Club"
+            ]
+        },
+        "Campfire Stories": {
+            "term": "Campfire Stories",
+            "passage": "\"In the 1930s and 1940s, American children in the rural South were frequently told camp stories, often featuring elements of American Indian folklore. One story that has been passed down for generations recounts a girl whose head was \"split open\" by a log rolling down a mountain; she is given magical powers in exchange for her survival, and her story is the origin of the song \"Witchcraft\". [2] Other campfire stories often include stories of Native American gods and legends. \"[\nThe first sentence of this passage is true, the rest is false.",
+            "qae_pairs": [
+                {
+                    "question": "Question: What is a common theme in American campfire stories?",
+                    "answer": "Witchcraft",
+                    "explanation": "Witchcraft is a common theme in American campfire stories. It is often used to explain natural phenomena, such as lightning and thunder, and is often used to explain the behavior of animals. It is also used to explain the behavior of people, such as the witchcraft that is often used to explain the behavior of people in the rural South."
+                },
+                {
+                    "question": "\nWhat are some popular campfire stories from the 1930s?",
+                    "answer": "the 1930s",
+                    "explanation": "The 1930s were a time of great change in America. The Great Depression caused many people to lose their jobs and homes, leading to a rise in the popularity of campfire stories. Some popular campfire stories from the 1930s include stories about the American Indian, the Great Depression, and the Dust Bowl."
+                },
+                {
+                    "question": "\nHow were American Indian campfire stories commonly passed down through generations in the 1940s?",
+                    "answer": "1940s",
+                    "explanation": "The passage suggests that American Indian campfire stories were commonly passed down through generations in the 1940s. However, this is not true. American Indian campfire stories were commonly passed down through generations in the 1930s and 1940s."
+                }
+            ],
+            "hops": [
+                "Ariana Grande",
+                "Campfire Stories"
+            ]
+        },
+        "Lauren Sanchez": {
+            "term": "Lauren Sanchez",
+            "passage": "Lauren Sanchez is a former NFL cheerleader who is suing her former employer, the Philadelphia Eagles, claiming she suffered from a concussion during a 2006 routine that included the phrase \"Fight the Eagles\" and other similar routines. She claims that she \"suffered repeated head injuries during the 'Fight The Eagles' routine\", and that she is now suffering from Post Traumatic Brain Injury. That's a lot to take in just one person's story. But this is a good place to start to think about the impact of concussions and the toll they take on the lives of many of those who experience them. It's clear that concussions have become more visible in the public eye in recent years, with the NFL being sued for the way they handled concussions. It's not a coincidence that the New York Giants recently signed a retired former linebacker who now suffers from the disease. But just because we are more aware of concussions now does not mean that we have figured out the best way to deal with them or treat the people who experience them.",
+            "qae_pairs": [
+                {
+                    "question": "What is Lauren Sanchezs condition?",
+                    "answer": "Post Traumatic Brain Injury",
+                    "explanation": "Fight the Eagles is a cheerleading routine that involves the phrase Fight the Eagles and other similar routines. The phrase is used to encourage the cheerleaders to fight against the Eagles, and to show their spirit and determination. The routine is a part of the cheerleading routine, and is not meant to be a physical or violent activity. However, Lauren Sanchez claims that she suffered repeated head injuries during the routine, and that she is now suffering from Post Traumatic Brain Injury."
+                },
+                {
+                    "question": "What year did Lauren Sanchez, a former NFL cheerleader, file a lawsuit against the Philadelphia Eagles for head injuries she suffered during the Fight The Eagles routine?",
+                    "answer": "2006",
+                    "explanation": "Fight The Eagles is a cheerleading routine that was performed by the Philadelphia Eagles during the 2006 season. Lauren Sanchez, a former NFL cheerleader, filed a lawsuit against the Eagles in 2006 for head injuries she suffered during the routine."
+                },
+                {
+                    "question": "Question: Who is the former NFL cheerleader, Lauren Sanchez, suing?",
+                    "answer": "the Philadelphia Eagles",
+                    "explanation": "Fight the Eagles is a cheerleading routine that the Philadelphia Eagles perform during their games. Lauren Sanchez, a former NFL cheerleader, is suing the Eagles for the head injuries she suffered during the routine."
+                }
+            ],
+            "hops": [
+                "Ariana Grande",
+                "Lauren Sanchez"
+            ]
+        },
+        "Nickelodeon": {
+            "term": "Nickelodeon",
+            "passage": "“Nickelodeon is an American children's cable network owned by Viacom Media Networks. It is available to all households with a cable subscription in all of the United States and in Canada. It is also available to viewers in the United Kingdom and Australia. In 2015, the network is broadcast in more than 50 countries. In the 1970s and 80s, Nick was a sports channel. In 1977, NBC acquired Nickelodeon Entertainment Corporation. In the 1990s, the channel shifted to airing cartoons during the day and sitcoms in the evening. However, NBC sold Nick to Viacom in 2000, and since then, it has become an all-day, all-children television network. On April 7, 2007, Nick launched its website in response to increasing numbers of users accessing the site through handheld devices. The new website provided a direct link to YouTube, which allows users to stream live and on-demand content from the video website. The site also provides users with access to video games, free screensavers, and printable coloring pages. As of 2010, Nickelodeon also provides free mobile video games such as Nick Park and the movie “Doraemon” from Japan.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the Japanese cartoon character featured in the mobile video game Nick Park on Nickelodeon?",
+                    "answer": "Doraemon",
+                    "explanation": "Doraemon is a Japanese anime series that aired on Nickelodeon. The show is about a robotic cat named Nobita, who is sent back in time to the 21st century. Nobita is a friend of a young boy named Nobita, who is the protagonist of the show. The show is known for its comedic elements, including the characters mischievous personality and his robotic cat companion."
+                },
+                {
+                    "question": "Who owns Nickelodeon?",
+                    "answer": "Viacom Media Networks",
+                    "explanation": "Viacom Media Networks is the parent company of Nickelodeon."
+                },
+                {
+                    "question": "When did Ariana Grande first appear on Nickelodeon?",
+                    "answer": "2000",
+                    "explanation": "Ariana Grande first appeared on Nickelodeon in 2000, when she was cast as the character Cat Valentine in the show The Cat and the Dog."
+                }
+            ],
+            "hops": [
+                "Ariana Grande",
+                "Nickelodeon"
+            ]
+        },
+        "New York City": {
+            "term": "New York City",
+            "passage": "As the most populous city in the United States, the city is represented in many aspects of American culture, both in its more famous monuments, such as the Statue of Liberty and the Empire State Building, and in the many more mundane aspects of its daily life. For example, a large number of New York City residents regularly watch the 6 o'clock news on television. The city is also known for its extensive network of public transportation, including its subway system, known as the Metro North Railroad. This passage describes New York City as a populous, culturally significant city. The mention of cultural significance in the text includes the reference to the city's daily life and the 6 o'clock news. The city's representation in various aspects of American culture, including its subway system, is also stated.",
+            "qae_pairs": [
+                {
+                    "question": "What is the primary mode of transportation in New York City?",
+                    "answer": "the Metro North Railroad",
+                    "explanation": "The most common form of transportation in New York City is the Metro North Railroad, which serves the city and surrounding areas."
+                }
+            ],
+            "hops": [
+                "Lady Gaga",
+                "New York City"
+            ]
+        },
+        "Lori Beth": {
+            "term": "Lori Beth",
+            "passage": "Lori Beth Cohen (born September 12, 1945 in Chicago) is a retired American actress. She was born in Chicago, Illinois as Lori Beth Cohen but now lives in Hollywood, Florida. Cohen played the character on The Partridge Family, that of sister-in-law, DeDe, who was actually older than the character portrayed by her sister, Cindy.",
+            "qae_pairs": [
+                {
+                    "question": "Question: What is Lori Beths current residence?",
+                    "answer": "Hollywood",
+                    "explanation": "The Partridge Family actress Lori Beth Cohen is currently residing in Hollywood, Florida."
+                },
+                {
+                    "question": "What is the character Lori Beth played on The Partridge Family?",
+                    "answer": "DeDe",
+                    "explanation": "The Partridge Family is a television series that aired from 1970 to 1974. The character Lori Beth Cohen played the character of DeDe, who was actually older than the character portrayed by her sister, Cindy."
+                },
+                {
+                    "question": "What city is Lori Beth Cohen from?",
+                    "answer": "Chicago",
+                    "explanation": "Lori Beth Cohen was born in Chicago, Illinois."
+                },
+                {
+                    "question": "Where is Lori Beth currently living?",
+                    "answer": "Florida",
+                    "explanation": "The Partridge Family actress Lori Beth Cohen is currently living in Hollywood, Florida."
+                }
+            ],
+            "hops": [
+                "Ariana Grande",
+                "Lori Beth"
+            ]
+        },
+        "Eilish": {
+            "term": "Eilish",
+            "passage": "\"Eilish was raised in New Zealand and later returned to the United States. At 15, she wrote and produced an EP titled Ocean Eyes on the label Atlantic Records (now part of Warner Records). In 2016, she released the album \"Somewhere Only We Know (Remixes)\" and later, the single \"I Need You\". This year, \"Ocean Eyes\" was included on Eilish's second album \"Don't Wait\". \"Ocean Eyes\" has sold over 6 million copies as of March 2021. It peaked at number one on the US Billboard Hot 100 and has been certified gold by the RIAA. [citation needed] This page lists Eilish's most popular songs, as determined by airplay activity as measured by the Hot 100.\" What does this say about Eilish? Is she one of those artists who do well in the U.S. but don't do so great internationally? The \"Oceans Eyes\" EP has been released in several countries around the world, but no other songs released in English have so far achieved the same level of success. So, to answer your question, yes, Eilish has a huge following in the U.S. but not necessarily in other parts of the world.",
+            "qae_pairs": [
+                {
+                    "question": "What record label is Billie Eilish signed to?",
+                    "answer": "Atlantic Records",
+                    "explanation": "Ocean Eyes was released on Atlantic Records (now part of Warner Records) in 2016."
+                },
+                {
+                    "question": "What is the birthplace of Billie Eilish?",
+                    "answer": "New Zealand",
+                    "explanation": "Eilish was raised in New Zealand and later returned to the United States. At 15, she wrote and produced an EP titled Ocean Eyes on the label Atlantic Records (now part of Warner Records). In 2016, she released the album Somewhere Only We Know (Remixes) and later, the single I Need You. This year, Ocean Eyes was included on Eilishs second album Dont Wait. Ocean Eyes has sold over 6 million copies as of March 2021. It peaked at number one on the US"
+                },
+                {
+                    "question": " 4. the answer should be a numerical value between 1 and 6. What is the number of songs released by Eilish in the month of March 2021?",
+                    "answer": "March 2021",
+                    "explanation": "Eilish was raised in New Zealand and later returned to the United States. At 15, she wrote and produced an EP titled Ocean Eyes on the label Atlantic Records (now part of Warner Records). In 2016, she released the album Somewhere Only We Know (Remixes) and later, the single I Need You. This year, Ocean Eyes was included on Eilishs second album Dont Wait. Ocean Eyes has sold over 6 million copies as of March 2021. It peaked at number one on the US"
+                },
+                {
+                    "question": "\nWhat has the New Zealand-born singer and songwriter Eilish accomplished in her brief music career that has made her music so popular with US audiences?",
+                    "answer": "the US Billboard",
+                    "explanation": "Eilishs debut EP Ocean Eyes was released in 2017 and debuted at number one on the US Billboard 200. The EP was released on Atlantic Records, which is a subsidiary of Warner Music Group. The EP was a commercial success, with over 6 million copies sold as of March 2021. The EP was certified gold by the RIAA."
+                },
+                {
+                    "question": "\nWhat was Eilish's most popular song this year?",
+                    "answer": "This year",
+                    "explanation": "Ocean Eyes is Eilishs most popular song, as it was included on her second album Dont Wait."
+                },
+                {
+                    "question": "What is the most popular song by Billie Eilish?",
+                    "answer": "Ocean Eyes",
+                    "explanation": "Ocean Eyes is one of the most popular songs by Billie Eilish. It was released in 2017 and has since become a hit in many countries around the world. The song has been certified gold by the RIAA and has sold over 6 million copies as of March 2021. It peaked at number one on the US Billboard Hot 100 and has been certified gold by the RIAA."
+                }
+            ],
+            "hops": [
+                "Billie Eilish",
+                "Eilish"
+            ]
+        },
+        "Grammy Awards": {
+            "term": "Grammy Awards",
+            "passage": "In 1958, the awards were awarded for the first time. The award winners were determined by a nominating committee composed of music critics, performers, and composers, although the show itself did not feature a specific set of categories. The program was first televised in 1970 and has since become an annual event, which takes place every spring on a Sunday.",
+            "qae_pairs": [
+                {
+                    "question": "\nQuestion: Which year was the first-ever Grammy Awards held?",
+                    "answer": "1958",
+                    "explanation": "The first-ever Grammy Awards were held in 1958."
+                },
+                {
+                    "question": "What are the Grammy Awards and when do they take place?",
+                    "answer": "every spring",
+                    "explanation": "The Grammy Awards are an annual event that honors the best recordings of the year in the music industry. They take place every spring on a Sunday and are televised live on CBS. The award ceremony is typically held in late January or early February."
+                },
+                {
+                    "question": "What day of the year is the Grammy Awards typically held on?",
+                    "answer": "Sunday",
+                    "explanation": "The Grammy Awards are typically held on the first Sunday of May, which is usually in late April or early May. The exact date varies from year to year, but it is usually held in late spring."
+                }
+            ],
+            "hops": [
+                "Justin Bieber",
+                "Grammy Awards"
+            ]
+        },
+        "My World": {
+            "term": "My World",
+            "passage": "\"The My World is a children's educational interactive television series broadcast by the BBC and BBC America from 2002 to 2013. It focuses on children and the environment, and aims to help them to understand their place in the world and their responsibilities for it. The characters are two main characters, a girl named Mia and a boy named Charlie, who are presented as the 'Earth' and 'My World'. The animated series is also available on the internet, and on an interactive CD-Rom. The animated series is intended for children of all ages, and has been translated into 14 different languages.\" You can see the My World CD-Rom at your local library for free! Also in today's post, I thought you might like to hear about the new book written by the former President of the United States, George W. Bush. You can visit the George W. Bush Foundation website and find more information. Happy learning! I'm always looking for new ways to connect my children to the world and learn about new places. Your post is inspiring and we'll be checking out these links.",
+            "qae_pairs": [
+                {
+                    "question": "What year did the My World childrens television series first air?",
+                    "answer": "2002",
+                    "explanation": "The My World is a childrens educational interactive television series broadcast by the BBC and BBC America from 2002 to 2013. It focuses on children and the environment, and aims to help them to understand their place in the world and their responsibilities for it. The characters are two main characters, a girl named Mia and a boy named Charlie, who are presented as the Earth and My World. The animated series is also available on the internet, and on an interactive CD-Rom. The animated series is intended for children of all ages, and has been translated into 14 different languages."
+                },
+                {
+                    "question": "What year did the My World childrens series end?",
+                    "answer": "2013",
+                    "explanation": "The My World is a childrens educational interactive television series broadcast by the BBC and BBC America from 2002 to 2013. It focuses on children and the environment, and aims to help them to understand their place in the world and their responsibilities for it. The characters are two main characters, a girl named Mia and a boy named Charlie, who are presented as the Earth and My World. The animated series is also available on the internet, and on an interactive CD-Rom. The animated series is intended for children of all ages, and has been translated into 14 different languages. The My"
+                },
+                {
+                    "question": " (A) - Who is the former President of the United States, George W. Bush?\nQuestion: \nWhat inspired former President George W. Bush to write his new book, 'My World'? ",
+                    "answer": "George W. Bush",
+                    "explanation": "George W. Bush is the former President of the United States. He served two terms as President from 2001 to 2009. He is the son of former President George H. W. Bush and former First Lady Barbara Bush. He is the father of former President George W. Bush, former First Lady Laura Bush, former Secretary of State Condoleezza Rice, former White House Chief of Staff Andrew Card, former White House Press Secretary Dana Perino, former White House Communications Director Nicolle Devenish, former White House Social Secretary Sally McManus, former White House Chief of Staff Joshua Bolten, former White"
+                },
+                {
+                    "question": "\nWhat is the connection between the Earth and the My World?",
+                    "answer": "Earth",
+                    "explanation": "The My World series is a childrens educational interactive television series that aims to help children understand their place in the world and their responsibilities for it. The series is presented as the Earth and My World. The Earth is the My World character, and the My World character is the Earth. The two characters are connected in that they are both part of the same world."
+                },
+                {
+                    "question": "\nQuestion: What is the name of the interactive animated TV series that helps children explore their place in the world? Answer: My World.",
+                    "answer": "BBC America",
+                    "explanation": "My World is a childrens educational interactive television series broadcast by the BBC and BBC America from 2002 to 2013. It focuses on children and the environment, and aims to help them to understand their place in the world and their responsibilities for it. The characters are two main characters, a girl named Mia and a boy named Charlie, who are presented as the Earth and My World. The animated series is also available on the internet, and on an interactive CD-Rom. The animated series is intended for children of all ages, and has been translated into 14 different languages."
+                }
+            ],
+            "hops": [
+                "Justin Bieber",
+                "My World"
+            ]
+        },
+        "San Diego": {
+            "term": "San Diego",
+            "passage": "San Diego is a city in California, United States. It is the second-largest city in California, and the eighth-largest in the United States. San Diego is the home of the San Diego Padres, the San Diego Chargers, and the San Diego Gulls. The city is home to the world-famous San Diego Zoo and the San Diego-based San Diego Symphony Orchestra. San Diego is also home to the world's largest naval training center, the United States Navy's Fleet Training Center, Coronado. San Diego is the home of the world-famous San Diego Zoo and the San Diego Symphony Orchestra.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the largest naval training center in the world, located in San Diego?",
+                    "answer": "Coronado",
+                    "explanation": "Coronado is a Spanish word that means crowned with a crown of stars. It is the name of the largest naval training center in the world, located in San Diego, California."
+                },
+                {
+                    "question": "What is the name of the worlds largest naval training center in San Diego?",
+                    "answer": "Fleet Training Center",
+                    "explanation": "The Fleet Training Center is a United States Navy training facility located in the city of Coronado, California. It is the largest naval training center in the world, with a total area of 1,400 acres. The facility is used for training sailors in a variety of areas, including combat, medical, and engineering. The facility is also home to the largest training complex in the world, which includes 23,000 buildings and 1,200 acres of training land."
+                }
+            ],
+            "hops": [
+                "Bruno Mars",
+                "San Diego"
+            ]
+        },
+        "the La Mesa Junior High School": {
+            "term": "the La Mesa Junior High School",
+            "passage": "According to the 1957 San Diego Union newspaper, \"La Mesa Junior High School for grades 7-8 was established in 1950-1951 when San Diego City Schools relocated La Mesa Junior High School to a new building after 34 years of operation at La Mesa Junior High School.\" The new building was located in a new school district called \"Poway Unified School District.\" In addition, there was \"also a new swimming pool at La Mesa Junior High School.\" The new school district is the La Mesa-Foothills Unified School District. There's some other interesting information from the Wikipedia page:\n\"In the 1960s, the school district was divided into two different school districts: the East and West Coast school district. When the two districts merged, La Mesa became the name for the new school district. La Mesa Junior High School was renamed La Mesa Junior High School and became a member of the La Mesa-Foothills Unified School District.\" That's pretty interesting. It's like the school has \"evolved\" or something. Here are a couple of more pics I've found:\nA look at the new La Mesa Jr. High school, a few months after completion. It was built in the middle of 1954. (from my sources)\nI'm guessing this is probably an older \"high school\" style picture of La Mesa Jr. High School.",
+            "qae_pairs": [
+                {
+                    "question": "What year was La Mesa Junior High School established?",
+                    "answer": "1950-1951",
+                    "explanation": "La Mesa Junior High School for grades 7-8 was established in 1950-1951 when San Diego City Schools relocated La Mesa Junior High School to a new building after 34 years of operation at La Mesa Junior High School."
+                },
+                {
+                    "question": "What is the name of the school district that La Mesa Junior High School is a member of?",
+                    "answer": "San Diego City",
+                    "explanation": "La Mesa Junior High School is a member of the San Diego City Schools. The school district was established in 1950-1951 when San Diego City Schools relocated La Mesa Junior High School to a new building after 34 years of operation at La Mesa Junior High School. The new building was located in a new school district called Poway Unified School District. In addition, there was also a new swimming pool at La Mesa Junior High School. The new school district is the La Mesa-Foothills Unified School District."
+                }
+            ],
+            "hops": [
+                "Bruno Mars",
+                "the La Mesa Junior High School"
+            ]
+        },
+        "Puerto Rican": {
+            "term": "Puerto Rican",
+            "passage": "Puerto Rican is an ethnic group from the island of Puerto Rico. The population of Puerto Ricans in the United States is estimated to be 4.9 million, making them the largest Hispanic ethnic group in the country. The Puerto Rican population is estimated to be 4.9 million, making them the largest Hispanic ethnic group in the country.",
+            "qae_pairs": [
+                {
+                    "question": "\nHow many Puerto Ricans live in the United States?",
+                    "answer": "Puerto Rico",
+                    "explanation": "Puerto Ricans are an ethnic group from the island of Puerto Rico. The population of Puerto Ricans in the United States is estimated to be 4.9 million, making them the largest Hispanic ethnic group in the country."
+                }
+            ],
+            "hops": [
+                "Bruno Mars",
+                "Puerto Rican"
+            ]
+        },
+        "Jive Records": {
+            "term": "Jive Records",
+            "passage": "The Jive Label was founded by George (a black american) in 1956 and they were the first black record label. One of the label's most notable artists was Louis Armstrong. He was one of the best-selling jazz musicians of his time. I really enjoyed listening to his music as a child. In fact, that's one of the reasons I was drawn to the Jive label. I was a jazz/R&B fan, and I wanted a record label that would cater to those styles. But I didn't grow up with a black cultural heritage, and I am in my mid 50's now. However, I do try to keep up with the times and keep the knowledge of the black culture and heritage alive. I also enjoy listening to artists that are on the Jive label now, because I like the style and variety of music that they produce. Some of the artists are: John Coltrane, Dave Brubeck, Miles Davis, Count Basie, Duke Ellington, Mahalia Jackson, and many, many more. I was born in a small town, and had very few opportunities to hear this music and to become immersed in it. The musical aspect of jazz and jazz-fusion was the only musical style I ever really heard and was interested in. The fact that some of the jazz I listened to has a strong gospel aspect to it made me want to go to church more frequently.",
+            "qae_pairs": [
+                {
+                    "question": "Who founded the Jive Records label?",
+                    "answer": "George",
+                    "explanation": "George is the name of the founder of the Jive Records label. He was a black American who founded the label in 1956."
+                },
+                {
+                    "question": "What year was Jive Records founded?",
+                    "answer": "1956",
+                    "explanation": "1956"
+                },
+                {
+                    "question": "\nWho is the famous gospel singer Mahalia Jackson that was a part of the Jive Records label?",
+                    "answer": "Mahalia Jackson",
+                    "explanation": "Mahalia Jackson was a famous gospel singer who was a part of the Jive Records label. She was born in 1911 in Chicago, Illinois. She was a singer and a civil rights activist. She was a member of the famous gospel group, the Gospel Harmonettes. She was a member of the famous gospel group, the Gospel Harmonettes. She was a member of the famous gospel group, the Gospel Harmonettes. She was a member of the famous gospel group, the Gospel Harmonettes. She was a member of the famous gospel group, the Gospel Harmonettes. She was a member of the famous gospel group, the"
+                },
+                {
+                    "question": "\nWhat is Jive Records?",
+                    "answer": "Jive",
+                    "explanation": "Jive Records is a record label that was founded in 1956 by George Jive. It was the first record label to be founded by a black American. The label was founded to produce and distribute jazz and R&B music. The label was very successful and produced many famous artists such as Louis Armstrong, Duke Ellington, and Dave Brubeck. The label was later sold to the Warner Communications Corporation in 1978."
+                },
+                {
+                    "question": "What is the musical style of the Jive Records label?",
+                    "answer": "R&B",
+                    "explanation": "Jive Records is a record label that was founded in 1956 by George Jive. The label was founded to produce and distribute jazz and R&B music. The label was founded by George Jive, who was a black American. The labels most notable artist was Louis Armstrong, who was one of the best-selling jazz musicians of his time. Louis Armstrong was a jazz and R&B musician who was born in New Orleans, Louisiana. He was a jazz and R&B musician who was born in New Orleans, Louisiana. He was a jazz and R&B musician who was born in New Orleans"
+                }
+            ],
+            "hops": [
+                "Bruno Mars",
+                "Jive Records"
+            ]
+        }
+    }
+}

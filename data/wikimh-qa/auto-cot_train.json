@@ -1,0 +1,4205 @@
+[
+    {
+        "question": "Where was the place of death of Marie Th\u00e9r\u00e8se Of France (1667\u20131672)'s father?",
+        "answer": "Palace of Versailles",
+        "evidence": [
+            "Marie Th\u00e9r\u00e8se of France->father->Louis XIV of France",
+            "Louis XIV->place of death->Palace of Versailles"
+        ]
+    },
+    {
+        "question": "Who is the paternal grandmother of Przemys\u0142aw Potocki?",
+        "answer": "Ludwika Lubomirska",
+        "evidence": [
+            "Przemys\u0142aw Potocki->father->Antoni Potocki",
+            "Antoni Potocki->mother->Ludwika Lubomirska"
+        ]
+    },
+    {
+        "question": "Who lived longer, Herbert Findeisen or L\u00e9onie Humbert-Vignot?",
+        "answer": "L\u00e9onie Humbert-Vignot",
+        "evidence": [
+            "Herbert Findeisen->date of birth->11 July 1913",
+            "Herbert Findeisen->date of death->11 May 1963",
+            "L\u00e9onie Humbert-Vignot->date of birth->1878",
+            "L\u00e9onie Humbert-Vignot->date of death->1960"
+        ]
+    },
+    {
+        "question": "Which film has the director born first, Sensation In Savoy or Devasuram?",
+        "answer": "Sensation In Savoy",
+        "evidence": [
+            "Sensation in Savoy->director->Eduard von Borsody",
+            "Devasuram->director->I. V. Sasi",
+            "Eduard von Borsody->date of birth->13 June 1898",
+            "I. V. Sasi->date of birth->28 March 1948"
+        ]
+    },
+    {
+        "question": "Which film has the director died later, Traici\u00f3n or Millipilleri?",
+        "answer": "Millipilleri",
+        "evidence": [
+            "Traici\u00f3n->director->Carlos F. Borcosque",
+            "Millipilleri->director->Spede Pasanen",
+            "Carlos F. Borcosque->date of death->5 September 1965",
+            "Spede Pasanen->date of death->7 September 2001"
+        ]
+    },
+    {
+        "question": "Do the movies Tantric Tourists and Emotional Arithmetic, originate from the same country?",
+        "answer": "no",
+        "evidence": [
+            "Tantric Tourists->country of origin->British",
+            "Emotional Arithmetic->country of origin->Canadian"
+        ]
+    },
+    {
+        "question": "Which film has the director who was born later, Brothers' Nest or The Young And The Guilty?",
+        "answer": "Brothers' Nest",
+        "evidence": [
+            "Brothers' Nest->director->Clayton Jacobson",
+            "The Young and the Guilty->director->Peter Cotes",
+            "Clayton Jacobson (director)->date of birth->26 October 1963",
+            "Peter Cotes->date of birth->19 March 1912"
+        ]
+    },
+    {
+        "question": "Did Shana Mahaffey and Andr\u00e9 Egli have the same nationality?",
+        "answer": "no",
+        "evidence": [
+            "Shana Mahaffey->country of citizenship->American",
+            "Andr\u00e9 Egli->country of citizenship->Swiss"
+        ]
+    },
+    {
+        "question": "Are the movies El Camino De San Diego and Vamps (Film), from the same country?",
+        "answer": "no",
+        "evidence": [
+            "El Camino de San Diego->country of origin->Argentine",
+            "Vamps (film)->country of origin->American"
+        ]
+    },
+    {
+        "question": "Were Samuel Hanson Stone and Will James (artist) from the same country?",
+        "answer": "no",
+        "evidence": [
+            "Will James (artist)->country of citizenship->Canadian",
+            "Samuel Hanson Stone->country of citizenship->American"
+        ]
+    },
+    {
+        "question": "Which film has the director who is older, The Magnificent Rogue or Amar Shakti?",
+        "answer": "The Magnificent Rogue",
+        "evidence": [
+            "The Magnificent Rogue->director->Albert S. Rogell",
+            "Amar Shakti->director->Harmesh Malhotra",
+            "Albert S. Rogell->date of birth->August 21, 1901",
+            "Harmesh Malhotra->date of birth->14 June 1936"
+        ]
+    },
+    {
+        "question": "Which film has the director who was born first, Sangre De Mayo or Hell Boats?",
+        "answer": "Hell Boats",
+        "evidence": [
+            "Sangre de Mayo->director->Jos\u00e9 Luis Garci",
+            "Hell Boats->director->Paul Wendkos",
+            "Jos\u00e9 Luis Garci->date of birth->20 January 1944",
+            "Paul Wendkos->date of birth->September 20, 1925"
+        ]
+    },
+    {
+        "question": "What is the place of birth of the performer of song Once I Loved?",
+        "answer": "Hoboken",
+        "evidence": [
+            "Once I Loved->performer->Frank Sinatra",
+            "Frank Sinatra->place of birth->Hoboken"
+        ]
+    },
+    {
+        "question": "When did Ji Shengde's father die?",
+        "answer": "February 10, 2000",
+        "evidence": [
+            "Ji Shengde->father->Ji Pengfei",
+            "Ji Pengfei->date of death->February 10, 2000"
+        ]
+    },
+    {
+        "question": "Are both Bayfield, Wisconsin and Drmeni located in the same country?",
+        "answer": "no",
+        "evidence": [
+            "Bayfield, Wisconsin->country->United States",
+            "Drmeni->country->Republic of North Macedonia"
+        ]
+    },
+    {
+        "question": "Which film has the director who died later, I Am A Camera (Film) or Among Vultures?",
+        "answer": "Among Vultures",
+        "evidence": [
+            "I Am a Camera (film)->director->Henry Cornelius",
+            "Among Vultures->director->Alfred Vohrer",
+            "Henry Cornelius->date of death->2 May 1958",
+            "Alfred Vohrer->date of death->3 February 1986"
+        ]
+    },
+    {
+        "question": "What nationality is the director of film Fag Hag (Film)?",
+        "answer": "American",
+        "evidence": [
+            "Fag Hag->director->Damion Dietz",
+            "Damion Dietz->country of citizenship->American"
+        ]
+    },
+    {
+        "question": "Which film has the director who was born earlier, Joyless Street or Vaettiya Madichu Kattu?",
+        "answer": "Joyless Street",
+        "evidence": [
+            "Joyless Street->director->Georg Wilhelm Pabst",
+            "Vaettiya Madichu Kattu->director->K. Bhagyaraj",
+            "G. W. Pabst->date of birth->25 August 1885",
+            "K. Bhagyaraj->date of birth->7 January 1953"
+        ]
+    },
+    {
+        "question": "Which film has the director born first, Best Of Enemies (2015 Film) or The Rhineland Girl?",
+        "answer": "The Rhineland Girl",
+        "evidence": [
+            "Best of Enemies (2015 film)->director->Morgan Neville",
+            "The Rhineland Girl->director->Johannes Meyer",
+            "Morgan Neville->date of birth->October 10, 1967",
+            "Johannes Meyer (director)->date of birth->13 August 1888"
+        ]
+    },
+    {
+        "question": "Which country the composer of song The Autumn Waltz is from?",
+        "answer": "American",
+        "evidence": [
+            "The Autumn Waltz->composer->Cy Coleman",
+            "Cy Coleman->country of citizenship->American"
+        ]
+    },
+    {
+        "question": "Did the movies We Stick Together Through Thick and Thin and Total Badass, originate from the same country?",
+        "answer": "no",
+        "evidence": [
+            "Total Badass->country of origin->American",
+            "We Stick Together Through Thick and Thin->country of origin->German"
+        ]
+    },
+    {
+        "question": "Who is the maternal grandfather of Gaius Antonius (Brother Of Mark Antony)?",
+        "answer": "Lucius Julius Caesar",
+        "evidence": [
+            "Gaius Antonius->mother->Julia",
+            "Julia->father->Lucius Julius Caesar"
+        ]
+    },
+    {
+        "question": "When did the director of film Society Girl (1932 Film) die?",
+        "answer": "June 20, 1972",
+        "evidence": [
+            "Society Girl->director->Sidney Lanfield",
+            "Sidney Lanfield->date of death->June 20, 1972"
+        ]
+    },
+    {
+        "question": "Did Franco Rossetti and Babette De Leede have the same nationality?",
+        "answer": "no",
+        "evidence": [
+            "Franco Rossetti->country of citizenship->Italian",
+            "Babette de Leede->country of citizenship->Dutch"
+        ]
+    },
+    {
+        "question": "Which film was released first, Ganga Maiyya Tohe Piyari Chadhaibo or Olavina Udugore?",
+        "answer": "Ganga Maiyya Tohe Piyari Chadhaibo",
+        "evidence": [
+            "Ganga Maiyya Tohe Piyari Chadhaibo->publication date->1963",
+            "Olavina Udugore->publication date->1987"
+        ]
+    },
+    {
+        "question": "When is Julian Farino's wife's birthday?",
+        "answer": "20 January 1970",
+        "evidence": [
+            "Julian Farino->spouse->Branka Kati\u0107",
+            "Branka Kati\u0107->date of birth->20 January 1970"
+        ]
+    },
+    {
+        "question": "Which film has the director born first, The Broken Coin or Our Friends, the Hayseeds?",
+        "answer": "The Broken Coin",
+        "evidence": [
+            "Our Friends, the Hayseeds->director->Beaumont Smith",
+            "The Broken Coin->director->Francis Ford",
+            "Beaumont Smith->date of birth->15 August 1885",
+            "Francis Ford (actor)->date of birth->August 14, 1881"
+        ]
+    },
+    {
+        "question": "Are director of film Red Dust (1999 Film) and director of film Kaadhal (1952 Film) from the same country?",
+        "answer": "no",
+        "evidence": [
+            "Red Dust (1999 film)->director->Zrinko Ogresta",
+            "Kaadhal (1952 film)->director->P. S. Ramakrishna Rao",
+            "Zrinko Ogresta->country of citizenship->Croatian",
+            "P. S. Ramakrishna Rao->country of citizenship->India"
+        ]
+    },
+    {
+        "question": "What is the cause of death of director of film What Every Girl Should Know (Film)?",
+        "answer": "heart attack",
+        "evidence": [
+            "What Every Girl Should Know->director->Charles Reisner",
+            "Charles Reisner->cause of death->heart attack"
+        ]
+    },
+    {
+        "question": "When was the director of film Carmen Jones (Film) born?",
+        "answer": "5 December 1905",
+        "evidence": [
+            "Carmen Jones->director->Otto Preminger",
+            "Otto Preminger->date of birth->5 December 1905"
+        ]
+    },
+    {
+        "question": "Did the movies French Without Tears (Film) and Desert Hell, originate from the same country?",
+        "answer": "no",
+        "evidence": [
+            "French Without Tears (film)->country of origin->British",
+            "Desert Hell->country of origin->American"
+        ]
+    },
+    {
+        "question": "Which film has the director who was born later, No Day Without You or Chakrapani?",
+        "answer": "Chakrapani",
+        "evidence": [
+            "No Day Without You->director->Hans Behrendt",
+            "Chakrapani->director->P. S. Ramakrishna Rao",
+            "Hans Behrendt->date of birth->28 September 1889",
+            "P. S. Ramakrishna Rao->date of birth->12 October 1918"
+        ]
+    },
+    {
+        "question": "Who was born later, Ralph Earle Jr. or Kelley Jones?",
+        "answer": "Kelley Jones",
+        "evidence": [
+            "Ralph Earle Jr.->date of birth->January 17, 1908",
+            "Kelley Jones->date of birth->July 23, 1962"
+        ]
+    },
+    {
+        "question": "Are Fossebreen and Peak Pobeda, Sakha located in the same country?",
+        "answer": "no",
+        "evidence": [
+            "Fossebreen->country->Norway",
+            "Peak Pobeda, Sakha->country->Russia"
+        ]
+    },
+    {
+        "question": "Are both Urumbilum River and Ailette (River) located in the same country?",
+        "answer": "no",
+        "evidence": [
+            "Urumbilum River->country->Australia",
+            "Ailette (river)->country->France"
+        ]
+    },
+    {
+        "question": "Are both Hanimaadhoo International Airport and And\u00f8ya Airport, Andenes located in the same country?",
+        "answer": "no",
+        "evidence": [
+            "Hanimaadhoo International Airport->country->Maldives",
+            "And\u00f8ya Airport, Andenes->country->Norway"
+        ]
+    },
+    {
+        "question": "Are Mat\u00edas Molina and Sunisa Lee of the same nationality?",
+        "answer": "no",
+        "evidence": [
+            "Mat\u00edas Molina->country of citizenship->Argentine",
+            "Sunisa Lee->country of citizenship->American"
+        ]
+    },
+    {
+        "question": "What is the date of birth of the director of film Sixteen Daughters And No Father?",
+        "answer": "September 6, 1895",
+        "evidence": [
+            "Sixteen Daughters and No Father->director->Adolf Trotz",
+            "Adolf Trotz->date of birth->September 6, 1895"
+        ]
+    },
+    {
+        "question": "Do both films City Police (Film) and Paradjanov (Film) have the directors from the same country?",
+        "answer": "no",
+        "evidence": [
+            "City Police (film)->director->Venu Nair",
+            "Paradjanov (film)->director->Serge Avedikian",
+            "Venu Nair->country of citizenship->India",
+            "Serge Avedikian->country of citizenship->French"
+        ]
+    },
+    {
+        "question": "Which film has the director born first, The Self-Made Wife or Nameless Men?",
+        "answer": "The Self-Made Wife",
+        "evidence": [
+            "The Self-Made Wife->director->John Francis Dillon",
+            "Nameless Men->director->Christy Cabanne",
+            "John Francis Dillon (director)->date of birth->July 13, 1884",
+            "Christy Cabanne->date of birth->April 16, 1888"
+        ]
+    },
+    {
+        "question": "Which film has the director who was born first, The Frighteners or Ambassador Bill?",
+        "answer": "Ambassador Bill",
+        "evidence": [
+            "Ambassador Bill->director->Sam Taylor",
+            "The Frighteners->director->Peter Jackson",
+            "Sam Taylor (director)->date of birth->August 13, 1895",
+            "Peter Jackson->date of birth->31 October 1961"
+        ]
+    },
+    {
+        "question": "Do director of film Full Moon High and director of film East Side Story (1997 film) have the same nationality?",
+        "answer": "no",
+        "evidence": [
+            "East Side Story (1997 film)->director->Dana Ranga",
+            "Full Moon High->director->Larry Cohen",
+            "Dana Ranga->country of citizenship->Romanian",
+            "Larry Cohen->country of citizenship->American"
+        ]
+    },
+    {
+        "question": "Are Disrupt and The Fucking Buckaroos (Band) from the same country?",
+        "answer": "yes",
+        "evidence": [
+            "Disrupt->country of origin->United States",
+            "The Fucking Buckaroos (band)->country of origin->American"
+        ]
+    },
+    {
+        "question": "Are the directors of both films Kistimaat and The War With Grandpa from the same country?",
+        "answer": "no",
+        "evidence": [
+            "Kistimaat->director->Ashiqur Rahman",
+            "The War with Grandpa->director->Tim Hill",
+            "Ashiqur Rahman->country of citizenship->Bangladeshi",
+            "Tim Hill (director)->country of citizenship->American"
+        ]
+    },
+    {
+        "question": "Where was the place of death of the director of film H\u00e9roes Sin Fama?",
+        "answer": "Buenos Aires",
+        "evidence": [
+            "H\u00e9roes sin fama->director->Mario Soffici",
+            "Mario Soffici->place of death->Buenos Aires"
+        ]
+    },
+    {
+        "question": "Which country the director of film Axis (Film) is from?",
+        "answer": "American",
+        "evidence": [
+            "Axis->director->Aisha Tyler",
+            "Aisha Tyler->country of citizenship->American"
+        ]
+    },
+    {
+        "question": "Where was the place of death of the composer of film The Magic Flute (2006 Film)?",
+        "answer": "Vienna",
+        "evidence": [
+            "The Magic Flute->composer->Wolfgang Amadeus Mozart",
+            "Wolfgang Amadeus Mozart->place of death->Vienna"
+        ]
+    },
+    {
+        "question": "What is the place of birth of the director of film To Skin A Spy?",
+        "answer": "Lyon",
+        "evidence": [
+            "To Skin a Spy->director->Jacques Deray",
+            "Jacques Deray->place of birth->Lyon"
+        ]
+    },
+    {
+        "question": "Where did Hank Reinhardt's wife graduate from?",
+        "answer": "Oberlin College",
+        "evidence": [
+            "Hank Reinhardt->spouse->Toni Weisskopf",
+            "Toni Weisskopf->educated at->Oberlin College"
+        ]
+    },
+    {
+        "question": "Are Deh-E Ali Akbar and Tirgari located in the same country?",
+        "answer": "yes",
+        "evidence": [
+            "Deh-e Ali Akbar->country->Iran",
+            "Tirgari->country->Iran"
+        ]
+    },
+    {
+        "question": "What is the date of death of the director of film Specter Of The Rose?",
+        "answer": "April 18, 1964",
+        "evidence": [
+            "Specter of the Rose->director->Ben Hecht",
+            "Ben Hecht->date of death->April 18, 1964"
+        ]
+    },
+    {
+        "question": "Do both directors of films The Ninja Mission and Living On The Edge (Film) share the same nationality?",
+        "answer": "no",
+        "evidence": [
+            "The Ninja Mission->director->Mats Helge",
+            "Living on the Edge (film)->director->Rodrigue Jean",
+            "Mats Helge->country of citizenship->Swedish",
+            "Rodrigue Jean->country of citizenship->Canadian"
+        ]
+    },
+    {
+        "question": "What is the date of birth of George Charles Wallich's father?",
+        "answer": "28 January 1786",
+        "evidence": [
+            "George Charles Wallich->father->Nathaniel Wallich",
+            "Nathaniel Wallich->date of birth->28 January 1786"
+        ]
+    },
+    {
+        "question": "What nationality is Moina Mathers's husband?",
+        "answer": "British",
+        "evidence": [
+            "Moina Mathers->spouse->Samuel Liddell MacGregor Mathers",
+            "Samuel Liddell->country of citizenship->British"
+        ]
+    },
+    {
+        "question": "Where did Sir Crispin Agnew Of Lochnaw's father die?",
+        "answer": "Mzuzu",
+        "evidence": [
+            "Sir Crispin Hamlyn Agnew of Lochnaw->father->Fulque Agnew",
+            "Fulque Agnew->place of death->Mzuzu"
+        ]
+    },
+    {
+        "question": "Are Luka Bo\u017ei\u010d and Rale Micic from the same country?",
+        "answer": "no",
+        "evidence": [
+            "Luka Bo\u017ei\u010d->country of citizenship->Slovenian",
+            "Rale Micic->country of citizenship->Serbia"
+        ]
+    },
+    {
+        "question": "Are both villages, Dam Tang-E Tikab and Bid Boland, Bushehr, located in the same country?",
+        "answer": "yes",
+        "evidence": [
+            "Dam Tang-e Tikab->country->Iran",
+            "Bid Boland, Bushehr->country->Iran"
+        ]
+    },
+    {
+        "question": "Are both villages, Band-E Karim Khani and Thornford, located in the same country?",
+        "answer": "no",
+        "evidence": [
+            "Band-e Karim Khani->country->Iran",
+            "Thornford->country->British"
+        ]
+    },
+    {
+        "question": "Who was born first, Ryan Stevenson (Cricketer) or Li Yining?",
+        "answer": "Li Yining",
+        "evidence": [
+            "Ryan Stevenson (cricketer)->date of birth->2 April 1992",
+            "Li Yining->date of birth->22 November 1930"
+        ]
+    },
+    {
+        "question": "Which film has the director died first, The Sleeping City or Mano Rubata?",
+        "answer": "The Sleeping City",
+        "evidence": [
+            "The Sleeping City->director->George Sherman",
+            "Mano rubata->director->Alberto Lattuada",
+            "George Sherman->date of death->March 15, 1991",
+            "Alberto Lattuada->date of death->3 July 2005"
+        ]
+    },
+    {
+        "question": "Are Ayqer Chaman-E Olya and Fesha-E Sofla located in the same country?",
+        "answer": "yes",
+        "evidence": [
+            "Ayqer Chaman-e Olya->country->Iran",
+            "Fesha-e Sofla->country->Iran"
+        ]
+    },
+    {
+        "question": "Which film has the director who was born later, Tutti Gli Uomini Del Deficiente or Untamed (1940 Film)?",
+        "answer": "Tutti Gli Uomini Del Deficiente",
+        "evidence": [
+            "Tutti gli uomini del deficiente->director->Paolo Costella",
+            "Untamed (1940 film)->director->George Archainbaud",
+            "Paolo Costella->date of birth->19 February 1964",
+            "George Archainbaud->date of birth->May 7, 1890"
+        ]
+    },
+    {
+        "question": "Which country the director of film In Celebration is from?",
+        "answer": "British",
+        "evidence": [
+            "In Celebration->director->Lindsay Anderson",
+            "Lindsay Anderson->country of citizenship->British"
+        ]
+    },
+    {
+        "question": "Were both Jens Christian Hostrup and Tengiz Zamtaradze, born in the same place?",
+        "answer": "no",
+        "evidence": [
+            "Jens Christian Hostrup->place of birth->Copenhagen",
+            "Tengiz Zamtaradze->place of birth->Tbilisi"
+        ]
+    },
+    {
+        "question": "What is the date of birth of Antonia Of Savoy's father?",
+        "answer": "5 February 1438",
+        "evidence": [
+            "Antonia of Savoy->father->Philip II",
+            "Philip II->date of birth->5 February 1438"
+        ]
+    },
+    {
+        "question": "Are Jaca Cathedral and Temple Of Proserpina located in the same country?",
+        "answer": "no",
+        "evidence": [
+            "Jaca Cathedral->country->Spain",
+            "Temple of Proserpina->country->Malta"
+        ]
+    },
+    {
+        "question": "Where did the director of film Tit For Tat (1921 Film) die?",
+        "answer": "Chobham, Surrey",
+        "evidence": [
+            "Tit for Tat->director->Henry Edwards",
+            "Henry Edwards->place of death->Chobham, Surrey"
+        ]
+    },
+    {
+        "question": "Which film came out first, Matrimonium or Kaala Patthar?",
+        "answer": "Kaala Patthar",
+        "evidence": [
+            "Matrimonium->publication date->2005",
+            "Kaala Patthar->publication date->1979"
+        ]
+    },
+    {
+        "question": "Are both Nagazeh-Ye Kuchak and Abadi Chaleh located in the same country?",
+        "answer": "yes",
+        "evidence": [
+            "Nagazeh-ye Kuchak->country->Iran",
+            "Abadi Chaleh->country->Iran"
+        ]
+    },
+    {
+        "question": "Who was born later, Angelika Slamov\u00e1 or Simen Spieler Nilsen?",
+        "answer": "Angelika Slamov\u00e1",
+        "evidence": [
+            "Simen Spieler Nilsen->date of birth->4 August 1993",
+            "Angelika Slamov\u00e1->date of birth->June 19, 1994"
+        ]
+    },
+    {
+        "question": "Are the directors of both films Cannibal Girls and Battle Circus (Film) from the same country?",
+        "answer": "no",
+        "evidence": [
+            "Cannibal Girls->director->Ivan Reitman",
+            "Battle Circus (film)->director->Richard Brooks",
+            "Ivan Reitman->country of citizenship->Canadian",
+            "Ivan Reitman->country of citizenship->Czechoslovak",
+            "Richard Brooks->country of citizenship->American"
+        ]
+    },
+    {
+        "question": "Do Milan Mijatovi\u0107 and Derrick Martin have the same nationality?",
+        "answer": "no",
+        "evidence": [
+            "Milan Mijatovi\u0107->country of citizenship->Montenegrin",
+            "Derrick Martin->country of citizenship->American"
+        ]
+    },
+    {
+        "question": "Are the directors of films Retalhos Da Vida De Um M\u00e9dico and The Shooting both from the same country?",
+        "answer": "no",
+        "evidence": [
+            "Retalhos da Vida de Um M\u00e9dico->director->Jorge Brum do Canto",
+            "The Shooting->director->Monte Hellman",
+            "Jorge Brum do Canto->country of citizenship->Portuguese",
+            "Monte Hellman->country of citizenship->American"
+        ]
+    },
+    {
+        "question": "Which film was released more recently, The Possession Of Joel Delaney or Pattinapakkam?",
+        "answer": "Pattinapakkam",
+        "evidence": [
+            "The Possession of Joel Delaney->publication date->1972",
+            "Pattinapakkam->publication date->2018"
+        ]
+    },
+    {
+        "question": "When did the director of film Mart\u00edn Rivas (Film) die?",
+        "answer": "5 September 1965",
+        "evidence": [
+            "Mart\u00edn Rivas->director->Carlos F. Borcosque",
+            "Carlos F. Borcosque->date of death->5 September 1965"
+        ]
+    },
+    {
+        "question": "Do both films: Chatrak and Sex And Blood In The Trail Of The Treasure have the directors from the same country?",
+        "answer": "no",
+        "evidence": [
+            "Chatrak->director->Vimukthi Jayasundara",
+            "Sex and Blood in the Trail of the Treasure->director->Jos\u00e9 Mojica Marins",
+            "Vimukthi Jayasundara->country of citizenship->Sri Lanka",
+            "Jos\u00e9 Mojica Marins->country of citizenship->Brazil"
+        ]
+    },
+    {
+        "question": "What is the date of death of the director of film They Didn'T Know?",
+        "answer": "4 February 1986",
+        "evidence": [
+            "They Didn't Know->director->Herbert Smith",
+            "Herbert Smith->date of death->4 February 1986"
+        ]
+    },
+    {
+        "question": "Are both villages, Golema Re\u010dica and Nian, Kermanshah, located in the same country?",
+        "answer": "no",
+        "evidence": [
+            "Golema Re\u010dica->country->Republic of Macedonia",
+            "Nian, Kermanshah->country->Iran"
+        ]
+    },
+    {
+        "question": "Are both director of film Proloy (Film) and director of film The War Boy from the same country?",
+        "answer": "no",
+        "evidence": [
+            "Proloy (film)->director->Raj Chakraborty",
+            "The War Boy->director->Allan Eastman",
+            "Raj Chakraborty->country of citizenship->Indian",
+            "Allan Eastman->country of citizenship->Canadian"
+        ]
+    },
+    {
+        "question": "What is the date of death of the director of film Hel\u00e9ne Of The North?",
+        "answer": "March 30, 1949",
+        "evidence": [
+            "Hel\u00e9ne of the North->director->J. Searle Dawley",
+            "J. Searle Dawley->date of death->March 30, 1949"
+        ]
+    },
+    {
+        "question": "Are director of film 10 Rillington Place and director of film Sparsh (Film) both from the same country?",
+        "answer": "no",
+        "evidence": [
+            "10 Rillington Place->director->Richard Fleischer",
+            "Sparsh (film)->director->Sai Paranjpye",
+            "Richard Fleischer->country of citizenship->American",
+            "Sai Paranjpye->country of citizenship->India"
+        ]
+    },
+    {
+        "question": "Are Shaqaqi-Ye Chavarzaq and Aliabad-E Jangal located in the same country?",
+        "answer": "yes",
+        "evidence": [
+            "Shaqaqi-ye Chavarzaq->country->Iran",
+            "Aliabad-e Jangal->country->Iran"
+        ]
+    },
+    {
+        "question": "Who is younger, Stephane De Baets or Ahti Pekkala?",
+        "answer": "Stephane De Baets",
+        "evidence": [
+            "Stephane De Baets->date of birth->April 6, 1969",
+            "Ahti Pekkala->date of birth->20 December 1924"
+        ]
+    },
+    {
+        "question": "When did the founder of Sagar Films die?",
+        "answer": "12 December 2005",
+        "evidence": [
+            "Sagar Films->founded by->Ramanand Sagar",
+            "Ramanand Sagar->date of death->12 December 2005"
+        ]
+    },
+    {
+        "question": "Which film has the director who was born earlier, Cadets Of St. Martin or Hussar Fever?",
+        "answer": "Hussar Fever",
+        "evidence": [
+            "Cadets of St. Martin->director->Mario Soffici",
+            "Hussar Fever->director->Georg Jacoby",
+            "Mario Soffici->date of birth->14 May 1900",
+            "Georg Jacoby->date of birth->23 July 1882"
+        ]
+    },
+    {
+        "question": "Which film has the director who was born first, The Galloping Ace or New Town Killers?",
+        "answer": "The Galloping Ace",
+        "evidence": [
+            "The Galloping Ace->director->Robert N. Bradbury",
+            "New Town Killers->director->Richard Jobson",
+            "Robert North Bradbury->date of birth->March 23, 1886",
+            "Richard Jobson (television presenter)->date of birth->6 October 1960"
+        ]
+    },
+    {
+        "question": "Which country \u00c9mile Wartel's father is from?",
+        "answer": "French",
+        "evidence": [
+            "\u00c9mile Wartel->father->Fran\u00e7ois Wartel",
+            "Fran\u00e7ois Wartel->country of citizenship->French"
+        ]
+    },
+    {
+        "question": "Who is the mother-in-law of Infanta Blanca Of Spain?",
+        "answer": "Princess Maria Immaculata of Bourbon-Two Sicilies",
+        "evidence": [
+            "Infanta Blanca of Spain->spouse->Archduke Leopold Salvator of Austria",
+            "Archduke Leopold Salvator of Austria->mother->Princess Maria Immaculata of Bourbon-Two Sicilies"
+        ]
+    },
+    {
+        "question": "When did Jeanne Blum's husband die?",
+        "answer": "30 March 1950",
+        "evidence": [
+            "Jeanne Ad\u00e8le \u201cJanot\u201d Blum->spouse->L\u00e9on Blum",
+            "L\u00e9on Blum->date of death->30 March 1950"
+        ]
+    },
+    {
+        "question": "Do both Passions (1994 Film) and Once There Was A War (Film) films have the directors from the same country?",
+        "answer": "no",
+        "evidence": [
+            "Passions (1994 film)->director->Kira Muratova",
+            "Once There Was a War (film)->director->Palle Kj\u00e6rulff-Schmidt",
+            "Kira Muratova->country of citizenship->Soviet",
+            "Kira Muratova->country of citizenship->Ukrainian",
+            "Palle Kj\u00e6rulff-Schmidt->country of citizenship->Danish"
+        ]
+    },
+    {
+        "question": "Where was the place of death of the director of film The Burning Of Imperial Palace?",
+        "answer": "Beijing",
+        "evidence": [
+            "The Burning of Imperial Palace->director->Li Han-hsiang",
+            "Li Han-hsiang->place of death->Beijing"
+        ]
+    },
+    {
+        "question": "Are Khoshkabad, Isfahan and Dastjerd, Ardestan located in the same country?",
+        "answer": "yes",
+        "evidence": [
+            "Khoshkabad, Isfahan->country->Iran",
+            "Dastjerd, Ardestan->country->Iran"
+        ]
+    },
+    {
+        "question": "What is the date of death of the director of film Never Look Back (1952 Film)?",
+        "answer": "31 July 2002",
+        "evidence": [
+            "Never Look Back->director->Francis Searle",
+            "Francis Searle->date of death->31 July 2002"
+        ]
+    },
+    {
+        "question": "Are both C.A. Gray Jr High School and Eaton Academy located in the same country?",
+        "answer": "yes",
+        "evidence": [
+            "C.A. Gray Jr High School->country->United States",
+            "Eaton Academy->country->U.S."
+        ]
+    },
+    {
+        "question": "When did Elizabeth Merbury's husband die?",
+        "answer": "22 April 1459",
+        "evidence": [
+            "Elizabeth Merbury->spouse->Walter Devereux",
+            "Walter Devereux->date of death->22 April 1459"
+        ]
+    },
+    {
+        "question": "Are both Kalateh-Ye Molla Gholamhoseyn and Sheykh Hoseyn, Khuzestan located in the same country?",
+        "answer": "yes",
+        "evidence": [
+            "Kalateh-ye Molla Gholamhoseyn->country->Iran",
+            "Sheykh Hoseyn, Khuzestan->country->Iran"
+        ]
+    },
+    {
+        "question": "What is the place of birth of the performer of song Just Waitin'?",
+        "answer": "Mount Olive",
+        "evidence": [
+            "\" Just->performer->Hank Williams",
+            "Hank Williams->place of birth->Mount Olive"
+        ]
+    },
+    {
+        "question": "Where did the director of film Er Kann'S Nicht Lassen die?",
+        "answer": "M\u00fcnchner",
+        "evidence": [
+            "Er kann's nicht lassen->director->Axel von Ambesser",
+            "Axel von Ambesser->place of death->M\u00fcnchner"
+        ]
+    },
+    {
+        "question": "Which film has the director who was born later, The Night With The Emperor or Just Before I Go?",
+        "answer": "Just Before I Go",
+        "evidence": [
+            "The Night With the Emperor->director->Erich Engel",
+            "Just Before I Go->director->Courteney Cox",
+            "Erich Engel->date of birth->14 February 1891",
+            "Courteney Cox->date of birth->June 15, 1964"
+        ]
+    },
+    {
+        "question": "When is the performer of song Sea Of Flags 's birthday?",
+        "answer": "4 August 1989",
+        "evidence": [
+            "Sea of Flags->performer->Jessica Mauboy",
+            "Jessica Mauboy->date of birth->4 August 1989"
+        ]
+    },
+    {
+        "question": "Who is the paternal grandfather of Saint Sanctan?",
+        "answer": "Pabo Post Prydain",
+        "evidence": [
+            "Saint Sanctain or Sanctan->father->Sawyl Penuchel",
+            "Sawyl Penuchel->father->Pabo Post Prydain"
+        ]
+    },
+    {
+        "question": "Where was the place of death of the director of film A Man About The House?",
+        "answer": "Jersey",
+        "evidence": [
+            "A Man About the House->director->Leslie Arliss",
+            "Leslie Arliss->place of death->Jersey"
+        ]
+    },
+    {
+        "question": "Where did the director of film Somewhere In Sonora (1927 Film) die?",
+        "answer": "Los Angeles",
+        "evidence": [
+            "Somewhere in Sonora->director->Albert S. Rogell",
+            "Albert S. Rogell->place of death->Los Angeles"
+        ]
+    },
+    {
+        "question": "Are both director of film L.A. Tool & Die and director of film Chinna Jameen from the same country?",
+        "answer": "no",
+        "evidence": [
+            "L.A. Tool & Die->director->Tim Kincaid",
+            "Chinna Jameen->director->Raj Kapoor",
+            "Tim Kincaid->country of citizenship->American",
+            "Raj Kapoor (Tamil film director)->country of citizenship->Indian"
+        ]
+    },
+    {
+        "question": "When was the director of film Los Pagares De Mendieta born?",
+        "answer": "27 December 1899",
+        "evidence": [
+            "Los Pagares de Mendieta->director->Leopoldo Torres R\u00edos",
+            "Leopoldo Torres R\u00edos->date of birth->27 December 1899"
+        ]
+    },
+    {
+        "question": "When is Marta Fernandez Miranda De Batista's husband's birthday?",
+        "answer": "January 16, 1901",
+        "evidence": [
+            "Marta Fern\u00e1ndez Miranda de Batista->spouse->Fulgencio Batista",
+            "Fulgencio Batista->date of birth->January 16, 1901"
+        ]
+    },
+    {
+        "question": "What is the date of birth of the director of film Little Miss Optimist?",
+        "answer": "March 27, 1888",
+        "evidence": [
+            "Little Miss Optimist->director->Robert Thornby",
+            "Robert Thornby->date of birth->March 27, 1888"
+        ]
+    },
+    {
+        "question": "What is the date of birth of the director of film Raging Fists?",
+        "answer": "29 September 1937",
+        "evidence": [
+            "Raging Fists->director->\u00c9ric Le Hung",
+            "\u00c9ric Le Hung->date of birth->29 September 1937"
+        ]
+    },
+    {
+        "question": "When did Nathan Phelps's father die?",
+        "answer": "March 19, 2014",
+        "evidence": [
+            "Nathan \"Nate\" Phelps->father->Fred Phelps",
+            "Fred Phelps->date of death->March 19, 2014"
+        ]
+    },
+    {
+        "question": "Who is the paternal grandfather of Tarmashirin?",
+        "answer": "Baraq",
+        "evidence": [
+            "Tarmashirin->father->Duwa",
+            "Duwa->father->Baraq"
+        ]
+    },
+    {
+        "question": "Are both villages, Sheykh Hasan, Kermanshah and Paraf-E Bala, located in the same country?",
+        "answer": "yes",
+        "evidence": [
+            "Sheykh Hasan, Kermanshah->country->Iran",
+            "Paraf-e Bala->country->Persian"
+        ]
+    },
+    {
+        "question": "Are both La Punt-Chamues-Ch (Rhaetian Railway Station) and Blankenburg (Harz) Station located in the same country?",
+        "answer": "no",
+        "evidence": [
+            "La Punt-Chamues-ch (Rhaetian Railway station)->country->Swiss",
+            "Blankenburg (Harz) station->country->Germany"
+        ]
+    },
+    {
+        "question": "Which film has the director who is older than the other, Muchachas Que Estudian or Your Contemporary? ",
+        "answer": "Muchachas Que Estudian",
+        "evidence": [
+            "Muchachas que estudian->director->Manuel Romero",
+            "Your Contemporary->director->Yuli Raizman",
+            "Manuel Romero->date of birth->September 21, 1891",
+            "Yuli Raizman->date of birth->December 15, 1903"
+        ]
+    },
+    {
+        "question": "Where was the director of film Law Of Fear born?",
+        "answer": "Denver",
+        "evidence": [
+            "Law of Fear->director->Jerome Storm",
+            "Jerome Storm->place of birth->Denver"
+        ]
+    },
+    {
+        "question": "Does Greg Dubinetz have the same nationality as Edmond Aman-Jean?",
+        "answer": "no",
+        "evidence": [
+            "Greg Dubinetz->country of citizenship->American",
+            "Edmond Aman-Jean->country of citizenship->French"
+        ]
+    },
+    {
+        "question": "Where did the director of film What Happened To Harkness? die?",
+        "answer": "Chesham",
+        "evidence": [
+            "What Happened to Harkness?->director->Milton Rosmer",
+            "Milton Rosmer->place of death->Chesham"
+        ]
+    },
+    {
+        "question": "Are Ge\u010derlija and Nubl located in the same country?",
+        "answer": "no",
+        "evidence": [
+            "Ge\u010derlija->country->Macedonia",
+            "Nubl->country->Syria"
+        ]
+    },
+    {
+        "question": "Which film came out earlier, Riches, Belles, Etc. or Bucking The Truth?",
+        "answer": "Bucking The Truth",
+        "evidence": [
+            "Riches, belles, etc.->publication date->1998",
+            "Bucking the Truth->publication date->1926"
+        ]
+    },
+    {
+        "question": "When did the director of film Abbot Of Shaolin die?",
+        "answer": "19 May 2009",
+        "evidence": [
+            "Abbot of Shaolin->director->Ho Meng Hua",
+            "Ho Meng Hua->date of death->19 May 2009"
+        ]
+    },
+    {
+        "question": "Where was the place of death of the director of film The Impostor (1944 Film)?",
+        "answer": "Paris",
+        "evidence": [
+            "The Impostor->director->Julien Duvivier",
+            "Julien Duvivier->place of death->Paris"
+        ]
+    },
+    {
+        "question": "Are both churches, Ankenes Church and Orre Church, located in the same country?",
+        "answer": "yes",
+        "evidence": [
+            "Ankenes Church->country->Norway",
+            "Orre Church->country->Norway"
+        ]
+    },
+    {
+        "question": "Are both Chris Brokaw and Eric Johnson (Georgia Politician) from the same country?",
+        "answer": "yes",
+        "evidence": [
+            "Chris Brokaw->country of citizenship->American",
+            "Eric Johnson (Georgia politician)->country of citizenship->American"
+        ]
+    },
+    {
+        "question": "Where did the director of film Daughter Of The Jungle (1982 Film) study?",
+        "answer": "Centro Sperimentale di Cinematografia",
+        "evidence": [
+            "Daughter of the Jungle->director->Umberto Lenzi",
+            "Umberto Lenzi->educated at->Centro Sperimentale di Cinematografia"
+        ]
+    },
+    {
+        "question": "Where did the director of film Hellas Ohne G\u00f6tter die?",
+        "answer": "Kleinmachnow",
+        "evidence": [
+            "Hellas ohne G\u00f6tter->director->Karl Gass",
+            "Karl Gass->place of death->Kleinmachnow"
+        ]
+    },
+    {
+        "question": "Where was the place of death of Katia Mann's mother?",
+        "answer": "Zurich",
+        "evidence": [
+            "Katia Mann->mother->Hedwig Pringsheim",
+            "Hedwig Pringsheim->place of death->Zurich"
+        ]
+    },
+    {
+        "question": "When did the director of film Speed (Serial) die?",
+        "answer": "July 8, 1944",
+        "evidence": [
+            "Speed->director->George B. Seitz",
+            "George B. Seitz->date of death->July 8, 1944"
+        ]
+    },
+    {
+        "question": "Do the movies Delirium (2013 Film) and No Place For Jennifer, originate from the same country?",
+        "answer": "no",
+        "evidence": [
+            "Delirium (2013 film)->country of origin->Ukrainian",
+            "No Place for Jennifer->country of origin->British"
+        ]
+    },
+    {
+        "question": "Who died later, Bahadur Singh Dhakad or Javad Heyat?",
+        "answer": "Javad Heyat",
+        "evidence": [
+            "Javad Heyat->date of death->12 August 2014",
+            "Bahadur Singh Dhakad->date of death->19 September 2007"
+        ]
+    },
+    {
+        "question": "Did the bands White Sister (Band) and N17 (Band), originate from the same country?",
+        "answer": "yes",
+        "evidence": [
+            "White Sister (band)->country of origin->American",
+            "N17 (band)->country of origin->United States"
+        ]
+    },
+    {
+        "question": "When did the composer of film Gudi Gantalu die?",
+        "answer": "11 February 1974",
+        "evidence": [
+            "Gudi Gantalu->composer->Ghantasala",
+            "Ghantasala->date of death->11 February 1974"
+        ]
+    },
+    {
+        "question": "Who is the child of the director of film Kean (1940 Film)?",
+        "answer": "Lilla Brignone",
+        "evidence": [
+            "Kean->director->Guido Brignone",
+            "Guido Brignone->child->Lilla Brignone"
+        ]
+    },
+    {
+        "question": "Where did the director of film The Flag Lieutenant (1932 Film) die?",
+        "answer": "Chobham, Surrey",
+        "evidence": [
+            "The Flag Lieutenant->director->Henry Edwards",
+            "Henry Edwards->place of death->Chobham, Surrey"
+        ]
+    },
+    {
+        "question": "When is the composer of film Arinthum Ariyamalum 's birthday?",
+        "answer": "31 August 1979",
+        "evidence": [
+            "Arinthum Ariyamalum->composer->Yuvan Shankar Raja",
+            "Yuvan Shankar Raja->date of birth->31 August 1979"
+        ]
+    },
+    {
+        "question": "Are both Daniel Pe'Er and Jungyup from the same country?",
+        "answer": "no",
+        "evidence": [
+            "Daniel Pe'er->country of citizenship->Israeli",
+            "Jungyup->country of citizenship->South Korea"
+        ]
+    },
+    {
+        "question": "Are both rivers, Turkey Ridge Creek and Diamond Brook, located in the same country?",
+        "answer": "yes",
+        "evidence": [
+            "Turkey Ridge Creek->country->U.S.",
+            "Diamond Brook->country->United States"
+        ]
+    },
+    {
+        "question": "Where did the director of film Word Of God (Film) study?",
+        "answer": "National Film School of Denmark",
+        "evidence": [
+            "Word of God->director->Henrik Ruben Genz",
+            "Henrik Ruben Genz->educated at->National Film School of Denmark"
+        ]
+    },
+    {
+        "question": "Are both rivers, Kadumbul River and Santee River, located in the same country?",
+        "answer": "no",
+        "evidence": [
+            "Santee River->country->United States",
+            "Kadumbul River->country->Indonesia"
+        ]
+    },
+    {
+        "question": "Was Dale Mccormick or William Lattimore born first?",
+        "answer": "William Lattimore",
+        "evidence": [
+            "Dale McCormick->date of birth->January 17, 1947",
+            "William Lattimore->date of birth->February 9, 1774"
+        ]
+    },
+    {
+        "question": "Where did the director of film Rose O' The River die?",
+        "answer": "Los Angeles",
+        "evidence": [
+            "Rose o' the River->director->Robert Thornby",
+            "Robert Thornby->place of death->Los Angeles"
+        ]
+    },
+    {
+        "question": "Are Aqa Bozorg and Tazehabad (34\u00b014\u2032 N 48\u00b028\u2032 E), Pasikhan both located in the same country?",
+        "answer": "yes",
+        "evidence": [
+            "Aqa Bozorg->country->Iran",
+            "Tazehabad (34\u00b014\u2032 N 48\u00b028\u2032 E), Pasikhan->country->Iran"
+        ]
+    },
+    {
+        "question": "When did the director of film Week End Husbands die?",
+        "answer": "March 3, 1975",
+        "evidence": [
+            "Week End Husbands->director->Edward H. Griffith",
+            "Edward H. Griffith->date of death->March 3, 1975"
+        ]
+    },
+    {
+        "question": "Were Hayri Polat and Georges Carnus from the same country?",
+        "answer": "no",
+        "evidence": [
+            "Hayri Polat->country of citizenship->Turkish",
+            "Georges Carnus->country of citizenship->French"
+        ]
+    },
+    {
+        "question": "Are both Unfinished Business (2009 Film) and The Reasons Of The Heart from the same country?",
+        "answer": "no",
+        "evidence": [
+            "Unfinished Business (2009 film)->country of origin->South Africa",
+            "The Reasons of the Heart->country of origin->Mexican"
+        ]
+    },
+    {
+        "question": "Where did the director of film Hindle Wakes (1952 Film) die?",
+        "answer": "Worthing",
+        "evidence": [
+            "Hindle Wakes->director->Arthur Crabtree",
+            "Arthur Crabtree->place of death->Worthing"
+        ]
+    },
+    {
+        "question": "Where was the place of death of the performer of song Thank You For Calling?",
+        "answer": "Los Angeles",
+        "evidence": [
+            "Thank You for Calling->performer->Jo Stafford",
+            "Jo Stafford->place of death->Los Angeles"
+        ]
+    },
+    {
+        "question": "Where did the composer of film Oru Varsham Oru Maasam die?",
+        "answer": "Chennai",
+        "evidence": [
+            "Oru Varsham Oru Maasam->composer->Raveendran",
+            "Raveendran->place of death->Chennai"
+        ]
+    },
+    {
+        "question": "Where did the director of film Dark World (1935 Film) graduate from?",
+        "answer": "Harvard University",
+        "evidence": [
+            "Dark World->director->Bernard Vorhaus",
+            "Bernard Vorhaus->educated at->Harvard University"
+        ]
+    },
+    {
+        "question": "What is the place of birth of the director of film Le Miracle Des Loups (1961 Film)?",
+        "answer": "Meudon",
+        "evidence": [
+            "Le Miracle des loups->director->Andr\u00e9 Hunebelle",
+            "Andr\u00e9 Hunebelle->place of birth->Meudon"
+        ]
+    },
+    {
+        "question": "When is A. C. Muthiah's father's birthday?",
+        "answer": "12 October 1918",
+        "evidence": [
+            "Annamalai Chidambaram Muthiah->father->M. A. Chidambaram",
+            "M. A. Chidambaram->date of birth->12 October 1918"
+        ]
+    },
+    {
+        "question": "Are Fargh Zayer and Chahar Borj, Isfahan located in the same country?",
+        "answer": "yes",
+        "evidence": [
+            "Fargh Zayer->country->Iran",
+            "Chahar Borj, Isfahan->country->Iran"
+        ]
+    },
+    {
+        "question": "Which film came out earlier, The Man in the Funny Suit or Those Blasted Kids?",
+        "answer": "Those Blasted Kids",
+        "evidence": [
+            "Those Blasted Kids->publication date->1947",
+            "The Man in the Funny Suit->publication date->1960"
+        ]
+    },
+    {
+        "question": "Are Leslie Joseph Hooker and Nguy\u1ec5n Khoa To\u00e0n of the same nationality?",
+        "answer": "no",
+        "evidence": [
+            "Leslie Joseph Hooker->country of citizenship->Australia",
+            "Nguy\u1ec5n Khoa To\u00e0n->country of citizenship->Vietnamese"
+        ]
+    },
+    {
+        "question": "What nationality is the composer of film Jaitra Yatra?",
+        "answer": "India",
+        "evidence": [
+            "Jaitra Yatra->composer->S. P. Balasubrahmanyam",
+            "S. P. Balasubrahmanyam->country of citizenship->India"
+        ]
+    },
+    {
+        "question": "What is the place of birth of the director of film Red Fork Range?",
+        "answer": "Port Townsend, Washington",
+        "evidence": [
+            "Red Fork Range->director->Alan James",
+            "Alan James->place of birth->Port Townsend, Washington"
+        ]
+    },
+    {
+        "question": "Who lived longer, Sid Smith (Boxer) or Edward James Mcmurray?",
+        "answer": "Edward James Mcmurray",
+        "evidence": [
+            "Sid Smith (boxer)->date of birth->2 February 1889",
+            "Sid Smith (boxer)->date of death->28 April 1948",
+            "Edward James McMurray->date of birth->June 4, 1878",
+            "Edward James McMurray->date of death->April 20, 1969"
+        ]
+    },
+    {
+        "question": "Where was the place of death of the director of film Lorna Doone (1912 Film)?",
+        "answer": "Worthing",
+        "evidence": [
+            "Lorna Doone->director->Wilfred Noy",
+            "Wilfred Noy->place of death->Worthing"
+        ]
+    },
+    {
+        "question": "Are both directors of films The Ladies Man (2000 Film) and Jeevitha Chakram from the same country?",
+        "answer": "no",
+        "evidence": [
+            "The Ladies Man (2000 film)->director->Reginald Hudlin",
+            "Jeevitha Chakram->director->C. S. Rao",
+            "Reginald Hudlin->country of citizenship->American",
+            "C. S. Rao->country of citizenship->Indian"
+        ]
+    },
+    {
+        "question": "When did Nikoloz Shengelaia's wife die?",
+        "answer": "14 June 1953",
+        "evidence": [
+            "Nikoloz Shengelaia->spouse->Nato Vachnadze",
+            "Nato Vachnadze->date of death->14 June 1953"
+        ]
+    },
+    {
+        "question": "Are director of film Zamaana Deewana and director of film The Last Attraction from the same country?",
+        "answer": "no",
+        "evidence": [
+            "Zamaana Deewana->director->Ramesh Sippy",
+            "The Last Attraction->director->Olga Preobrazhenskaya",
+            "Ramesh Sippy->country of citizenship->Indian",
+            "Olga Preobrazhenskaya (director)->country of citizenship->Soviet",
+            "Olga Preobrazhenskaya (director)->country of citizenship->Russian Empire"
+        ]
+    },
+    {
+        "question": "Who is the child of the director of film Manithali?",
+        "answer": "K. Jayakumar",
+        "evidence": [
+            "Manithali->director->M. Krishnan Nair",
+            "M. Krishnan Nair->child->K. Jayakumar"
+        ]
+    },
+    {
+        "question": "Where was the place of death of Princess Frederica Of Prussia (1796\u20131850)'s mother?",
+        "answer": "Hanover",
+        "evidence": [
+            "Princess Frederica of Prussia->mother->Frederica of Mecklenburg-Strelitz",
+            "Frederica of Mecklenburg-Strelitz->place of death->Hanover"
+        ]
+    },
+    {
+        "question": "What is the date of death of Elvira Of Castile, Queen Of Sicily's father?",
+        "answer": "1 July 1109",
+        "evidence": [
+            "Elvira of Castile, Queen of Sicily->father->Alfonso VI",
+            "Alfonso VI->date of death->1 July 1109"
+        ]
+    },
+    {
+        "question": "Who is the spouse of the performer of song Lights On The Hill (Song)?",
+        "answer": "Nicole Kidman",
+        "evidence": [
+            "Lights on the Hill->performer->Keith Urban",
+            "Keith Urban->spouse->Nicole Kidman"
+        ]
+    },
+    {
+        "question": "Who is the paternal grandfather of Djedefre?",
+        "answer": "Sneferu",
+        "evidence": [
+            "Djedefre->father->Khufu",
+            "Khufu->father->Sneferu"
+        ]
+    },
+    {
+        "question": "When is the director of film Pyaar Impossible! 's birthday?",
+        "answer": "26 July 1972",
+        "evidence": [
+            "Pyaar Impossible!->director->Jugal Hansraj",
+            "Jugal Hansraj->date of birth->26 July 1972"
+        ]
+    },
+    {
+        "question": "Where was the composer of song We Write The Story born?",
+        "answer": "Stockholm",
+        "evidence": [
+            "We Write the Story->composer->Avicii",
+            "Avicii->place of birth->Stockholm"
+        ]
+    },
+    {
+        "question": "Which country the director of film Mimic 2 is from?",
+        "answer": "American",
+        "evidence": [
+            "Mimic 2->director->Jean de Segonzac",
+            "Jean de Segonzac->country of citizenship->American"
+        ]
+    },
+    {
+        "question": "Are both Bar Aftab-E Rezai and Kolamsar located in the same country?",
+        "answer": "yes",
+        "evidence": [
+            "Bar Aftab-e Rezai->country->Iran",
+            "Kolamsar->country->Iran"
+        ]
+    },
+    {
+        "question": "Which film was released first, The Blacks (Film) or La Herencia?",
+        "answer": "La Herencia",
+        "evidence": [
+            "The Blacks (film)->publication date->2009",
+            "La Herencia->publication date->1964"
+        ]
+    },
+    {
+        "question": "What is the place of birth of the director of film Dangerous Mission?",
+        "answer": "Christiansburg",
+        "evidence": [
+            "Dangerous Mission->director->Louis King",
+            "Louis King->place of birth->Christiansburg"
+        ]
+    },
+    {
+        "question": "What is the date of birth of the performer of song Victoria (Magnus Uggla Song)?",
+        "answer": "June 18, 1954",
+        "evidence": [
+            "Victoria->performer->Magnus Uggla",
+            "Magnus Uggla->date of birth->June 18, 1954"
+        ]
+    },
+    {
+        "question": "When is the composer of film Dark Days (Film) 's birthday?",
+        "answer": "June 29, 1972",
+        "evidence": [
+            "Dark Days->composer->DJ Shadow",
+            "DJ Shadow->date of birth->June 29, 1972"
+        ]
+    },
+    {
+        "question": "What is the date of birth of the director of film Tangled Lives?",
+        "answer": "June 24, 1867",
+        "evidence": [
+            "Tangled Lives->director->J. Gordon Edwards",
+            "J. Gordon Edwards->date of birth->June 24, 1867"
+        ]
+    },
+    {
+        "question": "Are both director of film Gardens Of Stone and director of film Service (Film) from the same country?",
+        "answer": "no",
+        "evidence": [
+            "Gardens of Stone->director->Francis Ford Coppola",
+            "Service (film)->director->Brillante Mendoza",
+            "Francis Ford Coppola->country of citizenship->American",
+            "Brillante Mendoza->country of citizenship->Filipino"
+        ]
+    },
+    {
+        "question": "Which film has the director born later, The Second Floor Mystery or We Are Not Alone (1939 Film)?",
+        "answer": "The Second Floor Mystery",
+        "evidence": [
+            "The Second Floor Mystery->director->Roy Del Ruth",
+            "We Are Not Alone (1939 film)->director->Edmund Goulding",
+            "Roy Del Ruth->date of birth->October 18, 1893",
+            "Edmund Goulding->date of birth->20 March 1891"
+        ]
+    },
+    {
+        "question": "What is the place of birth of the director of film The Grocer'S Son?",
+        "answer": "Lyon",
+        "evidence": [
+            "The Grocer's Son->director->\u00c9ric Guirado",
+            "\u00c9ric Guirado->place of birth->Lyon"
+        ]
+    },
+    {
+        "question": "What is the place of birth of the director of film High Explosive (Film)?",
+        "answer": "Baltimore",
+        "evidence": [
+            "High Explosive->director->Frank McDonald",
+            "Frank McDonald->place of birth->Baltimore"
+        ]
+    },
+    {
+        "question": "Who was born first out of Peter Brenchley and Judit Forg\u00e1cs?",
+        "answer": "Peter Brenchley",
+        "evidence": [
+            "Peter Brenchley->date of birth->23 October 1936",
+            "Judit Forg\u00e1cs->date of birth->25 May 1959"
+        ]
+    },
+    {
+        "question": "What is the date of birth of the composer of film Desoddharakulu?",
+        "answer": "14 March 1918",
+        "evidence": [
+            "Desoddharakulu->composer->K. V. Mahadevan",
+            "K. V. Mahadevan->date of birth->14 March 1918"
+        ]
+    },
+    {
+        "question": "What is the date of death of the director of film Metti (Film)?",
+        "answer": "2 April 2019",
+        "evidence": [
+            "Metti->director->J. Mahendran",
+            "J. Mahendran->date of death->2 April 2019"
+        ]
+    },
+    {
+        "question": "Why did the director of film Havana Widows die?",
+        "answer": "heart attack",
+        "evidence": [
+            "Havana Widows->director->Ray Enright",
+            "Ray Enright->cause of death->heart attack"
+        ]
+    },
+    {
+        "question": "Do director of film No Bed Of Roses and director of film Infelici E Contenti share the same nationality?",
+        "answer": "no",
+        "evidence": [
+            "No Bed of Roses->director->Mostofa Sarwar Farooki",
+            "Infelici e contenti->director->Neri Parenti",
+            "Mostofa Sarwar Farooki->country of citizenship->Bangladeshi",
+            "Neri Parenti->country of citizenship->Italian"
+        ]
+    },
+    {
+        "question": "Are Beltra and Baba Khvarazm-e Karim both located in the same country?",
+        "answer": "no",
+        "evidence": [
+            "Baba Khvarazm-e Karim->country->Iran",
+            "Beltra->country->Ireland"
+        ]
+    },
+    {
+        "question": "Who is the father of the performer of song Le Temps Perdu?",
+        "answer": "Mario Alt\u00e9ry",
+        "evidence": [
+            "Le temps perdu->performer->Math\u00e9 Alt\u00e9ry",
+            "Math\u00e9 Alt\u00e9ry->father->Mario Alt\u00e9ry"
+        ]
+    },
+    {
+        "question": "Are both Iurie Reni\u021b\u0103 and Andy Jackson (Recording Engineer) from the same country?",
+        "answer": "no",
+        "evidence": [
+            "Iurie Reni\u021b\u0103->country of citizenship->Moldova",
+            "Andy Jackson (recording engineer)->country of citizenship->British"
+        ]
+    },
+    {
+        "question": "Are both Tattnall County High School and West High School (Bakersfield, California) located in the same country?",
+        "answer": "yes",
+        "evidence": [
+            "Tattnall County High School->country->United States",
+            "West High School (Bakersfield, California)->country->United States"
+        ]
+    },
+    {
+        "question": "Are both Sorkh and Khanaqah, Salmas located in the same country?",
+        "answer": "yes",
+        "evidence": [
+            "Sorkh->country->Iran",
+            "Khanaqah, Salmas->country->Iran"
+        ]
+    },
+    {
+        "question": "Are Lazarevo and Farkhan-E Sofla located in the same country?",
+        "answer": "no",
+        "evidence": [
+            "Lazarevo->country->Serbia",
+            "Farkhan-e Sofla->country->Iran"
+        ]
+    },
+    {
+        "question": "When did the director of film When The Redskins Rode die?",
+        "answer": "December 16, 1962",
+        "evidence": [
+            "When the Redskins Rode->director->Lew Landers",
+            "Lew Landers->date of death->December 16, 1962"
+        ]
+    },
+    {
+        "question": "When is the director of film The Skull 's birthday?",
+        "answer": "22 December 1917",
+        "evidence": [
+            "The Skull->director->Freddie Francis",
+            "Freddie Francis->date of birth->22 December 1917"
+        ]
+    },
+    {
+        "question": "Do director of film I Am Emma and director of film Bad Boy (1949 Film) have the same nationality?",
+        "answer": "no",
+        "evidence": [
+            "I Am Emma->director->Francesco Falaschi",
+            "Bad Boy (1949 film)->director->Kurt Neumann",
+            "Francesco Falaschi->country of citizenship->Italian",
+            "Kurt Neumann (director)->country of citizenship->German"
+        ]
+    },
+    {
+        "question": "What is the place of birth of the director of film Men At A Dangerous Age?",
+        "answer": "Innsbruck",
+        "evidence": [
+            "Men at a Dangerous Age->director->Carl-Heinz Schroth",
+            "Carl-Heinz Schroth->place of birth->Innsbruck"
+        ]
+    },
+    {
+        "question": "Where was the director of film Dollars In Surrey born?",
+        "answer": "Preston",
+        "evidence": [
+            "Dollars in Surrey->director->George Dewhurst",
+            "George Dewhurst->place of birth->Preston"
+        ]
+    },
+    {
+        "question": "Where did the director of film The Medicine Man (1930 Film) die?",
+        "answer": "Pasadena, California",
+        "evidence": [
+            "The Medicine Man->director->Scott Pembroke",
+            "Scott Pembroke->place of death->Pasadena, California"
+        ]
+    },
+    {
+        "question": "Are both Girait\u0117 (Var\u0117na) and Lemeshki located in the same country?",
+        "answer": "no",
+        "evidence": [
+            "Girait\u0117 (Var\u0117na)->country->Lithuania",
+            "Lemeshki->country->Russia"
+        ]
+    },
+    {
+        "question": "Do Pierre Joseph Chardigny and William Elliott Whitmore share the same nationality?",
+        "answer": "no",
+        "evidence": [
+            "Pierre Joseph Chardigny->country of citizenship->French",
+            "William Elliott Whitmore->country of citizenship->American"
+        ]
+    },
+    {
+        "question": "Which country the director of film Demon Circus is from?",
+        "answer": "Austrian",
+        "evidence": [
+            "Demon Circus->director->Emil Justitz",
+            "Emil Justitz->country of citizenship->Austrian"
+        ]
+    },
+    {
+        "question": "Are Zion Matriculation Higher Secondary School and Dr. Martin Leboldus High School both located in the same country?",
+        "answer": "no",
+        "evidence": [
+            "Zion Matriculation Higher Secondary School->country->India",
+            "Dr. Martin LeBoldus High School->country->Canada"
+        ]
+    },
+    {
+        "question": "Which film has the director who died earlier, It'S Never Too Late (1956 Film) or The Slaughter Rule?",
+        "answer": "The Slaughter Rule",
+        "evidence": [
+            "It's Never Too Late (1956 film)->director->Michael McCarthy",
+            "The Slaughter Rule->director->Alex Smith",
+            "Michael McCarthy (film director)->date of death->7 May 1959",
+            "Alex Smith (golfer)->date of death->21 April 1930"
+        ]
+    },
+    {
+        "question": "Where was the place of death of the director of film Torchy Blane... Playing With Dynamite?",
+        "answer": "Los Angeles",
+        "evidence": [
+            "Torchy Blane... Playing with Dynamite->director->Noel M. Smith",
+            "Noel M. Smith->place of death->Los Angeles"
+        ]
+    },
+    {
+        "question": "What is the date of birth of the director of film Kl Special Force?",
+        "answer": "7 December 1992",
+        "evidence": [
+            "KL Special Force->director->Syafiq Yusof",
+            "Syafiq Yusof->date of birth->7 December 1992"
+        ]
+    },
+    {
+        "question": "Are both directors of films Vismayathumbathu and Titicut Follies from the same country?",
+        "answer": "no",
+        "evidence": [
+            "Vismayathumbathu->director->Fazil",
+            "Titicut Follies->director->Frederick Wiseman",
+            "Fazil (director)->country of citizenship->Indian",
+            "Frederick Wiseman->country of citizenship->American"
+        ]
+    },
+    {
+        "question": "What nationality is the performer of song The One (Elton John Song)?",
+        "answer": "British",
+        "evidence": [
+            "The One->performer->Elton John",
+            "Elton John->country of citizenship->British"
+        ]
+    },
+    {
+        "question": "Are John Hardin High School and Hall High School (Connecticut) located in the same country?",
+        "answer": "yes",
+        "evidence": [
+            "John Hardin High School->country->American",
+            "Hall High School (Connecticut)->country->U.S."
+        ]
+    },
+    {
+        "question": "Are Talesh Mahalleh, Shaft and Qaleh, Avaj both located in the same country?",
+        "answer": "yes",
+        "evidence": [
+            "Talesh Mahalleh, Shaft->country->Iran",
+            "Qaleh, Avaj->country->Iran"
+        ]
+    },
+    {
+        "question": "What is the date of birth of the director of film The Nightingale (1914 Film)?",
+        "answer": "January 8, 1857",
+        "evidence": [
+            "The Nightingale->director->Augustus Thomas",
+            "Augustus Thomas->date of birth->January 8, 1857"
+        ]
+    },
+    {
+        "question": "When did Countess Palatine Dorothea Sophie Of Neuburg's mother die?",
+        "answer": "4 August 1709",
+        "evidence": [
+            "Dorothea Sophie of Neuburg->mother->Landgravine Elisabeth Amalie of Hesse-Darmstadt",
+            "Landgravine Elisabeth Amalie of Hesse-Darmstadt->date of death->4 August 1709"
+        ]
+    },
+    {
+        "question": "Who is the spouse of the director of film A Yankee Go Getter?",
+        "answer": "Virginia Brown Faire",
+        "evidence": [
+            "A Yankee Go- Getter->director->Duke Worne",
+            "Duke Worne->spouse->Virginia Brown Faire"
+        ]
+    },
+    {
+        "question": "Who is Johann Wilhelm, Duke Of Saxe-Jena's paternal grandmother?",
+        "answer": "Eleonore Dorothea of Anhalt-Dessau",
+        "evidence": [
+            "Johann Wilhelm, Duke of Saxe-Jena->father->Bernhard II, Duke of Saxe-Jena",
+            "Bernhard II, Duke of Saxe-Jena->mother->Eleonore Dorothea of Anhalt-Dessau"
+        ]
+    },
+    {
+        "question": "Were Ranini Cundasawmy and Gordon Kay from the same country?",
+        "answer": "no",
+        "evidence": [
+            "Ranini Cundasawmy->country of citizenship->Mauritian",
+            "Gordon Kay->country of citizenship->American"
+        ]
+    },
+    {
+        "question": "Which film has the director who was born earlier, Los Locos or Comedian Paulus Singing?",
+        "answer": "Comedian Paulus Singing",
+        "evidence": [
+            "Los Locos->director->Jean-Marc Vall\u00e9e",
+            "Comedian Paulus Singing->director->Georges M\u00e9li\u00e8s",
+            "Jean-Marc Vall\u00e9e->date of birth->March 9, 1963",
+            "Georges M\u00e9li\u00e8s->date of birth->8 December 1861"
+        ]
+    },
+    {
+        "question": "Who is the father of the director of film Delirium (1987 Film)?",
+        "answer": "Mario Bava",
+        "evidence": [
+            "Delirium->director->Lamberto Bava",
+            "Lamberto Bava->father->Mario Bava"
+        ]
+    },
+    {
+        "question": "Are the directors of films Perfumed Nightmare and The Scandal (1923 Film) both from the same country?",
+        "answer": "no",
+        "evidence": [
+            "Perfumed Nightmare->director->Kidlat Tahimik",
+            "The Scandal (1923 film)->director->Arthur Rooke",
+            "Kidlat Tahimik->country of citizenship->Philippines",
+            "Arthur Rooke->country of citizenship->British"
+        ]
+    },
+    {
+        "question": "Which film has the director died first, Green Magic or Kartavya (1985 Film)?",
+        "answer": "Green Magic",
+        "evidence": [
+            "Green Magic->director->Gian Gaspare Napolitano",
+            "Kartavya (1985 film)->director->K. S. R. Das",
+            "Gian Gaspare Napolitano->date of death->5 January 1966",
+            "K. S. R. Das->date of death->8 June 2012"
+        ]
+    },
+    {
+        "question": "Do Christopher Llewellyn Smith and Pereira Silima share the same nationality?",
+        "answer": "no",
+        "evidence": [
+            "Christopher Llewellyn Smith->country of citizenship->United Kingdom",
+            "Pereira Silima->country of citizenship->Tanzanian"
+        ]
+    },
+    {
+        "question": "Which film was released first, 12 Years A Slave (Film) or The Delay?",
+        "answer": "The Delay",
+        "evidence": [
+            "12 Years a Slave (film)->publication date->2013",
+            "The Delay->publication date->2012"
+        ]
+    },
+    {
+        "question": "What is the date of death of the director of film The Black Diamond (1922 Film)?",
+        "answer": "22 August 1960",
+        "evidence": [
+            "The Black Diamond->director->Andr\u00e9 Hugon",
+            "Andr\u00e9 Hugon->date of death->22 August 1960"
+        ]
+    },
+    {
+        "question": "When is Mary Moore (Author)'s father's birthday?",
+        "answer": "15 December 1889",
+        "evidence": [
+            "Mary Moore->father->Vivian Hunter Galbraith",
+            "Vivian Hunter Galbraith->date of birth->15 December 1889"
+        ]
+    },
+    {
+        "question": "Do the bands The Anyones and Crocodile Shop, originate from the same country?",
+        "answer": "no",
+        "evidence": [
+            "The Anyones->country of origin->Australia",
+            "Crocodile Shop->country of origin->Germany"
+        ]
+    },
+    {
+        "question": "Where was the place of death of the director of film Sechs Schwedinnen Im Pensionat?",
+        "answer": "Zurich",
+        "evidence": [
+            "Six Swedish Girls in a Boarding School->director->Erwin C. Dietrich",
+            "Erwin C. Dietrich->place of death->Zurich"
+        ]
+    },
+    {
+        "question": "What is the place of birth of the performer of song Shades Of Cool?",
+        "answer": "New York",
+        "evidence": [
+            "Shades of Cool->performer->Lana Del Rey",
+            "Lana Del Rey->place of birth->New York"
+        ]
+    },
+    {
+        "question": "Who is the father of the performer of song Lookin' For That Girl?",
+        "answer": "Tug McGraw",
+        "evidence": [
+            "Lookin' for That Girl->performer->Tim McGraw",
+            "Tim McGraw->father->Tug McGraw"
+        ]
+    },
+    {
+        "question": "Where did the director of film His Birthright die?",
+        "answer": "Beverly Hills",
+        "evidence": [
+            "His Birthright->director->William Worthington",
+            "William Worthington->place of death->Beverly Hills"
+        ]
+    },
+    {
+        "question": "What nationality is the director of film Nightclub Hostess?",
+        "answer": "Belgian",
+        "evidence": [
+            "Nightclub Hostess->director->Albert Valentin",
+            "Albert Valentin->country of citizenship->Belgian"
+        ]
+    },
+    {
+        "question": "Which film has the director died later, Marriage In Trouble or Virtually A Virgin?",
+        "answer": "Virtually A Virgin",
+        "evidence": [
+            "Marriage in Trouble->director->Richard Oswald",
+            "Virtually a Virgin->director->P\u00e9ter Bacs\u00f3",
+            "Richard Oswald->date of death->11 September 1963",
+            "P\u00e9ter Bacs\u00f3->date of death->11 March 2009"
+        ]
+    },
+    {
+        "question": "Which country Anne Spencer, Countess Of Sunderland (Died 1715)'s husband is from?",
+        "answer": "English",
+        "evidence": [
+            "Anne Spencer, Countess of Sunderland->spouse->Robert Spencer, 2nd Earl of Sunderland",
+            "Robert Spencer, 2nd Earl of Sunderland->country of citizenship->English"
+        ]
+    },
+    {
+        "question": "Do both directors of films Indovina Chi Viene A Merenda? and The Law Of The 45'S share the same nationality?",
+        "answer": "no",
+        "evidence": [
+            "Indovina chi viene a merenda?->director->Marcello Ciorciolini",
+            "The Law of the 45's->director->John P. McCarthy",
+            "Marcello Ciorciolini->country of citizenship->Italian",
+            "John P. McCarthy->country of citizenship->American"
+        ]
+    },
+    {
+        "question": "Do both films, Change Of Habit and The Right Of Way (1931 Film), have the directors who are from the same country?",
+        "answer": "yes",
+        "evidence": [
+            "Change of Habit->director->William A. Graham",
+            "The Right of Way (1931 film)->director->Frank Lloyd",
+            "William Graham (director)->country of citizenship->American",
+            "Frank Lloyd->country of citizenship->British",
+            "Frank Lloyd->country of citizenship->American"
+        ]
+    },
+    {
+        "question": "Are both Ch'Iyar Qirini and Mount Temple (Alberta) located in the same country?",
+        "answer": "no",
+        "evidence": [
+            "Ch'iyar Qirini->country->Bolivian",
+            "Mount Temple (Alberta)->country->Canadian"
+        ]
+    },
+    {
+        "question": "Who is the spouse of the performer of song Vienna (Billy Joel Song)?",
+        "answer": "Alexis Roderick",
+        "evidence": [
+            "Vienna->performer->Billy Joel",
+            "Billy Joel->spouse->Alexis Roderick"
+        ]
+    },
+    {
+        "question": "When did Egbert (Archbishop Of Trier)'s father die?",
+        "answer": "6 May 988",
+        "evidence": [
+            "Egbert->father->Dirk II, Count of Holland",
+            "Dirk II, Count of Holland->date of death->6 May 988"
+        ]
+    },
+    {
+        "question": "When was the director of film Lightning Command born?",
+        "answer": "8 June 1883",
+        "evidence": [
+            "Lightning Command->director->Valy Arnheim",
+            "Valy Arnheim->date of birth->8 June 1883"
+        ]
+    },
+    {
+        "question": "When was Betty Dickey's husband born?",
+        "answer": "December 14, 1939",
+        "evidence": [
+            "Betty Dickey->spouse->Jay Dickey",
+            "Jay Dickey->date of birth->December 14, 1939"
+        ]
+    },
+    {
+        "question": "Do both films Aamhi Asu Ladke and Trauma (1993 Film) have the directors from the same country?",
+        "answer": "no",
+        "evidence": [
+            "Aamhi Asu Ladke->director->Abhiram Bhadkamkar",
+            "Trauma (1993 film)->director->Dario Argento",
+            "Abhiram Bhadkamkar->country of citizenship->Indian",
+            "Dario Argento->country of citizenship->Italian"
+        ]
+    },
+    {
+        "question": "What is the date of birth of the director of film Bobbie Of The Ballet?",
+        "answer": "May 4, 1873",
+        "evidence": [
+            "Bobbie of the Ballet->director->Joe De Grasse",
+            "Joseph Louis De Grasse->date of birth->May 4, 1873"
+        ]
+    },
+    {
+        "question": "Where was the performer of song Break A Spell born?",
+        "answer": "Sapporo",
+        "evidence": [
+            "Break a spell->performer->Mami Kawada",
+            "Mami Kawada->place of birth->Sapporo"
+        ]
+    },
+    {
+        "question": "Which film has the director who is older, Mausam (2011 Film) or Two Hearts In Waltz Time?",
+        "answer": "Two Hearts In Waltz Time",
+        "evidence": [
+            "Mausam (2011 film)->director->Pankaj Kapur",
+            "Two Hearts in Waltz Time->director->G\u00e9za von Bolv\u00e1ry",
+            "Pankaj Kapur->date of birth->29 May 1954",
+            "G\u00e9za von Bolv\u00e1ry->date of birth->26 December 1897"
+        ]
+    },
+    {
+        "question": "What is the place of birth of the performer of song Around The World (Christina Aguilera Song)?",
+        "answer": "Staten Island",
+        "evidence": [
+            "Around the World->performer->Christina Aguilera",
+            "Christina Aguilera->place of birth->Staten Island"
+        ]
+    },
+    {
+        "question": "What is the date of birth of the director of film Brigsby Bear?",
+        "answer": "July 2, 1985",
+        "evidence": [
+            "Brigsby Bear->director->Dave McCary",
+            "Dave McCary->date of birth->July 2, 1985"
+        ]
+    },
+    {
+        "question": "What is the date of birth of the director of film Days And Nights?",
+        "answer": "July 7, 1971",
+        "evidence": [
+            "Days and Nights->director->Christian Camargo",
+            "Christian Camargo->date of birth->July 7, 1971"
+        ]
+    },
+    {
+        "question": "Are Sar Rig, Bandar Abbas and Vileh, Kurdistan both located in the same country?",
+        "answer": "yes",
+        "evidence": [
+            "Sar Rig, Bandar Abbas->country->Iran",
+            "Vileh, Kurdistan->country->Iran"
+        ]
+    },
+    {
+        "question": "Were both Baba Indrajith and Samuel Lamb, born in the same place?",
+        "answer": "no",
+        "evidence": [
+            "Baba Indrajith->place of birth->Madras",
+            "Samuel Lamb->place of birth->Guangzhou"
+        ]
+    },
+    {
+        "question": "What is the date of birth of the director of film The Flashlight?",
+        "answer": "December 28, 1879",
+        "evidence": [
+            "The Flashlight->director->Ida May Park",
+            "Ida May Park->date of birth->December 28, 1879"
+        ]
+    },
+    {
+        "question": "Where was the place of death of Princess Helena Of Nassau's husband?",
+        "answer": "Marienbad",
+        "evidence": [
+            "Princess Helena of Nassau->spouse->George Victor, Prince of Waldeck and Pyrmont",
+            "George Victor, Prince of Waldeck and Pyrmont->place of death->Marienbad"
+        ]
+    },
+    {
+        "question": "Do Pelagio Antonio De Labastida Y D\u00e1valos and Robert A. Starr share the same nationality?",
+        "answer": "no",
+        "evidence": [
+            "Pelagio Antonio de Labastida y D\u00e1valos->country of citizenship->Mexican",
+            "Robert A. Starr->country of citizenship->American"
+        ]
+    },
+    {
+        "question": "Was Andr\u00e1s L\u00e1szl\u00f3 or Ronny Fredrik Ansnes born first?",
+        "answer": "Andr\u00e1s L\u00e1szl\u00f3",
+        "evidence": [
+            "Ronny Fredrik Ansnes->date of birth->28 June 1989",
+            "Andr\u00e1s L\u00e1szl\u00f3->date of birth->16 August 1976"
+        ]
+    },
+    {
+        "question": "Do both directors of films The Treasure Of Gesine Jacobsen and Richard The Lion-Hearted (1923 Film) share the same nationality?",
+        "answer": "no",
+        "evidence": [
+            "The Treasure of Gesine Jacobsen->director->Rudolf Walther-Fein",
+            "Richard the Lion-Hearted (1923 film)->director->Chester Withey",
+            "Rudolf Walther-Fein->country of citizenship->Austrian",
+            "Chester Withey->country of citizenship->American"
+        ]
+    },
+    {
+        "question": "Where was the director of film Monsieur Albert born?",
+        "answer": "Prague",
+        "evidence": [
+            "Monsieur Albert->director->Karl Anton",
+            "Karl Anton->place of birth->Prague"
+        ]
+    },
+    {
+        "question": "Which film was released more recently, Disco Fever (Film) or Down From The Mountain?",
+        "answer": "Down From The Mountain",
+        "evidence": [
+            "Disco Fever (film)->publication date->1978",
+            "Down from the Mountain->publication date->2000"
+        ]
+    },
+    {
+        "question": "When was the director of film Bridge And Tunnel (Film) born?",
+        "answer": "June 19, 1986",
+        "evidence": [
+            "Bridge and Tunnel->director->Jason Michael Brescia",
+            "Jason Michael Brescia->date of birth->June 19, 1986"
+        ]
+    },
+    {
+        "question": "Who is George Ii, Prince Of Anhalt-Dessau's paternal grandfather?",
+        "answer": "Sigismund I, Prince of Anhalt-Dessau",
+        "evidence": [
+            "George II, Prince of Anhalt-Dessau->father->George I, Prince of Anhalt-Dessau",
+            "George I, Prince of Anhalt-Dessau->father->Sigismund I, Prince of Anhalt-Dessau"
+        ]
+    },
+    {
+        "question": "Are Robert Samut Hall and Mother of Sorrows Catholic Church located in the same country?",
+        "answer": "no",
+        "evidence": [
+            "Mother of Sorrows Catholic Church->country->United States",
+            "Robert Samut Hall->country->Malta"
+        ]
+    },
+    {
+        "question": "Are Goloventsino and Dubrava, Dubrovnik-Neretva County located in the same country?",
+        "answer": "no",
+        "evidence": [
+            "Dubrava, Dubrovnik-Neretva County->country->Croatia",
+            "Goloventsino->country->Russia"
+        ]
+    },
+    {
+        "question": "Where did the director of film Arlette And Love die?",
+        "answer": "Paris",
+        "evidence": [
+            "Arlette and Love->director->Robert Vernay",
+            "Robert Vernay->place of death->Paris"
+        ]
+    },
+    {
+        "question": "Which film whose director was born first, The Man And The Moment or Captain (1994 Film)?",
+        "answer": "The Man And The Moment",
+        "evidence": [
+            "The Man and the Moment->director->George Fitzmaurice",
+            "Captain (1994 film)->director->Kodi Ramakrishna",
+            "George Fitzmaurice->date of birth->13 February 1885",
+            "Kodi Ramakrishna->date of birth->23 July 1949"
+        ]
+    },
+    {
+        "question": "Who was born first out of George Lawson Milne and Anna Sunad\u00f3ttir Hansen?",
+        "answer": "George Lawson Milne",
+        "evidence": [
+            "George Lawson Milne->date of birth->April 19, 1850",
+            "Anna Sunad\u00f3ttir Hansen->date of birth->20 August 1998"
+        ]
+    },
+    {
+        "question": "Are both The Lovin' Spoonful and Deadsoul Tribe from the same country?",
+        "answer": "no",
+        "evidence": [
+            "Deadsoul Tribe->country of origin->Austrian",
+            "The Lovin' Spoonful->country of origin->American"
+        ]
+    },
+    {
+        "question": "When did the director of film A Soldier Speaks After Death die?",
+        "answer": "February 5, 1998",
+        "evidence": [
+            "A Soldier Speaks after Death->director->Kim Ki-young",
+            "Kim Ki-young->date of death->February 5, 1998"
+        ]
+    },
+    {
+        "question": "What is the date of death of the director of film Ladies Crave Excitement?",
+        "answer": "June 19, 1979",
+        "evidence": [
+            "Ladies Crave Excitement->director->Nick Grinde",
+            "Nick Grinde->date of death->June 19, 1979"
+        ]
+    },
+    {
+        "question": "Where was the director of film Gentlemen In White Vests born?",
+        "answer": "Saarbr\u00fccken",
+        "evidence": [
+            "Gentlemen in White Vests->director->Wolfgang Staudte",
+            "Wolfgang Staudte->place of birth->Saarbr\u00fccken"
+        ]
+    },
+    {
+        "question": "When did the composer of film Alphonsa (Film) die?",
+        "answer": "15 October 2004",
+        "evidence": [
+            "Alphonsa->composer->T. R. Pappa",
+            "T. R. Pappa->date of death->15 October 2004"
+        ]
+    },
+    {
+        "question": "What nationality is the director of film Two Girls On Broadway?",
+        "answer": "American",
+        "evidence": [
+            "Two Girls on Broadway->director->S. Sylvan Simon",
+            "S. Sylvan Simon->country of citizenship->American"
+        ]
+    },
+    {
+        "question": "Who is the father of the performer of song Operation Heartbreak?",
+        "answer": "C. L. Franklin",
+        "evidence": [
+            "Operation Heartbreak->performer->Aretha Franklin",
+            "Aretha Franklin->father->C. L. Franklin"
+        ]
+    },
+    {
+        "question": "Are Baba Ali, Kermanshah and Allerston located in the same country?",
+        "answer": "no",
+        "evidence": [
+            "Baba Ali, Kermanshah->country->Iran",
+            "Allerston->country->British"
+        ]
+    },
+    {
+        "question": "When was the director of film Karel And I born?",
+        "answer": "February 11, 1896",
+        "evidence": [
+            "Karel and I->director->Miroslav Cik\u00e1n",
+            "Miroslav Cik\u00e1n->date of birth->February 11, 1896"
+        ]
+    },
+    {
+        "question": "Are both directors of films Fortunato (Film) and Deep Waters (1948 Film) from the same country?",
+        "answer": "no",
+        "evidence": [
+            "Fortunato (film)->director->Fernando Delgado",
+            "Deep Waters (1948 film)->director->Henry King",
+            "Fernando Delgado->country of citizenship->Spanish",
+            "Henry King (director)->country of citizenship->American"
+        ]
+    },
+    {
+        "question": "What is the cause of death of performer of song Scream Like A Baby?",
+        "answer": "liver cancer",
+        "evidence": [
+            "Scream Like a Baby->performer->David Bowie",
+            "David Bowie->cause of death->liver cancer"
+        ]
+    },
+    {
+        "question": "Who is the paternal grandfather of Marie Of Savoy, Duchess Of Milan?",
+        "answer": "Amadeus VII, Count of Savoy",
+        "evidence": [
+            "Marie of Savoy, Duchess of Milan->father->Felix V",
+            "Felix V->father->Amadeus VII, Count of Savoy"
+        ]
+    },
+    {
+        "question": "What is the date of death of Hugh (Abbot Of Saint-Quentin)'s father?",
+        "answer": "28 January 814",
+        "evidence": [
+            "Hugh->father->Charlemagne",
+            "Charlemagne->date of death->28 January 814"
+        ]
+    },
+    {
+        "question": "Which film has the director died first, What Price Glory (1952 Film) or An Old Sweetheart Of Mine?",
+        "answer": "An Old Sweetheart Of Mine",
+        "evidence": [
+            "What Price Glory (1952 film)->director->John Ford",
+            "An Old Sweetheart of Mine->director->Harry Garson",
+            "John Ford->date of death->August 31, 1973",
+            "Harry Garson->date of death->September 21, 1938"
+        ]
+    },
+    {
+        "question": "Who was born first, Peter Seton Hay or Deivis Barone?",
+        "answer": "Peter Seton Hay",
+        "evidence": [
+            "Deivis Barone->date of birth->28 August 1979",
+            "Peter Seton Hay->date of birth->12 July 1852"
+        ]
+    },
+    {
+        "question": "What nationality is the director of film Between Time And Eternity?",
+        "answer": "Austrian",
+        "evidence": [
+            "Between Time and Eternity->director->Arthur Maria Rabenalt",
+            "Arthur Maria Rabenalt->country of citizenship->Austrian"
+        ]
+    },
+    {
+        "question": "When was the director of film Amor De Perdi\u00e7\u00e3o (1979 Film) born?",
+        "answer": "11 December 1908",
+        "evidence": [
+            "Amor de Perdi\u00e7\u00e3o->director->Manoel de Oliveira",
+            "Manoel de Oliveira->date of birth->11 December 1908"
+        ]
+    },
+    {
+        "question": "When was Joaan Bin Hamad Bin Khalifa Al Thani's father born?",
+        "answer": "1 January 1952",
+        "evidence": [
+            "Sheikh Joaan bin Hamad bin Khalifa Al- Thani->father->Hamad bin Khalifa Al Thani",
+            "Hamad bin Khalifa Al Thani->date of birth->1 January 1952"
+        ]
+    },
+    {
+        "question": "What is the place of birth of the composer of film Maram (Film)?",
+        "answer": "Paravoor",
+        "evidence": [
+            "Maram->composer->G. Devarajan",
+            "G. Devarajan->place of birth->Paravoor"
+        ]
+    },
+    {
+        "question": "Do both films Becky (Film) and The Interloper have the directors from the same country?",
+        "answer": "yes",
+        "evidence": [
+            "Becky (film)->director->John P. McCarthy",
+            "The Interloper->director->Oscar Apfel",
+            "John P. McCarthy->country of citizenship->American",
+            "Oscar Apfel->country of citizenship->American"
+        ]
+    },
+    {
+        "question": "Are both Pr\u00e4z and Lir-e Shamlek located in the same country?",
+        "answer": "no",
+        "evidence": [
+            "Lir-e Shamlek->country->Iran",
+            "Pr\u00e4z->country->Swiss"
+        ]
+    },
+    {
+        "question": "What is the date of birth of the director of film Sudarum Sooravaliyum?",
+        "answer": "1 December 1933",
+        "evidence": [
+            "Sudarum Sooravaliyum->director->Puttanna Kanagal",
+            "Puttanna Kanagal->date of birth->1 December 1933"
+        ]
+    },
+    {
+        "question": "Who is the spouse of the composer of song Best Of Me, Part 2?",
+        "answer": "Beyonc\u00e9",
+        "evidence": [
+            "Best of Me, Part 2->composer->Shawn",
+            "Shawn->spouse->Beyonc\u00e9"
+        ]
+    },
+    {
+        "question": "Do both directors of films Legend Of The Werewolf and Painted Youth have the same nationality?",
+        "answer": "no",
+        "evidence": [
+            "Legend of the Werewolf->director->Freddie Francis",
+            "Painted Youth->director->Carl Boese",
+            "Freddie Francis->country of citizenship->British",
+            "Carl Boese->country of citizenship->German"
+        ]
+    },
+    {
+        "question": "What is the date of death of the composer of film Goyescas (Film)?",
+        "answer": "24 March 1916",
+        "evidence": [
+            "Goyescas->composer->Enrique Granados",
+            "Enrique Granados->date of death->24 March 1916"
+        ]
+    },
+    {
+        "question": "Where was the place of death of the director of film Jack The Giant Killer (1962 Film)?",
+        "answer": "Palos Verdes",
+        "evidence": [
+            "Jack the Giant Killer->director->Nathan H. Juran",
+            "Naftuli \"Nathan\" Hertz Juran->place of death->Palos Verdes"
+        ]
+    },
+    {
+        "question": "Are both villages, Abdollahabad, Bardsir and Abu Tinah, located in the same country?",
+        "answer": "no",
+        "evidence": [
+            "Abdollahabad, Bardsir->country->Iran",
+            "Abu Tinah->country->Syria"
+        ]
+    },
+    {
+        "question": "Do both films: The Baby (film) and Run for Your Life (1988 film) have the directors from the same country?",
+        "answer": "no",
+        "evidence": [
+            "Run for Your Life (1988 film)->director->Terence Young",
+            "The Baby (film)->director->Ted Post",
+            "Terence Young (director)->country of citizenship->British",
+            "Ted Post->country of citizenship->American"
+        ]
+    },
+    {
+        "question": "What is the cause of death of performer of song Panic In Detroit?",
+        "answer": "liver cancer",
+        "evidence": [
+            "Panic in Detroit->performer->David Bowie",
+            "David Bowie->cause of death->liver cancer"
+        ]
+    },
+    {
+        "question": "Do director of film Puberty Blues and director of film Always Brando share the same nationality?",
+        "answer": "no",
+        "evidence": [
+            "Puberty Blues->director->Bruce Beresford",
+            "Always Brando->director->Ridha Behi",
+            "Bruce Beresford->country of citizenship->Australian",
+            "Ridha Behi->country of citizenship->Tunisian"
+        ]
+    },
+    {
+        "question": "Where was the place of death of the director of film The Devil And Miss Jones?",
+        "answer": "Hollywood",
+        "evidence": [
+            "The Devil and Miss Jones->director->Sam Wood",
+            "Sam Wood->place of death->Hollywood"
+        ]
+    },
+    {
+        "question": "Are Hubi Meisel and Russell Bodine both from the same country?",
+        "answer": "no",
+        "evidence": [
+            "Hubi Meisel->country of citizenship->German",
+            "Russell Bodine->country of citizenship->American"
+        ]
+    },
+    {
+        "question": "Which film whose director is younger, Thunder Mountain (1935 Film) or A Ticklish Affair?",
+        "answer": "A Ticklish Affair",
+        "evidence": [
+            "Thunder Mountain (1935 film)->director->David Howard",
+            "A Ticklish Affair->director->George Sidney",
+            "David Howard (director)->date of birth->October 6, 1896",
+            "George Sidney->date of birth->October 4, 1916"
+        ]
+    },
+    {
+        "question": "Are both villages, Tul Ab and Bana Zardeh, located in the same country?",
+        "answer": "yes",
+        "evidence": [
+            "Tul Ab->country->Iran",
+            "Bana Zardeh->country->Iran"
+        ]
+    },
+    {
+        "question": "What is the date of death of the director of film Castle Keep?",
+        "answer": "May 26, 2008",
+        "evidence": [
+            "Castle Keep->director->Sydney Pollack",
+            "Sydney Pollack->date of death->May 26, 2008"
+        ]
+    },
+    {
+        "question": "What is the date of birth of the director of film Shades Of Fern?",
+        "answer": "February 19, 1924",
+        "evidence": [
+            "Shades of Fern->director->Franti\u0161ek Vl\u00e1\u010dil",
+            "Franti\u0161ek Vl\u00e1\u010dil->date of birth->February 19, 1924"
+        ]
+    },
+    {
+        "question": "Who is the spouse of the performer of song Legend In Your Own Time?",
+        "answer": "James Taylor",
+        "evidence": [
+            "Legend in Your Own Time->performer->Carly Simon",
+            "Carly Simon->spouse->James Taylor"
+        ]
+    },
+    {
+        "question": "Who is the stepmother of Douglas Gresham?",
+        "answer": "Joy Davidman",
+        "evidence": [
+            "Douglas Howard Gresham->father->C. S. Lewis",
+            "C. S. Lewis->spouse->Joy Davidman"
+        ]
+    },
+    {
+        "question": "Where was the director of film The Singer Of Naples born?",
+        "answer": "Tacoma, Washington",
+        "evidence": [
+            "The Singer of Naples->director->Howard Bretherton",
+            "Howard Bretherton->place of birth->Tacoma, Washington"
+        ]
+    },
+    {
+        "question": "What is the date of birth of Barbara Kelly's husband?",
+        "answer": "16 May 1916",
+        "evidence": [
+            "Barbara Kelly->spouse->Bernard Braden",
+            "Bernard Braden->date of birth->16 May 1916"
+        ]
+    },
+    {
+        "question": "Who lived longer, H\u00e5kon Randal or Edmund Walker Head?",
+        "answer": "H\u00e5kon Randal",
+        "evidence": [
+            "Edmund Walker Head->date of birth->16 February 1805",
+            "Edmund Walker Head->date of death->28 January 1868",
+            "H\u00e5kon Randal->date of birth->9 July 1930",
+            "H\u00e5kon Randal->date of death->22 July 2012"
+        ]
+    },
+    {
+        "question": "Which film was released more recently, Million Dollar Mystery or Aristocracy (Film)?",
+        "answer": "Million Dollar Mystery",
+        "evidence": [
+            "Million Dollar Mystery->publication date->1987",
+            "Aristocracy (film)->publication date->1914"
+        ]
+    },
+    {
+        "question": "Where did the director of film Steele Of The Royal Mounted die?",
+        "answer": "Santa Barbara, California",
+        "evidence": [
+            "Steele of the Royal Mounted->director->David Smith",
+            "David Smith->place of death->Santa Barbara, California"
+        ]
+    },
+    {
+        "question": "Are both movies, Anna And The King Of Siam (Film) and The Bricklayers, from the same country?",
+        "answer": "no",
+        "evidence": [
+            "Anna and the King of Siam (film)->country of origin->American",
+            "The Bricklayers->country of origin->Mexican"
+        ]
+    },
+    {
+        "question": "When did the director of film The Young Marrieds (Film) die?",
+        "answer": "December 10, 1978",
+        "evidence": [
+            "The Young Marrieds->director->Ed Wood",
+            "Ed Wood->date of death->December 10, 1978"
+        ]
+    },
+    {
+        "question": "What nationality is John P. Doll's wife?",
+        "answer": "Swedish",
+        "evidence": [
+            "John P. Doll->spouse->Robyn",
+            "Robyn->country of citizenship->Swedish"
+        ]
+    },
+    {
+        "question": "Do both films The Keeping Hours and Rapa-Nui (Film) have the directors that share the same nationality?",
+        "answer": "yes",
+        "evidence": [
+            "The Keeping Hours->director->Karen Moncrieff",
+            "Rapa-Nui (film)->director->Kevin Reynolds",
+            "Karen Moncrieff->country of citizenship->America",
+            "Kevin Reynolds (director)->country of citizenship->American"
+        ]
+    },
+    {
+        "question": "Who was born first out of Candy Ruff and George Van Raemdonck?",
+        "answer": "George Van Raemdonck",
+        "evidence": [
+            "Candy Ruff->date of birth->February 13, 1951",
+            "George Van Raemdonck->date of birth->28 August 1888"
+        ]
+    },
+    {
+        "question": "Which song was released earlier, Hold (Song) or Sweet Lady Genevieve?",
+        "answer": "Sweet Lady Genevieve",
+        "evidence": [
+            "Hold (song)->publication date->18 September 2015",
+            "Sweet Lady Genevieve->publication date->1973"
+        ]
+    },
+    {
+        "question": "Where was the performer of song If I Were You (Kasey Chambers Song) born?",
+        "answer": "Mount Gambier",
+        "evidence": [
+            "If I Were You->performer->Kasey Chambers",
+            "Kasey Chambers->place of birth->Mount Gambier"
+        ]
+    },
+    {
+        "question": "Which one was established first, Eureka Federal Savings or Keedoozle?",
+        "answer": "Eureka Federal Savings",
+        "evidence": [
+            "Eureka Federal Savings->inception->1890",
+            "Keedoozle->inception->1937"
+        ]
+    },
+    {
+        "question": "Which film has the director who is older, Memories Of Murder (1990 Film) or Kuhle Wampe?",
+        "answer": "Kuhle Wampe",
+        "evidence": [
+            "Memories of Murder (1990 film)->director->Robert Lewis",
+            "Kuhle Wampe->director->Slatan Dudow",
+            "Robert Lewis (director)->date of birth->March 16, 1909",
+            "Slatan Dudow->date of birth->30 January 1903"
+        ]
+    },
+    {
+        "question": "Are both directors of films When the Bells Sound Clearly and The Crucial Test from the same country?",
+        "answer": "no",
+        "evidence": [
+            "The Crucial Test->director->John Ince",
+            "When the Bells Sound Clearly->director->Eduard von Borsody",
+            "John Ince (actor)->country of citizenship->American",
+            "Eduard von Borsody->country of citizenship->Austrian"
+        ]
+    },
+    {
+        "question": "Which country the director of film Black Sister'S Revenge is from?",
+        "answer": "American",
+        "evidence": [
+            "Black Sister's Revenge->director->Jamaa Fanaka",
+            "Jamaa Fanaka->country of citizenship->American"
+        ]
+    },
+    {
+        "question": "Were both Viktor Matchuk and Rudolph Suhrlandt, born in the same place?",
+        "answer": "no",
+        "evidence": [
+            "Viktor Matchuk->place of birth->Rivne",
+            "Rudolph Suhrlandt->place of birth->Ludwigslust"
+        ]
+    },
+    {
+        "question": "What is the date of death of the director of film The White Parade?",
+        "answer": "April 18, 1959",
+        "evidence": [
+            "The White Parade->director->Irving Cummings",
+            "Irving Cummings->date of death->April 18, 1959"
+        ]
+    },
+    {
+        "question": "Do both films: Mangalya Balam and Under Western Eyes (1936 Film) have the directors from the same country?",
+        "answer": "no",
+        "evidence": [
+            "Mangalya Balam->director->Adurthi Subba Rao",
+            "Under Western Eyes (1936 film)->director->Marc All\u00e9gret",
+            "Adurthi Subba Rao->country of citizenship->India",
+            "Marc All\u00e9gret->country of citizenship->French"
+        ]
+    },
+    {
+        "question": "Which award the composer of film Mr. Lambu got?",
+        "answer": "Filmfare Award",
+        "evidence": [
+            "Mr. Lambu->composer->O. P. Nayyar",
+            "O. P. Nayyar->award received->Filmfare Award"
+        ]
+    },
+    {
+        "question": "When is Isabel Karajan's father's birthday?",
+        "answer": "5 April 1908",
+        "evidence": [
+            "Isabel Karajan->father->Herbert von Karajan",
+            "Herbert von Karajan->date of birth->5 April 1908"
+        ]
+    },
+    {
+        "question": "What is the place of birth of the performer of song Dagny (Song)?",
+        "answer": "Uppsala",
+        "evidence": [
+            "Dagny->performer->Owe Th\u00f6rnqvist",
+            "Owe Th\u00f6rnqvist->place of birth->Uppsala"
+        ]
+    },
+    {
+        "question": "Does Ibrahim Mahlab have the same nationality as Akinobu Hiranaka?",
+        "answer": "no",
+        "evidence": [
+            "Ibrahim Mahlab->country of citizenship->Egypt",
+            "Akinobu Hiranaka->country of citizenship->Japanese"
+        ]
+    },
+    {
+        "question": "Are both villages, Shahid Mohammadpur and Shit, Zanjan, located in the same country?",
+        "answer": "yes",
+        "evidence": [
+            "Shahid Mohammadpur->country->Persian",
+            "Shit, Zanjan->country->Iran"
+        ]
+    },
+    {
+        "question": "What is the place of birth of the director of film Three Arabian Nuts?",
+        "answer": "Chicago",
+        "evidence": [
+            "Three Arabian Nuts->director->Edward Bernds",
+            "Edward Bernds->place of birth->Chicago"
+        ]
+    },
+    {
+        "question": "What is the date of death of the director of film Counselor At Crime?",
+        "answer": "2 June 2015",
+        "evidence": [
+            "Counselor at Crime->director->Alberto De Martino",
+            "Alberto De Martino->date of death->2 June 2015"
+        ]
+    },
+    {
+        "question": "Who is the father of Tatiana Schlossberg?",
+        "answer": "Edwin Schlossberg",
+        "evidence": [
+            "Tatiana Celia Kennedy Schlossberg->mother->Caroline Kennedy",
+            "Caroline Kennedy->spouse->Edwin Schlossberg"
+        ]
+    },
+    {
+        "question": "Do both Neutral Port and Boogie Nights films have the directors from the same country?",
+        "answer": "no",
+        "evidence": [
+            "Neutral Port->director->Marcel Varnel",
+            "Boogie Nights->director->Paul Thomas Anderson",
+            "Marcel Varnel->country of citizenship->France",
+            "Paul Thomas Anderson->country of citizenship->American"
+        ]
+    },
+    {
+        "question": "Were Paris Smith and Aubrey Scotto of the same nationality?",
+        "answer": "yes",
+        "evidence": [
+            "Aubrey Scotto->country of citizenship->American",
+            "Paris Smith->country of citizenship->American"
+        ]
+    },
+    {
+        "question": "Do the bands Signals Midwest and Everybody Else, originate from the same country?",
+        "answer": "yes",
+        "evidence": [
+            "Signals Midwest->country of origin->American",
+            "Everybody Else->country of origin->American"
+        ]
+    },
+    {
+        "question": "Are both Chenes and Sharvand located in the same country?",
+        "answer": "yes",
+        "evidence": [
+            "Chenes->country->Iran",
+            "Sharvand->country->Iran"
+        ]
+    },
+    {
+        "question": "Who is the spouse of the director of film Four Horsemen Of The Apocalypse (Film)?",
+        "answer": "Judy Garland",
+        "evidence": [
+            "The 4 Horsemen of the Apocalypse->director->Vincente Minnelli",
+            "Vincente Minnelli->spouse->Judy Garland"
+        ]
+    },
+    {
+        "question": "Are both villages, Hoseynabad-E Sargel and Deh Rud, Razavi Khorasan, located in the same country?",
+        "answer": "yes",
+        "evidence": [
+            "Hoseynabad-e Sargel->country->Iran",
+            "Deh Rud, Razavi Khorasan->country->Iran"
+        ]
+    },
+    {
+        "question": "When is Flavio Cattaneo's wife's birthday?",
+        "answer": "28 June 1964",
+        "evidence": [
+            "Flavio Cattaneo->spouse->Sabrina Ferilli",
+            "Sabrina Ferilli->date of birth->28 June 1964"
+        ]
+    },
+    {
+        "question": "When was the director of film Aaj Ki Awaaz born?",
+        "answer": "27 September 1946",
+        "evidence": [
+            "Aaj Ki Awaaz->director->Ravi Chopra",
+            "Ravi Chopra->date of birth->27 September 1946"
+        ]
+    },
+    {
+        "question": "Where was the director of film The Franchise Affair (Film) born?",
+        "answer": "London",
+        "evidence": [
+            "The Franchise Affair->director->Lawrence Huntington",
+            "Lawrence Huntington->place of birth->London"
+        ]
+    },
+    {
+        "question": "Are Kyungbang and Bulgarrenault located in the same country?",
+        "answer": "no",
+        "evidence": [
+            "Kyungbang->country->South Korea",
+            "Bulgarrenault->country->Bulgaria"
+        ]
+    },
+    {
+        "question": "What nationality is the director of film Loca Por El Trabajo?",
+        "answer": "Colombian",
+        "evidence": [
+            "Loca por el trabajo->director->Luis Eduardo Reyes",
+            "Luis Eduardo Reyes->country of citizenship->Colombian"
+        ]
+    },
+    {
+        "question": "Which country the director of film Shut Up And Kiss Me (Film) is from?",
+        "answer": "American",
+        "evidence": [
+            "Shut Up and Kiss Me->director->Gary Brockette",
+            "Gary Brockette->country of citizenship->American"
+        ]
+    },
+    {
+        "question": "What nationality is the composer of film Zubaan?",
+        "answer": "India",
+        "evidence": [
+            "Zubaan->composer->Ashutosh Phatak",
+            "Ashutosh Phatak->country of citizenship->India"
+        ]
+    },
+    {
+        "question": "Are Chandalar Lake and Wigdale Lake both located in the same country?",
+        "answer": "yes",
+        "evidence": [
+            "Chandalar Lake->country->United States",
+            "Wigdale Lake->country->United States"
+        ]
+    },
+    {
+        "question": "Which country the director of film The Doctor Of St. Pauli is from?",
+        "answer": "Austria",
+        "evidence": [
+            "The Doctor of St. Pauli->director->Rolf Olsen",
+            "Rolf Olsen->country of citizenship->Austria"
+        ]
+    },
+    {
+        "question": "What is the place of birth of the director of film Pawn Ticket 210?",
+        "answer": "Chicago",
+        "evidence": [
+            "Pawn Ticket 210->director->Scott R. Dunlap",
+            "Scott R. Dunlap->place of birth->Chicago"
+        ]
+    },
+    {
+        "question": "Are both The Babysitter (1995 Film) and Magic Mike from the same country?",
+        "answer": "yes",
+        "evidence": [
+            "The Babysitter (1995 film)->country of origin->American",
+            "Magic Mike->country of origin->American"
+        ]
+    },
+    {
+        "question": "Where did the director of film Sunshine Dad die?",
+        "answer": "Hollywood",
+        "evidence": [
+            "Sunshine Dad->director->Edward Dillon",
+            "Edward Dillon->place of death->Hollywood"
+        ]
+    },
+    {
+        "question": "Who was born later, Danny O'Shea (Footballer) or Jesper Modin?",
+        "answer": "Jesper Modin",
+        "evidence": [
+            "Danny O'Shea (footballer)->date of birth->26 March 1963",
+            "Jesper Modin->date of birth->June 4, 1988"
+        ]
+    },
+    {
+        "question": "Do both films The Failure (1915 Film) and Ten Thousand Dollars For A Massacre have the directors that share the same nationality?",
+        "answer": "no",
+        "evidence": [
+            "The Failure (1915 film)->director->Christy Cabanne",
+            "Ten Thousand Dollars for a Massacre->director->Romolo Guerrieri",
+            "Christy Cabanne->country of citizenship->American",
+            "Romolo Guerrieri->country of citizenship->Italian"
+        ]
+    },
+    {
+        "question": "Do director of film The Nabob Affair and director of film Serenade (1956 Film) share the same nationality?",
+        "answer": "no",
+        "evidence": [
+            "The Nabob Affair->director->Ralph Habib",
+            "Serenade (1956 film)->director->Anthony Mann",
+            "Ralph Habib->country of citizenship->French",
+            "Anthony Mann->country of citizenship->American"
+        ]
+    },
+    {
+        "question": "What is the place of birth of Louis Vi, Elector Palatine's mother?",
+        "answer": "Ansbach",
+        "evidence": [
+            "Ludwig VI, Elector Palatine->mother->Marie of Brandenburg-Kulmbach",
+            "Marie of Brandenburg-Kulmbach->place of birth->Ansbach"
+        ]
+    },
+    {
+        "question": "Are Magibon and Karel Uyttersprot from the same country?",
+        "answer": "no",
+        "evidence": [
+            "Magibon->country of citizenship->American",
+            "Karel Uyttersprot->country of citizenship->Belgian"
+        ]
+    },
+    {
+        "question": "Are both bands, Edda M\u0171vek and The Changin' Times, from the same country?",
+        "answer": "no",
+        "evidence": [
+            "Edda M\u0171vek->country of origin->Hungarian",
+            "The Changin' Times->country of origin->American"
+        ]
+    },
+    {
+        "question": "Where was the director of film Toro Loco Sangriento born?",
+        "answer": "Chill\u00e1n",
+        "evidence": [
+            "Toro Loco: Sangriento->director->Patricio Valladares",
+            "Patricio Valladares->place of birth->Chill\u00e1n"
+        ]
+    },
+    {
+        "question": "Do both films, Black Market of Love and Tumbledown Ranch in Arizona, have the directors who are from the same country?",
+        "answer": "no",
+        "evidence": [
+            "Tumbledown Ranch in Arizona->director->S. Roy Luby",
+            "Black Market of Love->director->Ernst Hofbauer",
+            "S. Roy Luby->country of citizenship->American",
+            "Ernst Hofbauer->country of citizenship->Austria"
+        ]
+    },
+    {
+        "question": "When did the composer of film Ezhu Rathrikal die?",
+        "answer": "5 September 1995",
+        "evidence": [
+            "Ezhu Rathrikal->composer->Salil Chowdhury",
+            "Salil Chowdhury->date of death->5 September 1995"
+        ]
+    },
+    {
+        "question": "Did Reinaldo Quijada and Eugene Bossilkov have the same nationality?",
+        "answer": "no",
+        "evidence": [
+            "Reinaldo Quijada->country of citizenship->Venezuelan",
+            "Eugene Bossilkov->country of citizenship->Bulgaria"
+        ]
+    },
+    {
+        "question": "Which country the director of film The Vigilantes Return is from?",
+        "answer": "American",
+        "evidence": [
+            "The Vigilantes Return->director->Ray Taylor",
+            "Ray Taylor->country of citizenship->American"
+        ]
+    },
+    {
+        "question": "Which film has the director born earlier, The Magnificent Fraud or Reservation Road?",
+        "answer": "The Magnificent Fraud",
+        "evidence": [
+            "The Magnificent Fraud->director->Robert Florey",
+            "Reservation Road->director->Terry George",
+            "Robert Florey->date of birth->14 September 1900",
+            "Terry George->date of birth->20 December 1952"
+        ]
+    },
+    {
+        "question": "Which film was released earlier, The Way We Were or Sherlock Toms?",
+        "answer": "The Way We Were",
+        "evidence": [
+            "Sherlock Toms->publication date->2017",
+            "The Way We Were->publication date->1973"
+        ]
+    },
+    {
+        "question": "When was the director of film This Is The Life (2008 Film) born?",
+        "answer": "August 24, 1972",
+        "evidence": [
+            "This is the Life->director->Ava DuVernay",
+            "Ava DuVernay->date of birth->August 24, 1972"
+        ]
+    },
+    {
+        "question": "Do Frederick John Harris and Rose Elliot share the same nationality?",
+        "answer": "no",
+        "evidence": [
+            "Rose Elliot->country of citizenship->British",
+            "Frederick John Harris->country of citizenship->South Africa"
+        ]
+    },
+    {
+        "question": "Are Fruit Of Paradise and The Teahouse (Film) from the same country?",
+        "answer": "no",
+        "evidence": [
+            "Fruit of Paradise->country of origin->Czechoslovak",
+            "The Teahouse (film)->country of origin->Hong Kong"
+        ]
+    },
+    {
+        "question": "Are Deh Bisheh-Ye Olya and Pain Zoghal Manzel both located in the same country?",
+        "answer": "yes",
+        "evidence": [
+            "Deh Bisheh-ye Olya->country->Iran",
+            "Pain Zoghal Manzel->country->Iran"
+        ]
+    },
+    {
+        "question": "Which song came out earlier, Look Right Through or I Was Born?",
+        "answer": "Look Right Through",
+        "evidence": [
+            "Look Right Through->publication date->2013",
+            "I Was Born->publication date->2017"
+        ]
+    },
+    {
+        "question": "Where did Ottaviano Riario's mother die?",
+        "answer": "Florence",
+        "evidence": [
+            "Ottaviano Riario->mother->Caterina Sforza",
+            "Caterina Sforza->place of death->Florence"
+        ]
+    },
+    {
+        "question": "Which country the composer of song La Chanson D'\u00c8ve is from?",
+        "answer": "French",
+        "evidence": [
+            "La chanson d'\u00c8ve->composer->Gabriel Faur\u00e9",
+            "Gabriel Faur\u00e9->country of citizenship->French"
+        ]
+    },
+    {
+        "question": "What nationality is the composer of song For You, For Me, For Evermore?",
+        "answer": "American",
+        "evidence": [
+            "For You, For Me, For Evermore->composer->George Gershwin",
+            "George Gershwin->country of citizenship->American"
+        ]
+    },
+    {
+        "question": "Which album was released more recently, Killer Grass or Waited Up 'til It Was Light?",
+        "answer": "Killer Grass",
+        "evidence": [
+            "Waited Up 'til It Was Light->publication date->2008",
+            "Killer Grass->publication date->2010"
+        ]
+    },
+    {
+        "question": "What is the date of birth of the director of film The Fair (Film)?",
+        "answer": "9 October 1906",
+        "evidence": [
+            "The Fair->director->Wolfgang Staudte",
+            "Wolfgang Staudte->date of birth->9 October 1906"
+        ]
+    },
+    {
+        "question": "Are both villages, Kushk-E Khalil and Paskahak, located in the same country?",
+        "answer": "yes",
+        "evidence": [
+            "Kushk-e Khalil->country->Iran",
+            "Paskahak->country->Iran"
+        ]
+    },
+    {
+        "question": "When did the director of film Smart Alecks die?",
+        "answer": "June 30, 1958",
+        "evidence": [
+            "Smart Alecks->director->Wallace Fox",
+            "Wallace Fox->date of death->June 30, 1958"
+        ]
+    },
+    {
+        "question": "Are Kushk, Dorud and Marb\u00e4ck located in the same country?",
+        "answer": "no",
+        "evidence": [
+            "Kushk, Dorud->country->Iran",
+            "Marb\u00e4ck->country->Sweden"
+        ]
+    },
+    {
+        "question": "Where was the director of film Ganwaar born?",
+        "answer": "Lahore",
+        "evidence": [
+            "Ganwaar->director->Naresh Kumar",
+            "Naresh Kumar->place of birth->Lahore"
+        ]
+    },
+    {
+        "question": "When is Harold Taylor Wood Grant's father's birthday?",
+        "answer": "May 17, 1845",
+        "evidence": [
+            "Harold Taylor Wood Grant->father->MacCallum Grant",
+            "MacCallum Grant->date of birth->May 17, 1845"
+        ]
+    },
+    {
+        "question": "When did the director of film The Captive: The Longest Drive 2 die?",
+        "answer": "30 October 2002",
+        "evidence": [
+            "The Captive: The Longest Drive 2->director->Lee H. Katzin",
+            "Lee H. Katzin->date of death->30 October 2002"
+        ]
+    },
+    {
+        "question": "What is the date of death of the director of film The Cat In The Bag?",
+        "answer": "August 22, 1994",
+        "evidence": [
+            "The Cat in the Bag->director->Gilles Groulx",
+            "Gilles Groulx->date of death->August 22, 1994"
+        ]
+    },
+    {
+        "question": "Are both directors of films The Strike (1914 Film) and Sandra, La Mujer De Fuego from the same country?",
+        "answer": "no",
+        "evidence": [
+            "The Strike (1914 film)->director->Victor Sj\u00f6str\u00f6m",
+            "Sandra, la mujer de fuego->director->Juan Orol",
+            "Victor Sj\u00f6str\u00f6m->country of citizenship->Swedish",
+            "Juan Orol->country of citizenship->Mexico",
+            "Juan Orol->country of citizenship->Spain"
+        ]
+    },
+    {
+        "question": "When did Ulviye Sultan's father die?",
+        "answer": "16 May 1926",
+        "evidence": [
+            "Ulviye Sultan->father->Mehmed VI",
+            "Mehmed VI->date of death->16 May 1926"
+        ]
+    },
+    {
+        "question": "Are Nikitas and Noshveh located in the same country?",
+        "answer": "no",
+        "evidence": [
+            "Nikitas->country->Turkish Republic of Northern Cyprus",
+            "Noshveh->country->Iran"
+        ]
+    },
+    {
+        "question": "Which film has the director born first, Wild Women \u2013 Gentle Beasts or Heaven With A Gun?",
+        "answer": "Heaven With A Gun",
+        "evidence": [
+            "Wild Women \u2013 Gentle Beasts->director->Anka Schmid",
+            "Heaven with a Gun->director->Lee H. Katzin",
+            "Anka Schmid->date of birth->March 8, 1961",
+            "Lee H. Katzin->date of birth->12 April 1935"
+        ]
+    },
+    {
+        "question": "Where was the place of death of the director of film The Whispering Chorus?",
+        "answer": "Hollywood",
+        "evidence": [
+            "The Whispering Chorus->director->Cecil B. DeMille",
+            "Cecil B. DeMille->place of death->Hollywood"
+        ]
+    },
+    {
+        "question": "Do both films: Spain Again and Suburbicon have the directors from the same country?",
+        "answer": "no",
+        "evidence": [
+            "Suburbicon->director->George Clooney",
+            "Spain Again->director->Jaime Camino",
+            "George Clooney->country of citizenship->American",
+            "Jaime Camino->country of citizenship->Spanish"
+        ]
+    },
+    {
+        "question": "Who is older, Jorge Sartiagu\u00edn or Boudewijn Poelmann?",
+        "answer": "Boudewijn Poelmann",
+        "evidence": [
+            "Jorge Sartiagu\u00edn->date of birth->24 August 1993",
+            "Boudewijn Poelmann->date of birth->3 February 1949"
+        ]
+    },
+    {
+        "question": "When was the director of film The Devotion Of Suspect X (Film) born?",
+        "answer": "11 September 1973",
+        "evidence": [
+            "The Devotion of Suspect X->director->Alec Su",
+            "Alec Su->date of birth->11 September 1973"
+        ]
+    },
+    {
+        "question": "What is the date of death of the creator of How'S Your Mother-In-Law??",
+        "answer": "March 21, 2017",
+        "evidence": [
+            "How's Your Mother-in-Law?->creator->Chuck Barris",
+            "Chuck Barris->date of death->March 21, 2017"
+        ]
+    },
+    {
+        "question": "When did the director of film King Of The Gypsies (Film) die?",
+        "answer": "July 22, 2012",
+        "evidence": [
+            "King of the Gypsies->director->Frank Pierson",
+            "Frank Pierson->date of death->July 22, 2012"
+        ]
+    },
+    {
+        "question": "What is the place of birth of the director of film The Gun In Betty Lou'S Handbag?",
+        "answer": "Shawinigan",
+        "evidence": [
+            "The Gun in Betty Lou's Handbag->director->Allan Moyle",
+            "Allan Moyle->place of birth->Shawinigan"
+        ]
+    },
+    {
+        "question": "Do both films Juicio De Faldas and Fighting Love have the directors from the same country?",
+        "answer": "no",
+        "evidence": [
+            "Juicio de faldas->director->Jos\u00e9 Luis S\u00e1enz de Heredia",
+            "Fighting Love->director->Nils Olaf Chrisander",
+            "Jos\u00e9 Luis S\u00e1enz de Heredia->country of citizenship->Spanish",
+            "Nils Olaf Chrisander->country of citizenship->Swedish"
+        ]
+    },
+    {
+        "question": "Which country the performer of song You Dreamer You is from?",
+        "answer": "American",
+        "evidence": [
+            "You Dreamer You->performer->Johnny Cash",
+            "Johnny Cash->country of citizenship->American"
+        ]
+    },
+    {
+        "question": "Which film came out earlier, The Broken Wings or In Line Of Duty?",
+        "answer": "In Line Of Duty",
+        "evidence": [
+            "The Broken Wings->publication date->1962",
+            "In Line of Duty->publication date->1931"
+        ]
+    },
+    {
+        "question": "What nationality is the director of film Sins Of Desire?",
+        "answer": "American",
+        "evidence": [
+            "Sins of Desire->director->Jim Wynorski",
+            "Jim Wynorski->country of citizenship->American"
+        ]
+    },
+    {
+        "question": "What is the date of death of Vespasiano Vincenzo Gonzaga's father?",
+        "answer": "26 February 1632",
+        "evidence": [
+            "Vespasiano Vincenzo Gonzaga->father->Cesare II Gonzaga, Duke of Guastalla",
+            "Cesare II Gonzaga, Duke of Guastalla->date of death->26 February 1632"
+        ]
+    },
+    {
+        "question": "Do the movies Heartland (Film) and Madame Spy (1934 Film), originate from the same country?",
+        "answer": "yes",
+        "evidence": [
+            "Heartland (film)->country of origin->American",
+            "Madame Spy (1934 film)->country of origin->American"
+        ]
+    },
+    {
+        "question": "Are both villages, Safiabad, Kermanshah and Emmaville, New South Wales, located in the same country?",
+        "answer": "no",
+        "evidence": [
+            "Safiabad, Kermanshah->country->Iran",
+            "Emmaville, New South Wales->country->Australia"
+        ]
+    },
+    {
+        "question": "Are Fahmi Idris and Christian Lower of the same nationality?",
+        "answer": "no",
+        "evidence": [
+            "Fahmi Idris->country of citizenship->Indonesia",
+            "Christian Lower->country of citizenship->U.S."
+        ]
+    },
+    {
+        "question": "Are both Anders Dahlvig and Chuck Salas from the same country?",
+        "answer": "no",
+        "evidence": [
+            "Anders Dahlvig->country of citizenship->Sweden",
+            "Chuck Salas->country of citizenship->American"
+        ]
+    },
+    {
+        "question": "Do both Wild Child (Film) and Cracked Nuts (1941 Film) films have the directors from the same country?",
+        "answer": "no",
+        "evidence": [
+            "Wild Child (film)->director->Nick Moore",
+            "Cracked Nuts (1941 film)->director->Edward F. Cline",
+            "Nick Moore (film director)->country of citizenship->British",
+            "Edward F. Cline->country of citizenship->American"
+        ]
+    },
+    {
+        "question": "Do both directors of films Tragic Serenade and The Kidnapping Of The President share the same nationality?",
+        "answer": "no",
+        "evidence": [
+            "Tragic Serenade->director->Giuseppe Guarino",
+            "The Kidnapping of the President->director->George Mendeluk",
+            "Giuseppe Guarino (film director)->country of citizenship->Italian",
+            "George Mendeluk->country of citizenship->Canadian"
+        ]
+    },
+    {
+        "question": "Do both films, Valley Of The Redwoods and August 15 (2011 Film), have the directors who are from the same country?",
+        "answer": "no",
+        "evidence": [
+            "Valley of the Redwoods->director->William Witney",
+            "August 15 (2011 film)->director->Shaji Kailas",
+            "William Witney->country of citizenship->American",
+            "Shaji Kailas->country of citizenship->Indian"
+        ]
+    },
+    {
+        "question": "What is the date of birth of Linda Mccartney's husband?",
+        "answer": "18 June 1942",
+        "evidence": [
+            "Linda McCartney->spouse->Paul McCartney",
+            "Paul McCartney->date of birth->18 June 1942"
+        ]
+    },
+    {
+        "question": "Are both directors of films Sink or Swim (2018 film) and A Six Shootin' Romance from the same country?",
+        "answer": "no",
+        "evidence": [
+            "A Six Shootin' Romance->director->Clifford Smith",
+            "Sink or Swim (2018 film)->director->Gilles Lellouche",
+            "Clifford Smith (director)->country of citizenship->American",
+            "Gilles Lellouche->country of citizenship->French"
+        ]
+    },
+    {
+        "question": "Are both Sydney Putman and Denis Dyack from the same country?",
+        "answer": "no",
+        "evidence": [
+            "Sydney Putman->country of citizenship->Australian",
+            "Denis Dyack->country of citizenship->Canadian"
+        ]
+    },
+    {
+        "question": "Where did the performer of song Somebody Have Mercy die?",
+        "answer": "Los Angeles, California",
+        "evidence": [
+            "Somebody Have Mercy->performer->Sam Cooke",
+            "Sam Cooke->place of death->Los Angeles, California"
+        ]
+    },
+    {
+        "question": "Are Eastern High School (Baltimore) and Lacombe Composite High School both located in the same country?",
+        "answer": "no",
+        "evidence": [
+            "Eastern High School (Baltimore)->country->U.S.A.",
+            "Lacombe Composite High School->country->Canada"
+        ]
+    },
+    {
+        "question": "When did the director of film Playing With Fire (1921 American Film) die?",
+        "answer": "May 9, 1940",
+        "evidence": [
+            "Playing With Fire->director->Dallas M. Fitzgerald",
+            "Dallas M. Fitzgerald->date of death->May 9, 1940"
+        ]
+    },
+    {
+        "question": "Who is Eudokia (Wife Of Justinian Ii)'s father-in-law?",
+        "answer": "Constantine IV",
+        "evidence": [
+            "Eudokia->spouse->Justinian II",
+            "Justinian II->father->Constantine IV"
+        ]
+    },
+    {
+        "question": "Are director of film Pratima (1945 Film) and director of film One Too Many On Board both from the same country?",
+        "answer": "no",
+        "evidence": [
+            "Pratima (1945 film)->director->Paidi Jairaj",
+            "One Too Many on Board->director->Gerhard Lamprecht",
+            "Paidi Jairaj->country of citizenship->India",
+            "Gerhard Lamprecht->country of citizenship->German"
+        ]
+    },
+    {
+        "question": "Which film has the director died earlier, Trishul (Film) or A Tale Of Two Worlds?",
+        "answer": "A Tale Of Two Worlds",
+        "evidence": [
+            "Trishul (film)->director->Yash Chopra",
+            "A Tale of Two Worlds->director->Frank Lloyd",
+            "Yash Chopra->date of death->21 October 2012",
+            "Frank Lloyd->date of death->10 August 1960"
+        ]
+    },
+    {
+        "question": "What is the date of birth of the performer of song Eat The Music?",
+        "answer": "30 July 1958",
+        "evidence": [
+            "Eat the Music->performer->Kate Bush",
+            "Kate Bush->date of birth->30 July 1958"
+        ]
+    },
+    {
+        "question": "What is the date of birth of the director of film Jeopardy (Film)?",
+        "answer": "January 3, 1910",
+        "evidence": [
+            "Jeopardy->director->John Sturges",
+            "John Sturges->date of birth->January 3, 1910"
+        ]
+    },
+    {
+        "question": "When did Francesco Ii Gattilusio's father die?",
+        "answer": "6 August 1384",
+        "evidence": [
+            "Francesco II Gattilusio->father->Francesco I Gattilusio",
+            "Francesco I Gattilusio->date of death->6 August 1384"
+        ]
+    },
+    {
+        "question": "Which film came out first, The Cloud Dodger or Fantasma D'Amore?",
+        "answer": "The Cloud Dodger",
+        "evidence": [
+            "The Cloud Dodger->publication date->1928",
+            "Fantasma d'amore->publication date->1981"
+        ]
+    },
+    {
+        "question": "Which film came out first, Kalpana 2 or Hullo Marmaduke?",
+        "answer": "Hullo Marmaduke",
+        "evidence": [
+            "Kalpana 2->publication date->2016",
+            "Hullo Marmaduke->publication date->1924"
+        ]
+    },
+    {
+        "question": "Where did the founder of Lisp Machines study?",
+        "answer": "Massachusetts Institute of Technology",
+        "evidence": [
+            "Lisp Machines->founded by->Richard Greenblatt",
+            "Richard Greenblatt->educated at->Massachusetts Institute of Technology"
+        ]
+    },
+    {
+        "question": "Do director of film Rosario (2010 Film) and director of film Count Max (1991 Film) share the same nationality?",
+        "answer": "no",
+        "evidence": [
+            "Rosario (2010 film)->director->Albert Martinez",
+            "Count Max (1991 film)->director->Christian De Sica",
+            "Albert Martinez->country of citizenship->Filipino",
+            "Christian De Sica->country of citizenship->Italian"
+        ]
+    },
+    {
+        "question": "Was Jozef Tirer or Myra Marx Ferree born first?",
+        "answer": "Myra Marx Ferree",
+        "evidence": [
+            "Jozef Tirer->date of birth->20 February 1984",
+            "Myra Marx Ferree->date of birth->October 10, 1949"
+        ]
+    },
+    {
+        "question": "Are both Seratones and San Francisco Composers Chamber Orchestra from the same country?",
+        "answer": "yes",
+        "evidence": [
+            "Seratones->country of origin->American",
+            "San Francisco Composers Chamber Orchestra->country of origin->United States"
+        ]
+    },
+    {
+        "question": "What is the place of birth of Michael Lemoyne Kennedy's father?",
+        "answer": "Brookline",
+        "evidence": [
+            "Michael LeMoyne Kennedy->father->Robert F. Kennedy",
+            "Robert F. Kennedy->place of birth->Brookline"
+        ]
+    },
+    {
+        "question": "Are both Asha, Cyprus and Rashgund located in the same country?",
+        "answer": "no",
+        "evidence": [
+            "Asha, Cyprus->country->Northern Cyprus",
+            "Rashgund->country->Iran"
+        ]
+    },
+    {
+        "question": "Which country the director of film Video Nasties: Moral Panic, Censorship & Videotape is from?",
+        "answer": "British",
+        "evidence": [
+            "Video Nasties: Moral Panic, Censorship & Videotape->director->Jake West",
+            "Jake West->country of citizenship->British"
+        ]
+    },
+    {
+        "question": "Are both Jack D. Schwager and Fred Heese from the same country?",
+        "answer": "no",
+        "evidence": [
+            "Jack D. Schwager->country of citizenship->American",
+            "Fred Heese->country of citizenship->Canadian"
+        ]
+    },
+    {
+        "question": "When was the director of film August Eighth born?",
+        "answer": "July 30, 1961",
+        "evidence": [
+            "August Eighth->director->Dzhanik Fayziev",
+            "Dzhanik Fayziev->date of birth->July 30, 1961"
+        ]
+    },
+    {
+        "question": "When was Philip V Of Spain's father born?",
+        "answer": "1 November 1661",
+        "evidence": [
+            "Philip V of Spain->father->Louis, Grand Dauphin",
+            "Louis, Grand Dauphin->date of birth->1 November 1661"
+        ]
+    },
+    {
+        "question": "Who was born earlier, Ray Lamb or Flavia Irwin?",
+        "answer": "Flavia Irwin",
+        "evidence": [
+            "Ray Lamb->date of birth->December 28, 1944",
+            "Flavia Irwin->date of birth->15 December 1916"
+        ]
+    },
+    {
+        "question": "Are both directors of films Ship Of Wanted Men and Father Radetzky from the same country?",
+        "answer": "no",
+        "evidence": [
+            "Ship of Wanted Men->director->Lewis D. Collins",
+            "Father Radetzky->director->Karl Leiter",
+            "Lewis D. Collins->country of citizenship->American",
+            "Karl Leiter->country of citizenship->Austrian"
+        ]
+    },
+    {
+        "question": "Are El Ten Eleven and Meshuggah both from the same country?",
+        "answer": "no",
+        "evidence": [
+            "El Ten Eleven->country of origin->American",
+            "Meshuggah->country of origin->Swedish"
+        ]
+    },
+    {
+        "question": "Which film has the director who was born later, Women'S Club (1956 Film) or Viva Maria!?",
+        "answer": "Viva Maria!",
+        "evidence": [
+            "Women's Club (1956 film)->director->Ralph Habib",
+            "Viva Maria!->director->Louis Malle",
+            "Ralph Habib->date of birth->29 June 1912",
+            "Louis Malle->date of birth->30 October 1932"
+        ]
+    },
+    {
+        "question": "What is the date of death of Maria (Daughter Of Maurice)'s father?",
+        "answer": "27 November 602",
+        "evidence": [
+            "Maria->father->Maurice",
+            "Maurice->date of death->27 November 602"
+        ]
+    },
+    {
+        "question": "What is the date of death of Princess Henri\u00ebtte Amalia Of Anhalt-Dessau's father?",
+        "answer": "7 August 1693",
+        "evidence": [
+            "Henri\u00ebtte Amalia Maria von Anhalt-Dessau->father->John George II",
+            "John George II->date of death->7 August 1693"
+        ]
+    },
+    {
+        "question": "When did the director of film Green Hell (Film) die?",
+        "answer": "29 May 1957",
+        "evidence": [
+            "Green Hell->director->James Whale",
+            "James Whale->date of death->29 May 1957"
+        ]
+    },
+    {
+        "question": "Who has more scope of profession, Neil Dexter or Sukhinder Singh Cassidy?",
+        "answer": "Sukhinder Singh Cassidy",
+        "evidence": [
+            "Neil Dexter->occupation->cricketer",
+            "Sukhinder Singh Cassidy->occupation->executive",
+            "Sukhinder Singh Cassidy->occupation->entrepreneur"
+        ]
+    },
+    {
+        "question": "What nationality is Helena, Daughter Of Alypius's husband?",
+        "answer": "Byzantine",
+        "evidence": [
+            "Helena, daughter of Alypius->spouse->Constantine VIII",
+            "Constantine VIII->country of citizenship->Byzantine"
+        ]
+    },
+    {
+        "question": "Which film was released earlier, Ghar Ki Laaj or Nirbhay (Film)?",
+        "answer": "Ghar Ki Laaj",
+        "evidence": [
+            "Ghar Ki Laaj->publication date->1979",
+            "Nirbhay (film)->publication date->1996"
+        ]
+    },
+    {
+        "question": "What is the place of birth of Igor Rotenberg's father?",
+        "answer": "Leningrad",
+        "evidence": [
+            "Igor Rotenberg->father->Arkady Rotenberg",
+            "Arkady Rotenberg->place of birth->Leningrad"
+        ]
+    },
+    {
+        "question": "Who was born first, Rudi Hansen or Piers Sellers?",
+        "answer": "Rudi Hansen",
+        "evidence": [
+            "Rudi Hansen->date of birth->27 October 1943",
+            "Piers Sellers->date of birth->11 April 1955"
+        ]
+    },
+    {
+        "question": "When did the director of film Cross Channel (Film) die?",
+        "answer": "December 9, 1989",
+        "evidence": [
+            "Cross Channel->director->R. G. Springsteen",
+            "R. G. Springsteen->date of death->December 9, 1989"
+        ]
+    },
+    {
+        "question": "Which film has the director who was born earlier, Tail Spin or Spellbound (1941 Film)?",
+        "answer": "Tail Spin",
+        "evidence": [
+            "Tail Spin->director->Roy Del Ruth",
+            "Spellbound (1941 film)->director->John Harlow",
+            "Roy Del Ruth->date of birth->October 18, 1893",
+            "John Harlow (director)->date of birth->19 August 1896"
+        ]
+    },
+    {
+        "question": "When was the performer of song Sandy (Dion Dimucci Song) born?",
+        "answer": "July 18, 1939",
+        "evidence": [
+            "Sandy->performer->Dion DiMucci",
+            "Dion->date of birth->July 18, 1939"
+        ]
+    },
+    {
+        "question": "Where was the father of Camille Zeckwer born?",
+        "answer": "Stendal",
+        "evidence": [
+            "Camille W. Zeckwer->father->Richard Zeckwer",
+            "Richard Zeckwer->place of birth->Stendal"
+        ]
+    },
+    {
+        "question": "Are Aliabad, Borujen and Khalichian both located in the same country?",
+        "answer": "yes",
+        "evidence": [
+            "Aliabad, Borujen->country->Iran",
+            "Khalichian->country->Iran"
+        ]
+    },
+    {
+        "question": "Are Yazur and Do Palureh both located in the same country?",
+        "answer": "no",
+        "evidence": [
+            "Do Palureh->country->Iran",
+            "Yazur->country->Palestinian"
+        ]
+    },
+    {
+        "question": "Which film came out earlier, Mujeres Y Toros or Cinemanovels?",
+        "answer": "Mujeres Y Toros",
+        "evidence": [
+            "Mujeres y toros->publication date->1939",
+            "Cinemanovels->publication date->2013"
+        ]
+    },
+    {
+        "question": "What is the cause of death of performer of song Simmer Down?",
+        "answer": "melanoma",
+        "evidence": [
+            "Simmer Down->performer->Bob Marley",
+            "Bob Marley->cause of death->melanoma"
+        ]
+    },
+    {
+        "question": "Where was the place of burial of the director of film Tish (Film)?",
+        "answer": "Forest Lawn Memorial Park",
+        "evidence": [
+            "Tish->director->S. Sylvan Simon",
+            "S. Sylvan Simon->place of burial->Forest Lawn Memorial Park"
+        ]
+    },
+    {
+        "question": "Where was the director of film Forbidden Priests born?",
+        "answer": "Nantes",
+        "evidence": [
+            "Forbidden Priests->director->Denys de La Patelli\u00e8re",
+            "Denys de La Patelli\u00e8re->place of birth->Nantes"
+        ]
+    },
+    {
+        "question": "Which film has the director who was born later, Taped or The Virgin And The Macho Man?",
+        "answer": "Taped",
+        "evidence": [
+            "Taped->director->Diederik van Rooijen",
+            "The Virgin and the Macho Man->director->Jos\u00e9 Mojica Marins",
+            "Diederik van Rooijen->date of birth->26 December 1975",
+            "Jos\u00e9 Mojica Marins->date of birth->March 13, 1936"
+        ]
+    },
+    {
+        "question": "Are both rivers, Arkavati and Emerson Run, located in the same country?",
+        "answer": "no",
+        "evidence": [
+            "Arkavati->country->India",
+            "Emerson Run->country->United States"
+        ]
+    },
+    {
+        "question": "Who lived longer, P. E. S. Finney or Mario Vicini?",
+        "answer": "Mario Vicini",
+        "evidence": [
+            "P. E. S. Finney->date of birth->11 December 1904",
+            "P. E. S. Finney->date of death->1980",
+            "Mario Vicini->date of birth->21 February 1913",
+            "Mario Vicini->date of death->6 December 1995"
+        ]
+    },
+    {
+        "question": "Which magazine was published first, Sex To Sexty or Flower Magazine?",
+        "answer": "Sex To Sexty",
+        "evidence": [
+            "Sex to Sexty->inception->1964",
+            "Flower magazine->inception->2007"
+        ]
+    },
+    {
+        "question": "Which country the composer of song Wait For It (Song) is from?",
+        "answer": "American",
+        "evidence": [
+            "Wait for It->composer->Lin-Manuel Miranda",
+            "Lin-Manuel Miranda->country of citizenship->American"
+        ]
+    },
+    {
+        "question": "Do both films, Benedetta (Film) and Terri (Film), have the directors who are from the same country?",
+        "answer": "no",
+        "evidence": [
+            "Benedetta (film)->director->Paul Verhoeven",
+            "Terri (film)->director->Azazel Jacobs",
+            "Paul Verhoeven->country of citizenship->Dutch",
+            "Azazel Jacobs->country of citizenship->American"
+        ]
+    },
+    {
+        "question": "Who is older, Preston Brown (Linebacker) or Yassine Gharbi?",
+        "answer": "Yassine Gharbi",
+        "evidence": [
+            "Preston Brown (linebacker)->date of birth->October 27, 1992",
+            "Yassine Gharbi->date of birth->23 March 1990"
+        ]
+    },
+    {
+        "question": "What is the date of death of Visakha Wijeyeratne's husband?",
+        "answer": "11 July 2002",
+        "evidence": [
+            "Visakha Wijeyeratne->spouse->Tissa Wijeyeratne",
+            "Tissa Wijeyeratne->date of death->11 July 2002"
+        ]
+    },
+    {
+        "question": "Where was the place of death of the director of film The Yellow Death?",
+        "answer": "London",
+        "evidence": [
+            "The Yellow Death->director->Carl Wilhelm",
+            "Carl Wilhelm->place of death->London"
+        ]
+    },
+    {
+        "question": "Which film came out earlier, Shivarathri Mahathme or Popat (Film)?",
+        "answer": "Shivarathri Mahathme",
+        "evidence": [
+            "Shivarathri Mahathme->publication date->1964",
+            "Popat (film)->publication date->23 August 2013"
+        ]
+    },
+    {
+        "question": "Which film was released earlier, Oru Small Family or The Line, The Cross And The Curve?",
+        "answer": "The Line, The Cross And The Curve",
+        "evidence": [
+            "Oru Small Family->publication date->2010",
+            "The Line, the Cross and the Curve->publication date->1993"
+        ]
+    },
+    {
+        "question": "Which film has the director who is older than the other, Zazie Dans Le M\u00e9tro or Blame It On Rio? ",
+        "answer": "Blame It On Rio",
+        "evidence": [
+            "Zazie dans le M\u00e9tro->director->Louis Malle",
+            "Blame It on Rio->director->Stanley Donen",
+            "Louis Malle->date of birth->30 October 1932",
+            "Stanley Donen->date of birth->April 13, 1924"
+        ]
+    },
+    {
+        "question": "Do both directors of films Br\u00f6llopsfotografen and Sugam Enge share the same nationality?",
+        "answer": "no",
+        "evidence": [
+            "Br\u00f6llopsfotografen->director->Ulf Malmros",
+            "Sugam Enge->director->K. Ramnoth",
+            "Ulf Malmros->country of citizenship->Swedish",
+            "K. Ramnoth->country of citizenship->Indian"
+        ]
+    },
+    {
+        "question": "Where was the place of death of the director of film La Fille De L'Air?",
+        "answer": "Lebanese",
+        "evidence": [
+            "La fille de l'air->director->Maroun Bagdadi",
+            "Maroun Bagdadi->place of death->Lebanese"
+        ]
+    },
+    {
+        "question": "Which country Dolores Vargas Par\u00eds's husband is from?",
+        "answer": "Venezuelan",
+        "evidence": [
+            "Dolores Vargas Par\u00eds->spouse->Rafael Urdaneta",
+            "Rafael Urdaneta->country of citizenship->Venezuelan"
+        ]
+    },
+    {
+        "question": "Do both directors of films The Red Sea Diving Resort and Shambo Shiva Shambo have the same nationality?",
+        "answer": "no",
+        "evidence": [
+            "The Red Sea Diving Resort->director->Gideon Raff",
+            "Shambo Shiva Shambo->director->Samuthirakani",
+            "Gideon Raff->country of citizenship->Israeli",
+            "Samuthirakani->country of citizenship->Indian"
+        ]
+    },
+    {
+        "question": "Who is the spouse of the director of film Scalawag (Film)?",
+        "answer": "Anne Buydens",
+        "evidence": [
+            "Scalawag->director->Kirk Douglas",
+            "Kirk Douglas->spouse->Anne Buydens"
+        ]
+    },
+    {
+        "question": "Are the directors of films Sultan Gelin and This Day And Age (Film) both from the same country?",
+        "answer": "no",
+        "evidence": [
+            "Sultan Gelin->director->Halit Refi\u011f",
+            "This Day and Age (film)->director->Cecil B. DeMille",
+            "Halit Refi\u011f->country of citizenship->Turkish",
+            "Cecil B. DeMille->country of citizenship->American"
+        ]
+    },
+    {
+        "question": "What is the place of birth of the composer of film Aanappaachan?",
+        "answer": "Paravoor",
+        "evidence": [
+            "Aanappaachan->composer->G. Devarajan",
+            "G. Devarajan->place of birth->Paravoor"
+        ]
+    },
+    {
+        "question": "What is the place of birth of the director of film Hell (2011 Film)?",
+        "answer": "Basel",
+        "evidence": [
+            "Hell->director->Tim Fehlbaum",
+            "Tim Fehlbaum->place of birth->Basel"
+        ]
+    },
+    {
+        "question": "Are Udara Palliyaguruge and Jordan Williamsz from the same country?",
+        "answer": "no",
+        "evidence": [
+            "Udara Palliyaguruge->country of citizenship->Sri Lanka",
+            "Jordan Williamsz->country of citizenship->Australian"
+        ]
+    },
+    {
+        "question": "What is the place of birth of the director of film Donovan'S Brain (Film)?",
+        "answer": "New York",
+        "evidence": [
+            "Donovan's Brain->director->Felix E. Feist",
+            "Felix E. Feist->place of birth->New York"
+        ]
+    },
+    {
+        "question": "Do director of film Torpedo Alley (Film) and director of film All Of Me (1984 Film) have the same nationality?",
+        "answer": "yes",
+        "evidence": [
+            "Torpedo Alley (film)->director->Lew Landers",
+            "All of Me (1984 film)->director->Carl Reiner",
+            "Lew Landers->country of citizenship->American",
+            "Carl Reiner->country of citizenship->American"
+        ]
+    },
+    {
+        "question": "When was Carmen Casteiner's husband born?",
+        "answer": "June 2, 1947",
+        "evidence": [
+            "Carmen Casteiner->spouse->Giorgio Cagnotto",
+            "Giorgio Cagnotto->date of birth->June 2, 1947"
+        ]
+    },
+    {
+        "question": "What is the place of birth of Saw Nan Of Pagan's husband?",
+        "answer": "Bagan",
+        "evidence": [
+            "Saw Nan of Pagan->spouse->Narathihapate",
+            "Narathihapate->place of birth->Bagan"
+        ]
+    },
+    {
+        "question": "Are both Griesenberg and Kuhgir-E Sofla located in the same country?",
+        "answer": "no",
+        "evidence": [
+            "Griesenberg->country->Switzerland",
+            "Kuhgir-e Sofla->country->Iran"
+        ]
+    },
+    {
+        "question": "Are both director of film Harbour Beat and director of film 7 Assassins from the same country?",
+        "answer": "no",
+        "evidence": [
+            "Harbour Beat->director->David Elfick",
+            "7 Assassins->director->Hung Yan-yan",
+            "David Elfick->country of citizenship->Australian",
+            "Hung Yan-yan->country of citizenship->China"
+        ]
+    },
+    {
+        "question": "Were Sam Faust and Kermet Apio of the same nationality?",
+        "answer": "no",
+        "evidence": [
+            "Kermet Apio->country of citizenship->American",
+            "Sam Faust->country of citizenship->Australian"
+        ]
+    },
+    {
+        "question": "Which film has the director who died earlier, Grahasti (1963 Film) or Red Morning?",
+        "answer": "Red Morning",
+        "evidence": [
+            "Grahasti (1963 film)->director->Kishore Sahu",
+            "Red Morning->director->Wallace Fox",
+            "Kishore Sahu->date of death->22 August 1980",
+            "Wallace Fox->date of death->June 30, 1958"
+        ]
+    },
+    {
+        "question": "Are Mohsenabad, Sistan And Baluchestan and Dasht-E Dera Balverdi both located in the same country?",
+        "answer": "yes",
+        "evidence": [
+            "Mohsenabad, Sistan and Baluchestan->country->Iran",
+            "Dasht-e Dera Balverdi->country->Iran"
+        ]
+    },
+    {
+        "question": "What nationality is the composer of film Pavithra?",
+        "answer": "India",
+        "evidence": [
+            "Pavithra->composer->A. R. Rahman",
+            "A. R. Rahman->country of citizenship->India"
+        ]
+    },
+    {
+        "question": "Which film has the director who is older than the other, Unnamed Planet or District 13? ",
+        "answer": "Unnamed Planet",
+        "evidence": [
+            "District 13->director->Pierre Morel",
+            "Unnamed Planet->director->Valery Leontiev",
+            "Pierre Morel->date of birth->12 May 1964",
+            "Valery Leontiev->date of birth->19 March 1949"
+        ]
+    },
+    {
+        "question": "Are Cheung Ka Long and Johanna Fadul both from the same country?",
+        "answer": "no",
+        "evidence": [
+            "Cheung Ka Long->country of citizenship->Chinese",
+            "Johanna Fadul->country of citizenship->Colombian"
+        ]
+    },
+    {
+        "question": "Do John Elliott (Georgia) and Ren\u00e9 Hausman have the same nationality?",
+        "answer": "no",
+        "evidence": [
+            "John Elliott (Georgia)->country of citizenship->United States",
+            "Ren\u00e9 Hausman->country of citizenship->Belgian"
+        ]
+    },
+    {
+        "question": "When was Joel White's father born?",
+        "answer": "July 11, 1899",
+        "evidence": [
+            "Joel White->father->E. B. White",
+            "E. B. White->date of birth->July 11, 1899"
+        ]
+    },
+    {
+        "question": "When did the performer of song Come Back When You Grow Up die?",
+        "answer": "October 24, 2016",
+        "evidence": [
+            "Come Back When You Grow Up->performer->Bobby Vee",
+            "Bobby Vee->date of death->October 24, 2016"
+        ]
+    },
+    {
+        "question": "What is the place of birth of the director of film Housewives On The Job?",
+        "answer": "Vienna",
+        "evidence": [
+            "Housewives on the Job->director->Ernst Hofbauer",
+            "Ernst Hofbauer->place of birth->Vienna"
+        ]
+    },
+    {
+        "question": "Do both films Thakshashila and Demon Of The Himalayas have the directors from the same country?",
+        "answer": "no",
+        "evidence": [
+            "Thakshashila->director->Sreekumar Krishnan Nair",
+            "Demon of the Himalayas->director->Andrew Marton",
+            "Sreekumar Krishnan Nair->country of citizenship->India",
+            "Andrew Marton->country of citizenship->Hungarian",
+            "Andrew Marton->country of citizenship->American"
+        ]
+    },
+    {
+        "question": "Who died later, Vladimir Dyomin or Guy C. H. Corliss?",
+        "answer": "Vladimir Dyomin",
+        "evidence": [
+            "Guy C. H. Corliss->date of death->November 24, 1937",
+            "Vladimir Dyomin->date of death->10 October 1966"
+        ]
+    },
+    {
+        "question": "When is the composer of film Birdy (Film) 's birthday?",
+        "answer": "13 February 1950",
+        "evidence": [
+            "Birdy->composer->Peter Gabriel",
+            "Peter Gabriel->date of birth->13 February 1950"
+        ]
+    },
+    {
+        "question": "When was the director of film With Love... From The Age Of Reason born?",
+        "answer": "7 June 1965",
+        "evidence": [
+            "With Love... from the Age of Reason->director->Yann Samuell",
+            "Yann Samuell->date of birth->7 June 1965"
+        ]
+    },
+    {
+        "question": "Do both Pettigrew'S Girl and Milan Talkies films have the directors from the same country?",
+        "answer": "no",
+        "evidence": [
+            "Pettigrew's Girl->director->George Melford",
+            "Milan Talkies->director->Tigmanshu Dhulia",
+            "George Melford->country of citizenship->American",
+            "Tigmanshu Dhulia->country of citizenship->Indian"
+        ]
+    },
+    {
+        "question": "Which film was released earlier, The Girl From Monterrey or Jhuthi Sharm?",
+        "answer": "Jhuthi Sharm",
+        "evidence": [
+            "The Girl from Monterrey->publication date->1943",
+            "Jhuthi Sharm->publication date->1940"
+        ]
+    },
+    {
+        "question": "What is the date of death of the director of film The Winter Guest?",
+        "answer": "14 January 2016",
+        "evidence": [
+            "The Winter Guest->director->Alan Rickman",
+            "Alan Rickman->date of death->14 January 2016"
+        ]
+    },
+    {
+        "question": "Do both films, The Unstoppable Man and The Stabilizer, have the directors who are from the same country?",
+        "answer": "no",
+        "evidence": [
+            "The Unstoppable Man->director->Terry Bishop",
+            "The Stabilizer->director->Arizal",
+            "Terry Bishop->country of citizenship->British",
+            "Arizal (director)->country of citizenship->Indonesian"
+        ]
+    },
+    {
+        "question": "Are The Belltower and The Seven Ballerinas both from the same country?",
+        "answer": "no",
+        "evidence": [
+            "The Seven Ballerinas->country of origin->Australia",
+            "The Belltower->country of origin->American"
+        ]
+    },
+    {
+        "question": "Where was the place of death of the director of film The Valley Of The Giants (1919 Film)?",
+        "answer": "Hollywood",
+        "evidence": [
+            "Valley of the Giants->director->James Cruze",
+            "James Cruze->place of death->Hollywood"
+        ]
+    },
+    {
+        "question": "What is the date of death of the director of film The Crimson Circle (1936 Film)?",
+        "answer": "4 February 1983",
+        "evidence": [
+            "The Crimson Circle->director->Reginald Denham",
+            "Reginald Denham->date of death->4 February 1983"
+        ]
+    },
+    {
+        "question": "Are Braunwald, Glarus and Khargushi, Yazd located in the same country?",
+        "answer": "no",
+        "evidence": [
+            "Braunwald, Glarus->country->Switzerland",
+            "Khargushi, Yazd->country->Iran"
+        ]
+    },
+    {
+        "question": "Do the movies Tadoussac (Film) and Gunfight At Comanche Creek, originate from the same country?",
+        "answer": "no",
+        "evidence": [
+            "Tadoussac (film)->country of origin->Canadian",
+            "Gunfight at Comanche Creek->country of origin->American"
+        ]
+    },
+    {
+        "question": "What is the date of birth of the director of film Blue Blood (1973 Film)?",
+        "answer": "21 January 1935",
+        "evidence": [
+            "Blue Blood->director->Andrew Sinclair",
+            "Andrew Sinclair->date of birth->21 January 1935"
+        ]
+    },
+    {
+        "question": "Where was the place of death of the director of film The Way Of A Man?",
+        "answer": "Hollywood",
+        "evidence": [
+            "The Way of a Man->director->George B. Seitz",
+            "George B. Seitz->place of death->Hollywood"
+        ]
+    },
+    {
+        "question": "When was the performer of song As Long As I Live born?",
+        "answer": "June 30, 1917",
+        "evidence": [
+            "As Long as I Live->performer->Lena Horne",
+            "Lena Horne->date of birth->June 30, 1917"
+        ]
+    },
+    {
+        "question": "Which country the director of film The Fighting Preacher is from?",
+        "answer": "American",
+        "evidence": [
+            "The Fighting Preacher->director->T. C. Christensen",
+            "T. C. Christensen->country of citizenship->American"
+        ]
+    },
+    {
+        "question": "Are both directors of films Unheimliche Geschichten (1919 Film) and Under Your Skin (Film) from the same country?",
+        "answer": "no",
+        "evidence": [
+            "Unheimliche Geschichten (1919 film)->director->Richard Oswald",
+            "Under Your Skin (film)->director->Mikko Niskanen",
+            "Richard Oswald->country of citizenship->Austrian",
+            "Mikko Niskanen->country of citizenship->Finnish"
+        ]
+    },
+    {
+        "question": "Which film whose director was born first, Love $ Greed or The Husband Hunter?",
+        "answer": "The Husband Hunter",
+        "evidence": [
+            "The Husband Hunter->director->Howard M. Mitchell",
+            "Love $ Greed->director->Bashar Shbib",
+            "Howard M. Mitchell->date of birth->December 11, 1883",
+            "Bashar Shbib->date of birth->June 25, 1959"
+        ]
+    },
+    {
+        "question": "Which film has the director who was born earlier, People To Each Other or Tali-Ihantala 1944?",
+        "answer": "People To Each Other",
+        "evidence": [
+            "People to Each Other->director->Gerhard Lamprecht",
+            "Tali-Ihantala 1944->director->\u00c5ke Lindman",
+            "Gerhard Lamprecht->date of birth->6 October 1897",
+            "\u00c5ke Lindman->date of birth->11 January 1928"
+        ]
+    },
+    {
+        "question": "When is the director of film My Golden Days 's birthday?",
+        "answer": "31 October 1960",
+        "evidence": [
+            "My Golden Years->director->Arnaud Desplechin",
+            "Arnaud Desplechin->date of birth->31 October 1960"
+        ]
+    },
+    {
+        "question": "What is the date of birth of the performer of song My Heart Would Know?",
+        "answer": "September 17, 1923",
+        "evidence": [
+            "My Heart Would Know->performer->Hank Williams",
+            "Hank Williams->date of birth->September 17, 1923"
+        ]
+    },
+    {
+        "question": "Which album was released first, The Soul Sessions or Furnace Room Lullaby?",
+        "answer": "Furnace Room Lullaby",
+        "evidence": [
+            "Furnace Room Lullaby->publication date->2000",
+            "The Soul Sessions->publication date->16 September 2003"
+        ]
+    },
+    {
+        "question": "Where was the father of Charles Lennox, 1St Duke Of Richmond born?",
+        "answer": "London",
+        "evidence": [
+            "Charles Lennox, 1st Duke of Richmond->father->Charles II",
+            "Charles II->place of birth->London"
+        ]
+    },
+    {
+        "question": "Which country the composer of song Peace Frog is from?",
+        "answer": "American",
+        "evidence": [
+            "Peace Frog->composer->Jim Morrison",
+            "Jim Morrison->country of citizenship->American"
+        ]
+    }
+]

@@ -1,0 +1,672 @@
+{
+    "first_hops": {
+        "United Nations": {
+            "term": "United Nations",
+            "passage": "The United Nations (UN) is an intergovernmental organization founded on 24 October 1945 to promote international cooperation and to create and maintain international order. A replacement for the ineffective League of Nations, the organization was established with the aim of preventing another world war. At its founding, the UN had 51 member states; there are now 193. The headquarters of the UN is in Manhattan, New York City, and experiences extraterritoriality. Further main offices are situated in Geneva, Nairobi, and Vienna. The organization is financed by assessed and voluntary contributions from its member states. Its objectives include maintaining international peace and security, promoting cooperation in solving international economic, social, and cultural problems, and promoting and encouraging respect for human rights and fundamental freedoms. The UN is the largest, most familiar, and most important of the world organizations that are concerned with international relations.",
+            "qae_pairs": [
+                {
+                    "question": "* What is the headquarters of the United Nations? * What is the capital of the United States? * What is the largest city in the United States? * What is the most populous city in the world?",
+                    "answer": "New York City",
+                    "explanation": "The headquarters of the UN is in Manhattan, New York City, and experiences extraterritoriality."
+                },
+                {
+                    "question": "'What is the name of the main office of the United Nations located in Africa?'",
+                    "answer": "Nairobi",
+                    "explanation": "The headquarters of the UN is in Manhattan, New York City, and experiences extraterritoriality. Explanation: The above sentence provides an explanation that the main office of the United Nations is located in Manhattan, New York City, which is a city in the United States. The phrase experiences extraterritoriality implies that the UN headquarters has a special legal status that gives it certain privileges and immunities that are not granted to other organizations or individuals in the host country."
+                },
+                {
+                    "question": "A. What is the date of establishment of the United Nations? B. What is the date of the League of Nations' ineffectiveness? C. What is the date of the establishment of the headquarters of the United Nations? D. What is the date of the establishment of the main offices of",
+                    "answer": "24 October 1945",
+                    "explanation": "The United Nations (UN) is an intergovernmental organization founded on 24 October 1945 to promote international cooperation and to create and maintain international order."
+                },
+                {
+                    "question": "What is the organization that was established with the aim of preventing another world war and was replaced by the United Nations?",
+                    "answer": "League of Nations",
+                    "explanation": "The organization was established with the aim of preventing another world war."
+                },
+                {
+                    "question": "What is the location of the headquarters of the United Nations?",
+                    "answer": "Manhattan",
+                    "explanation": "The headquarters of the UN is in Manhattan, New York City, and experiences extraterritoriality."
+                },
+                {
+                    "question": "'What is the name of the main office of the United Nations located in?'",
+                    "answer": "Geneva",
+                    "explanation": "The headquarters of the UN is in Manhattan, New York City, and experiences extraterritoriality."
+                }
+            ],
+            "hops": [
+                "International Labour Organization",
+                "United Nations"
+            ]
+        },
+        "World Health Organization": {
+            "term": "World Health Organization",
+            "passage": "The World Health Organization (WHO) is a specialized agency of the United Nations (UN) that is responsible for international public health. It was established on 7 April 1948, with its headquarters in Geneva, Switzerland. WHO's primary role is to direct and coordinate international health within the UN system. The organization aims to promote healthy lifestyles, prevent diseases, and provide universal access to health care. WHO's work focuses on several key areas, including communicable diseases, non-communicable diseases, mental health, and health systems strengthening. The organization works closely with governments, other UN agencies, and international partners to develop and implement global health strategies and initiatives. One of WHO's most significant achievements has been the eradication of smallpox in 1980. The organization also played a critical role in controlling the spread of HIV/AIDS, tuberculosis, and malaria. WHO has also been instrumental in the development of vaccines and other medical technologies that have saved millions of lives. In addition to its work on infectious diseases, WHO also focuses on promoting healthy lifestyles and preventing non-communicable diseases such as heart disease, cancer, and diabetes. The organization works to reduce tobacco and alcohol use, promote healthy eating habits, and increase physical activity. WHO also supports health systems strengthening, which involves improving the quality and accessibility of health care services. This includes training health workers, strengthening health systems infrastructure, and improving the availability of essential medicines and technologies. Overall, WHO plays a critical role in promoting global health and preventing disease.",
+            "qae_pairs": [
+                {
+                    "question": "What is the headquarters of the World Health Organization (WHO)?",
+                    "answer": "Switzerland",
+                    "explanation": "The organization works to reduce tobacco and alcohol use, promote healthy eating habits, and increase physical activity."
+                },
+                {
+                    "question": "What year was smallpox eradicated?",
+                    "answer": "1980",
+                    "explanation": "One of WHO's most significant achievements has been the eradication of smallpox in 1980."
+                },
+                {
+                    "question": "What is the date on which the World Health Organization (WHO) was established?",
+                    "answer": "7 April 1948",
+                    "explanation": "The World Health Organization (WHO) was established on 7 April 1948."
+                },
+                {
+                    "question": "What is the name of the specialized agency of the United Nations that is responsible for international public health?",
+                    "answer": "WHO",
+                    "explanation": "WHO's primary role is to direct and coordinate international health within the UN system."
+                }
+            ],
+            "hops": [
+                "World Health Organization"
+            ]
+        },
+        "International Monetary Fund": {
+            "term": "International Monetary Fund",
+            "passage": "The International Monetary Fund (IMF) is an international organization headquartered in Washington, D.C., of 194 member countries that works to foster global monetary cooperation, secure financial stability, facilitate international trade, promote high employment and sustainable economic growth, and reduce poverty around the world. Created in 1944 at the Bretton Woods Conference, it came into existence on December 27, 1945, when the first 29 countries ratified its Articles of Agreement. The IMF's primary purpose is to ensure the stability of the international monetary system—the system of exchange rates and international payments that enables countries to transact with each other. The Fund's mandate was updated in 2012 to include focus on financial stability and to help member countries to achieve sustainable economic growth. The IMF provides policy advice and financial assistance to member countries to help them achieve macroeconomic stability and reduce poverty. It works closely with other international organizations, such as the World Bank and the World Trade Organization, to achieve these goals. The IMF is an observer at the United Nations and works closely with the World Bank to achieve the Sustainable Development Goals (SDGs).",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the international organization that works to promote peace, security, and sustainable development around the world?",
+                    "answer": "the United Nations",
+                    "explanation": "The IMF provides policy advice and financial assistance to member countries to help them achieve macroeconomic stability and reduce poverty. The International Monetary Fund (IMF) is an international organization that provides policy advice and financial assistance to member countries to help them achieve macroeconomic stability and reduce poverty."
+                },
+                {
+                    "question": "A. What is the capital of United States of America? B. Which country is the headquarters of International Monetary Fund? C. What is the primary purpose of International Monetary Fund? D. Which international organization works closely with the World Bank to achieve the Sustainable Development Go",
+                    "answer": "Washington",
+                    "explanation": "The IMF provides policy advice and financial assistance to member countries to help them achieve macroeconomic stability and reduce poverty."
+                },
+                {
+                    "question": "What is the name of the international organization that works to foster global monetary cooperation, secure financial stability, facilitate international trade, promote high employment and sustainable economic growth, and reduce poverty around the world?",
+                    "answer": "IMF",
+                    "explanation": "The IMF's primary purpose is to ensure the stability of the international monetary system—the system of exchange rates and international payments that enables countries to transact with each other."
+                },
+                {
+                    "question": "What is the capital of the United States? What is the headquarters of the International Monetary Fund? What is the full name of the International Monetary Fund? What is the primary purpose of the International Monetary Fund? What is the mandate of the International Monetary Fund",
+                    "answer": "D.C",
+                    "explanation": "The International Monetary Fund (IMF) is an international organization headquartered in Washington, D.C., of 194 member countries that works to foster global monetary cooperation, secure financial stability, facilitate international trade, promote high employment and sustainable economic growth, and reduce poverty around the world."
+                },
+                {
+                    "question": "What year was the International Monetary Fund created?",
+                    "answer": "1944",
+                    "explanation": "The International Monetary Fund (IMF) was created in 1944 at the Bretton Woods Conference."
+                },
+                {
+                    "question": "What is the year when the IMF's mandate was updated to include focus on financial stability and to help member countries to achieve sustainable economic growth?",
+                    "answer": "2012",
+                    "explanation": "The IMF's mandate was updated in 2012 to include focus on financial stability and to help member countries to achieve sustainable economic growth."
+                }
+            ],
+            "hops": [
+                "International Monetary Fund"
+            ]
+        },
+        "World Bank": {
+            "term": "World Bank",
+            "passage": "The World Bank is an international financial institution that provides loans to developing countries for capital programs. It comprises two institutions: the International Bank for Reconstruction and Development (IBRD), and the International Development Association (IDA). The World Bank is a component of the World Bank Group, which is part of the United Nations system. The World Bank's official goal is the reduction of poverty. It is one of several institutions created at the 1944 Bretton Woods Conference, the others being the International Monetary Fund (IMF) and the General Agreement on Tariffs and Trade (GATT), which later became the World Trade Organization (WTO). The World Bank's activities are focused on developing countries, and it has a strong focus on poverty reduction through job creation and economic growth. It provides loans for projects in a variety of sectors, including agriculture, education, health, infrastructure, and governance. The World Bank also provides grants, technical assistance, and capacity building to help countries develop their own resources and manage their own affairs. The World Bank is headquartered in Washington, D.C., and has regional offices around the world. It is governed by a Board of Governors, which is made up of representatives from each member country. The President of the World Bank is currently David Malpass, who has held the position since April 2019.",
+            "qae_pairs": [
+                {
+                    "question": "\"Who is the current President of the World Bank?\"",
+                    "answer": "David Malpass",
+                    "explanation": "The World Bank is an international financial institution that provides loans to developing countries for capital programs."
+                },
+                {
+                    "question": "What is the capital of the United States?",
+                    "answer": "D.C",
+                    "explanation": "The World Bank is an international financial institution that provides loans to developing countries for capital programs. Rationale: The evidence sentence explains the main function of the World Bank, which is to provide loans to developing countries for capital programs. This supports the question asking for the capital of the United States, as the World Bank is an international financial institution and the capital of the United States is Washington D.C. Sentence: The World Bank is an international financial institution that provides loans to developing countries for capital programs."
+                },
+                {
+                    "question": "A) What is the capital of the United States? B) What is the name of the international financial institution that provides loans to developing countries for capital programs? C) What is the name of the conference that was held in 1944 to establish the World Bank and the International Monet",
+                    "answer": "Washington",
+                    "explanation": "Passage: The World Bank is an international financial institution that provides loans to developing countries for capital programs. Evidence sentence: The World Bank is an international financial institution that provides loans to developing countries for capital programs."
+                },
+                {
+                    "question": "What year was the Bretton Woods Conference held?",
+                    "answer": "1944",
+                    "explanation": "The World Bank is one of several institutions created at the 1944 Bretton Woods Conference."
+                }
+            ],
+            "hops": [
+                "World Bank"
+            ]
+        },
+        "International Atomic Energy Agency": {
+            "term": "International Atomic Energy Agency",
+            "passage": "The International Atomic Energy Agency (IAEA) is an international organization that promotes the peaceful use of nuclear energy and seeks to prevent nuclear weapons proliferation. The IAEA was established as an autonomous organization on 29 July 1957. The IAEA has its headquarters in Vienna, Austria. The IAEA has three main functions: 1. To encourage the development of the peaceful uses of nuclear energy, providing incentives and assistance to Member States to utilize nuclear technology for peaceful purposes. 2. To promote the safe and secure use of nuclear materials and to minimize the risks associated with the use of nuclear energy. 3. To verify that nuclear materials and activities are not used for military purposes, through a system of inspections and safeguards. The IAEA works with its Member States to provide technical assistance and training, and to promote the exchange of scientific and technical information. The IAEA also conducts research and development in the field of nuclear science and technology, and provides advice and guidance to Member States on nuclear matters. The IAEA has a wide range of responsibilities, including the administration of safeguards agreements, the verification of nuclear material and activities, and the provision of technical assistance to Member States. The IAEA also provides support to countries in the event of a nuclear accident or radiological emergency. The IAEA is governed by its Member States, who elect the IAEA's Board of Governors and the IAEA's Director General. The IAEA's Director General is responsible for the overall management and direction of the organization. The IAEA's budget is funded through assessed contributions from its Member States.",
+            "qae_pairs": [
+                {
+                    "question": "A. What is the headquarters of the International Atomic Energy Agency? B. What is the name of the organization that promotes the peaceful use of nuclear energy and seeks to prevent nuclear weapons proliferation? C. What are the three main functions of the International Atomic Energy Agency?",
+                    "answer": "Vienna",
+                    "explanation": "The IAEA has its headquarters in Vienna, Austria."
+                },
+                {
+                    "question": "What is the name of the governing body of the International Atomic Energy Agency (IAEA)?",
+                    "answer": "Board of Governors",
+                    "explanation": "The IAEA is governed by its Member States, who elect the IAEA's Board of Governors and the IAEA's Director General."
+                }
+            ],
+            "hops": [
+                "International Atomic Energy Agency"
+            ]
+        },
+        "International Criminal Court": {
+            "term": "International Criminal Court",
+            "passage": "The International Criminal Court (ICC) is an intergovernmental organization and international tribunal that sits in The Hague in the Netherlands. The ICC has the power to prosecute individuals for international crimes such as genocide, crimes against humanity, war crimes, and the crime of aggression. The ICC was established in 2002 and is the first permanent international criminal court. The ICC has jurisdiction over crimes committed on the territory of a state party or by a national of a state party, as well as over crimes committed by an individual on the territory of a state party if that individual is a national of a state party. The ICC operates on the principle of complementarity, meaning that it can only exercise jurisdiction if national courts are unable or unwilling to prosecute. The ICC is funded by its member states and has 123 member states as of 2021. The ICC has faced criticism for its perceived bias against African countries and its lack of jurisdiction over powerful nations such as the United States.",
+            "qae_pairs": [
+                {
+                    "question": "Which country is the capital of?",
+                    "answer": "Netherlands",
+                    "explanation": "The ICC has jurisdiction over crimes committed on the territory of a state party or by a national of a state party, as well as over crimes committed by an individual on the territory of a state party if that individual is a national of a state party."
+                },
+                {
+                    "question": "Which nations are not members of the International Criminal Court?",
+                    "answer": "the United States",
+                    "explanation": "The ICC is the first permanent international criminal court."
+                },
+                {
+                    "question": "A. What is the International Criminal Court (ICC)? B. When was the ICC established? C. Where is the ICC located? D. What is the jurisdiction of the ICC? E. How is the ICC funded? The answer is B",
+                    "answer": "2002",
+                    "explanation": "The ICC was established in 2002 and is the first permanent international criminal court."
+                }
+            ],
+            "hops": [
+                "International Criminal Court"
+            ]
+        },
+        "International Olympic Committee": {
+            "term": "International Olympic Committee",
+            "passage": "The International Olympic Committee (IOC) is the supreme authority of the Olympic Movement. It is an international non-profit and non-governmental organization based in Lausanne, Switzerland, created by the French educator Baron Pierre de Coubertin on 23 June 1894 with the aim of reviving the Olympic Games, which had not been held since 393 AD. The IOC is responsible for selecting the host city for each Olympic Games, and organizing the games. It also determines the Olympic programme, selects the athletes, and hands out the medals. The IOC consists of 95 members, who are elected by the members of the IOC. The IOC meets at least once a year, and its decisions are final in all matters related to the Olympic Games. The IOC works with a number of international organizations, including the United Nations, to promote Olympism and the Olympic Movement. The IOC has three main missions: to promote Olympic sports, to support the Olympic Movement, and to contribute to building a peaceful and better world by educating youth through sport practiced without discrimination of any kind and in the Olympic spirit, which requires mutual understanding, friendship, fair play, and respect.",
+            "qae_pairs": [
+                {
+                    "question": "\"Who is the founder of the International Olympic Committee (IOC)?\"",
+                    "answer": "Pierre de Coubertin",
+                    "explanation": "The IOC is responsible for selecting the host city for each Olympic Games, and organizing the games. It also determines the Olympic programme, selects the athletes, and hands out the medals. The IOC consists of 95 members, who are elected by the members of the IOC. The IOC meets at least once a year, and its decisions are final in all matters related to the Olympic Games. The IOC works with a number of international organizations, including the United Nations, to promote Olympism and the Olympic Movement."
+                },
+                {
+                    "question": "What is the organization that the International Olympic Committee works with to promote Olympism and the Olympic Movement?",
+                    "answer": "the United Nations",
+                    "explanation": "The IOC works with a number of international organizations, including the United Nations, to promote Olympism and the Olympic Movement."
+                },
+                {
+                    "question": "What year were the Olympic Games last held before the revival of the Olympic Games in 1896?",
+                    "answer": "393 AD",
+                    "explanation": "The IOC is responsible for selecting the host city for each Olympic Games, and organizing the games."
+                },
+                {
+                    "question": "A) What is the date of the creation of the International Olympic Committee (IOC)? B) What is the date of the last Olympic Games held? C) What is the date of the next Olympic Games to be held? D) What is the date of the IOC's annual meeting",
+                    "answer": "23 June 1894",
+                    "explanation": "The IOC is responsible for selecting the host city for each Olympic Games, and organizing the games. It also determines the Olympic programme, selects the athletes, and hands out the medals."
+                },
+                {
+                    "question": "'What is the country where the International Olympic Committee (IOC) is based?'",
+                    "answer": "Switzerland",
+                    "explanation": "The IOC is responsible for selecting the host city for each Olympic Games, and organizing the games. It also determines the Olympic programme, selects the athletes, and hands out the medals."
+                }
+            ],
+            "hops": [
+                "International Olympic Committee"
+            ]
+        },
+        "World Trade Organization": {
+            "term": "World Trade Organization",
+            "passage": "The World Trade Organization (WTO) is an intergovernmental organization that is concerned with the regulation of international trade. Its main functions include providing a framework for negotiating and enforcing trade agreements, resolving trade disputes, and reviewing and harmonizing trade policies. The WTO is also responsible for the administration of the General Agreement on Tariffs and Trade (GATT), which is the legal foundation of the organization. The WTO has 164 member states as of 2021, representing more than 98% of global trade. The organization was established on January 1, 1995, and is headquartered in Geneva, Switzerland. The WTO's member states negotiate and set rules for international trade through a series of agreements, known as the WTO agreements. These agreements cover a wide range of issues, including trade in goods and services, intellectual property rights, and trade-related aspects of investment. The WTO also provides a forum for member states to negotiate and settle trade disputes, and it monitors national trade policies for compliance with WTO agreements. The organization's decisions are made by the Ministerial Conference, which is composed of representatives from all member states, and by the General Council, which is composed of representatives from each member state. The WTO is widely regarded as the successor to the General Agreement on Tariffs and Trade (GATT), which was established in 1947. The GATT was designed to promote free trade by reducing tariffs and other trade barriers, and it was the foundation of the post-war international economic system. The WTO was established in 1995 as a successor to the GATT, with the aim of creating a more effective and transparent system for regulating international trade.",
+            "qae_pairs": [
+                {
+                    "question": "What is the forum for member states to negotiate and settle trade disputes, and it monitors national trade policies for compliance with WTO agreements?",
+                    "answer": "the Ministerial Conference",
+                    "explanation": "The WTO is widely regarded as the successor to the General Agreement on Tariffs and Trade (GATT), which was established in 1947. Evidence sentence: The WTO is widely regarded as the successor to the General Agreement on Tariffs and Trade (GATT), which was established in 1947."
+                },
+                {
+                    "question": "What is the legal foundation of the World Trade Organization (WTO)?",
+                    "answer": "GATT",
+                    "explanation": "The WTO is also responsible for the administration of the General Agreement on Tariffs and Trade (GATT), which is the legal foundation of the organization."
+                },
+                {
+                    "question": "What is the capital of Switzerland? What is the currency of Switzerland? What is the main language spoken in Switzerland? What is the highest mountain in Switzerland? What is the main religion in Switzerland? What is the main industry in Switzerland? What is the",
+                    "answer": "Geneva",
+                    "explanation": "The WTO is widely regarded as the successor to the General Agreement on Tariffs and Trade (GATT), which was established in 1947."
+                },
+                {
+                    "question": "What year was the General Agreement on Tariffs and Trade (GATT) established?",
+                    "answer": "1947",
+                    "explanation": "The WTO is widely regarded as the successor to the General Agreement on Tariffs and Trade (GATT), which was established in 1947."
+                },
+                {
+                    "question": "What is the name of the body that is composed of representatives from each member state and is responsible for making decisions for the World Trade Organization?",
+                    "answer": "the General Council",
+                    "explanation": "The WTO is also responsible for the administration of the General Agreement on Tariffs and Trade (GATT), which is the legal foundation of the organization. Evidence sentence: The WTO is widely regarded as the successor to the General Agreement on Tariffs and Trade (GATT), which was established in 1947."
+                },
+                {
+                    "question": "What is the legal foundation of the World Trade Organization?",
+                    "answer": "the General Agreement on Tariffs and Trade",
+                    "explanation": "The WTO is also responsible for the administration of the General Agreement on Tariffs and Trade (GATT), which is the legal foundation of the organization."
+                }
+            ],
+            "hops": [
+                "World Trade Organization"
+            ]
+        },
+        "International Labour Organization": {
+            "term": "International Labour Organization",
+            "passage": "The International Labour Organization (ILO) is a United Nations agency dealing with labor issues, particularly international labor standards, social protection, and work opportunities for all. The ILO has 187 member states: 186 of the 193 UN member states plus the Cook Islands are members of the ILO. The ILO was established in 1919 as an agency of the League of Nations under the Treaty of Versailles. The organization's initial focus was to address the social and economic consequences of World War I, but its mandate was quickly expanded to cover all aspects of labor relations and workers' rights. After the demise of the League of Nations, the ILO became one of the 11 specialized agencies of the United Nations in 1946. The ILO's primary role is to formulate international labor standards in the form of conventions and recommendations that set minimum standards of basic labor rights. These standards are negotiated and adopted by governments, employers, and workers from member states. The ILO also provides technical assistance to member states to help them improve their labor practices and social protection systems. The ILO's work is guided by the principles of social justice and decent work for all. The organization seeks to promote social and economic development by improving working conditions, promoting social protection, and increasing opportunities for decent and productive work for all. The ILO also works to eliminate child labor and forced labor, and to promote gender equality in the workplace. The ILO has a unique tripartite structure, with representatives from governments, employers, and workers from member states. This structure ensures that the organization's decisions are made through a democratic and consultative process that takes into account the interests of all stakeholders.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the international organization that was established in 1945 to replace the League of Nations and to promote international cooperation and maintain international peace and security?",
+                    "answer": "United Nations",
+                    "explanation": "The ILO seeks to promote social and economic development by improving working conditions, promoting social protection, and increasing opportunities for decent and productive work for all."
+                },
+                {
+                    "question": "What is the name of the United Nations agency that deals with labor issues, particularly international labor standards, social protection, and work opportunities for all?",
+                    "answer": "ILO",
+                    "explanation": "The ILO was established in 1919 as an agency of the League of Nations under the Treaty of Versailles."
+                },
+                {
+                    "question": "What is the name of the country that is not a member of the ILO?",
+                    "answer": "the Cook Islands",
+                    "explanation": "The ILO has 187 member states: 186 of the 193 UN member states plus the Cook Islands are members of the ILO."
+                },
+                {
+                    "question": "What year was the International Labour Organization established?",
+                    "answer": "1919",
+                    "explanation": "The ILO was established in 1919 as an agency of the League of Nations under the Treaty of Versailles."
+                }
+            ],
+            "hops": [
+                "International Labour Organization"
+            ]
+        },
+        "Food and Agriculture Organization of the United Nations": {
+            "term": "Food and Agriculture Organization of the United Nations",
+            "passage": "The Food and Agriculture Organization of the United Nations (FAO) is a specialized agency of the United Nations that leads international efforts to defeat hunger. Serving both developed and developing countries, FAO acts as a neutral forum where all nations meet as equals to negotiate agreements and debate policy. FAO is also a source of knowledge and information, and helps developing countries and countries in transition modernize and improve their agriculture, forestry and fisheries practices, ensuring good nutrition and food security for all.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the specialized agency of the United Nations that leads international efforts to defeat hunger?",
+                    "answer": "FAO",
+                    "explanation": "FAO is a specialized agency of the United Nations that leads international efforts to defeat hunger."
+                }
+            ],
+            "hops": [
+                "Food and Agriculture Organization of the United Nations"
+            ]
+        }
+    },
+    "second_hops": {
+        "New York City": {
+            "term": "New York City",
+            "passage": "New York City is the most populous city in the United States, with an estimated 8,336,817 residents as of 2020. It is located in the northeastern part of the country, in the state of New York, on the Atlantic coast. The city is composed of five boroughs: Manhattan, Brooklyn, Queens, the Bronx, and Staten Island. It is the economic and cultural center of the United States, and one of the most important global cities in the world. The city is home to the headquarters of the United Nations, and many major corporations have their main offices in New York City, including JPMorgan Chase, Citigroup, and Goldman Sachs. The city is also a major center for international finance, commerce, and trade. It is home to many famous landmarks, including the Statue of Liberty, the Empire State Building, and Central Park. The city is known for its diverse population, with more than 800 languages spoken in the city. It is also a major center for arts and culture, with many museums, galleries, and theaters. The city is home to many professional sports teams, including the New York Yankees, the New York Mets, and the New York Knicks.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the famous park located in the heart of New York City?",
+                    "answer": "Central Park",
+                    "explanation": "New York City is the economic and cultural center of the United States, and one of the most important global cities in the world."
+                },
+                {
+                    "question": "What global company is headquartered in New York City and specializes in investment banking and asset management?",
+                    "answer": "Goldman Sachs",
+                    "explanation": "New York City is the economic and cultural center of the United States, and one of the most important global cities in the world."
+                }
+            ],
+            "hops": [
+                "United Nations",
+                "New York City"
+            ]
+        },
+        "League of Nations": {
+            "term": "League of Nations",
+            "passage": "The League of Nations was an intergovernmental organization founded as a result of the Treaty of Versailles in 1919, after the end of World War I. The League's primary goals were to promote international cooperation and to achieve peace and security by preventing conflicts between nations. The League aimed to create a framework for resolving disputes between nations and for promoting disarmament, but it was ultimately unable to prevent the outbreak of World War II. The League of Nations ceased its operations in April 1946, and its remaining functions were transferred to the United Nations.",
+            "qae_pairs": [
+                {
+                    "question": "What year was the League of Nations founded?",
+                    "answer": "1919",
+                    "explanation": "The League of Nations was an intergovernmental organization founded as a result of the Treaty of Versailles in 1919, after the end of World War I."
+                }
+            ],
+            "hops": [
+                "United Nations",
+                "League of Nations"
+            ]
+        },
+        "Manhattan": {
+            "term": "Manhattan",
+            "passage": "Manhattan is a borough of New York City, coterminous with New York County, located in the U.S. state of New York. It is the oldest and most densely populated of the five boroughs of New York City. It is situated at the mouth of the Hudson River and is separated from the mainland by the East River and Harlem River. The borough is home to many iconic landmarks, such as the Empire State Building, the Statue of Liberty, and Central Park. Manhattan is also home to many cultural institutions, such as the Metropolitan Museum of Art, the Museum of Modern Art, and the Broadway theater district. The borough is home to many major corporations, including JPMorgan Chase, Citigroup, and Morgan Stanley. Manhattan is also a major center for international business and finance, and is one of the world's largest financial centers.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the largest park in Manhattan?",
+                    "answer": "Central Park",
+                    "explanation": "The borough is home to many iconic landmarks, such as the Empire State Building, the Statue of Liberty, and Central Park."
+                }
+            ],
+            "hops": [
+                "United Nations",
+                "Manhattan"
+            ]
+        },
+        "Geneva": {
+            "term": "Geneva",
+            "passage": "Geneva is a city in Switzerland that is located at the southern tip of Lake Geneva. It is the second most populous city in Switzerland, with a population of over 200,000 people. Geneva is known for its rich history and culture, as well as its stunning scenery and beautiful architecture. The city is home to many museums, galleries, and other cultural institutions, including the Museum of Modern and Contemporary Art, the International Red Cross and Red Crescent Museum, and the Patek Philippe Museum. Geneva is also famous for its luxury watches and jewelry, which are produced by many of the city's top manufacturers. The city is also home to many beautiful parks and gardens, including the Jardin Anglais and the Parc des Bastions. Geneva is a popular tourist destination, with millions of visitors each year.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the museum in Geneva that is dedicated to the history and work of the Red Crescent?",
+                    "answer": "Red Crescent Museum",
+                    "explanation": "The city is home to many museums, galleries, and other cultural institutions, including the Museum of Modern and Contemporary Art, the International Red Cross and Red Crescent Museum, and the Patek Philippe Museum."
+                },
+                {
+                    "question": "What organization is located in Geneva and is known for its humanitarian work, including providing aid to victims of war and natural disasters?",
+                    "answer": "the International Red Cross",
+                    "explanation": "The city is home to many museums, galleries, and other cultural institutions, including the Museum of Modern and Contemporary Art, the International Red Cross and Red Crescent Museum, and the Patek Philippe Museum."
+                }
+            ],
+            "hops": [
+                "United Nations",
+                "Geneva"
+            ]
+        },
+        "Washington": {
+            "term": "Washington",
+            "passage": "Washington is the capital city of the United States, located in the District of Columbia. It is named after George Washington, the first President of the United States. The city has a population of approximately 700,000 people, making it the 24th most populous city in the country. It is also the second most populous city in the state of Virginia, after Virginia Beach. Washington is known for its rich history and culture, as well as its numerous museums and monuments. The National Mall, a large park located in the heart of the city, is home to many of these landmarks, including the Lincoln Memorial, the Washington Monument, and the Smithsonian Institution museums. The city is also home to numerous other cultural institutions, such as the Kennedy Center for the Performing Arts and the National Gallery of Art. In addition to its cultural attractions, Washington is also a major center of government and politics. The White House, the official residence of the President of the United States, is located in the city, as is the United States Capitol, the seat of Congress. The city is also home to numerous government agencies and think tanks, as well as a large number of lobbyists and other political professionals. Despite its many attractions, Washington is also known for its traffic congestion and high cost of living. The city has a number of major highways and public transportation options, including the Washington Metro subway system, but traffic can be heavy at peak times. The cost of living in the city is also relatively high, due in part to the high salaries paid to government workers and other professionals.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the museum located in Washington that is known for its collection of European and American art?",
+                    "answer": "the National Gallery of Art",
+                    "explanation": "The city is also home to numerous government agencies and think tanks, as well as a large number of lobbyists and other political professionals. Rewritten: The city is a hub for government agencies, think tanks, and political professionals, including lobbyists."
+                },
+                {
+                    "question": "What is the second most populous city in the state of Virginia, after Washington?",
+                    "answer": "Virginia Beach",
+                    "explanation": "The city has a population of approximately 700,000 people, making it the 24th most populous city in the country."
+                },
+                {
+                    "question": "What is the name of the monument located on the National Mall in Washington that honors Abraham Lincoln, the 16th President of the United States?",
+                    "answer": "the Lincoln Memorial",
+                    "explanation": "The National Mall, a large park located in the heart of the city, is home to many of these landmarks, including the Lincoln Memorial, the Washington Monument, and the Smithsonian Institution museums."
+                }
+            ],
+            "hops": [
+                "World Bank",
+                "Washington"
+            ]
+        },
+        "IMF": {
+            "term": "IMF",
+            "passage": "The International Monetary Fund (IMF) is an international organization headquartered in Washington, D.C., of 194 member countries that works to foster global monetary cooperation, secure financial stability, facilitate international trade, promote high employment and sustainable economic growth, and reduce poverty around the world. Created in 1944 at the Bretton Woods Conference, it came into existence on December 27, 1945, when the first 29 countries ratified its Articles of Agreement. The IMF's primary purpose is to ensure the stability of the international monetary system—the system of exchange rates and international payments that enables countries to transact with each other. The Fund's mandate was updated in 2012 to include focus on financial sector issues and to help member countries strengthen their capacity for financial oversight and regulation. The IMF provides policy advice and financial assistance to member countries to help them achieve macroeconomic stability and reduce poverty. It works closely with other international organizations, such as the World Bank and the World Trade Organization, to achieve these objectives. The IMF is an observer at the United Nations and participates in the United Nations Development Group.",
+            "qae_pairs": [
+                {
+                    "question": "What is the location of the International Monetary Fund (IMF)? Answer: D.C.",
+                    "answer": "D.C",
+                    "explanation": "The IMF provides policy advice and financial assistance to member countries to help them achieve macroeconomic stability and reduce poverty."
+                }
+            ],
+            "hops": [
+                "International Monetary Fund",
+                "IMF"
+            ]
+        },
+        "D.C": {
+            "term": "D.C",
+            "passage": "The District of Columbia, commonly referred to as Washington, D.C., is the capital of the United States. It is located on the northern bank of the Potomac River, which is also the border between the states of Maryland and Virginia. The city has a population of approximately 700,000 residents, making it the 24th most populous city in the country. Washington, D.C. is known for its numerous monuments and museums, many of which are dedicated to American history and culture. The National Mall, a large park located in the heart of the city, is home to several iconic landmarks, including the Lincoln Memorial, the Washington Monument, and the Smithsonian Institution's National Museum of American History. The city is also home to many important government buildings, including the White House, the Capitol Building, and the Supreme Court. The federal government employs a large number of people in the city, making it a major center of employment in the region. Washington, D.C. is a major hub for international diplomacy, with many embassies and diplomatic missions located in the city. The city is also home to a vibrant arts and culture scene, with numerous theaters, music venues, and galleries. Despite its many attractions, Washington, D.C. is also known for its traffic congestion and high cost of living. However, the city continues to be a popular destination for tourists and residents alike, drawn by its rich history, cultural offerings, and political significance.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the building in Washington, D.C. that houses the U.S. Congress?",
+                    "answer": "the Capitol Building",
+                    "explanation": "The city is also home to many important government buildings, including the White House, the Capitol Building, and the Supreme Court. Rationale: The evidence sentence provides information about the location of important government buildings in Washington, D.C., including the Capitol Building. Answer: The Capitol Building."
+                },
+                {
+                    "question": "What is the name of the monument located on the National Mall in Washington, D.C. that is dedicated to the 16th President of the United States, Abraham Lincoln?",
+                    "answer": "the Lincoln Memorial",
+                    "explanation": "The National Mall, a large park located in the heart of the city, is home to several iconic landmarks, including the Lincoln Memorial, the Washington Monument, and the Smithsonian Institution's National Museum of American History. This sentence explains that the National Mall is a large park located in the heart of Washington, D.C. and it is home to several iconic landmarks, including the Lincoln Memorial, the Washington Monument, and the Smithsonian Institution's National Museum of American History."
+                },
+                {
+                    "question": "What is the name of the building located in Washington, D.C. that serves as the highest court in the United States?",
+                    "answer": "the Supreme Court",
+                    "explanation": "The city is also home to many important government buildings, including the White House, the Capitol Building, and the Supreme Court."
+                },
+                {
+                    "question": "What is the name of the building located in D.C that is the official residence and workplace of the President of the United States?",
+                    "answer": "the White House",
+                    "explanation": "The city is also home to many important government buildings, including the White House, the Capitol Building, and the Supreme Court. This sentence explains that Washington, D.C. is home to several important government buildings, including the White House, which is the official residence and workplace of the President of the United States."
+                }
+            ],
+            "hops": [
+                "World Bank",
+                "D.C"
+            ]
+        },
+        "Vienna": {
+            "term": "Vienna",
+            "passage": "1. Vienna is the capital and largest city of Austria, and one of the nine states of Austria. 2. It is located in the eastern part of Austria and is home to 1.8 million people, or about a quarter of the country's population. 3. Vienna is known for its rich history, cultural heritage, and artistic and intellectual achievements. 4. It has been a center of music, art, and science for centuries, and is home to many famous composers, musicians, painters, and scientists. 5. Vienna is also known for its beautiful architecture, including its many palaces, churches, and museums. 6. The city is home to many important international organizations, including the United Nations and the Organization for Security and Cooperation in Europe. 7. Vienna is also famous for its coffee houses, which have been an important part of the city's culture for centuries. 8. The city is also known for its delicious cuisine, including its famous Wiener Schnitzel and Sachertorte. 9. Vienna is a popular tourist destination, attracting millions of visitors each year with its rich history, culture, and beauty.",
+            "qae_pairs": [
+                {
+                    "question": "What international organization is headquartered in Vienna, Austria, and is known for its work in promoting peace, security, and cooperation in Europe?",
+                    "answer": "the Organization for Security and Cooperation in Europe",
+                    "explanation": "Vienna is known for its rich history, cultural heritage, and artistic and intellectual achievements. It has been a center of music, art, and science for centuries, and is home to many famous composers, musicians, painters, and scientists. This sentence explains that Vienna is known for its rich history, cultural heritage, and artistic and intellectual achievements, and that it has been a center of music, art, and science for centuries, making it a city with a rich cultural and intellectual history."
+                },
+                {
+                    "question": "What international organization is located in Vienna, Austria?",
+                    "answer": "the United Nations",
+                    "explanation": "Vienna is known for its rich history, cultural heritage, and artistic and intellectual achievements. It has been a center of music, art, and science for centuries, and is home to many famous composers, musicians, painters, and scientists. This passage suggests that Vienna is known for its rich history, cultural heritage, and artistic and intellectual achievements, and that it has been a center of music, art, and science for centuries."
+                },
+                {
+                    "question": "What is the famous dessert that is associated with Vienna?",
+                    "answer": "Sachertorte",
+                    "explanation": "Vienna is also known for its beautiful architecture, including its many palaces, churches, and museums. Explanation: This sentence explains that Vienna is famous for its beautiful architecture, which includes palaces, churches, and museums."
+                }
+            ],
+            "hops": [
+                "International Atomic Energy Agency",
+                "Vienna"
+            ]
+        },
+        "Board of Governors": {
+            "term": "Board of Governors",
+            "passage": "The Board of Governors of the Federal Reserve System (FRS) is the central banking system of the United States and is considered part of the nation's central bank. It was created by the Federal Reserve Act of 1913 and is responsible for implementing monetary policy, regulating banks and other financial institutions, and maintaining the stability of the financial system. The Board of Governors is headquartered in Washington, D.C. and is composed of seven members who are appointed by the President of the United States and confirmed by the Senate. The Chair and Vice Chair of the Board are appointed by the President from among the members of the Board. The Board of Governors is an independent agency of the federal government and is not subject to the control of the President or the Congress.",
+            "qae_pairs": [
+                {
+                    "question": "What is the capital of the Board of Governors of the Federal Reserve System?",
+                    "answer": "D.C",
+                    "explanation": "The Board of Governors is headquartered in Washington, D.C. and is composed of seven members who are appointed by the President of the United States and confirmed by the Senate."
+                },
+                {
+                    "question": "What year was the Board of Governors of the Federal Reserve System established?",
+                    "answer": "1913",
+                    "explanation": "The Board of Governors of the Federal Reserve System (FRS) is the central banking system of the United States and is considered part of the nation's central bank. It was created by the Federal Reserve Act of 1913 and is responsible for implementing monetary policy, regulating banks and other financial institutions, and maintaining the stability of the financial system."
+                },
+                {
+                    "question": "What is the location of the Board of Governors of the Federal Reserve System?",
+                    "answer": "Washington",
+                    "explanation": "The Board of Governors of the Federal Reserve System (FRS) is the central banking system of the United States and is considered part of the nation's central bank. It was created by the Federal Reserve Act of 1913 and is responsible for implementing monetary policy, regulating banks and other financial institutions, and maintaining the stability of the financial system. The Board of Governors is headquartered in Washington, D.C. and is composed of seven members who are appointed by the President of the United States and confirmed by the Senate."
+                }
+            ],
+            "hops": [
+                "International Atomic Energy Agency",
+                "Board of Governors"
+            ]
+        },
+        "Netherlands": {
+            "term": "Netherlands",
+            "passage": "The Netherlands, also known as Holland, is a country located in Western Europe. It is bordered by the North Sea to the north and west, Belgium to the south, and Germany to the east. The Netherlands is a densely populated country with a population of approximately 17 million people. The country is known for its flat landscape, canals, tulip fields, and cycling culture. Amsterdam, the capital city of the Netherlands, is known for its vibrant nightlife, museums, and canals. Other major cities in the Netherlands include Rotterdam, The Hague, and Utrecht. The Netherlands is a constitutional monarchy with a parliamentary system of government. The country has a highly developed economy and is known for its agriculture, fishing, and manufacturing industries. The Netherlands is also a member of the European Union and NATO.",
+            "qae_pairs": [
+                {
+                    "question": "What is the capital city of the Netherlands, other than Amsterdam?",
+                    "answer": "The Hague",
+                    "explanation": "The Hague is the third-largest city in the Netherlands and is located in the western part of the country. It is known as the seat of the government of the Netherlands and is home to the Dutch parliament, the Supreme Court, and the Council of State."
+                },
+                {
+                    "question": "What continent is the Netherlands located in?",
+                    "answer": "Western Europe",
+                    "explanation": "The Netherlands is a densely populated country with a population of approximately 17 million people."
+                },
+                {
+                    "question": "What country is located to the east of the Netherlands?",
+                    "answer": "Germany",
+                    "explanation": "The Netherlands is a densely populated country with a population of approximately 17 million people. This sentence is an evidence sentence because it provides specific information about the population of the Netherlands."
+                },
+                {
+                    "question": "What is the other name for the country known as the Netherlands?",
+                    "answer": "Holland",
+                    "explanation": "The Netherlands is a densely populated country with a population of approximately 17 million people."
+                }
+            ],
+            "hops": [
+                "International Criminal Court",
+                "Netherlands"
+            ]
+        },
+        "Pierre de Coubertin": {
+            "term": "Pierre de Coubertin",
+            "passage": "Pierre de Coubertin was a French educator and sports administrator, born on January 1, 1863, in Paris, France. He is best known as the founder of the modern Olympic Games, which were inspired by the ancient Greek Olympics. Coubertin was a proponent of physical education and believed that sports could promote international understanding and goodwill. He was also a prominent figure in the development of the International Olympic Committee (IOC), serving as its president from 1896 to 1925. Coubertin's legacy continues to influence the Olympic Movement today, with the Olympic Charter reflecting his vision of the Games as a celebration of human achievement and a force for positive change in the world.",
+            "qae_pairs": [
+                {
+                    "question": "What was the birthplace of Pierre de Coubertin, the founder of the modern Olympic Games?",
+                    "answer": "Paris",
+                    "explanation": "Coubertin was a proponent of physical education and believed that sports could promote international understanding and goodwill."
+                }
+            ],
+            "hops": [
+                "International Olympic Committee",
+                "Pierre de Coubertin"
+            ]
+        },
+        "Switzerland": {
+            "term": "Switzerland",
+            "passage": "Switzerland, officially the Swiss Confederation, is a country situated in south-central Europe. It has a long history of neutrality—it has not been in a state of war internationally since 1815. Switzerland is a federal republic composed of 26 cantons, with federal authorities located in Bern. The country is situated in the Alps, and is bordered by Italy to the south, France to the west, Germany to the north, and Austria and Liechtenstein to the east. Switzerland is a landlocked country geographically divided between the Alps, the Swiss Plateau and the Jura. The Swiss population is about 8.5 million people, as of 2021. Switzerland has a strong economy and is home to numerous multinational corporations. It is also known for its ski resorts and hiking trails. The official languages of Switzerland are German, French, Italian, and Romansh. Switzerland is also known for its chocolate, cheese, and watches. The country has a high standard of living and is ranked as the wealthiest country in the world by per capita gross domestic product. Switzerland is also known for its political stability and high level of social welfare.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the region in Switzerland that is situated between the Alps and the Jura?",
+                    "answer": "the Swiss Plateau",
+                    "explanation": "Switzerland is a landlocked country geographically divided between the Alps, the Swiss Plateau and the Jura."
+                },
+                {
+                    "question": "What country is located to the south of Switzerland?",
+                    "answer": "Italy",
+                    "explanation": "Switzerland is a landlocked country geographically divided between the Alps, the Swiss Plateau and the Jura."
+                },
+                {
+                    "question": "What is the official language of Switzerland that is not widely spoken?",
+                    "answer": "Romansh",
+                    "explanation": "Switzerland is a federal republic composed of 26 cantons, with federal authorities located in Bern. The country is situated in the Alps, and is bordered by Italy to the south, France to the west, Germany to the north, and Austria and Liechtenstein to the east. This sentence provides information about the political structure of Switzerland as a federal republic with 26 cantons and its location in the Alps, surrounded by neighboring countries."
+                }
+            ],
+            "hops": [
+                "International Olympic Committee",
+                "Switzerland"
+            ]
+        },
+        "GATT": {
+            "term": "GATT",
+            "passage": "The General Agreement on Tariffs and Trade (GATT) was a multilateral treaty that was in force from 1947 to 1994. It was the first international agreement negotiated under the auspices of the United Nations and aimed to promote free trade by reducing tariffs and other trade barriers. The GATT was signed by 23 countries in Geneva, Switzerland, in 1947, and was later expanded to include more than 100 countries. The GATT was replaced by the World Trade Organization (WTO) in 1995, which continues to promote free trade and resolve trade disputes between member countries.",
+            "qae_pairs": [
+                {
+                    "question": "What was the location of the signing of the General Agreement on Tariffs and Trade (GATT) in 1947, which was replaced by the World Trade Organization (WTO) in 1995?",
+                    "answer": "Switzerland",
+                    "explanation": "The GATT was signed by 23 countries in Geneva, Switzerland, in 1947."
+                }
+            ],
+            "hops": [
+                "World Trade Organization",
+                "GATT"
+            ]
+        },
+        "the General Agreement on Tariffs and Trade": {
+            "term": "the General Agreement on Tariffs and Trade",
+            "passage": "The General Agreement on Tariffs and Trade (GATT) was a multilateral agreement that was created after World War II to promote free trade and reduce trade barriers between nations. The agreement was first signed in 1947 and was in effect until 1994, when it was replaced by the World Trade Organization (WTO). The GATT aimed to reduce tariffs and other trade barriers, and to promote the liberalization of international trade. The agreement was successful in reducing tariffs and increasing trade between nations, but it also faced criticism for its lack of enforcement mechanisms and its failure to address other trade-related issues such as subsidies and intellectual property rights. Despite these criticisms, the GATT remains an important milestone in the history of international trade and continues to influence trade policies around the world.",
+            "qae_pairs": [
+                {
+                    "question": "What year did the General Agreement on Tariffs and Trade (GATT) end?",
+                    "answer": "1994",
+                    "explanation": "The GATT aimed to reduce tariffs and other trade barriers, and to promote the liberalization of international trade."
+                },
+                {
+                    "question": "What organization replaced the General Agreement on Tariffs and Trade (GATT) in 1994?",
+                    "answer": "WTO",
+                    "explanation": "The GATT aimed to reduce tariffs and other trade barriers, and to promote the liberalization of international trade."
+                },
+                {
+                    "question": "What was the year in which the General Agreement on Tariffs and Trade (GATT) was first signed?",
+                    "answer": "1947",
+                    "explanation": "The agreement was first signed in 1947 and was in effect until 1994, when it was replaced by the World Trade Organization (WTO)."
+                }
+            ],
+            "hops": [
+                "World Trade Organization",
+                "the General Agreement on Tariffs and Trade"
+            ]
+        },
+        "United Nations": {
+            "term": "United Nations",
+            "passage": "The United Nations (UN) is an intergovernmental organization founded on 24 October 1945 to promote international cooperation and to create and maintain international order. A replacement for the ineffective League of Nations, the organization was established with the aim of preventing another world war. At its founding, the UN had 51 member states; there are now 193. The headquarters of the UN is in Manhattan, New York City, and experiences extraterritoriality. Further main offices are situated in Geneva, Nairobi, and Vienna. The organization is financed by assessed and voluntary contributions from its member states. Its objectives include maintaining international peace and security, promoting cooperation in solving international economic, social, and cultural problems, and promoting and encouraging respect for human rights and fundamental freedoms. The UN is the largest, most familiar, and most important of the world organizations that are concerned with international relations.",
+            "qae_pairs": [
+                {
+                    "question": "* What is the headquarters of the United Nations? * What is the capital of the United States? * What is the largest city in the United States? * What is the most populous city in the world?",
+                    "answer": "New York City",
+                    "explanation": "The headquarters of the UN is in Manhattan, New York City, and experiences extraterritoriality."
+                },
+                {
+                    "question": "'What is the name of the main office of the United Nations located in Africa?'",
+                    "answer": "Nairobi",
+                    "explanation": "The headquarters of the UN is in Manhattan, New York City, and experiences extraterritoriality. Explanation: The above sentence provides an explanation that the main office of the United Nations is located in Manhattan, New York City, which is a city in the United States. The phrase experiences extraterritoriality implies that the UN headquarters has a special legal status that gives it certain privileges and immunities that are not granted to other organizations or individuals in the host country."
+                },
+                {
+                    "question": "A. What is the date of establishment of the United Nations? B. What is the date of the League of Nations' ineffectiveness? C. What is the date of the establishment of the headquarters of the United Nations? D. What is the date of the establishment of the main offices of",
+                    "answer": "24 October 1945",
+                    "explanation": "The United Nations (UN) is an intergovernmental organization founded on 24 October 1945 to promote international cooperation and to create and maintain international order."
+                },
+                {
+                    "question": "What is the organization that was established with the aim of preventing another world war and was replaced by the United Nations?",
+                    "answer": "League of Nations",
+                    "explanation": "The organization was established with the aim of preventing another world war."
+                },
+                {
+                    "question": "What is the location of the headquarters of the United Nations?",
+                    "answer": "Manhattan",
+                    "explanation": "The headquarters of the UN is in Manhattan, New York City, and experiences extraterritoriality."
+                },
+                {
+                    "question": "'What is the name of the main office of the United Nations located in?'",
+                    "answer": "Geneva",
+                    "explanation": "The headquarters of the UN is in Manhattan, New York City, and experiences extraterritoriality."
+                }
+            ],
+            "hops": [
+                "International Labour Organization",
+                "United Nations"
+            ]
+        },
+        "ILO": {
+            "term": "ILO",
+            "passage": "The International Labour Organization (ILO) is a United Nations agency dealing with labour issues, particularly international labour standards, social protection, and work opportunities for all. The ILO has 187 member states: 186 of the 193 UN member states plus the Cook Islands are members of the ILO. The ILO's headquarters are in Geneva, Switzerland, and it was established in 1919 as an agency of the League of Nations. The ILO is the only tripartite UN agency that brings together representatives of governments, employers, and workers to jointly shape policies and programmes promoting Decent Work for all.",
+            "qae_pairs": [
+                {
+                    "question": "What organization was the International Labour Organization (ILO) established as an agency of in 1919?",
+                    "answer": "the League of Nations",
+                    "explanation": "The ILO was established in 1919 as an agency of the League of Nations."
+                }
+            ],
+            "hops": [
+                "International Labour Organization",
+                "ILO"
+            ]
+        },
+        "the Cook Islands": {
+            "term": "the Cook Islands",
+            "passage": "The Cook Islands is a self-governing island country in the South Pacific Ocean in free association with New Zealand. The Cook Islands consist of 15 islands whose total land area is 240 square kilometres. The Cook Islands' currency is the New Zealand dollar, and its head of state is the Queen of New Zealand, represented by the Cook Islands' representative in New Zealand. The Cook Islands' population is 10,574 people, making it one of the least populous countries in the world. The Cook Islands' economy is based on tourism, fishing, and remittances from emigrants. The Cook Islands' culture is a blend of Polynesian and European influences. The Cook Islands' main languages are Cook Islands Māori and English, with the latter being more widely spoken. The Cook Islands is a member of the Commonwealth of Nations, the Pacific Community, and the United Nations.",
+            "qae_pairs": [
+                {
+                    "question": "What is the location of the Cook Islands?",
+                    "answer": "the South Pacific Ocean",
+                    "explanation": "The Cook Islands consist of 15 islands whose total land area is 240 square kilometres. This sentence explains the location of the Cook Islands, which is in the South Pacific Ocean, and also provides information about the number of islands and their total land area."
+                }
+            ],
+            "hops": [
+                "International Labour Organization",
+                "the Cook Islands"
+            ]
+        }
+    }
+}

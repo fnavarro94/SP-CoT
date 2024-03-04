@@ -1,0 +1,1049 @@
+{
+    "first_hops": {
+        "Wolfgang Amadeus Mozart": {
+            "term": "Wolfgang Amadeus Mozart",
+            "passage": "Wolfgang Amadeus Mozart was an Austrian composer, born on January 27, 1756, in Salzburg, Austria. He was the son of Leopold Mozart, a successful composer and violinist, and Anna Maria Pertl, who was also a musician. Mozart showed remarkable musical talent from an early age, and by the age of six, he was performing for European royalty. Mozart's early career was marked by his work as a court musician in Salzburg, where he composed many of his early works, including symphonies, operas, and chamber music. However, he grew increasingly dissatisfied with his position at the court, and in 1781, he left Salzburg to pursue a career as a freelance composer in Vienna. In Vienna, Mozart composed some of his most famous works, including \"The Marriage of Figaro,\" \"Don Giovanni,\" and \"The Magic Flute.\" He also became a popular performer, both as a pianist and a composer, and he formed a successful partnership with the librettist Lorenzo da Ponte. Despite his success, Mozart faced many challenges in his personal and professional life. He struggled with financial difficulties and ill health, and he had a difficult relationship with his father, who was often critical of his work. He also faced competition from other composers, including Joseph Haydn and Ludwig van Beethoven. Mozart's health began to decline in the late 1780s, and he died on December 5, 1791, in Vienna, at the age of 35. Despite his short life, Mozart's contributions to music are still celebrated today, and he is widely regarded as one of the greatest composers of all time.",
+            "qae_pairs": [
+                {
+                    "question": "\"What city did Mozart move to in 1781 to pursue a career as a freelance composer?\"",
+                    "answer": "Vienna",
+                    "explanation": "In Vienna, Mozart composed some of his most famous works, including The Marriage of Figaro, Don Giovanni, and The Magic Flute. Evidence sentence: Mozart composed some of his most famous works, including The Marriage of Figaro, Don Giovanni, and The Magic Flute in Vienna."
+                },
+                {
+                    "question": "What is the current date?",
+                    "answer": "today",
+                    "explanation": "Passage: Wolfgang Amadeus Mozart was an Austrian composer, born on January 27, 1756, in Salzburg, Austria. He was the son of Leopold Mozart, a successful composer and violinist, and Anna Maria Pertl, who was also a musician. Mozart showed remarkable musical talent from an early age, and by the age of six, he was performing for European royalty."
+                },
+                {
+                    "question": "\"Who was Wolfgang Amadeus Mozart's father?\"",
+                    "answer": "Leopold Mozart",
+                    "explanation": "Mozart showed remarkable musical talent from an early age, and by the age of six, he was performing for European royalty. This sentence explains that Mozart had remarkable musical talent and was performing for European royalty by the age of six, which is evidence of his early success and remarkable talent."
+                },
+                {
+                    "question": "What is the name of the city in Austria where Wolfgang Amadeus Mozart was born?",
+                    "answer": "Salzburg",
+                    "explanation": "Mozart showed remarkable musical talent from an early age, and by the age of six, he was performing for European royalty. Explanation:  The evidence sentence is Mozart showed remarkable musical talent from an early age, and by the age of six, he was performing for European royalty. This sentence provides information about Mozart's early musical abilities and his success as a performer at a young age. It supports the idea that Mozart was a highly talented musician and that his career as a composer and performer began at an early age."
+                },
+                {
+                    "question": "\"Who was Mozart's mother?\"",
+                    "answer": "Anna Maria Pertl",
+                    "explanation": "Mozart showed remarkable musical talent from an early age, and by the age of six, he was performing for European royalty."
+                },
+                {
+                    "question": "Which famous composer is often referred to as the \"father of Romanticism\" in music?",
+                    "answer": "Ludwig van Beethoven",
+                    "explanation": "Mozart's early career was marked by his work as a court musician in Salzburg, where he composed many of his early works, including symphonies, operas, and chamber music. Answer: Mozart's early career was marked by his work as a court musician in Salzburg, where he composed many of his early works, including symphonies, operas, and chamber music."
+                }
+            ],
+            "hops": [
+                "Wolfgang Amadeus Mozart"
+            ]
+        },
+        "Ludwig van Beethoven": {
+            "term": "Ludwig van Beethoven",
+            "passage": "Ludwig van Beethoven (1770-1827) was a German composer and pianist. A crucial figure in the transition between the Classical and Romantic eras in Western classical music, he remains one of the most famous and influential composers of all time. Born in Bonn, then in the Electorate of Cologne, Beethoven displayed his musical talents at an early age and was soon taken under the wing of the Elector's capellmeister, Christian Gottlob Neefe. After Beethoven's first two symphonies were performed in Vienna in 1800, he moved there permanently, paving the way for his most productive period as a composer. Beethoven's output as a composer is vast, and he is known for his contributions to various genres, including symphonies, concertos, sonatas, and chamber music. His early works, such as the First Symphony and First Piano Concerto, are characterized by their Classical style and structure, while his later works, such as the Ninth Symphony and the late string quartets, are more experimental and innovative, incorporating elements of Romanticism. Beethoven's personal life was marked by tragedy and hardship. He suffered from hearing loss throughout his life, which eventually became so severe that he was almost completely deaf by the time of his death. He also struggled with mental health issues, including bipolar disorder and depression, which may have contributed to his erratic behavior and difficult relationships with others. Despite these challenges, Beethoven continued to compose and perform until his death in 1827. Today, Beethoven is remembered as one of the greatest composers of all time, and his music remains a cornerstone of the Western classical tradition.",
+            "qae_pairs": [
+                {
+                    "question": "What is the birthplace of Ludwig van Beethoven?",
+                    "answer": "Bonn",
+                    "explanation": "Beethoven's output as a composer is vast, and he is known for his contributions to various genres, including symphonies, concertos, sonatas, and chamber music. This sentence explains Beethoven's contributions to various genres of music, which is evidence of his prolific output as a composer."
+                },
+                {
+                    "question": "'Where did Ludwig van Beethoven move to permanently after his first two symphonies were performed in 1800?'",
+                    "answer": "Vienna",
+                    "explanation": "After Beethoven's first two symphonies were performed in Vienna in 1800, he moved there permanently."
+                },
+                {
+                    "question": "What are some examples of Beethoven's early works that are characterized by their Classical style and structure?",
+                    "answer": "the First Symphony",
+                    "explanation": "Beethoven's output as a composer is vast, and he is known for his contributions to various genres, including symphonies, concertos, sonatas, and chamber music."
+                },
+                {
+                    "question": "What was the location of Beethoven's birthplace?",
+                    "answer": "the Electorate of Cologne",
+                    "explanation": "Beethoven displayed his musical talents at an early age and was soon taken under the wing of the Elector's capellmeister, Christian Gottlob Neefe. Rationale: This sentence explains that Beethoven displayed his musical talents at an early age and was taken under the wing of Christian Gottlob Neefe, the capellmeister of the Elector of Cologne, which supports the location of Beethoven's birthplace being in the Electorate of Cologne."
+                },
+                {
+                    "question": "What year were Beethoven's first two symphonies performed in Vienna?",
+                    "answer": "1800",
+                    "explanation": "Beethoven's output as a composer is vast, and he is known for his contributions to various genres, including symphonies, concertos, sonatas, and chamber music."
+                },
+                {
+                    "question": "What is the birth and death year of Ludwig van Beethoven?",
+                    "answer": "1770-1827",
+                    "explanation": "Ludwig van Beethoven (1770-1827) was a German composer and pianist."
+                },
+                {
+                    "question": "What genre of music is characterized by its structural complexity, thematic development, and formal clarity, and emerged in Europe in the late 18th century?",
+                    "answer": "Classical",
+                    "explanation": "Beethoven's output as a composer is vast, and he is known for his contributions to various genres, including symphonies, concertos, sonatas, and chamber music. His early works, such as the First Symphony and First Piano Concerto, are characterized by their Classical style and structure, while his later works, such as the Ninth Symphony and the late string quartets, are more experimental and innovative, incorporating elements of Romanticism."
+                }
+            ],
+            "hops": [
+                "Wolfgang Amadeus Mozart",
+                "Ludwig van Beethoven"
+            ]
+        },
+        "Johann Sebastian Bach": {
+            "term": "Johann Sebastian Bach",
+            "passage": "Johann Sebastian Bach (31 March [O.S. 21 March] 1685 – 28 July 1750) was a German composer and musician of the Baroque period. He is known for his contributions to the development of the chorale prelude, the fugue, and the passacaglia. Bach's compositions include the Brandenburg Concertos, the Goldberg Variations, the Mass in B minor, and numerous cantatas. He is widely regarded as one of the greatest composers in the history of Western classical music. Bach was born in Eisenach, the capital of the duchy of Saxe-Eisenach, in the present-day state of Thuringia, Germany. He was the son of Johann Ambrosius Bach, the director of the town musicians, and Maria Elisabeth Lämmerhirt. He was the oldest of eight children and was baptized the same day. Bach's father taught him basic music skills and taught him to play the violin and harpsichord. Bach's family was musically talented and his father and uncles were all musicians. Bach's brother, Johann Christoph Bach, was also a composer and musician. Bach's education included Latin and music theory, and he was taught by his father and his brother Johann Christoph. Bach's musical talent became evident at an early age, and he began to compose music from the age of ten. Bach's first job was as an organist at the age of 17. He held this position for two years before moving to Arnstadt, where he became the organist at the Liebfrauenkirche. Bach's next position was at Mühlhausen, where he was the organist at the Johanniskirche.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the church where Bach was the organist in Mühlhausen?",
+                    "answer": "Johanniskirche",
+                    "explanation": "Bach's education included Latin and music theory, and he was taught by his father and his brother Johann Christoph."
+                },
+                {
+                    "question": "Which day was Johann Sebastian Bach born on?",
+                    "answer": "31 March",
+                    "explanation": "Bach was born in Eisenach, the capital of the duchy of Saxe-Eisenach, in the present-day state of Thuringia, Germany."
+                },
+                {
+                    "question": "\"Which of the following was the father of Johann Sebastian Bach?\" 'Johann Sebastian Bach' is the answer to which question: \"Which German composer and musician of the Baroque period is known for his contributions to the development of the chorale prelude, the fugue,",
+                    "answer": "Johann Ambrosius Bach",
+                    "explanation": "Bach's education included Latin and music theory, and he was taught by his father and his brother Johann Christoph. Answer: Bach's education included Latin and music theory, and he was taught by his father and his brother Johann Christoph."
+                },
+                {
+                    "question": "Which country was the location of the early life and education of Johann Sebastian Bach?",
+                    "answer": "Germany",
+                    "explanation": "Bach was born in Eisenach, the capital of the duchy of Saxe-Eisenach, in the present-day state of Thuringia, Germany."
+                },
+                {
+                    "question": "What is the name of the town where Bach held his next position as an organist?",
+                    "answer": "Mühlhausen",
+                    "explanation": "Bach's education included Latin and music theory, and he was taught by his father and his brother Johann Christoph. Evidence sentence: Bach's education included Latin and music theory, and he was taught by his father and his brother Johann Christoph."
+                },
+                {
+                    "question": "Who was Johann Sebastian Bach's mother?",
+                    "answer": "Maria Elisabeth Lämmerhirt",
+                    "explanation": "Bach's family was musically talented and his father and uncles were all musicians. Evidence sentence: Bach's father, Johann Ambrosius Bach, was the director of the town musicians, and Maria Elisabeth Lämmerhirt, Bach's mother, was not mentioned in the passage."
+                }
+            ],
+            "hops": [
+                "Johann Sebastian Bach"
+            ]
+        },
+        "Franz Schubert": {
+            "term": "Franz Schubert",
+            "passage": "Franz Schubert (1797-1828) was an Austrian composer. He was born in Himmelpfortgrund, Vienna, and died in Vienna. Schubert was a prolific composer, and his works span a wide range of genres, including symphonies, operas, chamber music, and lieder. He is best known for his lieder, which are solo vocal pieces accompanied by piano. Schubert's father was a school teacher, and he was the youngest of 14 children. He began composing music at a young age, and his first published work was a song called \"Hagars Klage\" in 1814. He continued to compose prolifically throughout his short life, but much of his music was not published until after his death. Schubert's music was influential in the development of Romantic music, and he is considered one of the greatest composers of the 19th century. His works are known for their emotional depth and beauty, and his lieder are particularly celebrated for their poetic settings of German texts. Despite his talent, Schubert struggled financially throughout his life. He received little recognition during his lifetime, and his music was often criticized for being too innovative and unconventional. However, his reputation grew after his death, and he is now widely regarded as one of the greatest composers of all time. Schubert's health was poor throughout his life, and he died at the age of 31 from typhus, a disease he contracted from his brother. He was buried in a common grave, but his grave went unmarked until 1868, when a memorial was erected in his honor.",
+            "qae_pairs": [
+                {
+                    "question": "What year was Franz Schubert's first published work, \"Hagars Klage,\" released?",
+                    "answer": "1814",
+                    "explanation": "Schubert's father was a school teacher, and he was the youngest of 14 children. He began composing music at a young age, and his first published work was a song called Hagars Klage in 1814. This evidence sentence explains that Franz Schubert was the youngest of 14 children and that his first published work was a song called Hagars Klage in 1814."
+                },
+                {
+                    "question": "Which city was Franz Schubert born in?",
+                    "answer": "Vienna",
+                    "explanation": "Schubert's father was a school teacher, and he was the youngest of 14 children. This sentence provides evidence that Franz Schubert was born in Vienna, as it states that his father was a school teacher there. Additionally, the fact that he was the youngest of 14 children suggests that he was born into a large family, further supporting the idea that he was born in Vienna."
+                },
+                {
+                    "question": "What is the name of the neighborhood in Vienna where Franz Schubert was born?",
+                    "answer": "Himmelpfortgrund",
+                    "explanation": "Passage: Schubert's father was a school teacher, and he was the youngest of 14 children. Evidence sentence: He was born in Himmelpfortgrund, Vienna, and died in Vienna."
+                },
+                {
+                    "question": "What century was Franz Schubert born in?",
+                    "answer": "the 19th century",
+                    "explanation": "Passage: Schubert's music was influential in the development of Romantic music, and he is considered one of the greatest composers of the 19th century. Evidence sentence: Schubert's music was influential in the development of Romantic music."
+                },
+                {
+                    "question": "What was Franz Schubert's birth and death year?",
+                    "answer": "1797-1828",
+                    "explanation": "He was born in Himmelpfortgrund, Vienna, and died in Vienna."
+                },
+                {
+                    "question": "What year was a memorial erected in Franz Schubert's honor?",
+                    "answer": "1868",
+                    "explanation": "Schubert's music was influential in the development of Romantic music, and he is considered one of the greatest composers of the 19th century."
+                }
+            ],
+            "hops": [
+                "Franz Schubert"
+            ]
+        },
+        "Pyotr Ilyich Tchaikovsky": {
+            "term": "Pyotr Ilyich Tchaikovsky",
+            "passage": "Pyotr Ilyich Tchaikovsky (1840-1893) was a Russian composer of the Romantic era. He is considered one of the greatest composers in Russian history and one of the most popular composers in the world. Tchaikovsky's music is known for its melodic beauty, orchestral color, and emotional depth. Tchaikovsky was born in Votkinsk, a small town in the Ural Mountains. His father was a mining engineer, and his mother was a music teacher. Tchaikovsky began studying music at a young age, and by the time he was 14, he had already composed his first symphony. Tchaikovsky's early career was marked by a series of setbacks and disappointments. He struggled to find success as a composer, and his homosexuality made him a social outcast in conservative Russia. Despite these challenges, Tchaikovsky continued to compose, and his music gradually gained popularity both in Russia and abroad. Tchaikovsky's most famous works include his ballets Swan Lake and The Nutcracker, as well as his symphonies, operas, and chamber music. His music is known for its lush orchestration, soaring melodies, and emotional depth. Tchaikovsky's use of folk melodies and Russian themes in his music helped to establish a distinctively Russian style of composition. Tchaikovsky's personal life was marked by tragedy and turmoil. He struggled with depression and anxiety throughout his life, and he died suddenly at the age of 53 from cholera, which he contracted while visiting a hospital in St. Petersburg.",
+            "qae_pairs": [
+                {
+                    "question": "'Where did Pyotr Ilyich Tchaikovsky die?'",
+                    "answer": "St. Petersburg",
+                    "explanation": "Tchaikovsky's personal life was marked by tragedy and turmoil. He struggled with depression and anxiety throughout his life, and he died suddenly at the age of 53 from cholera, which he contracted while visiting a hospital in St. Petersburg."
+                },
+                {
+                    "question": "What was the birth and death year of Pyotr Ilyich Tchaikovsky?",
+                    "answer": "1840-1893",
+                    "explanation": "Pyotr Ilyich Tchaikovsky (1840-1893) was a Russian composer of the Romantic era."
+                },
+                {
+                    "question": "Which country is known for its vodka, ballet, and cold weather?",
+                    "answer": "Russia",
+                    "explanation": "Tchaikovsky's music is known for its melodic beauty, orchestral color, and emotional depth. This sentence is an evidence sentence because it provides a specific characteristic of Tchaikovsky's music that is mentioned in the question. The sentence explains why Tchaikovsky's music is famous and why he is considered one of the greatest composers in Russian history."
+                },
+                {
+                    "question": "What is the name of the small town in the Ural Mountains where Pyotr Ilyich Tchaikovsky was born?",
+                    "answer": "Votkinsk",
+                    "explanation": "Pyotr Ilyich Tchaikovsky was born in Votkinsk, a small town in the Ural Mountains."
+                },
+                {
+                    "question": "What is the location of Votkinsk, the birthplace of Pyotr Ilyich Tchaikovsky?",
+                    "answer": "the Ural Mountains",
+                    "explanation": "Pyotr Ilyich Tchaikovsky was born in Votkinsk, a small town in the Ural Mountains."
+                },
+                {
+                    "question": "What is the age at which Tchaikovsky composed his first symphony?",
+                    "answer": "14",
+                    "explanation": "Pyotr Ilyich Tchaikovsky (1840-1893) was a Russian composer of the Romantic era. He is considered one of the greatest composers in Russian history and one of the most popular composers in the world. Tchaikovsky's music is known for its melodic beauty, orchestral color, and emotional depth. Tchaikovsky was born in Votkinsk, a small town in the Ural Mountains. His father was a mining engineer, and his mother was a music teacher."
+                }
+            ],
+            "hops": [
+                "Pyotr Ilyich Tchaikovsky"
+            ]
+        },
+        "Johannes Brahms": {
+            "term": "Johannes Brahms",
+            "passage": "Johannes Brahms (1833-1897) was a German composer and pianist, born in Hamburg. Brahms is considered one of the greatest composers of the Romantic era and his music has been an important influence on many later composers. Brahms's father, Johann Jakob Brahms, was a double-bass player in an orchestra, and the family moved frequently throughout Brahms's childhood. Brahms began his musical training in Hamburg, where he was a chorister at the Hamburg Cathedral and studied piano with Eduard Marxsen. Brahms went on to study composition with Robert Schumann, who was impressed by the young composer's talent and published his first works. Brahms's first major work, the Piano Concerto No. 1 in D minor, Op. 15, was premiered in 1859 and was a critical and popular success. Brahms's output includes symphonies, chamber music, piano music, and choral works. His compositions for chorus and orchestra include the German Requiem, A German Mass, and the Ein deutsches Requiem. Brahms's music is known for its rich harmonies, complex counterpoint, and inventive use of rhythm. He was also an accomplished pianist and gave many performances throughout his life. Brahms was a perfectionist and often revised his works extensively. He was also known for his friendship with other composers of his time, including Franz Liszt and Richard Wagner. Brahms was a private man and did not marry until he was 51 years old. He died in Vienna in 1897 and was buried in the Zentralfriedhof.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the cemetery where Johannes Brahms is buried?",
+                    "answer": "Zentralfriedhof",
+                    "explanation": "Brahms's music is known for its rich harmonies, complex counterpoint, and inventive use of rhythm."
+                },
+                {
+                    "question": "What is the German word for 'one'?",
+                    "answer": "Ein",
+                    "explanation": "Brahms's output includes symphonies, chamber music, piano music, and choral works. His compositions for chorus and orchestra include the German Requiem, A German Mass, and the Ein deutsches Requiem. This sentence provides evidence that Brahms's output includes choral works, specifically the German Requiem, A German Mass, and the Ein deutsches Requiem."
+                },
+                {
+                    "question": "Who was Johannes Brahms's first piano teacher?",
+                    "answer": "Eduard Marxsen",
+                    "explanation": "Brahms began his musical training in Hamburg, where he was a chorister at the Hamburg Cathedral and studied piano with Eduard Marxsen."
+                },
+                {
+                    "question": "What is the birthplace of Johannes Brahms?",
+                    "answer": "Hamburg",
+                    "explanation": "Brahms's father, Johann Jakob Brahms, was a double-bass player in an orchestra, and the family moved frequently throughout Brahms's childhood. Explanation: This sentence provides evidence that Johannes Brahms's birthplace was Hamburg. The fact that his father was a double-bass player in an orchestra and that the family moved frequently throughout Brahms's childhood is mentioned in the passage as a way of explaining the composer's upbringing and how it may have influenced his music."
+                },
+                {
+                    "question": "What year was Johannes Brahms's Piano Concerto No. 1 in D minor, Op. 15 premiered?",
+                    "answer": "1859",
+                    "explanation": "Brahms's first major work, the Piano Concerto No. 1 in D minor, Op. 15, was premiered in 1859 and was a critical and popular success."
+                },
+                {
+                    "question": "1. Who was Johannes Brahms's first composition teacher? 2. What is Johannes Brahms's most famous work for chorus and orchestra? 3. Where was Johannes Brahms born? 4. What is Johannes Brahms's music known for?",
+                    "answer": "Robert Schumann",
+                    "explanation": "Brahms went on to study composition with Robert Schumann, who was impressed by the young composer's talent and published his first works."
+                },
+                {
+                    "question": "What was Johannes Brahms's age when he got married?",
+                    "answer": "51 years old",
+                    "explanation": "Brahms was a private man and did not marry until he was 51 years old."
+                },
+                {
+                    "question": "What is the capital of Austria and the location of Brahms's burial site?",
+                    "answer": "Vienna",
+                    "explanation": "Brahms's music is known for its rich harmonies, complex counterpoint, and inventive use of rhythm."
+                }
+            ],
+            "hops": [
+                "Johannes Brahms"
+            ]
+        },
+        "George Frideric Handel": {
+            "term": "George Frideric Handel",
+            "passage": "George Frideric Handel (German: Georg Friedrich Händel; 23 February 1685 – 14 April 1759) was a German-British Baroque composer who spent the bulk of his career in London, becoming well known for his operas, oratorios, and instrumental compositions. Born in a family indifferent to music, Handel received critical training in Halle, Hamburg and Italy before settling in London in 1712; he became a naturalised British subject in 1727. He was strongly influenced both by the great composers of the Italian Baroque and the middle-German polyphonic choral tradition. Handel's music was well-known to many Europeans throughout his lifetime, but notoriety in his later years was largely confined to England, where he spent most of his career. His most famous works include Water Music, Music for the Royal Fireworks, and Messiah. Handel was a prolific composer, and his output includes more than 40 operas, 25 oratorios, over 100 cantatas, and numerous instrumental compositions. Handel's operas were well-received in Italy, but his oratorios were his greatest success in England. His most famous oratorio, Messiah, was first performed in Dublin in 1742 and has been a staple of the choral repertoire ever since. Handel's music was admired by his contemporaries, and he was a fellow of the Royal Society and a recipient of a lifetime pension from the British government. Handel's compositions were highly influential, and he is regarded as one of the greatest composers of the Baroque era.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the period in music history that spanned from approximately 1600 to 1750?",
+                    "answer": "Baroque",
+                    "explanation": "Handel's music was well-known to many Europeans throughout his lifetime, but notoriety in his later years was largely confined to England, where he spent most of his career. Answer: Handel's music was well-known to many Europeans throughout his lifetime is an evidence sentence that supports the fact that Handel was a famous composer during his lifetime."
+                },
+                {
+                    "question": "What year was Handel's famous oratorio, Messiah, first performed in Dublin?",
+                    "answer": "1742",
+                    "explanation": "Handel's most famous oratorio, Messiah, was first performed in Dublin in 1742 and has been a staple of the choral repertoire ever since."
+                },
+                {
+                    "question": "Which country did Handel receive critical training in?",
+                    "answer": "Italy",
+                    "explanation": "Handel received critical training in Halle, Hamburg and Italy before settling in London in 1712 This sentence explains that Handel received training in three different countries before settling in London in 1712."
+                },
+                {
+                    "question": "What is the country that was strongly influenced by the great composers of the Italian Baroque and the middle-German polyphonic choral tradition?",
+                    "answer": "England",
+                    "explanation": "Handel's music was well-known to many Europeans throughout his lifetime, but notoriety in his later years was largely confined to England, where he spent most of his career. Explanation: This sentence explains that Handel's music was well-known to many Europeans during his lifetime, but his notoriety in his later years was largely confined to England, where he spent most of his career. This suggests that England was the country that was strongly influenced by Handel's music."
+                },
+                {
+                    "question": "What is the name of the organization that George Frideric Handel was a fellow of?",
+                    "answer": "the Royal Society",
+                    "explanation": "Handel's music was admired by his contemporaries, and he was a fellow of the Royal Society and a recipient of a lifetime pension from the British government."
+                },
+                {
+                    "question": "What is the name of the city where Handel received critical training in music?",
+                    "answer": "Halle",
+                    "explanation": "Handel received critical training in Halle, Hamburg and Italy before settling in London in 1712; he became a naturalised British subject in 1727. Explanation: The evidence sentence is Handel received critical training in Halle, Hamburg and Italy before settling in London in 1712; he became a naturalised British subject in 1727. This sentence explains that Handel received training in music in three different cities before settling in London, and that he became a naturalised British subject later in his life."
+                },
+                {
+                    "question": "1. In which year did Handel become a naturalised British subject? 2. In which year did Handel compose his most famous oratorio, Messiah? 3. In which year did Handel receive a lifetime pension from the British government? 4. In which year did Handel",
+                    "answer": "1727",
+                    "explanation": "Handel became a naturalised British subject in 1727."
+                },
+                {
+                    "question": "The answer is \"What are some of Handel's most famous works?\"",
+                    "answer": "Water Music, Music for the Royal Fireworks",
+                    "explanation": "Handel's most famous works include Water Music, Music for the Royal Fireworks, and Messiah."
+                },
+                {
+                    "question": "1. What year did Handel settle in London? 2. In which year did Handel become a naturalised British subject? 3. In which year did Handel's most famous oratorio, Messiah, first perform? 4. In which year did Handel receive a lifetime",
+                    "answer": "1712",
+                    "explanation": ""
+                }
+            ],
+            "hops": [
+                "George Frideric Handel"
+            ]
+        },
+        "Antonio Vivaldi": {
+            "term": "Antonio Vivaldi",
+            "passage": "Antonio Vivaldi (4 March 1678 – 28 July 1741) was an Italian Baroque musical composer, virtuoso violinist, teacher, and cleric. Born in Venice, the capital of the Venetian Republic, he is regarded as one of the greatest Baroque composers, and his influence during his lifetime was widespread across Europe. He composed a large number of concertos, for the violin and a variety of other instruments, as well as sacred choral music and more than forty operas. Vivaldi is best known for his concertos, particularly The Four Seasons, which is his best-known work and a staple of the classical music repertoire. Vivaldi's music was innovative, combining the latest styles from Italy and elsewhere in Europe with his own unique ideas. He was a master of the Baroque concerto, and his works are known for their brightness, energy, and virtuosity. Vivaldi's music was popular in his time, and he was a celebrity in Venice, where he was known as il prete rosso (the red priest) because of his red hair. Vivaldi was a priest and a member of the Order of the Priests of the Theatines, a Catholic religious order founded in 1524. He was ordained in 1703 and served as a priest for most of his life. He was also a teacher, and he founded a music school in Venice, the Accademia di Musica, which was the first music school in the city. Vivaldi taught many famous musicians, including the composers Tomaso Albinoni and Giovanni Battista Pergolesi.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the music school that Vivaldi founded in Venice?",
+                    "answer": "the Accademia di Musica",
+                    "explanation": "Vivaldi was a priest and a member of the Order of the Priests of the Theatines, a Catholic religious order founded in 1524. He was ordained in 1703 and served as a priest for most of his life. He was also a teacher, and he founded a music school in Venice, the Accademia di Musica, which was the first music school in the city. Vivaldi taught many famous musicians, including the composers Tomaso Albinoni and Giovanni Battista Pergolesi."
+                },
+                {
+                    "question": "* What year was Antonio Vivaldi ordained as a priest? * What year did Antonio Vivaldi found the Accademia di Musica in Venice? * What year did Antonio Vivaldi compose The Four Seasons? * What year did Antonio Vivaldi die?",
+                    "answer": "1703",
+                    "explanation": "Vivaldi was a priest and a member of the Order of the Priests of the Theatines, a Catholic religious order founded in 1524. He was ordained in 1703 and served as a priest for most of his life."
+                },
+                {
+                    "question": "What year was the Order of the Priests of the Theatines founded in?",
+                    "answer": "1524",
+                    "explanation": "Vivaldi was a priest and a member of the Order of the Priests of the Theatines, a Catholic religious order founded in 1524."
+                },
+                {
+                    "question": "What is the birthdate of Antonio Vivaldi?",
+                    "answer": "4 March 1678",
+                    "explanation": "Vivaldi's music was popular in his time, and he was a celebrity in Venice, where he was known as il prete rosso (the red priest) because of his red hair."
+                },
+                {
+                    "question": "\"What was Antonio Vivaldi born in?\"",
+                    "answer": "the Venetian Republic",
+                    "explanation": "Vivaldi was born in Venice, the capital of the Venetian Republic, and is regarded as one of the greatest Baroque composers."
+                },
+                {
+                    "question": "Who was Antonio Vivaldi's student and friend?",
+                    "answer": "Tomaso Albinoni",
+                    "explanation": "Vivaldi was a priest and a member of the Order of the Priests of the Theatines, a Catholic religious order founded in 1524. He was ordained in 1703 and served as a priest for most of his life."
+                },
+                {
+                    "question": "What is the name of the period of music history that Vivaldi's music belongs to?",
+                    "answer": "Baroque",
+                    "explanation": "Vivaldi is best known for his concertos, particularly The Four Seasons, which is his best-known work and a staple of the classical music repertoire. This sentence is an evidence that Vivaldi's music belongs to the Baroque period because it mentions his best-known work, The Four Seasons, which is a concerto, a type of music that was popular during the Baroque period."
+                }
+            ],
+            "hops": [
+                "Antonio Vivaldi"
+            ]
+        },
+        "Claude Debussy": {
+            "term": "Claude Debussy",
+            "passage": "Claude Debussy (French: [klod dəbyssi]; 22 August 1862 – 25 March 1918) was a French composer. Along with Maurice Ravel, he was one of the most prominent figures associated with Impressionist music, though he himself disliked the term. Debussy's music is noted for its sensory content and frequent usage of unconventional chord progressions, chromaticism, and orchestration. Debussy's innovations influenced many later composers, including Maurice Ravel, Igor Stravinsky, and George Gershwin. Debussy's music was not initially well-received by the musical establishment of his time, but he gained recognition among the Parisian avant-garde and was embraced by the public. His 1894 opera, Pelléas et Mélisande, and the Nocturnes (1899) are among his best-known works. He was made a Chevalier of the Legion of Honor in 1903. Debussy was born in Saint-Germain-en-Laye, near Paris, to a family of modest means. His musical talents became apparent early on, and he was able to study music at the Paris Conservatoire, where he was taught by such notable teachers as Antoine François Marmontel and Ernest Guiraud. Debussy's earliest compositions were in the style of the Romantic era, but he soon began to develop his own unique style. Debussy's music was often criticized for its unconventionality, and he was accused of being too modern and too different from the classical composers of the past.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the music school where Debussy studied?",
+                    "answer": "the Paris Conservatoire",
+                    "explanation": "Debussy's music is noted for its sensory content and frequent usage of unconventional chord progressions, chromaticism, and orchestration. Explanation: The passage mentions that Debussy's music is noted for its sensory content and frequent usage of unconventional chord progressions, chromaticism, and orchestration. This is an evidence sentence because it provides specific information about Debussy's music that is relevant to the question asked."
+                },
+                {
+                    "question": "\"What year did Claude Debussy compose the Nocturnes?\"",
+                    "answer": "1899",
+                    "explanation": "Debussy's music was not initially well-received by the musical establishment of his time, but he gained recognition among the Parisian avant-garde and was embraced by the public. Explanation: The evidence sentence states that Debussy's music was not initially well-received by the musical establishment of his time, indicating that his music was not initially popular or accepted by the traditional music community."
+                },
+                {
+                    "question": "'Who was one of the most prominent figures associated with Impressionist music, along with Claude Debussy?'",
+                    "answer": "Maurice Ravel",
+                    "explanation": "Passage: Debussy's innovations influenced many later composers, including Maurice Ravel, Igor Stravinsky, and George Gershwin. Evidence Sentence: Debussy's innovations influenced many later composers."
+                },
+                {
+                    "question": "1. Who is the most influential composer of all time? 2. What is the most popular musical genre today? 3. What is the name of Debussy's best-known opera? 4. Which musical instrument is the hardest to play? 5. Who is the most",
+                    "answer": "Pelléas et Mélisande",
+                    "explanation": "Debussy's music was not initially well-received by the musical establishment of his time, but he gained recognition among the Parisian avant-garde and was embraced by the public."
+                },
+                {
+                    "question": "What was the date of Claude Debussy's death?",
+                    "answer": "25 March 1918",
+                    "explanation": "Debussy's innovations influenced many later composers, including Maurice Ravel, Igor Stravinsky, and George Gershwin."
+                },
+                {
+                    "question": "What year did Claude Debussy's opera 'Pelléas et Mélisande' premiere?",
+                    "answer": "1894",
+                    "explanation": "Debussy's music was not initially well-received by the musical establishment of his time, but he gained recognition among the Parisian avant-garde and was embraced by the public."
+                },
+                {
+                    "question": "What is the name of the town where Claude Debussy was born?",
+                    "answer": "Saint-Germain-en-Laye",
+                    "explanation": "Passage: Debussy's music is noted for its sensory content and frequent usage of unconventional chord progressions, chromaticism, and orchestration. Evidence sentence: Debussy's music was often criticized for its unconventionality."
+                }
+            ],
+            "hops": [
+                "Claude Debussy"
+            ]
+        },
+        "Johann Strauss II": {
+            "term": "Johann Strauss II",
+            "passage": "Johann Strauss II, also known as the \"Waltz King,\" was an Austrian composer of light music, particularly dance music and operettas. He was born on October 25, 1825, in Vienna, Austria, and died on June 3, 1899, in the same city. Strauss's compositions, including his waltzes, quadrilles, and polkas, were immensely popular in Vienna and throughout Europe during the 19th century. Strauss's father, Johann Strauss I, was also a composer and conductor, and he taught his son the basics of music. Strauss began his career as a musician in his teenage years, playing the violin in his father's orchestra. He soon began to compose his own music, and his first waltz, \"Sphärenklänge,\" was published in 1844. Strauss's waltzes were particularly popular, and he composed over 150 of them during his career. His most famous waltz, \"The Blue Danube,\" was composed in 1867 and has become one of the most recognizable pieces of music in the world. Strauss also composed operettas, including \"Die Fledermaus\" and \"The Gypsy Baron,\" which were also popular in Vienna and beyond. Strauss's music was celebrated for its elegance, grace, and beauty. He was known for his ability to capture the spirit of Vienna and its people in his compositions, and his music remains a beloved part of the city's cultural heritage. Strauss was also known for his flamboyant personality and his love of showmanship.",
+            "qae_pairs": [
+                {
+                    "question": "What year was Johann Strauss II's most famous waltz, \"The Blue Danube,\" composed?",
+                    "answer": "1867",
+                    "explanation": "Strauss's most famous waltz, The Blue Danube, was composed in 1867 and has become one of the most recognizable pieces of music in the world."
+                },
+                {
+                    "question": "What year was Johann Strauss II's first waltz, \"Sphärenklänge,\" published?",
+                    "answer": "1844",
+                    "explanation": "Strauss began his career as a musician in his teenage years, playing the violin in his father's orchestra. He soon began to compose his own music, and his first waltz, Sphärenklänge, was published in 1844. Passage about Vincent van Gogh: Vincent van Gogh was a Dutch post-impressionist painter who is among the most famous and influential figures in the history of Western art."
+                },
+                {
+                    "question": "'What was the date of Johann Strauss II's death?'",
+                    "answer": "June 3, 1899",
+                    "explanation": "Strauss's compositions, including his waltzes, quadrilles, and polkas, were immensely popular in Vienna and throughout Europe during the 19th century. This sentence is an evidence sentence because it provides information about the popularity of Strauss's compositions during the 19th century. It is not a factual statement, but rather an inference drawn from the information presented in the passage."
+                },
+                {
+                    "question": "What century was Johann Strauss II born in?",
+                    "answer": "the 19th century",
+                    "explanation": "Strauss's compositions, including his waltzes, quadrilles, and polkas, were immensely popular in Vienna and throughout Europe during the 19th century. This sentence is an evidence sentence because it provides information about the popularity of Strauss's compositions during the 19th century, which supports the claim that Strauss was a composer of light music, particularly dance music and operettas, during that time."
+                },
+                {
+                    "question": "Which continent is home to Vienna, Austria?",
+                    "answer": "Europe",
+                    "explanation": "Strauss's compositions, including his waltzes, quadrilles, and polkas, were immensely popular in Vienna and throughout Europe during the 19th century. This sentence explains that Johann Strauss II's compositions, including his waltzes, quadrilles, and polkas, were popular in Vienna and throughout Europe during the 19th century."
+                },
+                {
+                    "question": "What is the name of Johann Strauss II's first waltz?",
+                    "answer": "Sphärenklänge",
+                    "explanation": "Strauss's compositions, including his waltzes, quadrilles, and polkas, were immensely popular in Vienna and throughout Europe during the 19th century. This sentence is an evidence sentence because it provides information about the popularity of Strauss's compositions, which is relevant to the question about his first waltz. It also helps to establish the context of Strauss's career as a composer of light music."
+                }
+            ],
+            "hops": [
+                "Johann Strauss II"
+            ]
+        }
+    },
+    "second_hops": {
+        "Vienna": {
+            "term": "Vienna",
+            "passage": "1. Vienna is the capital and largest city of Austria, and one of the nine states of Austria. 2. It is located in the eastern part of Austria and is home to 1.8 million people, or about a quarter of the country's population. 3. Vienna is widely considered to be one of the most livable cities in the world, and has been ranked as the world's most livable city by the Economist Intelligence Unit's Global Livability Ranking for ten consecutive years. 4. The city is known for its rich history, culture, and architecture, and is home to numerous museums, theaters, and concert halls. 5. Vienna is also known for its coffeehouse culture, which dates back to the 17th century and is an integral part of the city's social and cultural life. 6. The city is home to many famous composers, including Mozart, Beethoven, and Strauss, and is known as the \"City of Music\". 7. Vienna is also a major center of commerce and industry, and is home to many international organizations, including the United Nations and the Organization for Security and Cooperation in Europe. 8. The city is famous for its beautiful architecture, including its baroque buildings, such as St. Stephen's Cathedral and the Hofburg Palace. 9. Vienna is also known for its cuisine, which includes many traditional dishes, such as Wiener Schnitzel and Sachertorte. 10. The city is home to many festivals and events throughout the year, including the Vienna Festival, the Vienna Opera Ball, and the Vienna Christmas Market.",
+            "qae_pairs": [
+                {
+                    "question": "What is the famous dessert that is associated with Vienna and is made of chocolate cake with a thin layer of apricot jam in the middle, topped with a glaze of icing sugar?",
+                    "answer": "Sachertorte",
+                    "explanation": "Vienna is known for its coffeehouse culture, which dates back to the 17th century and is an integral part of the city's social and cultural life."
+                },
+                {
+                    "question": "What is the nickname of Vienna, the capital and largest city of Austria?",
+                    "answer": "the \"City of Music",
+                    "explanation": "Vienna is widely considered to be one of the most livable cities in the world, and has been ranked as the world's most livable city by the Economist Intelligence Unit's Global Livability Ranking for ten consecutive years. This evidence sentence explains that Vienna is widely recognized as one of the most livable cities in the world and has been ranked as such by the Economist Intelligence Unit's Global Livability Ranking for ten consecutive years."
+                }
+            ],
+            "hops": [
+                "Johannes Brahms",
+                "Vienna"
+            ]
+        },
+        "Leopold Mozart": {
+            "term": "Leopold Mozart",
+            "passage": "Leopold Mozart (14 November 1719 – 28 May 1787) was a Austrian composer, violinist and teacher. Born in Augsburg, he was the father of Wolfgang Amadeus Mozart and was a prolific composer of church music and symphonies. He was also a skilled violinist and teacher, and his students included Joseph Haydn. Leopold Mozart was a key figure in the development of the classical style in music, and his influence on his son's musical education and career was significant. He was a strong advocate for his son's musical talents, and his efforts helped to establish Wolfgang Amadeus Mozart as one of the greatest composers of all time. Leopold Mozart died in Salzburg in 1787, at the age of 67.",
+            "qae_pairs": [
+                {
+                    "question": "What was the date of Leopold Mozart's death?",
+                    "answer": "28 May 1787",
+                    "explanation": "Leopold Mozart (14 November 1719 – 28 May 1787) was a Austrian composer, violinist and teacher. Born in Augsburg, he was the father of Wolfgang Amadeus Mozart and was a prolific composer of church music and symphonies. He was also a skilled violinist and teacher, and his students included Joseph Haydn. Leopold Mozart was a key figure in the development of the classical style in music, and his influence on his son's musical education and career was significant."
+                }
+            ],
+            "hops": [
+                "Wolfgang Amadeus Mozart",
+                "Leopold Mozart"
+            ]
+        },
+        "Salzburg": {
+            "term": "Salzburg",
+            "passage": "1. Salzburg is a city in Austria, with a population of approximately 150,000. 2. It is located near the German border, at the northern edge of the Alps. 3. The city is known for its baroque architecture, including the famous Hohensalzburg Fortress. 4. Salzburg was the birthplace of Wolfgang Amadeus Mozart, and the city is home to the Mozart Museum. 5. The city is also famous for its Christmas markets, which are held throughout the month of December. 6. Salzburg is a popular tourist destination, with attractions such as the Mirabell Palace and Gardens, the Salzburg Cathedral, and the Festival Hall. 7. The city is also known for its cuisine, including the famous Salzburg sausage and the Mozartkugeln chocolate. 8. Salzburg is easily accessible by train, with regular connections to other major cities in Austria and Germany.",
+            "qae_pairs": [
+                {
+                    "question": "What is the most famous event that takes place in Salzburg during the month of December?",
+                    "answer": "Christmas",
+                    "explanation": "Salzburg is a popular tourist destination, with attractions such as the Mirabell Palace and Gardens, the Salzburg Cathedral, and the Festival Hall."
+                },
+                {
+                    "question": "What country is Salzburg located near, and is it accessible by train?",
+                    "answer": "Germany",
+                    "explanation": "Salzburg is a popular tourist destination, with attractions such as the Mirabell Palace and Gardens, the Salzburg Cathedral, and the Festival Hall. Evidence sentence: Salzburg is a popular tourist destination, with attractions such as the Mirabell Palace and Gardens, the Salzburg Cathedral, and the Festival Hall."
+                },
+                {
+                    "question": "What museum in Salzburg is dedicated to the life and works of the famous composer?",
+                    "answer": "the Mozart Museum",
+                    "explanation": "Salzburg is a popular tourist destination, with attractions such as the Mirabell Palace and Gardens, the Salzburg Cathedral, and the Festival Hall. Evidence sentence: Salzburg is a popular tourist destination, with attractions such as the Mirabell Palace and Gardens, the Salzburg Cathedral, and the Festival Hall. Question: What are some popular tourist attractions in Salzburg? Answer: The Mirabell Palace and Gardens, the Salzburg Cathedral, and the Festival Hall."
+                },
+                {
+                    "question": "What is the famous palace located in Salzburg, known for its baroque architecture and beautiful gardens?",
+                    "answer": "the Mirabell Palace",
+                    "explanation": "The city is also famous for its Christmas markets, which are held throughout the month of December. Rationale: The evidence sentence provides information about one of the famous attractions in Salzburg, which is the Christmas markets. It is relevant to the question because it mentions the famous palace located in Salzburg. Answer: The evidence sentence is The city is also famous for its Christmas markets, which are held throughout the month of December."
+                }
+            ],
+            "hops": [
+                "Wolfgang Amadeus Mozart",
+                "Salzburg"
+            ]
+        },
+        "Anna Maria Pertl": {
+            "term": "Anna Maria Pertl",
+            "passage": "Anna Maria Pertl (1720–1783) was an Austrian composer and musician. She was born in Vienna and was the daughter of a musician. Pertl was a prolific composer, writing over 300 works, including operas, oratorios, cantatas, and instrumental music. She was also a skilled performer, playing the harpsichord and singing. Pertl was a member of the Vienna court orchestra and was one of the first women to hold a professional position as a musician in Austria. Her music was widely admired in her time and she was considered one of the leading composers of her generation. Pertl's works were published during her lifetime and were performed in many European courts. She died in Vienna in 1783.",
+            "qae_pairs": [
+                {
+                    "question": "What year did Anna Maria Pertl pass away?",
+                    "answer": "1783",
+                    "explanation": "Pertl was a member of the Vienna court orchestra and was one of the first women to hold a professional position as a musician in Austria."
+                },
+                {
+                    "question": "What was the city where Anna Maria Pertl was born and where she spent most of her life?",
+                    "answer": "Vienna",
+                    "explanation": "Pertl was a member of the Vienna court orchestra and was one of the first women to hold a professional position as a musician in Austria."
+                }
+            ],
+            "hops": [
+                "Wolfgang Amadeus Mozart",
+                "Anna Maria Pertl"
+            ]
+        },
+        "Ludwig van Beethoven": {
+            "term": "Ludwig van Beethoven",
+            "passage": "Ludwig van Beethoven (1770-1827) was a German composer and pianist. A crucial figure in the transition between the Classical and Romantic eras in Western classical music, he remains one of the most famous and influential composers of all time. Born in Bonn, then in the Electorate of Cologne, Beethoven displayed his musical talents at an early age and was soon taken under the wing of the Elector's capellmeister, Christian Gottlob Neefe. After Beethoven's first two symphonies were performed in Vienna in 1800, he moved there permanently, paving the way for his most productive period as a composer. Beethoven's output as a composer is vast, and he is known for his contributions to various genres, including symphonies, concertos, sonatas, and chamber music. His early works, such as the First Symphony and First Piano Concerto, are characterized by their Classical style and structure, while his later works, such as the Ninth Symphony and the late string quartets, are more experimental and innovative, incorporating elements of Romanticism. Beethoven's personal life was marked by tragedy and hardship. He suffered from hearing loss throughout his life, which eventually became so severe that he was almost completely deaf by the time of his death. He also struggled with mental health issues, including bipolar disorder and depression, which may have contributed to his erratic behavior and difficult relationships with others. Despite these challenges, Beethoven continued to compose and perform until his death in 1827. Today, Beethoven is remembered as one of the greatest composers of all time, and his music remains a cornerstone of the Western classical tradition.",
+            "qae_pairs": [
+                {
+                    "question": "What is the birthplace of Ludwig van Beethoven?",
+                    "answer": "Bonn",
+                    "explanation": "Beethoven's output as a composer is vast, and he is known for his contributions to various genres, including symphonies, concertos, sonatas, and chamber music. This sentence explains Beethoven's contributions to various genres of music, which is evidence of his prolific output as a composer."
+                },
+                {
+                    "question": "'Where did Ludwig van Beethoven move to permanently after his first two symphonies were performed in 1800?'",
+                    "answer": "Vienna",
+                    "explanation": "After Beethoven's first two symphonies were performed in Vienna in 1800, he moved there permanently."
+                },
+                {
+                    "question": "What are some examples of Beethoven's early works that are characterized by their Classical style and structure?",
+                    "answer": "the First Symphony",
+                    "explanation": "Beethoven's output as a composer is vast, and he is known for his contributions to various genres, including symphonies, concertos, sonatas, and chamber music."
+                },
+                {
+                    "question": "What was the location of Beethoven's birthplace?",
+                    "answer": "the Electorate of Cologne",
+                    "explanation": "Beethoven displayed his musical talents at an early age and was soon taken under the wing of the Elector's capellmeister, Christian Gottlob Neefe. Rationale: This sentence explains that Beethoven displayed his musical talents at an early age and was taken under the wing of Christian Gottlob Neefe, the capellmeister of the Elector of Cologne, which supports the location of Beethoven's birthplace being in the Electorate of Cologne."
+                },
+                {
+                    "question": "What year were Beethoven's first two symphonies performed in Vienna?",
+                    "answer": "1800",
+                    "explanation": "Beethoven's output as a composer is vast, and he is known for his contributions to various genres, including symphonies, concertos, sonatas, and chamber music."
+                },
+                {
+                    "question": "What is the birth and death year of Ludwig van Beethoven?",
+                    "answer": "1770-1827",
+                    "explanation": "Ludwig van Beethoven (1770-1827) was a German composer and pianist."
+                },
+                {
+                    "question": "What genre of music is characterized by its structural complexity, thematic development, and formal clarity, and emerged in Europe in the late 18th century?",
+                    "answer": "Classical",
+                    "explanation": "Beethoven's output as a composer is vast, and he is known for his contributions to various genres, including symphonies, concertos, sonatas, and chamber music. His early works, such as the First Symphony and First Piano Concerto, are characterized by their Classical style and structure, while his later works, such as the Ninth Symphony and the late string quartets, are more experimental and innovative, incorporating elements of Romanticism."
+                }
+            ],
+            "hops": [
+                "Wolfgang Amadeus Mozart",
+                "Ludwig van Beethoven"
+            ]
+        },
+        "Bonn": {
+            "term": "Bonn",
+            "passage": "Bonn is a city on the banks of the Rhine river in the German state of North Rhine-Westphalia. It is located about 20 kilometers south of Cologne and 50 kilometers east of the Dutch border. Bonn has a population of approximately 315,000 people. Bonn is known for its rich history and cultural heritage. It was the capital of West Germany from 1949 to 1990, and it has been the seat of the United Nations Framework Convention on Climate Change (UNFCCC) and the secretariat of the Convention on Biological Diversity (CBD) since 2005. Bonn has a number of notable landmarks, including the Beethoven House, where the famous composer was born in 1770, and the Old Town, which is home to many historic buildings and monuments. The city is also known for its beautiful parks and gardens, including the Botanical Garden and the Arboretum. Bonn is a popular tourist destination, with many museums, galleries, and cultural events throughout the year. The city is also home to a number of universities and research institutions, including the University of Bonn and the German Development Institute. Bonn is easily accessible by train, with a main station that connects the city to major cities across Germany and Europe. The city is also well-connected by road and has a number of bus and tram routes.",
+            "qae_pairs": [
+                {
+                    "question": "What year was Bonn the birthplace of the famous composer?",
+                    "answer": "1770",
+                    "explanation": "Bonn has a number of notable landmarks, including the Beethoven House, where the famous composer was born in 1770, and the Old Town, which is home to many historic buildings and monuments."
+                },
+                {
+                    "question": "What is the state of Bonn located in?",
+                    "answer": "North Rhine-Westphalia",
+                    "explanation": "Bonn is a city on the banks of the Rhine river in the German state of North Rhine-Westphalia."
+                },
+                {
+                    "question": "What year did the United Nations Framework Convention on Climate Change (UNFCCC) and the secretariat of the Convention on Biological Diversity (CBD) move to Bonn?",
+                    "answer": "2005",
+                    "explanation": "Bonn is known for its rich history and cultural heritage. It was the capital of West Germany from 1949 to 1990, and it has been the seat of the United Nations Framework Convention on Climate Change (UNFCCC) and the secretariat of the Convention on Biological Diversity (CBD) since 2005."
+                }
+            ],
+            "hops": [
+                "Wolfgang Amadeus Mozart",
+                "Ludwig van Beethoven",
+                "Bonn"
+            ]
+        },
+        "Classical": {
+            "term": "Classical",
+            "passage": "Classical music is a term that is used to refer to music that was written during the Classical period, which lasted from the mid-18th century to the early 19th century. This period was characterized by the use of orchestral instruments, including the violin, cello, and piano, and by the development of new forms of music, such as the symphony and the sonata. During the Classical period, composers such as Mozart, Beethoven, and Haydn created some of the most famous and enduring works of music in history. These composers were known for their mastery of musical form and their ability to create complex and intricate pieces of music that were both beautiful and intellectually stimulating. One of the defining characteristics of Classical music is its emphasis on balance and symmetry. Classical composers sought to create music that was harmonious and well-proportioned, with each element of the piece serving a specific purpose. This attention to detail and craftsmanship is one of the reasons why Classical music has remained so popular and influential over the centuries. Today, Classical music continues to be an important part of our cultural heritage. It is played and performed in concert halls and opera houses around the world, and it is studied and analyzed by music scholars and enthusiasts alike. Whether you are a fan of Mozart or Beethoven, or simply appreciate the beauty and complexity of Classical music, there is no denying its enduring appeal and influence.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the composer who is known for his mastery of musical form and his ability to create complex and intricate pieces of music that were both beautiful and intellectually stimulating during the Classical period?",
+                    "answer": "Mozart",
+                    "explanation": "During the Classical period, composers such as Mozart, Beethoven, and Haydn created some of the most famous and enduring works of music in history. This sentence explains that Mozart, Beethoven, and Haydn were composers who created famous and enduring works of music during the Classical period."
+                }
+            ],
+            "hops": [
+                "Wolfgang Amadeus Mozart",
+                "Ludwig van Beethoven",
+                "Classical"
+            ]
+        },
+        "Johanniskirche": {
+            "term": "Johanniskirche",
+            "passage": "The Johanniskirche is a Lutheran church located in the city of Lubeck, Germany. It was built in the 14th century and is considered one of the most important examples of Brick Gothic architecture in northern Germany. The church's most notable feature is its impressive tower, which stands at 126 meters tall and is topped by a spire with a weather vane in the shape of a lion. The interior of the church is equally impressive, with a vaulted ceiling and intricate stained glass windows. The church has been the site of many important events throughout history, including the coronation of the Danish king in 1440 and the signing of the Treaty of Lubeck in 1629. Today, the Johanniskirche is a popular tourist attraction and is still used for religious services.",
+            "qae_pairs": [
+                {
+                    "question": "What is the architectural style of the Johanniskirche in Lubeck, Germany?",
+                    "answer": "Brick Gothic",
+                    "explanation": "The Johanniskirche is considered one of the most important examples of Brick Gothic architecture in northern Germany."
+                },
+                {
+                    "question": "What is the name of the city where the Johanniskirche is located?",
+                    "answer": "Lubeck",
+                    "explanation": "The Johanniskirche is a Lutheran church located in the city of Lubeck, Germany."
+                }
+            ],
+            "hops": [
+                "Johann Sebastian Bach",
+                "Johanniskirche"
+            ]
+        },
+        "Germany": {
+            "term": "Germany",
+            "passage": "Germany is a country in Central Europe. It is the most populous member state in the European Union and the fourth-largest economy in the world. Germany has a long history as a cultural and political center of Europe, dating back to the Roman Empire and the Holy Roman Empire. The modern German state was established in 1871 following the Franco-Prussian War. After World War II, Germany was divided into two states, East Germany and West Germany, until reunification in 1990. Today, Germany is a federal parliamentary republic with a president as head of state and a chancellor as head of government. The country is known for its advanced economy, high-tech industries, and strong exports. Germany is also a member of the United Nations, NATO, the G8, and the G20.",
+            "qae_pairs": [
+                {
+                    "question": "What is the location of Germany in Europe?",
+                    "answer": "Central Europe",
+                    "explanation": "Germany is a country in Central Europe."
+                },
+                {
+                    "question": "What year did Germany become a modern state?",
+                    "answer": "1871",
+                    "explanation": "The modern German state was established in 1871 following the Franco-Prussian War."
+                },
+                {
+                    "question": "What international organization is Germany a member of, and what is its name?",
+                    "answer": "G20",
+                    "explanation": "Germany is a member of the United Nations, NATO, the G8, and the G20."
+                }
+            ],
+            "hops": [
+                "Johann Sebastian Bach",
+                "Germany"
+            ]
+        },
+        "Mühlhausen": {
+            "term": "Mühlhausen",
+            "passage": "Mühlhausen is a town in Thuringia, Germany, with a population of approximately 35,000. It is situated on the river Unstrut, and is known for its half-timbered houses and historic town center. The town has a long history, dating back to the 10th century, and was a member of the Hanseatic League in the 14th and 15th centuries. Mühlhausen was also the birthplace of the Protestant reformer Martin Luther, who was born in 1483. The town's most famous landmark is the Church of St. Mary, which was built in the 13th century and is one of the largest churches in Thuringia. Other notable attractions include the Mühlhäuser Schloss, a Renaissance-era castle, and the Lutherhaus, a museum dedicated to Luther's life and work. Mühlhausen is also home to a number of cultural events throughout the year, including the Mühlhäuser Domfest, a festival held in honor of the Church of St. Mary, and the Thüringer Klezmer Festival, a celebration of Jewish music and culture.",
+            "qae_pairs": [
+                {
+                    "question": "What was the significance of Mühlhausen's membership in the Hanseatic League for the town's history and development?",
+                    "answer": "the Hanseatic League",
+                    "explanation": "Mühlhausen was a member of the Hanseatic League in the 14th and 15th centuries. Explanation: Mühlhausen's membership in the Hanseatic League was significant for the town's history and development because it allowed the town to participate in a powerful trading network that spanned much of Northern Europe. As a member of the Hanseatic League, Mühlhausen was able to trade with other member cities and gain access to markets that it would not have been able to reach otherwise."
+                },
+                {
+                    "question": "What was the year Martin Luther, who was born in Mühlhausen, was born in?",
+                    "answer": "1483",
+                    "explanation": "Mühlhausen was also the birthplace of the Protestant reformer Martin Luther, who was born in 1483."
+                },
+                {
+                    "question": "What is the name of the river that flows through Mühlhausen?",
+                    "answer": "Unstrut",
+                    "explanation": "Mühlhausen is a town in Thuringia, Germany, with a population of approximately 35,000. It is situated on the river Unstrut, and is known for its half-timbered houses and historic town center. Evidence sentence: Mühlhausen is situated on the river Unstrut."
+                }
+            ],
+            "hops": [
+                "Johann Sebastian Bach",
+                "Mühlhausen"
+            ]
+        },
+        "Himmelpfortgrund": {
+            "term": "Himmelpfortgrund",
+            "passage": "Himmelpfortgrund is a neighborhood in the German city of Leipzig. It is located in the northwest of the city and is part of the district of Connewitz. The neighborhood is known for its green spaces, including the Himmelpfortgrund Park, which is a popular destination for locals and tourists alike. The park features a lake, walking paths, and a playground for children. The neighborhood is also home to several historic buildings, including the Himmelpfortgrund Church, which was built in the 18th century and is a popular venue for weddings and other events. The neighborhood is well-connected to the rest of the city by public transportation, including bus and tram lines. Himmelpfortgrund is a quiet and peaceful neighborhood that offers a respite from the hustle and bustle of the city center.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the city where Himmelpfortgrund is located?",
+                    "answer": "Leipzig",
+                    "explanation": "The neighborhood is known for its green spaces, including the Himmelpfortgrund Park, which is a popular destination for locals and tourists alike. The park features a lake, walking paths, and a playground for children. Evidence sentence: The neighborhood is known for its green spaces, including the Himmelpfortgrund Park, which is a popular destination for locals and tourists alike."
+                },
+                {
+                    "question": "What district is Himmelpfortgrund located in?",
+                    "answer": "Connewitz",
+                    "explanation": "The neighborhood is known for its green spaces, including the Himmelpfortgrund Park, which is a popular destination for locals and tourists alike. This sentence explains that Himmelpfortgrund is known for its green spaces, particularly the Himmelpfortgrund Park, which is a popular destination for both locals and tourists."
+                }
+            ],
+            "hops": [
+                "Franz Schubert",
+                "Himmelpfortgrund"
+            ]
+        },
+        "St. Petersburg": {
+            "term": "St. Petersburg",
+            "passage": "St. Petersburg is a city in Russia located on the Neva River at the head of the Gulf of Finland on the Baltic Sea. The city was founded by Tsar Peter the Great on May 27, 1703. It is Russia's second-largest city after Moscow, with five million inhabitants in 2021, and an important cultural center. The Historic Centre of Saint Petersburg and Related Groups of Monuments in Saint Petersburg and Leningrad Oblast is a UNESCO World Heritage Site. The city is home to many museums, including the Hermitage Museum, the Russian Museum, and the St. Petersburg State Museum of History. Saint Petersburg is also home to the Mariinsky Theatre, one of the most famous theaters in the world. The city is known for its stunning architecture, including the Winter Palace, the Peter and Paul Fortress, and the Church of the Savior on Spilled Blood. Saint Petersburg is also a major port and a center for shipbuilding, aerospace industry, and technology.",
+            "qae_pairs": [
+                {
+                    "question": "Who founded St. Petersburg?",
+                    "answer": "Tsar Peter the",
+                    "explanation": "The city was founded by Tsar Peter the Great on May 27, 1703."
+                },
+                {
+                    "question": "What is the name of the fortress located in St. Petersburg that was built by Tsar Paul I in the early 19th century?",
+                    "answer": "Paul Fortress",
+                    "explanation": "The city is known for its stunning architecture, including the Winter Palace, the Peter and Paul Fortress, and the Church of the Savior on Spilled Blood. Explanation: This sentence is an evidence sentence because it provides specific examples of the stunning architecture in St. Petersburg that the reader can use to understand the city's reputation for its architecture."
+                }
+            ],
+            "hops": [
+                "Pyotr Ilyich Tchaikovsky",
+                "St. Petersburg"
+            ]
+        },
+        "Russia": {
+            "term": "Russia",
+            "passage": "1. Russia is a country in Eastern Europe and Northern Asia. 2. It is the world's largest country, covering more than one-eighth of the Earth's land area. 3. The country is known for its rich history, culture, and natural resources. 4. The Russian Federation is a federal semi-presidential republic, with the President as the head of state and the Prime Minister as the head of government. 5. The country has a population of over 144 million people, with the majority living in urban areas. 6. The capital of Russia is Moscow, which is also the country's largest city. 7. The country has a diverse climate, with continental, maritime, and polar landscapes. 8. Russia is a major oil and gas producer, and it is also rich in minerals and other natural resources. 9. The country has a strong military, and it is one of the five permanent members of the United Nations Security Council. 10. Russia is home to many famous landmarks, including the Kremlin, St. Basil's Cathedral, and the Trans-Siberian Railway.",
+            "qae_pairs": [
+                {
+                    "question": "What is the capital of Russia?",
+                    "answer": "Moscow",
+                    "explanation": "The Russian Federation is a federal semi-presidential republic, with the President as the head of state and the Prime Minister as the head of government. Explanation: This sentence explains that the government of Russia is a federal semi-presidential republic, which means that the country is divided into smaller units called federal subjects, and the President and Prime Minister share power and responsibilities."
+                },
+                {
+                    "question": "What is the name of the famous landmark located in Moscow, Russia?",
+                    "answer": "St. Basil's",
+                    "explanation": "The country has a diverse climate, with continental, maritime, and polar landscapes. (Sentence 7) Explanation: This sentence explains that Russia has a diverse climate with various landscapes, which is an important geographical feature of the country."
+                },
+                {
+                    "question": "What famous landmark in Russia is known for its colorful onion-shaped domes?",
+                    "answer": "Cathedral",
+                    "explanation": "The country is known for its rich history, culture, and natural resources."
+                },
+                {
+                    "question": "What is the name of the famous landmark in Russia that is a railway line that spans over 9,000 kilometers?",
+                    "answer": "the Trans-Siberian Railway",
+                    "explanation": "The country has a diverse climate, with continental, maritime, and polar landscapes. Evidence sentence: The country has a diverse climate, with continental, maritime, and polar landscapes. The sentence is an evidence sentence because it provides information about the climate in Russia, which is one of the characteristics of the country mentioned in the passage."
+                }
+            ],
+            "hops": [
+                "Pyotr Ilyich Tchaikovsky",
+                "Russia"
+            ]
+        },
+        "Votkinsk": {
+            "term": "Votkinsk",
+            "passage": "Votkinsk is a town in Votkinsk Urban Settlement, Votkinsky District, Sverdlovsk Oblast, Russia, located on the Votka River, 120 kilometers (75 mi) northwest of Yekaterinburg, the administrative center of the oblast. As of the 2010 Census, its population was 27,865. The town was founded in 1748 as a copper smelting factory, and was named after the nearby Votka River. The factory was built by the government of Empress Elizabeth of Russia, and was intended to provide copper for the Russian military. The factory was closed in 1768, but was reopened in 1773 by Catherine the Great. Votkinsk is known for its military industry, and is home to the Votkinsk Machine Building Plant, which produces the RS-24 Yars intercontinental ballistic missile. The town is also home to the Votkinsk Mechanical Plant, which produces military equipment, including tanks and armored personnel carriers. The town has a museum dedicated to the history of the Votkinsk Machine Building Plant, which includes exhibits on the production of the RS-24 Yars missile. The museum also has exhibits on the history of the town, including its founding and the role of the factory in the development of the region. Votkinsk has a humid continental climate, with warm summers and cold winters. The town is located in the middle of the Ural Mountains, and is surrounded by forests and mountains. The town has a number of parks and recreational areas, including the Votkinsk Central Park and the Votkinsk Forest Park.",
+            "qae_pairs": [
+                {
+                    "question": "What year was Votkinsk founded?",
+                    "answer": "1748",
+                    "explanation": "The factory was closed in 1768, but was reopened in 1773 by Catherine the Great. Evidence sentence: The factory was closed in 1768, but was reopened in 1773 by Catherine the Great."
+                },
+                {
+                    "question": "Who founded Votkinsk in 1748?",
+                    "answer": "Empress Elizabeth",
+                    "explanation": "The factory was built by the government of Empress Elizabeth of Russia, and was intended to provide copper for the Russian military."
+                },
+                {
+                    "question": "What is the country of origin of the Votkinsk Machine Building Plant, which produces the RS-24 Yars intercontinental ballistic missile?",
+                    "answer": "Russia",
+                    "explanation": "The factory was built by the government of Empress Elizabeth of Russia, and was intended to provide copper for the Russian military."
+                }
+            ],
+            "hops": [
+                "Pyotr Ilyich Tchaikovsky",
+                "Votkinsk"
+            ]
+        },
+        "Zentralfriedhof": {
+            "term": "Zentralfriedhof",
+            "passage": "Zentralfriedhof is a cemetery in Vienna, Austria. It is the largest cemetery in Vienna, covering an area of 2.4 square kilometres (0.93 sq mi). The cemetery was opened in 1874 and is the final resting place for many notable Austrians, including composers Johann Strauss II and Franz Lehár, as well as the philosopher Ludwig Wittgenstein. The cemetery is also the site of the Wiener Zentralfriedhof station on the Vienna U-Bahn.",
+            "qae_pairs": [
+                {
+                    "question": "What is the year in which Zentralfriedhof was opened?",
+                    "answer": "1874",
+                    "explanation": "The cemetery was opened in 1874 and is the final resting place for many notable Austrians, including composers Johann Strauss II and Franz Lehár, as well as the philosopher Ludwig Wittgenstein."
+                },
+                {
+                    "question": "What notable Austrian philosopher is buried at Zentralfriedhof in Vienna, and is not Johannes Brahms?",
+                    "answer": "Ludwig Wittgenstein",
+                    "explanation": "The cemetery was opened in 1874 and is the final resting place for many notable Austrians, including composers Johann Strauss II and Franz Lehár, as well as the philosopher Ludwig Wittgenstein."
+                },
+                {
+                    "question": "What is the name of the composer who is buried in Zentralfriedhof in Vienna, Austria?",
+                    "answer": "Johann Strauss II",
+                    "explanation": "The cemetery was opened in 1874 and is the final resting place for many notable Austrians, including composers Johann Strauss II and Franz Lehár, as well as the philosopher Ludwig Wittgenstein."
+                }
+            ],
+            "hops": [
+                "Johannes Brahms",
+                "Zentralfriedhof"
+            ]
+        },
+        "Hamburg": {
+            "term": "Hamburg",
+            "passage": "Hamburg is the second-largest city in Germany and the thirteenth-largest German state. It has a population of over 1.8 million people and is located in the north of the country on the river Elbe. The city is known for its port, which is one of the busiest in Europe and has been a major trading center for centuries. Hamburg is also a major cultural center, with numerous museums, theaters, and music venues. The city is home to the oldest university in Germany, the University of Hamburg, which was founded in 1919. Hamburg is also known for its architecture, which includes many historic buildings and modern skyscrapers. The city is divided into seven boroughs, each with its own unique character and attractions.",
+            "qae_pairs": [
+                {
+                    "question": "What year was the University of Hamburg founded in Hamburg?",
+                    "answer": "1919",
+                    "explanation": "The University of Hamburg was founded in 1919."
+                },
+                {
+                    "question": "What is the duration of Hamburg's port being a major trading center?",
+                    "answer": "centuries",
+                    "explanation": "The city is known for its port, which is one of the busiest in Europe and has been a major trading center for centuries."
+                }
+            ],
+            "hops": [
+                "Johannes Brahms",
+                "Hamburg"
+            ]
+        },
+        "Robert Schumann": {
+            "term": "Robert Schumann",
+            "passage": "1. Robert Schumann (1810-1856) was a German composer and music critic. 2. He was born in Zwickau, Saxony, and showed a remarkable aptitude for music from an early age. 3. Schumann studied law before deciding to pursue a career in music, and he went on to become one of the most influential composers of the Romantic era. 4. His works include symphonies, piano music, chamber music, and choral music, as well as lieder (songs for voice and piano). 5. Schumann is perhaps best known for his piano music, including his Kinderszenen (Scenes from Childhood) and his Davidsbündlertänze (Dances of the League of David). 6. He also wrote a significant amount of music for the piano, including his famous Carnaval and his piano concerto. 7. Schumann's music is characterized by its emotional intensity, its use of folk melodies and rhythms, and its innovative harmonies. 8. In addition to his composing, Schumann was also a music critic and editor, and he played a significant role in promoting the works of other composers, including Johannes Brahms and Frédéric Chopin. 9. Schumann suffered from mental illness throughout his life, and he died in an asylum in Endenich, near Bonn, at the age of 46. 10. Despite his short life, Schumann's music has had a lasting impact on the world of classical music, and he is widely regarded as one of the greatest composers of all time.",
+            "qae_pairs": [
+                {
+                    "question": "What is the title of Robert Schumann's famous piano work that is a set of 18 short pieces, each named after a member of the fictional \"League of David\"?",
+                    "answer": "Davidsbündlertänze",
+                    "explanation": "Schumann is perhaps best known for his piano music, including his Kinderszenen (Scenes from Childhood) and his Davidsbündlertänze (Dances of the League of David). This sentence explains that Robert Schumann is well-known for his piano music, and specifically mentions two of his most famous works: Kinderszenen (Scenes from Childhood) and Davidsbündlertänze (Dances of the League of David)."
+                },
+                {
+                    "question": "What was the location of the asylum where Robert Schumann died?",
+                    "answer": "Bonn",
+                    "explanation": "Schumann suffered from mental illness throughout his life, and he died in an asylum in Endenich, near Bonn, at the age of 46. This sentence explains that Robert Schumann suffered from mental illness throughout his life and died in an asylum located in Endenich, near Bonn, at the age of 46."
+                }
+            ],
+            "hops": [
+                "Johannes Brahms",
+                "Robert Schumann"
+            ]
+        },
+        "Baroque": {
+            "term": "Baroque",
+            "passage": "Baroque is a style of art, architecture, and music that originated in Europe in the early 17th century and lasted until the mid-18th century. It is characterized by ornate and theatrical forms, dramatic use of light and shadow, and a sense of movement and tension. Baroque art and architecture often featured grandiose and elaborate designs, with a focus on the use of ornamentation and decoration. The style was heavily influenced by the Catholic Church and the Counter-Reformation, which sought to counter the Protestant Reformation and emphasize the grandeur and power of the Church. Baroque music was characterized by complex and intricate melodies, rich harmonies, and a strong emphasis on emotional expression. Some of the most famous composers of Baroque music include Johann Sebastian Bach, George Frideric Handel, and Antonio Vivaldi. The Baroque period was a time of great artistic and cultural achievement, and many of the works produced during this time continue to be celebrated and admired today.",
+            "qae_pairs": [
+                {
+                    "question": "What was the exact date when the Baroque period ended?",
+                    "answer": "the mid-18th century",
+                    "explanation": "Baroque is a style of art, architecture, and music that originated in Europe in the early 17th century and lasted until the mid-18th century. This sentence explains that the Baroque period lasted from the early 17th century until the mid-18th century."
+                }
+            ],
+            "hops": [
+                "George Frideric Handel",
+                "Baroque"
+            ]
+        },
+        "Italy": {
+            "term": "Italy",
+            "passage": "Italy, officially the Italian Republic, is a country in Southern Europe. Located in the heart of the Mediterranean Sea, Italy shares open land borders with France, Switzerland, Austria, Slovenia, San Marino and Vatican City. Italy covers an area of 301,338 km² (116,347 sq mi) and has a largely temperate climate; due to its shape, it is often referred to as a boot. With 61 million inhabitants, it is the 4th most populous country in the European Union. Italy has a very long and complex history, dating back to the Etruscan civilization and the Roman Empire. The country has given birth to many famous artists, writers, philosophers, scientists, and inventors, such as Leonardo da Vinci, Michelangelo, Galileo Galilei, and Marconi. Italy is also known for its cuisine, which is considered one of the most popular and refined in the world, and for its fashion industry, which is one of the most important in the world.",
+            "qae_pairs": [
+                {
+                    "question": "What country is located to the north of Italy, but not France, and is known for its chocolate and cheese?",
+                    "answer": "Switzerland",
+                    "explanation": "Italy is located in the heart of the Mediterranean Sea and shares open land borders with France, Switzerland, Austria, Slovenia, San Marino and Vatican City."
+                },
+                {
+                    "question": "What was the name of the famous Italian artist who created the sculpture of David in Florence, Italy?",
+                    "answer": "Michelangelo",
+                    "explanation": "Italy has given birth to many famous artists, writers, philosophers, scientists, and inventors, such as Leonardo da Vinci, Michelangelo, Galileo Galilei, and Marconi. This sentence provides evidence that Italy has produced many famous individuals who have contributed to various fields, including art, science, and philosophy."
+                }
+            ],
+            "hops": [
+                "George Frideric Handel",
+                "Italy"
+            ]
+        },
+        "England": {
+            "term": "England",
+            "passage": "1. England is a country that is part of the United Kingdom. 2. It shares land borders with Scotland to the north and Wales to the west. 3. The capital of England is London, which is also the capital of the United Kingdom. 4. England is home to some of the world's most famous landmarks, including Stonehenge, the Tower of London, and Buckingham Palace. 5. The English language, which is spoken in many countries around the world, originated in England. 6. England is also known for its rich history, including the reign of Queen Elizabeth II, who has been on the throne since 1952. 7. The country is famous for its football (soccer) teams, including Manchester United, Chelsea, and Arsenal. 8. England is a popular tourist destination, with millions of visitors each year drawn to its beautiful countryside, historic cities, and cultural attractions.",
+            "qae_pairs": [
+                {
+                    "question": "What is the capital of England?",
+                    "answer": "London",
+                    "explanation": "The capital of England is London, which is also the capital of the United Kingdom. This sentence explains that London is both the capital of England and the United Kingdom."
+                },
+                {
+                    "question": "Who is the current monarch of England?",
+                    "answer": "Elizabeth II",
+                    "explanation": "The English language, which is spoken in many countries around the world, originated in England. This sentence is an explanation of the fact that the English language, which is spoken in many countries around the world, originated in England."
+                },
+                {
+                    "question": "What is the name of the famous prehistoric monument located in England?",
+                    "answer": "Stonehenge",
+                    "explanation": "The English language, which is spoken in many countries around the world, originated in England. The English language originated in England."
+                },
+                {
+                    "question": "What year did Queen Elizabeth II become the monarch of England?",
+                    "answer": "1952",
+                    "explanation": "The English language, which is spoken in many countries around the world, originated in England."
+                }
+            ],
+            "hops": [
+                "George Frideric Handel",
+                "England"
+            ]
+        },
+        "the Royal Society": {
+            "term": "the Royal Society",
+            "passage": "The Royal Society is a learned society for science, and is possibly the oldest such society still in existence. It was founded in November 1660, during the reign of King Charles II, and is headquartered in London, England. The society is open to anyone who is interested in science, and has a worldwide membership of over 16,000 fellows. The society's primary purpose is to promote the progress of science, and it does this by funding research, organizing meetings and conferences, and publishing scientific journals. The society has played a key role in many scientific discoveries and advancements over the years, and has been instrumental in the development of fields such as physics, chemistry, and biology. Some of the most famous scientists in history have been fellows of the Royal Society, including Isaac Newton, Charles Darwin, and Albert Einstein.",
+            "qae_pairs": [
+                {
+                    "question": "Who was the first scientist to be elected as a fellow of the Royal Society after the publication of his groundbreaking work on evolution, \"On the Origin of Species\"?",
+                    "answer": "Charles Darwin",
+                    "explanation": "The society is open to anyone who is interested in science, and has a worldwide membership of over 16,000 fellows. Explanation: This sentence explains that the Royal Society is open to anyone who is interested in science and has a large number of members worldwide who are fellows."
+                },
+                {
+                    "question": "What is the location of the headquarters of the Royal Society?",
+                    "answer": "London",
+                    "explanation": "The society is headquartered in London, England."
+                }
+            ],
+            "hops": [
+                "George Frideric Handel",
+                "the Royal Society"
+            ]
+        },
+        "Halle": {
+            "term": "Halle",
+            "passage": "Halle is a city in the German state of Saxony-Anhalt. It is the largest city in the state and the fourth-largest city in Saxony-Anhalt. Halle is known for its history and culture, as well as its role in the industrial revolution. The city is home to several universities and research institutions, including Martin Luther University Halle-Wittenberg and the Max Planck Institute for Social Anthropology. Halle is also known for its music scene, with famous musicians such as George Frideric Handel and Johann Sebastian Bach having lived and worked in the city. The city is home to several museums, including the Moritzburg Museum and the Museum of Prehistory. Halle is also known for its architecture, with several historic buildings and landmarks, such as the Market Square and the Old Town Hall. The city is located on the river Saale and is a popular destination for boating and water sports.",
+            "qae_pairs": [
+                {
+                    "question": "What river flows through Halle and is a popular destination for boating and water sports?",
+                    "answer": "Saale",
+                    "explanation": "Halle is located on the river Saale and is a popular destination for boating and water sports."
+                },
+                {
+                    "question": "What research institution in Halle is known for its studies on human societies and cultures?",
+                    "answer": "the Max Planck Institute for Social Anthropology",
+                    "explanation": "The city is home to several universities and research institutions, including Martin Luther University Halle-Wittenberg and the Max Planck Institute for Social Anthropology. This sentence explains that Halle is home to several universities and research institutions, including Martin Luther University Halle-Wittenberg and the Max Planck Institute for Social Anthropology."
+                }
+            ],
+            "hops": [
+                "George Frideric Handel",
+                "Halle"
+            ]
+        },
+        "the Accademia di Musica": {
+            "term": "the Accademia di Musica",
+            "passage": "The Accademia di Musica is a music school located in Florence, Italy. It was founded in 1961 by the Italian composer and conductor, Giorgio Ferrara, and is considered one of the most prestigious music schools in Italy. The school offers a wide range of courses in music, including composition, conducting, performance, and musicology. The Accademia di Musica has a faculty of renowned musicians and musicologists, and its students come from all over the world. The school has a strong focus on classical music, but also offers courses in jazz and contemporary music. The Accademia di Musica has produced many notable alumni, including the conductor Riccardo Muti and the composer Ludovico Einaudi. The school also hosts concerts and recitals by its students and faculty, as well as by guest artists. The Accademia di Musica is located in a historic building in the heart of Florence, and its campus includes a concert hall, practice rooms, and a library.",
+            "qae_pairs": [
+                {
+                    "question": "What was the name of the Italian composer and conductor who founded the Accademia di Musica in Florence in 1961?",
+                    "answer": "Giorgio Ferrara",
+                    "explanation": "The Accademia di Musica is a music school located in Florence, Italy. It was founded in 1961 by the Italian composer and conductor, Giorgio Ferrara, and is considered one of the most prestigious music schools in Italy."
+                },
+                {
+                    "question": "What is the location of the Accademia di Musica?",
+                    "answer": "Italy",
+                    "explanation": "The Accademia di Musica is considered one of the most prestigious music schools in Italy."
+                }
+            ],
+            "hops": [
+                "Antonio Vivaldi",
+                "the Accademia di Musica"
+            ]
+        },
+        "the Paris Conservatoire": {
+            "term": "the Paris Conservatoire",
+            "passage": "The Paris Conservatoire (French: Conservatoire national supérieur de musique et de danse de Paris) is a music and dance school in Paris, France, founded in 1795. It is one of the oldest and most prestigious music schools in the world, and has been the starting point for many famous musicians and composers. The conservatoire offers training in a wide range of musical styles, from classical to jazz and contemporary music. It also houses a large library and archive of music, which is open to the public. The conservatoire has a long history of producing some of the world's most renowned musicians, including Claude Debussy, Maurice Ravel, Georges Bizet, Camille Saint-Saëns, and Jacques Offenbach. The conservatoire is located in the 9th arrondissement of Paris, near the Palais Garnier opera house.",
+            "qae_pairs": [
+                {
+                    "question": "Who is the famous composer associated with the Paris Conservatoire, other than Claude Debussy?",
+                    "answer": "Maurice Ravel",
+                    "explanation": "The conservatoire has a long history of producing some of the world's most renowned musicians, including Claude Debussy, Maurice Ravel, Georges Bizet, Camille Saint-Saëns, and Jacques Offenbach."
+                },
+                {
+                    "question": "Who is the famous composer that studied at the Paris Conservatoire and went on to write the opera \"Carmen\"?",
+                    "answer": "Georges Bizet",
+                    "explanation": "The conservatoire has a long history of producing some of the world's most renowned musicians, including Claude Debussy, Maurice Ravel, Georges Bizet, Camille Saint-Saëns, and Jacques Offenbach."
+                },
+                {
+                    "question": "What is the name of the library and archive of music at the Paris Conservatoire?",
+                    "answer": "de Paris",
+                    "explanation": "The Paris Conservatoire (French: Conservatoire national supérieur de musique et de danse de Paris) is a music and dance school in Paris, France, founded in 1795. It is one of the oldest and most prestigious music schools in the world, and has been the starting point for many famous musicians and composers. The conservatoire offers training in a wide range of musical styles, from classical to jazz and contemporary music. It also houses a large library and archive of music, which is open to the public."
+                }
+            ],
+            "hops": [
+                "Claude Debussy",
+                "the Paris Conservatoire"
+            ]
+        },
+        "Pelléas et Mélisande": {
+            "term": "Pelléas et Mélisande",
+            "passage": "Pelléas et Mélisande is an opera in five acts by Claude Debussy, with a French libretto by Maurice Maeterlinck. It was first performed at the Théâtre de l'Opéra-Comique in Paris on April 30, 1902. The opera is based on Maeterlinck's symbolist play of the same name, which debuted in 1892. The story revolves around the mysterious and tragic relationship between Pelléas, the son of the king of Allemonde, and Mélisande, a mysterious and ethereal woman who arrives in the kingdom. The opera is known for its use of impressionistic harmonies and its exploration of themes such as love, death, and the mysteries of the human psyche.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the playwright who wrote the original play on which the opera Pelléas et Mélisande by Claude Debussy is based?",
+                    "answer": "Maurice Maeterlinck",
+                    "explanation": "The opera is based on Maeterlinck's symbolist play of the same name, which debuted in 1892."
+                }
+            ],
+            "hops": [
+                "Claude Debussy",
+                "Pelléas et Mélisande"
+            ]
+        },
+        "Saint-Germain-en-Laye": {
+            "term": "Saint-Germain-en-Laye",
+            "passage": "Saint-Germain-en-Laye is a commune in the Yvelines department in the Île-de-France region in north-central France. It is located 17.2 km (10.7 mi) west of Paris and is a suburb of the French capital. The town is known for its royal château, which was built in the 12th century and was later expanded by Louis XIV. The château is now a museum and is open to the public. Saint-Germain-en-Laye is also known for its parks and gardens, including the Parc du Château and the Jardins de l'Abbaye. The town is home to several important cultural institutions, including the Musée d'Archéologie Nationale and the Musée de la Marine. Saint-Germain-en-Laye is served by two railway stations, Gare de Saint-Germain-en-Laye and Gare de Saint-Germain-en-Laye-Grande Ceinture, which provide regular services to Paris and other destinations. The town is also connected to the Paris Métro network via the RER A.",
+            "qae_pairs": [
+                {
+                    "question": "What is the capital city of the Île-de-France region in France where the famous Château de Saint-Germain-en-Laye is located?",
+                    "answer": "France",
+                    "explanation": "The town is known for its royal château, which was built in the 12th century and was later expanded by Louis XIV. The château is now a museum and is open to the public. The capital city of the Île-de-France region in France where the famous Château de Saint-Germain-en-Laye is located is France."
+                },
+                {
+                    "question": "What is the department of Saint-Germain-en-Laye?",
+                    "answer": "Yvelines",
+                    "explanation": "The town is known for its royal château, which was built in the 12th century and was later expanded by Louis XIV. The château is now a museum and is open to the public. Evidence sentence: The town is known for its royal château, which was built in the 12th century and was later expanded by Louis XIV."
+                }
+            ],
+            "hops": [
+                "Claude Debussy",
+                "Saint-Germain-en-Laye"
+            ]
+        },
+        "Europe": {
+            "term": "Europe",
+            "passage": "Europe is a continent located entirely in the Northern Hemisphere and mostly in the Eastern Hemisphere. It is bordered by the Arctic Ocean to the north, the Atlantic Ocean to the west, and the Mediterranean Sea to the south. It comprises 47 countries, with Russia, Germany, France, the United Kingdom, Italy, Spain, and Poland being the largest. The population of Europe is about 741 million people, making it the second-most populous continent after Asia. Europe, in particular ancient Greece, was the birthplace of Western civilization, and the Western legal tradition, which heavily influenced the formation of the modern Western world. Europe has a rich and diverse culture, and has been the birthplace of many influential figures in art, literature, and philosophy. The continent is home to the highest number of UNESCO World Heritage Sites, with Italy, Spain, and France leading the way. Europe is also a major economic power, with the largest economy in the world being that of the European Union.",
+            "qae_pairs": [
+                {
+                    "question": "What body of water is located to the south of Europe?",
+                    "answer": "the Mediterranean Sea",
+                    "explanation": "Europe, in particular ancient Greece, was the birthplace of Western civilization, and the Western legal tradition, which heavily influenced the formation of the modern Western world. Answer: Europe, in particular ancient Greece, was the birthplace of Western civilization."
+                },
+                {
+                    "question": "What country in Europe is known for its famous beer and Oktoberfest celebration?",
+                    "answer": "Germany",
+                    "explanation": "Europe, in particular ancient Greece, was the birthplace of Western civilization, and the Western legal tradition, which heavily influenced the formation of the modern Western world. Evidence sentence: Europe, in particular ancient Greece, was the birthplace of Western civilization."
+                },
+                {
+                    "question": "What country in Europe is known for its vodka and pierogi?",
+                    "answer": "Poland",
+                    "explanation": "Europe is a continent located entirely in the Northern Hemisphere and mostly in the Eastern Hemisphere."
+                }
+            ],
+            "hops": [
+                "Johann Strauss II",
+                "Europe"
+            ]
+        }
+    }
+}

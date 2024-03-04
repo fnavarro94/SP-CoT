@@ -1,0 +1,751 @@
+{
+    "first_hops": {
+        "Leonardo da Vinci": {
+            "term": "Leonardo da Vinci",
+            "passage": "Leonardo da Vinci (1452-1519) was an Italian polymath, regarded as one of the greatest painters of all time and as a leading light of the Italian Renaissance. He was born in the Tuscan town of Vinci, in the heart of the Florentine Republic. The son of a wealthy notary, Piero da Vinci, and a peasant woman, Caterina, Leonardo was educated in the studio of the renowned Florentine painter Andrea del Verrocchio. Leonardo's early life was marked by a restless curiosity and a desire to learn. He was fascinated by the natural world and spent much of his time studying the laws of science and the workings of the human body. He was also a gifted musician and played the lyre and the lira da braccio. In 1482, Leonardo moved to Milan, where he was employed as a military engineer and architect by the Duke of Milan, Ludovico Sforza. It was during this period that he painted some of his most famous works, including the Mona Lisa and The Last Supper. Leonardo was a prolific inventor and engineer, designing machines and devices that were centuries ahead of their time. He made detailed sketches of flying machines, helicopters, and parachutes, and was one of the first people to recognize the importance of aerodynamics. He also designed war machines, including tanks and cannons, and was a pioneer in the field of hydrodynamics. In addition to his artistic and scientific pursuits, Leonardo was also a skilled writer and philosopher. He wrote extensively on a wide range of topics, including anatomy, botany, and geology.",
+            "qae_pairs": [
+                {
+                    "question": "1. Who was the Duke of Milan during Leonardo da Vinci's time in Milan? 2. What was the name of the famous painting that Leonardo da Vinci created during his time in Milan? 3. What was the name of the famous painting that Leonardo da Vinci created",
+                    "answer": "Ludovico Sforza",
+                    "explanation": "1. It was during this period that he painted some of his most famous works, including the Mona Lisa and The Last Supper. Passage 2: Passage about Florence: Florence is the capital city of the Italian region of Tuscany and is known as the birthplace of the Renaissance. It is a city steeped in history and culture, with a rich architectural heritage and a thriving arts scene."
+                },
+                {
+                    "question": "What is the name of Leonardo da Vinci's father?",
+                    "answer": "Piero da Vinci",
+                    "explanation": "He was born in the Tuscan town of Vinci, in the heart of the Florentine Republic."
+                },
+                {
+                    "question": "What was the political system of the city-state where Leonardo da Vinci was born?",
+                    "answer": "the Florentine Republic",
+                    "explanation": "He was born in the Tuscan town of Vinci, in the heart of the Florentine Republic."
+                },
+                {
+                    "question": "What is the date of birth and death of Leonardo da Vinci?",
+                    "answer": "1452-1519",
+                    "explanation": "It was during this period that he painted some of his most famous works, including the Mona Lisa and The Last Supper. Evidence sentence: Leonardo da Vinci moved to Milan in 1482 and painted some of his most famous works, including the Mona Lisa and The Last Supper, during this period."
+                },
+                {
+                    "question": "In which year did Leonardo da Vinci move to Milan?",
+                    "answer": "1482",
+                    "explanation": "In 1482, Leonardo moved to Milan, where he was employed as a military engineer and architect by the Duke of Milan, Ludovico Sforza."
+                },
+                {
+                    "question": "1. Who was Leonardo da Vinci's teacher? 2. Who was the Duke of Milan during Leonardo's time in Milan? 3. What was Leonardo's profession in Milan? 4. What was Leonardo's main area of study? 5. What was",
+                    "answer": "Andrea del Verrocchio",
+                    "explanation": "He was born in the Tuscan town of Vinci, in the heart of the Florentine Republic. The son of a wealthy notary, Piero da Vinci, and a peasant woman, Caterina, Leonardo was educated in the studio of the renowned Florentine painter Andrea del Verrocchio. This sentence explains that Leonardo da Vinci was born in the Tuscan town of Vinci, which is located in the heart of the Florentine Republic."
+                }
+            ],
+            "hops": [
+                "Leonardo da Vinci"
+            ]
+        },
+        "Vincent van Gogh": {
+            "term": "Vincent van Gogh",
+            "passage": "Vincent Willem van Gogh (30 March 1853 – 29 July 1890) was a Dutch post-impressionist painter who is among the most famous and influential figures in the history of Western art. In just over a decade he created about 2,100 artworks, including around 860 oil paintings, most of which date from the last two years of his life. They include landscapes, still lifes, portraits and self-portraits, and are characterised by bold colours and dramatic, impulsive brushwork that contributed to the foundations of modern art. His suicide at just 37 years of age followed years of mental illness and poverty. Van Gogh was born in Groot-Zundert, Netherlands, the son of a pastor. He was raised in a religious and cultured environment and was given art lessons by his uncle, who was a minister and amateur artist. In 1869, he began his career as an art dealer in The Hague, but he soon abandoned this in favour of a life as a painter. After a period of training and study, he moved to Brussels in 1880, where he began to develop his unique style. He moved to Paris in 1886, where he was influenced by the Impressionist movement, and then to Arles in the south of France in 1888, where he created some of his most famous works. Van Gogh's early works were dark and somber, but he gradually developed a brighter and more colourful palette.",
+            "qae_pairs": [
+                {
+                    "question": "* What is the name of the city where Vincent van Gogh created some of his most famous works? * What is the name of the city where Vincent van Gogh lived and worked for a short period of time? * What is the name of the city where Vincent van Gogh",
+                    "answer": "Arles",
+                    "explanation": "Van Gogh was born in Groot-Zundert, Netherlands, the son of a pastor. He was raised in a religious and cultured environment and was given art lessons by his uncle, who was a minister and amateur artist."
+                },
+                {
+                    "question": "1. What year did Vincent van Gogh move to Paris? 2. In which year did Vincent van Gogh create most of his famous works? 3. What is the name of the movement that influenced Vincent van Gogh in Paris? 4. What is the name of the city",
+                    "answer": "1886",
+                    "explanation": "Van Gogh moved to Paris in 1886, where he was influenced by the Impressionist movement."
+                },
+                {
+                    "question": "Vincent Willem van Gogh was born on which date?",
+                    "answer": "30 March 1853",
+                    "explanation": "Van Gogh was born in Groot-Zundert, Netherlands, the son of a pastor. He was raised in a religious and cultured environment and was given art lessons by his uncle, who was a minister and amateur artist. Answer: Van Gogh was born in Groot-Zundert, Netherlands, the son of a pastor."
+                },
+                {
+                    "question": "What is the capital of Belgium? What is the currency of Japan? What is the highest mountain in the contiguous United States? What is the most populous city in the United States? What is the most popular programming language for web development? What",
+                    "answer": "Brussels",
+                    "explanation": "Van Gogh's early works were dark and somber, but he gradually developed a brighter and more colorful palette. Evidence sentence: Van Gogh's early works were dark and somber."
+                },
+                {
+                    "question": "1. When did Vincent van Gogh create most of his artworks? 2. Where did Vincent van Gogh create most of his artworks? 3. What is the name of the movement that influenced Vincent van Gogh in Paris? 4. What is the name of the city",
+                    "answer": "the last two years",
+                    "explanation": "Van Gogh created most of his artworks in the last two years of his life."
+                }
+            ],
+            "hops": [
+                "Vincent van Gogh"
+            ]
+        },
+        "Pablo Picasso": {
+            "term": "Pablo Picasso",
+            "passage": "Pablo Picasso was a Spanish artist who is widely regarded as one of the most influential artists of the 20th century. He is known for co-founding the Cubist movement, the invention of constructed sculpture, the co-invention of collage, and for the wide variety of styles that he helped develop and explore. Among his most famous works are the proto-Cubist Les Demoiselles d'Avignon (1907) and Guernica (1937), a dramatic portrayal of the bombing of Guernica by German and Italian warplanes during the Spanish Civil War. Picasso demonstrated extraordinary artistic talent from an early age. As a teenager, he was already an accomplished artist, and he went on to study at the Royal Academy of San Fernando in Madrid before moving to Paris in 1904, where he quickly became a central figure in the city's artistic community. Throughout his long and prolific career, Picasso worked in a wide variety of styles, from the realism of his early work to the abstract expressionism of his later years. Picasso was also known for his many relationships and marriages, including his marriage to the Russian ballerina Olga Khokhlova, which lasted from 1918 to 1932. He was also known for his many affairs and his many children with different women. Despite his many personal and professional successes, Picasso was also known for his controversial political views and his support for the Spanish Communist Party during the Spanish Civil War. He was also known for his philanthropy, donating many of his works to museums and other institutions. Picasso's influence on modern and contemporary art cannot be overstated.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the art school that Pablo Picasso attended as a teenager?",
+                    "answer": "the Royal Academy of San Fernando",
+                    "explanation": "Picasso demonstrated extraordinary artistic talent from an early age. As a teenager, he was already an accomplished artist, and he went on to study at the Royal Academy of San Fernando in Madrid before moving to Paris in 1904, where he quickly became a central figure in the city's artistic community."
+                },
+                {
+                    "question": "What is the capital city of Spain?",
+                    "answer": "Madrid",
+                    "explanation": "Picasso demonstrated extraordinary artistic talent from an early age. As a teenager, he was already an accomplished artist, and he went on to study at the Royal Academy of San Fernando in Madrid before moving to Paris in 1904, where he quickly became a central figure in the city's artistic community. This evidence sentence explains that Picasso had an early talent for art and went on to study at the Royal Academy of San Fernando in Madrid before moving to Paris and becoming a central figure in the city's artistic community."
+                },
+                {
+                    "question": "What century was Pablo Picasso's art most influential in?",
+                    "answer": "the 20th century",
+                    "explanation": "Pablo Picasso was a Spanish artist who is widely regarded as one of the most influential artists of the 20th century."
+                },
+                {
+                    "question": "What year did Pablo Picasso create Guernica, a powerful anti-war painting that is widely regarded as one of the most important works of the 20th century?",
+                    "answer": "1937",
+                    "explanation": "Pablo Picasso created Guernica in 1937, a powerful anti-war painting that is widely regarded as one of the most important works of the 20th century."
+                },
+                {
+                    "question": "What is the name of Pablo Picasso's wife?",
+                    "answer": "Olga Khokhlova",
+                    "explanation": "Picasso demonstrated extraordinary artistic talent from an early age. This sentence serves as an explanation for the fact that Picasso was known for his many relationships and marriages, including his marriage to the Russian ballerina Olga Khokhlova, which lasted from 1918 to 1932."
+                },
+                {
+                    "question": "In which city was Pablo Picasso's career as a central figure in the artistic community truly launched?",
+                    "answer": "Paris",
+                    "explanation": "Picasso demonstrated extraordinary artistic talent from an early age. As a teenager, he was already an accomplished artist, and he went on to study at the Royal Academy of San Fernando in Madrid before moving to Paris in 1904, where he quickly became a central figure in the city's artistic community. This evidence sentence explains that Picasso had an early talent for art and studied at the Royal Academy of San Fernando in Madrid before moving to Paris, where he became a central figure in the city's artistic community."
+                },
+                {
+                    "question": "What year did Pablo Picasso create Les Demoiselles d'Avignon?",
+                    "answer": "1907",
+                    "explanation": "Picasso demonstrated extraordinary artistic talent from an early age."
+                }
+            ],
+            "hops": [
+                "Pablo Picasso"
+            ]
+        },
+        "Rembrandt van Rijn": {
+            "term": "Rembrandt van Rijn",
+            "passage": "Rembrandt van Rijn (15 July 1606 – 4 October 1669) was a Dutch painter and etcher. He is generally considered one of the greatest painters and printmakers in European art history and the most important in Dutch history. His contributions to art came in a period of great wealth and cultural achievement that historians call the Dutch Golden Age. Rembrandt's portraits of his contemporaries were characterized by the use of rich colors, dramatic contrasts of light and shadow, and a strong sense of psychological insight. His paintings often depicted scenes from the Bible, as well as historical and mythological subjects. He was also skilled in the use of etching, and produced many prints, including landscapes, genre scenes, and portraiture. Rembrandt's style evolved over the course of his career, and he was influenced by a wide range of artists and artistic movements. In his early works, he was heavily influenced by the Italian Baroque, but in his later years, he developed a more personal and experimental style, often using unconventional techniques and subject matter. Rembrandt's work was highly regarded by his contemporaries, and he was considered one of the most important painters of his time. However, his reputation declined in the 19th century, and he was largely forgotten until the late 19th and early 20th centuries, when his work was rediscovered and reevaluated. Today, Rembrandt is considered one of the greatest painters and printmakers in European art history, and his work continues to be celebrated and studied around the world.",
+            "qae_pairs": [
+                {
+                    "question": "What was the date of Rembrandt van Rijn's death?",
+                    "answer": "4 October 1669",
+                    "explanation": "Rembrandt van Rijn (15 July 1606 – 4 October 1669) was a Dutch painter and etcher. He is generally considered one of the greatest painters and printmakers in European art history and the most important in Dutch history."
+                },
+                {
+                    "question": "What is the style of art that was popular in Europe during the 17th century?",
+                    "answer": "Baroque",
+                    "explanation": "Rembrandt's portraits of his contemporaries were characterized by the use of rich colors, dramatic contrasts of light and shadow, and a strong sense of psychological insight. This sentence provides evidence that Rembrandt was a Baroque painter, as the Baroque style was known for its use of rich colors, dramatic contrasts of light and shadow, and a strong sense of drama and emotion."
+                },
+                {
+                    "question": "What period of time was Rembrandt's reputation largely forgotten?",
+                    "answer": "the 19th century",
+                    "explanation": "However, his reputation declined in the 19th century, and he was largely forgotten until the late 19th and early 20th centuries, when his work was rediscovered and reevaluated."
+                },
+                {
+                    "question": "What was the period of great wealth and cultural achievement that Rembrandt van Rijn lived in?",
+                    "answer": "the Dutch Golden Age",
+                    "explanation": "Rembrandt's portraits of his contemporaries were characterized by the use of rich colors, dramatic contrasts of light and shadow, and a strong sense of psychological insight."
+                },
+                {
+                    "question": "What is Rembrandt van Rijn's birthdate?",
+                    "answer": "15 July 1606",
+                    "explanation": "Passage: Rembrandt van Rijn (15 July 1606 – 4 October 1669) was a Dutch painter and etcher. He is generally considered one of the greatest painters and printmakers in European art history and the most important in Dutch history."
+                }
+            ],
+            "hops": [
+                "Rembrandt van Rijn"
+            ]
+        },
+        "Claude Monet": {
+            "term": "Claude Monet",
+            "passage": "Claude Monet was a French painter who is considered one of the founders of the Impressionist movement. He was born on November 14, 1840, in Paris, France, and died on December 5, 1926, in Giverny, France. Monet's style evolved over the course of his long career, but he is best known for his paintings of landscapes, gardens, and water lilies. Monet's early work was influenced by the Realist movement, and he painted many scenes of everyday life in Paris. However, he became interested in the Impressionist style, which emphasized the use of light and color to capture the fleeting effects of sunlight and atmosphere. Monet's paintings often featured bright, vivid colors and loose brushstrokes, which gave them a sense of movement and spontaneity. One of Monet's most famous works is his series of paintings of the Rouen Cathedral, which he painted from different angles and at different times of day. Monet was fascinated by the way that light and shadow affected the appearance of the cathedral, and he painted it over 30 times in a variety of styles. In addition to his landscape paintings, Monet was also known for his series of paintings of water lilies, which he created in the last years of his life. These paintings were inspired by the pond in his garden in Giverny, and they feature the delicate, floating flowers against a background of blue water and sky. Monet's work had a profound influence on the development of modern art, and he is considered one of the most important painters of the 19th century.",
+            "qae_pairs": [
+                {
+                    "question": "* What was Monet's most famous series of paintings? * What was Monet's favorite subject to paint? * Where was Monet born? * Where did Monet die? * What was Monet's style of painting? * What was Monet'",
+                    "answer": "the Rouen Cathedral",
+                    "explanation": "Monet's style evolved over the course of his long career, but he is best known for his paintings of landscapes, gardens, and water lilies."
+                },
+                {
+                    "question": "In which French town did Claude Monet spend the last years of his life and create his famous series of paintings of water lilies?",
+                    "answer": "Giverny",
+                    "explanation": "Monet's work had a profound influence on the development of modern art, and he is considered one of the most important painters of the 19th century. Rationale: The evidence sentence explains the impact of Claude Monet's work on the development of modern art, and his significance as one of the most important painters of the 19th century. This sentence supports the question by providing a direct answer."
+                },
+                {
+                    "question": "Which country is Claude Monet from?",
+                    "answer": "France",
+                    "explanation": "Monet's style evolved over the course of his long career, but he is best known for his paintings of landscapes, gardens, and water lilies. Question: What is Claude Monet best known for? Answer: His paintings of landscapes, gardens, and water lilies."
+                }
+            ],
+            "hops": [
+                "Claude Monet"
+            ]
+        },
+        "Johannes Vermeer": {
+            "term": "Johannes Vermeer",
+            "passage": "Johannes Vermeer (1632 – December 1675) was a Dutch painter who specialized in domestic interior scenes of middle-class life. Vermeer was a moderately successful painter in his lifetime. He seems to have been in demand among the bourgeoisie of Delft and its surroundings as a specialist in genre scenes and portraits. Vermeer's paintings are characterized by a sense of tranquility, a love of detail, and a subtle use of light. He used a limited palette of colors, often with a blue or yellow undertone, and his works are famous for their use of light and shadow. Vermeer's paintings are also notable for their use of perspective, with a clear sense of depth and space. Vermeer's career was marked by financial difficulties and he seems to have been in debt throughout his life. He was never a member of the Guild of St. Luke, which was a requirement for artists to practice their profession in the Netherlands during the 17th century. Despite this, Vermeer was able to support his family and produce a significant body of work. Vermeer's works were not widely recognized during his lifetime and only gained recognition in the 19th century. Today, he is acknowledged as one of the greatest painters of the Dutch Golden Age and his works are among the most highly prized in the world.",
+            "qae_pairs": [
+                {
+                    "question": "Which century was Johannes Vermeer's work first recognized?",
+                    "answer": "the 19th century",
+                    "explanation": "Vermeer's works were not widely recognized during his lifetime and only gained recognition in the 19th century."
+                },
+                {
+                    "question": "What was the period of Dutch history during which the Dutch Republic was one of the major economic, political, and artistic centers of Europe?",
+                    "answer": "the Dutch Golden Age",
+                    "explanation": "Vermeer was a moderately successful painter in his lifetime. Rationale: The evidence sentence provides information about Vermeer's career and success as a painter during his lifetime, which is relevant to understanding the context of his works and their significance in the Dutch Golden Age. Sentence: Vermeer was a moderately successful painter in his lifetime. Evidence sentence: Vermeer was a moderately successful painter in his lifetime."
+                },
+                {
+                    "question": "What was a requirement for artists to practice their profession in the Netherlands during the 17th century?",
+                    "answer": "the Guild of St. Luke",
+                    "explanation": "Vermeer was never a member of the Guild of St. Luke, which was a requirement for artists to practice their profession in the Netherlands during the 17th century."
+                },
+                {
+                    "question": "Johannes Vermeer was born in which year?",
+                    "answer": "1632",
+                    "explanation": "Vermeer was a moderately successful painter in his lifetime."
+                },
+                {
+                    "question": "What century was Johannes Vermeer born in?",
+                    "answer": "the 17th century",
+                    "explanation": "Vermeer was a moderately successful painter in his lifetime. He seems to have been in demand among the bourgeoisie of Delft and its surroundings as a specialist in genre scenes and portraits. This sentence is an evidence sentence because it provides information about Vermeer's success as a painter during his lifetime and his popularity among the bourgeoisie of Delft and its surroundings. It supports the statement that Vermeer was a moderately successful painter and that he was in demand among the middle-class for his genre scenes and portraits."
+                },
+                {
+                    "question": "a) When was Johannes Vermeer born? b) When did Johannes Vermeer die? c) In what year did Johannes Vermeer's career take off? d) Which Dutch city was Vermeer's specialty as a painter? Answer: b) When did Johannes Vermeer",
+                    "answer": "December 1675",
+                    "explanation": "Johannes Vermeer was a Dutch painter who specialized in domestic interior scenes of middle-class life. Vermeer was a moderately successful painter in his lifetime. He seems to have been in demand among the bourgeoisie of Delft and its surroundings as a specialist in genre scenes and portraits. Vermeer's paintings are characterized by a sense of tranquility, a love of detail, and a subtle use of light."
+                }
+            ],
+            "hops": [
+                "Johannes Vermeer"
+            ]
+        },
+        "Edvard Munch": {
+            "term": "Edvard Munch",
+            "passage": "Edvard Munch (1863-1944) was a Norwegian painter and printmaker whose intensely evocative treatment of psychological themes built upon some of the main tenets of late 19th-century Symbolism and greatly influenced the development of Expressionism in the 20th century. Munch was born in Løten, Norway, and his family moved to Christiania (now Oslo) when he was five. He studied at the Royal School of Art and Design in Christiania from 1881 to 1885, and in 1889 he traveled to Paris, where he was exposed to the work of the Impressionists and Post-Impressionists. Munch's early work was influenced by the naturalistic painting style of the time, but he soon developed a more personal and symbolic approach to art. His most famous work, The Scream (1893), is a powerful expression of existential angst and despair, and it has become an icon of modern art. Munch's other major works include The Kiss (1892), a hauntingly beautiful image of two lovers embracing, and Madonna (1895-1902), a complex and enigmatic portrait of a woman that has been interpreted in many different ways. Throughout his career, Munch was fascinated by the themes of love, death, and the human condition, and his work often explored the darker aspects of human experience. He was also interested in the relationship between art and technology, and he experimented with a variety of printing techniques, including lithography and woodcut. Munch's influence on modern art cannot be overstated.",
+            "qae_pairs": [
+                {
+                    "question": "What year was Edvard Munch born and when did he die?",
+                    "answer": "1863-1944",
+                    "explanation": "Munch was born in Løten, Norway, and his family moved to Christiania (now Oslo) when he was five. Answer: Munch was born in Løten, Norway."
+                },
+                {
+                    "question": "What is the capital city of Norway?",
+                    "answer": "Oslo",
+                    "explanation": "Munch was born in Løten, Norway, and his family moved to Christiania (now Oslo) when he was five. Explanation: This sentence is an evidence sentence because it provides information about the place of birth and childhood of Edvard Munch, which is relevant to understanding his background and context as an artist."
+                },
+                {
+                    "question": "\"What year did Edvard Munch create The Scream?\"",
+                    "answer": "1893",
+                    "explanation": "Munch's most famous work, The Scream (1893), is a powerful expression of existential angst and despair, and it has become an icon of modern art."
+                },
+                {
+                    "question": "'What is the title of Edvard Munch's complex and enigmatic portrait of a woman that has been interpreted in many different ways?'",
+                    "answer": "Madonna",
+                    "explanation": "Munch's other major works include The Kiss (1892), a hauntingly beautiful image of two lovers embracing, and Madonna (1895-1902), a complex and enigmatic portrait of a woman that has been interpreted in many different ways. Evidence sentence: Madonna (1895-1902), a complex and enigmatic portrait of a woman that has been interpreted in many different ways."
+                }
+            ],
+            "hops": [
+                "Edvard Munch"
+            ]
+        },
+        "Jackson Pollock": {
+            "term": "Jackson Pollock",
+            "passage": "Jackson Pollock (1912-1956) was an American painter and a major figure in the abstract expressionist movement. He was well known for his unique style of drip painting. Pollock's art was characterized by a physical, almost violent, approach to painting. He would lay his canvases on the ground and pour, drip, and splatter paint onto them, using a variety of tools such as sticks, brushes, and even his own body to apply the paint. Pollock's art was deeply influenced by his personal life, including his struggles with alcoholism and mental illness. He was also influenced by the works of other artists, such as Pablo Picasso and the Mexican muralists. Pollock's art was often seen as a reflection of the chaos and uncertainty of the post-World War II era. Pollock's most famous works include \"Number 1, 1950\" (Lavender Mist), \"Convergence\" (1952), and \"One: Number 31, 1950\" (also known as \"Lavender Mist\"). These works are considered some of the most important examples of abstract expressionism and are highly sought after by collectors. Despite his success, Pollock's life was marked by tragedy. In 1946, he was involved in a car accident that left him with a broken leg and a damaged hip. He also struggled with alcoholism and mental illness, which contributed to his death in a car crash in 1956. Despite his short life, Pollock's legacy as an artist and a pioneer of abstract expressionism continues to be celebrated and studied by art lovers around the world.",
+            "qae_pairs": [
+                {
+                    "question": "What year was Jackson Pollock born and what year did he die?",
+                    "answer": "1912-1956",
+                    "explanation": "Jackson Pollock's art was characterized by a physical, almost violent, approach to painting. He would lay his canvases on the ground and pour, drip, and splatter paint onto them, using a variety of tools such as sticks, brushes, and even his own body to apply the paint."
+                },
+                {
+                    "question": "'What year was Jackson Pollock's Convergence painted?' Passage about the Great Barrier Reef: The Great Barrier Reef is the world's largest coral reef system, located in the Coral Sea, off the coast of Australia. The reef system is composed",
+                    "answer": "1952",
+                    "explanation": "Passage about Jackson Pollock: Jackson Pollock (1912-1956) was an American painter and a major figure in the abstract expressionist movement. He was well known for his unique style of drip painting. Pollock's art was characterized by a physical, almost violent, approach to painting. He would lay his canvases on the ground and pour, drip, and splatter paint onto them, using a variety of tools such as sticks, brushes, and even his own body to apply the paint."
+                },
+                {
+                    "question": "Jackson Pollock was involved in a car accident in which year?",
+                    "answer": "1946",
+                    "explanation": "Pollock's art was characterized by a physical, almost violent, approach to painting. This sentence explains how Jackson Pollock's art was characterized by a physical and almost violent approach to painting."
+                }
+            ],
+            "hops": [
+                "Jackson Pollock"
+            ]
+        },
+        "Frida Kahlo": {
+            "term": "Frida Kahlo",
+            "passage": "Frida Kahlo de Rivera (July 6, 1907 – July 13, 1954) was a Mexican artist who is best known for her self-portraits. Kahlo's life began and ended in Mexico City, in her home, which is now known as the Frida Kahlo Museum. Kahlo suffered from polio as a child, which caused her to have a limp and a noticeable difference in her leg length. She also suffered a debilitating bus accident when she was 18 years old, which caused her numerous injuries, including a broken spine, collarbone, and ribs, a crushed foot, and a lifelong struggle with chronic pain. Kahlo's paintings often featured symbolic portrayals of physical and psychological pain, which were often influenced by her own experiences. She was married to the famous Mexican artist Diego Rivera, and the two were known for their tumultuous relationship. Kahlo's work was often overshadowed by her husband's fame, but she has since gained recognition as one of Mexico's most important artists. Kahlo's paintings were often characterized by vibrant colors and bold, unconventional imagery. She was known for her use of traditional Mexican motifs and symbols, as well as her incorporation of indigenous culture into her work. Kahlo's paintings often featured self-portraits, which were often deeply personal and emotionally charged. Kahlo's life was marked by both physical and emotional pain, but she continued to create art until her death in 1954.",
+            "qae_pairs": [
+                {
+                    "question": "1. What is the date of Frida Kahlo's death? 2. What is the date of Frida Kahlo's birth? 3. What is the date of Frida Kahlo's marriage to Diego Rivera? 4. What is the date of Fr",
+                    "answer": "July 13, 1954",
+                    "explanation": "1. Kahlo suffered from polio as a child, which caused her to have a limp and a noticeable difference in her leg length."
+                },
+                {
+                    "question": "'Whom did Frida Kahlo marry?'",
+                    "answer": "Diego Rivera",
+                    "explanation": "Kahlo's paintings often featured symbolic portrayals of physical and psychological pain, which were often influenced by her own experiences. Evidence sentence: Kahlo's paintings often featured symbolic portrayals of physical and psychological pain, which were often influenced by her own experiences."
+                },
+                {
+                    "question": "\"Which city is known for its Frida Kahlo Museum?\"",
+                    "answer": "Mexico City",
+                    "explanation": "Kahlo's life began and ended in Mexico City, in her home, which is now known as the Frida Kahlo Museum."
+                }
+            ],
+            "hops": [
+                "Frida Kahlo"
+            ]
+        },
+        "Salvador Dali": {
+            "term": "Salvador Dali",
+            "passage": "Salvador Dali was a prominent Spanish surrealist painter born in Figueres, Catalonia, Spain. He was known for his unique and often bizarre style, which was characterized by striking and vivid images, dreamlike landscapes, and a strong sense of the irrational and the subconscious. Dali's work was heavily influenced by the theories of Sigmund Freud, particularly the idea of the unconscious mind and the role of dreams in shaping human behavior. Dali's artistic career began in the early 1920s, when he joined the Surrealist movement in Paris. He quickly became one of its most prominent members, and his work was featured in numerous exhibitions and publications throughout Europe and the United States. Some of his most famous works include \"The Persistence of Memory,\" \"Metamorphosis of Narcissus,\" and \"The Elephants.\" Dali's personal life was often as eccentric as his art. He was known for his flamboyant behavior and outrageous statements, and he cultivated a reputation as one of the most controversial and provocative artists of his time. He also had a close relationship with his wife, Gala, whom he referred to as his \"surrealist muse.\" Despite his controversial reputation, Dali's work was widely admired and influential. His surrealist style paved the way for many later artists, and his ideas about the role of the unconscious mind in shaping human behavior continue to be studied and debated by psychologists and philosophers today.",
+            "qae_pairs": [
+                {
+                    "question": "'What is the continent that includes the countries of Spain, France, Germany, Italy, and the United Kingdom?'",
+                    "answer": "Europe",
+                    "explanation": "Dali's personal life was often as eccentric as his art. He was known for his flamboyant behavior and outrageous statements, and he cultivated a reputation as one of the most controversial and provocative artists of his time. This sentence provides evidence that Dali's personal life was as eccentric as his art, and that he cultivated a reputation as a controversial and provocative artist. It supports the statement that Dali was known for his flamboyant behavior and outrageous statements."
+                },
+                {
+                    "question": "What is the name of the city in Spain where Salvador Dali was born?",
+                    "answer": "Figueres",
+                    "explanation": "Dali's personal life was often as eccentric as his art. He was known for his flamboyant behavior and outrageous statements, and he cultivated a reputation as one of the most controversial and provocative artists of his time. Answer: Dali's personal life was often as eccentric as his art."
+                },
+                {
+                    "question": "Who is Salvador Dali's wife?",
+                    "answer": "Gala",
+                    "explanation": "Dali's personal life was often as eccentric as his art. He was known for his flamboyant behavior and outrageous statements, and he cultivated a reputation as one of the most controversial and provocative artists of his time."
+                },
+                {
+                    "question": "Who was Salvador Dali's work heavily influenced by?",
+                    "answer": "Sigmund Freud",
+                    "explanation": "Dali's work was heavily influenced by the theories of Sigmund Freud, particularly the idea of the unconscious mind and the role of dreams in shaping human behavior."
+                },
+                {
+                    "question": "What is the capital of France?",
+                    "answer": "Paris",
+                    "explanation": "Passage: Dali's personal life was often as eccentric as his art. He was known for his flamboyant behavior and outrageous statements, and he cultivated a reputation as one of the most controversial and provocative artists of his time. Evidence sentence: Dali's personal life was often as eccentric as his art."
+                }
+            ],
+            "hops": [
+                "Salvador Dali"
+            ]
+        }
+    },
+    "second_hops": {
+        "Ludovico Sforza": {
+            "term": "Ludovico Sforza",
+            "passage": "Ludovico Sforza, also known as Ludovico il Moro, was a Duke of Milan from 1479 until his death. He was born in 1452 in Milan, which was then part of the Duchy of Milan. He was the third son of Francesco Sforza and Bianca Maria Visconti. Ludovico was known for his patronage of the arts and his support of Leonardo da Vinci. He was also a military leader and a diplomat. He was married to Beatrice d'Este in 1476, but the marriage was not successful. Ludovico was assassinated in 1499 by the French army, which had invaded Milan.",
+            "qae_pairs": [
+                {
+                    "question": "What was the political entity that Ludovico Sforza ruled over during his reign as Duke of Milan?",
+                    "answer": "the Duchy of Milan",
+                    "explanation": "Ludovico Sforza was born in Milan, which was then part of the Duchy of Milan."
+                },
+                {
+                    "question": "What was the name of Ludovico Sforza's father?",
+                    "answer": "Francesco Sforza",
+                    "explanation": "Ludovico Sforza, also known as Ludovico il Moro, was a Duke of Milan from 1479 until his death. He was born in 1452 in Milan, which was then part of the Duchy of Milan. He was the third son of Francesco Sforza and Bianca Maria Visconti."
+                }
+            ],
+            "hops": [
+                "Leonardo da Vinci",
+                "Ludovico Sforza"
+            ]
+        },
+        "Piero da Vinci": {
+            "term": "Piero da Vinci",
+            "passage": "Piero da Vinci (1452-1519) was an Italian Renaissance architect, artist, and engineer. He was born in Vinci, Italy, and was the illegitimate son of a wealthy notary and a peasant woman. Piero was trained as an artist by his father, and he later became an apprentice to Andrea del Verrocchio, a leading artist in Florence. Piero da Vinci is best known for his artistic achievements, including his painting of the Mona Lisa, which is considered one of the greatest works of art in history. He was also a skilled engineer and inventor, designing machines such as flying devices and war machines. In addition to his artistic and engineering pursuits, Piero da Vinci was also interested in mathematics and science. He made important contributions to the fields of anatomy and optics, and he was a pioneer in the study of aerodynamics. Despite his many accomplishments, Piero da Vinci was not well-known during his lifetime. It was not until the 19th century that his artistic and scientific achievements were fully recognized and appreciated. Today, he is considered one of the greatest minds of the Renaissance and a key figure in the development of Western art and science.",
+            "qae_pairs": [
+                {
+                    "question": "What century did Piero da Vinci's artistic and scientific achievements become fully recognized and appreciated?",
+                    "answer": "the 19th century",
+                    "explanation": "It was not until the 19th century that his artistic and scientific achievements were fully recognized and appreciated."
+                },
+                {
+                    "question": "What was the name of the artist who trained Piero da Vinci?",
+                    "answer": "Andrea del Verrocchio",
+                    "explanation": "Piero was trained as an artist by his father, and he later became an apprentice to Andrea del Verrocchio, a leading artist in Florence."
+                }
+            ],
+            "hops": [
+                "Leonardo da Vinci",
+                "Piero da Vinci"
+            ]
+        },
+        "the Florentine Republic": {
+            "term": "the Florentine Republic",
+            "passage": "The Florentine Republic was a medieval and early modern state that existed in Tuscany, Italy, from 1115 to 1532. It was established after the death of Matilda of Tuscany, who had inherited a vast territory that included Florence and many other cities and towns in the region. The city of Florence became the capital of the republic, and its citizens were granted a significant degree of autonomy and self-government. The republic was known for its cultural and artistic achievements, including the works of Leonardo da Vinci, Michelangelo, and Botticelli. It was also a center of commerce and trade, with a thriving textile industry and a busy port on the Arno River. The republic was ruled by a council of elected officials, known as the Signoria, and it maintained a strong military force to defend its territory against external threats. Despite its many successes, the republic was eventually overthrown by the Medici family, who established a hereditary dynasty that ruled Florence and the surrounding region for several centuries.",
+            "qae_pairs": [
+                {
+                    "question": "What was the name of the river that served as a busy port for the Florentine Republic?",
+                    "answer": "the Arno River",
+                    "explanation": "The republic was known for its cultural and artistic achievements, including the works of Leonardo da Vinci, Michelangelo, and Botticelli."
+                }
+            ],
+            "hops": [
+                "Leonardo da Vinci",
+                "the Florentine Republic"
+            ]
+        },
+        "Andrea del Verrocchio": {
+            "term": "Andrea del Verrocchio",
+            "passage": "Andrea del Verrocchio (1435-1488) was an Italian sculptor, goldsmith, and painter who was one of the leading artists in Florence during the Renaissance. He was born in Florence and trained as an apprentice to the goldsmith and sculptor, Antonio del Pollaiuolo. Verrocchio was known for his ability to work in a variety of mediums, including bronze, stone, and paint. He created many famous works of art, including the bronze statue of David, which was later cast in bronze by his student, Leonardo da Vinci. Verrocchio was also known for his innovative techniques in painting, such as his use of perspective and his ability to create realistic textures and depth. He was a member of the Florentine Guild of Artists and played an important role in the development of the Renaissance in Florence.",
+            "qae_pairs": [
+                {
+                    "question": "What was the famous statue created by Andrea del Verrocchio that was later cast in bronze by his student?",
+                    "answer": "David",
+                    "explanation": "He created many famous works of art, including the bronze statue of David, which was later cast in bronze by his student, Leonardo da Vinci."
+                },
+                {
+                    "question": "What was the birth year of Andrea del Verrocchio?",
+                    "answer": "1435-1488",
+                    "explanation": "He was born in Florence and trained as an apprentice to the goldsmith and sculptor, Antonio del Pollaiuolo."
+                },
+                {
+                    "question": "What was the city where Andrea del Verrocchio was born and trained as an apprentice?",
+                    "answer": "Florence",
+                    "explanation": "He was born in Florence and trained as an apprentice to the goldsmith and sculptor, Antonio del Pollaiuolo."
+                }
+            ],
+            "hops": [
+                "Leonardo da Vinci",
+                "Andrea del Verrocchio"
+            ]
+        },
+        "Arles": {
+            "term": "Arles",
+            "passage": "Arles is a city and commune in the south of France, in the Bouches-du-Rhône department, of which it is a subprefecture, in the former province of Provence. The city has a long history, and was founded in 46 BC by the Roman consul Publius Martius. It is known for its many Roman remains, including the Roman Amphitheatre, which is one of the best-preserved in the world, and the Roman Alyscamps, a necropolis that was used from the 3rd to the 9th century. Arles is also famous for being the birthplace of the painter Vincent van Gogh, who painted many of his famous works in the city, including \"Sunflowers\" and \"The Night Cafe\". The city has a population of approximately 50,000 people, and is a popular tourist destination.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the famous Roman monument in Arles?",
+                    "answer": "the Roman Amphitheatre",
+                    "explanation": "It is known for its many Roman remains, including the Roman Amphitheatre, which is one of the best-preserved in the world, and the Roman Alyscamps, a necropolis that was used from the 3rd to the 9th century."
+                },
+                {
+                    "question": "What is the name of the province in which Arles is located?",
+                    "answer": "Provence",
+                    "explanation": "Arles is a city and commune in the south of France, in the Bouches-du-Rhône department, of which it is a subprefecture, in the former province of Provence. This sentence explains that Arles is located in the province of Provence, which is in the south of France, and is a subprefecture of the Bouches-du-Rhône department."
+                },
+                {
+                    "question": "What was the period during which the Roman Alyscamps was used in Arles?",
+                    "answer": "the 9th century",
+                    "explanation": "The Roman Alyscamps is a necropolis that was used from the 3rd to the 9th century."
+                },
+                {
+                    "question": "What is the country that Arles is located in?",
+                    "answer": "France",
+                    "explanation": "Arles is a city and commune in the south of France, in the Bouches-du-Rhône department, of which it is a subprefecture, in the former province of Provence. This sentence provides evidence that Arles is located in France, as it states that it is a city and commune in the south of France, and is a subprefecture in the Bouches-du-Rhône department, which are all located in France."
+                }
+            ],
+            "hops": [
+                "Vincent van Gogh",
+                "Arles"
+            ]
+        },
+        "Brussels": {
+            "term": "Brussels",
+            "passage": "Brussels is the capital and largest city of Belgium and the de facto capital of the European Union. It is located in the valley of the Sean River, a tributary of the Scheldt, and in the heart of the Brabantian Plain. The city has a population of more than 1.2 million and a metropolitan area with a population of over 1.8 million, making it the largest urban area in Belgium. Brussels is a bilingual city, with French and Dutch both recognized as official languages. The city is home to many important institutions of the European Union, including the European Commission, the Council of the European Union, and the European Parliament. The city is also known for its rich history and culture, with many notable landmarks and attractions. The Grand Place, a UNESCO World Heritage Site, is a central square in the city that is surrounded by guildhalls and the City Hall. The Atomium, a landmark building constructed for the 1958 Brussels World's Fair, is another popular attraction. Brussels is also famous for its cuisine, including Belgian waffles, chocolate, and beer. The city is home to many museums, including the Royal Museums of Fine Arts of Belgium and the Magritte Museum, which is dedicated to the works of the surrealist painter René Magritte. In addition to its cultural and historical significance, Brussels is also a major economic center in Europe. It is home to the European Quarter, which houses many of the EU's institutions, as well as the headquarters of many multinational corporations. The city is also a major transportation hub, with several airports and train stations connecting it to other cities in Europe and beyond.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the area in Brussels that houses many of the EU's institutions?",
+                    "answer": "the European Quarter",
+                    "explanation": "Brussels is a bilingual city, with French and Dutch both recognized as official languages."
+                },
+                {
+                    "question": "What is the headquarters of the European Commission located in Brussels?",
+                    "answer": "the European Commission",
+                    "explanation": "The city is home to many important institutions of the European Union, including the European Commission, the Council of the European Union, and the European Parliament."
+                }
+            ],
+            "hops": [
+                "Vincent van Gogh",
+                "Brussels"
+            ]
+        },
+        "the Royal Academy of San Fernando": {
+            "term": "the Royal Academy of San Fernando",
+            "passage": "The Royal Academy of Fine Arts of San Fernando (Spanish: Real Academia de Bellas Artes de San Fernando) is an art academy located in Madrid, Spain. It was founded in 1744 by King Ferdinand VI of Spain and is one of the oldest art academies in the world. The academy is named after the king and is located in the city center, near the Prado Museum. It is dedicated to the promotion of the arts and the training of artists, and has produced many famous painters, sculptors, and architects over the years. The academy is known for its rigorous training programs and its emphasis on traditional techniques. It has a collection of over 10,000 works of art, including paintings, sculptures, and drawings, which are used for research and teaching purposes. The academy also organizes exhibitions and events, and offers scholarships and grants to support young artists.",
+            "qae_pairs": [
+                {
+                    "question": "What year was the Royal Academy of San Fernando founded?",
+                    "answer": "1744",
+                    "explanation": "The Royal Academy of Fine Arts of San Fernando was founded in 1744 by King Ferdinand VI of Spain and is one of the oldest art academies in the world."
+                },
+                {
+                    "question": "What is the location of the Royal Academy of San Fernando?",
+                    "answer": "Madrid",
+                    "explanation": "The academy is named after the king and is located in the city center, near the Prado Museum."
+                }
+            ],
+            "hops": [
+                "Pablo Picasso",
+                "the Royal Academy of San Fernando"
+            ]
+        },
+        "Olga Khokhlova": {
+            "term": "Olga Khokhlova",
+            "passage": "Olga Khokhlova (1891-1955) was a Russian ballerina who is best known for her association with the Spanish dancer and choreographer, Sergei Diaghilev, and his Ballets Russes. She was born in Moscow and began her ballet training at the age of ten. In 1908, she joined the Bolshoi Ballet, where she quickly rose through the ranks to become a principal dancer. In 1915, she was invited to join the Ballets Russes, where she performed in a number of productions, including \"Le Spectre de la Rose\" and \"Daphnis et Chloe\". She also danced in Diaghilev's production of \"The Three Musketeers\", which was choreographed by her future husband, Vaslav Nijinsky. Khokhlova and Nijinsky were married in 1913, but their marriage was tumultuous and they eventually divorced in 1918. Khokhlova continued to dance with the Ballets Russes until 1923, when she retired from the stage. She later taught ballet in Paris and was a mentor to many young dancers. Khokhlova died in Paris in 1955 at the age of 64.",
+            "qae_pairs": [
+                {
+                    "question": "What year did Olga Khokhlova divorce Vaslav Nijinsky?",
+                    "answer": "1918",
+                    "explanation": "Khokhlova and Nijinsky were married in 1913, but their marriage was tumultuous and they eventually divorced in 1918."
+                },
+                {
+                    "question": "What was the city where Olga Khokhlova retired after her retirement from the stage?",
+                    "answer": "Paris",
+                    "explanation": "Khokhlova and Nijinsky were married in 1913, but their marriage was tumultuous and they eventually divorced in 1918. This sentence is an explanation of the tumultuous relationship between Olga Khokhlova and Vaslav Nijinsky, and their eventual divorce. It is an evidence sentence because it provides specific information about their marriage and divorce, which is relevant to understanding their relationship and Khokhlova's career as a dancer."
+                },
+                {
+                    "question": "What year did Olga Khokhlova join the Bolshoi Ballet?",
+                    "answer": "1908",
+                    "explanation": "In 1908, she joined the Bolshoi Ballet, where she quickly rose through the ranks to become a principal dancer."
+                }
+            ],
+            "hops": [
+                "Pablo Picasso",
+                "Olga Khokhlova"
+            ]
+        },
+        "Paris": {
+            "term": "Paris",
+            "passage": "Paris is the capital and most populous city of France, with an estimated population of 2,148,271 residents in 2019. It is situated on the Seine River, in the northern part of the country, and it is considered one of the most beautiful and romantic cities in the world. Paris has the reputation of being the fashion capital of the world and it is home to the world's most famous fashion designers and luxury brands. The city is also known for its gastronomy, with numerous restaurants offering French cuisine, as well as international cuisine from around the world. Paris is also a major center for art and culture, with some of the world's most famous museums and landmarks, such as the Louvre, the Eiffel Tower, and Notre-Dame Cathedral. The city is also known for its nightlife, with a vibrant club and bar scene, as well as its theaters and music venues. Paris is one of the most visited cities in the world, with millions of tourists flocking to the city each year to experience its rich history, culture, and beauty.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the river that flows through the city of Paris?",
+                    "answer": "the Seine River",
+                    "explanation": "Paris is situated on the Seine River, in the northern part of the country."
+                }
+            ],
+            "hops": [
+                "Salvador Dali",
+                "Paris"
+            ]
+        },
+        "Baroque": {
+            "term": "Baroque",
+            "passage": "Baroque is a style of art, architecture, and music that originated in Europe in the early 17th century and continued until the mid-18th century. It is characterized by ornate and theatrical forms, dramatic use of light and shadow, and a sense of movement and tension. Baroque art and architecture were often created to glorify the Catholic Church and the ruling monarchs of Europe. Baroque music is characterized by complex polyphony, a rich and varied texture, and a strong emphasis on emotion and drama. It was often used to accompany theatrical productions and was often written for specific instruments, such as the harpsichord and the violin. Many of the most famous examples of Baroque art and architecture can be found in Italy, France, and Germany. Some of the most famous examples of Baroque art include the ceiling paintings in the Sistine Chapel in Rome, the Palace of Versailles in France, and the Zwinger Palace in Dresden, Germany. Baroque music was also popular in Italy, France, and Germany, and many of the most famous composers of the Baroque period, such as Johann Sebastian Bach, George Frideric Handel, and Antonio Vivaldi, were from these countries. Baroque music was often written for specific instruments, such as the harpsichord and the violin, and was often used to accompany theatrical productions.",
+            "qae_pairs": [
+                {
+                    "question": "Who is the most famous composer of the Baroque period?",
+                    "answer": "Johann Sebastian Bach",
+                    "explanation": "Johann Sebastian Bach was one of the most famous composers of the Baroque period."
+                },
+                {
+                    "question": "What was the primary purpose of Baroque art and architecture during the Baroque period?",
+                    "answer": "the Catholic Church",
+                    "explanation": "Baroque art and architecture were often created to glorify the Catholic Church and the ruling monarchs of Europe."
+                }
+            ],
+            "hops": [
+                "Rembrandt van Rijn",
+                "Baroque"
+            ]
+        },
+        "the Dutch Golden Age": {
+            "term": "the Dutch Golden Age",
+            "passage": "The Dutch Golden Age was a period in Dutch history, roughly spanning the 17th century, during and after the reign of King William III, when the Dutch Republic was one of the most prosperous nations in Europe. The Dutch economy grew rapidly, driven by trade and innovative developments in finance, shipbuilding, and maritime trade. The arts and literature also flourished, and Dutch painters such as Rembrandt, Vermeer, and Frans Hals were highly regarded across Europe. The Dutch East India Company, founded in 1602, became one of the world's first multinational corporations, and the Dutch established a vast trading network across Asia and the Americas. The period was marked by the rise of the Dutch as a major naval and military power, with significant victories in the Anglo-Dutch Wars and the Franco-Dutch War. The Dutch Republic was also known for its religious tolerance, with Jews and other minorities allowed to practice their faiths freely. However, the Dutch Golden Age was also marked by social and economic inequality, with a small elite controlling much of the wealth and power.",
+            "qae_pairs": [
+                {
+                    "question": "What was the name of the country that experienced the Dutch Golden Age during the 17th century?",
+                    "answer": "the Dutch Republic",
+                    "explanation": "The Dutch Republic was one of the most prosperous nations in Europe during the 17th century."
+                }
+            ],
+            "hops": [
+                "Johannes Vermeer",
+                "the Dutch Golden Age"
+            ]
+        },
+        "the Rouen Cathedral": {
+            "term": "the Rouen Cathedral",
+            "passage": "Rouen Cathedral, also known as the Cathedral of Notre-Dame of Rouen, is a Catholic cathedral located in Rouen, France. It is considered as one of the finest examples of Norman architecture and Gothic art. The cathedral was built between the 12th and 16th centuries, with the first stone laid in 1037. The cathedral was heavily damaged during the Second World War, but it was restored in the 1950s and 1960s. The cathedral is famous for its many stained glass windows, including the famous \"Rouen Cathedral\" window by Claude Monet. The cathedral also houses the tomb of Richard the Lionheart, the English king who died in 1199 while fighting in the Third Crusade. The cathedral is a popular tourist attraction and a UNESCO World Heritage Site.",
+            "qae_pairs": [
+                {
+                    "question": "What year was the first stone laid for the construction of the Rouen Cathedral?",
+                    "answer": "1037",
+                    "explanation": "The cathedral was built between the 12th and 16th centuries, with the first stone laid in 1037."
+                }
+            ],
+            "hops": [
+                "Claude Monet",
+                "the Rouen Cathedral"
+            ]
+        },
+        "Giverny": {
+            "term": "Giverny",
+            "passage": "Giverny is a small French village located in the Upper Normandy region, about 80 km northwest of Paris. It is best known as the location where the French Impressionist painter Claude Monet lived and worked for nearly 43 years, from 1883 until his death in 1926. Monet's house, known as the Fondation Claude Monet, is now a museum dedicated to his life and work, and includes his famous garden and pond, which served as the subject of many of his paintings. The village is also home to the Musée des Impressionnismes, which features a collection of works by Monet and other Impressionist artists. Giverny is a popular tourist destination, attracting visitors from around the world who come to see the village and its famous gardens.",
+            "qae_pairs": [
+                {
+                    "question": "What year did Claude Monet move to Giverny?",
+                    "answer": "1883",
+                    "explanation": "Monet's house, known as the Fondation Claude Monet, is now a museum dedicated to his life and work, and includes his famous garden and pond, which served as the subject of many of his paintings. This sentence provides evidence that Claude Monet moved to Giverny in 1883 because it states that his house, which he lived in for nearly 43 years, is now a museum dedicated to his life and work."
+                },
+                {
+                    "question": "What is the distance between Giverny and Paris?",
+                    "answer": "Paris",
+                    "explanation": "Giverny is a small French village located in the Upper Normandy region, about 80 km northwest of Paris. This sentence explains that Giverny is a small village located in the Upper Normandy region, which is 80 km northwest of Paris."
+                }
+            ],
+            "hops": [
+                "Claude Monet",
+                "Giverny"
+            ]
+        },
+        "France": {
+            "term": "France",
+            "passage": "1. France is a country located in Western Europe. 2. It is the third-largest country in Europe, after Russia and Ukraine. 3. France has a population of approximately 67 million people. 4. It is a unitary semi-presidential republic with its capital in Paris. 5. France is a developed country with the world's seventh-largest economy by nominal GDP. 6. It is a member of the European Union, the United Nations, the World Trade Organization, and the G7. 7. France is known for its rich culture, including its cuisine, fashion, and art. 8. Paris, the capital of France, is one of the most popular tourist destinations in the world. 9. France is also famous for its wines and champagnes, such as Bordeaux, Burgundy, and Champagne. 10. The country is home to many famous landmarks, including the Eiffel Tower, the Louvre Museum, and the Palace of Versailles.",
+            "qae_pairs": [
+                {
+                    "question": "Q: What is the most famous wine region in France?",
+                    "answer": "Bordeaux",
+                    "explanation": "France is a developed country with the world's seventh-largest economy by nominal GDP. This sentence explains that France has a strong and prosperous economy, which is one of the reasons why it is a popular tourist destination."
+                },
+                {
+                    "question": "What is the most famous sparkling wine produced in France?",
+                    "answer": "Champagne",
+                    "explanation": "France is known for its rich culture, including its cuisine, fashion, and art."
+                },
+                {
+                    "question": "What organization does France belong to?",
+                    "answer": "the European Union",
+                    "explanation": "France is a developed country with the world's seventh-largest economy by nominal GDP."
+                },
+                {
+                    "question": "What continent is France located in?",
+                    "answer": "Western Europe",
+                    "explanation": "Passage: France is a unitary semi-presidential republic with its capital in Paris. Evidence sentence: France is a unitary semi-presidential republic."
+                }
+            ],
+            "hops": [
+                "Claude Monet",
+                "France"
+            ]
+        },
+        "Oslo": {
+            "term": "Oslo",
+            "passage": "Oslo is the capital and largest city of Norway. It is also the county seat of Oslo County. The city is located at the head of the Oslofjord, which is an arm of the Atlantic Ocean. The city is known for its unique architecture, museums, and cultural events. The city has a population of approximately 650,000 people. The city is also known for its vibrant nightlife, with many bars and clubs located throughout the city. The city is home to many famous landmarks, including the Oslo Opera House, the Royal Palace, and the Vigeland Park. The city is also known for its beautiful natural scenery, with many parks and lakes located throughout the city. The city is also home to many cultural events, including the Oslo Jazz Festival and the Oslo World Music Festival. The city is also known for its unique cuisine, with many restaurants serving traditional Norwegian dishes.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the famous park located in Oslo that features over 200 sculptures created by Gustav Vigeland?",
+                    "answer": "the Vigeland Park",
+                    "explanation": "The city is known for its unique architecture, museums, and cultural events."
+                },
+                {
+                    "question": "What body of water is Oslo located at the head of?",
+                    "answer": "the Atlantic Ocean",
+                    "explanation": "The city is located at the head of the Oslofjord, which is an arm of the Atlantic Ocean."
+                },
+                {
+                    "question": "What is the capital of Norway, located at the head of the Oslofjord, known for its unique architecture, museums, and cultural events, and has a population of approximately 650,000 people?",
+                    "answer": "Norway",
+                    "explanation": "The city is known for its unique architecture, museums, and cultural events."
+                },
+                {
+                    "question": "What is the name of the palace located in Oslo that is the official residence of the King of Norway?",
+                    "answer": "the Royal Palace",
+                    "explanation": "The city is known for its unique architecture, museums, and cultural events. The city has a population of approximately 650,000 people. Answer: The city is known for its unique architecture, museums, and cultural events."
+                }
+            ],
+            "hops": [
+                "Edvard Munch",
+                "Oslo"
+            ]
+        },
+        "Madonna": {
+            "term": "Madonna",
+            "passage": "Madonna Louise Veronica Ciccone (born August 16, 1958) is an American singer, songwriter, actress, and businesswoman. Referred to as the \"Queen of Pop\" since the 1980s, Madonna is known for pushing the boundaries of lyrical content in mainstream popular music and imagery in her music videos, which have become iconic and have had a profound influence on popular culture. Throughout her career, she has released many successful albums, including her self-titled debut album in 1983, Like a Virgin in 1984, and Ray of Light in 1998. She has also acted in various films, such as Desperately Seeking Susan, Dick Tracy, and Evita. Madonna has been praised for her musical innovation, particularly in the development of the music video format, and her visual imagery has been influential in popular culture. She has also been criticized for her controversial and sometimes provocative image, and for her outspoken views on sexuality and religion.",
+            "qae_pairs": [
+                {
+                    "question": "What was the decade in which Madonna became known as the \"Queen of Pop\"?",
+                    "answer": "the 1980s",
+                    "explanation": "Madonna has been referred to as the Queen of Pop since the 1980s."
+                },
+                {
+                    "question": "What was the year that Madonna released her critically acclaimed album \"Ray of Light\"?",
+                    "answer": "1998",
+                    "explanation": "Madonna has been praised for her musical innovation, particularly in the development of the music video format, and her visual imagery has been influential in popular culture."
+                }
+            ],
+            "hops": [
+                "Edvard Munch",
+                "Madonna"
+            ]
+        },
+        "Diego Rivera": {
+            "term": "Diego Rivera",
+            "passage": "Diego Rivera (1886-1957) was a prominent Mexican painter and muralist. He is best known for his large frescoes that depict Mexican culture and history. Rivera was a member of the Mexican Communist Party and his artwork often reflected his political beliefs. He was married to fellow artist Frida Kahlo, and the two were a well-known couple in the art world. Rivera's work can be found in many museums around the world, including the Detroit Institute of Arts and the Museum of Modern Art in New York City.",
+            "qae_pairs": [
+                {
+                    "question": "What museum in the United States houses a significant collection of Diego Rivera's work?",
+                    "answer": "the Detroit Institute of Arts",
+                    "explanation": "Rivera's work can be found in many museums around the world, including the Detroit Institute of Arts and the Museum of Modern Art in New York City. This sentence is an evidence sentence because it provides specific information about where Diego Rivera's work can be found, which supports the claim that the Detroit Institute of Arts houses a significant collection of his work."
+                }
+            ],
+            "hops": [
+                "Frida Kahlo",
+                "Diego Rivera"
+            ]
+        },
+        "Europe": {
+            "term": "Europe",
+            "passage": "Europe is a continent located entirely in the Northern Hemisphere and mostly in the Eastern Hemisphere. It is bordered by the Arctic Ocean to the north, the Atlantic Ocean to the west, and the Mediterranean Sea to the south. It comprises 47 countries, with Russia, Germany, France, the United Kingdom, Italy, Spain, and Poland being the most populous. Europe is the world's second-smallest continent by land area, covering about 10,180,000 square kilometres (3,930,000 sq mi) or 2% of the Earth's surface and about 6.8% of its land area. Of Europe's approximately 730 million people, about 47% are male and 53% are female. The largest country in Europe, both in terms of area and population, is Russia. The European Union, a political and economic union of 27 member states located primarily in Europe, is the largest economy in the world.",
+            "qae_pairs": [
+                {
+                    "question": "What is the location of Europe in relation to the Eastern Hemisphere?",
+                    "answer": "the Eastern Hemisphere",
+                    "explanation": "Europe is a continent located entirely in the Northern Hemisphere and mostly in the Eastern Hemisphere. Answer: Europe is a continent located entirely in the Northern Hemisphere and mostly in the Eastern Hemisphere."
+                },
+                {
+                    "question": "What country in Europe is known for its vodka and pierogi?",
+                    "answer": "Poland",
+                    "explanation": "Europe is the world's second-smallest continent by land area, covering about 10,180,000 square kilometres (3,930,000 sq mi) or 2% of the Earth's surface and about 6.8% of its land area."
+                },
+                {
+                    "question": "What country in Europe is known for its beautiful beaches, delicious seafood, and flamenco dancing?",
+                    "answer": "Spain",
+                    "explanation": ""
+                },
+                {
+                    "question": "What country in Europe is known for its rich history, art, and cuisine, and is home to the famous city of Rome?",
+                    "answer": "Italy",
+                    "explanation": "Italy is a country in Europe known for its rich history, art, and cuisine, and is home to the famous city of Rome."
+                }
+            ],
+            "hops": [
+                "Salvador Dali",
+                "Europe"
+            ]
+        },
+        "Figueres": {
+            "term": "Figueres",
+            "passage": "Figueres is a town in the comarca of Alt Empordà, in the province of Girona, Catalonia, Spain. It is the capital of the comarca and has a population of approximately 42,000 people. The town is located in the northern part of the comarca, near the French border, and is about 30 km (19 mi) from the Mediterranean Sea. The town is known for its historic center, which has several well-preserved Gothic and Renaissance buildings, including the Church of Sant Pere, the Town Hall, and the Castle of Sant Ferran. The town is also home to the Teatre-Museu Dalí, a museum dedicated to the works of Salvador Dalí, who was born in the nearby town of Figueres. The museum houses a large collection of Dalí's paintings, sculptures, and other works, as well as a theater that hosts various performances and events. Figueres is also known for its annual carnival, which takes place in February and features parades, music, and other festivities. The town is easily accessible by car, train, and bus, and is a popular destination for tourists and day-trippers.",
+            "qae_pairs": [
+                {
+                    "question": "What is the capital of the comarca of Alt Empordà, where the town of Figueres is located?",
+                    "answer": "Girona",
+                    "explanation": "The town is known for its historic center, which has several well-preserved Gothic and Renaissance buildings, including the Church of Sant Pere, the Town Hall, and the Castle of Sant Ferran."
+                },
+                {
+                    "question": "What is the province of Figueres located in?",
+                    "answer": "Catalonia",
+                    "explanation": "The town is located in the northern part of the comarca, near the French border, and is about 30 km (19 mi) from the Mediterranean Sea. This sentence provides evidence that Figueres is located in the province of Girona, Catalonia, Spain, and gives specific details about its location in the comarca of Alt Empordà."
+                }
+            ],
+            "hops": [
+                "Salvador Dali",
+                "Figueres"
+            ]
+        },
+        "Gala": {
+            "term": "Gala",
+            "passage": "Gala was a Spanish artist, born in 1884 in Pontevedra, Spain. She was a prominent figure in the avant-garde movement in Spain and France, and was known for her work in painting, sculpture, and printmaking. Gala was also the wife of Salvador Dali, with whom she had a tumultuous relationship. The couple was known for their eccentric behavior and their involvement in the Surrealist movement. Gala was a key figure in Dali's artistic development, and her influence can be seen in many of his most famous works. She died in 1982 in Port Lligat, Spain.",
+            "qae_pairs": [
+                {
+                    "question": "What is the location where Gala died?",
+                    "answer": "Port Lligat",
+                    "explanation": "Gala was a Spanish artist, born in 1884 in Pontevedra, Spain. She was a prominent figure in the avant-garde movement in Spain and France. Gala was also the wife of Salvador Dali. The couple was known for their eccentric behavior and their involvement in the Surrealist movement. Gala was a key figure in Dali's artistic development. She died in 1982 in Port Lligat, Spain."
+                }
+            ],
+            "hops": [
+                "Salvador Dali",
+                "Gala"
+            ]
+        }
+    }
+}

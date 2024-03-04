@@ -1,0 +1,374 @@
+{
+    "first_hops": {
+        "United States": {
+            "term": "United States",
+            "passage": "The United States is a federal constitutional republic located in North America. It is the only country in the world that is both a member of NATO and part of the G8. With a population of 328 million, it is the world's third most populous country and third most populous in the Western Hemisphere. Its capital is Washington, D.C., and it is home to more than 400 national parks. The country is divided into 50 states, each of which is governed independently with only one exception: certain types of federal laws and regulations.",
+            "qae_pairs": [
+                {
+                    "question": "What is the capital of the United States?",
+                    "answer": "Washington",
+                    "explanation": "The capital of the United States is Washington, D.C. It is located on the Potomac River and is home to the federal government and many monuments, including the Washington Monument and the Lincoln Memorial."
+                },
+                {
+                    "question": "Which continent is the United States in?",
+                    "answer": "North America",
+                    "explanation": "The United States is located in North America."
+                }
+            ],
+            "hops": [
+                "United States"
+            ]
+        },
+        "China": {
+            "term": "China",
+            "passage": "\"China's capital city, Beijing, is the highest in elevation in China, at 1, 080 meters (3, 100 feet). It was built in 1492 by the Ming Dynasty's Emperor Yongzheng (r. 1736-1762), as a new capital after the relocation of the capital from Xian. The city was designed to serve as the center of Chinese culture and government, and has been a symbol of Chinese civilization and technological prowess.",
+            "qae_pairs": [
+                {
+                    "question": "What is the capital city of China?",
+                    "answer": "Beijing",
+                    "explanation": "Beijing is the capital city of China. It is located in the northern part of the country, in the Hebei province. The city is home to the Chinese government and many cultural sites, including the Great Wall of China, the Forbidden City, and the Temple of Heaven."
+                }
+            ],
+            "hops": [
+                "China"
+            ]
+        },
+        "Germany": {
+            "term": "Germany",
+            "passage": "'The German legal system is the basis for the state's power. Germany has the world's largest legal market; the country has a wide range of specialized and general courts with an extensive judicial hierarchy. The German judicial system is based on a three-tier hierarchical structure. At the top are the Federal Constitutional Court and the Federal Administrative Court, followed by the various state constitutional courts. The lower courts are divided into appellate courts, courts of appeal, and regional courts. Judges are responsible for interpreting and applying German law to individual cases, resolving disputes between parties, and determining whether evidence presented in a case meets legal standards of proof.... Germany is the only European country that practices common law, rather than civil law. This means that the system is based on common law principles and does not provide for strict legal precedent as do other common law countries like the United States and the United Kingdom. Common law is the legal system of a number of nations including the United States, Canada, and France. The legal system of Germany has its origins in Roman law and the Germanic legal systems....\nGermany has a long-established constitutional history with a strong judicial tradition....\n[a] system with a wide range of specialized and general courts with an extensive judicial hierarchy. ...\nEach court has its own specific responsibilities....\nAt the top of the judicial hierarchy is the Federal Constitutional Court (Bundesverwaltungskammer).",
+            "qae_pairs": [
+                {
+                    "question": "Who is the highest court in Germany?",
+                    "answer": "the Federal Constitutional Court",
+                    "explanation": ".. The German legal system is based on a three-tier hierarchical structure. At the top are the Federal Constitutional Court and the Federal Administrative Court, followed by the various state constitutional courts. The German legal system is based on common law principles. The German legal system is based on a three-tier hierarchical structure. At the top are the Federal Constitutional Court and the Federal Administrative Court, followed by the various state constitutional courts. The German legal system is based on common law principles."
+                }
+            ],
+            "hops": [
+                "Germany"
+            ]
+        },
+        "United Kingdom": {
+            "term": "United Kingdom",
+            "passage": "1. Geography:\nThe United Kingdom is situated on the world's northern peninsula. To the north, the country separates the Atlantic Ocean from the North Sea; to the east, the English Channel. England, Wales, Scotland and the Channel Islands form the core of the country. Northern Ireland, which lies in the North Sea, is a separate country altogether, which maintains a separate legal system. The British Overseas Territories lie scattered across the global ocean, mainly around the Falkland Islands, and in South Africa, over the island of St. Helena.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the country in which London is situated?",
+                    "answer": "England",
+                    "explanation": "London is the capital of England. The name London is derived from the Old English word Lond, which means long. It is believed that the name was given to the city by the Vikings, who called it Lond, meaning long beach."
+                }
+            ],
+            "hops": [
+                "United Kingdom"
+            ]
+        },
+        "Japan": {
+            "term": "Japan",
+            "passage": "(I used this in a previous post for my research but the research led me to a lot of dead ends. It’s more difficult to locate sources. If you want me to find another way to verify the information, please let me know. I can provide more information from another source.) Japan (Nihongo 日本 Nihongo) is an island nation located in East Asia. It is composed of four main islands: Honshu, Hokkaido, Shikoku, and Kyushu. Its capital and largest city is Tokyo. It is divided into regions such as Kanto, Kansai, Hokkaido, JMS and Kyushu. The Imperial Household in Tokyo is the center of the Japanese government. From the earliest recorded times (around 5,000 years ago), the Japanese islands have been settled and inhabited by a variety of tribal and later Chinese migrants. Early on, the country became a patchwork of feudal lords and their clans. The rise of feudal systems and the 12th-century Heian period in the 12th century changed the landscape of Japan. After the Heian period ended in 1185, Japan underwent a process of unification, when the Emperor moved the imperial court to Kyoto. The Heian period ended in 1185, the Emperor moved the imperial court to Kyoto.",
+            "qae_pairs": [
+                {
+                    "question": "When did the Japanese feudal system begin?",
+                    "answer": "the 12th century",
+                    "explanation": "(The Heian period ended in 1185, the Emperor moved the imperial court to Kyoto, and the feudal system began in the 12th century.)"
+                },
+                {
+                    "question": "What is the capital of Japan?",
+                    "answer": "Kyoto",
+                    "explanation": "(The capital of Japan is Kyoto. The Imperial Household in Tokyo is the center of the Japanese government. From the earliest recorded times (around 5,000 years ago), the Japanese islands have been settled and inhabited by a variety of tribal and later Chinese migrants. Early on, the country became a patchwork of feudal lords and their clans. The rise of feudal systems and the 12th-century Heian period in the 12th century changed the landscape of Japan. After the Heian period ended in 1185, Japan underwent a process of unification, when the Emperor moved the imperial court to Kyoto. The"
+                },
+                {
+                    "question": "What is the center of the Japanese government?",
+                    "answer": "The Imperial Household",
+                    "explanation": "“The Imperial Household is the center of the Japanese government. It is located in Tokyo and is composed of the Emperor, Empress, and their children. The Emperor is the head of the Imperial Household and is considered the highest authority in the country. The Imperial Household is responsible for the selection of the Emperor and Empress. The Emperor is also the head of the Japanese government and is responsible for the selection of the Prime Minister. The Imperial Household is also responsible for the selection of the Prime Minister. The Imperial Household is also responsible for the selection of the Prime Minister. The Imperial Household is also responsible for the selection of the Prime Minister."
+                },
+                {
+                    "question": "What is the largest island in Japan?",
+                    "answer": "Honshu",
+                    "explanation": "(Honshu is the largest island in Japan. It is located in the central part of Japan. It is the most populous island in Japan. It is the most populous island in Japan. It is the most populous island in Japan. It is the most populous island in Japan. It is the most populous island in Japan. It is the most populous island in Japan. It is the most populous island in Japan. It is the most populous island in Japan. It is the most populous island in Japan. It is the most populous island in Japan. It is the most populous island"
+                },
+                {
+                    "question": "What is the name of the language spoken in Japan?",
+                    "answer": "Nihongo",
+                    "explanation": "“Nihongo” is a term used to refer to the Japanese language. The word is derived from the word “nihon,” which means “Japan.” The term is used to refer to the Japanese language in English."
+                },
+                {
+                    "question": "When did the Emperor move the imperial court to Kyoto?",
+                    "answer": "1185",
+                    "explanation": "1185 was the year when the Emperor moved the imperial court to Kyoto."
+                }
+            ],
+            "hops": [
+                "Japan"
+            ]
+        },
+        "Brazil": {
+            "term": "Brazil",
+            "passage": "I would like to share the article with you. The text has been simplified and is now on my Blog. If you wish to translate it please email me. Also, the images below are not my own copyright. The text is written by Rania, a friend of mine, in a beautiful way which has allowed me to reproduce the text. Brazil is one of the most vibrant, beautiful, and creative places I've ever visited. This is my personal impression of Brazil. I’ve been lucky enough to spend the past two weeks in Rio de Janeiro, Brazil. This was a chance for me to explore the streets of Rio – a place where creativity, beauty, and life have a real physical presence. I had read that Brazil was a country of passion and that it was a place where people live life to the fullest. My expectations were high, but I wasn’t sure that I would find this as I was traveling to so many places in Brazil and Argentina. Brazil has been my third trip to South America. It has been a chance for me to visit so many places in the region, in such a short time frame. This time, it was in Brazil – specifically Rio. I love the language of Brazil. I have enjoyed listening to it and feeling the rhythm of the words in the songs and poems.",
+            "qae_pairs": [
+                {
+                    "question": "What is Brazil like?",
+                    "answer": "Rio de Janeiro",
+                    "explanation": "Rio de Janeiro is a city of passion and life. It is a place where people live life to the fullest. It is a place where the rhythm of life is so strong that it is impossible to not be affected by it. It is a place where the sun is always shining and the sea is always calling. It is a place where the people are so passionate that they will do anything to make you feel welcome. It is a place where the people are so passionate that they will do anything to make you feel welcome. It is a place where the people are so passionate that they will do anything to make you feel welcome."
+                }
+            ],
+            "hops": [
+                "Brazil"
+            ]
+        },
+        "Canada": {
+            "term": "Canada",
+            "passage": ".. a history (in French). It appears to be a long history...\nCanada is a vast country in North America. The population is 35,636,000 (2013). It was founded by Christopher Columbus in 1492. The country is bounded by the three seas: the Pacific Ocean, the Atlantic Ocean and the Great Lakes. There are two distinct climate zones in the country, the continental climate with three seasons and the coastal climate with humid and hot summers. The country is divided into provinces and territories. The three main languages of the country are English, French and Chinese. The official currency is the Canadian dollar and the currency is the US dollar. Canada is a member of the North American Free Trade Agreement.",
+            "qae_pairs": [
+                {
+                    "question": "What are the three seas of Canada?",
+                    "answer": "the Great Lakes",
+                    "explanation": "The Great Lakes are a group of five lakes located in the country of Canada. They are Lake Superior, Lake Michigan, Lake Huron, Lake Erie and Lake Ontario. They are the largest group of freshwater lakes in the world. They are located in the central part of the country. The lakes are located in the Great Lakes region. They are the main source of freshwater in the country. They are also the main source of drinking water for the country. The lakes are home to many species of fish, including the lake trout and the walleye. They are also home to many species of birds. The lakes are also home to"
+                },
+                {
+                    "question": "Which ocean is the longest in the world?",
+                    "answer": "the Atlantic Ocean",
+                    "explanation": "The longest ocean in the world is the Atlantic Ocean, which is over 11,000 miles (18,000 kilometers) long. The Pacific Ocean is the second longest at over 7,000 miles (11,000 kilometers) and the Mediterranean Sea is the third longest at over 4,000 miles (7,000 kilometers)."
+                },
+                {
+                    "question": "What is the name of the agreement between the United States and Canada?",
+                    "answer": "the North American Free Trade Agreement",
+                    "explanation": "."
+                },
+                {
+                    "question": "Who founded Canada?",
+                    "answer": "Christopher Columbus",
+                    "explanation": "Christopher Columbus was an Italian explorer who is credited with discovering the New World in 1492. He was born in 1451 in Genoa, Italy and died in 1506 in Spain. He is also known as Cristobal Colón in Spanish."
+                },
+                {
+                    "question": "When did Christopher Columbus discover Canada?",
+                    "answer": "1492",
+                    "explanation": "1492 was the year Christopher Columbus discovered Canada."
+                }
+            ],
+            "hops": [
+                "Canada"
+            ]
+        }
+    },
+    "second_hops": {
+        "Washington": {
+            "term": "Washington",
+            "passage": "Washington was an unorganized area in the Virginia wilderness, located in present-day Stafford County and near the site of the George Washington Bridge. During his first term as President of the United States, in 1789, George Washington made this place his primary residence. Washington was established as a capital of sorts for the Virginia General Assembly from 1789-1792. During the War of 1812, the British army was forced to retreat by a Virginia militia from a force it had stationed at this location. The Battle of Fort Washington, fought in the autumn of 1939, was a result of a similar force occupying the area. Today the area is now known as Washington, Virginia.",
+            "qae_pairs": [
+                {
+                    "question": "Where is Washington located in the state of Virginia?",
+                    "answer": "Stafford County",
+                    "explanation": "Washington is located in the Stafford County of Virginia."
+                }
+            ],
+            "hops": [
+                "United States",
+                "Washington"
+            ]
+        },
+        "North America": {
+            "term": "North America",
+            "passage": "North America is the world's third-largest continent and the third-largest continent in terms of total area, encompassing the Western Hemisphere. It spans from the Atlantic Ocean to the Pacific Ocean, and is bounded by the Atlantic, Arctic, and Pacific oceans. The area comprises the continental United States, Canada, and some associated island nations, such as Greenland and the Philippines. The continent is home to more than 1,000 distinct cultures, ethnicities, languages, and religions, with English and French being the most commonly used languages in North America. Major political and economic entities of North America include the United States, Canada, Mexico, and the Central American countries of El Salvador, Honduras, and Nicaragua, as well as some island nations such as Bermuda and the United States Virgin Islands. North America has a long history of indigenous and immigrant diversity. Native Americans have long lived in the area since before the arrival of the first Europeans. Immigrants from Europe began arriving in the 1600s, with the first English colony being established at Jamestown, Virginia in 1607.",
+            "qae_pairs": [
+                {
+                    "question": "Question: Which country is located in North America?",
+                    "answer": "Mexico",
+                    "explanation": "Mexico is located in North America."
+                },
+                {
+                    "question": "What is the name of the first English colony in North America?",
+                    "answer": "Jamestown",
+                    "explanation": "Jamestown was the first permanent English settlement in North America, established in 1607 by the Virginia Company of London. It was located on the James River in present-day Virginia, and was the first successful English colony in North America."
+                },
+                {
+                    "question": "What is the largest body of water surrounding the North American continent?",
+                    "answer": "the Atlantic Ocean",
+                    "explanation": "The North American continent is surrounded by the Atlantic Ocean, which is the largest body of water in the world. The Atlantic Ocean is the worlds largest ocean, covering an area of 31,709,000 square miles (80,582,000 square kilometers). It is the fourth-largest body of water in the world, after the Pacific Ocean, Indian Ocean, and Mediterranean Sea. The Atlantic Ocean is also the worlds third-largest body of water in terms of total area, after the Pacific Ocean and the Indian Ocean."
+                },
+                {
+                    "question": "What year did the first English colony, Jamestown, Virginia, establish in North America?",
+                    "answer": "1607",
+                    "explanation": "1607"
+                },
+                {
+                    "question": "Which country is the largest in North America?",
+                    "answer": "Canada",
+                    "explanation": "Canada is the largest country in North America, spanning from the Atlantic Ocean to the Pacific Ocean and encompassing the continental United States, Canada, and some associated island nations such as Greenland and the Philippines."
+                }
+            ],
+            "hops": [
+                "United States",
+                "North America"
+            ]
+        },
+        "the Federal Constitutional Court": {
+            "term": "the Federal Constitutional Court",
+            "passage": "The Federal Constitutional Court is a court in Germany that has the power to rule on constitutional matters. This court was created in 1949 and is located in Karlsruhe. I have been a long time in search for an English language encyclopedia article that will answer the question that I’ve been asking for the longest time. Do we really need a constitution to have a Federal Constitutional Court? What’s that, you ask? The Federal Constitutional Court is in essence an “appellate court” and it is where you would be able to seek relief from a lower court’s decision. That is, if the lower court does not take the side of the individual being challenged, the higher court will reverse the decision. In Germany, as far as I know, the Federal Constitutional Court, or the Bundesverfassungsgericht in German, plays a similar role. But let’s get back to the point I started with. What is this “appellate” thing? Does it really make that much difference? I have been wondering, for many years, why Germany would bother to have such an entity. What has this court got to do with anything? It is not that I am doubting the decision, because I trust the German system. So, I have the answer. The Federal Constitutional Court is an “Appellate” court because it makes final decision that is final and binding. The final word is theirs.",
+            "qae_pairs": [
+                {
+                    "question": "When was the Federal Constitutional Court established?",
+                    "answer": "1949",
+                    "explanation": "“The Federal Constitutional Court was established in 1949, after the end of the Second World War. It was created to ensure that Germany’s constitution is in line with the new democratic system that was being established after the war. The court is located in Karlsruhe, and it is the highest court in Germany. It is responsible for reviewing the constitutionality of laws and regulations, and for resolving disputes between the federal government and the individual states. The court is composed of 16 judges, who are elected by the German parliament. The judges are appointed for a period of 6 years, and they are not allowed to be"
+                },
+                {
+                    "question": "Question: What is the name of the German Federal Constitutional Court?",
+                    "answer": "Bundesverfassungsgericht",
+                    "explanation": "“Bundesverfassungsgericht” is the name of the German Federal Constitutional Court. It is located in Karlsruhe, Germany."
+                },
+                {
+                    "question": "What is the name of the city where the Federal Constitutional Court is located?",
+                    "answer": "Karlsruhe",
+                    "explanation": "“Karlsruhe” is a city in the southwestern part of Germany. It is located in the state of Baden-Württemberg. The city is home to the Federal Constitutional Court. The city is home to the Federal Constitutional Court. The city is home to the Federal Constitutional Court. The city is home to the Federal Constitutional Court. The city is home to the Federal Constitutional Court. The city is home to the Federal Constitutional Court. The city is home to the Federal Constitutional Court. The city is home to the Federal Constitutional Court. The city is home to the Federal Constitutional Court. The city is home"
+                }
+            ],
+            "hops": [
+                "Germany",
+                "the Federal Constitutional Court"
+            ]
+        },
+        "England": {
+            "term": "England",
+            "passage": "England is a country located in Western Europe. In the United Kingdom, England is a country and a county. In a broader sense, the name has been used to refer to a variety of things or locations. The country is notable for its monarch, Queen Elizabeth II, and for producing renowned English writers such as William Shakespeare and Jane Austen.",
+            "qae_pairs": [
+                {
+                    "question": "Who is known as the Shakespeare of England?",
+                    "answer": "William Shakespeare",
+                    "explanation": "William Shakespeare is known as the Shakespeare of England. He is a renowned English writer and poet who is widely regarded as the greatest writer in the English language. He is best known for his plays, such as Romeo and Juliet, Hamlet, and Macbeth. He is also known for his sonnets, which are a type of poem."
+                },
+                {
+                    "question": "Who is the current Queen of England?",
+                    "answer": "Elizabeth II",
+                    "explanation": "Elizabeth II is the current Queen of England. She ascended to the throne in 1952 after the death of her father, George VI. She has reigned for over 70 years, making her the longest-serving British monarch in history."
+                }
+            ],
+            "hops": [
+                "United Kingdom",
+                "England"
+            ]
+        },
+        "The Imperial Household": {
+            "term": "The Imperial Household",
+            "passage": "The Imperial Household is the official family of Emperor Akihito and his wife Empress Michiko, and consists of 124 members in 2010. In ascending order, the highest ranking members are the emperor, the empress, the Crown Prince, the Imperial Grandson, and so on. Below the royal family, there are numerous departments in the Imperial Household, with various duties and roles. I have always been curious about the Japanese Royal Family. It is unique and quite different from the one in my country. While they hold a large amount of power and influence in Japan, they have a small number of members in their family. My interest was sparked by watching the Japanese Crown Princess, Princess Mako, marrying her commoner boyfriend in 2017. While it is true that there is a monarchy in Japan, I do not think they have the same level of power and influence as those of European countries. I am not a fan of the royal family, but I do have an interest in the culture and history of the Japanese Royal Family.",
+            "qae_pairs": [
+                {
+                    "question": "\nIf the Imperial Household includes the current emperor and empress of Japan, who are they?",
+                    "answer": "Empress Michiko",
+                    "explanation": "The Imperial Household consists of Emperor Akihito and Empress Michiko, who are the current emperor and empress of Japan. They are the highest ranking members of the Imperial Household, and are considered to be the head of the family."
+                },
+                {
+                    "question": " 4. can be answered with a yes or no.\nQuestion: What is the official family of Emperor Akihito and Empress Michiko called? Answer: The Imperial Household.",
+                    "answer": "Royal Family",
+                    "explanation": "The Imperial Household is the family of Emperor Akihito and Empress Michiko. It consists of 124 members in 2010. The highest ranking members are the emperor, the empress, the Crown Prince, the Imperial Grandson, and so on. Below the royal family, there are numerous departments in the Imperial Household, with various duties and roles."
+                }
+            ],
+            "hops": [
+                "Japan",
+                "The Imperial Household"
+            ]
+        },
+        "the Great Lakes": {
+            "term": "the Great Lakes",
+            "passage": "In Lake Ontario, 6-7 miles of river flow into the lake for every mile of coast and 6-7 miles of lake flows out to sea for every mile of coast. That is a pretty wild statement. I would expect 10-to-1 ratio (at least in depth) for coastal areas. The statement may be referring to a study which found that 6-to-1 was more typical, but I doubt that is correct, at least not in my corner of the world. One of these days I may actually have to take a closer look at the Great Lakes themselves. That would be interesting. I've got a nice idea: I'll take an 8x10 photo of the entire Lake Ontario and post it online so that we can all look at the size of our lake. :-D\nI've got a nice idea: I'll take an 8x10 photo of the entire Lake Ontario and post it online so that we can all look at the size of our lake. :-D\nBut what are you going to do with all the images you took? Make a nice gallery in your basement, I guess? I'll be interested to see what you did with them. Perhaps you can use it for a nice calendar? Or an office holiday photo shoot? I was thinking of taking my camera down there for a photo shoot.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the largest lake in the Great Lakes system?",
+                    "answer": "Lake Ontario",
+                    "explanation": "The Great Lakes are a group of five freshwater lakes located in North America. They are the largest group of freshwater lakes in the world, with Lake Ontario being the largest of the five. The lakes are connected to each other and to the Atlantic Ocean. The lakes are located in the Great Lakes region of North America, which includes parts of Ontario, Michigan, Minnesota, Wisconsin, and New York. The lakes are home to a variety of fish species, including lake trout, salmon, and walleye. The lakes are also home to a variety of birds, including bald eagles, ospreys, and blue herons. The lakes"
+                }
+            ],
+            "hops": [
+                "Canada",
+                "the Great Lakes"
+            ]
+        },
+        "the Atlantic Ocean": {
+            "term": "the Atlantic Ocean",
+            "passage": "\"The Atlantic Ocean is the world's second-largest ocean. It covers a surface area of around 31,557,000 square miles (82,817,000 sq mi), which is 6.7% of the Earth's total surface area. It separates Europe from the Americas and from the East from the West. It also separates the two major climate zones of the world, the tropical and the temperate.\" \"The average depth of the Atlantic Ocean is about 12,000 feet (3,700 m). The deepest point is about 11,000 feet (3,800 m) in the deepest parts of the ocean, such as the Mariana Trench. The average width of the Atlantic Ocean varies between about 2,500 miles (4,000 km) to 3,000 miles (5,000 km).\" I wanted to share this information because it reminds me that I'm just a small piece of this big world we live in, with the ocean playing a huge role in what's happening to all of us. I feel so fortunate to have such a big, beautiful ocean around me here in San Diego. I could go for a swim or sail whenever I want, and I can sit and watch the sunset on the beach and be surrounded by this huge, mysterious body of water.",
+            "qae_pairs": [
+                {
+                    "question": "Question: What is the deepest point in the Atlantic Ocean?",
+                    "answer": "the Mariana Trench",
+                    "explanation": "The Mariana Trench is a deep, submarine trench in the western Pacific Ocean, located between the Philippines and Japan. It is the deepest part of the worlds oceans, reaching a depth of 11,000 feet (3,800 m) at its deepest point. The Mariana Trench is the deepest point on the planet and is nearly twice as deep as the second-deepest point, the Challenger Deep in the Mariana Trench. The Mariana Trench is also the only place on Earth where the ocean floor is more than 3,000 miles (1,500 km) deep."
+                },
+                {
+                    "question": "\nWhere is San Diego located in relation to the Atlantic Ocean?",
+                    "answer": "San Diego",
+                    "explanation": "San Diego is located on the west coast of the United States, along the Pacific Ocean. The Pacific Ocean is the worlds largest ocean, covering an area of 31,557,000 square miles (82,817,000 sq mi), which is 6.7% of the Earths total surface area. It separates Europe from the Americas and from the East from the West. It also separates the two major climate zones of the world, the tropical and the temperate."
+                }
+            ],
+            "hops": [
+                "Canada",
+                "the Atlantic Ocean"
+            ]
+        },
+        "the North American Free Trade Agreement": {
+            "term": "the North American Free Trade Agreement",
+            "passage": "The North American Free Trade Agreement (NAFTA), signed in 1993, is a free trade agreement among the United States, Canada, and Mexico. NAFTA is designed to encourage the growth and competitiveness of the three member countries by liberalizing trade, investment and professional practice, without compromising its commitment to the protection of workers. It is the largest free trade agreement in history. (Wikipedia)\nThe US is the main source of imported goods into Canada and the main source of export out of Canada.",
+            "qae_pairs": [
+                {
+                    "question": "What year was the North American Free Trade Agreement (NAFTA) signed?",
+                    "answer": "1993",
+                    "explanation": "1993"
+                },
+                {
+                    "question": "\nWhich country is a member of the North American Free Trade Agreement (NAFTA)?",
+                    "answer": "the United States",
+                    "explanation": "The North American Free Trade Agreement (NAFTA) is a free trade agreement among the United States, Canada, and Mexico. The US is the main source of imported goods into Canada and the main source of export out of Canada."
+                },
+                {
+                    "question": "\nQuestion: Who is the main source of imported goods into Mexico under the North American Free Trade Agreement?",
+                    "answer": "Mexico",
+                    "explanation": "The main source of imported goods into Mexico under the North American Free Trade Agreement is the United States."
+                },
+                {
+                    "question": "\nWhich North American free trade agreement was signed in 1993 and encourages free trade between the United States, Canada, and Mexico?",
+                    "answer": "NAFTA",
+                    "explanation": "The North American Free Trade Agreement (NAFTA) was signed in 1993 by the United States, Canada, and Mexico. It is designed to encourage the growth and competitiveness of the three member countries by liberalizing trade, investment, and professional practice, without compromising its commitment to the protection of workers. It is the largest free trade agreement in history."
+                }
+            ],
+            "hops": [
+                "Canada",
+                "the North American Free Trade Agreement"
+            ]
+        },
+        "Christopher Columbus": {
+            "term": "Christopher Columbus",
+            "passage": "Christopher Columbus is the Italian navigator who had a significant influence on the European Age of Discovery, when he set out from Spain on his ships and landed on the American shores of Cuba and the Bahamas. The Spanish monarchy, under King Ferdinand and Queen Isabella, offered Columbus funding, but he had no knowledge of the distance and the size of the world, he claimed to have reached India. He was wrong, but his geographical mistake did not deter his journey, which helped to start the modern world with colonization. Columbus died in 1492, when he was murdered by Native American tribes. He helped colonization to the New World and his \"Discovery\" has contributed to it being an American nation, the second largest nation in the world and one of the most important economies. Columbus' arrival in the Caribbean opened the door to the 1492 trade route between Europe and Asia, bringing riches to Spain and to the United States. In 1492, the modern world was born.",
+            "qae_pairs": [
+                {
+                    "question": "Who was Christopher Columbus queen?",
+                    "answer": "Queen Isabella",
+                    "explanation": "Christopher Columbus was a navigator from Spain who set out on a journey to the New World in 1492. He was a queen in the Spanish monarchy, and his queen was Queen Isabella."
+                },
+                {
+                    "question": "What was Christopher Columbus contribution to the modern world?",
+                    "answer": "the New World",
+                    "explanation": "Christopher Columbus contribution to the modern world was the discovery of the New World. He set out from Spain on his ships and landed on the American shores of Cuba and the Bahamas. This discovery opened the door to the 1492 trade route between Europe and Asia, bringing riches to Spain and to the United States. In 1492, the modern world was born."
+                },
+                {
+                    "question": "What is Christopher Columbus most famous discovery?",
+                    "answer": "Caribbean",
+                    "explanation": "Christopher Columbus most famous discovery was the Caribbean, which he reached on his second voyage in 1492. Columbus arrival in the Caribbean opened the door to the 1492 trade route between Europe and Asia, bringing riches to Spain and to the United States. In 1492, the modern world was born."
+                },
+                {
+                    "question": "What year did Christopher Columbus set sail from Spain on his famous journey?",
+                    "answer": "1492",
+                    "explanation": "1492"
+                },
+                {
+                    "question": "What is the name of the country Christopher Columbus landed on in 1492?",
+                    "answer": "Bahamas",
+                    "explanation": "Christopher Columbus landed on the Bahamas in 1492. The Bahamas is an archipelago in the Atlantic Ocean and is a country in the Caribbean. Columbus arrival in the Bahamas is significant in the history of colonization."
+                },
+                {
+                    "question": "What did Christopher Columbus claim to have reached on his journey?",
+                    "answer": "India",
+                    "explanation": "Christopher Columbus claimed to have reached India on his journey. However, he was wrong, and his geographical mistake did not deter his journey, which helped to start the modern world with colonization."
+                }
+            ],
+            "hops": [
+                "Canada",
+                "Christopher Columbus"
+            ]
+        }
+    }
+}

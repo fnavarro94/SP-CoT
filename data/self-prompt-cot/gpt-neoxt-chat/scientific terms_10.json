@@ -1,0 +1,109 @@
+{
+    "first_hops": {
+        "adnexa": {
+            "term": "adnexa",
+            "passage": "Adenexa is a genus of flowering plants in the family Rubiaceae. It is native to Central and South America, the West Indies, and southern Florida. It was named by Linnaeus in 1753 in Species Plantarum.",
+            "qae_pairs": [
+                {
+                    "question": "In which book was the genus Adenexa described?",
+                    "answer": "Species Plantarum",
+                    "explanation": "Adenexa is a genus of flowering plants in the family Rubiaceae. It is native to Central and South America, the West Indies, and southern Florida. It was named by Linnaeus in 1753 in Species Plantarum."
+                },
+                {
+                    "question": "Which year was the genus Adenexa named?",
+                    "answer": "1753",
+                    "explanation": "Adenexa is a genus of flowering plants in the family Rubiaceae. It is native to Central and South America, the West Indies, and southern Florida. It was named by Linnaeus in 1753 in Species Plantarum."
+                },
+                {
+                    "question": "In which continent is the genus Adenexa native?",
+                    "answer": "the West Indies",
+                    "explanation": "Adenexa is a genus of flowering plants in the family Rubiaceae. It is native to Central and South America, the West Indies, and southern Florida. It was named by Linnaeus in 1753 in Species Plantarum."
+                },
+                {
+                    "question": "What is the genus of the plant that is native to Central and South America, the West Indies, and southern Florida?",
+                    "answer": "Adenexa",
+                    "explanation": "Adenexa is a genus of flowering plants in the family Rubiaceae. It is native to Central and South America, the West Indies, and southern Florida. It was named by Linnaeus in 1753 in Species Plantarum."
+                },
+                {
+                    "question": "In which state is the genus Adenexa native?",
+                    "answer": "Florida",
+                    "explanation": "Adenexa is a genus of flowering plants in the family Rubiaceae. It is native to Central and South America, the West Indies, and southern Florida. It was named by Linnaeus in 1753 in Species Plantarum."
+                }
+            ],
+            "hops": [
+                "adnexa"
+            ]
+        },
+        "anagen": {
+            "term": "anagen",
+            "passage": "The anagen phase occurs during the first part of the hair growth cycle, and is also called the active growth phase. It lasts for 2–6 years in human beings, and is characterized by the rapid growth of hair follicles from the bulb outward. During the anagen, the dermal papilla cells produce a growth factor, called fibroblast growth factor (FGF), that promotes the proliferation of the matrix cells and the outer root sheath. The matrix cells proliferate rapidly and produce keratin, a structural protein that makes up the hair shaft, which is extruded from the follicle. The anagen phase is followed by catagen, the regression phase, and telogen, the resting phase, during which the hair falls out and the hair follicle shrinks back to the bulb. The human hair growth cycle is approximately three years long, with the anagen phase lasting for two years and the telogen phase lasting for one year.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the growth factor that is produced by the dermal papilla cells?",
+                    "answer": "FGF",
+                    "explanation": "The dermal papilla cells produce a growth factor called fibroblast growth factor (FGF)."
+                },
+                {
+                    "question": "How long does it take for the human hair growth cycle to be complete?",
+                    "answer": "2–6 years",
+                    "explanation": "The human hair growth cycle is approximately three years long, with the anagen phase lasting for two years and the telogen phase lasting for one year."
+                }
+            ],
+            "hops": [
+                "anagen"
+            ]
+        }
+    },
+    "second_hops": {
+        "the West Indies": {
+            "term": "the West Indies",
+            "passage": "The West Indies (colloquially known as the West Indies, the WIs, the Caribbean, or the Caribbean Islands) are a region that comprises the insular Caribbean Sea, the islands of the Caribbean, and the adjacent coastal regions of the continent of North America. The West Indies is a geopolitical term that has been in use since the 16th century. The term is derived from the Old World, where the \"West Indies\" was the common name for the islands of the Lesser Antilles. The West Indies are the second largest and the most populous island group in the Caribbean, after the Greater Antilles. The West Indies is the only island chain in the world to have never had a native population. The West Indies consist of the Greater Antilles and the Lesser Antilles. The Lesser Antilles consist of the Virgin Islands, the Windward Islands, the Leeward Antilles, the ABC islands (Aruba, Bonaire and Curaçao), and the less prominent Bermudian islands. The Greater Antilles are the main island chain, consisting of Cuba, Hispaniola (the Dominican Republic and Haiti), Jamaica, Puerto Rico, and Trinidad and Tobago. The total land area of the West Indies is approximately, which is less than the combined land area of the United Kingdom. The total population is around 41.5 million people.",
+            "qae_pairs": [
+                {
+                    "question": "The West Indies is located in which part of the world?\n",
+                    "answer": "Caribbean Sea",
+                    "explanation": "The West Indies is a region that comprises the insular Caribbean Sea, the islands of the Caribbean, and the adjacent coastal regions of the continent of North America."
+                },
+                {
+                    "question": "What is the largest island in the West Indies?",
+                    "answer": "Trinidad",
+                    "explanation": "Trinidad is the largest island in the West Indies."
+                }
+            ],
+            "hops": [
+                "adnexa",
+                "the West Indies"
+            ]
+        },
+        "Florida": {
+            "term": "Florida",
+            "passage": "The climate in Florida is humid subtropical. The state has a wide range of temperatures, due to its location on the peninsula between the Gulf of Mexico and the Atlantic Ocean. The average temperature in January is around 50 °F (10 °C) and in July, 82 °F (28 °C). The highest temperature ever recorded in Florida was 103 °F (39 °C) at Heathrow Airport on June 28, 1945. The state has a large range of precipitation, from under 1 inch (0.3 meter) per month in the Panhandle, up to over 40 inches (1 meter) in some locations in the Panhandle. The average precipitation is around 3 to 5 inches (7.6 to 12.7 cm), with most of the rainfall coming from thunderstorms during the summer.",
+            "qae_pairs": [
+                {
+                    "question": "Which month is the state of Florida located on the eastern coast of the United States of America?\n",
+                    "answer": "July",
+                    "explanation": "July"
+                },
+                {
+                    "question": "Which ocean is located to the west of Florida?",
+                    "answer": "the Atlantic Ocean",
+                    "explanation": "The Atlantic Ocean is located to the west of Florida."
+                },
+                {
+                    "question": "Which season has the least amount of rainfall in Florida?",
+                    "answer": "the summer",
+                    "explanation": "In Florida, the summer has the least amount of rainfall."
+                },
+                {
+                    "question": "How many degrees Fahrenheit is the average temperature in Florida?",
+                    "answer": "82",
+                    "explanation": "The average temperature in Florida is 82 °F (28 °C)."
+                }
+            ],
+            "hops": [
+                "adnexa",
+                "Florida"
+            ]
+        }
+    }
+}

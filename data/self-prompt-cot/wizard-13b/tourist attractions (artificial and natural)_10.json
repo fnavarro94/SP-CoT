@@ -1,0 +1,1226 @@
+{
+    "first_hops": {
+        "The Eiffel Tower in Paris": {
+            "term": "The Eiffel Tower in Paris",
+            "passage": "The Eiffel Tower is a wrought-iron lattice tower on the Champ de Mars in Paris, France. It is named after the engineer Gustave Eiffel, whose company designed and built the tower. Constructed from 1887 to 1889 as the entrance to the 1889 World's Fair, it was initially criticized by some of France's leading artists and intellectuals for its design, but has become a global cultural icon of France and one of the most recognizable structures in the world. The tower is the tallest structure in Paris, and was the tallest man-made structure in the world until the completion of the Chrysler Building in New York City in 1930.",
+            "qae_pairs": [
+                {
+                    "question": "What year was the Chrysler Building completed in?",
+                    "answer": "1930",
+                    "explanation": "The Chrysler Building in New York City was completed in 1930, making it the tallest man-made structure in the world until the completion of the Empire State Building in 1931."
+                },
+                {
+                    "question": "\"Who designed and built the Eiffel Tower?\"",
+                    "answer": "Gustave Eiffel",
+                    "explanation": "The tower is the tallest structure in Paris, and was the tallest man-made structure in the world until the completion of the Chrysler Building in New York City in 1930."
+                },
+                {
+                    "question": "Which country is the Eiffel Tower in?",
+                    "answer": "France",
+                    "explanation": "The Eiffel Tower is a wrought-iron lattice tower on the Champ de Mars in Paris, France."
+                }
+            ],
+            "hops": [
+                "The Eiffel Tower in Paris"
+            ]
+        },
+        "The Great Wall of China in China": {
+            "term": "The Great Wall of China in China",
+            "passage": "The Great Wall of China is a series of fortifications made of stone, brick, tamped earth, wood, and other materials, generally built along an east-to-west line across the historical northern borders of China to protect the Chinese states and empires against the raids and invasions of the various nomadic groups of the Eurasian Steppe. It is the longest wall in the world, stretching over 13,000 miles (21,000 km). The Great Wall was built from the 7th century BC until the 16th century during the Ming dynasty. The wall was built by many different Chinese dynasties, and was not continuous during its construction. The wall was built to protect the Chinese states and empires against the raids and invasions of the various nomadic groups of the Eurasian Steppe. The Great Wall of China is a popular tourist destination, attracting millions of visitors every year. The wall is also a symbol of Chinese strength and resilience, and is considered one of the Seven Wonders of the World.",
+            "qae_pairs": [
+                {
+                    "question": "'What is the name of the country with the longest wall in the world?'",
+                    "answer": "China",
+                    "explanation": "The Great Wall of China is a series of fortifications made of stone, brick, tamped earth, wood, and other materials, generally built along an east-to-west line across the historical northern borders of China to protect the Chinese states and empires against the raids and invasions of the various nomadic groups of the Eurasian Steppe."
+                },
+                {
+                    "question": "\"What is the abbreviation for Before Christ?\"",
+                    "answer": "BC",
+                    "explanation": "The Great Wall of China is a series of fortifications made of stone, brick, tamped earth, wood, and other materials, generally built along an east-to-west line across the historical northern borders of China to protect the Chinese states and empires against the raids and invasions of the various nomadic groups of the Eurasian Steppe."
+                },
+                {
+                    "question": "What is the Great Wall of China? When was the Great Wall of China built? How long is the Great Wall of China? What is the Great Wall of China used for? What is the Great Wall of China a symbol of? What are the Seven Wonders of the World?",
+                    "answer": "the 7th century",
+                    "explanation": "The Great Wall of China was built from the 7th century BC until the 16th century during the Ming dynasty."
+                },
+                {
+                    "question": "A. How many visitors does the Great Wall of China attract? B. What is the length of the Great Wall of China? C. When was the Great Wall of China built? D. What is the Great Wall of China a symbol of?",
+                    "answer": "every year",
+                    "explanation": "The Great Wall of China is a popular tourist destination, attracting millions of visitors every year."
+                },
+                {
+                    "question": "What dynasty built the Great Wall of China?",
+                    "answer": "the Ming dynasty",
+                    "explanation": "The Great Wall of China was built from the 7th century BC until the 16th century during the Ming dynasty."
+                }
+            ],
+            "hops": [
+                "The Great Wall of China in China"
+            ]
+        },
+        "The Colosseum in Rome": {
+            "term": "The Colosseum in Rome",
+            "passage": "The Colosseum, also known as the Flavian Amphitheatre, is an oval amphitheatre in the centre of Rome, Italy. Built of concrete and sand, it is the largest amphitheatre in the world, and is considered one of the greatest works of Roman architecture and engineering. It was used for a variety of events, including gladiator contests and public spectacles such as mock sea battles, animal hunts, and executions. The Colosseum is situated just east of the Roman Forum. It was commissioned around 70–75 AD by Emperor Vespasian of the Flavian dynasty and completed in 80 AD under his son, Titus. Further modifications were made during the reign of Titus's brother, Domitian. These three emperors are known as the Flavian dynasty, and the amphitheatre was named in Latin for its association with their family name. The Colosseum could hold up to 80,000 spectators, and was used for gladiatorial contests and public spectacles such as mock sea battles, animal hunts, executions, and dramas based on mythology or historical events. The building ceased to be used for entertainment in the early medieval era. It was later reused for such purposes as housing, workshops, quarters for a religious order, and a fortress. Although in the 21st century it stays partially ruined because of damage caused by time and earthquakes, the Colosseum is an iconic symbol of Imperial Rome and one of the most popular tourist attractions in Rome. It is also an important archaeological site, providing insights into Roman engineering and construction techniques as well as the culture and society of ancient Rome.",
+            "qae_pairs": [
+                {
+                    "question": "'Which amphitheater in Rome is known for its use in gladiator contests and public spectacles?'",
+                    "answer": "Colosseum",
+                    "explanation": "The Colosseum was used for a variety of events, including gladiator contests and public spectacles such as mock sea battles, animal hunts, and executions."
+                },
+                {
+                    "question": "* What year was the Colosseum completed? * Who was the Roman Emperor who commissioned the construction of the Colosseum? * What is the capacity of the Colosseum in terms of spectators? * What is the name of the amphitheatre in",
+                    "answer": "80 AD",
+                    "explanation": "The Colosseum was commissioned around 70–75 AD by Emperor Vespasian of the Flavian dynasty and completed in 80 AD under his son, Titus."
+                },
+                {
+                    "question": "What is the name of the family that commissioned the Colosseum and what is the name of the amphitheatre in Latin?",
+                    "answer": "the Flavian dynasty",
+                    "explanation": "The Colosseum was commissioned around 70–75 AD by Emperor Vespasian of the Flavian dynasty and completed in 80 AD under his son, Titus."
+                },
+                {
+                    "question": "What was the name of the Roman emperor who made further modifications to the Colosseum during his reign?",
+                    "answer": "Domitian",
+                    "explanation": "The Colosseum was commissioned around 70–75 AD by Emperor Vespasian of the Flavian dynasty and completed in 80 AD under his son, Titus. This sentence explains that the Colosseum was built during the reign of the Flavian dynasty, which consisted of three emperors: Vespasian, Titus, and Domitian. Vespasian was the first emperor to commission the construction of the Colosseum, and it was completed under the reign of his son, Titus."
+                },
+                {
+                    "question": "What is the Colosseum also known as?",
+                    "answer": "the Flavian Amphitheatre",
+                    "explanation": "The Colosseum is situated just east of the Roman Forum. It was commissioned around 70–75 AD by Emperor Vespasian of the Flavian dynasty and completed in 80 AD under his son, Titus. Answer: The Colosseum is situated just east of the Roman Forum."
+                }
+            ],
+            "hops": [
+                "The Colosseum in Rome"
+            ]
+        },
+        "The Statue of Liberty in New York City": {
+            "term": "The Statue of Liberty in New York City",
+            "passage": "The Statue of Liberty is a colossal neoclassical sculpture on Liberty Island in New York Harbor in New York City, in the United States. The copper statue, designed by French sculptor Frédéric Auguste Bartholdi, was a gift to the United States from the people of France. It is of a robed female figure representing the Roman goddess Libertas, who bears a torch and a tabula ansata (a tablet evoking the law) upon which is inscribed the date of the American Declaration of Independence, July 4, 1776. A broken chain lies at her feet. The statue is an icon of freedom and of the United States, and is a welcoming sight to immigrants arriving from abroad. Bartholdi was inspired by French republicanism and the Enlightenment, as well as the end of slavery in France and the United States. He intended to depict a woman with a strong, athletic body and a crown of stars representing the concept of liberty. The statue's torch was originally supposed to be lit by the sun's rays, but a lack of funding led Bartholdi to use electricity instead. The statue was built in France starting in 1875, and then disassembled and shipped to the United States in 1885. It was reassembled on its pedestal in New York Harbor in 1886. The statue has been a symbol of freedom and democracy ever since its dedication in 1886. It has also been a symbol of hope for immigrants arriving in the United States, as well as a symbol of American patriotism. The statue has been featured in works of art and literature, and has been referenced in popular culture.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the country where the Statue of Liberty is located?",
+                    "answer": "the United States",
+                    "explanation": "The statue is an icon of freedom and of the United States, and is a welcoming sight to immigrants arriving from abroad. This sentence explains that the Statue of Liberty is a symbol of freedom and the United States, and it is a welcoming sight to immigrants arriving from other countries."
+                },
+                {
+                    "question": "\"Who designed the Statue of Liberty?\"",
+                    "answer": "Frédéric Auguste Bartholdi",
+                    "explanation": "Bartholdi was inspired by French republicanism and the Enlightenment, as well as the end of slavery in France and the United States. He intended to depict a woman with a strong, athletic body and a crown of stars representing the concept of liberty. This sentence explains that Frédéric Auguste Bartholdi was inspired by French republicanism and the Enlightenment, as well as the end of slavery in France and the United States, when he designed the Statue of Liberty."
+                },
+                {
+                    "question": "What is the name of the island where the Statue of Liberty is located?",
+                    "answer": "Liberty Island",
+                    "explanation": "The statue is an icon of freedom and of the United States, and is a welcoming sight to immigrants arriving from abroad. This sentence explains that the Statue of Liberty is a symbol of freedom and democracy and is a welcoming sight to immigrants arriving in the United States."
+                },
+                {
+                    "question": "What is the location of the Statue of Liberty?",
+                    "answer": "New York Harbor",
+                    "explanation": "The statue is an icon of freedom and of the United States, and is a welcoming sight to immigrants arriving from abroad."
+                },
+                {
+                    "question": "What is the name of the Roman goddess that the Statue of Liberty represents?",
+                    "answer": "Libertas",
+                    "explanation": "The statue is an icon of freedom and of the United States, and is a welcoming sight to immigrants arriving from abroad."
+                },
+                {
+                    "question": "What year did the construction of the Statue of Liberty begin in France?",
+                    "answer": "1875",
+                    "explanation": "The statue was built in France starting in 1875, and then disassembled and shipped to the United States in 1885. It was reassembled on its pedestal in New York Harbor in 1886."
+                },
+                {
+                    "question": "What year was the Statue of Liberty dedicated in New York City?",
+                    "answer": "1886",
+                    "explanation": "The statue was built in France starting in 1875, and then disassembled and shipped to the United States in 1885. It was reassembled on its pedestal in New York Harbor in 1886. Answer: The statue was built in France starting in 1875, and then disassembled and shipped to the United States in 1885."
+                },
+                {
+                    "question": "Which country gave the Statue of Liberty to the United States?",
+                    "answer": "France",
+                    "explanation": "The statue is an icon of freedom and of the United States, and is a welcoming sight to immigrants arriving from abroad. Question: What is the main idea of the passage? Answer: The main idea of the passage is to provide information about the Statue of Liberty in New York City, including its history, design, and symbolism. The passage explains that the statue is a gift from France to the United States, and that it represents the concept of liberty and has been a symbol of freedom and democracy since its dedication in 1886."
+                },
+                {
+                    "question": "In what year was the Statue of Liberty disassembled in France and shipped to the United States?",
+                    "answer": "1885",
+                    "explanation": "The statue was built in France starting in 1875, and then disassembled and shipped to the United States in 1885."
+                },
+                {
+                    "question": "What is the capital of New York?",
+                    "answer": "New York City",
+                    "explanation": "The statue is an icon of freedom and of the United States, and is a welcoming sight to immigrants arriving from abroad. Evidence sentence: The statue has been a symbol of freedom and democracy ever since its dedication in 1886."
+                }
+            ],
+            "hops": [
+                "The Statue of Liberty in New York City"
+            ]
+        },
+        "The Taj Mahal in Agra": {
+            "term": "The Taj Mahal in Agra",
+            "passage": "The Taj Mahal is an ivory-white marble mausoleum on the right bank of the Yamuna river in the Indian city of Agra. It was commissioned in 1632 by the Mughal emperor, Shah Jahan, to house the tomb of his favorite wife, Mumtaz Mahal. The tomb is the central focus of the entire complex, which includes a mosque and a guest house, and is surrounded by a walled garden. Construction of the mausoleum began in 1632 and was completed in 1653, employing thousands of artisans and craftsmen. The Taj Mahal is widely recognized as one of the greatest examples of Mughal architecture, and is considered one of the world's most beautiful buildings. It is a UNESCO World Heritage site and is listed as one of the Seven Wonders of the World.",
+            "qae_pairs": [
+                {
+                    "question": "1. Who was the favorite wife of Mughal Emperor Shah Jahan? 2. Who was the architect of the Taj Mahal? 3. What is the main purpose of the Taj Mahal? 4. What is the UNESCO World Heritage site status of the Taj Mah",
+                    "answer": "Mumtaz Mahal",
+                    "explanation": "The Taj Mahal is widely recognized as one of the greatest examples of Mughal architecture, and is considered one of the world's most beautiful buildings."
+                },
+                {
+                    "question": "What is the name of the empire that commissioned the construction of the Taj Mahal?",
+                    "answer": "Mughal",
+                    "explanation": "The Taj Mahal is widely recognized as one of the greatest examples of Mughal architecture, and is considered one of the world's most beautiful buildings. This sentence is an evidence sentence because it provides information about the Taj Mahal's recognition and reputation as a masterpiece of Mughal architecture."
+                },
+                {
+                    "question": "1. When was the Taj Mahal commissioned? 2. When was the Taj Mahal completed? 3. When was the Taj Mahal listed as one of the Seven Wonders of the World? 4. When was the Taj Mahal designated a UNESCO World Heritage",
+                    "answer": "1653",
+                    "explanation": "Construction of the mausoleum began in 1632 and was completed in 1653, employing thousands of artisans and craftsmen."
+                },
+                {
+                    "question": "",
+                    "answer": "The Taj Mahal",
+                    "explanation": "Answer: The Taj Mahal is widely recognized as one of the greatest examples of Mughal architecture, and is considered one of the world's most beautiful buildings."
+                },
+                {
+                    "question": "A. When was the Taj Mahal commissioned? B. When was the Taj Mahal completed? C. When was the Taj Mahal built? D. When was the Taj Mahal destroyed? The answer is A. When was the Taj Mahal commission",
+                    "answer": "1632",
+                    "explanation": "The Taj Mahal is widely recognized as one of the greatest examples of Mughal architecture, and is considered one of the world's most beautiful buildings. It is a UNESCO World Heritage site and is listed as one of the Seven Wonders of the World."
+                },
+                {
+                    "question": "A. Who commissioned the Taj Mahal? B. Who was the Mughal emperor during the construction of the Taj Mahal? C. Who was the favorite wife of the Mughal emperor? D. Who was the architect of the Taj Mahal?",
+                    "answer": "Shah Jahan",
+                    "explanation": "The Taj Mahal is widely recognized as one of the greatest examples of Mughal architecture, and is considered one of the world's most beautiful buildings."
+                },
+                {
+                    "question": "Which Indian city is home to the Taj Mahal?",
+                    "answer": "Agra",
+                    "explanation": "The Taj Mahal is an ivory-white marble mausoleum on the right bank of the Yamuna river in the Indian city of Agra."
+                },
+                {
+                    "question": "1. Where is the Taj Mahal located? 2. What was the reason for building the Taj Mahal? 3. Who commissioned the construction of the Taj Mahal? 4. What is the Taj Mahal known for? 5. What is the significance of the",
+                    "answer": "Yamuna",
+                    "explanation": "1. The Taj Mahal is an ivory-white marble mausoleum on the right bank of the Yamuna river in the Indian city of Agra."
+                }
+            ],
+            "hops": [
+                "The Taj Mahal in Agra"
+            ]
+        },
+        "The Grand Canyon in Arizona": {
+            "term": "The Grand Canyon in Arizona",
+            "passage": "The Grand Canyon is a steep-sided canyon carved by the Colorado River in Arizona, United States. It is contained within and managed by Grand Canyon National Park, the Hualapai Tribal Nation, the Havasupai Tribe, and the Navajo Nation. President Theodore Roosevelt was a major proponent of preservation of the Grand Canyon area, and visited it on numerous occasions to hunt and enjoy the scenery. The Grand Canyon is 277 miles (446 km) long, up to 18 miles (29 km) wide, and over a mile (6,000 feet or 1,800 meters) deep. The canyon was formed by the Colorado River, which began eroding the rock of the Colorado Plateau through geologic uplift and tectonic activity about 70 million years ago. The river also helped create the distinctive layered bands of rock that reveal millions of years of geologic history. The Grand Canyon is home to numerous plant and animal species, including several that are found nowhere else in the world. The canyon's climate and geology have created a variety of habitats, including desert, forest, and even a tropical rainforest. The Colorado River and its tributaries support a diverse fish population, including the endangered humpback chub. The Grand Canyon is a popular tourist destination, drawing millions of visitors each year. It is also a site of significant scientific research, and has been designated a World Heritage Site, a National Natural Landmark, and an International Biosphere Reserve.",
+            "qae_pairs": [
+                {
+                    "question": "What is the Grand Canyon designated as?",
+                    "answer": "World Heritage Site",
+                    "explanation": "The Grand Canyon is a World Heritage Site, a National Natural Landmark, and an International Biosphere Reserve."
+                },
+                {
+                    "question": "'Which tourist attraction is 277 miles long, up to 18 miles wide, and over a mile deep, and is home to numerous plant and animal species, including several that are found nowhere else in the world?'",
+                    "answer": "Grand Canyon",
+                    "explanation": "The Grand Canyon is a steep-sided canyon carved by the Colorado River in Arizona, United States."
+                },
+                {
+                    "question": "What is the name of the Native American tribe that manages a part of the Grand Canyon?",
+                    "answer": "the Hualapai Tribal Nation",
+                    "explanation": "The Grand Canyon is a steep-sided canyon carved by the Colorado River in Arizona, United States. It is contained within and managed by Grand Canyon National Park, the Hualapai Tribal Nation, the Havasupai Tribe, and the Navajo Nation."
+                }
+            ],
+            "hops": [
+                "The Grand Canyon in Arizona"
+            ]
+        },
+        "The Sydney Opera House in Sydney": {
+            "term": "The Sydney Opera House in Sydney",
+            "passage": "The Sydney Opera House is a multi-purpose performing arts center in Sydney, New South Wales, Australia. It is one of the most iconic and recognizable buildings in the world. The Opera House was designed by Danish architect Jørn Utzon and opened in 1973 after a long and controversial construction process. It is situated on Bennelong Point in Sydney Harbour, close to the Sydney Harbour Bridge. The building is a UNESCO World Heritage Site and is on the Australian $20 note. The Opera House is home to numerous performing arts companies, including the Sydney Symphony Orchestra and the Australian Ballet. It also hosts a range of events, including concerts, plays, and musicals. The Opera House is a popular tourist destination, with millions of visitors each year.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the multi-purpose performing arts center in Sydney, New South Wales, Australia?",
+                    "answer": "The Sydney Opera House",
+                    "explanation": "The Sydney Opera House is a UNESCO World Heritage Site and is on the Australian $20 note."
+                },
+                {
+                    "question": "What performing arts companies are housed in the Sydney Opera House?",
+                    "answer": "the Sydney Symphony Orchestra",
+                    "explanation": "The Opera House is home to numerous performing arts companies, including the Sydney Symphony Orchestra and the Australian Ballet."
+                },
+                {
+                    "question": "What is the name of the bridge that is located near the Sydney Opera House?",
+                    "answer": "the Sydney Harbour Bridge",
+                    "explanation": "The Opera House is situated on Bennelong Point in Sydney Harbour, close to the Sydney Harbour Bridge."
+                },
+                {
+                    "question": "Who designed the Sydney Opera House?",
+                    "answer": "Jørn Utzon",
+                    "explanation": "The Sydney Opera House is a multi-purpose performing arts center in Sydney, New South Wales, Australia. It is one of the most iconic and recognizable buildings in the world. The Opera House was designed by Danish architect Jørn Utzon and opened in 1973 after a long and controversial construction process."
+                },
+                {
+                    "question": "\"Where is the Sydney Opera House located in Sydney?\"",
+                    "answer": "Bennelong Point",
+                    "explanation": "The Opera House is situated on Bennelong Point in Sydney Harbour, close to the Sydney Harbour Bridge."
+                },
+                {
+                    "question": "The Sydney Opera House was designed by Danish architect Jørn Utzon and opened in which year?",
+                    "answer": "1973",
+                    "explanation": "The Opera House was designed by Danish architect Jørn Utzon and opened in 1973 after a long and controversial construction process."
+                },
+                {
+                    "question": "What is the name of the state in which Sydney is located?",
+                    "answer": "New South Wales",
+                    "explanation": "The Opera House is situated on Bennelong Point in Sydney Harbour, close to the Sydney Harbour Bridge. This sentence provides evidence that the Sydney Opera House is located in Sydney, New South Wales, as it specifies the location of the building on Bennelong Point in Sydney Harbour, which is in New South Wales."
+                }
+            ],
+            "hops": [
+                "The Sydney Opera House in Sydney"
+            ]
+        },
+        "The Petra archaeological site in Jordan": {
+            "term": "The Petra archaeological site in Jordan",
+            "passage": "Petra is an archaeological site in Jordan, situated in the southwestern part of the country, about 230 km (143 miles) south of the capital Amman. It is one of the most famous and iconic archaeological sites in the world, and is a UNESCO World Heritage Site. Petra was originally inhabited by the Nabataean people, who were a nomadic Arab tribe that settled in the area around the 6th century BC. They established a trading center in the area, which became a major crossroads for the silk, spice, and incense trade routes that linked China, India, and the Mediterranean. The Nabataeans were known for their ability to control the water supply in the area, and they built a complex system of dams, cisterns, and aqueducts to collect and store water. The Nabataean civilization declined in the 3rd century AD, and Petra was gradually abandoned. It was not until the 19th century that the site was rediscovered by the Swiss explorer Johann Burckhardt, who made the journey to Petra disguised as an Arab. Since then, Petra has become a major tourist attraction, and is visited by millions of people each year. The site of Petra is spread over a large area, and includes numerous tombs, temples, and other structures that were carved into the sandstone cliffs by the Nabataean people. The most famous structure in Petra is the Treasury, a large building that was carved into the cliff face and is decorated with intricate carvings and frescoes. Other notable structures include the Monastery, the High Place of Sacrifice, and the Theatre.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the structure in Petra that was used for religious ceremonies?",
+                    "answer": "the High Place of Sacrifice",
+                    "explanation": "The Nabataean civilization declined in the 3rd century AD, and Petra was gradually abandoned."
+                },
+                {
+                    "question": "What is the most famous structure in Petra?",
+                    "answer": "Treasury",
+                    "explanation": "The most famous structure in Petra is the Treasury, a large building that was carved into the cliff face and is decorated with intricate carvings and frescoes."
+                },
+                {
+                    "question": "🌟 What is the name of the world's most populous country?",
+                    "answer": "China",
+                    "explanation": "The Nabataean people were known for their ability to control the water supply in the area, and they built a complex system of dams, cisterns, and aqueducts to collect and store water. Rationale: The evidence sentence explains how the Nabataean people were able to control the water supply in the area and built a complex system to collect and store water, which shows their intelligence and ability to adapt to their environment."
+                },
+                {
+                    "question": "What is the name of the archaeological site in Jordan that is a UNESCO World Heritage Site and is visited by millions of people each year?",
+                    "answer": "Petra",
+                    "explanation": "The Nabataean civilization declined in the 3rd century AD, and Petra was gradually abandoned. It was not until the 19th century that the site was rediscovered by the Swiss explorer Johann Burckhardt, who made the journey to Petra disguised as an Arab. This sentence explains that Petra was abandoned in the 3rd century AD and was rediscovered in the 19th century by Johann Burckhardt."
+                },
+                {
+                    "question": "What happened to the Nabataean civilization?",
+                    "answer": "the 3rd century AD",
+                    "explanation": "The Nabataean civilization declined in the 3rd century AD, and Petra was gradually abandoned."
+                },
+                {
+                    "question": "Which country is Petra located in?",
+                    "answer": "Jordan",
+                    "explanation": "Petra was originally inhabited by the Nabataean people, who were a nomadic Arab tribe that settled in the area around the 6th century BC."
+                }
+            ],
+            "hops": [
+                "The Petra archaeological site in Jordan"
+            ]
+        },
+        "The Machu Picchu ruins in Peru": {
+            "term": "The Machu Picchu ruins in Peru",
+            "passage": "Machu Picchu (/ˈmɑːtʃuː ˌpɪtʃuː/ MAH-chuu PITCH-oo; Quechua: Machu Picchu [ˈmɑtʃupikˈtʃu], \"Old Peak\") is a 15th-century Inca site located in the Cusco Region, Urubamba Province, Machupicchu District in Peru. It is situated on a mountain ridge above the Sacred Valley which is 80 kilometers (50 mi) northwest of Cusco and through which the Urubamba River flows. Machu Picchu was built in the classical Inca style, with walls of cut stone fit together so precisely that a knife blade cannot fit between them. The complex consists of more than 150 buildings, from houses to temples, storage rooms, and public spaces. The central square, which measures 135 meters (443 ft) long and 75 meters (246 ft) wide, is surrounded by buildings with carved stone walls and trapezoidal windows. The most notable building is the Intihuatana, a stone that serves as a sundial and was used by the Inca to mark the solstices. Machu Picchu was probably built as an estate for the Inca emperor Pachacuti (1438–1471). It is believed to have been built in the early 15th century, and was abandoned when the Spanish conquerors arrived in the 16th century. Although the city remained known by the local inhabitants, it was not known to the Spanish and remained unknown to the world at large until 1911.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the language spoken by the indigenous people of the Andes?",
+                    "answer": "Quechua",
+                    "explanation": "Machu Picchu was probably built as an estate for the Inca emperor Pachacuti (1438–1471). This is an evidence sentence because it provides information about the possible purpose of the Machu Picchu ruins, based on historical records and scholarly research."
+                },
+                {
+                    "question": "",
+                    "answer": "Machu Picchu",
+                    "explanation": "Answer: Machu Picchu was probably built as an estate for the Inca emperor Pachacuti (1438–1471)."
+                },
+                {
+                    "question": "What is the time period in which Machu Picchu was abandoned?",
+                    "answer": "the 16th century",
+                    "explanation": "It is believed to have been built in the early 15th century, and was abandoned when the Spanish conquerors arrived in the 16th century."
+                },
+                {
+                    "question": "What is the name of the river that flows through the Sacred Valley and is located 80 kilometers (50 mi) northwest of Cusco?",
+                    "answer": "Urubamba River",
+                    "explanation": "Machu Picchu was probably built as an estate for the Inca emperor Pachacuti (1438–1471)."
+                },
+                {
+                    "question": "What is the name of the province in which Machu Picchu is located?",
+                    "answer": "Urubamba Province",
+                    "explanation": "Machu Picchu was probably built as an estate for the Inca emperor Pachacuti (1438–1471)."
+                },
+                {
+                    "question": "\"What is the name of the stone that serves as a sundial and was used by the Inca to mark the solstices at Machu Picchu?\"",
+                    "answer": "Intihuatana",
+                    "explanation": "The most notable building is the Intihuatana, a stone that serves as a sundial and was used by the Inca to mark the solstices."
+                },
+                {
+                    "question": "What is the region where Machu Picchu is located?",
+                    "answer": "the Cusco Region",
+                    "explanation": "Machu Picchu was probably built as an estate for the Inca emperor Pachacuti (1438–1471). This sentence is an evidence sentence because it provides a specific explanation for why Machu Picchu was built, based on historical evidence and research."
+                },
+                {
+                    "question": "The lost city of Machu Picchu in Peru was 'discovered' by what person or people in which year?",
+                    "answer": "1911",
+                    "explanation": "Although the city remained known by the local inhabitants, it was not known to the Spanish and remained unknown to the world at large until 1911."
+                }
+            ],
+            "hops": [
+                "The Machu Picchu ruins in Peru"
+            ]
+        },
+        "The Aurora Borealis": {
+            "term": "The Aurora Borealis",
+            "passage": "The Aurora Borealis, also known as the Northern Lights, is a natural light display in the Earth's polar regions. This spectacular light show is caused by the collision of charged particles from the sun with atoms in the Earth's atmosphere. The Aurora Borealis is most commonly seen in countries such as Norway, Sweden, Finland, and Canada, but can also be seen in other parts of the world under certain conditions. The Aurora Borealis typically appears as a greenish glow in the night sky, but can also appear in shades of pink, purple, and blue. The colors are caused by different types of atoms in the Earth's atmosphere being excited by the charged particles from the sun. The Aurora Borealis is most active during periods of high solar activity, such as during solar flares and coronal mass ejections. The Aurora Borealis has been a source of fascination and inspiration for people for centuries. It has been depicted in art and literature, and has even been used as a symbol of national pride in some countries. In addition to its aesthetic appeal, the Aurora Borealis has also been studied by scientists for its potential impact on technology and communication systems. Despite its beauty and scientific significance, the Aurora Borealis is a fragile phenomenon that is vulnerable to changes in the Earth's environment. Climate change and other human activities can affect the Earth's atmosphere and disrupt the natural balance that creates the Aurora Borealis. As a result, efforts are being made to protect and preserve this natural wonder for future generations to enjoy.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the country that is home to the Northern Lights?",
+                    "answer": "Finland",
+                    "explanation": "The Aurora Borealis is most commonly seen in countries such as Norway, Sweden, Finland, and Canada, but can also be seen in other parts of the world under certain conditions."
+                },
+                {
+                    "question": "",
+                    "answer": "Earth",
+                    "explanation": "The Aurora Borealis is most commonly seen in countries such as Norway, Sweden, Finland, and Canada, but can also be seen in other parts of the world under certain conditions. This statement is an explanation of where the Aurora Borealis can be seen."
+                },
+                {
+                    "question": "What is the Aurora Borealis?",
+                    "answer": "the Northern Lights",
+                    "explanation": "The Aurora Borealis is most commonly seen in countries such as Norway, Sweden, Finland, and Canada, but can also be seen in other parts of the world under certain conditions. Evidence sentence: The Aurora Borealis is most commonly seen in countries such as Norway, Sweden, Finland, and Canada, but can also be seen in other parts of the world under certain conditions."
+                },
+                {
+                    "question": "\"In which country is the Aurora Borealis most commonly seen?\"",
+                    "answer": "Norway",
+                    "explanation": "The Aurora Borealis is most commonly seen in countries such as Norway, Sweden, Finland, and Canada, but can also be seen in other parts of the world under certain conditions."
+                },
+                {
+                    "question": "What is the time period during which the Aurora Borealis has been a source of fascination and inspiration for people?",
+                    "answer": "centuries",
+                    "explanation": "The Aurora Borealis has been depicted in art and literature, and has even been used as a symbol of national pride in some countries."
+                },
+                {
+                    "question": "What country is the Aurora Borealis most commonly seen in?",
+                    "answer": "Sweden",
+                    "explanation": "The Aurora Borealis is most commonly seen in countries such as Norway, Sweden, Finland, and Canada, but can also be seen in other parts of the world under certain conditions."
+                },
+                {
+                    "question": "Which country is the Aurora Borealis most commonly seen in?",
+                    "answer": "Canada",
+                    "explanation": "The Aurora Borealis is most commonly seen in countries such as Norway, Sweden, Finland, and Canada, but can also be seen in other parts of the world under certain conditions."
+                }
+            ],
+            "hops": [
+                "The Aurora Borealis"
+            ]
+        }
+    },
+    "second_hops": {
+        "Gustave Eiffel": {
+            "term": "Gustave Eiffel",
+            "passage": "Gustave Eiffel was a French civil engineer and architect. He is best known for designing and building the Eiffel Tower, which was completed in 1889 for the Exposition Universelle in Paris. Eiffel was also involved in the construction of several other notable structures, including the Garabit viaduct in southern France and the Panama Canal locks. He was a pioneer in the use of iron and steel in construction, and his engineering skills were highly respected in his time. Eiffel was also a member of several scientific and cultural organizations, and he was awarded numerous honors and decorations for his contributions to engineering and architecture.",
+            "qae_pairs": [
+                {
+                    "question": "What was the name of the structure that Gustave Eiffel designed and built in southern France, other than the Eiffel Tower in Paris?",
+                    "answer": "Garabit",
+                    "explanation": "Eiffel was also involved in the construction of several other notable structures, including the Garabit viaduct in southern France and the Panama Canal locks."
+                },
+                {
+                    "question": "What year did Gustave Eiffel complete the construction of the Eiffel Tower in Paris?",
+                    "answer": "1889",
+                    "explanation": "Gustave Eiffel was a French civil engineer and architect. He is best known for designing and building the Eiffel Tower, which was completed in 1889 for the Exposition Universelle in Paris."
+                }
+            ],
+            "hops": [
+                "The Eiffel Tower in Paris",
+                "Gustave Eiffel"
+            ]
+        },
+        "France": {
+            "term": "France",
+            "passage": "1. France is a country located in Western Europe. 2. It is the third-largest country in Europe, after Russia and Ukraine. 3. France has a population of approximately 67 million people. 4. It is a unitary semi-presidential republic with its capital in Paris. 5. France is a developed country with the world's seventh-largest economy by nominal GDP. 6. It is a member of the European Union, the United Nations, the World Trade Organization, and the G7. 7. France is known for its rich culture, including its cuisine, fashion, and art. 8. It is also famous for its wines and champagnes, which are produced in several regions throughout the country. 9. France has a long history that dates back to the Roman Empire. 10. It has been a major center of Western civilization, including the Renaissance and the Enlightenment. 11. France is also known for its beautiful landscapes, including the Alps, the Pyrenees, and the Mediterranean coast. 12. It is a popular tourist destination, attracting millions of visitors each year. 13. France is home to many famous landmarks, such as the Eiffel Tower, the Louvre Museum, and the Palace of Versailles. 14. The French language is widely spoken in France and is an official language in over 29 countries. 15. French is also one of the official languages of the United Nations, the European Union, and the International Olympic Committee.",
+            "qae_pairs": [
+                {
+                    "question": "What are the names of the mountain ranges in France?",
+                    "answer": "Alps",
+                    "explanation": "1. France is a developed country with the world's seventh-largest economy by nominal GDP."
+                },
+                {
+                    "question": "What was the cultural movement that took place in France during the 16th century, which had a significant impact on the development of Western civilization?",
+                    "answer": "Renaissance",
+                    "explanation": "France is known for its rich culture, including its cuisine, fashion, and art. Passage Summary: The passage provides an overview of France, including its geography, population, government, economy, culture, and history. It highlights the country's status as a developed nation with a strong economy and a rich cultural heritage. The passage also mentions France's membership in various international organizations and its status as a popular tourist destination. The movement that had a significant impact on the development of Western civilization during the 16th century in France was the Renaissance."
+                }
+            ],
+            "hops": [
+                "The Statue of Liberty in New York City",
+                "France"
+            ]
+        },
+        "China": {
+            "term": "China",
+            "passage": "China is a country in East Asia with a population of over 1.4 billion people. It is the world's most populous country and the third-largest by land area, after Russia and Canada. The country is home to a diverse range of ethnic groups, including the Han, the largest ethnic group in China, as well as the Mongols, the Tibetans, the Uighurs, and the Manchus, among others. China has a rich history and culture, dating back more than 5,000 years. It is known for its ancient civilizations, including the Xia, the Shang, the Zhou, and the Qin, which laid the foundation for the modern Chinese state. China is also famous for its many inventions and innovations, such as paper, gunpowder, the compass, and printing. Today, China is a major economic power, with the world's second-largest economy and a rapidly growing middle class. It is also a major player in global politics, with a seat on the United Nations Security Council and a growing military presence in the Asia-Pacific region. Despite its many achievements, China faces many challenges, including environmental degradation, income inequality, and political repression.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the ancient Chinese dynasty that was founded by Qin Shi Huang in 221 BCE and was known for its centralized government, legalist philosophy, and the construction of the Great Wall of China?",
+                    "answer": "Qin",
+                    "explanation": "China is known for its ancient civilizations, including the Xia, the Shang, the Zhou, and the Qin, which laid the foundation for the modern Chinese state."
+                },
+                {
+                    "question": "What was the name of the ancient civilization that preceded the Xia Dynasty in China?",
+                    "answer": "Xia",
+                    "explanation": "China is known for its ancient civilizations, including the Xia, the Shang, the Zhou, and the Qin, which laid the foundation for the modern Chinese state."
+                }
+            ],
+            "hops": [
+                "The Petra archaeological site in Jordan",
+                "China"
+            ]
+        },
+        "BC": {
+            "term": "BC",
+            "passage": "The Bronze Age is a time period characterized by the use of bronze, an alloy of copper and tin, for the creation of tools, weapons, and other objects. It is generally considered to have begun around 3300 BCE and ended around 1200 BCE, although the dates may vary depending on the region and culture. The Bronze Age is divided into three main periods: Early Bronze Age, Middle Bronze Age, and Late Bronze Age. During the Early Bronze Age, people used stone tools and weapons, but began to use bronze for more specialized tools and weapons. The Middle Bronze Age saw the development of more advanced bronze technologies, including the use of bronze for art and decoration. The Late Bronze Age saw the development of writing systems and the rise of civilizations such as the Indus Valley Civilization and the Mycenaean Civilization. The Bronze Age ended with the advent of the Iron Age, which saw the widespread use of iron for tools and weapons.",
+            "qae_pairs": [
+                {
+                    "question": "What period of BC is characterized by the use of bronze for more specialized tools and weapons, and saw the development of more advanced bronze technologies, including the use of bronze for art and decoration?",
+                    "answer": "Middle Bronze Age",
+                    "explanation": "The Middle Bronze Age saw the development of more advanced bronze technologies, including the use of bronze for art and decoration."
+                }
+            ],
+            "hops": [
+                "The Great Wall of China in China",
+                "BC"
+            ]
+        },
+        "the United States": {
+            "term": "the United States",
+            "passage": "The United States of America (USA), commonly referred to as the United States (U.S.) or America, is a federal republic composed of 50 states, a federal district, five major self-governing territories, and various possessions. At 3.8 million square miles (9.8 million km2), the United States is the world's third- or fourth-largest country by total area and slightly smaller than the entire continent of Europe's 3.9 million square miles (10.1 million km2). With a population of over 328 million people, the U.S. is the third most populous country in the world. The capital is Washington, D.C., and the largest city by population is New York City. Forty-eight states and the capital's federal district are contiguous and located in North America between Canada and Mexico. The state of Alaska is in the northwest corner of North America, bordered by Canada to the east and across the Bering Strait from Russia to the west. The state of Hawaii is an archipelago in the mid-Pacific Ocean. The U.S. territories are scattered around the Pacific Ocean and the Caribbean Sea, stretching across nine official time zones. The extremely diverse geography, climate, and wildlife of the United States make it one of the world's 17 megadiverse countries.",
+            "qae_pairs": [
+                {
+                    "question": "What body of water is located to the southeast of the United States?",
+                    "answer": "the Caribbean Sea",
+                    "explanation": "The U.S. territories are scattered around the Pacific Ocean and the Caribbean Sea, stretching across nine official time zones."
+                }
+            ],
+            "hops": [
+                "The Statue of Liberty in New York City",
+                "the United States"
+            ]
+        },
+        "Frédéric Auguste Bartholdi": {
+            "term": "Frédéric Auguste Bartholdi",
+            "passage": "Frédéric Auguste Bartholdi (1834-1904) was a French sculptor who is best known for designing the Statue of Liberty. He was born in Colmar, France, and studied at the École des Beaux-Arts in Paris. Bartholdi was a prolific artist, creating many works of art throughout his career, including busts, statues, and bas-reliefs. In addition to the Statue of Liberty, he also designed the Lion of Belfort, a monumental sculpture located in the city of Belfort, France. Bartholdi was a member of several artistic organizations, including the Société des Artistes Français and the American Academy of Arts and Letters. He died in Paris in 1904.",
+            "qae_pairs": [
+                {
+                    "question": "What was the birth year of Frédéric Auguste Bartholdi?",
+                    "answer": "1834-1904",
+                    "explanation": "Frédéric Auguste Bartholdi (1834-1904) was a French sculptor who is best known for designing the Statue of Liberty."
+                },
+                {
+                    "question": "What was the birthplace of Frédéric Auguste Bartholdi?",
+                    "answer": "France",
+                    "explanation": "He was born in Colmar, France, and studied at the École des Beaux-Arts in Paris."
+                },
+                {
+                    "question": "What is the name of the monumental sculpture designed by Frédéric Auguste Bartholdi, located in the city of Belfort, France?",
+                    "answer": "the Lion of Belfort",
+                    "explanation": "Frédéric Auguste Bartholdi was a French sculptor who is best known for designing the Statue of Liberty. He was born in Colmar, France, and studied at the École des Beaux-Arts in Paris. Bartholdi was a prolific artist, creating many works of art throughout his career, including busts, statues, and bas-reliefs. In addition to the Statue of Liberty, he also designed the Lion of Belfort, a monumental sculpture located in the city of Belfort, France."
+                },
+                {
+                    "question": "What is the birthplace of Frédéric Auguste Bartholdi, the French sculptor who designed the Lion of Belfort?",
+                    "answer": "Colmar",
+                    "explanation": "Frédéric Auguste Bartholdi was born in Colmar, France."
+                },
+                {
+                    "question": "What artistic organization was Frédéric Auguste Bartholdi a member of, besides the American Academy of Arts and Letters?",
+                    "answer": "the Société des Artistes Français",
+                    "explanation": "Bartholdi was a member of several artistic organizations, including the Société des Artistes Français and the American Academy of Arts and Letters."
+                }
+            ],
+            "hops": [
+                "The Statue of Liberty in New York City",
+                "Frédéric Auguste Bartholdi"
+            ]
+        },
+        "Liberty Island": {
+            "term": "Liberty Island",
+            "passage": "Liberty Island is an island in Upper New York Bay in the United States, best known as the location of the Statue of Liberty. The island covers 12 acres (4.9 ha) and is one of the islands in New York City. It is located in the mouth of the Hudson River, near the entrance to the New York Harbor. The island is home to the Statue of Liberty National Monument, which includes the statue itself, as well as the surrounding parkland and museum. The island is accessible by ferry from Battery Park in Manhattan and from Liberty State Park in Jersey City, New Jersey. The island is closed to the public during the government shutdowns.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the river that surrounds Liberty Island?",
+                    "answer": "the Hudson River",
+                    "explanation": "The island is located in the mouth of the Hudson River, near the entrance to the New York Harbor. This sentence explains that Liberty Island is located in the mouth of the Hudson River, which is the river that surrounds the island."
+                },
+                {
+                    "question": "What is the location of the ferry that takes visitors to Liberty Island?",
+                    "answer": "Battery Park",
+                    "explanation": "The island is accessible by ferry from Battery Park in Manhattan and from Liberty State Park in Jersey City, New Jersey."
+                },
+                {
+                    "question": "What is the location of Liberty Island in relation to New York Bay?",
+                    "answer": "New York Bay",
+                    "explanation": "Liberty Island is an island in Upper New York Bay in the United States, best known as the location of the Statue of Liberty. Evidence sentence: Liberty Island is an island in Upper New York Bay in the United States, best known as the location of the Statue of Liberty."
+                }
+            ],
+            "hops": [
+                "The Statue of Liberty in New York City",
+                "Liberty Island"
+            ]
+        },
+        "New York Harbor": {
+            "term": "New York Harbor",
+            "passage": "New York Harbor is a natural harbor on the Atlantic Ocean located in New York City. It is situated at the mouth of the Hudson River and serves as an anchorage for a large volume of ships. The harbor is home to the Port of New York and New Jersey, one of the largest ports in the world. The harbor is also a popular tourist destination, with many visitors taking ferries to see the Statue of Liberty and other landmarks. The harbor is also home to several islands, including Liberty Island, Ellis Island, and Governor's Island. The harbor is also known for its history, including its role in the American Revolution and the Civil War.",
+            "qae_pairs": [
+                {
+                    "question": "What is the body of water that surrounds New York Harbor?",
+                    "answer": "the Atlantic Ocean",
+                    "explanation": "The harbor is home to the Port of New York and New Jersey, one of the largest ports in the world. This sentence provides evidence that New York Harbor is an important location for trade and commerce."
+                },
+                {
+                    "question": "What is the name of the island in New York Harbor that was once used as an immigration station?",
+                    "answer": "Ellis Island",
+                    "explanation": "The harbor is also known for its history, including its role in the American Revolution and the Civil War."
+                },
+                {
+                    "question": "What is the name of the island located in New York Harbor that is home to the Statue of Liberty?",
+                    "answer": "Liberty Island",
+                    "explanation": "The harbor is home to several islands, including Liberty Island, Ellis Island, and Governor's Island."
+                },
+                {
+                    "question": "What river flows into New York Harbor?",
+                    "answer": "the Hudson River",
+                    "explanation": "The harbor is home to the Port of New York and New Jersey, one of the largest ports in the world."
+                },
+                {
+                    "question": "What is the name of the city that surrounds New York Harbor?",
+                    "answer": "New York City",
+                    "explanation": "The harbor is home to the Port of New York and New Jersey, one of the largest ports in the world. This sentence explains that the Port of New York and New Jersey is located in New York Harbor, which is a natural harbor on the Atlantic Ocean. The port is one of the largest in the world, making it a significant economic hub for the region."
+                }
+            ],
+            "hops": [
+                "The Statue of Liberty in New York City",
+                "New York Harbor"
+            ]
+        },
+        "Libertas": {
+            "term": "Libertas",
+            "passage": "Libertas is a Latin word meaning \"freedom\". It is a concept that has been present in human societies for thousands of years, and has been variously defined and understood. In political philosophy, libertas is often associated with individual freedom, the absence of coercion, and the ability to act according to one's own will. It is also closely linked to the idea of democracy, which seeks to ensure that the power to govern is held by the people, rather than a small group of elites. Libertas is also a political party in Italy, founded in 2013 by former Italian president and media magnate Silvio Berlusconi. The party's platform is centered around the principles of freedom, democracy, and the rule of law.",
+            "qae_pairs": [
+                {
+                    "question": "How long has the concept of Libertas been present in human societies?",
+                    "answer": "thousands of years",
+                    "explanation": "In political philosophy, libertas is often associated with individual freedom, the absence of coercion, and the ability to act according to one's own will. Explanation: This sentence explains that in political philosophy, the concept of libertas is associated with individual freedom, the absence of coercion, and the ability to act according to one's own will."
+                },
+                {
+                    "question": "What country is the Libertas party founded in?",
+                    "answer": "Italy",
+                    "explanation": "The party's platform is centered around the principles of freedom, democracy, and the rule of law."
+                },
+                {
+                    "question": "Who founded the political party Libertas in Italy and served as the president of the party?",
+                    "answer": "Silvio Berlusconi",
+                    "explanation": "Silvio Berlusconi founded Libertas in 2013 and served as the president of the party."
+                },
+                {
+                    "question": "What is the year in which the political party Libertas was founded in Italy?",
+                    "answer": "2013",
+                    "explanation": "In political philosophy, libertas is often associated with individual freedom, the absence of coercion, and the ability to act according to one's own will."
+                }
+            ],
+            "hops": [
+                "The Statue of Liberty in New York City",
+                "Libertas"
+            ]
+        },
+        "New York City": {
+            "term": "New York City",
+            "passage": "New York City is the most populous city in the United States, with an estimated 8,336,817 residents as of 2020. It is located in the northeastern part of the country, in the state of New York, on the Atlantic coast. The city is a global hub of commerce, finance, media, art, fashion, research, technology, education, and entertainment. It is also one of the world's major cultural centers, with many museums, galleries, performance venues, and festivals. The city is home to the headquarters of the United Nations, and has been described as the cultural, financial, and media capital of the world.",
+            "qae_pairs": [
+                {
+                    "question": "What is the headquarters of the United Nations located in New York City?",
+                    "answer": "the United Nations",
+                    "explanation": "The city is a global hub of commerce, finance, media, art, fashion, research, technology, education, and entertainment."
+                }
+            ],
+            "hops": [
+                "The Statue of Liberty in New York City",
+                "New York City"
+            ]
+        },
+        "Mumtaz Mahal": {
+            "term": "Mumtaz Mahal",
+            "passage": "Mumtaz Mahal (1593-1631) was a Mughal Empress and the wife of Mughal Emperor Shah Jahan. She is primarily known for her role in commissioning the Taj Mahal, which was built as a mausoleum for her after her death. Mumtaz Mahal was born into a Persian noble family and was married to Shah Jahan at the age of 14. She was known for her intelligence, beauty, and kindness, and was a strong supporter of her husband's reign. She died in 1631 while giving birth to their 14th child, and Shah Jahan was devastated by her death. He ordered the construction of the Taj Mahal as a tribute to her, which took over 20 years to complete. The Taj Mahal is now considered one of the most beautiful and iconic structures in the world, and a symbol of love and devotion. Mumtaz Mahal's legacy continues to inspire people around the world, and her story is a testament to the power of love and devotion.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the mausoleum built by Mughal Emperor Shah Jahan in memory of his wife Mumtaz Mahal?",
+                    "answer": "the Taj Mahal",
+                    "explanation": "Mumtaz Mahal was born into a Persian noble family and was married to Shah Jahan at the age of 14."
+                },
+                {
+                    "question": "How long did it take to build the Taj Mahal after Mumtaz Mahal's death?",
+                    "answer": "20 years",
+                    "explanation": "Mumtaz Mahal was born into a Persian noble family and was married to Shah Jahan at the age of 14."
+                },
+                {
+                    "question": "Who was the husband of Mumtaz Mahal, the Mughal Empress who commissioned the construction of the Taj Mahal?",
+                    "answer": "Shah Jahan",
+                    "explanation": "Mumtaz Mahal was born into a Persian noble family and was married to Shah Jahan at the age of 14."
+                }
+            ],
+            "hops": [
+                "The Taj Mahal in Agra",
+                "Mumtaz Mahal"
+            ]
+        },
+        "The Taj Mahal": {
+            "term": "The Taj Mahal",
+            "passage": "The Taj Mahal is an ivory-white marble mausoleum on the right bank of the Yamuna river in the Indian city of Agra. It was commissioned in 1632 by the Mughal emperor, Shah Jahan, to house the tomb of his favorite wife, Mumtaz Mahal. The tomb is the central focus of the entire complex, which includes a mosque and a guest house, and is surrounded by a walled garden. The construction of the Taj Mahal began in 1632 and was completed in 1653, employing thousands of artisans and craftsmen. The Taj Mahal is widely recognized as one of the greatest examples of Mughal architecture, and is considered one of the world's most beautiful buildings. It is estimated that over 3 million people visit the Taj Mahal each year.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the city where The Taj Mahal is located?",
+                    "answer": "Agra",
+                    "explanation": "The Taj Mahal is an ivory-white marble mausoleum on the right bank of the Yamuna river in the Indian city of Agra. This sentence is an evidence sentence because it provides a specific location for The Taj Mahal, which is Agra, India."
+                }
+            ],
+            "hops": [
+                "The Taj Mahal in Agra",
+                "The Taj Mahal"
+            ]
+        },
+        "Agra": {
+            "term": "Agra",
+            "passage": "Agra is a city in the northern Indian state of Uttar Pradesh. It is located on the banks of the river Yamuna in the western part of the state, and is the administrative headquarters of the Agra district and the Agra division. Agra is one of the most populous cities in Uttar Pradesh, and is a major tourist destination because of its many Mughal-era buildings, most notably the Taj Mahal. The city is also known for its rich history, culture, and traditions, and is considered one of the major centers of the Hindi-Urdu language. Agra is also known for its traditional arts and crafts, including carpets, zari work, and leather goods. The city is well connected by road, rail, and air, and is a hub for tourism and commerce in the region.",
+            "qae_pairs": [
+                {
+                    "question": "What is the primary language spoken in Agra, India?",
+                    "answer": "Hindi",
+                    "explanation": "Agra is one of the most populous cities in Uttar Pradesh, and is a major tourist destination because of its many Mughal-era buildings, most notably the Taj Mahal. The city is also known for its rich history, culture, and traditions, and is considered one of the major centers of the Hindi-Urdu language. Evidence sentence: Agra is considered one of the major centers of the Hindi-Urdu language."
+                },
+                {
+                    "question": "What is the traditional art form that is famous in Agra, other than the Taj Mahal?",
+                    "answer": "zari",
+                    "explanation": "Agra is also known for its traditional arts and crafts, including carpets, zari work, and leather goods. Rationale: The passage mentions that Agra is known for its traditional arts and crafts, including zari work. Therefore, the evidence sentence that explains this fact is Agra is also known for its traditional arts and crafts, including carpets, zari work, and leather goods."
+                },
+                {
+                    "question": "What is the administrative headquarters of the Agra district and the Agra division in Uttar Pradesh?",
+                    "answer": "Uttar Pradesh",
+                    "explanation": "Agra is one of the most populous cities in Uttar Pradesh, and is a major tourist destination because of its many Mughal-era buildings, most notably the Taj Mahal."
+                }
+            ],
+            "hops": [
+                "The Taj Mahal in Agra",
+                "Agra"
+            ]
+        },
+        "Yamuna": {
+            "term": "Yamuna",
+            "passage": "Yamuna is a large river in northern India and a tributary of the Ganges. It is the second longest river in India, with a length of 1,376 kilometres (855 mi) and a drainage area of 366,223 square kilometres (141,344 sq mi). The river originates from the Yamunotri Glacier in the western Garhwal Himalayas in Uttarakhand, and flows through the states of Uttarakhand, Haryana, and Uttar Pradesh before emptying into the Ganges in the state of Uttar Pradesh. It is considered sacred by Hindus and is worshipped as a goddess. The river has been affected by pollution and the construction of dams and barrages, leading to concerns about its water quality and ecological health.",
+            "qae_pairs": [
+                {
+                    "question": "What is the origin of the Yamuna river?",
+                    "answer": "the Yamunotri Glacier",
+                    "explanation": "The river originates from the Yamunotri Glacier in the western Garhwal Himalayas in Uttarakhand."
+                }
+            ],
+            "hops": [
+                "The Taj Mahal in Agra",
+                "Yamuna"
+            ]
+        },
+        "World Heritage Site": {
+            "term": "World Heritage Site",
+            "passage": "The World Heritage Site is a program run by the United Nations Educational, Scientific and Cultural Organization (UNESCO) to identify, protect and preserve cultural and natural sites around the world that are of outstanding value to humanity. The program was established in 1972 under the Convention Concerning the Protection of the World Cultural and Natural Heritage, which was adopted by UNESCO General Conference. The program aims to encourage the identification, protection and preservation of cultural and natural heritage around the world considered to be of outstanding value to humanity. As of 2021, there are 1,121 World Heritage Sites located in 167 countries.",
+            "qae_pairs": [
+                {
+                    "question": "What year was the World Heritage Site program established by UNESCO?",
+                    "answer": "1972",
+                    "explanation": "The program was established in 1972 under the Convention Concerning the Protection of the World Cultural and Natural Heritage, which was adopted by UNESCO General Conference."
+                }
+            ],
+            "hops": [
+                "The Grand Canyon in Arizona",
+                "World Heritage Site"
+            ]
+        },
+        "Grand Canyon": {
+            "term": "Grand Canyon",
+            "passage": "The Grand Canyon is a steep-sided canyon carved by the Colorado River in Arizona, United States. It is contained within and managed by Grand Canyon National Park, the Hualapai Tribal Nation, the Havasupai Tribe, and the Navajo Nation. President Theodore Roosevelt was a major proponent of preservation of the Grand Canyon area, and visited it on numerous occasions to hunt and enjoy the scenery. The Grand Canyon is 277 miles (446 km) long, up to 18 miles (29 km) wide, and over a mile (6,000 feet or 1,800 meters) deep.",
+            "qae_pairs": [
+                {
+                    "question": "What state is the Grand Canyon located in?",
+                    "answer": "Arizona",
+                    "explanation": "The Grand Canyon is a steep-sided canyon carved by the Colorado River in Arizona, United States."
+                }
+            ],
+            "hops": [
+                "The Grand Canyon in Arizona",
+                "Grand Canyon"
+            ]
+        },
+        "the Hualapai Tribal Nation": {
+            "term": "the Hualapai Tribal Nation",
+            "passage": "The Hualapai Tribe is a Native American tribe located in the southwestern United States. They are one of the largest tribes in Arizona, with a reservation that covers over 1 million acres of land. The Hualapai people have a rich cultural heritage that dates back thousands of years. They have a deep connection to the land and have traditionally lived in the canyons and valleys of the Colorado River. The Hualapai people are known for their skill in farming, hunting, and fishing. They have a strong spiritual connection to the natural world and believe in the importance of living in harmony with the environment. The Hualapai Tribe is also known for its tourism industry, which includes the Grand Canyon Skywalk, a glass bridge that extends over the edge of the canyon and offers stunning views of the Colorado River. The Hualapai people continue to preserve their culture and traditions while also adapting to modern times.",
+            "qae_pairs": [
+                {
+                    "question": "What is the location of the Hualapai Tribal Nation in relation to the United States?",
+                    "answer": "United States",
+                    "explanation": "The Hualapai Tribe is a Native American tribe located in the southwestern United States."
+                }
+            ],
+            "hops": [
+                "The Grand Canyon in Arizona",
+                "the Hualapai Tribal Nation"
+            ]
+        },
+        "The Sydney Opera House": {
+            "term": "The Sydney Opera House",
+            "passage": "The Sydney Opera House is a multi-purpose performing arts center in Sydney, New South Wales, Australia. It is one of the most iconic and recognizable buildings in the world. Designed by Danish architect Jørn Utzon, the building was officially opened on October 20, 1973, after a gestation period of 14 years. It was added to the UNESCO World Heritage List on June 28, 2007. The Opera House is situated on Bennelong Point in Sydney Harbour, close to the Sydney central business district and the Royal Botanic Gardens. It is surrounded by water and has a unique design, with a series of large precast concrete shells, each composed of sections of a sphere of 75.3 meters radius, forming the roofs of the structures and covering a total area of 1.8 hectares. The building is made up of multiple performance venues, which include the Concert Hall, the Opera Theatre, the Drama Theatre, the Playhouse, and the Studio. The Sydney Opera House is one of the busiest performing arts centers in the world, hosting over 1,500 performances each year attended by more than 1.2 million people.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the Danish architect who designed The Sydney Opera House?",
+                    "answer": "Jørn Utzon",
+                    "explanation": "The Sydney Opera House is one of the most iconic and recognizable buildings in the world. Designed by Danish architect Jørn Utzon, the building was officially opened on October 20, 1973, after a gestation period of 14 years. It was added to the UNESCO World Heritage List on June 28, 2007."
+                }
+            ],
+            "hops": [
+                "The Sydney Opera House in Sydney",
+                "The Sydney Opera House"
+            ]
+        },
+        "the Sydney Symphony Orchestra": {
+            "term": "the Sydney Symphony Orchestra",
+            "passage": "The Sydney Symphony Orchestra (SSO) is an Australian symphony orchestra based in Sydney. It was formed in 1932 and gave its first performance on 7 September of that year, under the baton of the orchestra's founder and first conductor, Eugene Goossens. The SSO is the oldest and largest symphony orchestra in Australia, and is widely regarded as one of the finest orchestras in the world. The orchestra performs a wide range of classical and contemporary music, and has a strong commitment to commissioning and performing new works by Australian composers. The SSO is also known for its innovative education and community engagement programs, which include workshops, masterclasses, and outreach performances in schools and community centres throughout New South Wales. The orchestra's home venue is the Sydney Opera House, where it performs a regular subscription series of concerts, as well as a range of special events and festivals throughout the year. The SSO is also a frequent participant in international tours and festivals, and has performed in many of the world's leading concert halls and festivals. The orchestra is supported by the Australian government through the Australia Council for the Arts, and by the New South Wales Government through Arts NSW.",
+            "qae_pairs": [
+                {
+                    "question": "What organization provides funding for the Sydney Symphony Orchestra's international tours and festivals?",
+                    "answer": "the Australia Council for the Arts",
+                    "explanation": "The SSO is widely regarded as one of the finest orchestras in the world."
+                }
+            ],
+            "hops": [
+                "The Sydney Opera House in Sydney",
+                "the Sydney Symphony Orchestra"
+            ]
+        },
+        "the Sydney Harbour Bridge": {
+            "term": "the Sydney Harbour Bridge",
+            "passage": "The Sydney Harbour Bridge is a steel through arch bridge across Sydney Harbour that carries rail, vehicular, bicycle, and pedestrian traffic between the Sydney central business district and the North Shore. The bridge's design is based on the Hell Gate Bridge in New York City. It was completed in 1932 and is the world's largest steel arch bridge, measuring 1,149 metres (3,770 ft) long, 134 metres (440 ft) wide, and 199 metres (656 ft) tall from the water's edge to the top of the arch. The bridge's designers were Dorothy Hill and David Stewart, who were both engineers. The bridge's construction was a major engineering feat and involved the use of 58,000 tonnes of steel and 240,000 cubic metres of concrete. The bridge is a popular tourist destination and is often featured in films and television shows. It is also an iconic symbol of Sydney and Australia.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the country that the Sydney Harbour Bridge is located in?",
+                    "answer": "Australia",
+                    "explanation": "The bridge's design is based on the Hell Gate Bridge in New York City. Question: What is the name of the bridge that the Sydney Harbour Bridge's design is based on? Answer: The Hell Gate Bridge in New York City."
+                },
+                {
+                    "question": "What was the name of the engineer who designed the Sydney Harbour Bridge along with Dorothy Hill?",
+                    "answer": "David Stewart",
+                    "explanation": "The bridge's design is based on the Hell Gate Bridge in New York City."
+                },
+                {
+                    "question": "What was the name of the female engineer who designed the Sydney Harbour Bridge along with David Stewart?",
+                    "answer": "Dorothy Hill",
+                    "explanation": "It was completed in 1932 and is the world's largest steel arch bridge, measuring 1,149 metres (3,770 ft) long, 134 metres (440 ft) wide, and 199 metres (656 ft) tall from the water's edge to the top of the arch. The Sydney Harbour Bridge is a steel through arch bridge across Sydney Harbour that carries rail, vehicular, bicycle, and pedestrian traffic between the Sydney central business district and the North Shore."
+                }
+            ],
+            "hops": [
+                "The Sydney Opera House in Sydney",
+                "the Sydney Harbour Bridge"
+            ]
+        },
+        "Jørn Utzon": {
+            "term": "Jørn Utzon",
+            "passage": "Jørn Utzon (born 9 April 1918) is a Danish architect, who is best known for designing the Sydney Opera House. Utzon was born in Aalborg, Denmark, and studied architecture at the Royal Danish Academy of Fine Arts in Copenhagen. He began his career as an apprentice to the Danish architect, Arne Jacobsen, before establishing his own architectural practice in 1942. Utzon's design for the Sydney Opera House was selected in 1957, and construction began in 1958. However, Utzon's relationship with the project became strained, and he resigned from the project in 1966. Despite this, the Sydney Opera House remains one of Utzon's most famous works, and is considered a masterpiece of modern architecture. Utzon has received numerous awards and honors for his work, including the Royal Gold Medal for Architecture in 1972. He continues to work as an architect, and has designed a number of other notable buildings, including the Bagsværd Church in Denmark.",
+            "qae_pairs": [
+                {
+                    "question": "What year did Jørn Utzon design the Sydney Opera House?",
+                    "answer": "1958",
+                    "explanation": "Utzon's design for the Sydney Opera House was selected in 1957, and construction began in 1958."
+                },
+                {
+                    "question": "What year did Jørn Utzon resign from the project of the Sydney Opera House?",
+                    "answer": "1966",
+                    "explanation": "However, Utzon's relationship with the project became strained, and he resigned from the project in 1966."
+                }
+            ],
+            "hops": [
+                "The Sydney Opera House in Sydney",
+                "Jørn Utzon"
+            ]
+        },
+        "Bennelong Point": {
+            "term": "Bennelong Point",
+            "passage": "Bennelong Point is a promontory in Sydney, New South Wales, Australia, located in the suburb of Circular Quay. It is named after Bennelong, an Aboriginal man who was brought to Sydney in the late 18th century. The point is home to several major tourist attractions, including the Sydney Opera House and the Sydney Harbour Bridge. The area has a rich history, with evidence of Aboriginal occupation dating back at least 5,000 years. The British colonised the area in the late 18th century, and the point has been a site of significant development and change since then. Today, Bennelong Point is a popular destination for both locals and tourists, with its stunning views of the harbour and its iconic landmarks.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the country where Bennelong Point is located?",
+                    "answer": "Australia",
+                    "explanation": "The point is home to several major tourist attractions, including the Sydney Opera House and the Sydney Harbour Bridge."
+                },
+                {
+                    "question": "What was the name of the Aboriginal man after whom Bennelong Point in Sydney was named?",
+                    "answer": "Aboriginal",
+                    "explanation": "The area has a rich history, with evidence of Aboriginal occupation dating back at least 5,000 years. This sentence explains that the area around Bennelong Point in Sydney has a long history of Aboriginal occupation, dating back at least 5,000 years."
+                },
+                {
+                    "question": "What is the name of the iconic building located at Bennelong Point in Sydney?",
+                    "answer": "the Sydney Opera House",
+                    "explanation": "The point is home to several major tourist attractions, including the Sydney Opera House and the Sydney Harbour Bridge. This sentence provides evidence that the Sydney Opera House is located at Bennelong Point in Sydney."
+                }
+            ],
+            "hops": [
+                "The Sydney Opera House in Sydney",
+                "Bennelong Point"
+            ]
+        },
+        "New South Wales": {
+            "term": "New South Wales",
+            "passage": "New South Wales is a state on the east coast of Australia. It borders Queensland to the north, Victoria to the south, South Australia to the west, and is surrounded by the Pacific Ocean to the east. With a population of over 8 million people, it is the most populous state in Australia. The state capital is Sydney, which is also the most populous city in Australia, with a population of over 5 million people. New South Wales has a diverse range of landscapes, from the snow-capped mountains in the south to the tropical rainforests in the north. The state is also home to some of Australia's most iconic natural attractions, including the Great Barrier Reef and the Blue Mountains. The economy of New South Wales is dominated by the service sector, with finance, property, and business services being the largest industries. Agriculture is also an important part of the economy, with crops such as wheat, sheep, and beef being produced in the state.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the body of water that surrounds New South Wales?",
+                    "answer": "the Pacific Ocean",
+                    "explanation": "New South Wales is a state on the east coast of Australia. It borders Queensland to the north, Victoria to the south, South Australia to the west, and is surrounded by the Pacific Ocean to the east. This sentence explains that New South Wales is a state located on the east coast of Australia and is surrounded by the Pacific Ocean to the east."
+                },
+                {
+                    "question": "What state in Australia is located to the west of New South Wales and is known for its vineyards and wine production?",
+                    "answer": "South Australia",
+                    "explanation": "New South Wales is a state on the east coast of Australia. It borders Queensland to the north, Victoria to the south, South Australia to the west, and is surrounded by the Pacific Ocean to the east. This sentence explains that New South Wales is located on the east coast of Australia and shares its borders with three other states - Queensland to the north, Victoria to the south, and South Australia to the west. The sentence also mentions that the state is surrounded by the Pacific Ocean to the east."
+                },
+                {
+                    "question": "What are some of the iconic natural attractions in New South Wales that are not The Sydney Opera House in Sydney?",
+                    "answer": "the Blue Mountains",
+                    "explanation": "The state is also home to some of Australia's most iconic natural attractions, including the Great Barrier Reef and the Blue Mountains."
+                }
+            ],
+            "hops": [
+                "The Sydney Opera House in Sydney",
+                "New South Wales"
+            ]
+        },
+        "the High Place of Sacrifice": {
+            "term": "the High Place of Sacrifice",
+            "passage": "The High Place of Sacrifice is an archaeological site located in the mountains of ancient Israel. It is believed to have been used for religious rituals and sacrifices during the Iron Age. The site consists of a large, flat stone platform, surrounded by smaller stones and rock formations. The platform is thought to have been used for animal sacrifices, while the surrounding stones may have been used for seating or other ritual purposes. The High Place of Sacrifice is believed to have been in use from the 10th century BCE until the 6th century BCE, and was likely associated with the worship of the god Baal. The site has been excavated by archaeologists, who have uncovered evidence of animal bones, pottery, and other artifacts associated with religious rituals. The High Place of Sacrifice is considered an important archaeological site, as it provides insight into the religious practices of ancient Israelites.",
+            "qae_pairs": [
+                {
+                    "question": "What was the location of the High Place of Sacrifice?",
+                    "answer": "Israel",
+                    "explanation": "The High Place of Sacrifice is an archaeological site located in the mountains of ancient Israel."
+                },
+                {
+                    "question": "What was the time period during which the High Place of Sacrifice was in use?",
+                    "answer": "BCE",
+                    "explanation": "The High Place of Sacrifice is believed to have been in use from the 10th century BCE until the 6th century BCE Question: When was the High Place of Sacrifice believed to have been in use? Answer: 10th century BCE until the 6th century BCE."
+                }
+            ],
+            "hops": [
+                "The Petra archaeological site in Jordan",
+                "the High Place of Sacrifice"
+            ]
+        },
+        "Jordan": {
+            "term": "Jordan",
+            "passage": "Jordan, officially the Hashemite Kingdom of Jordan, is a sovereign state in Western Asia, on the East Bank of the Jordan River. Jordan is bordered by Saudi Arabia to the south and east, Iraq to the north-east, Syria to the north, and Israel and Palestine to the west. The Dead Sea, the lowest point on earth, is located along Jordan's western border. Jordan has a population of around 10 million people, with a land area of 89,342 square kilometres (34,495 sq mi). The country has a relatively young population, with a median age of 23.3 years. Jordan is a constitutional monarchy with a hereditary king, and its political system is a constitutional monarchy with a parliamentary system. The country is a member of the United Nations, the Arab League, and the Organisation of Islamic Cooperation. Jordan is considered to be a relatively stable and pro-Western Arab country. It has a free market economy and is a member of the World Trade Organization. The country has a strategic location at the crossroads of the Middle East, and it has a significant role in the region's political and economic systems. Jordan is also known for its ancient history and archaeological sites, including the ancient city of Petra, which is a UNESCO World Heritage Site.",
+            "qae_pairs": [
+                {
+                    "question": "What is the region where Jordan is located?",
+                    "answer": "Western Asia",
+                    "explanation": "Jordan is bordered by Saudi Arabia to the south and east, Iraq to the north-east, Syria to the north, and Israel and Palestine to the west. This sentence provides evidence that Jordan is located in Western Asia, as it mentions the countries that border Jordan, which are all located in Western Asia."
+                }
+            ],
+            "hops": [
+                "The Petra archaeological site in Jordan",
+                "Jordan"
+            ]
+        },
+        "Quechua": {
+            "term": "Quechua",
+            "passage": "Quechua is a language family indigenous to the Andes and highlands of South America. It is the most widely spoken indigenous language in the Americas, with over 10 million speakers, and is an official language in Peru, Bolivia, Ecuador, and Colombia. The Quechua language has a rich history and culture, with roots dating back to the Inca Empire. It is a complex language with many dialects and variations, and is often written in the Latin alphabet. Quechua is also known for its unique phonetic system, which includes sounds not found in many other languages. Despite its widespread use, the Quechua language has faced challenges in recent years, including language shift and discrimination. However, there are efforts to preserve and promote the language, including through education and cultural events.",
+            "qae_pairs": [
+                {
+                    "question": "What is the capital city of the country where Quechua is an official language and is known for its unique phonetic system?",
+                    "answer": "Peru",
+                    "explanation": "The Quechua language has a rich history and culture, with roots dating back to the Inca Empire. It is a complex language with many dialects and variations, and is often written in the Latin alphabet. Evidence sentence: The Quechua language has a rich history and culture, with roots dating back to the Inca Empire."
+                },
+                {
+                    "question": "In what country is Quechua an official language?",
+                    "answer": "Bolivia",
+                    "explanation": "The Quechua language has a rich history and culture, with roots dating back to the Inca Empire."
+                }
+            ],
+            "hops": [
+                "The Machu Picchu ruins in Peru",
+                "Quechua"
+            ]
+        },
+        "Machu Picchu": {
+            "term": "Machu Picchu",
+            "passage": "Machu Picchu is a pre-Columbian Inca city located in the Cusco Region of Peru. It is situated on a mountain ridge above the Urubamba River valley, which is 80 kilometers northwest of Cusco and through which the river flows. Machu Picchu was built in the 15th century and was later abandoned when the Inca Empire was conquered by the Spanish. It is known as one of the most famous archaeological sites in South America and is visited by millions of people each year. The site was declared a Peruvian Historical Sanctuary in 1981 and a UNESCO World Heritage Site in 1983. Machu Picchu was built in the classical Inca style, with walls of cut stone fit together so precisely that the joints require no mortar. The city has many buildings, including temples, residences, and storage rooms. It also has an intricate system of terraces for growing crops, and water fountains and aqueducts that supplied water to the city. The site is surrounded by mountains and cloud forest, and is accessible by a long winding road or by hiking the Inca Trail.",
+            "qae_pairs": [
+                {
+                    "question": "What is the region where Machu Picchu is located?",
+                    "answer": "the Cusco Region",
+                    "explanation": "Machu Picchu was built in the 15th century and was later abandoned when the Inca Empire was conquered by the Spanish. This sentence is an evidence sentence because it provides specific information about the history of Machu Picchu and how it was built and abandoned."
+                },
+                {
+                    "question": "What was Machu Picchu built by?",
+                    "answer": "the Inca Empire",
+                    "explanation": "Machu Picchu was built in the 15th century and was later abandoned when the Inca Empire was conquered by the Spanish."
+                },
+                {
+                    "question": "What is the status of Machu Picchu as a historical site?",
+                    "answer": "UNESCO World Heritage Site",
+                    "explanation": "Machu Picchu was declared a Peruvian Historical Sanctuary in 1981 and a UNESCO World Heritage Site in 1983."
+                }
+            ],
+            "hops": [
+                "The Machu Picchu ruins in Peru",
+                "Machu Picchu"
+            ]
+        },
+        "Urubamba River": {
+            "term": "Urubamba River",
+            "passage": "The Urubamba River, also spelled Huallaga River, is a major river in the Andes of South America. It is the principal watercourse of the Urubamba Valley, which is also known as the Sacred Valley. The river is approximately 725 km (450 mi) long and flows through the regions of Cusco and Madre de Dios in Peru. It drains an area of approximately 52,000 km² (20,000 sq mi) and has a mean discharge of 1,200 m³/s (42,000 cu ft/s). The river is considered sacred by the Inca civilization and was an important source of water for their agricultural activities. Today, the river is used for irrigation, hydroelectric power generation, and recreation. The river is also home to a variety of fish species, including the endangered giant otter. The Urubamba River is considered one of the most important rivers in Peru and is a popular destination for tourists visiting the country.",
+            "qae_pairs": [
+                {
+                    "question": "What region in Peru does the Urubamba River flow through before it reaches the Amazon River?",
+                    "answer": "Madre de Dios",
+                    "explanation": "The Urubamba River flows through the regions of Cusco and Madre de Dios in Peru before reaching the Amazon River."
+                }
+            ],
+            "hops": [
+                "The Machu Picchu ruins in Peru",
+                "Urubamba River"
+            ]
+        },
+        "Urubamba Province": {
+            "term": "Urubamba Province",
+            "passage": "Urubamba Province is a province in the Cusco Region in Peru. It is located in the southern part of the region and borders the provinces of La Convención, Canas, and Anta to the north, the province of Calca to the east, the province of Urubamba to the south, and the provinces of La Convención and Madre de Dios to the west. The province has a population of approximately 100,000 people, with the majority of the population living in rural areas. The province covers an area of 1,527.64 square kilometers and is located in the Andes mountain range. The province is known for its scenic beauty, with the Urubamba River flowing through the province and the Andes mountains providing a stunning backdrop. The province is also home to several important archaeological sites, including the Inca ruins of Ollantaytambo and the Chinchero archaeological site. The province's economy is largely based on agriculture, with crops such as corn, potatoes, and quinoa being grown in the fertile valleys. The province is also known for its handicrafts, with traditional textiles and ceramics being produced by local artisans. The province's capital is the town of Urubamba, which is located on the Urubamba River and is a popular destination for tourists visiting the region.",
+            "qae_pairs": [
+                {
+                    "question": "What river flows through the Urubamba Province in Peru?",
+                    "answer": "Urubamba River",
+                    "explanation": "The province is known for its scenic beauty, with the Urubamba River flowing through the province and the Andes mountains providing a stunning backdrop."
+                },
+                {
+                    "question": "What is the name of the archaeological site located in the Urubamba Province of Peru, known for its traditional textiles and ceramics produced by local artisans?",
+                    "answer": "Chinchero",
+                    "explanation": "The province is known for its scenic beauty, with the Urubamba River flowing through the province and the Andes mountains providing a stunning backdrop."
+                },
+                {
+                    "question": "What province in the Cusco Region in Peru borders the Urubamba Province to the east?",
+                    "answer": "Calca",
+                    "explanation": "The province covers an area of 1,527.64 square kilometers and is located in the Andes mountain range. Evidence sentence: The province covers an area of 1,527.64 square kilometers and is located in the Andes mountain range."
+                },
+                {
+                    "question": "What is the significance of Urubamba Province in the Inca civilization?",
+                    "answer": "Inca",
+                    "explanation": "Passage: The province is known for its scenic beauty, with the Urubamba River flowing through the province and the Andes mountains providing a stunning backdrop. Explanation: The Urubamba River flowing through the province and the Andes mountains providing a stunning backdrop are significant features of the Inca civilization."
+                }
+            ],
+            "hops": [
+                "The Machu Picchu ruins in Peru",
+                "Urubamba Province"
+            ]
+        },
+        "Intihuatana": {
+            "term": "Intihuatana",
+            "passage": "Intihuatana (Quechua for \"hitching post of the sun\") is a term used to describe a variety of megalithic structures found throughout the Andes region of South America. These structures are believed to have been used by pre-Columbian cultures for a variety of astronomical and religious purposes. The most famous Intihuatana is located at Machu Picchu, a 15th-century Inca site in Peru. The Machu Picchu Intihuatana is a large stone pillar with a carved face on one side and a channel for a rope on the other. It is believed to have been used as a sundial or calendar by the Inca, who would tie a rope around the pillar and use it to track the movement of the sun. Other Intihuatanas have been found throughout the Andes, including at the archaeological site of Puma Punku in Bolivia and at the ruins of the Temple of the Sun in Cusco, Peru. These structures are often made of stone and have intricate carvings and designs. Despite their similar appearance, the exact purpose of Intihuatanas varies depending on the location and culture that created them. Some scholars believe that they were used for religious ceremonies, while others suggest that they were used for astronomical observations or as markers for important events. Overall, Intihuatanas are an important part of the cultural heritage of the Andes region and continue to fascinate scholars and visitors alike.",
+            "qae_pairs": [
+                {
+                    "question": "Where else in the Andes region can Intihuatanas be found besides Machu Picchu?",
+                    "answer": "Andes",
+                    "explanation": "Intihuatanas are an important part of the cultural heritage of the Andes region and continue to fascinate scholars and visitors alike."
+                },
+                {
+                    "question": "Example output: What is the location of the Intihuatana with the most intricate carvings?",
+                    "answer": "Bolivia",
+                    "explanation": "Other Intihuatanas have been found throughout the Andes, including at the archaeological site of Puma Punku in Bolivia and at the ruins of the Temple of the Sun in Cusco, Peru."
+                }
+            ],
+            "hops": [
+                "The Machu Picchu ruins in Peru",
+                "Intihuatana"
+            ]
+        },
+        "the Cusco Region": {
+            "term": "the Cusco Region",
+            "passage": "The Cusco Region is a region in southern Peru. It is located in the Andes mountain range and is bordered by the Puno Region to the north, the Madre de Dios Region and the Apurímac Region to the east, the Arequipa Region to the south, and the Moquegua Region to the west. The region has a population of approximately 1.4 million people, with the majority of the population living in the Andean highlands. The region's capital is the city of Cusco, which was once the capital of the Inca Empire and is now a major tourist destination. The region is known for its rich history, including the Inca ruins of Machu Picchu and the colonial architecture of the city of Cusco. The region is also home to a diverse range of ecosystems, including the Andean forests, high-altitude grasslands, and wetlands. The region's economy is largely based on agriculture, with crops such as potatoes, corn, and quinoa being grown in the Andean highlands. The region is also a major producer of livestock, including alpacas and llamas. The region is home to a number of indigenous communities, including the Quechua and Aymara peoples, who maintain their traditional ways of life despite the influence of modern society.",
+            "qae_pairs": [
+                {
+                    "question": "What region in Peru is located to the east of the Cusco Region?",
+                    "answer": "the Apurímac Region",
+                    "explanation": "The region has a population of approximately 1.4 million people, with the majority of the population living in the Andean highlands. This evidence sentence explains that the Cusco Region has a population of approximately 1.4 million people and that the majority of the population lives in the Andean highlands."
+                },
+                {
+                    "question": "What is the primary indigenous language spoken in the Cusco Region of Peru?",
+                    "answer": "Quechua",
+                    "explanation": "The region is known for its rich history, including the Inca ruins of Machu Picchu and the colonial architecture of the city of Cusco."
+                },
+                {
+                    "question": "What is the most common livestock in the Cusco Region?",
+                    "answer": "llamas",
+                    "explanation": "The region's economy is largely based on agriculture, with crops such as potatoes, corn, and quinoa being grown in the Andean highlands. The region is also a major producer of livestock, including alpacas and llamas. The most common livestock in the Cusco Region are llamas."
+                },
+                {
+                    "question": "What is the capital city of the Cusco Region in Peru?",
+                    "answer": "Peru",
+                    "explanation": "The region's capital is the city of Cusco, which was once the capital of the Inca Empire and is now a major tourist destination. Explanation: The capital city of the Cusco Region in Peru is the city of Cusco, which was once the capital of the Inca Empire and is now a major tourist destination."
+                }
+            ],
+            "hops": [
+                "The Machu Picchu ruins in Peru",
+                "the Cusco Region"
+            ]
+        },
+        "Finland": {
+            "term": "Finland",
+            "passage": "Finland (Finnish: Suomi; Swedish: Finland), officially the Republic of Finland (Finnish: Suomen tasavalta; Swedish: Republiken Finland), is a sovereign state in Northern Europe. It is bordered by Sweden to the west, Norway to the north, and Russia to the east. Finland is a parliamentary republic with a president as its head of state. Finland has a population of around 5.5 million people, with the majority living in the southern regions. It is a highly urbanized country, with 89.7% of the population living in cities and suburbs. The capital and largest city is Helsinki, with a population of around 620,000 people. Other major cities include Espoo, Tampere, Vantaa, and Oulu. Finland is a highly developed country with a high standard of living, and is ranked as the 11th most peaceful country in the world. It has a mixed economy, with a large service sector and a significant manufacturing industry. Finland is known for its high-tech industries, including telecommunications, pharmaceuticals, and technology. It is also a major exporter of paper and wood products. Finland is a member of the European Union, but has maintained its own currency, the euro. It is also a member of the United Nations, the Council of Europe, and the World Trade Organization.",
+            "qae_pairs": [
+                {
+                    "question": "What country is located to the north of Finland?",
+                    "answer": "Norway",
+                    "explanation": "Finland is bordered by Sweden to the west, Norway to the north, and Russia to the east."
+                },
+                {
+                    "question": "What is the name of the city in Finland that is known for its high-tech industries and is located in the northern part of the country?",
+                    "answer": "Oulu",
+                    "explanation": "Finland is known for its high-tech industries, including telecommunications, pharmaceuticals, and technology. It is also a major exporter of paper and wood products. The evidence sentence is: Finland is known for its high-tech industries, including telecommunications, pharmaceuticals, and technology."
+                },
+                {
+                    "question": "What country is located to the west of Finland?",
+                    "answer": "Sweden",
+                    "explanation": "Finland is bordered by Sweden to the west, Norway to the north, and Russia to the east."
+                }
+            ],
+            "hops": [
+                "The Aurora Borealis",
+                "Finland"
+            ]
+        },
+        "Earth": {
+            "term": "Earth",
+            "passage": "Earth is the third planet from the Sun and the only astronomical object known to harbor life. According to radiometric dating and other sources of evidence, Earth formed about 4.54 billion years ago. Earth's gravity interacts with other objects in space, especially the Sun and the Moon, Earth's only natural satellite. Earth orbits around the Sun in 365.25 days, a period known as a year. Earth's interior is divided into several layers, including the crust, mantle, outer core, and inner core. The crust is the outermost layer and is broken into several large plates that move slowly over time. Earth's atmosphere is composed of nitrogen, oxygen, and other gases, and protects the planet from harmful solar radiation. Earth's climate is influenced by the amount of solar radiation it receives, as well as by the composition of the atmosphere and the planet's distance from the Sun. Earth's magnetic field, known as the magnetosphere, protects the planet from solar wind and cosmic radiation. Earth's oceans cover more than 70% of its surface and play a vital role in regulating the planet's climate. Earth's biodiversity is vast and includes millions of species of plants, animals, and microorganisms.",
+            "qae_pairs": [
+                {
+                    "question": "What is the average length of Earth's orbit around the Sun?",
+                    "answer": "365.25 days",
+                    "explanation": "Earth's gravity interacts with other objects in space, especially the Sun and the Moon, Earth's only natural satellite. Answer: Earth's gravity interacts with other objects in space."
+                }
+            ],
+            "hops": [
+                "The Aurora Borealis",
+                "Earth"
+            ]
+        },
+        "the Northern Lights": {
+            "term": "the Northern Lights",
+            "passage": "The Northern Lights, also known as Aurora Borealis, is a natural light display in the Earth's polar regions. This spectacular light show is caused by the collision of charged particles from the sun with atoms in the Earth's atmosphere. The colors of the Northern Lights depend on the type of atom that is being struck, with green being the most common color. The Northern Lights can be seen in countries such as Norway, Sweden, and Canada, where the weather conditions are often cold and clear. The Northern Lights have been a source of fascination for people for centuries, and they continue to inspire awe and wonder in those who witness them.",
+            "qae_pairs": [
+                {
+                    "question": "What country is known for being one of the best places to view the Northern Lights?",
+                    "answer": "Norway",
+                    "explanation": "The Northern Lights can be seen in countries such as Norway, Sweden, and Canada, where the weather conditions are often cold and clear."
+                },
+                {
+                    "question": "What is the name of the planet that displays the Northern Lights?",
+                    "answer": "Earth",
+                    "explanation": "The Northern Lights, also known as Aurora Borealis, is a natural light display in the Earth's polar regions."
+                },
+                {
+                    "question": "What country is known for its frequent sightings of the Northern Lights?",
+                    "answer": "Sweden",
+                    "explanation": "The Northern Lights can be seen in countries such as Norway, Sweden, and Canada, where the weather conditions are often cold and clear."
+                },
+                {
+                    "question": "What is the duration of the fascination with 'the Northern Lights' that has lasted for centuries?",
+                    "answer": "centuries",
+                    "explanation": "The Northern Lights have been a source of fascination for people for centuries."
+                }
+            ],
+            "hops": [
+                "The Aurora Borealis",
+                "the Northern Lights"
+            ]
+        },
+        "Norway": {
+            "term": "Norway",
+            "passage": "Norway is a country located in Northern Europe. It has a land area of 385,207 square kilometers and a population of 5.4 million people. Norway is a constitutional monarchy with a parliamentary system of government. The country is divided into 19 counties and 426 municipalities. The capital and largest city is Oslo. Norway is a highly developed country with a high standard of living, and is ranked as the happiest country in the world by the United Nations. The country is known for its stunning natural beauty, including fjords, mountains, and glaciers. Norway is also known for its rich cultural heritage, including its traditional folk music and art. The country is a member of the European Economic Area and the Schengen Agreement. Norway is also a member of the United Nations, NATO, and the Council of Europe.",
+            "qae_pairs": [
+                {
+                    "question": "What international organization is Norway a member of, besides the European Economic Area and the Schengen Agreement?",
+                    "answer": "the Council of Europe",
+                    "explanation": "Norway is a highly developed country with a high standard of living, and is ranked as the happiest country in the world by the United Nations."
+                },
+                {
+                    "question": "What is the name of the military alliance that Norway is a member of?",
+                    "answer": "NATO",
+                    "explanation": "Norway is a highly developed country with a high standard of living, and is ranked as the happiest country in the world by the United Nations."
+                },
+                {
+                    "question": "What international organization did Norway join to become a member of?",
+                    "answer": "the United Nations",
+                    "explanation": "Norway is a highly developed country with a high standard of living, and is ranked as the happiest country in the world by the United Nations."
+                },
+                {
+                    "question": "What is the capital of Norway?",
+                    "answer": "Oslo",
+                    "explanation": "Norway is a highly developed country with a high standard of living, and is ranked as the happiest country in the world by the United Nations. This sentence is an evidence sentence because it provides information about Norway's high standard of living and its ranking as the happiest country in the world, which supports the claim that Norway is a highly developed country."
+                }
+            ],
+            "hops": [
+                "The Aurora Borealis",
+                "Norway"
+            ]
+        },
+        "centuries": {
+            "term": "centuries",
+            "passage": "The concept of a century has been used for timekeeping for thousands of years, serving as a convenient way to divide the time between two significant events. In the Gregorian calendar, a century is defined as 100 years, and is often used as a way to mark the passage of time. In the 20th century, the concept of a century took on new significance as it was used to mark the passage of time from the start of the century to its end. This period was marked by significant events such as the two World Wars, the rise of the United States as a superpower, and the fall of the Soviet Union. The 21st century has also seen its share of significant events, including the terrorist attacks of September 11, 2001, the global financial crisis of 2008, and the rise of social media and the internet as dominant forces in society.",
+            "qae_pairs": [
+                {
+                    "question": "What country is associated with the concept of centuries in the 21st century?",
+                    "answer": "the United States",
+                    "explanation": "The 21st century has also seen its share of significant events, including the terrorist attacks of September 11, 2001, the global financial crisis of 2008, and the rise of social media and the internet as dominant forces in society."
+                }
+            ],
+            "hops": [
+                "The Aurora Borealis",
+                "centuries"
+            ]
+        },
+        "Sweden": {
+            "term": "Sweden",
+            "passage": "1. Sweden is a Scandinavian country in Northern Europe. 2. It is the third-largest country in the European Union by area, with a population of over 10 million people. 3. Sweden has a highly developed mixed economy with a modern distribution system, a skilled labor force, and a commitment to technology. 4. The country is known for its natural beauty, with vast forests, lakes, and mountains. 5. Sweden is also known for its strong social welfare system, which provides universal healthcare and education. 6. The country is a member of the European Union, but has opted out of the Eurozone and maintains its own currency, the Swedish krona. 7. Sweden is also known for its music scene, with famous artists such as ABBA, Ace of Base, and Roxette. 8. The country is home to several major cities, including Stockholm, Gothenburg, and Malmö. 9. Sweden is known for its progressive policies, including LGBTQ+ rights, gender equality, and environmental protection. 10. The country is also known for its strong tradition of education, with a high literacy rate and a focus on science and technology.",
+            "qae_pairs": [
+                {
+                    "question": "What is the capital of Sweden?",
+                    "answer": "Stockholm",
+                    "explanation": "Sweden is known for its natural beauty, with vast forests, lakes, and mountains."
+                }
+            ],
+            "hops": [
+                "The Aurora Borealis",
+                "Sweden"
+            ]
+        },
+        "Canada": {
+            "term": "Canada",
+            "passage": "Canada is a country in North America, located in the northern part of the continent. It is the world's second-largest country by land area, and its population is estimated at 37 million people. Canada is a constitutional monarchy with a parliamentary democracy, and its head of state is Queen Elizabeth II. The country is officially bilingual, with English and French as its official languages. Canada is a highly developed country with a diversified economy, and it is one of the world's wealthiest nations. Its economy is dominated by the service sector, which employs about three-quarters of the workforce. Canada is also known for its vast natural resources, including oil, natural gas, minerals, and forests. The country is home to a diverse range of wildlife, including bears, moose, and wolves. Canada is a member of the United Nations, the Commonwealth of Nations, NATO, the G7, and the G20.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the head of state of Canada?",
+                    "answer": "Elizabeth II",
+                    "explanation": "Canada is a constitutional monarchy with a parliamentary democracy, and its head of state is Queen Elizabeth II."
+                },
+                {
+                    "question": "What international organization is Canada a member of, and what is its name?",
+                    "answer": "G20",
+                    "explanation": "Canada is a member of the United Nations, the Commonwealth of Nations, NATO, the G7, and the G20."
+                },
+                {
+                    "question": "What international organizations is Canada a member of?",
+                    "answer": "the Commonwealth of Nations",
+                    "explanation": "Canada is a member of the United Nations, the Commonwealth of Nations, NATO, the G7, and the G20."
+                },
+                {
+                    "question": "What international organization is Canada a member of, where the answer is not 'The Aurora Borealis'?",
+                    "answer": "the United Nations",
+                    "explanation": "Canada is a member of the United Nations, the Commonwealth of Nations, NATO, the G7, and the G20."
+                },
+                {
+                    "question": "What continent is Canada located in?",
+                    "answer": "North America",
+                    "explanation": "Canada is a country in North America, located in the northern part of the continent."
+                }
+            ],
+            "hops": [
+                "The Aurora Borealis",
+                "Canada"
+            ]
+        }
+    }
+}

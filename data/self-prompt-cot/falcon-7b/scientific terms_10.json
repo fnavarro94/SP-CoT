@@ -1,0 +1,116 @@
+{
+    "first_hops": {
+        "Quantum mechanics": {
+            "term": "Quantum mechanics",
+            "passage": "Quantum mechanics is the branch of physics that describes the behavior of microscopic objects and their interactions with the surrounding environment. It deals with the behavior of physical objects that are too small to be seen, such as atoms and subatomic particles. In contrast to classical mechanics, quantum mechanics is based on statistical mechanics, which is based on probability theory and the conservation of energy. In classical mechanics, physical quantities can only take certain values, while in quantum mechanics, the results of measurements may be in a superposition until the measurement is made. The results of measurements are never certain, but instead involve statistical likelihoods. This means that an event's probability is never guaranteed, and the measurement of one quantum system may influence the outcome of a subsequent measurement. The behavior of quantum systems is also fundamentally different from that of classical systems. To answer your question about the wave function and the square root of -1, it is important to understand that quantum mechanics deals with the behavior of small and incredibly tiny objects. When these objects interact with each other or with their environment, their state of being in a superposition or quantum state of existence is not guaranteed. The wave function of a particle is a mathematical tool that can be used to represent the probability that a particle exists in a certain region of space. In quantum mechanics, the wave function of a particle can have complex values, and it is not a true wave function but rather a probability function.",
+            "qae_pairs": [
+                {
+                    "question": "What is the wave function of a particle?",
+                    "answer": "1",
+                    "explanation": "1 is the only possible value for the wave function of a particle."
+                }
+            ],
+            "hops": [
+                "Quantum mechanics"
+            ]
+        },
+        "Electromagnetic field": {
+            "term": "Electromagnetic field",
+            "passage": ".. and not in a single line! <snip>\nThis is a detailed passage from wikipedia about Electromagnetic field:... and not in a single line! <snip>\nLast edited by ~jimmy~; 12-11-12, 03:17 AM. Please don't take this out of context. It was a valid question about a wikipedia page, but you replied in a much more hostile manner than would normally be seen in the community. What do you mean by \"it's on the Wikipedia page.\" I'm not taking it out of context. I am trying to learn the appropriate response. Last edited by ~jimmy~; 12-11-12, 03:45 AM. Thanks for clearing that up. I was hoping someone would take the time to help me understand the appropriate response. What about \"How is it relevant here?\" I am trying to figure out the rules for using the word \"Wikipedia.\" Is there a better way to approach a question about information on the website? What's an appropriate response to a \"Wikipedia question\"? I could say it like this... If you're asking for someone to research a specific question on wikipedia that's related to this topic or something in general, sure, here's a valid response.",
+            "qae_pairs": [
+                {
+                    "question": "What is the answer to the question?",
+                    "answer": "Wikipedia",
+                    "explanation": "Wikipedia is a website that provides information on a wide range of topics. It is a great resource for finding information on a particular topic. If you have a question about a topic, you can often find the answer on Wikipedia. If youre asking for someone to research a specific question on Wikipedia thats related to this topic or something in general, sure, heres a valid response. Question: What is the answer to the question? Answer: Wikipedia Explanation: Wikipedia is a website that provides information on a wide range of topics. It is a great resource for finding information"
+                }
+            ],
+            "hops": [
+                "Electromagnetic field"
+            ]
+        },
+        "Energy": {
+            "term": "Energy",
+            "passage": "“The ultimate source of the energy found in the universe. All physical energy can be used to change the state of physical matter. The primary form of energy found in the universe is kinetic energy (KE), which is the energy of motion. Energy exists in various forms and can take different forms depending on its application. It is used for both mechanical and electrical purposes. For example, a mechanical energy source can include a car engine, which converts the energy in fuel into mechanical energy that drives the car.",
+            "qae_pairs": [
+                {
+                    "question": "What is the ultimate source of energy in the universe?",
+                    "answer": "KE",
+                    "explanation": "“The ultimate source of the energy found in the universe is kinetic energy (KE), which is the energy of motion. Energy exists in various forms and can take different forms depending on its application. It is used for both mechanical and electrical purposes. For example, a mechanical energy source can include a car engine, which converts the energy in fuel into mechanical energy that drives the car."
+                }
+            ],
+            "hops": [
+                "Energy"
+            ]
+        },
+        "Gravitation": {
+            "term": "Gravitation",
+            "passage": "“When two mass objects come close, such as two planets in the solar system, they are attracted to each other. In addition, when three objects come close to each other, they are also attracted to each other. This attraction is so strong that the gravitational force between the objects will keep pulling them to each other until the force is balanced out by the distance that the objects are from each other.”\nIf we are within a few miles of the Moon and we don’t see gravity effect us yet, I believe we are not being gravitationally affected because the Earth’s gravitational pull on the Moon is so strong, the Earth’s gravitational pull on the Moon is stronger and can overcome the Moon’s own gravitational attraction. But for us to be aware of the Moon’s gravitational effect, we would need to be in a position that is several times farther away. There is no need to have a large planet like Earth to be gravitationally affected. Even a small planet could have gravity that could affect us if we come in close enough to it, but the larger a planet is, the greater its gravity will be, and the weaker it will become the smaller it becomes. So, does a planet’s distance affect gravity? No, distance itself has no effect on gravity. Gravity is the attraction between all objects in space, and it is the same from millions of miles away as it is just a few miles away.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the planet that is closest to the Moon?",
+                    "answer": "Earth",
+                    "explanation": "“The Moon is the closest object to the Earth, and the two are gravitationally connected. The Moon is the only object in the solar system that is gravitationally connected to the Earth. The Moon is the only object in the solar system that is gravitationally connected to the Earth. The Moon is the only object in the solar system that is gravitationally connected to the Earth. The Moon is the only object in the solar system that is gravitationally connected to the Earth. The Moon is the only object in the solar system that is gravitationally connected to the Earth. The Moon is the only object in the"
+                }
+            ],
+            "hops": [
+                "Gravitation"
+            ]
+        },
+        "Oscillatory motion": {
+            "term": "Oscillatory motion",
+            "passage": "\"Oscillatory motion is a motion in which an object periodically repeats the same displacement with respect to its fixed position. It is the opposite of linear motion, where the magnitude of the object's displacement is constant. Oscillatory motion can be found in many objects, such as pendulums or swing-arms.\" In the passage, the term \"displacement with respect to its fixed position\" means the distance or location of the point of an object in relation to a fixed point or position. It is different from linear motion where the distance or position of an object changes constantly and never changes with respect to a fixed position. In the case of pendulums, when the length of the pendulum is shortened or extended, it will still oscillate back and forth on its fixed point of equilibrium until the pendulum reaches its new equilibrium position. Similarly, with swing-arms, the position of the point on the swing-arm where it makes contact with the swinging body will constantly change, but the overall swing-motion can be seen as constant.",
+            "qae_pairs": [
+                {
+                    "question": "Which type of motion is the opposite of oscillatory motion?",
+                    "answer": "linear",
+                    "explanation": "Linear motion is a motion in which an object moves in a straight line, without changing its speed or direction, while oscillatory motion is a motion in which an object periodically repeats the same displacement with respect to its fixed position. Therefore, the opposite of oscillatory motion is linear motion."
+                }
+            ],
+            "hops": [
+                "Oscillatory motion"
+            ]
+        }
+    },
+    "second_hops": {
+        "Wikipedia": {
+            "term": "Wikipedia",
+            "passage": "\"In 2007, Wikipedia co-founder Jimmy Wales said that Wikipedia was \"The Google of the people\". He described it as \"an enormous collection of information which nobody in particular knows what it is for.\" In 2008, Wales stated that Wikipedia could one day become the most visited website in the world. The first edition of a Wikipedia book was published in 2009, titled \"Wikipedia: the free encyclopedia. The...[Read more]\nThis is a passage from wikipedia about Wikipedia. Wikipedia is a free encyclopedia that consists of pages that are written in many different languages and that are edited together by volunteers, and that are free to edit. It is the world's largest encyclopedia, and it is also one of the most visited websites in the world. Wikipedia is an online encyclopedia that is written in multiple languages. It is a free encyclopedia that anyone can edit, and it is also one of the most visited websites in the world.",
+            "qae_pairs": [
+                {
+                    "question": "What year was the first edition of a Wikipedia book published?",
+                    "answer": "2009",
+                    "explanation": "2009"
+                },
+                {
+                    "question": "What year did Jimmy Wales, co-founder of Wikipedia, describe it as The Google of the people?",
+                    "answer": "2007",
+                    "explanation": "In 2007, Jimmy Wales, co-founder of Wikipedia, described it as The Google of the people. He described Wikipedia as an enormous collection of information that nobody in particular knows what it is for."
+                },
+                {
+                    "question": "Who is the co-founder of Wikipedia?",
+                    "answer": "Jimmy Wales",
+                    "explanation": "In 2007, Jimmy Wales co-founded Wikipedia. He described it as The Google of the people and an enormous collection of information which nobody in particular knows what it is for. In 2008, Wales stated that Wikipedia could one day become the most visited website in the world. The first edition of a Wikipedia book was published in 2009, titled Wikipedia: the free encyclopedia. The...[Read more] This is a passage from wikipedia about Wikipedia. Wikipedia is a free encyclopedia that consists of pages that are written in many different languages and that are edited together by volunteers,"
+                }
+            ],
+            "hops": [
+                "Electromagnetic field",
+                "Wikipedia"
+            ]
+        },
+        "KE": {
+            "term": "KE",
+            "passage": "KE (pronunciation: [KE. In the same way, there are many examples of KE and its variants that we see in nature. For instance, the word for \"keel\" (as opposed to the word for \"quay\") is \"keeling\" and the word for \"keen\" (as opposed to the word for \"quill\") is \"keen\". KE is a very important and useful word for people in English, but many Americans don't know it. I was amazed to find that a few years ago, the word was added to the dictionary only because it was found to be common to people in New Zealand. The word is very much in common use in English. The word has many interesting uses and meanings. I found several examples of the word in my home town:\n- I live near a park. I hear the birds singing KE, and I can see children playing KE. - My neighbor has a new puppy. I am often called out to feed the puppy KE. - The city is holding an annual KE festival. People are marching and dancing in the streets, singing KE. - I like to listen to KE. It's a pleasant music to hear. There are more examples, but I hope this gives you an idea of how many things I see that involve the word \"KE\".",
+            "qae_pairs": [
+                {
+                    "question": "What is the country where KE is commonly used to describe a musical instrument?",
+                    "answer": "New Zealand",
+                    "explanation": "KE is a musical instrument that is commonly used in New Zealand. It is a type of flute that is made from the hollowed out shell of a large shellfish. The shell is usually made from the shell of a large abalone, but other types of shellfish can be used. The instrument is often used in traditional New Zealand music, and is also used in many other types of music."
+                }
+            ],
+            "hops": [
+                "Energy",
+                "KE"
+            ]
+        }
+    }
+}

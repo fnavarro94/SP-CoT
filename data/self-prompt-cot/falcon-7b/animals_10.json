@@ -1,0 +1,88 @@
+{
+    "first_hops": {
+        "Dog": {
+            "term": "Dog",
+            "passage": "(dog)\nDog is a mammal native to the Arctic tundra. It is one of the oldest domesticated animals, and is the largest domesticated mammal. It is the only member of the canid family (Canidae) that domestication led to the development of many modern breeds of dog. There are about 3,000 known subspecies of dogs, with the domestication of dogs resulting in a total of 500 known breeds. There are six main sizes of dogs, which range from tiny miniature toy dogs to large working dogs. The average lifespan of dogs is between 12 and 13 years, but some dog breeds can survive for 18 or more years. The size of a dog can range from 1 to 200 centimeters in height. It is estimated that humans began to domesticate dogs 40,000 years ago.",
+            "qae_pairs": [
+                {
+                    "question": "How long do dogs typically live for?",
+                    "answer": "12 and 13 years",
+                    "explanation": "Dogs are a domesticated species, meaning that they have been selectively bred by humans to adapt to their needs. This has resulted in a wide range of sizes, from tiny toy dogs to large working dogs. The average lifespan of dogs is between 12 and 13 years, but some dog breeds can survive for 18 or more years. The size of a dog can range from 1 to 200 centimeters in height. It is estimated that humans began to domesticate dogs 40,000 years ago."
+                },
+                {
+                    "question": "How long do dogs live for?",
+                    "answer": "18 or more years",
+                    "explanation": "(dog) The average lifespan of dogs is between 12 and 13 years, but some dog breeds can survive for 18 or more years."
+                }
+            ],
+            "hops": [
+                "Dog"
+            ]
+        },
+        "Horse": {
+            "term": "Horse",
+            "passage": "(en français) (en español)\nFor more information: The horse in mythology. The word 'horse' has a variety of meanings in different languages and cultures. In some cultures, the animal is referred to by its scientific name, Equus ferus, while in others it is referred to by its more colloquial name, simply 'horse'. This usage varies widely between cultures and languages. In terms of its scientific classification, Equus ferus is the type species of the family Equidae and the order Perissodactyla. It is classified as a member of the Equine clade of the Mesozoic horse lineage, which is itself part of the clade of the Eutheria superclade. In other terms, the word 'horse' is not used as a singular term for the entire species, but can be used for the domesticated breeds, which are generally referred to as the breed name. Horses of all the species are also referred to as'mare' and'stallion', and 'gelding','spirit' and 'horse' are interchangeable terms in the English language. The name 'horse' comes from the Old English 'hors', and comes from a root word 'erse', meaning'mountain'.",
+            "qae_pairs": [
+                {
+                    "question": "What is the scientific name of the horse?",
+                    "answer": "Equus",
+                    "explanation": "Equus is the scientific name for the horse. It is derived from the Latin word Equus ferus, which means horse of the mountains."
+                }
+            ],
+            "hops": [
+                "Horse"
+            ]
+        },
+        "Reptile": {
+            "term": "Reptile",
+            "passage": "“Reptiles are cold-blooded vertebrate animals of the order Reptilia. The oldest surviving group is the ‘crown group’, also known as the Archibald group, which includes a wide variety of modern amphibians and reptiles. The majority of living reptiles are found in the class Reptilia, which comprises some 700 different species in 13 families. Reptiles are often characterized as “slow-growing” animals, though their body structures are often large, bulky, and compact.",
+            "qae_pairs": [
+                {
+                    "question": "What is the oldest group of animals?",
+                    "answer": "Archibald",
+                    "explanation": "“The oldest group of animals is the ‘crown group’, also known as the Archibald group, which includes a wide variety of modern amphibians and reptiles. The majority of living reptiles are found in the class Reptilia, which comprises some 700 different species in 13 families.”"
+                },
+                {
+                    "question": "Which group of animals is the oldest?",
+                    "answer": "Reptilia",
+                    "explanation": "“Reptilia” is the oldest group of animals, which includes a wide variety of modern amphibians and reptiles. The majority of living reptiles are found in this class, which comprises some 700 different species in 13 families. Reptiles are often characterized as “slow-growing” animals, though their body structures are often large, bulky, and compact."
+                }
+            ],
+            "hops": [
+                "Reptile"
+            ]
+        }
+    },
+    "second_hops": {
+        "Equus": {
+            "term": "Equus",
+            "passage": "\"Equus: the horse who came from the East\" is a 1974 film directed by Richard Fleischer starring Ryan O'Neal. The film depicts a story from the horse perspective. A horse named 'Equus' becomes an 'Equus' horse\nThe origin of the equus species\nThe \"e\" in equus comes from the Latin word 'Equitas', meaning \"fair or even\" or \"justice\". Equus was the 'even-to-even' horse species. The name of the horse species 'Equus' is a pun based on this phrase. The term \"e\" was also a pun for the species, as it means \"equal to\" or \"even to\". In Latin, equus also means \"even to\" or \"to even\". It is said that the Greek word equa was used for the horse species. \"Equa\" means \"to go in opposite directions\". \"It is possible that equa is derived from the Greek term 'Equatia'.\" This theory is based on the theory that the horse species originated from the area of the Caucasus region of the Middle East.",
+            "qae_pairs": [
+                {
+                    "question": "What is the origin of the equus species?",
+                    "answer": "Equitas",
+                    "explanation": "Equus is derived from the Latin word Equitas, which means even to even. The term e is a pun based on this phrase. The term e means even to. The term e is a pun based on this phrase. The term e means even to. The term e means even to. The term e means even to. The term e means even to. The term e means even to. The term e"
+                },
+                {
+                    "question": "Where did the Equus horse species originate from?",
+                    "answer": "the Middle East",
+                    "explanation": "The horse species is believed to have originated from the area of the Caucasus region of the Middle East. The horse species is believed to have originated from the area of the Caucasus region of the Middle East. The horse species is believed to have originated from the area of the Caucasus region of the Middle East. The horse species is believed to have originated from the area of the Caucasus region of the Middle East. The horse species is believed to have originated from the area of the Caucasus region of the Middle East. The horse species is believed to have originated from the area of the Caucasus region"
+                },
+                {
+                    "question": "Who directed the film Equus: the horse who came from the East?",
+                    "answer": "Richard Fleischer",
+                    "explanation": "Equus: the horse who came from the East was directed by Richard Fleischer."
+                },
+                {
+                    "question": "What year did the horse species Equus originate?",
+                    "answer": "1974",
+                    "explanation": "Equus was released in 1974."
+                }
+            ],
+            "hops": [
+                "Horse",
+                "Equus"
+            ]
+        }
+    }
+}

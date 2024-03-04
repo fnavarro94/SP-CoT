@@ -1,0 +1,393 @@
+{
+    "first_hops": {
+        "apple": {
+            "term": "apple",
+            "passage": "List of apple cultivars\n\nThere are many different varieties of apples, which are commonly distinguished by the names of their respective cultivars. Cultivars are sometimes distinguished as \"apples\" and other times as simply \"varieties\". The distinction between \"apple\" and \"variety\" is not consistent in the horticultural trade, and many apple cultivars are often referred to by their cultivar names, rather than their common names (e.g., 'Granny Smith'). There are thousands of cultivars of apples, and many of these have become common names for the apple, even though the cultivar name may be more familiar to some. For example, the 'Red Delicious' cultivar of apples is the most widely grown in North America and Europe, and is commonly called \"Delicious\" or \"Red Delicious\".",
+            "qae_pairs": [
+                {
+                    "question": "Which continent is the apple variety \"Golden Delicious\" from?",
+                    "answer": "Europe",
+                    "explanation": "The Golden Delicious apple is a cultivar of apples that is grown in Europe."
+                },
+                {
+                    "question": "Which continent is the apple variety that is commonly called \"Red Delicious\" native to?",
+                    "answer": "North America",
+                    "explanation": "The apple variety that is commonly called Red Delicious is native to North America."
+                }
+            ],
+            "hops": [
+                "apple"
+            ]
+        },
+        "banana": {
+            "term": "banana",
+            "passage": "Bananas (Musa spp.) are a species of the genus Musa (genus) in the family Musaceae (banana family). The most commonly cultivated members of the genus are generally placed into one of two subgenera: Australimusa, with mostly wild species that are mainly found in Southeast Asia and Oceania; and Rhodolasma, which contains the majority of the cultivated banana species, as well as some wild relatives that are native to Southeast Asia and parts of India. The wild ancestors of bananas are a dioecious flowering plant native to the tropical forests of southeast Asia, with a wide range of variation in morphology and ecology. Banana domestication probably began independently in Southeast Asia and Papua New Guinea around 10,000 years ago, from the common ancestor of Musa Acuminata and M. balbisiana. The earliest archaeological evidence of banana cultivation is from Papua New Guinea, where banana heart-shaped leaf-scars have been found on pottery dating from around 5,000 years ago. The oldest archaeological specimens of the banana plant are two fruit stones from the Philippines, dated to around 3,500 years ago. The earliest archaeological evidence of banana use in Southeast Asia is from the Kuk Swamp site on the island of New Guinea, where banana leaf-scars have been found on pottery from around 7,200 years ago.",
+            "qae_pairs": [
+                {
+                    "question": "What is the scientific name of the family that contains the banana?",
+                    "answer": "Musaceae",
+                    "explanation": "Musaceae"
+                },
+                {
+                    "question": "What is the name of the site where the earliest archaeological evidence of banana use in Southeast Asia was found?",
+                    "answer": "Kuk Swamp",
+                    "explanation": "Kuk Swamp site on the island of New Guinea"
+                },
+                {
+                    "question": "How old is the earliest archaeological evidence of banana use in Southeast Asia?",
+                    "answer": "around 7,200 years ago",
+                    "explanation": "The earliest archaeological evidence of banana use in Southeast Asia is from the Kuk Swamp site on the island of New Guinea, where banana leaf-scars have been found on pottery from around 7,200 years ago."
+                },
+                {
+                    "question": "Which country has the earliest archaeological evidence of banana use?",
+                    "answer": "Papua New Guinea",
+                    "explanation": "Papua New Guinea"
+                },
+                {
+                    "question": "Which of the following is a type of banana?",
+                    "answer": "Musa Acuminata",
+                    "explanation": "Musa Acuminata"
+                }
+            ],
+            "hops": [
+                "banana"
+            ]
+        },
+        "broccoli": {
+            "term": "broccoli",
+            "passage": "Broccoli or, more specifically, the Brassica oleracea var italica, is a member of the cabbage family of plants. Broccoli is grown as an annual crop, but in cooler climates, it can be grown as a perennial. Broccoli is native to the Mediterranean region. It was first domesticated around the same time as the tomato, around 10,000 years ago in the region that is now Turkey. Broccoli is a cool-season crop that prefers temperatures of 60 °F (16 °C) at night and 75 °F (24 °C) during the day. Broccoli grows best when soil is fertile and moisture is abundant. The plants are hardy in zones 5–9, but they can tolerate temperatures as low as −29 °C (−20 °F). The plant has a high tolerance to soil salinity. It is susceptible to fusarium wilt and downy mildew, which can be combatted with appropriate crop management practices. Broccoli is an important vegetable crop grown for its edible stalk and florets (flowers). The edible part of the plant is the inflorescence, which is composed of small flowers called buds. Each bud consists of several flowers that are encased in a protective bud cover. When the bud is ready to be harvested, its bud cover is removed. The flowers of broccoli are edible and are commonly cooked and eaten as part of a vegetable dish.",
+            "qae_pairs": [
+                {
+                    "question": "Where is the first country mentioned?",
+                    "answer": "Turkey",
+                    "explanation": "The first country mentioned in the passage is Turkey."
+                },
+                {
+                    "question": "What is the scientific name of the plant that is also known as broccoli?",
+                    "answer": "Brassica",
+                    "explanation": "The scientific name of the plant that is also known as broccoli is Brassica oleracea var italica."
+                },
+                {
+                    "question": "What is the name of the region where broccoli is native?",
+                    "answer": "Mediterranean",
+                    "explanation": "Broccoli is native to the Mediterranean region."
+                },
+                {
+                    "question": "How old is broccoli?",
+                    "answer": "10,000 years ago",
+                    "explanation": "Broccoli is a member of the cabbage family of plants. It was first domesticated around the same time as the tomato, around 10,000 years ago in the region that is now Turkey."
+                },
+                {
+                    "question": "How many degrees below zero is the lowest temperature that broccoli can tolerate?",
+                    "answer": "−29",
+                    "explanation": "Broccoli can tolerate temperatures as low as −29 °C (−20 °F)."
+                }
+            ],
+            "hops": [
+                "broccoli"
+            ]
+        },
+        "cheese": {
+            "term": "cheese",
+            "passage": "Cheeses are foods derived from the milk of mammals, produced by coagulating the milk protein, casein, with acid, or by adding enzymes. Cheesemakers work with milk from cows, goats, sheep, buffalo, yaks, camels, water buffalo, horses, donkeys, and other animals. Cheesemaking is an ancient process, with records of cheesemaking by the ancient Egyptians, and the production of cheese in the Bible. The first cheesemaking took place about 10,000 years ago, when the Neolithic Revolution led to the domestication of cattle, sheep, and goats. Cheese-making was a key part of the agricultural revolution that took place during this time. Cheesemaking is a food industry worth over one billion dollars in the United States, and is a $40-billion global industry. Cheese is made from the milk of animals, most commonly cow's milk, goat's milk, or sheep's milk. Milk from other mammals, including yaks, reindeer, horses, water buffalo, camels, donkeys, and muskox, may also be used. Milk is a complex fluid that contains lactose, the primary sugar in milk, as well as proteins, fats, and minerals. The proteins and fat in milk coagulate at different temperatures, depending on the type of cheese desired.",
+            "qae_pairs": [
+                {
+                    "question": "How old is the oldest cheese?",
+                    "answer": "about 10,000 years ago",
+                    "explanation": "The first cheesemaking took place about 10,000 years ago, when the Neolithic Revolution led to the domestication of cattle, sheep, and goats. Cheese-making was a key part of the agricultural revolution that took place during this time. Cheesemaking is a food industry worth over one billion dollars in the United States, and is a $40-billion global industry. Cheese is made from the milk of animals, most commonly cow's milk, goat's milk, or sheep's milk. Milk from other mammals, including yaks, reindeer, horses, water buffalo, camels, donkeys, and"
+                },
+                {
+                    "question": "What is the name of the country where the cheese industry is worth over one billion dollars?",
+                    "answer": "the United States",
+                    "explanation": "The cheese industry is worth over one billion dollars in the United States."
+                }
+            ],
+            "hops": [
+                "cheese"
+            ]
+        },
+        "grapes": {
+            "term": "grapes",
+            "passage": "Grapes are the fruit of many species of Vitis in the flowering plant genus Vitis, which includes about 125 species of woody vines and related plants. [1] The genus includes many species commonly known as \"wild grapes\" that grow in the forests of the Northern Hemisphere and in some regions of the Southern Hemisphere.",
+            "qae_pairs": [
+                {
+                    "question": "Which hemisphere is the genus Vitis native to?",
+                    "answer": "the Northern Hemisphere",
+                    "explanation": "Vitis is native to the Northern Hemisphere."
+                },
+                {
+                    "question": "What is the genus of the fruit that is commonly known as \"wild grapes\"?",
+                    "answer": "Vitis",
+                    "explanation": "Grapes are the fruit of many species of Vitis in the flowering plant genus Vitis, which includes about 125 species of woody vines and related plants."
+                }
+            ],
+            "hops": [
+                "grapes"
+            ]
+        },
+        "lettuce": {
+            "term": "lettuce",
+            "passage": "List of leaf vegetables\n\nLettuce (Latuca sativa) is a leaf vegetable, a type of cultivated green plant, typically eaten as a salad green. It is a member of the family Lactuceae, which also includes other common salad greens such as endive, chicory, and escarole. Lettuce is a cool-season crop that typically grows best in temperatures between 55 and 75 °F (13 and 24 °C). It requires a long growing season, typically 150 to 200 days from germination to harvest. Lettuce is an annual plant, dying after one growing season. It is a close relative of the wild lettuce species L. serriola, which grows in the Mediterranean region. The leaves of lettuce are usually round and smooth-edged, with a crisp texture and a sweet, slightly bitter flavor. They are an excellent source of vitamin A, vitamin C, and dietary fiber. The most common types of lettuce are crisphead (iceberg) lettuce, which has large, crunchy, tightly packed leaves; and leaf lettuce, which has smaller, more delicate leaves. Other types of lettuce include butterhead lettuce, which has large, soft, rounded leaves; and romaine lettuce, which has elongated, crinkled leaves. Lettuce is grown commercially for its edible leaves, and is an important leafy green vegetable in many cuisines.",
+            "qae_pairs": [
+                {
+                    "question": "How many days does it take for lettuce to grow?",
+                    "answer": "150 to 200 days",
+                    "explanation": "Lettuce is a cool-season crop that typically grows best in temperatures between 55 and 75 °F (13 and 24 °C). It requires a long growing season, typically 150 to 200 days from germination to harvest."
+                }
+            ],
+            "hops": [
+                "lettuce"
+            ]
+        },
+        "onion": {
+            "term": "onion",
+            "passage": "Onion is the edible bulb of several plants in the genus Allium, which also includes garlic and leeks. Onion is an important vegetable worldwide, used as a food and as an ingredient in various cuisines. Onion is a member of the lily family, and is a perennial plant that typically grows in a clump. It has a cylindrical or globe-like underground stem which is surrounded by a dry, paper-like skin. At the top end is a single flower which is surrounded by an inflorescence. The flowers are composed of several layers of hundreds of individual flowers called florets, and each floret has a small, dense, yellow to reddish-brown clove-shaped or bulbous shaped group of tissue at the center. The individual florets are surrounded by a dry, paper-like skin called the scale, and the scale can be pulled back to expose the individual florets, revealing the yellow to reddish-brown clove-shaped group of tissue at the center. This clove-shaped group of tissue is the onion bulb. The onion is a member of the lily family, and it is closely related to the garlic, leek, and chive. The onion is a perennial plant, and it typically grows in a clump. Each clump has a large, underground stem which is surrounded by a dry, paper-like skin called the scale.",
+            "qae_pairs": [
+                {
+                    "question": "What is the genus of the bulb that is used as a food?",
+                    "answer": "Allium",
+                    "explanation": "The genus of the bulb that is used as a food is Allium."
+                }
+            ],
+            "hops": [
+                "onion"
+            ]
+        },
+        "potato": {
+            "term": "potato",
+            "passage": "The potato (Solanum tuberosum) is a species of nightshade native to the Andes of South America, from southern Colombia to Tierra del Fuego. It is widely cultivated and consumed as a staple food crop. It is the world's fourth-largest food crop, after maize, wheat, and rice.",
+            "qae_pairs": [
+                {
+                    "question": "What is the location of the potato?",
+                    "answer": "the Andes of South America",
+                    "explanation": "The potato is a species of nightshade native to the Andes of South America, from southern Colombia to Tierra del Fuego. It is widely cultivated and consumed as a staple food crop."
+                }
+            ],
+            "hops": [
+                "potato"
+            ]
+        }
+    },
+    "second_hops": {
+        "Europe": {
+            "term": "Europe",
+            "passage": "Europe, also considered as a cultural region (in the loose sense), is home to a vast diversity of ethnic and cultural groups, spanning from the Mediterranean and North-Western Europe, across Central and Eastern Europe, and further south to the Atlantic façade and the Alps.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the sea that borders Southern Europe?",
+                    "answer": "Mediterranean",
+                    "explanation": "The Mediterranean Sea is the sea that borders Southern Europe."
+                },
+                {
+                    "question": "Which ocean does Europe border on?",
+                    "answer": "Atlantic",
+                    "explanation": "Europe is located on the continent of Eurasia and is bordered by the Atlantic Ocean to the west and the Mediterranean Sea to the south."
+                },
+                {
+                    "question": "What is the third-largest mountain range in Europe?",
+                    "answer": "Alps",
+                    "explanation": "The Alps is the third-largest mountain range in Europe."
+                }
+            ],
+            "hops": [
+                "apple",
+                "Europe"
+            ]
+        },
+        "Kuk Swamp": {
+            "term": "Kuk Swamp",
+            "passage": "The Kuk swamp is a swamp in the KwaZulu-Natal province of South Africa. It is located in the Hluhluwe-iMfolozi Park, near the Mozambique border. It was created in the 1950s by the building of the Umfolozi River Dams.",
+            "qae_pairs": [
+                {
+                    "question": "What is the year of the Kuk Swamp?",
+                    "answer": "the 1950s",
+                    "explanation": "The Kuk Swamp was created in the 1950s by the building of the Umfolozi River Dams."
+                }
+            ],
+            "hops": [
+                "banana",
+                "Kuk Swamp"
+            ]
+        },
+        "Papua New Guinea": {
+            "term": "Papua New Guinea",
+            "passage": "Papua New Guinea (PNG) is an island country in Oceania, located in the South Pacific. It is the easternmost island of the Australasian region, and Melanesia. It is separated from the mainland by the Torres Strait, and from New Guinea by the Bismarck Sea. The country's mainland portion covers about one-sixth of the world's seventh-largest island, and the population is concentrated mostly on the eastern half.",
+            "qae_pairs": [
+                {
+                    "question": "What is Papua New Guinea located in?",
+                    "answer": "Oceania",
+                    "explanation": "Papua New Guinea is an island country in Oceania, located in the South Pacific."
+                },
+                {
+                    "question": "What is the name of the body of water that separates Papua New Guinea from the mainland?",
+                    "answer": "the Bismarck Sea",
+                    "explanation": "The body of water between Papua New Guinea and the mainland is the Bismarck Sea."
+                }
+            ],
+            "hops": [
+                "banana",
+                "Papua New Guinea"
+            ]
+        },
+        "Musa Acuminata": {
+            "term": "Musa Acuminata",
+            "passage": "Musa acuminata, commonly known as the \"banana\" or \"plantain\", is a species of banana, native to Southeast Asia and cultivated elsewhere as well. It is one of the most widely distributed species of banana, being found from southern China to Australia, the Pacific Islands to Africa, and from the Himalayas to Mexico.",
+            "qae_pairs": [
+                {
+                    "question": "Which of the following countries does not grow the Musa Acuminata?",
+                    "answer": "Mexico",
+                    "explanation": "The Musa Acuminata is not found in Mexico."
+                },
+                {
+                    "question": "Which species of banana is Musa acuminata?\n",
+                    "answer": "Musa",
+                    "explanation": "Musa acuminata, commonly known as the banana or plantain, is a species of banana, native to Southeast Asia and cultivated elsewhere as well."
+                }
+            ],
+            "hops": [
+                "banana",
+                "Musa Acuminata"
+            ]
+        },
+        "Turkey": {
+            "term": "Turkey",
+            "passage": "Turkey (i/ˈtrɪskuː/ TRISH-koo), officially the Republic of Turkey (Turkish: Türkiye Cumhuriyeti, tr. \"Republic of Turkey\"), is a transcontinental country in Eurasia, mainly in Anatolia in Western Asia, with a smaller portion on the Balkan peninsula in Southeast Europe. Turkey is a unitary, democratic, secular, parliamentary republic with a diverse cultural heritage. The country is bordered by eight countries including Greece to the west; Bulgaria to the north; Georgia to the northeast; Iraq and Iran to the east; and Ukraine and Russia to the south. The Bosphorus, the Sea of Marmara, and the Dardanelles, which constitute the Turkish Straits, divide Thrace and Anatolia into three connected subcontinental regions. Turkey's location has given it geopolitical and strategic importance for much of its history, as a mediator and trading route between East and West. Turkey is a member of the United Nations, the G20, the OECD, the G-15, and NATO.",
+            "qae_pairs": [
+                {
+                    "question": "Which country is to the north of Turkey?",
+                    "answer": "Bulgaria",
+                    "explanation": "Turkey is bordered by eight countries including Greece to the west; Bulgaria to the north; Georgia to the northeast; Iraq and Iran to the east; and Ukraine and Russia to the south."
+                },
+                {
+                    "question": "What is the entity that Turkey is a member of?",
+                    "answer": "the United Nations",
+                    "explanation": "Turkey is a member of the United Nations."
+                },
+                {
+                    "question": "What is the location of Turkey?",
+                    "answer": "Western Asia",
+                    "explanation": "Turkey is in Western Asia."
+                }
+            ],
+            "hops": [
+                "broccoli",
+                "Turkey"
+            ]
+        },
+        "Mediterranean": {
+            "term": "Mediterranean",
+            "passage": "The Mediterranean Sea (also known as the Levant Sea, Mare Nostrum, or simply the \"Med\") is a mediterranean sea that is enclosed by Europe and Africa. It connects to the Atlantic Ocean via the Strait of Gibraltar and the Suez Canal and separates the African continent from Asia and the Americas.",
+            "qae_pairs": [
+                {
+                    "question": "What is the Mediterranean Sea?",
+                    "answer": "the Levant Sea",
+                    "explanation": "The Mediterranean Sea is a mediterranean sea that is enclosed by Europe and Africa. It connects to the Atlantic Ocean via the Strait of Gibraltar and the Suez Canal and separates the African continent from Asia and the Americas."
+                },
+                {
+                    "question": "What is the Mediterranean Sea connected to?",
+                    "answer": "the Atlantic Ocean",
+                    "explanation": "The Mediterranean Sea is connected to the Atlantic Ocean via the Strait of Gibraltar and the Suez Canal."
+                },
+                {
+                    "question": "What is the Mediterranean Sea located between?",
+                    "answer": "Africa",
+                    "explanation": "The Mediterranean Sea is located between Africa and Europe."
+                }
+            ],
+            "hops": [
+                "broccoli",
+                "Mediterranean"
+            ]
+        },
+        "the United States": {
+            "term": "the United States",
+            "passage": "United States\nThe United States of America, commonly known as the United States (U.S.) or America, is a country that consists of 50 states, a federal district, five major self-governing territories, and various possessions. At 3.8 million square miles (9.8 million km2) and with over 325 million people, it is the world's third or fourth-largest country by total area and population. It is the largest country in the Americas by both area and population, and the third- or fourth-largest country in the world by total area and population. The United States is a federal republic consisting of 51 states and a federal district, the capital and largest city of which is Washington, D.C. The United States of America began on July 4, 1776, after the Declaration of Independence, when thirteen British colonies in North America united as one sovereign state under a constitutional republican government. The country's territory gradually expanded through the Louisiana Purchase of 1803 and the subsequent Mexican Cession of 1848, and the subsequent annexation of Alaska at the end of the 19th century. The Spanish Empire colonized the area that is now the United States beginning in the 16th century; the country was named after the Italian word for \\\"free\\\".",
+            "qae_pairs": [
+                {
+                    "question": "Which country was the first to colonize the United States?",
+                    "answer": "The Spanish Empire",
+                    "explanation": "The Spanish Empire colonized the area that is now the United States beginning in the 16th century; the country was named after the Italian word for \\free\\."
+                },
+                {
+                    "question": "How many years after the Declaration of Independence did the United States expand its territory?",
+                    "answer": "the end of the 19th century",
+                    "explanation": "The United States expanded its territory after the end of the 19th century."
+                },
+                {
+                    "question": "What is the date of the event that occurred in the United States?",
+                    "answer": "July 4, 1776",
+                    "explanation": "The United States of America began on July 4, 1776, after the Declaration of Independence, when thirteen British colonies in North America united as one sovereign state under a constitutional republican government."
+                },
+                {
+                    "question": "What is the name of the territory that was acquired by the United States in 1848?",
+                    "answer": "Mexican Cession",
+                    "explanation": "The Mexican Cession refers to the acquisition of the Mexican Cession, which was the territory of Mexico that was ceded to the United States in 1848."
+                },
+                {
+                    "question": "When was the United States purchased by the French?",
+                    "answer": "1803",
+                    "explanation": "The Louisiana Purchase of 1803"
+                },
+                {
+                    "question": "How many years after the Declaration of Independence did the United States annex Alaska?",
+                    "answer": "1848",
+                    "explanation": "The United States of America began on July 4, 1776, after the Declaration of Independence, when thirteen British colonies in North America united as one sovereign state under a constitutional republican government. The country's territory gradually expanded through the Louisiana Purchase of 1803 and the subsequent Mexican Cession of 1848, and the subsequent annexation of Alaska at the end of the 19th century."
+                }
+            ],
+            "hops": [
+                "cheese",
+                "the United States"
+            ]
+        },
+        "the Northern Hemisphere": {
+            "term": "the Northern Hemisphere",
+            "passage": "The Northern Hemisphere includes all landmass that is north of the Equator. The North Pole is located in the Northern Hemisphere. The North Pole is the axis about which the Earth rotates.",
+            "qae_pairs": [
+                {
+                    "question": "Which of the following is not a landmass in the Northern Hemisphere?",
+                    "answer": "The North Pole",
+                    "explanation": "The North Pole is not a landmass in the Northern Hemisphere."
+                }
+            ],
+            "hops": [
+                "grapes",
+                "the Northern Hemisphere"
+            ]
+        },
+        "the Andes of South America": {
+            "term": "the Andes of South America",
+            "passage": "The Andes (Spanish: \"Andes\" or, literally, \"snowy range\") is a mountain range that extends approximately 2,500 miles (4,000 km), in a west–east direction, across South America. It is considered the longest, highest, and most extensive mountain system in the world, stretching from the southernmost reaches of the Amazon Basin in Peru, through Colombia, Ecuador, Bolivia, Chile, Argentina, and the southernmost tip of southernmost Tierra del Fuego in the southernmost part of the continent. The Andes are bounded on the west by the Pacific Ocean, on the east by the Amazon Basin, and on the north and south by the Patagonic and Mesoamerican plains respectively.",
+            "qae_pairs": [
+                {
+                    "question": "Which of the following countries is NOT in the Andes of South America?\n",
+                    "answer": "Bolivia",
+                    "explanation": "Bolivia is not in the Andes of South America."
+                },
+                {
+                    "question": "How many countries border the Andes of South America?\n",
+                    "answer": "Chile",
+                    "explanation": "Chile, Argentina, Bolivia, Peru, Ecuador, Colombia, and Venezuela"
+                },
+                {
+                    "question": "Which country that borders on the Andes of South America is the home of the capital city of Buenos Aires?\n",
+                    "answer": "Argentina",
+                    "explanation": "Buenos Aires is the capital city of Argentina."
+                },
+                {
+                    "question": "What is the direction of the Andes of South America?",
+                    "answer": "west–east",
+                    "explanation": "The Andes of South America extend approximately 2,500 miles (4,000 km) in a west–east direction."
+                },
+                {
+                    "question": "What is the Andes of South America bounded by?",
+                    "answer": "the Pacific Ocean",
+                    "explanation": "The Andes of South America are bounded on the west by the Pacific Ocean."
+                }
+            ],
+            "hops": [
+                "potato",
+                "the Andes of South America"
+            ]
+        }
+    }
+}

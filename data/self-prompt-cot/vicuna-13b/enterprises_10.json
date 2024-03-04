@@ -1,0 +1,906 @@
+{
+    "first_hops": {
+        "ABC": {
+            "term": "ABC",
+            "passage": "ABC is a popular American television network that is owned by the Disney Media Networks division of The Walt Disney Company. The network was launched on October 19, 1943, as the Blue Network, and it was renamed ABC in 1946. ABC is one of the five major English-language commercial broadcast television networks in North America, and it is available in over 100 million households across the United States. ABC has its headquarters in New York City and its West Coast headquarters in Los Angeles. The network is known for its popular primetime programming, including hit shows like \"Grey's Anatomy,\" \"Modern Family,\" and \"The Bachelor.\" ABC also airs popular news programs such as \"World News Tonight with David Muir\" and \"Good Morning America.\" In addition to its primetime programming, ABC also airs a variety of daytime and late-night shows, including \"General Hospital,\" \"The View,\" and \"Jimmy Kimmel Live!\" The network also produces a wide range of original content, including documentaries, movies, and specials. ABC is available in most areas of the United States, with the exception of some rural areas and certain parts of Alaska and Hawaii. The network is also available in Canada through cable and satellite providers. Overall, ABC is a major player in the American television industry, and it is known for its high-quality programming and commitment to producing original content.",
+            "qae_pairs": [
+                {
+                    "question": "What year was ABC renamed from the Blue Network to ABC?",
+                    "answer": "1946",
+                    "explanation": "ABC was renamed from the Blue Network to ABC in 1946."
+                },
+                {
+                    "question": "What is the date on which ABC was launched as the Blue Network?",
+                    "answer": "October 19, 1943",
+                    "explanation": "The date on which ABC was launched as the Blue Network is October 19, 1943."
+                },
+                {
+                    "question": "What city is the West Coast headquarters of ABC in?",
+                    "answer": "Los Angeles",
+                    "explanation": "The West Coast headquarters of ABC is located in Los Angeles."
+                },
+                {
+                    "question": "What is the name of the news program that airs on ABC in the evenings?",
+                    "answer": "David Muir",
+                    "explanation": ""
+                },
+                {
+                    "question": "What is the original name of ABC before it was renamed in 1946?",
+                    "answer": "the Blue Network",
+                    "explanation": "The original name of ABC before it was renamed in 1946 was the Blue Network."
+                },
+                {
+                    "question": "What company owns ABC?",
+                    "answer": "The Walt Disney Company",
+                    "explanation": "The Walt Disney Company owns ABC."
+                },
+                {
+                    "question": "What division of The Walt Disney Company owns ABC?",
+                    "answer": "the Disney Media Networks",
+                    "explanation": "The Disney Media Networks division of The Walt Disney Company owns ABC."
+                }
+            ],
+            "hops": [
+                "ABC"
+            ]
+        },
+        "DEF": {
+            "term": "DEF",
+            "passage": "DEF is a term that can refer to a variety of different things, depending on the context in which it is used. In some cases, DEF may refer to a specific term or concept, while in other cases it may be used more generally to describe a particular set of circumstances or phenomena. One possible meaning of DEF is that it may be an acronym or abbreviation for a particular organization, company, or entity. For example, DEF could stand for the \"Department of Education and Training\" in a government agency or university. Similarly, DEF could be an abbreviation for a specific product or service, such as a software application or technology platform. In other cases, DEF may be used more generally to describe a particular set of circumstances or phenomena. For example, DEF could be used to describe a particular geographic region or location, such as the \"Delta-Epsilon-Foxtrot\" region of a map or GPS system. Alternatively, DEF could be used to describe a particular set of characteristics or attributes, such as the \"Defense, Emergency, and Fire\" services provided by a particular company or organization. Overall, the meaning of DEF can vary widely depending on the context in which it is used. As such, it is important to consider the specific context and context in which DEF is used in order to accurately interpret and understand its meaning.",
+            "qae_pairs": [
+                {
+                    "question": "What organization or entity does the acronym \"DEF\" stand for in the context of education and training?",
+                    "answer": "the \"Department of Education",
+                    "explanation": "The acronym \"DEF\" stands for the \"Department of Education and Training\" in the context of education and training."
+                }
+            ],
+            "hops": [
+                "DEF"
+            ]
+        },
+        "Coca-Cola": {
+            "term": "Coca-Cola",
+            "passage": "Coca-Cola is an American multinational soft drink company that was founded on May 8, 1886, by pharmacist John S. Pemberton in Atlanta, Georgia. The company is best known for its flagship product Coca-Cola, a carbonated soft drink that was originally invented as a medicine. Today, Coca-Cola is one of the world's most valuable and recognizable brands, with a presence in more than 200 countries. Coca-Cola's logo is one of the most recognizable in the world, and the company's products are sold in millions of retail outlets, restaurants, and vending machines across the globe. The company also produces a wide range of other beverages, including Sprite, Fanta, Diet Coke, and Dasani water. Coca-Cola's headquarters are located in Atlanta, Georgia, and the company is listed on the New York Stock Exchange. It is one of the largest employers in the city, with more than 70,000 employees worldwide. The company has a strong commitment to sustainability and has set ambitious goals to reduce its carbon footprint and improve the sustainability of its products. Coca-Cola has a long and complex history, with many milestones and achievements along the way. The company has faced numerous challenges over the years, including changing consumer tastes, increased competition, and concerns about the health impact of sugary drinks. However, Coca-Cola has remained a beloved brand and a cultural icon, with a loyal following around the world.",
+            "qae_pairs": [
+                {
+                    "question": "What is the date that Coca-Cola was founded?",
+                    "answer": "May 8, 1886",
+                    "explanation": "The date that Coca-Cola was founded is May 8, 1886."
+                },
+                {
+                    "question": "What is the name of the pharmacist who founded Coca-Cola?",
+                    "answer": "John S. Pemberton",
+                    "explanation": "The name of the pharmacist who founded Coca-Cola is John S. Pemberton."
+                },
+                {
+                    "question": "What beverage other than Coca-Cola is produced by the company and is known for its lemon-lime flavor?",
+                    "answer": "Sprite",
+                    "explanation": "The beverage other than Coca-Cola that is produced by the company and is known for its lemon-lime flavor is Sprite."
+                },
+                {
+                    "question": "What is the location of Coca-Cola's headquarters?",
+                    "answer": "Atlanta",
+                    "explanation": "The location of Coca-Cola's headquarters is Atlanta, Georgia."
+                },
+                {
+                    "question": "What is the name of the diet version of Coca-Cola's flagship product?",
+                    "answer": "Diet Coke",
+                    "explanation": "The diet version of Coca-Cola's flagship product is called Diet Coke."
+                }
+            ],
+            "hops": [
+                "Coca-Cola"
+            ]
+        },
+        "Apple": {
+            "term": "Apple",
+            "passage": "Apple Inc. is an American multinational technology company headquartered in Cupertino, California, that designs, develops, and sells consumer electronics, computer software, and online services. The company's hardware products include the iPhone smartphone, the iPad tablet computer, the Mac personal computer, the iPod portable media player, the Apple Watch smartwatch, the Apple TV digital media player, and the HomePod smart speaker. Apple's software includes the macOS and iOS operating systems, the iTunes media player, the Safari web browser, and the iLife and iWork creativity and productivity suites. Its online services include the iTunes Store, the iOS App Store, Mac App Store, Apple Music, and iCloud. Apple was founded by Steve Jobs, Steve Wozniak, and Ronald Wayne in April 1976 to develop and sell Wozniak's Apple I personal computer. It was incorporated as Apple Computer, Inc. in January 1977, and sales of its computers, including the Apple II, grew quickly. Within a few years, Jobs and Wozniak had hired a staff of computer designers and had a production line. Apple shipped its first computer in June 1976 and was a success. In 1984, Apple introduced the Macintosh, which was the first commercially successful personal computer to feature a graphical user interface. Within a few years, the Macintosh had gained significant market traction, and Apple had become a major player in the personal computer industry. In the mid-1990s, Apple struggled with declining sales and the re-emergence of Microsoft as a dominant force in the computer software industry.",
+            "qae_pairs": [
+                {
+                    "question": "What is the product developed and sold by Apple Inc. that is mentioned in the passage and is a smart speaker?",
+                    "answer": "HomePod",
+                    "explanation": "The product developed and sold by Apple Inc. that is mentioned in the passage and is a smart speaker is the HomePod."
+                },
+                {
+                    "question": "What is the hardware product that Apple Inc. designs, develops, and sells?",
+                    "answer": "iPhone",
+                    "explanation": "The hardware product that Apple Inc. designs, develops, and sells is not limited to just one product. Apple designs, develops, and sells a range of hardware products including the iPhone smartphone, the iPad tablet computer, the Mac personal computer, the iPod portable media player, the Apple Watch smartwatch, the Apple TV digital media player, and the HomePod smart speaker."
+                },
+                {
+                    "question": "What was the date on which Apple Inc. was incorporated as a company?",
+                    "answer": "January 1977",
+                    "explanation": "Apple Inc. was incorporated as a company on January 1977."
+                },
+                {
+                    "question": "What was the first commercially successful personal computer to feature a graphical user interface introduced by Apple in 1984?",
+                    "answer": "Macintosh",
+                    "explanation": "The first commercially successful personal computer to feature a graphical user interface was the Macintosh, which was introduced by Apple in 1984."
+                },
+                {
+                    "question": "What is the location of Apple Inc.'s headquarters according to the passage?",
+                    "answer": "Cupertino",
+                    "explanation": "According to the passage, Apple Inc.'s headquarters is located in Cupertino, California."
+                },
+                {
+                    "question": "What is the name of the person who co-founded Apple Inc. with Steve Jobs and Steve Wozniak?",
+                    "answer": "Ronald Wayne",
+                    "explanation": "The name of the person who co-founded Apple Inc. with Steve Jobs and Steve Wozniak is Ronald Wayne."
+                },
+                {
+                    "question": "What year did Apple introduce the Macintosh, which was the first commercially successful personal computer to feature a graphical user interface?",
+                    "answer": "1984",
+                    "explanation": "Apple introduced the Macintosh, which was the first commercially successful personal computer to feature a graphical user interface, in 1984."
+                },
+                {
+                    "question": "What is the name of the web browser developed by Apple Inc.?",
+                    "answer": "Safari",
+                    "explanation": "The name of the web browser developed by Apple Inc. is Safari."
+                },
+                {
+                    "question": "What year did Apple's sales decline and what event led to the re-emergence of Microsoft as a dominant force in the computer software industry?",
+                    "answer": "the mid-1990s",
+                    "explanation": "Apple's sales declined in the mid-1990s, and Microsoft's dominance in the computer software industry was re-established during this time. The decline in Apple's sales was due to a number of factors, including the rise of personal computers running Microsoft's Windows operating system, which offered more flexibility and better compatibility with other software. Additionally, Apple faced competition from other computer manufacturers, such as Dell and HP, who were able to offer similar products at lower prices."
+                },
+                {
+                    "question": "What year did Apple introduce the Macintosh, and how long did it take for the Macintosh to gain significant market traction?",
+                    "answer": "a few years",
+                    "explanation": "Apple introduced the Macintosh in 1984. It took a few years for the Macintosh to gain significant market traction."
+                },
+                {
+                    "question": "What is the name of the co-founder of Apple Inc. who designed the Apple I personal computer?",
+                    "answer": "Steve Wozniak",
+                    "explanation": "The co-founder of Apple Inc. who designed the Apple I personal computer was Steve Wozniak."
+                },
+                {
+                    "question": "What is the online service provided by Apple that allows users to store and access their files, contacts, and calendars across multiple devices?",
+                    "answer": "iCloud",
+                    "explanation": "The online service provided by Apple that allows users to store and access their files, contacts, and calendars across multiple devices is iCloud."
+                },
+                {
+                    "question": "What is the location of Apple Inc.'s headquarters?",
+                    "answer": "California",
+                    "explanation": "The location of Apple Inc.'s headquarters is Cupertino, California."
+                }
+            ],
+            "hops": [
+                "Apple"
+            ]
+        },
+        "IBM": {
+            "term": "IBM",
+            "passage": "IBM (International Business Machines) is a multinational technology company headquartered in Armonk, New York, United States. The company was founded in 1911 as the Computing-Tabulating-Recording Company (CTR) and was renamed \"International Business Machines\" in 1924. IBM is one of the largest technology companies in the world, with operations in over 170 countries. Its hardware, software, and services businesses cover a wide range of technology segments, including cloud computing, artificial intelligence, cybersecurity, and blockchain. IBM has a long history of innovation and has been credited with pioneering many of the computing technologies that are now ubiquitous in modern society. For example, IBM developed the first hard disk drive, the first personal computer, and the first high-speed printer. The company has also been at the forefront of developing new technologies such as artificial intelligence, quantum computing, and blockchain. IBM has a diverse workforce of over 350,000 employees, including scientists, engineers, consultants, and business professionals. The company has a strong focus on research and development, with over $6 billion invested in R&D each year. IBM has also been recognized for its commitment to social responsibility and sustainability, with initiatives such as its \"Women in Technology\" program and its \"Smarter Planet\" campaign aimed at promoting sustainable development. IBM has a wide range of products and services, including hardware, software, and consulting services. The company's hardware products include servers, storage systems, and mainframes, while its software offerings include operating systems, middleware, and enterprise applications.",
+            "qae_pairs": [
+                {
+                    "question": "What year was IBM founded as the Computing-Tabulating-Recording Company (CTR)?",
+                    "answer": "1911",
+                    "explanation": "The Computing-Tabulating-Recording Company (CTR) was founded in 1911."
+                },
+                {
+                    "question": "What year was IBM renamed \"International Business Machines\"?",
+                    "answer": "1924",
+                    "explanation": "The correct answer is 1924. IBM was originally founded in 1911 as the Computing-Tabulating-Recording Company (CTR) and was renamed \"International Business Machines\" in 1924."
+                },
+                {
+                    "question": "What is the former name of IBM before it was renamed \"International Business Machines\"?",
+                    "answer": "CTR",
+                    "explanation": "The former name of IBM before it was renamed \"International Business Machines\" was Computing-Tabulating-Recording Company (CTR)."
+                },
+                {
+                    "question": "What is the location of IBM's headquarters?     To complete this task, the user needs to know about the passage on IBM. It provides a brief overview of the company's history, products, and services. The user can use this information to generate a question about IBM, and the answer to",
+                    "answer": "Armonk",
+                    "explanation": "The location of IBM's headquarters is Armonk, New York, United States."
+                },
+                {
+                    "question": "What is the location of IBM's headquarters?",
+                    "answer": "New York",
+                    "explanation": "The location of IBM's headquarters is Armonk, New York, United States."
+                }
+            ],
+            "hops": [
+                "IBM"
+            ]
+        }
+    },
+    "second_hops": {
+        "Los Angeles": {
+            "term": "Los Angeles",
+            "passage": "Los Angeles is a city in the United States, located in Southern California. With a population of nearly 4 million people, Los Angeles is the second-most populous city in the United States, after New York City. It is known for being the center of the American film industry, as well as being a major economic hub and cultural center. The city is home to many famous landmarks and attractions, including Hollywood, Beverly Hills, and the Griffith Observatory. Los Angeles is also known for its diverse neighborhoods and cultural communities, including Koreatown, Little Tokyo, and Chinatown. The city is served by a number of major highways, including the Santa Monica Freeway, the San Diego Freeway, and the Golden State Freeway. Los Angeles is a major transportation hub, with a number of airports, including Los Angeles International Airport, and a metro system that serves the city and its surrounding areas.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the neighborhood in Los Angeles that is known for being a major cultural center for the Korean community?",
+                    "answer": "Koreatown",
+                    "explanation": "Koreatown is the neighborhood in Los Angeles that is known for being a major cultural center for the Korean community."
+                },
+                {
+                    "question": "What is the answer to the question regarding the Los Angeles landmark that is also known as the center of the American film industry?",
+                    "answer": "Hollywood",
+                    "explanation": "The answer to the question regarding the Los Angeles landmark that is also known as the center of the American film industry is Hollywood."
+                },
+                {
+                    "question": "What is the name of the freeway that connects Los Angeles and Monica?",
+                    "answer": "Monica Freeway",
+                    "explanation": "The name of the freeway that connects Los Angeles and Monica is the Santa Monica Freeway."
+                },
+                {
+                    "question": "What is the name of the landmark located in Los Angeles that is known for its unique architecture and is a popular tourist attraction?",
+                    "answer": "the Griffith Observatory",
+                    "explanation": "The Griffith Observatory is a landmark located in Los Angeles that is known for its unique architecture and is a popular tourist attraction."
+                },
+                {
+                    "question": "What is the name of the famous neighborhood in Los Angeles that is known for its expensive homes and luxurious lifestyle?",
+                    "answer": "Beverly Hills",
+                    "explanation": "The famous neighborhood in Los Angeles that is known for its expensive homes and luxurious lifestyle is Beverly Hills."
+                },
+                {
+                    "question": "What is the term 'Los Angeles' used to describe in the passage?",
+                    "answer": "Southern California",
+                    "explanation": "The term 'Los Angeles' is used to describe Southern California in the passage."
+                }
+            ],
+            "hops": [
+                "ABC",
+                "Los Angeles"
+            ]
+        },
+        "David Muir": {
+            "term": "David Muir",
+            "passage": "David Muir ----------- David Muir is an American journalist and news anchor. He is the anchor and managing editor of ABC World News Tonight with David Muir, which is the flagship evening news program of the American Broadcasting Company (ABC). Muir has been with ABC News since 2003 and has reported for all of the network's news programs, including 20/20, Nightline, and Good Morning America. He is known for his in-depth interviews with newsmakers and his coverage of major breaking news stories. Muir is also a contributor to ABC News' 20/20 and has won several awards for his reporting, including an Emmy Award and a Peabody Award.",
+            "qae_pairs": [
+                {
+                    "question": "What year did David Muir join ABC News?",
+                    "answer": "2003",
+                    "explanation": "David Muir joined ABC News in the year 2003."
+                }
+            ],
+            "hops": [
+                "ABC",
+                "David Muir"
+            ]
+        },
+        "the Blue Network": {
+            "term": "the Blue Network",
+            "passage": "Blue Network ============ The Blue Network was a radio network in the United States that operated from 1927 to 1945. It was one of two major radio networks in the country during the Golden Age of Radio, the other being the Red Network. The Blue Network was owned by the National Broadcasting Company (NBC) and was known for its high-quality programming, including news, drama, comedy, and music. Some of the most popular shows on the Blue Network included \"The Lone Ranger,\" \"The Shadow,\" and \"The Jack Benny Program.\" The network also broadcast major sporting events, including the Olympics and the World Series. However, the Blue Network faced stiff competition from the Red Network, which was affiliated with the Columbia Broadcasting System (CBS). Despite this, the Blue Network remained a major player in the radio industry until its eventual merger with the NBC Red Network in 1945 to form the modern-day NBC Radio Network.",
+            "qae_pairs": [
+                {
+                    "question": "What was the name of the network that was the Blue Network's competitor? Answer: The NBC Red Network.",
+                    "answer": "the NBC Red Network",
+                    "explanation": "The Blue Network's competitor was the NBC Red Network."
+                },
+                {
+                    "question": "What year did the Blue Network merge with the NBC Red Network to form the modern-day NBC Radio Network?",
+                    "answer": "1945",
+                    "explanation": "The Blue Network merged with the NBC Red Network in 1945 to form the modern-day NBC Radio Network."
+                },
+                {
+                    "question": "What year was the Blue Network formed, according to the passage?",
+                    "answer": "1927",
+                    "explanation": "According to the passage, the Blue Network was formed in 1927."
+                },
+                {
+                    "question": "What was the Blue Network?",
+                    "answer": "the United States",
+                    "explanation": "The Blue Network was a radio network in the United States that operated from 1927 to 1945. It was one of two major radio networks in the country during the Golden Age of Radio, the other being the Red Network. The Blue Network was owned by the National Broadcasting Company (NBC) and was known for its high-quality programming, including news, drama, comedy, and music. Some of the most popular shows on the Blue Network included \"The Lone Ranger,\" \"The Shadow,\" and \"The Jack Benny Program.\""
+                }
+            ],
+            "hops": [
+                "ABC",
+                "the Blue Network"
+            ]
+        },
+        "The Walt Disney Company": {
+            "term": "The Walt Disney Company",
+            "passage": "1. The Walt Disney Company is an American multinational mass media conglomerate based in Burbank, California. 2. It is the world's largest independent media conglomerate in terms of revenue, ahead of NBCUniversal and WarnerMedia. 3. The company was founded on October 16, 1923, by brothers Walt and Roy Disney as the Disney Brothers Cartoon Studio. 4. The company was reincorporated as Walt Disney Productions in 1940, and again as The Walt Disney Company in 1986, when it was renamed from its former name, Walt Disney Productions. 5. Today, the company is best known for the products of its film studio, Walt Disney Pictures, and its television network, Disney Channel. 6. Disney also owns and operates the ABC broadcast network, ESPN, A+E Networks, and the Disney Channels. 7. The company has been a leader in the animation industry, with its products winning 9 Academy Awards, and has also produced some of the most successful theme park attractions in the world. 8. The company has also been involved in various controversies over the years, including accusations of racism in its early cartoons, and criticism for its handling of labor disputes and its impact on local communities. 9. Despite these controversies, the company has continued to thrive, and is widely regarded as one of the most successful and influential media companies in the world.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the person who co-founded The Walt Disney Company with his brother Walt Disney, and who is known to be the co-founder and former president of the company?",
+                    "answer": "Roy Disney",
+                    "explanation": "Roy Disney is the co-founder and former president of The Walt Disney Company. He co-founded the company with his brother Walt Disney on October 16, 1923, and played a significant role in the company's early success. Roy was known for his business acumen and his ability to manage the company's finances effectively."
+                },
+                {
+                    "question": "What state was The Walt Disney Company founded in?",
+                    "answer": "California",
+                    "explanation": "The Walt Disney Company was founded in California."
+                },
+                {
+                    "question": "What year was The Walt Disney Company reincorporated as Walt Disney Productions?",
+                    "answer": "1940",
+                    "explanation": "The Walt Disney Company was reincorporated as Walt Disney Productions in 1940."
+                },
+                {
+                    "question": "What was the name of the company before it was renamed The Walt Disney Company in 1986?",
+                    "answer": "Walt Disney Productions",
+                    "explanation": "The name of the company before it was renamed The Walt Disney Company in 1986 was Walt Disney Productions."
+                },
+                {
+                    "question": "What is the date that The Walt Disney Company was founded?",
+                    "answer": "October 16, 1923",
+                    "explanation": "The Walt Disney Company was founded on October 16, 1923."
+                },
+                {
+                    "question": "What subsidiary of The Walt Disney Company is known for its sports programming?",
+                    "answer": "ESPN",
+                    "explanation": "ESPN is a subsidiary of The Walt Disney Company that is known for its sports programming."
+                },
+                {
+                    "question": "What is the name of the film studio owned by The Walt Disney Company that produces the majority of its successful films?",
+                    "answer": "Walt Disney Pictures",
+                    "explanation": "Walt Disney Pictures is the film studio owned by The Walt Disney Company that produces the majority of its successful films."
+                },
+                {
+                    "question": "What is the location of The Walt Disney Company's headquarters?",
+                    "answer": "Burbank",
+                    "explanation": "The Walt Disney Company's headquarters is located in Burbank, California."
+                },
+                {
+                    "question": "What year was The Walt Disney Company renamed from Walt Disney Productions to The Walt Disney Company?",
+                    "answer": "1986",
+                    "explanation": "The Walt Disney Company was renamed from Walt Disney Productions to The Walt Disney Company in 1986."
+                },
+                {
+                    "question": "What is the number of Academy Awards that The Walt Disney Company has won according to the passage?",
+                    "answer": "9 Academy Awards",
+                    "explanation": "According to the passage, The Walt Disney Company has won 9 Academy Awards."
+                },
+                {
+                    "question": "What is the name of the television network owned by The Walt Disney Company?",
+                    "answer": "the Disney Channels",
+                    "explanation": "The name of the television network owned by The Walt Disney Company is the Disney Channels."
+                }
+            ],
+            "hops": [
+                "ABC",
+                "The Walt Disney Company"
+            ]
+        },
+        "the Disney Media Networks": {
+            "term": "the Disney Media Networks",
+            "passage": "Disney Media Networks is a subsidiary of The Walt Disney Company that oversees the company's various television networks, including Disney Channel, Disney Junior, Disney XD, Freeform, and ESPN. The company also operates radio networks, such as ESPN Radio and Disney Radio. Disney Media Networks is headquartered in Burbank, California, and operates in over 160 countries and territories worldwide. The company was formed in 2004 as a result of the merger between Disney and ABC, with the media networks division being created to oversee the company's various television and radio properties. Since then, Disney Media Networks has continued to expand its reach and influence, with the launch of new networks and digital platforms. Disney Channel is one of the most popular networks operated by Disney Media Networks, with hit shows such as \"Hannah Montana,\" \"The Suite Life of Zack and Cody,\" and \"High School Musical\" attracting millions of viewers worldwide. Disney Junior is another popular network, with shows like \"Doc McStuffins\" and \"Mickey Mouse Clubhouse\" entertaining young audiences. Disney XD is a network that targets older children and teenagers, with programming focused on action, comedy, and animation. Freeform, formerly known as ABC Family, is a network that caters to young adults, with shows like \"Pretty Little Liars\" and \"The Fosters\" attracting a loyal following. ESPN is one of the most successful networks operated by Disney Media Networks, with a wide range of sports programming, including live events, news, and analysis. ESPN Radio also operates as a national radio network, broadcasting live sports events and news programming.",
+            "qae_pairs": [
+                {
+                    "question": "What is the headquarters of the Disney Media Networks, and what is the name of the network that targets older children and teenagers?",
+                    "answer": "Burbank",
+                    "explanation": "The headquarters of Disney Media Networks is located in Burbank, California. The network that targets older children and teenagers is called Freeform, formerly known as ABC Family."
+                },
+                {
+                    "question": "What is the name of the television series that is part of the Disney Media Networks and is popular among children and teenagers?  Answer: Hannah Montana.",
+                    "answer": "Hannah Montana",
+                    "explanation": "The television series that is part of Disney Media Networks and is popular among children and teenagers is Hannah Montana."
+                },
+                {
+                    "question": "What year did Disney Media Networks launch its various television and radio properties?",
+                    "answer": "2004",
+                    "explanation": "Disney Media Networks was formed in 2004 as a result of the merger between Disney and ABC."
+                },
+                {
+                    "question": "What is the name of the network operated by Disney Media Networks that targets young audiences and features shows like \"Doc McStuffins\" and \"Mickey Mouse Clubhouse\"?",
+                    "answer": "Disney Junior",
+                    "explanation": "The network operated by Disney Media Networks that targets young audiences and features shows like \"Doc McStuffins\" and \"Mickey Mouse Clubhouse\" is Disney Junior."
+                },
+                {
+                    "question": "What is the headquarters of the Disney Media Networks, and in which state is it located?",
+                    "answer": "California",
+                    "explanation": "The headquarters of Disney Media Networks is located in Burbank, California."
+                },
+                {
+                    "question": "What is the name of the television program that airs on the Disney Media Networks and is popular among children? Answer: Mickey Mouse Clubhouse.",
+                    "answer": "Mickey Mouse Clubhouse",
+                    "explanation": "Mickey Mouse Clubhouse is a popular television program that airs on Disney Media Networks and is aimed at young children. The show features classic Disney characters such as Mickey Mouse, Minnie Mouse, and Goofy, as well as interactive segments that engage viewers in problem-solving and creativity. With its colorful animation and catchy theme song, Mickey Mouse Clubhouse has become a beloved favorite among preschoolers and their parents."
+                },
+                {
+                    "question": "What network does Disney Media Networks operate that targets older children and teenagers with programming focused on action, comedy, and animation?",
+                    "answer": "Disney XD",
+                    "explanation": "Disney XD is a network that targets older children and teenagers with programming focused on action, comedy, and animation."
+                }
+            ],
+            "hops": [
+                "ABC",
+                "the Disney Media Networks"
+            ]
+        },
+        "the \"Department of Education": {
+            "term": "the \"Department of Education",
+            "passage": "Department of Education The United States Department of Education (ED) is a federal department in the United States government that deals with education. It was created with the Department of Education Organization Act on October 17, 1979, and its main office is in Washington, D.C. The Department of Education is headed by the Secretary of Education, who is a member of the President's cabinet and advised by the Deputy Secretary of Education and the Under Secretary of Education. The Department of Education has a budget of over $70 billion and approximately 4,400 employees.",
+            "qae_pairs": [
+                {
+                    "question": "What is the location of the main office of the Department of Education?",
+                    "answer": "Washington",
+                    "explanation": "The main office of the Department of Education is located in Washington."
+                },
+                {
+                    "question": "What was the date when the United States Department of Education was created, according to the passage?",
+                    "answer": "October 17, 1979",
+                    "explanation": "According to the passage, the United States Department of Education was created on October 17, 1979."
+                }
+            ],
+            "hops": [
+                "DEF",
+                "the \"Department of Education"
+            ]
+        },
+        "John S. Pemberton": {
+            "term": "John S. Pemberton",
+            "passage": "John S. Pemberton was an American soldier who served as a Confederate general during the American Civil War. He is best known for his role in the defense of Vicksburg, Mississippi, during the Vicksburg Campaign. Pemberton was born in Philadelphia, Pennsylvania, in 1814, and graduated from the United States Military Academy in 1837. He served in various posts throughout the country, including in California and Texas, before being promoted to brigadier general in 1861. Pemberton was appointed as the commander of the Confederate Department of Mississippi and East Louisiana in 1862, and he oversaw the defense of Vicksburg against Union forces led by General Ulysses S. Grant. Pemberton surrendered Vicksburg on July 4, 1863, after a 47-day siege, and he was later exchanged as a prisoner of war. After the war, Pemberton returned to his home state of Pennsylvania, where he died in 1881.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the institution that John S. Pemberton graduated from in 1837?",
+                    "answer": "the United States Military Academy",
+                    "explanation": "John S. Pemberton graduated from the United States Military Academy in 1837."
+                },
+                {
+                    "question": "What was the department overseen by John S. Pemberton during the American Civil War?",
+                    "answer": "the Confederate Department of Mississippi",
+                    "explanation": "The Confederate Department of Mississippi was the department overseen by John S. Pemberton during the American Civil War."
+                },
+                {
+                    "question": "What state was John S. Pemberton born in, according to the passage?",
+                    "answer": "Pennsylvania",
+                    "explanation": "According to the passage, John S. Pemberton was born in Philadelphia, Pennsylvania, in 1814."
+                },
+                {
+                    "question": "What year was John S. Pemberton appointed as the commander of the Confederate Department of Mississippi and East Louisiana?",
+                    "answer": "1862",
+                    "explanation": "John S. Pemberton was appointed as the commander of the Confederate Department of Mississippi and East Louisiana in 1862."
+                },
+                {
+                    "question": "What is the location of John S. Pemberton's command during the American Civil War?",
+                    "answer": "East Louisiana",
+                    "explanation": "John S. Pemberton's command during the American Civil War was the Confederate Department of Mississippi and East Louisiana."
+                },
+                {
+                    "question": "What year was John S. Pemberton born, according to the passage?",
+                    "answer": "1814",
+                    "explanation": "According to the passage, John S. Pemberton was born in 1814."
+                },
+                {
+                    "question": "What date did John S. Pemberton surrender Vicksburg to Union forces during the American Civil War?",
+                    "answer": "July 4, 1863",
+                    "explanation": "John S. Pemberton surrendered Vicksburg to Union forces on July 4, 1863, after a 47-day siege during the American Civil War."
+                },
+                {
+                    "question": "What city was John S. Pemberton born in, and where did he serve as a Confederate general during the American Civil War?",
+                    "answer": "Philadelphia",
+                    "explanation": "John S. Pemberton was born in Philadelphia, Pennsylvania, in 1814. He served as a Confederate general during the American Civil War and is best known for his role in the defense of Vicksburg, Mississippi, during the Vicksburg Campaign."
+                }
+            ],
+            "hops": [
+                "Coca-Cola",
+                "John S. Pemberton"
+            ]
+        },
+        "Sprite": {
+            "term": "Sprite",
+            "passage": "Sprite is a brand of soft drink that was first introduced by The Coca-Cola Company in 1961. The beverage is lemon-lime flavored and is known for its distinctive green logo, which features a red sprite leaping over the words \"Sprite\" and \"Lemon-Lime\" in white letters. Sprite is one of the most popular soft drinks in the world, and is sold in over 190 countries. The beverage is made with carbonated water, sugar, caffeine, caramel color, and natural flavors, including lime and lemon. Sprite has been the subject of several advertising campaigns over the years, including the iconic \"I'm a Sprite, I'm a sprite, I'm a sprite\" jingle.",
+            "qae_pairs": [
+                {
+                    "question": "What year was Sprite first introduced as a soft drink?",
+                    "answer": "1961",
+                    "explanation": "Sprite was first introduced as a soft drink in 1961 by The Coca-Cola Company."
+                }
+            ],
+            "hops": [
+                "Coca-Cola",
+                "Sprite"
+            ]
+        },
+        "Atlanta": {
+            "term": "Atlanta",
+            "passage": "Atlanta is the capital and most populous city of the U.S. state of Georgia. It is located in the northeastern part of the state, just north of the Georgia-Alabama border. Atlanta is the cultural and economic center of the Atlanta metropolitan area, which is home to over 5 million people. The city is known for its rich history, which includes being the birthplace of Martin Luther King Jr. and a major center of the Civil Rights Movement. Atlanta is also home to several professional sports teams, including the Atlanta Braves baseball team, the Atlanta Falcons football team, and the Atlanta Hawks basketball team. The city is known for its vibrant arts scene, which includes the High Museum of Art, the Atlanta Symphony Orchestra, and the Alliance Theatre. Atlanta is a major transportation hub, with Hartsfield-Jackson Atlanta International Airport being one of the world's busiest airports. The city is also home to several major highways, including Interstate 75 and Interstate 85.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the museum located in Atlanta that is known for its extensive art collection?",
+                    "answer": "the High Museum of Art",
+                    "explanation": "The High Museum of Art is located in Atlanta and is known for its extensive art collection."
+                },
+                {
+                    "question": "What is the name of the person who was born in Atlanta and was a major figure in the Civil Rights Movement?",
+                    "answer": "Martin Luther King Jr",
+                    "explanation": "The person who was born in Atlanta and was a major figure in the Civil Rights Movement is Martin Luther King Jr."
+                },
+                {
+                    "question": "What interstate is known to be a major transportation hub in Atlanta?",
+                    "answer": "Interstate 75",
+                    "explanation": "Interstate 75 is known to be a major transportation hub in Atlanta."
+                },
+                {
+                    "question": "What is the name of the state where Atlanta is the capital and most populous city?",
+                    "answer": "Georgia",
+                    "explanation": "The name of the state where Atlanta is the capital and most populous city is Georgia."
+                }
+            ],
+            "hops": [
+                "Coca-Cola",
+                "Atlanta"
+            ]
+        },
+        "Diet Coke": {
+            "term": "Diet Coke",
+            "passage": "Diet Coke is a sugar-free soft drink produced and distributed by The Coca-Cola Company. It was first introduced in the United States on August 9, 1982, as the first new product in the Coca-Cola Company's line since 1886. The product was introduced as a response to the growing concern about obesity and weight gain in the United States during the 1980s. Diet Coke is available in over 160 markets around the world and is offered in a variety of sizes, including 6, 8, 12, 16, and 20-ounce bottles and cans, as well as 2-liter bottles and 12-ounce cans. The beverage is sweetened with aspartame, a low-calorie sweetener, rather than sugar. Diet Coke has been a popular soft drink for decades, and it has become one of the most popular soft drinks in the world. The beverage has undergone several changes in packaging and formula over the years, including a major overhaul in 2018, which saw the introduction of a new logo and a reformulation of the beverage's flavor profile. Despite its popularity, Diet Coke has faced some criticism over the years, particularly with regards to its use of aspartame as a sweetener. Some critics have suggested that the sweetener may be linked to health problems such as cancer, although the scientific evidence to support these claims is limited. Overall, Diet Coke remains a popular and widely consumed soft drink, with a loyal following of fans who enjoy its crisp, refreshing taste and low-calorie formula.",
+            "qae_pairs": [
+                {
+                    "question": "What is the size of the Diet Coke bottles and cans that are available in the market?",
+                    "answer": "12",
+                    "explanation": "The size of the Diet Coke bottles and cans that are available in the market include 6, 8, 12, 16, and 20-ounce bottles and cans, as well as 2-liter bottles and 12-ounce cans."
+                },
+                {
+                    "question": "What is the name of the country where Diet Coke was first introduced in 1982?",
+                    "answer": "the United States",
+                    "explanation": "The name of the country where Diet Coke was first introduced in 1982 is the United States."
+                },
+                {
+                    "question": "What year did Diet Coke undergo a major overhaul, including a new logo and reformulation of the beverage's flavor profile?",
+                    "answer": "2018",
+                    "explanation": "The passage states that Diet Coke underwent a major overhaul in 2018, which included a new logo and a reformulation of the beverage's flavor profile. Therefore, the answer to the question is 2018."
+                },
+                {
+                    "question": "What has been the impact of Diet Coke on people's diets over the decades?",
+                    "answer": "decades",
+                    "explanation": "Diet Coke has had a significant impact on people's diets over the decades since its introduction in 1982. As a sugar-free soft drink, it provides a low-calorie alternative to traditional soft drinks, making it a popular choice for individuals looking to control their calorie intake and manage their weight. In fact, many people who are trying to lose weight or maintain a healthy lifestyle choose to include Diet Coke as part of their diet."
+                },
+                {
+                    "question": "What is the date that Diet Coke was first introduced in the United States as a sugar-free soft drink, according to the passage?",
+                    "answer": "August 9, 1982",
+                    "explanation": "According to the passage, Diet Coke was first introduced in the United States on August 9, 1982."
+                },
+                {
+                    "question": "What is the number of markets in which Diet Coke is available, according to the passage?",
+                    "answer": "16",
+                    "explanation": "According to the passage, Diet Coke is available in over 160 markets around the world."
+                }
+            ],
+            "hops": [
+                "Coca-Cola",
+                "Diet Coke"
+            ]
+        },
+        "HomePod": {
+            "term": "HomePod",
+            "passage": "HomePod is a smart speaker developed by Apple Inc. It was announced on June 5, 2017, and was released on February 9, 2018. The speaker is designed to be a home assistant, with Siri integration, music playback, and the ability to control Apple devices using voice commands. It is also capable of spatial awareness, adjusting its sound output to optimize audio quality based on the room it is in. The HomePod's design features a minimalist aesthetic, with a sleek, seamless shape and a light-up ring that displays different colors depending on the function. It is available in white or space gray, and is compatible with Apple's HomeKit smart home platform. The HomePod is priced at $349 in the United States, and is available in the United States, the United Kingdom, and Australia.",
+            "qae_pairs": [
+                {
+                    "question": "What countries does HomePod support?",
+                    "answer": "the United Kingdom",
+                    "explanation": "HomePod supports the United Kingdom."
+                },
+                {
+                    "question": "What was the release date of the HomePod?",
+                    "answer": "February 9, 2018",
+                    "explanation": "The release date of the HomePod was February 9, 2018."
+                },
+                {
+                    "question": "What country is the HomePod available in?",
+                    "answer": "Australia",
+                    "explanation": "The HomePod is available in three countries: the United States, the United Kingdom, and Australia."
+                },
+                {
+                    "question": "What was the date when Apple announced the release of HomePod?",
+                    "answer": "June 5, 2017",
+                    "explanation": "The date when Apple announced the release of HomePod was June 5, 2017."
+                },
+                {
+                    "question": "What country is the HomePod not available in?",
+                    "answer": "the United States",
+                    "explanation": "The HomePod is not available in the United States."
+                }
+            ],
+            "hops": [
+                "Apple",
+                "HomePod"
+            ]
+        },
+        "iPhone": {
+            "term": "iPhone",
+            "passage": "1. The iPhone is a line of smartphones designed and developed by Apple Inc. 2. The first iPhone was unveiled on January 9, 2007, and its release was announced on June 9, 2007. 3. The original iPhone was released on June 29, 2007, and it featured a 3.5-inch display with a resolution of 320x480 pixels. 4. The iPhone has been a significant player in the smartphone market since its release, and it has been credited with popularizing the smartphone category. 5. The iPhone's success has been driven by a combination of factors, including its intuitive user interface, its high-quality hardware, and its extensive app ecosystem. 6. Over the years, Apple has released numerous models of the iPhone, each with its own unique features and improvements. 7. The most recent iPhone models, the iPhone 12 and the iPhone 12 Pro, were released in October 2020 and feature 5G connectivity, improved cameras, and faster processors. 8. The iPhone is available for purchase through Apple's online store, as well as through various wireless carriers in different countries. 9. The iPhone's popularity has also made it a target for imitation and competition from other smartphone manufacturers, such as Samsung and Google. 10. Despite this competition, the iPhone remains one of the most popular smartphones in the world, with millions of users around the globe.",
+            "qae_pairs": [
+                {
+                    "question": "What was the date when the original iPhone was released, according to the passage?",
+                    "answer": "June 29, 2007",
+                    "explanation": "According to the passage, the original iPhone was released on June 29, 2007."
+                },
+                {
+                    "question": "What was the date when Apple announced the release of the first iPhone?",
+                    "answer": "June 9, 2007",
+                    "explanation": "The date when Apple announced the release of the first iPhone was June 9, 2007."
+                },
+                {
+                    "question": "What was the month and year that the iPhone 12 and iPhone 12 Pro were released according to the passage?",
+                    "answer": "October 2020",
+                    "explanation": "According to the passage, the iPhone 12 and iPhone 12 Pro were released in October 2020."
+                },
+                {
+                    "question": "What was the date when the first iPhone was unveiled?",
+                    "answer": "January 9, 2007",
+                    "explanation": "The first iPhone was unveiled on January 9, 2007."
+                },
+                {
+                    "question": "What is the name of the company that produces the iPhone's biggest competitor?     a. Apple     b. Samsung     c. Google     d. Microsoft     As per the passage, the answer is b. Samsung.",
+                    "answer": "Samsung",
+                    "explanation": "According to the passage, the company that produces the iPhone's biggest competitor is Samsung. This is mentioned in point 9, where it is stated that the iPhone's popularity has also made it a target for imitation and competition from other smartphone manufacturers, such as Samsung and Google. Therefore, the correct answer is option b."
+                }
+            ],
+            "hops": [
+                "Apple",
+                "iPhone"
+            ]
+        },
+        "Macintosh": {
+            "term": "Macintosh",
+            "passage": "1. Macintosh is a line of personal computers designed, developed, and marketed by Apple Inc. 2. The first Macintosh was introduced in 1984, and it was the first commercially successful personal computer to feature a graphical user interface. 3. The Macintosh was a significant event in the history of computing, as it helped to popularize the use of graphical user interfaces and made computers more accessible to the general public. 4. Over the years, the Macintosh has undergone many changes and improvements, including the introduction of the Macintosh Portable in 1989, the PowerBook in 1991, and the iMac in 1998. 5. Today, the Macintosh remains a popular choice for personal computing, and it is widely used in fields such as graphic design, video editing, and music production.",
+            "qae_pairs": [
+                {
+                    "question": "What was the year that the Macintosh was first released?      Answer: 1984.     This question meets the conditions given in the prompt. It contains the term 'Macintosh' in the question and the answer is '1984'.",
+                    "answer": "1984",
+                    "explanation": "The Macintosh was first released in 1984."
+                },
+                {
+                    "question": "What is the name of the new line of portable computers that Apple has recently introduced?     a. Macintosh     b. PowerBook     c. iBook     d. Newton     The answer is b. PowerBook.",
+                    "answer": "PowerBook",
+                    "explanation": "The new line of portable computers that Apple has recently introduced is the PowerBook."
+                },
+                {
+                    "question": "What is the name of the newest model of the Macintosh computer that was released in 2021?  Answer: iMac.",
+                    "answer": "iMac",
+                    "explanation": "The name of the newest model of the Macintosh computer that was released in 2021 is not iMac. While the iMac is a popular model within the Macintosh line, it has not been released in 2021. The most recent release within the Macintosh line is the MacBook Pro, which was updated in October 2020."
+                },
+                {
+                    "question": "What year was the Macintosh Portable introduced, according to the passage?",
+                    "answer": "1989",
+                    "explanation": "According to the passage, the Macintosh Portable was introduced in 1989."
+                }
+            ],
+            "hops": [
+                "Apple",
+                "Macintosh"
+            ]
+        },
+        "Cupertino": {
+            "term": "Cupertino",
+            "passage": "Cupertino is a city in Santa Clara County, California, United States, directly west of San Jose on the western edge of the Santa Clara Valley. The population was 58,402 at the 2010 census. Cupertino is known as the home of Apple Inc.'s corporate headquarters. Cupertino was incorporated as a city in 1955, and has since grown to become a major hub for the technology industry. In addition to Apple, Cupertino is home to many other high-tech companies, including IBM, Symantec, and Hewlett-Packard. The city is named after Arroyo de los Cupertinos, a stream that ran through the area. The city has a total area of 28.6 square miles, of which 28.5 square miles is land and 0.1 square miles is water. Cupertino is located on the southern edge of the San Francisco Bay, and is part of the Silicon Valley region. The city is served by the Cupertino Union School District and the Fremont Union High School District. Cupertino is also home to several parks, including the Memorial Park and the Cupertino Sports Center. The city is known for its high quality of life, and is consistently ranked as one of the best places to live in the United States.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the park in Cupertino that is home to the Memorial?",
+                    "answer": "the Memorial Park",
+                    "explanation": "The name of the park in Cupertino that is home to the Memorial is the Memorial Park."
+                },
+                {
+                    "question": "What year was Cupertino incorporated as a city?",
+                    "answer": "1955",
+                    "explanation": "Cupertino was incorporated as a city in 1955."
+                },
+                {
+                    "question": "What is the name of the school district that serves Cupertino?",
+                    "answer": "the Fremont Union High School District",
+                    "explanation": "The Fremont Union High School District serves Cupertino."
+                },
+                {
+                    "question": "What is the name of the county where Cupertino is located?",
+                    "answer": "Santa Clara County",
+                    "explanation": "The name of the county where Cupertino is located is Santa Clara County."
+                }
+            ],
+            "hops": [
+                "Apple",
+                "Cupertino"
+            ]
+        },
+        "Ronald Wayne": {
+            "term": "Ronald Wayne",
+            "passage": "Ronald Wayne was an American businessman and investor who co-founded Apple Computer with Steve Jobs and Steve Wozniak in 1976. However, he left the company shortly thereafter, selling his shares for $800. Wayne was a childhood friend of Steve Jobs and was instrumental in convincing him to drop out of college and start Apple. He served as the company's first president, but left after just a few weeks due to disagreements with Jobs and Wozniak over the direction of the company. Despite his brief tenure at Apple, Wayne's influence on the company cannot be overstated. He was responsible for naming the company, and his departure allowed Jobs and Wozniak to focus on building the first Apple computer. Today, Wayne is retired and lives in Florida. He has expressed no regrets about leaving Apple, stating that he made the right decision at the time.",
+            "qae_pairs": [
+                {
+                    "question": "What year did Ronald Wayne co-found Apple Computer with Steve Jobs and Steve Wozniak?",
+                    "answer": "1976",
+                    "explanation": "Ronald Wayne co-founded Apple Computer with Steve Jobs and Steve Wozniak in 1976."
+                },
+                {
+                    "question": "What state does Ronald Wayne live in according to the passage?",
+                    "answer": "Florida",
+                    "explanation": "According to the passage, Ronald Wayne lives in Florida."
+                }
+            ],
+            "hops": [
+                "Apple",
+                "Ronald Wayne"
+            ]
+        },
+        "Safari": {
+            "term": "Safari",
+            "passage": "Safari is a web browser developed by Apple Inc. for macOS, iOS, iPadOS, and tvOS. It was first released as part of Mac OS X v10.0 \"Cheetah\" on March 24, 2003, and was later included in iOS v2.0 \"1A603\" on June 28, 2007. Safari is the default browser on Apple devices and is also available for non-Apple devices through the open-source Chromium project. Safari is known for its speed, security, and privacy features. It has a minimalist interface and supports extensions, which can be downloaded from the App Store. Safari also has a built-in Reader mode, which removes ads and other distractions from articles, and a Reading List feature, which allows users to save articles for later reading. Safari has won several awards for its design and performance, including being named the best browser for Mac users by Macworld in 2019. It is also used by a significant number of users worldwide, with a market share of 10.77% as of January 2023.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the event where Safari was first introduced?     Answer: Macworld.     This question meets the conditions given in the passage because it contains the term 'Safari' in the question and the answer is 'Macworld', which is the event where Safari was",
+                    "answer": "Macworld",
+                    "explanation": "The event where Safari was first introduced was Macworld."
+                },
+                {
+                    "question": "What was the date when Safari was first released as part of Mac OS X v10.0 \"Cheetah\"?",
+                    "answer": "March 24, 2003",
+                    "explanation": "The date when Safari was first released as part of Mac OS X v10.0 \"Cheetah\" is March 24, 2003."
+                },
+                {
+                    "question": "What is the operating system that Safari is designed for?     What is the answer to the question that contains the term 'Safari' and requires the answer to be 'macOS'?",
+                    "answer": "macOS",
+                    "explanation": "The operating system that Safari is designed for is macOS."
+                },
+                {
+                    "question": "What was the version of Mac OS X that Safari was first released as part of?",
+                    "answer": "Mac OS X v10.0",
+                    "explanation": "The version of Mac OS X that Safari was first released as part of was Mac OS X v10.0 \"Cheetah\"."
+                },
+                {
+                    "question": "What was the date when Safari was first included in iOS v2.0 \"1A603\"?",
+                    "answer": "June 28, 2007",
+                    "explanation": "According to the passage, Safari was first released as part of Mac OS X v10.0 \"Cheetah\" on March 24, 2003. However, it was also included in iOS v2.0 \"1A603\" on June 28, 2007. Therefore, the correct answer to the question is June 28, 2007."
+                }
+            ],
+            "hops": [
+                "Apple",
+                "Safari"
+            ]
+        },
+        "Steve Wozniak": {
+            "term": "Steve Wozniak",
+            "passage": "Steve Wozniak is an American inventor and technology entrepreneur who co-founded Apple Inc. in 1976, and served as its chief engineer during the development of its first computer, the Apple I. Wozniak's Apple I was the first commercially successful personal computer, and foreshadowed the computing revolution that would change the world. Wozniak was born in San Jose, California, in 1950. He attended the University of California, Berkeley, where he earned a degree in electrical engineering and computer science. While at Berkeley, Wozniak designed and built the Apple I computer as a hobby, and eventually formed Apple with Steve Jobs and Ronald Wayne. Wozniak's design for the Apple I was based on the MOS Technology 6502 microprocessor, which he had learned about while working at Hewlett-Packard. The computer was sold for $666.66, and was the first to feature a color video display and expandability. After leaving Apple in 1985, Wozniak continued to work in the technology industry, founding several companies and investing in others. He has also been involved in various philanthropic efforts, including education and environmental causes. Today, Wozniak is widely regarded as one of the most influential figures in the history of computing, and his contributions to the development of personal computers have had a lasting impact on society.",
+            "qae_pairs": [
+                {
+                    "question": "What city was Steve Wozniak born in and where did he attend university to study electrical engineering and computer science?",
+                    "answer": "San Jose",
+                    "explanation": "Steve Wozniak was born in San Jose, California. He attended the University of California, Berkeley, where he earned a degree in electrical engineering and computer science."
+                },
+                {
+                    "question": "What was the year of birth of Steve Wozniak, as mentioned in the passage?",
+                    "answer": "1950",
+                    "explanation": "The year of birth of Steve Wozniak, as mentioned in the passage, is 1950."
+                },
+                {
+                    "question": "What was the microprocessor used in Steve Wozniak's Apple I computer?",
+                    "answer": "MOS Technology 6502",
+                    "explanation": "The microprocessor used in Steve Wozniak's Apple I computer was the MOS Technology 6502. Wozniak had learned about the microprocessor while working at Hewlett-Packard, and based his design for the Apple I computer on it. The Apple I was the first personal computer to feature a color video display and expandability, and it set the stage for the computing revolution that would change the world."
+                },
+                {
+                    "question": "What is the name of the university where Steve Wozniak earned a degree in electrical engineering and computer science, and where he designed and built the first commercially successful personal computer as a hobby?",
+                    "answer": "the University of California, Berkeley",
+                    "explanation": "The name of the university where Steve Wozniak earned a degree in electrical engineering and computer science, and where he designed and built the first commercially successful personal computer as a hobby is the University of California, Berkeley."
+                },
+                {
+                    "question": "What year did Steve Wozniak leave Apple Inc.?",
+                    "answer": "1985",
+                    "explanation": "According to the passage, Steve Wozniak left Apple Inc. in 1985."
+                },
+                {
+                    "question": "What year did Steve Wozniak co-found Apple Inc.?",
+                    "answer": "1976",
+                    "explanation": "Steve Wozniak co-founded Apple Inc. in 1976."
+                }
+            ],
+            "hops": [
+                "Apple",
+                "Steve Wozniak"
+            ]
+        },
+        "iCloud": {
+            "term": "iCloud",
+            "passage": "iCloud is a cloud computing service developed by Apple Inc. that allows users to store, share, and synchronize data across a range of Apple devices. The service was launched on October 12, 2011, and is built into Apple's iOS, iPadOS, macOS, and tvOS operating systems. iCloud is also available on Microsoft Windows. iCloud provides users with 5GB of free storage, with additional storage available through in-app purchases. iCloud also provides services for backing up and syncing contacts, calendars, mail, photos, and files. iCloud Drive allows users to store files and folders in the cloud, which can be accessed from any device with an internet connection. iCloud also provides a feature called \"Find My\" that allows users to locate lost or stolen devices, remotely erase data from lost devices, and play sound alerts on lost devices to help locate them. iCloud is integrated with Apple's services, such as iTunes, the App Store, and iBooks, allowing users to download content on one device and have it automatically appear on others. iCloud is available in over 100 countries and regions worldwide.",
+            "qae_pairs": [
+                {
+                    "question": "What date was iCloud launched on?",
+                    "answer": "October 12, 2011",
+                    "explanation": "The date that iCloud was launched on is October 12, 2011."
+                },
+                {
+                    "question": "What is the amount of free storage provided by iCloud?",
+                    "answer": "GB",
+                    "explanation": "The amount of free storage provided by iCloud is 5GB."
+                }
+            ],
+            "hops": [
+                "Apple",
+                "iCloud"
+            ]
+        },
+        "California": {
+            "term": "California",
+            "passage": "California is a state in the Pacific Region of the United States. With a total area of 163,696 square miles (423,970 km²), California is the third-largest state in the United States, after Alaska and Texas. It is home to 39.5 million people, making it the most populous state in the United States. The state capital is Sacramento, and the largest city is Los Angeles. California is known for its diverse landscape, which includes coastal beaches, mountains, and deserts. The state's economy is the largest in the United States, with a gross state product of $3.2 trillion. California is a global trendsetter in popular culture, technology, and environmental policy.",
+            "qae_pairs": [
+                {
+                    "question": "What is the capital city of California where the largest city is Los Angeles?",
+                    "answer": "Sacramento",
+                    "explanation": "The capital city of California where the largest city is Los Angeles is Sacramento."
+                },
+                {
+                    "question": "What state is larger than California in terms of total area, but smaller than California in terms of population, and is located in the Pacific Region of the United States?",
+                    "answer": "Alaska",
+                    "explanation": "Alaska is the state that is larger than California in terms of total area, but smaller than California in terms of population, and is located in the Pacific Region of the United States. With a total area of 1,717,854 square miles (4,498,480 km²), Alaska is the largest state in the United States, while California has a total area of 163,696 square miles (423,970 km²)."
+                },
+                {
+                    "question": "What city in California is known for its diverse landscape, mountains, and deserts, and is the largest city in the state?",
+                    "answer": "Los Angeles",
+                    "explanation": "Los Angeles is the city in California that is known for its diverse landscape, mountains, and deserts, and is the largest city in the state."
+                },
+                {
+                    "question": "What region of the United States is California a part of, and what is the answer to the question?",
+                    "answer": "the Pacific Region",
+                    "explanation": "California is a state in the Pacific Region of the United States."
+                }
+            ],
+            "hops": [
+                "Apple",
+                "California"
+            ]
+        },
+        "CTR": {
+            "term": "CTR",
+            "passage": "What is CTR? CTR is an acronym that stands for Click-Through Rate. It is a metric used in digital advertising and marketing to measure the effectiveness of online advertising campaigns for any given website or web page. The CTR measures the ratio of users who click on a specific link to the number of total users who view a page or email. What does CTR measure? CTR measures the effectiveness of online advertising campaigns by measuring the number of clicks generated by a specific link or ad. It is an important metric for advertisers and marketers as it helps them to determine the success of their campaigns and make informed decisions about future advertising strategies. What is the formula for calculating CTR? The formula for calculating CTR is simple. It is calculated by dividing the number of clicks generated by a specific link or ad by the total number of impressions generated by that same link or ad. The result is expressed as a percentage. What is the average CTR for online advertising? The average CTR for online advertising varies depending on the industry and the type of ad. However, the average CTR for display ads is around 0.05% to 0.1% while the average CTR for email marketing is around 2% to 3%. What is the importance of CTR in digital marketing? CTR is an important metric in digital marketing as it helps advertisers and marketers to determine the effectiveness of their online advertising campaigns. By measuring the number of clicks generated by a specific link or ad, advertisers can determine which ads are generating the most traffic and make informed decisions about future advertising strategies.",
+            "qae_pairs": [
+                {
+                    "question": "What is the definition of CTR in digital marketing?",
+                    "answer": "Click-Through Rate",
+                    "explanation": "Click-Through Rate (CTR) is a metric used in digital advertising and marketing to measure the effectiveness of online advertising campaigns for any given website or web page. It measures the ratio of users who click on a specific link to the number of total users who view a page or email. CTR is an important metric for advertisers and marketers as it helps them to determine the success of their campaigns and make informed decisions about future advertising strategies."
+                }
+            ],
+            "hops": [
+                "IBM",
+                "CTR"
+            ]
+        },
+        "Armonk": {
+            "term": "Armonk",
+            "passage": "Armonk is a hamlet and census-designated place (CDP) in the town of North Castle, New York, United States. It is located in the northern part of Westchester County, about 37 miles north of Midtown Manhattan. As of the 2020 census, the CDP had a population of 4,240. Armonk is primarily a residential community with a small central business district. The most notable feature of the area is the IBM Thomas J. Watson Research Center, which is located on a 50-acre campus in the heart of the community. The research center is one of IBM's largest and most important facilities, and it is responsible for much of the company's research and development in areas such as artificial intelligence, cybersecurity, and cloud computing. Armonk is also home to several parks and preserves, including the 1,100-acre North Castle Park, which offers hiking trails, picnic areas, and other recreational opportunities. The town is served by the North Castle Union Free School District, which operates two schools: Armonk Elementary School and North Castle Elementary School. Despite its small size, Armonk has a rich history and a strong sense of community. The town was originally settled in the early 18th century, and it was named after the Armonk family, who were early residents of the area. Today, Armonk remains a quiet and affluent community, with a median household income of over $200,000 and a high percentage of college-educated residents.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the school district that serves the town of Armonk?",
+                    "answer": "the North Castle Union Free School District",
+                    "explanation": "The North Castle Union Free School District serves the town of Armonk."
+                },
+                {
+                    "question": "What is the location of the IBM headquarters?  Answer: Armonk, New York.",
+                    "answer": "New York",
+                    "explanation": "The IBM headquarters is located in Armonk, New York."
+                },
+                {
+                    "question": "What is the name of the park located in Armonk that offers hiking trails, picnic areas, and other recreational opportunities?",
+                    "answer": "North Castle Park",
+                    "explanation": "The park located in Armonk that offers hiking trails, picnic areas, and other recreational opportunities is called North Castle Park."
+                },
+                {
+                    "question": "What is the name of the research center located on a 50-acre campus in the heart of Armonk?",
+                    "answer": "Thomas J. Watson Research Center",
+                    "explanation": "The name of the research center located on a 50-acre campus in the heart of Armonk is the Thomas J. Watson Research Center. This research center is one of IBM's largest and most important facilities, and it is responsible for much of the company's research and development in areas such as artificial intelligence, cybersecurity, and cloud computing."
+                }
+            ],
+            "hops": [
+                "IBM",
+                "Armonk"
+            ]
+        },
+        "New York": {
+            "term": "New York",
+            "passage": "1. New York is a state in the northeastern region of the United States. 2. It is the 4th most populous state in the country, with a population of over 19 million people. 3. The state's capital is Albany, and its largest city is New York City, which is also the most populous city in the United States. 4. New York City is known for its iconic landmarks, such as the Statue of Liberty, Central Park, and Times Square. 5. The state is also home to Niagara Falls, which is a popular tourist destination. 6. New York is a major economic hub, with industries such as finance, entertainment, and technology playing a significant role in its economy. 7. The state is home to several prestigious universities, including Columbia University, Cornell University, and New York University. 8. New York is known for its diverse culture, which is influenced by its large immigrant population. 9. The state has a rich history, having played a significant role in the American Revolution and the Civil War. 10. New York is a popular destination for tourists from around the world, who come to experience its unique blend of history, culture, and modernity.",
+            "qae_pairs": [
+                {
+                    "question": "What is the capital of New York, and what is the answer to the question?",
+                    "answer": "Albany",
+                    "explanation": "The capital of New York is Albany."
+                },
+                {
+                    "question": "What university in New York is known as one of the prestigious institutions of higher learning in the state, and is also home to the famous Cornell Lab of Ornithology?",
+                    "answer": "Cornell University",
+                    "explanation": "Cornell University is a prestigious institution of higher learning in the state of New York and is also home to the famous Cornell Lab of Ornithology."
+                },
+                {
+                    "question": "What is the name of the prestigious university located in New York City that is known for its academic excellence, and is the answer to the question?",
+                    "answer": "Columbia University",
+                    "explanation": "Columbia University is the prestigious university located in New York City that is known for its academic excellence."
+                },
+                {
+                    "question": "What is the name of the iconic park located in the heart of New York City, which is also the most populous city in the United States?",
+                    "answer": "Central Park",
+                    "explanation": "Central Park."
+                }
+            ],
+            "hops": [
+                "IBM",
+                "New York"
+            ]
+        }
+    }
+}

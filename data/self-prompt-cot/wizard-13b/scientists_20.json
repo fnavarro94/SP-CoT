@@ -1,0 +1,1497 @@
+{
+    "first_hops": {
+        "Albert Einstein": {
+            "term": "Albert Einstein",
+            "passage": "Albert Einstein was a German-born theoretical physicist who developed the theory of general relativity, one of the two pillars of modern physics (alongside quantum mechanics). He is best known for his equation E=mc², which has been called the world's most famous equation. He was also a humanitarian who advocated for pacifism and civil rights, and he played a significant role in the development of the atomic bomb, which he later regretted. Einstein was awarded the Nobel Prize in Physics in 1921 for his explanation of the photoelectric effect and his services to Theoretical Physics. He is widely considered one of the most influential scientists of the 20th century and is considered the father of modern physics. Einstein was born in Ulm, Germany on March 14, 1879, and died on April 18, 1955, in Princeton, New Jersey.",
+            "qae_pairs": [
+                {
+                    "question": "'What is the city where Albert Einstein died?'",
+                    "answer": "Princeton",
+                    "explanation": "He was awarded the Nobel Prize in Physics in 1921 for his explanation of the photoelectric effect and his services to Theoretical Physics."
+                },
+                {
+                    "question": "What is the field of study that deals with the principles of physics that have not yet been proven or tested through experimentation?",
+                    "answer": "Theoretical Physics",
+                    "explanation": "Einstein was awarded the Nobel Prize in Physics in 1921 for his explanation of the photoelectric effect and his services to Theoretical Physics."
+                },
+                {
+                    "question": "What is the birthplace of Albert Einstein?",
+                    "answer": "Ulm",
+                    "explanation": "Einstein was born in Ulm, Germany on March 14, 1879."
+                },
+                {
+                    "question": "What is the state where Albert Einstein died?",
+                    "answer": "New Jersey",
+                    "explanation": "He was also a humanitarian who advocated for pacifism and civil rights, and he played a significant role in the development of the atomic bomb, which he later regretted."
+                },
+                {
+                    "question": "Which scientific field studies the behavior of matter and energy on the atomic and subatomic level?",
+                    "answer": "quantum mechanics",
+                    "explanation": "He was also a humanitarian who advocated for pacifism and civil rights, and he played a significant role in the development of the atomic bomb, which he later regretted. Evidence sentence: Einstein was a humanitarian who advocated for pacifism and civil rights."
+                }
+            ],
+            "hops": [
+                "Albert Einstein"
+            ]
+        },
+        "Marie Curie": {
+            "term": "Marie Curie",
+            "passage": "Marie Curie (1867-1934) was a Polish physicist and chemist who conducted pioneering research on radioactivity and discovered the elements polonium and radium. She was the first woman to win a Nobel Prize, the first person and only woman to win two Nobel Prizes in different fields, and the only person to win Nobel Prizes in two different sciences. Curie was born in Warsaw, Poland, and later moved to Paris, France, where she studied physics and mathematics at the Sorbonne. She met her husband, Pierre Curie, while working on her doctorate, and the two of them collaborated on many scientific projects. Together, they discovered polonium and radium, and they also developed techniques for isolating radioactive isotopes. After Pierre's death in 1906, Curie continued her research and became the first woman to become a professor at the University of Paris. She also founded the Curie Institutes in Paris and Warsaw, which continue to be major centers for research on radioactivity. Curie's work on radioactivity had many practical applications, including the development of X-rays and radiation therapy for cancer treatment. However, her work also had significant health consequences for herself and her colleagues, as they were exposed to high levels of radiation without proper protection. Curie's legacy as a scientist and a feminist icon continues to inspire people around the world. She was a pioneer in her field and a champion of women's rights, and her contributions to science have had a lasting impact on many areas of research.",
+            "qae_pairs": [
+                {
+                    "question": "1. Which country did Marie Curie move to in order to study physics and mathematics at the Sorbonne? 2. Which country did Pierre Curie move to in order to continue his research on magnetism after completing his studies at the Polytechnic School in Paris? 3. In which country",
+                    "answer": "France",
+                    "explanation": "1. Marie Curie was born in Warsaw, Poland, and later moved to Paris, France, where she studied physics and mathematics at the Sorbonne."
+                },
+                {
+                    "question": "What year was Marie Curie born and when did she die?",
+                    "answer": "1867-1934",
+                    "explanation": "Curie was born in Warsaw, Poland, and later moved to Paris, France, where she studied physics and mathematics at the Sorbonne."
+                },
+                {
+                    "question": "Which city was Marie Curie born in?",
+                    "answer": "Warsaw",
+                    "explanation": "Curie was born in Warsaw, Poland, and later moved to Paris, France, where she studied physics and mathematics at the Sorbonne."
+                },
+                {
+                    "question": "What year did Pierre Curie die?",
+                    "answer": "1906",
+                    "explanation": "After Pierre's death in 1906, Curie continued her research and became the first woman to become a professor at the University of Paris."
+                }
+            ],
+            "hops": [
+                "Marie Curie"
+            ]
+        },
+        "Isaac Newton": {
+            "term": "Isaac Newton",
+            "passage": "Isaac Newton was an English mathematician, physicist, astronomer, theologian, and author who is widely recognized as one of the most influential scientists in history. He was born on January 4, 1643, in Woolsthorpe, England, and died on March 31, 1727, in Kensington, England. Newton's contributions to science and mathematics include the laws of motion, the law of universal gravitation, and the development of calculus. He is also known for his work in optics, astronomy, and theology. Newton's discoveries and theories laid the foundation for modern physics and mathematics, and his influence can still be seen in many areas of science today.",
+            "qae_pairs": [
+                {
+                    "question": "What country was Isaac Newton born in?",
+                    "answer": "England",
+                    "explanation": "Newton's contributions to science and mathematics include the laws of motion, the law of universal gravitation, and the development of calculus. This sentence is an explanation because it provides information about the specific contributions that Isaac Newton made to science and mathematics."
+                },
+                {
+                    "question": "a) What is the birthplace of Isaac Newton? b) What is the name of the town where Isaac Newton was born? c) What is the name of the city where Isaac Newton died? d) What is the name of the country where Isaac Newton was born?",
+                    "answer": "Woolsthorpe",
+                    "explanation": "Newton's contributions to science and mathematics include the laws of motion, the law of universal gravitation, and the development of calculus. This sentence explains that Isaac Newton made significant contributions to science and mathematics, including the laws of motion, the law of universal gravitation, and the development of calculus."
+                },
+                {
+                    "question": "What is the name of the place where Isaac Newton died?",
+                    "answer": "Kensington",
+                    "explanation": "Isaac Newton was born on January 4, 1643, in Woolsthorpe, England, and died on March 31, 1727, in Kensington, England. Explanation: The passage states that Isaac Newton was born in Woolsthorpe, England, and died in Kensington, England."
+                }
+            ],
+            "hops": [
+                "Isaac Newton"
+            ]
+        },
+        "Charles Darwin": {
+            "term": "Charles Darwin",
+            "passage": "Charles Robert Darwin (12 February 1809 – 19 April 1882) was an English naturalist, geologist and biologist, best known for his contributions to the science of evolution. He established that all species of life have descended over time from common ancestors and, in a joint publication with Alfred Russel Wallace, introduced the term \"evolution\" by means of natural selection. Darwin's scientific discovery is the foundation of modern evolutionary theory, which explains the diversity of life on Earth. His theory of natural selection provided a mechanism by which species evolve through the differential survival and reproduction of individuals with advantageous heritable traits. Darwin's early life was marked by his love of nature and collecting, which led him to pursue a career as a naturalist. He studied at the University of Edinburgh and the University of Cambridge, where he met fellow naturalist and lifelong friend, Joseph Hooker. After graduation, Darwin joined the second voyage of the HMS Beagle as a naturalist, where he collected extensive data on the flora, fauna, and geology of the areas visited. Upon returning to England, Darwin began to write his theory of evolution, which he published in his book On the Origin of Species in 1859. The book was met with both praise and criticism, with many religious groups rejecting the theory as it challenged the traditional view of creationism. Darwin continued to work on his theory and published several other books, including The Descent of Man, which discussed the evolution of humans and their relationship to other animals. He also continued to conduct research on various topics, including the expression of emotions in animals and the formation of coral reefs.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the naturalist who, along with Charles Darwin, introduced the term \"evolution\" by means of natural selection?",
+                    "answer": "Alfred Russel Wallace",
+                    "explanation": "Charles Darwin established that all species of life have descended over time from common ancestors and, in a joint publication with Alfred Russel Wallace, introduced the term evolution by means of natural selection."
+                },
+                {
+                    "question": "\"What is the third planet from the sun in our solar system?\"",
+                    "answer": "Earth",
+                    "explanation": "Darwin's scientific discovery is the foundation of modern evolutionary theory, which explains the diversity of life on Earth."
+                },
+                {
+                    "question": "What is Charles Darwin's date of birth?",
+                    "answer": "12 February 1809",
+                    "explanation": "Charles Darwin's scientific discovery is the foundation of modern evolutionary theory, which explains the diversity of life on Earth. Question: What is the main idea of the passage? Answer: The passage provides a brief overview of Charles Darwin's life and contributions to the field of science, particularly his theory of evolution by natural selection. It highlights his early love of nature and collecting, his education and career as a naturalist, and his publication of On the Origin of Species, which revolutionized the way we understand the diversity of life on Earth."
+                },
+                {
+                    "question": "What is the name of the university where Charles Darwin met his lifelong friend and fellow naturalist, Joseph Hooker?",
+                    "answer": "the University of Cambridge",
+                    "explanation": "After graduation, Darwin joined the second voyage of the HMS Beagle as a naturalist, where he collected extensive data on the flora, fauna, and geology of the areas visited."
+                },
+                {
+                    "question": "What is the name of the university that Charles Darwin studied at?",
+                    "answer": "the University of Edinburgh",
+                    "explanation": "Charles Darwin studied at the University of Edinburgh and the University of Cambridge, where he met fellow naturalist and lifelong friend, Joseph Hooker."
+                },
+                {
+                    "question": "What year did Charles Darwin publish his theory of evolution in his book On the Origin of Species?",
+                    "answer": "1859",
+                    "explanation": "Darwin's scientific discovery is the foundation of modern evolutionary theory, which explains the diversity of life on Earth."
+                },
+                {
+                    "question": "What is the date of Charles Darwin's death?",
+                    "answer": "19 April 1882",
+                    "explanation": "Charles Darwin's scientific discovery is the foundation of modern evolutionary theory, which explains the diversity of life on Earth."
+                }
+            ],
+            "hops": [
+                "Charles Darwin"
+            ]
+        },
+        "Galileo Galilei": {
+            "term": "Galileo Galilei",
+            "passage": "Galileo Galilei (15 February 1564 – 8 January 1642) was an Italian astronomer, physicist, and mathematician who played a key role in the Scientific Revolution during the Renaissance. His achievements include improvements to the telescope and consequent astronomical observations, and support for the Copernican system. Galileo has been called the \"father of observational astronomy\", the \"father of modern physics\", and the \"father of science\". Galileo was born in Pisa, Italy, and educated in the University of Pisa where he initially studied medicine. However, he soon switched to mathematics and natural philosophy. In 1589, he became a professor of mathematics at the University of Pisa, and in 1610, he became a professor of mathematics at the University of Padua. Galileo's most significant contribution to astronomy was his improvement of the telescope. He built a telescope with a magnification of 30x, which allowed him to observe celestial objects with unprecedented clarity and detail. He discovered the four largest moons of Jupiter, observed the phases of Venus, and observed the craters of the Moon. His observations of the moons of Jupiter supported the Copernican system, which placed the Sun at the center of the solar system and the Earth and other planets in orbit around it. Galileo's support for the Copernican system was controversial, as it contradicted the geocentric model of the universe that had been accepted for centuries. In 1632, the Catholic Church declared that the Copernican system was heretical, and Galileo was forced to recant his support for it. He was placed under house arrest for the remainder of his life.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name given to the period of European cultural and intellectual revival that began in Italy during the 14th century and lasted until the 17th century?",
+                    "answer": "Renaissance",
+                    "explanation": "Passage: Galileo Galilei (15 February 1564 – 8 January 1642) was an Italian astronomer, physicist, and mathematician who played a key role in the Scientific Revolution during the Renaissance. Explanation: The passage mentions Galileo Galilei as an Italian astronomer, physicist, and mathematician who played a key role in the Scientific Revolution during the Renaissance."
+                },
+                {
+                    "question": "1. What is the name of the largest planet in our solar system? 2. What is the name of the second planet from the Sun in our solar system? 3. What is the name of the closest planet to the Sun in our solar system? 4. What is the name of the planet",
+                    "answer": "Venus",
+                    "explanation": "Galileo's support for the Copernican system was controversial, as it contradicted the geocentric model of the universe that had been accepted for centuries."
+                },
+                {
+                    "question": "What country is the home of the famous astronomer Galileo Galilei?",
+                    "answer": "Italy",
+                    "explanation": "Galileo Galilei was born in Pisa, Italy, and educated in the University of Pisa where he initially studied medicine. However, he soon switched to mathematics and natural philosophy."
+                },
+                {
+                    "question": "Which institution forced Galileo to recant his support for the Copernican system?",
+                    "answer": "the Catholic Church",
+                    "explanation": "In 1632, the Catholic Church declared that the Copernican system was heretical, and Galileo was forced to recant his support for it. He was placed under house arrest for the remainder of his life."
+                },
+                {
+                    "question": "1. What is the largest planet in the solar system? 2. What is the smallest planet in the solar system? 3. What is the planet closest to the Sun? 4. What is the planet farthest from the Sun? 5. What is the planet with the highest average temperature",
+                    "answer": "Earth",
+                    "explanation": "Galileo Galilei (15 February 1564 – 8 January 1642) was an Italian astronomer, physicist, and mathematician who played a key role in the Scientific Revolution during the Renaissance. His achievements include improvements to the telescope and consequent astronomical observations, and support for the Copernican system. Galileo has been called the father of observational astronomy, the father of modern physics, and the father of science."
+                },
+                {
+                    "question": "What is Galileo Galilei's birthday?",
+                    "answer": "15 February 1564",
+                    "explanation": "Galileo Galilei was born in Pisa, Italy, and educated in the University of Pisa where he initially studied medicine. However, he soon switched to mathematics and natural philosophy."
+                },
+                {
+                    "question": "1. What is the name of the Italian astronomer, physicist, and mathematician who played a key role in the Scientific Revolution during the Renaissance? 2. What is the name of the planet that is the center of the solar system according to the Copernican system? 3.",
+                    "answer": "Sun",
+                    "explanation": "Galileo's support for the Copernican system was controversial, as it contradicted the geocentric model of the universe that had been accepted for centuries."
+                }
+            ],
+            "hops": [
+                "Galileo Galilei"
+            ]
+        },
+        "Stephen Hawking": {
+            "term": "Stephen Hawking",
+            "passage": "Stephen Hawking was a British theoretical physicist, cosmologist, and author who was widely considered to be one of the most brilliant minds of his time. He was born on January 8, 1942, in Oxford, England, and died on March 14, 2018, at the age of 76. Hawking was known for his work on black holes and the origins of the universe, and he made several groundbreaking discoveries in these fields. He was also a popular science communicator, and his book \"A Brief History of Time\" became an international bestseller. Hawking was diagnosed with a rare form of motor neuron disease at the age of 21, and doctors gave him only a few years to live. However, he continued to work and make important contributions to science for decades, using a computerized speech system to communicate. In addition to his scientific work, Hawking was also known for his sense of humor and his willingness to engage with the public. He appeared on several television shows, including \"The Simpsons\" and \"Star Trek: The Next Generation,\" and he even sang a duet with Monty Python's Eric Idle. Hawking's legacy continues to inspire scientists and the public alike, and his contributions to our understanding of the universe will be remembered for generations to come.",
+            "qae_pairs": [
+                {
+                    "question": "In what country was Stephen Hawking born?",
+                    "answer": "England",
+                    "explanation": "Stephen Hawking was born on January 8, 1942, in Oxford, England."
+                },
+                {
+                    "question": "\"Who sang a duet with Stephen Hawking?\"",
+                    "answer": "Eric Idle",
+                    "explanation": "Hawking was known for his work on black holes and the origins of the universe, and he made several groundbreaking discoveries in these fields."
+                },
+                {
+                    "question": "Which city was Stephen Hawking born in?",
+                    "answer": "Oxford",
+                    "explanation": "Hawking was born on January 8, 1942, in Oxford, England. Rationale: The evidence sentence provides a clear and specific answer to the question Which city was Stephen Hawking born in? and is supported by the statement Hawking was born on January 8, 1942, in Oxford, England."
+                }
+            ],
+            "hops": [
+                "Stephen Hawking"
+            ]
+        },
+        "Nikola Tesla": {
+            "term": "Nikola Tesla",
+            "passage": "Nikola Tesla was a Serbian-American inventor, electrical engineer, mechanical engineer, and futurist who is best known for his contributions to the design of the modern alternating current (AC) electricity supply system. Tesla gained experience in telephony and electrical engineering before emigrating to the United States in 1884 to work for Thomas Edison in New York City. He soon struck out on his own with financial backers, setting up laboratories and companies to develop a range of electrical and mechanical devices. His patents earned him a reputation as one of the world's foremost inventors. Tesla made many important discoveries and innovations in the field of electromagnetism in the late 19th and early 20th centuries. He developed the Tesla coil, which is still used today in radio technology and other applications. He also developed the first AC motor and transformer, which helped usher in the Second Industrial Revolution. Tesla's work on wireless communication and the transmission of electrical energy wirelessly, through the use of high-frequency alternating currents, paved the way for the development of modern radio communication and the widespread use of wireless devices. Tesla was also known for his eccentric personality and his showmanship, which often involved demonstrating his inventions with spectacular displays of lightning and electrical arcs. He was a prolific writer and lecturer, and his ideas and predictions about the future of technology and science were often ahead of their time. Tesla died in 1943, but his legacy lives on in the many technologies that he helped to develop and inspire.",
+            "qae_pairs": [
+                {
+                    "question": "\"Who was Nikola Tesla's boss when he first came to the United States in 1884 to work for?\"",
+                    "answer": "Thomas Edison",
+                    "explanation": "Tesla gained experience in telephony and electrical engineering before emigrating to the United States in 1884 to work for Thomas Edison in New York City."
+                },
+                {
+                    "question": "What year did Nikola Tesla emigrate to the United States to work for Thomas Edison in New York City?",
+                    "answer": "1884",
+                    "explanation": "Tesla gained experience in telephony and electrical engineering before emigrating to the United States in 1884 to work for Thomas Edison in New York City."
+                },
+                {
+                    "question": "What year did Nikola Tesla die?",
+                    "answer": "1943",
+                    "explanation": "Tesla made many important discoveries and innovations in the field of electromagnetism in the late 19th and early 20th centuries."
+                },
+                {
+                    "question": "What is the name of the Serbian-American inventor, electrical engineer, mechanical engineer, and futurist who is best known for his contributions to the design of the modern alternating current (AC) electricity supply system?",
+                    "answer": "Tesla",
+                    "explanation": "Tesla gained experience in telephony and electrical engineering before emigrating to the United States in 1884 to work for Thomas Edison in New York City."
+                },
+                {
+                    "question": "What is the abbreviation for?",
+                    "answer": "AC",
+                    "explanation": "Tesla is best known for his contributions to the design of the modern alternating current (AC) electricity supply system."
+                },
+                {
+                    "question": "* What country did Nikola Tesla emigrate to in 1884 to work for Thomas Edison in New York City? * What country did Nikola Tesla gain experience in telephony and electrical engineering before emigrating to? * What country did Nikola",
+                    "answer": "the United States",
+                    "explanation": "Tesla gained experience in telephony and electrical engineering before emigrating to the United States in 1884 to work for Thomas Edison in New York City."
+                }
+            ],
+            "hops": [
+                "Nikola Tesla"
+            ]
+        },
+        "Johannes Kepler": {
+            "term": "Johannes Kepler",
+            "passage": "Johannes Kepler (1571-1630) was a German mathematician, astronomer, and astrologer. He is best known for his laws of planetary motion, which he discovered by analyzing the observations made by his predecessor, Tycho Brahe. Kepler's laws describe the motion of planets around the sun in elliptical orbits, with the sun at one of the foci of the ellipse. Kepler was born in the town of Weil der Stadt, in the duchy of Württemberg, in the Holy Roman Empire. His father was a mercenary who died when Kepler was five years old, leaving his mother to raise him and his siblings. Kepler was a sickly child, and his mother believed that astrology could help cure his illnesses. She consulted with astrologers, and Kepler became interested in the subject at an early age. Kepler attended the University of Tübingen, where he studied mathematics, astronomy, and theology. He later became an assistant to Tycho Brahe, who was the imperial mathematician and astronomer for the Holy Roman Emperor Rudolf II. Brahe had a large observatory in Prague, where he made precise observations of the positions of the planets and stars. After Brahe's death in 1601, Kepler inherited his data and began to analyze it. He realized that the planets did not move in circular orbits, as had been previously believed, but in elliptical orbits with the sun at one of the foci. He also discovered that the speed of the planets was not constant, but varied as they moved along their elliptical paths.",
+            "qae_pairs": [
+                {
+                    "question": "1. What year did Johannes Kepler inherit the data of Tycho Brahe? 2. What year did Johannes Kepler discover the laws of planetary motion? 3. What year did Johannes Kepler die? 4. What year did Johannes Kepler attend the University of Tübingen?",
+                    "answer": "1601",
+                    "explanation": "Kepler was born in the town of Weil der Stadt, in the duchy of Württemberg, in the Holy Roman Empire. His father was a mercenary who died when Kepler was five years old, leaving his mother to raise him and his siblings. Kepler was a sickly child, and his mother believed that astrology could help cure his illnesses. She consulted with astrologers, and Kepler became interested in the subject at an early age."
+                },
+                {
+                    "question": "What is the capital city of the Czech Republic?",
+                    "answer": "Prague",
+                    "explanation": "Kepler was born in the town of Weil der Stadt, in the duchy of Württemberg, in the Holy Roman Empire. His father was a mercenary who died when Kepler was five years old, leaving his mother to raise him and his siblings."
+                },
+                {
+                    "question": "1. Who was Johannes Kepler's predecessor in the field of astronomy? 2. Who was the Holy Roman Emperor during Johannes Kepler's lifetime? 3. What was the name of the town where Johannes Kepler was born? 4. What was the subject that Johannes",
+                    "answer": "Tycho Brahe",
+                    "explanation": "Kepler was born in the town of Weil der Stadt, in the duchy of Württemberg, in the Holy Roman Empire. His father was a mercenary who died when Kepler was five years old, leaving his mother to raise him and his siblings. This sentence provides evidence for Kepler's birthplace and family background."
+                },
+                {
+                    "question": "A. What was the name of the town where Johannes Kepler was born? B. What was the name of the duchy where Kepler was born? C. What was the name of the Holy Roman Emperor for whom Tycho Brahe worked? D. What was the name of the university",
+                    "answer": "Württemberg",
+                    "explanation": "Kepler was born in the town of Weil der Stadt, in the duchy of Württemberg, in the Holy Roman Empire."
+                },
+                {
+                    "question": "What university did Johannes Kepler attend?",
+                    "answer": "the University of Tübingen",
+                    "explanation": "Johannes Kepler was born in the town of Weil der Stadt, in the duchy of Württemberg, in the Holy Roman Empire. His father was a mercenary who died when Kepler was five years old, leaving his mother to raise him and his siblings. Kepler was a sickly child, and his mother believed that astrology could help cure his illnesses. She consulted with astrologers, and Kepler became interested in the subject at an early age."
+                },
+                {
+                    "question": "What is the birth and death year of Johannes Kepler?",
+                    "answer": "1571-1630",
+                    "explanation": "Kepler was born in the town of Weil der Stadt, in the duchy of Württemberg, in the Holy Roman Empire."
+                }
+            ],
+            "hops": [
+                "Johannes Kepler"
+            ]
+        },
+        "Louis Pasteur": {
+            "term": "Louis Pasteur",
+            "passage": "Louis Pasteur was a French chemist and microbiologist who made significant contributions to the fields of microbiology and virology. He is best known for his discoveries in the field of microbiology, including the germ theory of disease and the process of pasteurization. Pasteur was born on December 27, 1822, in Dole, France, and died on September 28, 1895, in Saint-Cloud, France. Pasteur's early work focused on the study of crystallography and the structure of molecules. He later turned his attention to the study of fermentation, which led to his discovery of the role of microorganisms in the process. Pasteur's work on fermentation laid the foundation for the field of microbiology, and he went on to make many other important discoveries in the field. One of Pasteur's most significant contributions to science was his development of the germ theory of disease. This theory states that many diseases are caused by the presence of microorganisms, such as bacteria and viruses, and that these microorganisms can be transmitted from person to person or from animal to person. Pasteur's work on the germ theory of disease helped to revolutionize the field of medicine and led to the development of many new treatments and vaccines. Pasteur also made important contributions to the field of virology, which is the study of viruses. He was one of the first scientists to study viruses and their role in disease, and he developed a method for attenuating viruses, which involves weakening them in order to create a vaccine. This method is still used today to create many vaccines, including those for measles, mumps, and rubella.",
+            "qae_pairs": [
+                {
+                    "question": "What was the date of Louis Pasteur's death?",
+                    "answer": "September 28, 1895",
+                    "explanation": "Pasteur's work on fermentation laid the foundation for the field of microbiology, and he went on to make many other important discoveries in the field. Evidence sentence: Pasteur's work on fermentation laid the foundation for the field of microbiology."
+                },
+                {
+                    "question": "Which country was Louis Pasteur born in?",
+                    "answer": "France",
+                    "explanation": "Pasteur's early work focused on the study of crystallography and the structure of molecules. Answer: Pasteur's early work focused on the study of crystallography and the structure of molecules."
+                }
+            ],
+            "hops": [
+                "Louis Pasteur"
+            ]
+        },
+        "Thomas Edison": {
+            "term": "Thomas Edison",
+            "passage": "Thomas Alva Edison (February 11, 1847 – October 18, 1931) was an American inventor and businessman who developed and patented many devices that greatly influenced life around the world. He is credited with inventing the phonograph, the motion picture camera, and the long-lasting electric light bulb. Edison held 1,093 U.S. patents in his name, as well as many patents in the United Kingdom, France, and Germany. He was one of the first inventors to apply the principles of mass production and large-scale teamwork to the process of invention, and is often credited with the creation of the first industrial research laboratory. Edison was raised in the American Midwest and Canada, and he moved to New York City in 1869. He established his first inventor's laboratory there, where he developed several devices that would improve telegraph communication. Edison later established a laboratory in Menlo Park, New Jersey, where he and his team developed the phonograph, the motion picture camera, and the long-lasting electric light bulb. Edison's inventions contributed significantly to the development of industrialization in the United States and abroad. Edison was also a successful businessman, holding a significant number of patents and establishing the Edison Electric Light Company in 1879. He also founded the Motion Picture Patents Company in 1908, which was a major force in the film industry for several years. Edison was also involved in the development of the electric power industry, and he worked to create a system of electric power distribution using direct current (DC) that would be compatible with his electric light bulbs.",
+            "qae_pairs": [
+                {
+                    "question": "What is the region in the United States where Thomas Edison was raised?",
+                    "answer": "Midwest",
+                    "explanation": "Edison was raised in the American Midwest and Canada, and he moved to New York City in 1869."
+                },
+                {
+                    "question": "What is the name of the laboratory where Thomas Edison and his team developed the phonograph, the motion picture camera, and the long-lasting electric light bulb?",
+                    "answer": "Menlo Park",
+                    "explanation": "Edison established a laboratory in Menlo Park, New Jersey, where he and his team developed the phonograph, the motion picture camera, and the long-lasting electric light bulb."
+                },
+                {
+                    "question": "What was the name of the company that Edison founded in 1879?",
+                    "answer": "the Edison Electric Light Company",
+                    "explanation": "Edison was raised in the American Midwest and Canada, and he moved to New York City in 1869. He established his first inventor's laboratory there, where he developed several devices that would improve telegraph communication. Evidence sentence: Edison was raised in the American Midwest and Canada, and he moved to New York City in 1869."
+                },
+                {
+                    "question": "\"Which year did Edison establish the Edison Electric Light Company?\" Passage about Thomas Edison: Thomas Alva Edison (February 11, 1847 – October 18, 1931) was an American inventor and businessman who developed and",
+                    "answer": "1879",
+                    "explanation": "Edison established the Edison Electric Light Company in 1879."
+                },
+                {
+                    "question": "Which state is home to the Edison Memorial Tower and Museum, which honors the life and work of inventor Thomas Edison?",
+                    "answer": "New Jersey",
+                    "explanation": "Edison was raised in the American Midwest and Canada, and he moved to New York City in 1869. He established his first inventor's laboratory there, where he developed several devices that would improve telegraph communication. Evidence sentence: Edison was raised in the American Midwest and Canada, and he moved to New York City in 1869."
+                },
+                {
+                    "question": "What is the abbreviation for the United States of America?",
+                    "answer": "U.S",
+                    "explanation": "Edison was raised in the American Midwest and Canada, and he moved to New York City in 1869. He established his first inventor's laboratory there, where he developed several devices that would improve telegraph communication."
+                }
+            ],
+            "hops": [
+                "Nikola Tesla",
+                "Thomas Edison"
+            ]
+        },
+        "Rosalind Franklin": {
+            "term": "Rosalind Franklin",
+            "passage": "Rosalind Franklin was an English chemist and X-ray crystallographer who made critical contributions to the discovery of the structure of DNA. Her work on X-ray diffraction images of DNA led to the discovery of its double helix structure by James Watson and Francis Crick. Franklin died of ovarian cancer at the age of 37, before the Nobel Prize was awarded for the discovery of the structure of DNA. Franklin was born in Notting Hill, London, in 1920. She studied physics and chemistry at University of Cambridge, where she received her PhD in physical chemistry in 1948. After completing her doctorate, she worked at King's College London and then at Birkbeck College, University of London. Franklin's work on X-ray crystallography of viruses and coal was groundbreaking, and she was one of the first researchers to use X-ray diffraction to study the structure of DNA. Her work on the structure of viruses such as tobacco mosaic virus and poliovirus provided critical information for the understanding of the mechanism of viral replication. In 1951, Franklin was recruited by Maurice Wilkins to work on the structure of DNA at King's College London. Franklin's X-ray images of DNA were critical to the discovery of its double helix structure by Watson and Crick. However, Watson and Crick did not credit Franklin for her work, and her contributions were largely unrecognized until after her death. Franklin's work on the structure of DNA was also important for the development of molecular biology and genetics.",
+            "qae_pairs": [
+                {
+                    "question": "What year was Rosalind Franklin born?",
+                    "answer": "1920",
+                    "explanation": "Rosalind Franklin was born in Notting Hill, London, in 1920."
+                },
+                {
+                    "question": "Which English chemist and X-ray crystallographer made critical contributions to the discovery of the structure of DNA?",
+                    "answer": "Franklin",
+                    "explanation": "Passage: Franklin's work on X-ray crystallography of viruses and coal was groundbreaking, and she was one of the first researchers to use X-ray diffraction to study the structure of DNA. Explanation: Franklin's work on X-ray crystallography of viruses and coal was groundbreaking, which means that it was innovative and significant."
+                },
+                {
+                    "question": "What year did Rosalind Franklin receive her PhD in physical chemistry from the University of Cambridge?",
+                    "answer": "1948",
+                    "explanation": "Rosalind Franklin was an English chemist and X-ray crystallographer who made critical contributions to the discovery of the structure of DNA."
+                },
+                {
+                    "question": "What was the place of birth of Rosalind Franklin?",
+                    "answer": "Notting Hill",
+                    "explanation": "Rosalind Franklin was born in Notting Hill, London, in 1920."
+                },
+                {
+                    "question": "\"Which scientist, along with James Watson, discovered the structure of DNA in 1953?\"",
+                    "answer": "Francis Crick",
+                    "explanation": "Franklin's work on the structure of DNA was also important for the development of molecular biology and genetics. Rationale: The question asks for the scientist who discovered the structure of DNA in 1953 along with James Watson. The answer is Francis Crick, not Rosalind Franklin. However, the passage mentions that Franklin made critical contributions to the discovery of the structure of DNA, and her work on X-ray crystallography of viruses and coal was groundbreaking."
+                },
+                {
+                    "question": "What university did Rosalind Franklin work at when she was recruited by Maurice Wilkins to work on the structure of DNA?",
+                    "answer": "King's College London",
+                    "explanation": "Franklin was recruited by Maurice Wilkins to work on the structure of DNA at King's College London."
+                }
+            ],
+            "hops": [
+                "Rosalind Franklin"
+            ]
+        },
+        "James Clerk Maxwell": {
+            "term": "James Clerk Maxwell",
+            "passage": "James Clerk Maxwell (13 June 1831 – 5 November 1879) was a Scottish physicist and mathematician. He is best known for his formulation of electromagnetic theory, which describes the behavior of electric and magnetic fields as waves, and for his formulation of the Maxwell's equations, which are a set of partial differential equations that describe the behavior of these fields. Maxwell's equations have been called the \"second great unification in physics\" after the first one realized by Isaac Newton. Maxwell began his career as a professor of physics and mathematics at Marischal College, Aberdeen, Scotland, where he developed his interest in the study of electricity and magnetism. He later became the first Everett Professor of Natural Philosophy at the University of Cambridge, where he continued his research on electromagnetism. Maxwell's contributions to the field of electromagnetism have had a profound impact on modern physics and technology. His equations have been used to develop technologies such as radio, television, and radar, and have also been used to develop the theory of special relativity and the concept of the electromagnetic spectrum. Maxwell's work on electromagnetism was not without controversy, however. His equations predicted the existence of electromagnetic waves, but it was not until 1888 that Heinrich Hertz was able to demonstrate their existence experimentally. Maxwell's equations also predicted the existence of the photon, a particle of light, but it was not until 1905 that Albert Einstein proposed that light was composed of particles. Despite these controversies, Maxwell's work on electromagnetism is widely regarded as one of the most important contributions to the field of physics.",
+            "qae_pairs": [
+                {
+                    "question": "What is the date of birth of James Clerk Maxwell?",
+                    "answer": "13 June 1831",
+                    "explanation": "James Clerk Maxwell (13 June 1831 – 5 November 1879) was a Scottish physicist and mathematician. He is best known for his formulation of electromagnetic theory, which describes the behavior of electric and magnetic fields as waves, and for his formulation of the Maxwell's equations, which are a set of partial differential equations that describe the behavior of these fields. Maxwell's equations have been called the second great unification in physics after the first one realized by Isaac Newton."
+                },
+                {
+                    "question": "Who was the first to demonstrate the existence of electromagnetic waves?",
+                    "answer": "Heinrich Hertz",
+                    "explanation": "Maxwell's equations predicted the existence of electromagnetic waves, but it was not until 1888 that Heinrich Hertz was able to demonstrate their existence experimentally."
+                },
+                {
+                    "question": "\"What is the date of James Clerk Maxwell's death?\"",
+                    "answer": "November 1879",
+                    "explanation": "Maxwell's equations have been called the second great unification in physics after the first one realized by Isaac Newton."
+                },
+                {
+                    "question": "What was James Clerk Maxwell's first academic position?",
+                    "answer": "Marischal College",
+                    "explanation": "James Clerk Maxwell began his career as a professor of physics and mathematics at Marischal College, Aberdeen, Scotland, where he developed his interest in the study of electricity and magnetism."
+                },
+                {
+                    "question": "What is the name of the city where James Clerk Maxwell began his career as a professor of physics and mathematics?",
+                    "answer": "Aberdeen",
+                    "explanation": "James Clerk Maxwell began his career as a professor of physics and mathematics at Marischal College, Aberdeen, Scotland, where he developed his interest in the study of electricity and magnetism."
+                },
+                {
+                    "question": "What year was Heinrich Hertz able to demonstrate the existence of electromagnetic waves experimentally?",
+                    "answer": "1888",
+                    "explanation": "Heinrich Hertz was able to demonstrate the existence of electromagnetic waves experimentally in 1888."
+                }
+            ],
+            "hops": [
+                "James Clerk Maxwell"
+            ]
+        },
+        "Michael Faraday": {
+            "term": "Michael Faraday",
+            "passage": "Michael Faraday (22 September 1791 – 25 August 1867) was an English scientist who contributed significantly to the fields of electromagnetism and electrochemistry. Faraday was born in Newington Butts, which is now a part of the London Borough of Southwark. His family was not well-off, and Faraday had little formal education. However, he was a voracious reader and had a natural curiosity about the world around him. Faraday began his career as an apprentice to a bookbinder, but he soon became interested in science. He attended lectures at the Royal Institution and became a laboratory assistant to the famous chemist, Humphry Davy. Faraday's work with Davy led to his appointment as the Institution's first Fullerian Professor of Chemistry in 1825. Faraday's most important contributions to science were in the fields of electromagnetism and electrochemistry. He discovered electromagnetic induction, which is the principle that an electrical current can be produced in a conductor by varying the magnetic field around it. This discovery led to the development of the electric generator and the electric motor. Faraday also discovered that magnetism and light were related, and he proposed the concept of the electromagnetic field. In addition to his work in electromagnetism and electrochemistry, Faraday made important contributions to the fields of optics and spectroscopy. He discovered the principles of polarization and birefringence, and he developed a method for analyzing the chemical composition of substances based on their spectra. Faraday was a prolific writer and lecturer, and he was known for his ability to explain complex scientific concepts in a way that was accessible to a general audience.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the London Borough in which Newington Butts is now located?",
+                    "answer": "Southwark",
+                    "explanation": "Faraday began his career as an apprentice to a bookbinder, but he soon became interested in science. He attended lectures at the Royal Institution and became a laboratory assistant to the famous chemist, Humphry Davy. Faraday's work with Davy led to his appointment as the Institution's first Fullerian Professor of Chemistry in 1825. Explanation: This evidence sentence explains Faraday's journey from being an apprentice to a bookbinder to becoming a famous scientist."
+                },
+                {
+                    "question": "A) What was Michael Faraday's job at the Royal Institution? B) What was the name of the bookbinding company where Michael Faraday worked as an apprentice? C) What was the name of the chemist who hired Michael Faraday as a laboratory assistant",
+                    "answer": "Fullerian Professor of Chemistry",
+                    "explanation": "Faraday's work with Davy led to his appointment as the Institution's first Fullerian Professor of Chemistry in 1825."
+                },
+                {
+                    "question": "What was the date of Michael Faraday's death?",
+                    "answer": "25 August 1867",
+                    "explanation": "Michael Faraday (22 September 1791 – 25 August 1867) was an English scientist who contributed significantly to the fields of electromagnetism and electrochemistry."
+                },
+                {
+                    "question": "What was the year that Michael Faraday became the first Fullerian Professor of Chemistry at the Royal Institution?",
+                    "answer": "1825",
+                    "explanation": "Faraday's work with Davy led to his appointment as the Institution's first Fullerian Professor of Chemistry in 1825."
+                },
+                {
+                    "question": "* What was Michael Faraday's birthday? * What was the date of Michael Faraday's death? * What was the year of Michael Faraday's birth? * What was the location of Michael Faraday's birth?",
+                    "answer": "22 September 1791",
+                    "explanation": "Faraday's work with Davy led to his appointment as the Institution's first Fullerian Professor of Chemistry in 1825."
+                },
+                {
+                    "question": "What was Michael Faraday's mentor and the person who appointed him as the Fullerian Professor of Chemistry in 1825?",
+                    "answer": "Humphry Davy",
+                    "explanation": "Faraday's work with Davy led to his appointment as the Institution's first Fullerian Professor of Chemistry in 1825."
+                }
+            ],
+            "hops": [
+                "Michael Faraday"
+            ]
+        },
+        "Wilhelm Conrad R": {
+            "term": "Wilhelm Conrad R",
+            "passage": "Röntgen and his discovery of X-rays. Wilhelm Conrad R. Röntgen (1845-1923) was a German physicist who, on November 8, 1895, produced and detected electromagnetic radiation in a wavelength range that was later named X-rays. Röntgen's discovery occurred during his experiments with cathode ray tubes, which he had been studying for several years. He noticed a fluorescent glow from a nearby chemical substance, barium platinocyanide, and realized that the glow was caused by a previously unknown form of radiation. Röntgen named the new radiation X-rays because it was an unknown type of radiation that was unknown at the time. He also discovered that X-rays could pass through solid objects, including human flesh and bone, and produce an image on a fluorescent screen. This led to the development of the field of radiography, which uses X-rays to produce images of the inside of the human body. Röntgen's discovery of X-rays revolutionized medicine and had a profound impact on society. It allowed doctors to diagnose and treat diseases that were previously invisible to the human eye. X-rays also had military applications, as they could penetrate the armor of tanks and other vehicles, leading to the development of armor that was resistant to X-rays. Röntgen's discovery was recognized with numerous awards and honors, including the first Nobel Prize in Physics in 1901. He continued to work in the field of physics and made several other important contributions, including the discovery of the Roentgen ray, which is a type of gamma ray.",
+            "qae_pairs": [
+                {
+                    "question": "What year did Wilhelm Conrad R. Röntgen receive the first Nobel Prize in Physics?",
+                    "answer": "1901",
+                    "explanation": "Röntgen's discovery of X-rays revolutionized medicine and had a profound impact on society. It allowed doctors to diagnose and treat diseases that were previously invisible to the human eye. Explanation: The evidence sentence explains the impact of Wilhelm Conrad R. Röntgen's discovery of X-rays on society and medicine. It states that his discovery revolutionized medicine and allowed doctors to diagnose and treat diseases that were previously invisible to the human eye."
+                }
+            ],
+            "hops": [
+                "Wilhelm Conrad R"
+            ]
+        },
+        "Gregor Mendel": {
+            "term": "Gregor Mendel",
+            "passage": "Gregor Mendel (1822-1884) was an Austrian monk and scientist who is often called the \"father of genetics.\" Mendel conducted experiments with pea plants, crossing different varieties to see how their traits were passed down to their offspring. He discovered that certain traits were dominant and others were recessive, and that they were passed down in predictable patterns. Mendel's work laid the foundation for modern genetics and helped to establish the basic principles of heredity. Mendel was born in a small village in what is now the Czech Republic, and he entered the Augustinian monastery in Brno at the age of 21. He spent most of his life as a monk, working as a teacher and scientist at the monastery's high school. Mendel's experiments with pea plants began in the 1850s, and he spent many years carefully observing and recording the results. Mendel's work was largely ignored during his lifetime, but it was rediscovered in the early 20th century by other scientists. Today, Mendel is recognized as one of the most important figures in the history of science, and his work is still studied by geneticists and biologists around the world. Mendel's principles of heredity have been confirmed by countless experiments and observations, and they continue to be a fundamental part of our understanding of genetics.",
+            "qae_pairs": [
+                {
+                    "question": "What is the country that Gregor Mendel was born in?",
+                    "answer": "the Czech Republic",
+                    "explanation": "Mendel was born in a small village in what is now the Czech Republic, and he entered the Augustinian monastery in Brno at the age of 21."
+                },
+                {
+                    "question": "1. How long did Mendel spend observing and recording the results of his experiments with pea plants? 2. How long did Mendel spend as a monk in the Augustinian monastery in Brno? 3. How long did Mendel's work go un",
+                    "answer": "many years",
+                    "explanation": "1. Mendel spent many years carefully observing and recording the results of his experiments with pea plants. Question: 1. How long did Mendel spend observing and recording the results of his experiments with pea plants? 2. How long did Mendel spend as a monk in the Augustinian monastery in Brno? 3. How long did Mendel's work go unrecognized? 4. What is Mendel's contribution to genetics? 5. Where was Mendel born? 6."
+                }
+            ],
+            "hops": [
+                "Gregor Mendel"
+            ]
+        },
+        "Werner Heisenberg": {
+            "term": "Werner Heisenberg",
+            "passage": "Werner Heisenberg (1901-1976) was a German physicist who is best known for his work on quantum mechanics. He was awarded the Nobel Prize in Physics in 1932 for his discovery of the principle of quantum mechanics, which describes the behavior of matter and energy at the atomic and subatomic level. Heisenberg was born in Würzburg, Germany, and studied physics at the University of Munich and the University of Göttingen. He received his doctorate in 1923 under the supervision of Max Born, and went on to work at the University of Leipzig and the University of Berlin. Heisenberg's most famous contribution to physics is the uncertainty principle, which states that it is impossible to simultaneously measure the position and momentum of a particle with absolute precision. This principle has far-reaching implications for the behavior of matter and energy at the atomic and subatomic level, and has led to the development of new fields of study such as quantum field theory and quantum computing. In addition to his work on quantum mechanics, Heisenberg also made important contributions to the development of nuclear physics. He was a key figure in the development of the first atomic bomb during World War II, and later became a vocal advocate for peace and disarmament. Heisenberg was also a prolific writer and lecturer, and his ideas had a profound influence on the development of modern physics. He was a member of the Nazi Party during World War II, but later renounced his membership and became a vocal critic of the regime. He died in Munich in 1976 at the age of 75.",
+            "qae_pairs": [
+                {
+                    "question": "\"In which German city was Werner Heisenberg born?\"",
+                    "answer": "Würzburg",
+                    "explanation": "Heisenberg was born in Würzburg, Germany, and studied physics at the University of Munich and the University of Göttingen."
+                },
+                {
+                    "question": "\"What year did Werner Heisenberg receive his doctorate?\"",
+                    "answer": "1923",
+                    "explanation": "Heisenberg was born in Würzburg, Germany, and studied physics at the University of Munich and the University of Göttingen. He received his doctorate in 1923 under the supervision of Max Born, and went on to work at the University of Leipzig and the University of Berlin. Evidence sentence: Heisenberg received his doctorate in 1923."
+                },
+                {
+                    "question": "What country was Werner Heisenberg born in?",
+                    "answer": "Germany",
+                    "explanation": "Werner Heisenberg was born in Würzburg, Germany."
+                },
+                {
+                    "question": "1. Who was Werner Heisenberg's doctoral advisor? 2. Who is the subject of the passage? 3. Who was Heisenberg's collaborator on the development of the first atomic bomb? 4. Who renounced their Nazi Party membership and became a critic of",
+                    "answer": "Max Born",
+                    "explanation": "1. Heisenberg was born in Würzburg, Germany, and studied physics at the University of Munich and the University of Göttingen. He received his doctorate in 1923 under the supervision of Max Born, and went on to work at the University of Leipzig and the University of Berlin. Passage 2: Passage about Marie Curie: Marie Curie (1867-1934) was a Polish-born physicist and chemist who made groundbreaking discoveries in the field of radioactivity."
+                },
+                {
+                    "question": "What university did Werner Heisenberg study physics at?",
+                    "answer": "the University of Munich",
+                    "explanation": "He received his doctorate in 1923 under the supervision of Max Born, and went on to work at the University of Leipzig and the University of Berlin. Explanation: This sentence provides evidence that Werner Heisenberg studied physics at the University of Munich, as it states that he received his doctorate under the supervision of Max Born at that university."
+                },
+                {
+                    "question": "What year was Werner Heisenberg born and what year did he die?",
+                    "answer": "1901-1976",
+                    "explanation": "Werner Heisenberg (1901-1976) was a German physicist who is best known for his work on quantum mechanics."
+                },
+                {
+                    "question": "\"Which year was Werner Heisenberg awarded the Nobel Prize in Physics?\"",
+                    "answer": "1932",
+                    "explanation": "He was awarded the Nobel Prize in Physics in 1932 for his discovery of the principle of quantum mechanics, which describes the behavior of matter and energy at the atomic and subatomic level."
+                }
+            ],
+            "hops": [
+                "Werner Heisenberg"
+            ]
+        },
+        "Niels Bohr": {
+            "term": "Niels Bohr",
+            "passage": "Niels Bohr was a Danish physicist who made fundamental contributions to understanding the structure of atoms and the behavior of electrons. He was awarded the Nobel Prize in Physics in 1922 for his work on the structure of atoms and the application of quantum mechanics to the understanding of chemical bonds. Bohr was born in Copenhagen, Denmark, in 1885. He studied physics and mathematics at the University of Copenhagen, where he was influenced by the work of physicist Hendrik Lorentz. After completing his studies, Bohr worked as a research assistant at the University of Manchester, where he worked with physicist Ernest Rutherford. In 1911, Bohr developed his model of the atom, which proposed that electrons orbited the nucleus in specific energy levels. This model helped to explain the spectral lines of atoms, which had previously been a mystery. Bohr's model also introduced the concept of quantization, which stated that electrons could only occupy certain energy levels. In addition to his work on the structure of atoms, Bohr also made significant contributions to the development of quantum mechanics. He was one of the founders of the Copenhagen School of quantum mechanics, which developed the principles of wave-particle duality and complementarity. Bohr's work had a significant impact on the development of modern physics. His model of the atom helped to explain the behavior of atoms and the chemical bonds between them. His contributions to quantum mechanics helped to lay the foundation for the development of new technologies, such as transistors and lasers. Bohr died in 1962, at the age of 77. He was a respected and influential figure in the world of physics, and his work continues to be studied and built upon by scientists today.",
+            "qae_pairs": [
+                {
+                    "question": "A) Who was Niels Bohr's mentor? B) Who was Niels Bohr's research assistant? C) Who was Niels Bohr's colleague at the University of Manchester? D) Who was Niels Bohr's collaborator in the development of",
+                    "answer": "Hendrik Lorentz",
+                    "explanation": "Niels Bohr was awarded the Nobel Prize in Physics in 1922 for his work on the structure of atoms and the application of quantum mechanics to the understanding of chemical bonds."
+                },
+                {
+                    "question": "What is the name of the group of physicists who developed the principles of wave-particle duality and complementarity?",
+                    "answer": "the Copenhagen School",
+                    "explanation": "Passage: In addition to his work on the structure of atoms, Bohr also made significant contributions to the development of quantum mechanics. He was one of the founders of the Copenhagen School of quantum mechanics, which developed the principles of wave-particle duality and complementarity. Evidence sentence: Bohr was one of the founders of the Copenhagen School of quantum mechanics, which developed the principles of wave-particle duality and complementarity."
+                },
+                {
+                    "question": "What was Niels Bohr's first job after completing his studies?",
+                    "answer": "the University of Manchester",
+                    "explanation": "Bohr was born in Copenhagen, Denmark, in 1885. He studied physics and mathematics at the University of Copenhagen, where he was influenced by the work of physicist Hendrik Lorentz. After completing his studies, Bohr worked as a research assistant at the University of Manchester, where he worked with physicist Ernest Rutherford. Question: Where did Niels Bohr work as a research assistant after completing his studies?"
+                },
+                {
+                    "question": "1. Who did Niels Bohr work with as a research assistant? 2. Who was the founder of the Copenhagen School of quantum mechanics? 3. Who was the first person to develop a model of the atom? 4. Who developed the concept of quantization? '",
+                    "answer": "Ernest Rutherford",
+                    "explanation": "Bohr's model also introduced the concept of quantization, which stated that electrons could only occupy certain energy levels."
+                },
+                {
+                    "question": "What year was Niels Bohr awarded the Nobel Prize in Physics?",
+                    "answer": "1922",
+                    "explanation": "Niels Bohr was awarded the Nobel Prize in Physics in 1922 for his work on the structure of atoms and the application of quantum mechanics to the understanding of chemical bonds."
+                },
+                {
+                    "question": "What year was Niels Bohr born?",
+                    "answer": "1885",
+                    "explanation": "Bohr was born in Copenhagen, Denmark, in 1885. He studied physics and mathematics at the University of Copenhagen, where he was influenced by the work of physicist Hendrik Lorentz. Answer: Bohr was born in Copenhagen, Denmark, in 1885."
+                },
+                {
+                    "question": "What is the study of the behavior of particles at the atomic and subatomic level?",
+                    "answer": "quantum mechanics",
+                    "explanation": "Passage: In addition to his work on the structure of atoms, Bohr also made significant contributions to the development of quantum mechanics. He was one of the founders of the Copenhagen School of quantum mechanics, which developed the principles of wave-particle duality and complementarity. Evidence sentence: Bohr's work had a significant impact on the development of modern physics. His model of the atom helped to explain the behavior of atoms and the chemical bonds between them."
+                },
+                {
+                    "question": "What year did Niels Bohr die?",
+                    "answer": "1962",
+                    "explanation": "Bohr's model also introduced the concept of quantization, which stated that electrons could only occupy certain energy levels."
+                }
+            ],
+            "hops": [
+                "Niels Bohr"
+            ]
+        },
+        "Richard Feynman": {
+            "term": "Richard Feynman",
+            "passage": "Richard Phillips Feynman was an American physicist known for his work in the field of quantum mechanics, the theory of quantum electrodynamics and the parton model. He was a Nobel Prize laureate in Physics in 1965 for his work on the development of the theory of quantum electrodynamics. Feynman was born on May 11, 1918, in New York City, to Jewish immigrant parents. He grew up in Queens, New York, and showed an early aptitude for mathematics and science. He attended the Massachusetts Institute of Technology (MIT) where he received his Bachelor's degree in 1939 and his Ph.D. in 1942. During World War II, Feynman worked on the Manhattan Project, where he was part of the team that developed the first atomic bomb. After the war, he returned to academia, becoming a professor of Theoretical Physics at the California Institute of Technology (Caltech) in 1950. Feynman's work on quantum mechanics and particle physics was groundbreaking, and he was known for his ability to explain complex scientific concepts in simple terms. He was also a popularizer of science, known for his books and lectures, including his famous 1959 lecture series \"The Feynman Lectures on Physics,\" which became a classic textbook in the field. In addition to his scientific work, Feynman was also known for his adventurous spirit and his love of life. He was an accomplished musician and artist, and he enjoyed playing pranks and telling stories.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the university where Richard Feynman received his Bachelor's degree?",
+                    "answer": "MIT",
+                    "explanation": "Feynman was born on May 11, 1918, in New York City, to Jewish immigrant parents. He grew up in Queens, New York, and showed an early aptitude for mathematics and science. He attended the Massachusetts Institute of Technology (MIT) where he received his Bachelor's degree in 1939 and his Ph.D. in 1942."
+                },
+                {
+                    "question": "What was Richard Feynman's role in World War II?",
+                    "answer": "the Manhattan Project",
+                    "explanation": "Feynman worked on the Manhattan Project, where he was part of the team that developed the first atomic bomb."
+                },
+                {
+                    "question": "What year did Richard Feynman give his famous lecture series \"The Feynman Lectures on Physics\"?",
+                    "answer": "1959",
+                    "explanation": "Feynman's work on quantum mechanics and particle physics was groundbreaking, and he was known for his ability to explain complex scientific concepts in simple terms."
+                },
+                {
+                    "question": "What is the name of the university where Richard Feynman worked as a professor of Theoretical Physics?",
+                    "answer": "Caltech",
+                    "explanation": "During World War II, Feynman worked on the Manhattan Project, where he was part of the team that developed the first atomic bomb. This sentence is an evidence sentence because it provides specific information about Feynman's work on the Manhattan Project during World War II, which is relevant to understanding his background and contributions to science."
+                },
+                {
+                    "question": "What is Richard Feynman known for?",
+                    "answer": "quantum electrodynamics",
+                    "explanation": "Feynman was known for his work in the field of quantum mechanics, the theory of quantum electrodynamics and the parton model."
+                },
+                {
+                    "question": "What year did Richard Feynman become a professor of Theoretical Physics at the California Institute of Technology (Caltech)?",
+                    "answer": "1950",
+                    "explanation": "Feynman was known for his ability to explain complex scientific concepts in simple terms."
+                },
+                {
+                    "question": "What is the capital of New York?",
+                    "answer": "New York City",
+                    "explanation": "Feynman was born on May 11, 1918, in New York City, to Jewish immigrant parents."
+                },
+                {
+                    "question": "What year did Richard Feynman receive the Nobel Prize in Physics?",
+                    "answer": "1965",
+                    "explanation": "Feynman was born on May 11, 1918, in New York City, to Jewish immigrant parents. Explanation: The passage explains that Feynman was born in 1918 in New York City to Jewish immigrant parents."
+                }
+            ],
+            "hops": [
+                "Richard Feynman"
+            ]
+        },
+        "Erwin Schr": {
+            "term": "Erwin Schr",
+            "passage": "Erwin Schrödinger was an Austrian physicist who developed a number of fundamental concepts in quantum mechanics. He is best known for his development of the Schrödinger equation, which describes how the wave function of a physical system changes over time. This equation is a central tool in quantum mechanics and has been used to explain a wide range of phenomena, from the behavior of atoms and molecules to the properties of solids and liquids. Schrödinger was also a pioneer in the development of the many-worlds interpretation of quantum mechanics, which posits that every possible outcome of a quantum measurement actually occurs in a separate universe. This interpretation has been the subject of much debate and controversy in the scientific community, but it remains an important part of the ongoing discussion about the nature of quantum mechanics. In addition to his work in quantum mechanics, Schrödinger was also interested in the philosophy of science and wrote several influential books on the subject. He was a strong advocate for the idea that science should be based on empirical evidence and that scientific theories should be judged by their ability to make accurate predictions about the world. Overall, Erwin Schrödinger was a highly influential figure in the development of modern physics and his contributions to the field continue to be studied and debated by scientists today.",
+            "qae_pairs": [
+                {
+                    "question": "What is the study of the behavior of matter and energy at the atomic and subatomic level?",
+                    "answer": "quantum mechanics",
+                    "explanation": "Passage: Erwin Schrödinger was an Austrian physicist who developed a number of fundamental concepts in quantum mechanics. He is best known for his development of the Schrödinger equation, which describes how the wave function of a physical system changes over time. This equation is a central tool in quantum mechanics and has been used to explain a wide range of phenomena, from the behavior of atoms and molecules to the properties of solids and liquids."
+                }
+            ],
+            "hops": [
+                "Erwin Schr"
+            ]
+        },
+        "Carl Sagan": {
+            "term": "Carl Sagan",
+            "passage": "Carl Sagan was an American astronomer, cosmologist, astrophysicist, astrobiologist, author, science popularizer, and science communicator in astronomy and other natural sciences. He was born in Brooklyn, New York, on November 9, 1934, and died on December 20, 1996, at the age of 62. Sagan was a pioneer in the study of exoplanets and also played a significant role in the Mariner, Voyager, and Galileo spacecraft missions. He was also known for his work on the search for extraterrestrial intelligence (SETI). Sagan was a prolific author and co-wrote the novel \"Contact\" which was later adapted into a film. He was also known for his television series \"Cosmos: A Personal Voyage\" which was widely watched and praised for its ability to make science accessible to the general public. Sagan was a strong advocate for the scientific method and the importance of science in society. He was awarded numerous honors and awards for his contributions to science and science communication, including the Pulitzer Prize for General Nonfiction in 1978 and the National Science Foundation's Public Service Award in 1994.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the organization that awarded Carl Sagan the Public Service Award in 1994?",
+                    "answer": "the National Science Foundation's",
+                    "explanation": "Carl Sagan was awarded the Pulitzer Prize for General Nonfiction in 1978 and the National Science Foundation's Public Service Award in 1994 for his contributions to science and science communication."
+                },
+                {
+                    "question": "Which city is Carl Sagan born in?",
+                    "answer": "Brooklyn",
+                    "explanation": "He was also known for his work on the search for extraterrestrial intelligence (SETI)."
+                },
+                {
+                    "question": "What year did Carl Sagan win the Pulitzer Prize for General Nonfiction?",
+                    "answer": "1978",
+                    "explanation": "Sagan was a pioneer in the study of exoplanets and also played a significant role in the Mariner, Voyager, and Galileo spacecraft missions."
+                }
+            ],
+            "hops": [
+                "Carl Sagan"
+            ]
+        }
+    },
+    "second_hops": {
+        "Princeton": {
+            "term": "Princeton",
+            "passage": "Princeton is a university town in Mercer County, New Jersey, United States, located 45 miles (72 km) south of New York City, and 60 miles (97 km) northeast of Philadelphia. The town is best known as the location of Princeton University, one of the world's most prestigious universities, and has been home to many notable alumni and faculty members. The university was founded in 1746 as the College of New Jersey, and is one of the nine colonial colleges established before the American Revolution. It is the fourth-oldest institution of higher education in the United States and one of the country's oldest colleges. Princeton is also home to Princeton University Art Museum, which has a collection of over 72,000 works of art that range from ancient to contemporary. The museum is located on the campus of Princeton University and is free to the public.",
+            "qae_pairs": [
+                {
+                    "question": "What is the year that Princeton University was founded?",
+                    "answer": "1746",
+                    "explanation": "Princeton University was founded in 1746 as the College of New Jersey."
+                },
+                {
+                    "question": "What is the county that is home to Princeton University, which was founded in 1746 as the College of New Jersey and is one of the nine colonial colleges established before the American Revolution?",
+                    "answer": "Mercer County",
+                    "explanation": "The town is best known as the location of Princeton University, one of the world's most prestigious universities, and has been home to many notable alumni and faculty members. Explanation: The passage states that Princeton is a university town in Mercer County, New Jersey, United States, and is best known as the location of Princeton University, which is one of the world's most prestigious universities and has been home to many notable alumni and faculty members."
+                }
+            ],
+            "hops": [
+                "Albert Einstein",
+                "Princeton"
+            ]
+        },
+        "Theoretical Physics": {
+            "term": "Theoretical Physics",
+            "passage": "Theoretical physics is a branch of physics that employs mathematical models and abstractions of physical systems to rationalize, explain and predict natural phenomena. This is in contrast to experimental physics, which uses experimental tools to probe these phenomena. Theoretical physics has its roots in ancient Greece, where the works of Aristotle and Euclid laid the foundation for the development of mathematical models of the natural world. Theoretical physics was further advanced by the works of Sir Isaac Newton and Albert Einstein, who developed the laws of motion and the theory of relativity, respectively. Today, theoretical physics is a highly specialized field that encompasses a wide range of subfields, including particle physics, quantum mechanics, general relativity, and string theory. Theoretical physicists use mathematical tools such as differential equations, integral calculus, and complex analysis to develop and solve these models. They also use computer simulations to visualize and analyze the behavior of these models. Theoretical physics has many practical applications, including the development of new technologies, the understanding of the behavior of materials at the atomic and subatomic level, and the study of the universe as a whole.",
+            "qae_pairs": [
+                {
+                    "question": "What is the relationship between quantum mechanics and theoretical physics?",
+                    "answer": "quantum mechanics",
+                    "explanation": "Theoretical physics is a branch of physics that employs mathematical models and abstractions of physical systems to rationalize, explain and predict natural phenomena."
+                },
+                {
+                    "question": "What ancient Greek philosopher is considered to be the father of theoretical physics, and what are some of his notable contributions to the field?",
+                    "answer": "Aristotle",
+                    "explanation": "Theoretical physics has its roots in ancient Greece, where the works of Aristotle and Euclid laid the foundation for the development of mathematical models of the natural world."
+                }
+            ],
+            "hops": [
+                "Albert Einstein",
+                "Theoretical Physics"
+            ]
+        },
+        "Ulm": {
+            "term": "Ulm",
+            "passage": "Ulm is a city in the federal German state of Baden-Württemberg, situated on the River Danube. It is the capital of the district of Ulm and is the largest city in the region of Swabia. With a population of around 120,000, it is also the twelfth largest city in the state. Ulm is known for its impressive Gothic minster, which is the tallest church in the world, with a spire reaching a height of 161.5 meters. The minster was built between the 14th and 19th centuries and is a UNESCO World Heritage Site. The city is also home to the Ulm University, which was founded in 1967 and is one of the youngest universities in Germany. It has around 9,000 students and offers a wide range of courses in subjects such as engineering, computer science, and economics. Ulm has a rich history, dating back to the Roman era. The city was an important trading center during the Middle Ages and was a member of the Hanseatic League. It was also heavily bombed during World War II, but has since been rebuilt and now boasts a modern city center with a variety of shops, restaurants, and cultural attractions. Overall, Ulm is a fascinating city with a rich history and culture, and is well worth a visit for anyone interested in architecture, history, or higher education.",
+            "qae_pairs": [
+                {
+                    "question": "What region is Ulm located in?",
+                    "answer": "Swabia",
+                    "explanation": "Ulm is known for its impressive Gothic minster, which is the tallest church in the world, with a spire reaching a height of 161.5 meters. Answer: Ulm is known for its impressive Gothic minster, which is the tallest church in the world, with a spire reaching a height of 161.5 meters."
+                },
+                {
+                    "question": "What was the significance of Ulm in the Hanseatic League?",
+                    "answer": "the Hanseatic League",
+                    "explanation": "Ulm was an important trading center during the Middle Ages and was a member of the Hanseatic League. Explanation: The passage states that Ulm was an important trading center during the Middle Ages and was a member of the Hanseatic League. This suggests that Ulm played a significant role in the Hanseatic League, which was a powerful trading network that dominated trade in Northern Europe during the Middle Ages."
+                },
+                {
+                    "question": "What is the state that Ulm is located in?",
+                    "answer": "Baden-Württemberg",
+                    "explanation": "Ulm is the capital of the district of Ulm and is the largest city in the region of Swabia. Rationale: The evidence sentence clearly states that Ulm is the capital of the district of Ulm and is the largest city in the region of Swabia."
+                },
+                {
+                    "question": "What year was Ulm University founded?",
+                    "answer": "1967",
+                    "explanation": "Ulm is known for its impressive Gothic minster, which is the tallest church in the world, with a spire reaching a height of 161.5 meters."
+                }
+            ],
+            "hops": [
+                "Albert Einstein",
+                "Ulm"
+            ]
+        },
+        "New Jersey": {
+            "term": "New Jersey",
+            "passage": "New Jersey is a state in the Northeastern and Middle Atlantic regions of the United States. It is bordered on the north and east by New York State, on the southeast and south by the Atlantic Ocean, on the west by Pennsylvania, and on the southwest by Delaware. New Jersey is the fourth-smallest state but the 11th-most populous, with 8.7 million residents as of 2017, and the most densely populated state in the United States. New Jersey is divided into 21 counties, the smallest and most densely populated county being Hudson County and the largest being Burlington County. New Jersey's geography is diverse, with the Highlands containing the state's highest peak, and the Pine Barrens, a forest and wetland environment. New Jersey has a humid continental climate, with temperatures averaging between 24°F in January to 76°F in July. The state has a strong economy with a focus on finance, pharmaceuticals, telecommunications, and tourism. New Jersey's industrial base includes pharmaceuticals, chemicals, and food processing. New Jersey has a significant presence in the technology and telecommunications industries, including the telecommunications hub in Woolworth Building in downtown Newark. The state's tourism industry is centered around Atlantic City, which is known for its casinos, and the Jersey Shore, a string of seaside towns along the Atlantic Ocean.",
+            "qae_pairs": [
+                {
+                    "question": "What is the largest county in New Jersey?",
+                    "answer": "Burlington County",
+                    "explanation": "New Jersey is divided into 21 counties, the smallest and most densely populated county being Hudson County and the largest being Burlington County."
+                },
+                {
+                    "question": "What is the telecommunications hub in New Jersey?",
+                    "answer": "Newark",
+                    "explanation": "New Jersey has a significant presence in the technology and telecommunications industries, including the telecommunications hub in Woolworth Building in downtown Newark."
+                },
+                {
+                    "question": "What is the climate type of New Jersey?",
+                    "answer": "humid continental",
+                    "explanation": "New Jersey has a humid continental climate, with temperatures averaging between 24°F in January to 76°F in July."
+                }
+            ],
+            "hops": [
+                "Nikola Tesla",
+                "Thomas Edison",
+                "New Jersey"
+            ]
+        },
+        "France": {
+            "term": "France",
+            "passage": "1. France is a country located in Western Europe. 2. It is the third-largest country in Europe, after Russia and Ukraine. 3. France has a population of approximately 67 million people. 4. It is a unitary semi-presidential republic with its capital in Paris. 5. France is a developed country with the world's seventh-largest economy by nominal GDP. 6. It is a member of the United Nations, the European Union, the Eurozone, the World Trade Organization, and the G7. 7. France is known for its rich culture, history, and art. 8. It is home to many famous landmarks, including the Eiffel Tower, the Louvre Museum, and the Palace of Versailles. 9. France is also known for its cuisine, wine, and fashion. 10. The French language is widely spoken in France and is an official language in over 29 countries.",
+            "qae_pairs": [
+                {
+                    "question": "What is the capital of France?",
+                    "answer": "Paris",
+                    "explanation": "It is a developed country with the world's seventh-largest economy by nominal GDP. Answer: France is a developed country with the world's seventh-largest economy by nominal GDP."
+                },
+                {
+                    "question": "In which international organization is France a member?",
+                    "answer": "the United Nations",
+                    "explanation": "France is a developed country with the world's seventh-largest economy by nominal GDP."
+                },
+                {
+                    "question": "In what region of Europe is France located?",
+                    "answer": "Western Europe",
+                    "explanation": "France is a developed country with the world's seventh-largest economy by nominal GDP. Answer: France is a developed country with the world's seventh-largest economy by nominal GDP."
+                },
+                {
+                    "question": "What is the name of the famous museum located in Paris, France?",
+                    "answer": "the Louvre Museum",
+                    "explanation": "France is known for its rich culture, history, and art. It is home to many famous landmarks, including the Eiffel Tower, the Louvre Museum, and the Palace of Versailles. This evidence sentence explains that France is known for its rich culture, history, and art, and it is home to many famous landmarks, including the Eiffel Tower, the Louvre Museum, and the Palace of Versailles."
+                }
+            ],
+            "hops": [
+                "Louis Pasteur",
+                "France"
+            ]
+        },
+        "Warsaw": {
+            "term": "Warsaw",
+            "passage": "Warsaw is the capital and largest city of Poland. It stands on the Vistula River in east-central Poland and its population is officially estimated at 1.75 million residents within the city limits, with 3.1 million in the metropolitan area. The city's history dates back to the 13th century when it was founded as a small fishing village. Over the centuries, Warsaw has grown to become one of Europe's most beautiful and dynamic cities, with a rich cultural heritage and a thriving modern economy. Today, Warsaw is a major political, economic, and cultural center of Poland and Central Europe, and it is home to many national institutions and government agencies, as well as to a wide range of museums, theaters, and other cultural venues. The city is also known for its vibrant nightlife, with a wide variety of bars, clubs, and restaurants to choose from.",
+            "qae_pairs": [
+                {
+                    "question": "What was the century in which Warsaw was founded as a small fishing village?",
+                    "answer": "the 13th century",
+                    "explanation": "The city's history dates back to the 13th century when it was founded as a small fishing village."
+                },
+                {
+                    "question": "What country is Warsaw the capital of?",
+                    "answer": "Poland",
+                    "explanation": "Warsaw is the capital and largest city of Poland."
+                },
+                {
+                    "question": "What is the name of the river that flows through Warsaw, the capital of Poland?",
+                    "answer": "the Vistula River",
+                    "explanation": "Warsaw is the capital and largest city of Poland. It stands on the Vistula River in east-central Poland The evidence sentence is Warsaw is the capital and largest city of Poland. It stands on the Vistula River in east-central Poland. This sentence explains that Warsaw is the capital and largest city of Poland, and it is located on the Vistula River in east-central Poland."
+                }
+            ],
+            "hops": [
+                "Marie Curie",
+                "Warsaw"
+            ]
+        },
+        "England": {
+            "term": "England",
+            "passage": "1. England is a country that is part of the United Kingdom. 2. It shares land borders with Scotland to the north and Wales to the west. 3. The capital of England is London, which is also the capital of the United Kingdom. 4. The population of England is around 55 million people. 5. The English language, which is spoken in many countries around the world, originated in England. 6. England is known for its rich history and culture, including its contributions to literature, art, music, and sports. 7. Some of the most famous landmarks in England include Stonehenge, the Tower of London, and Buckingham Palace. 8. England is also home to many universities, including the University of Oxford and the University of Cambridge, which are among the oldest and most prestigious universities in the world. 9. The economy of England is diverse and includes industries such as finance, manufacturing, and tourism. 10. England is a popular tourist destination, with millions of visitors each year drawn to its rich history, culture, and natural beauty.",
+            "qae_pairs": [
+                {
+                    "question": "What is the capital of England?",
+                    "answer": "London",
+                    "explanation": "The English language, which is spoken in many countries around the world, originated in England."
+                },
+                {
+                    "question": "What university is located in England and is considered one of the oldest and most prestigious universities in the world?",
+                    "answer": "the University of Oxford",
+                    "explanation": "The English language, which is spoken in many countries around the world, originated in England."
+                },
+                {
+                    "question": "What country shares a land border with England to the north?",
+                    "answer": "Scotland",
+                    "explanation": "Passage: The capital of England is London, which is also the capital of the United Kingdom. Answer: The capital of England is London."
+                }
+            ],
+            "hops": [
+                "Stephen Hawking",
+                "England"
+            ]
+        },
+        "Woolsthorpe": {
+            "term": "Woolsthorpe",
+            "passage": "Woolsthorpe is a village and civil parish in the South Kesteven district of Lincolnshire, England. It is situated approximately 10 miles (16 km) north-west from the city and county town of Lincoln, and 2 miles (3 km) south-west from the town of Grantham. The village is best known as the birthplace of Sir Isaac Newton, who was born in the manor house in 1643. The house, which is now a museum, is open to the public and contains many of Newton's original possessions. The village also has a church, St. Mary's, which dates back to the 12th century. The church contains a number of interesting features, including a 14th-century font and a 15th-century rood screen. The village has a population of around 300 people and is surrounded by farmland and countryside.",
+            "qae_pairs": [
+                {
+                    "question": "What is the age of St. Mary's church in Woolsthorpe?",
+                    "answer": "the 12th century",
+                    "explanation": "The village also has a church, St. Mary's, which dates back to the 12th century."
+                },
+                {
+                    "question": "What is the age of the 14th-century font in St. Mary's church in Woolsthorpe?",
+                    "answer": "14th-century",
+                    "explanation": "The church contains a number of interesting features, including a 14th-century font and a 15th-century rood screen. This sentence explains that St. Mary's church in Woolsthorpe has a 14th-century font and a 15th-century rood screen, which are both interesting features."
+                },
+                {
+                    "question": "What is the year of birth of Woolsthorpe?",
+                    "answer": "1643",
+                    "explanation": "The village is best known as the birthplace of Sir Isaac Newton, who was born in the manor house in 1643."
+                },
+                {
+                    "question": "What is the name of the church in Woolsthorpe, where Sir Isaac Newton was born?",
+                    "answer": "St. Mary's",
+                    "explanation": "The village also has a church, St. Mary's, which dates back to the 12th century."
+                }
+            ],
+            "hops": [
+                "Isaac Newton",
+                "Woolsthorpe"
+            ]
+        },
+        "Kensington": {
+            "term": "Kensington",
+            "passage": "Kensington is a district in the Royal Borough of Kensington and Chelsea in West London, England, located 2.5 miles (4.0 km) west of Charing Cross. It is a fashionable and affluent area, with many upmarket shops and restaurants. The area is home to many museums, including the Victoria and Albert Museum, the Natural History Museum, and the Science Museum, which are collectively known as the \"Museum Quarter\". Kensington is also home to Kensington Palace, the official residence of several members of the British Royal Family, including the Duke and Duchess of Cambridge and the Duke and Duchess of Sussex. The area is known for its green spaces, including Holland Park and Kensington Gardens, which are popular with tourists and locals alike. The area is also home to the Royal Albert Hall, a concert venue that hosts a range of events throughout the year.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the borough that Kensington is located in?",
+                    "answer": "the Royal Borough",
+                    "explanation": "Kensington is a district in the Royal Borough of Kensington and Chelsea in West London, England, located 2.5 miles (4.0 km) west of Charing Cross. This sentence explains that Kensington is a district in the Royal Borough of Kensington and Chelsea, which is a borough in West London, England. It also provides the location of Kensington in relation to Charing Cross."
+                },
+                {
+                    "question": "What is the name of the museum located in Kensington that is dedicated to the study of natural history?",
+                    "answer": "the Natural History Museum",
+                    "explanation": "Kensington is a district in the Royal Borough of Kensington and Chelsea in West London, England, located 2.5 miles (4.0 km) west of Charing Cross. It is a fashionable and affluent area, with many upmarket shops and restaurants. The area is home to many museums, including the Victoria and Albert Museum, the Natural History Museum, and the Science Museum, which are collectively known as the Museum Quarter."
+                }
+            ],
+            "hops": [
+                "Isaac Newton",
+                "Kensington"
+            ]
+        },
+        "the University of Edinburgh": {
+            "term": "the University of Edinburgh",
+            "passage": "The University of Edinburgh is a public research university in Edinburgh, Scotland. It was founded in 1582 and is the sixth oldest university in the English-speaking world and one of Scotland's ancient universities. The university is deeply embedded in the fabric of the city, with many of its buildings in the historic Old Town. The university played a major role in leading Edinburgh to become one of the major cultural and intellectual centres of Europe in the 18th century. The university has been associated with many famous names, including Adam Smith, David Hume, Joseph Black, James Clerk Maxwell, Charles Darwin, and Sir Arthur Conan Doyle. The university has been ranked among the top 50 universities in the world by various university rankings.",
+            "qae_pairs": [
+                {
+                    "question": "Who is the famous economist associated with the University of Edinburgh, and is not Charles Darwin?",
+                    "answer": "Adam Smith",
+                    "explanation": "The university is deeply embedded in the fabric of the city, with many of its buildings in the historic Old Town."
+                }
+            ],
+            "hops": [
+                "Charles Darwin",
+                "the University of Edinburgh"
+            ]
+        },
+        "Renaissance": {
+            "term": "Renaissance",
+            "passage": "The Renaissance was a period of European history, from the 14th to the 17th century, that marked the transition from the Middle Ages to modern times. It began in Italy in the late 13th century and spread to the rest of Europe in the following centuries. The term \"Renaissance\" comes from the French word \"renaître,\" which means \"to be reborn.\" The Renaissance was a time of great cultural, artistic, and scientific achievements, and it is often seen as the beginning of the modern era. During this time, there was a renewed interest in the classical culture of ancient Greece and Rome, and many artists and thinkers sought to revive and improve upon the knowledge and techniques of the past. The Renaissance also saw the development of new artistic techniques, such as linear perspective and chiaroscuro, which revolutionized the way artists approached painting and sculpture. In addition to art, the Renaissance was also a time of great scientific and intellectual advancements, with figures such as Leonardo da Vinci and Galileo Galilei making groundbreaking discoveries in fields such as anatomy, physics, and astronomy. Overall, the Renaissance was a period of great change and innovation that had a profound impact on the course of European history.",
+            "qae_pairs": [
+                {
+                    "question": "What was the time period of the Renaissance?",
+                    "answer": "the 14th to the 17th century",
+                    "explanation": "The Renaissance was a period of European history, from the 14th to the 17th century, that marked the transition from the Middle Ages to modern times."
+                },
+                {
+                    "question": "What new artistic technique did the Renaissance see the development of that revolutionized the way artists approached painting and sculpture? (Avoid the following entities in the question: Galileo Galilei).",
+                    "answer": "linear",
+                    "explanation": "The Renaissance was a time of great cultural, artistic, and scientific achievements, and it is often seen as the beginning of the modern era."
+                }
+            ],
+            "hops": [
+                "Galileo Galilei",
+                "Renaissance"
+            ]
+        },
+        "Italy": {
+            "term": "Italy",
+            "passage": "Italy (Italian: Italia [iˈtaːlja]), officially the Italian Republic (Italian: Repubblica Italiana [reˈpubblika itaˈljaːna]), is a country in Southern Europe. Located in the heart of the Mediterranean Sea, Italy shares open land borders with France, Switzerland, Austria, Slovenia, San Marino and Vatican City. Italy covers an area of 301,338 km² (116,347 sq mi) and has a largely temperate climate; due to its shape, it is often referred to in Italy as lo Stivale (the Boot). With 61 million inhabitants, it is the 4th most populous EU member state. Italy is also the 8th most populous country in Europe and the 17th most populous in the world.",
+            "qae_pairs": [
+                {
+                    "question": "What body of water is Italy surrounded by?",
+                    "answer": "the Mediterranean Sea",
+                    "explanation": "Italy covers an area of 301,338 km² (116,347 sq mi) and has a largely temperate climate; due to its shape, it is often referred to in Italy as lo Stivale (the Boot). This evidence sentence explains that Italy is located in the Mediterranean Sea and is often referred to as the Boot because of its shape."
+                },
+                {
+                    "question": "What is the nickname for Italy that refers to its shape?",
+                    "answer": "Stivale",
+                    "explanation": "Italy covers an area of 301,338 km² (116,347 sq mi) and has a largely temperate climate; due to its shape, it is often referred to in Italy as lo Stivale (the Boot). Explanation: The evidence sentence is Italy covers an area of 301,338 km² (116,347 sq mi) and has a largely temperate climate; due to its shape, it is often referred to in Italy as lo Stivale (the Boot)."
+                }
+            ],
+            "hops": [
+                "Galileo Galilei",
+                "Italy"
+            ]
+        },
+        "Sun": {
+            "term": "Sun",
+            "passage": "The Sun is the star at the center of the Solar System. It is a nearly perfect sphere of hot plasma, with internal convective motion that generates a magnetic field via a dynamo process. It is by far the most important source of energy for life on Earth. Its diameter is about 1.39 million kilometers, or 109 times that of Earth, and its mass is about 330,000 times that of Earth. About three quarters of the Sun's mass consists of hydrogen (by mass), with most of the rest helium. The Sun is a G-type main-sequence star (G2V) based on its spectral class, and is informally referred to as a yellow dwarf. It formed about 4.6 billion years ago from the gravitational collapse of a molecular cloud. Most of the Sun's mass is in the form of hydrogen (about 74%), with most of the rest helium (about 24%), and the remaining 2% consisting of trace quantities of heavier elements. The Sun's magnetic field is generated by a dynamo process, and has a complex structure, with regions of high and low field strength at different latitudes and longitudes. The Sun's magnetic field gives rise to many phenomena, including sunspots, solar flares, and coronal mass ejections. The Sun's magnetic field also interacts with the Earth's magnetic field, which can lead to auroras and other phenomena. The Sun's interior is divided into several layers, including the core, the radiation zone, and the convection zone. The core is the region where nuclear fusion reactions occur, and is surrounded by the radiation zone, where the plasma is still hot but has lost most of its energy through radiation.",
+            "qae_pairs": [
+                {
+                    "question": "What is the estimated time when the Sun was formed?",
+                    "answer": "years ago",
+                    "explanation": "The Sun is a G-type main-sequence star (G2V) based on its spectral class, and is informally referred to as a yellow dwarf. It formed about 4.6 billion years ago from the gravitational collapse of a molecular cloud."
+                }
+            ],
+            "hops": [
+                "Galileo Galilei",
+                "Sun"
+            ]
+        },
+        "Thomas Edison": {
+            "term": "Thomas Edison",
+            "passage": "Thomas Alva Edison (February 11, 1847 – October 18, 1931) was an American inventor and businessman who developed and patented many devices that greatly influenced life around the world. He is credited with inventing the phonograph, the motion picture camera, and the long-lasting electric light bulb. Edison held 1,093 U.S. patents in his name, as well as many patents in the United Kingdom, France, and Germany. He was one of the first inventors to apply the principles of mass production and large-scale teamwork to the process of invention, and is often credited with the creation of the first industrial research laboratory. Edison was raised in the American Midwest and Canada, and he moved to New York City in 1869. He established his first inventor's laboratory there, where he developed several devices that would improve telegraph communication. Edison later established a laboratory in Menlo Park, New Jersey, where he and his team developed the phonograph, the motion picture camera, and the long-lasting electric light bulb. Edison's inventions contributed significantly to the development of industrialization in the United States and abroad. Edison was also a successful businessman, holding a significant number of patents and establishing the Edison Electric Light Company in 1879. He also founded the Motion Picture Patents Company in 1908, which was a major force in the film industry for several years. Edison was also involved in the development of the electric power industry, and he worked to create a system of electric power distribution using direct current (DC) that would be compatible with his electric light bulbs.",
+            "qae_pairs": [
+                {
+                    "question": "What is the region in the United States where Thomas Edison was raised?",
+                    "answer": "Midwest",
+                    "explanation": "Edison was raised in the American Midwest and Canada, and he moved to New York City in 1869."
+                },
+                {
+                    "question": "What is the name of the laboratory where Thomas Edison and his team developed the phonograph, the motion picture camera, and the long-lasting electric light bulb?",
+                    "answer": "Menlo Park",
+                    "explanation": "Edison established a laboratory in Menlo Park, New Jersey, where he and his team developed the phonograph, the motion picture camera, and the long-lasting electric light bulb."
+                },
+                {
+                    "question": "What was the name of the company that Edison founded in 1879?",
+                    "answer": "the Edison Electric Light Company",
+                    "explanation": "Edison was raised in the American Midwest and Canada, and he moved to New York City in 1869. He established his first inventor's laboratory there, where he developed several devices that would improve telegraph communication. Evidence sentence: Edison was raised in the American Midwest and Canada, and he moved to New York City in 1869."
+                },
+                {
+                    "question": "\"Which year did Edison establish the Edison Electric Light Company?\" Passage about Thomas Edison: Thomas Alva Edison (February 11, 1847 – October 18, 1931) was an American inventor and businessman who developed and",
+                    "answer": "1879",
+                    "explanation": "Edison established the Edison Electric Light Company in 1879."
+                },
+                {
+                    "question": "Which state is home to the Edison Memorial Tower and Museum, which honors the life and work of inventor Thomas Edison?",
+                    "answer": "New Jersey",
+                    "explanation": "Edison was raised in the American Midwest and Canada, and he moved to New York City in 1869. He established his first inventor's laboratory there, where he developed several devices that would improve telegraph communication. Evidence sentence: Edison was raised in the American Midwest and Canada, and he moved to New York City in 1869."
+                },
+                {
+                    "question": "What is the abbreviation for the United States of America?",
+                    "answer": "U.S",
+                    "explanation": "Edison was raised in the American Midwest and Canada, and he moved to New York City in 1869. He established his first inventor's laboratory there, where he developed several devices that would improve telegraph communication."
+                }
+            ],
+            "hops": [
+                "Nikola Tesla",
+                "Thomas Edison"
+            ]
+        },
+        "Tesla": {
+            "term": "Tesla",
+            "passage": "Tesla was a Serbian-American inventor, electrical engineer, and futurist who is best known for his contributions to the design of the modern alternating current (AC) electricity supply system. Born and raised in the Austro-Hungarian Empire, Tesla received an advanced education in engineering and physics in the 1870s and went on to work for a variety of companies, including Thomas Edison's in the United States. He soon struck out on his own, however, and began developing a range of innovative electrical devices and systems. Tesla's most famous invention was the Tesla coil, a high-frequency transformer that could produce millions of volts of electricity. He used this device to conduct a range of experiments, including the creation of artificial lightning and the transmission of electrical energy wirelessly. Tesla also made important contributions to the development of X-ray technology and was a pioneer in the field of robotics. Despite his many achievements, Tesla struggled financially throughout his life and was often overshadowed by his rival, Thomas Edison. He died in 1943, largely forgotten by the public but still revered by many scientists and engineers for his groundbreaking work. Today, Tesla is remembered as one of the most important inventors and visionaries of the modern era, and his legacy continues to inspire new generations of scientists and engineers.",
+            "qae_pairs": [
+                {
+                    "question": "What year did Tesla pass away?",
+                    "answer": "1943",
+                    "explanation": "Tesla struggled financially throughout his life and was often overshadowed by his rival, Thomas Edison. He died in 1943, largely forgotten by the public but still revered by many scientists and engineers for his groundbreaking work."
+                },
+                {
+                    "question": "Example of a question that meets all the conditions: In what decade did Tesla receive an advanced education in engineering and physics?",
+                    "answer": "the 1870s",
+                    "explanation": "Tesla received an advanced education in engineering and physics in the 1870s and went on to work for a variety of companies, including Thomas Edison's in the United States."
+                }
+            ],
+            "hops": [
+                "Nikola Tesla",
+                "Tesla"
+            ]
+        },
+        "Prague": {
+            "term": "Prague",
+            "passage": "Prague (/ˈprɑːɡ/; Czech: Praha [ˈpraɦa] ( listen)) is the capital and largest city of the Czech Republic. It is located in the north-west of the country on the Vltava river. The city has a population of approximately 1.3 million, while its metropolitan area is estimated to have a population of nearly 2 million. Prague has a rich history, dating back to the 9th century. It has been the seat of the Roman Catholic Archdiocese of Prague since its establishment in the 10th century, and has been influenced by a variety of religious and cultural movements throughout its history. The city played an important role in the Bohemian Reformation, and was an important center of the Protestant movement during the 16th century. Prague is home to a number of famous landmarks, including the Charles Bridge, the Old Town Square, and the Prague Castle. The city is also known for its rich cultural scene, with a number of museums, theaters, and music venues. Prague is also a popular tourist destination, with millions of visitors each year. In recent years, Prague has undergone significant development, with a number of new buildings and infrastructure projects being completed. The city is also home to a number of major international companies, and is an important center of business and finance in Central Europe.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the famous square located in the heart of Prague's Old Town?",
+                    "answer": "the Old Town Square",
+                    "explanation": "Prague is home to a number of famous landmarks, including the Charles Bridge, the Old Town Square, and the Prague Castle."
+                }
+            ],
+            "hops": [
+                "Johannes Kepler",
+                "Prague"
+            ]
+        },
+        "Tycho Brahe": {
+            "term": "Tycho Brahe",
+            "passage": "Tycho Brahe (14 December 1546 – 24 October 1601) was a Danish nobleman, astronomer, and writer known for his accurate and comprehensive astronomical and planetary observations. He was born in the then Danish island of Hven and is best known for his observations of a supernova that he documented in 1572, which was later named after him. Brahe was also the first person to measure the angle between the planets and the sun, and he developed a new instrument, the astronomical quadrant, which was more accurate than previous instruments. He was also the first to measure the position and movement of a celestial object, the moon, with any degree of precision. Brahe's observations were the basis for Johannes Kepler's laws of planetary motion. Brahe was also a patron of the arts and a collector of rare books and artifacts. He died in Prague, Czech Republic, at the age of 54.",
+            "qae_pairs": [
+                {
+                    "question": "What was the name of the island where Tycho Brahe was born?",
+                    "answer": "Hven",
+                    "explanation": "He was born in the then Danish island of Hven and is best known for his observations of a supernova that he documented in 1572, which was later named after him. This sentence is an evidence sentence because it provides information about Tycho Brahe's birthplace and his most famous achievement, which are both relevant to the topic of the passage."
+                },
+                {
+                    "question": "What was the date of birth of Tycho Brahe, the Danish nobleman, astronomer, and writer known for his accurate and comprehensive astronomical and planetary observations?",
+                    "answer": "14 December 1546",
+                    "explanation": "He was born in the then Danish island of Hven and is best known for his observations of a supernova that he documented in 1572, which was later named after him. Explanation: The passage states that Tycho Brahe was born on 14 December 1546 on the then Danish island of Hven, which is an evidence sentence that explains his date of birth."
+                }
+            ],
+            "hops": [
+                "Johannes Kepler",
+                "Tycho Brahe"
+            ]
+        },
+        "Württemberg": {
+            "term": "Württemberg",
+            "passage": "Württemberg is a state in southwestern Germany with a population of 10.1 million people. It is located in the south of the country and is bordered by the states of Baden-Württemberg, Bavaria, Hesse, and Rhineland-Palatinate. The state capital is Stuttgart, which is also the largest city in the state. Württemberg was first mentioned in the 10th century and was a member of the Holy Roman Empire. In the 19th century, it became a kingdom and was a member of the German Empire. Today, Württemberg is an important economic and cultural center in Germany. It is known for its high-tech industry, particularly in the fields of automotive and aerospace engineering. The state is also home to several universities, including the University of Stuttgart and the University of Tübingen. Württemberg is also famous for its wine, particularly its white wines made from the Trollinger grape. The state is divided into 35 districts, each with its own unique culture and history.",
+            "qae_pairs": [
+                {
+                    "question": "What was the year Württemberg was first mentioned in?",
+                    "answer": "the 10th century",
+                    "explanation": "Württemberg was first mentioned in the 10th century."
+                }
+            ],
+            "hops": [
+                "Johannes Kepler",
+                "Württemberg"
+            ]
+        },
+        "the University of Tübingen": {
+            "term": "the University of Tübingen",
+            "passage": "The University of Tübingen is a public research university located in the city of Tübingen, Baden-Württemberg, Germany. It was founded in 1477, making it one of the oldest universities in Germany and all of Europe. The university has 23 faculties and over 27,000 students, making it one of the largest universities in Germany. It is known for its strong research programs in the humanities, social sciences, natural sciences, and medicine. The university has produced many notable alumni, including several Nobel laureates and prominent figures in politics, literature, and science. The university's main campus is located in the heart of Tübingen, a picturesque town known for its medieval architecture and vibrant student culture. The university also has several satellite campuses throughout the region.",
+            "qae_pairs": [
+                {
+                    "question": "What is the strongest research program at the University of Tübingen in terms of faculties?",
+                    "answer": "social sciences",
+                    "explanation": "It is known for its strong research programs in the humanities, social sciences, natural sciences, and medicine."
+                },
+                {
+                    "question": "What year was the University of Tübingen founded?",
+                    "answer": "1477",
+                    "explanation": "It was founded in 1477, making it one of the oldest universities in Germany and all of Europe. The passage provides evidence that the University of Tübingen was founded in 1477, which makes it one of the oldest universities in Germany and all of Europe."
+                },
+                {
+                    "question": "What is the location of the University of Tübingen?",
+                    "answer": "Germany",
+                    "explanation": "The University of Tübingen is a public research university located in the city of Tübingen, Baden-Württemberg, Germany."
+                }
+            ],
+            "hops": [
+                "Johannes Kepler",
+                "the University of Tübingen"
+            ]
+        },
+        "Midwest": {
+            "term": "Midwest",
+            "passage": "The Midwest is a region in the United States that extends from the Great Lakes westward to the Mississippi River. It is characterized by its flat landscape and its extensive agricultural production, with crops such as corn, soybeans, and wheat being grown in large quantities. The region is also known for its friendly and welcoming people, who are often associated with the \"Midwestern values\" of hard work, honesty, and hospitality. The Midwest is home to several major cities, including Chicago, Detroit, and St. Louis, which are known for their cultural and economic significance. The region is also known for its strong manufacturing industry, particularly in the automotive sector. Despite its reputation for being a quiet and conservative region, the Midwest is also home to a vibrant arts and culture scene, with numerous museums, theaters, and music venues.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the river that serves as the eastern border of the Midwest region in the United States?",
+                    "answer": "the Mississippi River",
+                    "explanation": "The Midwest is a region in the United States that extends from the Great Lakes westward to the Mississippi River. This sentence explains that the Mississippi River serves as the eastern border of the Midwest region in the United States."
+                },
+                {
+                    "question": "What city in the Midwest is known for its extensive automotive industry and is the birthplace of Motown music?",
+                    "answer": "Detroit",
+                    "explanation": "The Midwest is home to several major cities, including Chicago, Detroit, and St. Louis, which are known for their cultural and economic significance. Explanation: This sentence explains that the Midwest is home to several major cities, including Detroit, which are known for their cultural and economic significance."
+                }
+            ],
+            "hops": [
+                "Nikola Tesla",
+                "Thomas Edison",
+                "Midwest"
+            ]
+        },
+        "Menlo Park": {
+            "term": "Menlo Park",
+            "passage": "Menlo Park is a city at the eastern edge of San Mateo County, in the San Francisco Bay Area of California, in the United States. It is located on the edge of the coastal range, about 25 miles (40 km) south of San Francisco, and 20 miles (32 km) west of San Jose. The city had a population of 33,027 according to the 2010 United States Census. Menlo Park is the site of Facebook's main campus, which is located in the former headquarters of Sun Microsystems. The city is also the location of the Menlo Park station, which is the largest train station in California by number of platforms. The city is named after the estate of inventor Thomas Edison, who held a summer home and laboratory there.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the state where Menlo Park is located?",
+                    "answer": "California",
+                    "explanation": "The city is located on the edge of the coastal range, about 25 miles (40 km) south of San Francisco, and 20 miles (32 km) west of San Jose. This sentence provides evidence that Menlo Park is located in California, as it describes the city's location in relation to San Francisco and San Jose, both of which are cities in California."
+                },
+                {
+                    "question": "What is the season that Menlo Park is associated with?",
+                    "answer": "summer",
+                    "explanation": "The city is named after the estate of inventor Thomas Edison, who held a summer home and laboratory there."
+                },
+                {
+                    "question": "What company was the former headquarters of before Facebook took over the Menlo Park campus?",
+                    "answer": "Sun Microsystems",
+                    "explanation": "The city is also the location of the Menlo Park station, which is the largest train station in California by number of platforms. Evidence sentence: The city is also the location of the Menlo Park station, which is the largest train station in California by number of platforms."
+                }
+            ],
+            "hops": [
+                "Nikola Tesla",
+                "Thomas Edison",
+                "Menlo Park"
+            ]
+        },
+        "the Edison Electric Light Company": {
+            "term": "the Edison Electric Light Company",
+            "passage": "The Edison Electric Light Company was a company founded by Thomas Edison in 1878. It was responsible for the development and implementation of the first commercially practical incandescent light bulb. The company was also responsible for the installation and operation of the first public electric lighting system in the United States, in Lower Manhattan in 1882. The company was later renamed the Thomas A. Edison, Inc. in 1889.",
+            "qae_pairs": [
+                {
+                    "question": "What was the first public electric lighting system installed by the Edison Electric Light Company in the United States?",
+                    "answer": "Lower Manhattan",
+                    "explanation": "The Edison Electric Light Company was responsible for the installation and operation of the first public electric lighting system in the United States, in Lower Manhattan in 1882."
+                },
+                {
+                    "question": "What year was the Edison Electric Light Company founded?",
+                    "answer": "1878",
+                    "explanation": "The Edison Electric Light Company was founded in 1878."
+                },
+                {
+                    "question": "What year did the Edison Electric Light Company install the first public electric lighting system in the United States?",
+                    "answer": "1882",
+                    "explanation": "The Edison Electric Light Company was responsible for the installation and operation of the first public electric lighting system in the United States, in Lower Manhattan in 1882."
+                },
+                {
+                    "question": "What year did the Edison Electric Light Company change its name to Thomas A. Edison, Inc.?",
+                    "answer": "1889",
+                    "explanation": "The Edison Electric Light Company was renamed Thomas A. Edison, Inc. in 1889."
+                }
+            ],
+            "hops": [
+                "Nikola Tesla",
+                "Thomas Edison",
+                "the Edison Electric Light Company"
+            ]
+        },
+        "U.S": {
+            "term": "U.S",
+            "passage": "presidential elections. The United States presidential election of 2020 was the 59th quadrennial presidential election, held on Tuesday, November 3, 2020. The Republican Party nominee, incumbent President Donald Trump, and his running mate, Vice President Mike Pence, were defeated by the Democratic Party nominee, former Vice President Joe Biden, and his running mate, Senator Kamala Harris. Biden won the election with 306 electoral votes to Trump's 232, while winning the popular vote by over 810,000 votes. The election was marked by a historically high voter turnout, with over 159 million Americans casting ballots, as well as controversies surrounding voter suppression and election interference.",
+            "qae_pairs": [
+                {
+                    "question": "What was the name of the political party that the incumbent President Donald Trump represented in the 2020 U.S presidential election?",
+                    "answer": "Republican Party",
+                    "explanation": "The Republican Party nominee, incumbent President Donald Trump, and his running mate, Vice President Mike Pence, were defeated by the Democratic Party nominee, former Vice President Joe Biden, and his running mate, Senator Kamala Harris."
+                },
+                {
+                    "question": "Who was the running mate of U.S President Donald Trump in the 2020 presidential election?",
+                    "answer": "Mike Pence",
+                    "explanation": "The Republican Party nominee, incumbent President Donald Trump, and his running mate, Vice President Mike Pence, were defeated by the Democratic Party nominee, former Vice President Joe Biden, and his running mate, Senator Kamala Harris."
+                },
+                {
+                    "question": "Who won the U.S presidential election of 2020?",
+                    "answer": "Joe Biden",
+                    "explanation": "The Democratic Party nominee, former Vice President Joe Biden, and his running mate, Senator Kamala Harris, were elected as the President and Vice President of the United States in the 2020 presidential election."
+                }
+            ],
+            "hops": [
+                "Nikola Tesla",
+                "Thomas Edison",
+                "U.S"
+            ]
+        },
+        "Franklin": {
+            "term": "Franklin",
+            "passage": "Franklin D. Roosevelt was the 32nd President of the United States, serving from 1933 to 1945. He led the United States through the Great Depression and World War II, and is often considered one of the most important and influential American politicians in history. Roosevelt was born in Hyde Park, New York, in 1882, and attended Harvard University before practicing law. He was elected to the New York State Senate in 1910, and later served as Governor of New York from 1929 to 1932. Roosevelt was known for his New Deal policies, which aimed to provide relief, recovery, and reform to the American people during the Great Depression. He also led the country through World War II, and was instrumental in the formation of the United Nations. Roosevelt died in Warm Springs, Georgia, in 1945, at the age of 63.",
+            "qae_pairs": [
+                {
+                    "question": "What organization was established by Franklin D. Roosevelt and played a crucial role in ending World War II?",
+                    "answer": "the United Nations",
+                    "explanation": "Roosevelt was known for his New Deal policies, which aimed to provide relief, recovery, and reform to the American people during the Great Depression."
+                },
+                {
+                    "question": "What is the name of the town where Franklin D. Roosevelt died?",
+                    "answer": "Warm Springs",
+                    "explanation": "Franklin D. Roosevelt was the 32nd President of the United States, serving from 1933 to 1945. He led the United States through the Great Depression and World War II, and is often considered one of the most important and influential American politicians in history. Roosevelt was born in Hyde Park, New York, in 1882, and attended Harvard University before practicing law."
+                },
+                {
+                    "question": "What year did Franklin D. Roosevelt become a member of the New York State Senate?",
+                    "answer": "1910",
+                    "explanation": "Roosevelt was born in Hyde Park, New York, in 1882, and attended Harvard University before practicing law. He was elected to the New York State Senate in 1910, and later served as Governor of New York from 1929 to 1932."
+                }
+            ],
+            "hops": [
+                "Rosalind Franklin",
+                "Franklin"
+            ]
+        },
+        "Notting Hill": {
+            "term": "Notting Hill",
+            "passage": "Notting Hill is a district in West London, located in the Royal Borough of Kensington and Chelsea. It is known for its fashionable shops, restaurants, and vibrant street markets, as well as its association with the Portobello Road Market, which is one of the largest antiques markets in the world. The area is also famous for the Notting Hill Carnival, which takes place every August bank holiday and is one of the largest street festivals in Europe. The carnival celebrates the culture and traditions of London's Caribbean community, with music, dancing, and colorful costumes. Notting Hill is also home to a number of famous landmarks, including the Notting Hill Gate tube station, the Royal Albert Hall, and the Kensington Palace. The district has a rich history, having been settled since Roman times, and has been home to a number of famous residents, including the artist William Hogarth and the writer George Orwell.",
+            "qae_pairs": [
+                {
+                    "question": "What famous writer lived in Notting Hill and wrote the novel \"1984\"?",
+                    "answer": "George Orwell",
+                    "explanation": "The area is also famous for the Notting Hill Carnival, which takes place every August bank holiday and is one of the largest street festivals in Europe."
+                },
+                {
+                    "question": "What is the cultural influence of the Caribbean community in Notting Hill?",
+                    "answer": "Caribbean",
+                    "explanation": "The Notting Hill Carnival celebrates the culture and traditions of London's Caribbean community, with music, dancing, and colorful costumes."
+                }
+            ],
+            "hops": [
+                "Rosalind Franklin",
+                "Notting Hill"
+            ]
+        },
+        "Francis Crick": {
+            "term": "Francis Crick",
+            "passage": "Francis Harry Compton Crick OM FRS (8 June 1916 – 28 July 2004) was an English physicist, molecular biologist, and neuroscientist. He was one of the co-discoverers of the structure of the DNA molecule in 1953, which he described as \"the secret of life\". He was awarded the Nobel Prize in Physiology or Medicine in 1962 for this discovery, sharing it with James Watson and Maurice Wilkins. Crick was also a prominent proponent of the idea that consciousness is a result of physical processes in the brain, a view known as neural reductionism or materialism.",
+            "qae_pairs": [
+                {
+                    "question": "What was the full name of Francis Crick, one of the co-discoverers of the structure of DNA?",
+                    "answer": "Francis Harry Compton Crick",
+                    "explanation": "Francis Harry Compton Crick OM FRS (8 June 1916 – 28 July 2004) was an English physicist, molecular biologist, and neuroscientist. He was one of the co-discoverers of the structure of the DNA molecule in 1953, which he described as the secret of life. He was awarded the Nobel Prize in Physiology or Medicine in 1962 for this discovery, sharing it with James Watson and Maurice Wilkins."
+                },
+                {
+                    "question": "What was the date of Francis Crick's death?",
+                    "answer": "28 July 2004",
+                    "explanation": "Francis Harry Compton Crick OM FRS (8 June 1916 – 28 July 2004) was one of the co-discoverers of the structure of the DNA molecule in 1953, which he described as the secret of life. He was awarded the Nobel Prize in Physiology or Medicine in 1962 for this discovery, sharing it with James Watson and Maurice Wilkins."
+                },
+                {
+                    "question": "What was the date of birth of Francis Crick?",
+                    "answer": "8 June 1916",
+                    "explanation": "Francis Harry Compton Crick OM FRS (8 June 1916 – 28 July 2004) was an English physicist, molecular biologist, and neuroscientist. He was one of the co-discoverers of the structure of the DNA molecule in 1953, which he described as the secret of life. He was awarded the Nobel Prize in Physiology or Medicine in 1962 for this discovery, sharing it with James Watson and Maurice Wilkins."
+                },
+                {
+                    "question": "What year did Francis Crick receive the Nobel Prize in Physiology or Medicine?",
+                    "answer": "1962",
+                    "explanation": "Crick was awarded the Nobel Prize in Physiology or Medicine in 1962 for this discovery, sharing it with James Watson and Maurice Wilkins."
+                }
+            ],
+            "hops": [
+                "Rosalind Franklin",
+                "Francis Crick"
+            ]
+        },
+        "Heinrich Hertz": {
+            "term": "Heinrich Hertz",
+            "passage": "Heinrich Hertz (1857-1894) was a German physicist who is generally credited with the discovery of radio waves. He was born in Hamburg, Germany, and studied at the University of Berlin, where he earned his Ph.D. in 1881. Hertz's work on electromagnetic waves was inspired by the work of James Clerk Maxwell, who had predicted the existence of such waves in the mid-19th century. Hertz's experiments involved generating and detecting radio waves using an electric spark and a resonant circuit. He was able to demonstrate that radio waves could be transmitted through the air and reflected off of objects, and he also showed that they could be polarized and absorbed by different materials. Hertz's work laid the foundation for the development of radio communication and other wireless technologies. He died at the age of 36 from tuberculosis, but his legacy lives on in the field of electromagnetism.",
+            "qae_pairs": [
+                {
+                    "question": "What year did Heinrich Hertz earn his Ph.D.?",
+                    "answer": "1881",
+                    "explanation": "Hertz's work on electromagnetic waves was inspired by the work of James Clerk Maxwell, who had predicted the existence of such waves in the mid-19th century. This evidence sentence explains that Hertz's work on electromagnetic waves was inspired by the work of James Clerk Maxwell, who had predicted the existence of such waves in the mid-19th century."
+                }
+            ],
+            "hops": [
+                "James Clerk Maxwell",
+                "Heinrich Hertz"
+            ]
+        },
+        "Southwark": {
+            "term": "Southwark",
+            "passage": "Southwark is a district of Central London and part of the London Borough of Southwark. It is located immediately south of the River Thames, and has been an important part of London since medieval times. The area is home to many historic buildings and landmarks, including the Tower Bridge, the Shard, and the Southwark Cathedral. It is also known for its vibrant cultural scene, with a number of theatres, galleries, and music venues located in the area. Southwark is well-connected to the rest of London, with several tube and railway stations serving the area. It is a popular destination for both tourists and locals, with plenty of shops, restaurants, and bars to explore.",
+            "qae_pairs": [
+                {
+                    "question": "What is the administrative division of Southwark in London?",
+                    "answer": "London Borough",
+                    "explanation": "Southwark is a district of Central London and part of the London Borough of Southwark."
+                },
+                {
+                    "question": "What is the location of Southwark in relation to Central London?",
+                    "answer": "Central London",
+                    "explanation": "Southwark is a district of Central London and part of the London Borough of Southwark."
+                }
+            ],
+            "hops": [
+                "Michael Faraday",
+                "Southwark"
+            ]
+        },
+        "Fullerian Professor of Chemistry": {
+            "term": "Fullerian Professor of Chemistry",
+            "passage": "The Fullerian Professor of Chemistry is a prestigious academic position at the Royal Institution of Great Britain. The professorship was established in 1865 by the bequest of the chemist and inventor, Edward Fuller, and is one of the oldest endowed professorships in the United Kingdom. The Fullerian Professor of Chemistry is responsible for delivering a series of lectures on chemistry and related subjects, as well as conducting research in the field. The professorship has been held by many notable chemists, including William Ramsay, who discovered the noble gases, and Dorothy Hodgkin, who was awarded the Nobel Prize in Chemistry in 1964. The current Fullerian Professor of Chemistry is Dr. Andrea Sella.",
+            "qae_pairs": [
+                {
+                    "question": "What year did Dorothy Hodgkin, the Fullerian Professor of Chemistry, win the Nobel Prize in Chemistry?",
+                    "answer": "1964",
+                    "explanation": "The professorship has been held by many notable chemists, including William Ramsay, who discovered the noble gases, and Dorothy Hodgkin, who was awarded the Nobel Prize in Chemistry in 1964."
+                }
+            ],
+            "hops": [
+                "Michael Faraday",
+                "Fullerian Professor of Chemistry"
+            ]
+        },
+        "the University of Munich": {
+            "term": "the University of Munich",
+            "passage": "The Ludwig Maximilian University of Munich (LMU Munich) is a public research university located in Munich, Bavaria, Germany. It was founded in 1472 and is currently one of the oldest universities in Germany. The university has 18 faculties and over 500 institutes and centers, offering a wide range of academic programs at both the undergraduate and graduate levels. LMU Munich is consistently ranked among the top universities in Europe and the world, and is known for its strong research focus in fields such as medicine, life sciences, engineering, and humanities. The university has produced numerous Nobel laureates, including Wilhelm Conrad Röntgen, Max Planck, and Thomas Mann. LMU Munich is also home to several notable research centers, such as the German Research Center for Artificial Intelligence (DFKI) and the Munich Center for Mathematical Philosophy. The university has a strong international reputation, with over 6,000 international students from over 130 countries.",
+            "qae_pairs": [
+                {
+                    "question": "What is the country of origin of the Ludwig Maximilian University of Munich?",
+                    "answer": "Germany",
+                    "explanation": "The Ludwig Maximilian University of Munich (LMU Munich) is a public research university located in Munich, Bavaria, Germany."
+                },
+                {
+                    "question": "What is the year that the University of Munich was founded?",
+                    "answer": "1472",
+                    "explanation": "The university has produced numerous Nobel laureates, including Wilhelm Conrad Röntgen, Max Planck, and Thomas Mann. Evidence sentence: The university has produced numerous Nobel laureates."
+                }
+            ],
+            "hops": [
+                "Werner Heisenberg",
+                "the University of Munich"
+            ]
+        },
+        "quantum mechanics": {
+            "term": "quantum mechanics",
+            "passage": "Quantum mechanics is a fundamental theory in physics which describes the behavior of matter and energy at the smallest scales. It is based on the principles of wave-particle duality, uncertainty, and superposition. The theory was developed in the early 20th century to explain the behavior of particles at the atomic and subatomic level, and has since been extended to describe the behavior of particles at all scales. Quantum mechanics has been used to develop many technologies, including transistors, lasers, and MRI machines. It has also led to the development of quantum computing, which has the potential to revolutionize the field of computing.",
+            "qae_pairs": [
+                {
+                    "question": "What was the historical context in which quantum mechanics was developed in the early 20th century?",
+                    "answer": "the early 20th century",
+                    "explanation": "The theory was developed in the early 20th century to explain the behavior of particles at the atomic and subatomic level."
+                }
+            ],
+            "hops": [
+                "Niels Bohr",
+                "quantum mechanics"
+            ]
+        },
+        "MIT": {
+            "term": "MIT",
+            "passage": "MIT is a private research university located in Cambridge, Massachusetts, United States. MIT has five schools and one college, containing a total of 32 academic departments, with a strong emphasis on scientific, engineering, and technological education and research. Founded in 1861 in response to the increasing industrialization of the United States, the institute used a polytechnic university model and stressed laboratory instruction.",
+            "qae_pairs": [
+                {
+                    "question": "What year was MIT founded?",
+                    "answer": "1861",
+                    "explanation": "Founded in 1861 in response to the increasing industrialization of the United States, the institute used a polytechnic university model and stressed laboratory instruction. This sentence explains that MIT was founded in 1861 in response to the increasing industrialization of the United States, and it used a polytechnic university model and stressed laboratory instruction."
+                },
+                {
+                    "question": "What is the name of the country where MIT is located?",
+                    "answer": "United States",
+                    "explanation": "Founded in 1861 in response to the increasing industrialization of the United States, the institute used a polytechnic university model and stressed laboratory instruction. This sentence explains that MIT was founded in 1861 in the United States as a response to the increasing industrialization of the country. The institute used a polytechnic university model, which emphasized practical, hands-on learning through laboratory instruction."
+                },
+                {
+                    "question": "What is the state that MIT is located in?",
+                    "answer": "Massachusetts",
+                    "explanation": "Founded in 1861 in response to the increasing industrialization of the United States, the institute used a polytechnic university model and stressed laboratory instruction. Explanation:  This sentence explains the reason for the establishment of MIT, which was to provide education and research in scientific, engineering, and technological fields in response to the increasing industrialization of the United States. The institute's model was a polytechnic university model, which emphasized practical, hands-on learning through laboratory instruction."
+                },
+                {
+                    "question": "What is the location of MIT?",
+                    "answer": "Cambridge",
+                    "explanation": "MIT is a private research university located in Cambridge, Massachusetts, United States."
+                }
+            ],
+            "hops": [
+                "Richard Feynman",
+                "MIT"
+            ]
+        },
+        "the Manhattan Project": {
+            "term": "the Manhattan Project",
+            "passage": "The Manhattan Project was a research and development effort during World War II that produced the first nuclear weapons. It was led by the United States with the support of the United Kingdom and Canada. The project was initiated in 1939 after the discovery of nuclear fission by German physicists. The goal of the project was to develop a weapon that could be used against Nazi Germany. The project was named after the Manhattan Engineer District of the U.S. Army Corps of Engineers, which oversaw the construction of the Pentagon and other military facilities in the New York City area. The project was led by American physicist Robert Oppenheimer and involved some of the most brilliant minds of the time, including Enrico Fermi, Leo Szilard, and Albert Einstein. The first nuclear weapon was tested in July 1945 at the Trinity site in New Mexico, and the bomb was later dropped on the Japanese cities of Hiroshima and Nagasaki, leading to the end of the war. The Manhattan Project was a turning point in the history of warfare, and it marked the beginning of the atomic age.",
+            "qae_pairs": [
+                {
+                    "question": "What year did the Manhattan Project begin?",
+                    "answer": "1939",
+                    "explanation": "The project was initiated in 1939 after the discovery of nuclear fission by German physicists."
+                }
+            ],
+            "hops": [
+                "Richard Feynman",
+                "the Manhattan Project"
+            ]
+        },
+        "Caltech": {
+            "term": "Caltech",
+            "passage": "Caltech, also known as the California Institute of Technology, is a private research university located in Pasadena, California, United States. Caltech has six academic divisions with strong emphases on science and engineering. Its 124-acre campus is home to 300 faculty members and 1,000 students. Caltech's 30 research institutes and centers focus on topics such as astrophysics, bioengineering, computer science, earth science, and mechanical and civil engineering. The university is known for its low student-to-faculty ratio and its emphasis on hands-on learning. Caltech alumni have gone on to win 34 Nobel Prizes and 5 Fields Medals. The university's athletic teams, known as the Beavers, compete in the NCAA Division III Southern California Intercollegiate Athletic Conference.",
+            "qae_pairs": [
+                {
+                    "question": "What is the location of Caltech?",
+                    "answer": "Pasadena",
+                    "explanation": "Caltech is a private research university located in Pasadena, California, United States."
+                }
+            ],
+            "hops": [
+                "Richard Feynman",
+                "Caltech"
+            ]
+        },
+        "quantum electrodynamics": {
+            "term": "quantum electrodynamics",
+            "passage": "Quantum electrodynamics (QED) is the quantum field theory of the electrodynamic interaction of light (photons) with charged particles, which is the electromagnetic force. It is the first theory where renormalization was used to eliminate infinite values. The theory was developed by Richard Feynman, Julian Schwinger, and Shin'ichirō Tomonaga independently in the 1940s. QED is a relativistic quantum field theory, which means that it is based on the principles of quantum mechanics and special relativity. It is a fundamental theory in particle physics and is used to describe the behavior of subatomic particles, such as electrons and positrons, and their interactions with photons. QED has been extensively tested and has been found to be in excellent agreement with experimental data.",
+            "qae_pairs": [
+                {
+                    "question": "Who was the other physicist, besides Richard Feynman, who independently developed quantum electrodynamics (QED) in the 1940s?",
+                    "answer": "Julian Schwinger",
+                    "explanation": "Julian Schwinger was one of the physicists who independently developed quantum electrodynamics (QED) in the 1940s, along with Richard Feynman."
+                }
+            ],
+            "hops": [
+                "Richard Feynman",
+                "quantum electrodynamics"
+            ]
+        },
+        "New York City": {
+            "term": "New York City",
+            "passage": "New York City is the most populous city in the United States, with an estimated 8,336,817 residents as of 2020. It is located in the northeastern part of the country, in the state of New York, on the Atlantic coast. The city is known for its iconic skyline, which includes the Empire State Building, the Statue of Liberty, and the One World Trade Center. It is also home to many cultural institutions, such as the Metropolitan Museum of Art, the Museum of Modern Art, and the Guggenheim Museum. The city is a global center of commerce, finance, media, art, fashion, research, and entertainment. It is one of the world's most important financial centers, and is home to the New York Stock Exchange, the world's largest stock exchange by total market capitalization. The city is also home to many professional sports teams, including the New York Yankees, the New York Mets, and the Brooklyn Nets.",
+            "qae_pairs": [
+                {
+                    "question": "What is the country that New York City is located in?",
+                    "answer": "the United States",
+                    "explanation": "It is located in the northeastern part of the country, in the state of New York, on the Atlantic coast. This sentence provides evidence that New York City is located in the United States, specifically in the northeastern part of the country, in the state of New York, on the Atlantic coast."
+                },
+                {
+                    "question": "What is the name of the museum in New York City that features modern art?",
+                    "answer": "the Museum of Modern Art",
+                    "explanation": "It is also home to many cultural institutions, such as the Metropolitan Museum of Art, the Museum of Modern Art, and the Guggenheim Museum. This sentence provides evidence that New York City is home to many cultural institutions, including the Museum of Modern Art, which features modern art."
+                },
+                {
+                    "question": "What is the name of the museum in New York City that is home to many cultural artifacts and art pieces?",
+                    "answer": "the Metropolitan Museum of Art",
+                    "explanation": "The city is known for its iconic skyline, which includes the Empire State Building, the Statue of Liberty, and the One World Trade Center."
+                }
+            ],
+            "hops": [
+                "Richard Feynman",
+                "New York City"
+            ]
+        },
+        "the National Science Foundation's": {
+            "term": "the National Science Foundation's",
+            "passage": "The National Science Foundation (NSF) is an independent government agency in the United States. It is responsible for promoting science and engineering through research programs and education projects. The NSF's mission is to advance the national health, prosperity, and welfare by supporting progress in science, technology, engineering, and mathematics (STEM) education. The NSF funds research and education in all the non-medical fields of science and engineering. It is also the funding source for the National Science Digital Library, which provides high-quality online resources for education and research in STEM fields. The NSF's work is critical to the development of new technologies, discoveries, and innovations that help drive the U.S. economy and maintain its position as a global leader in science and technology.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the country that the National Science Foundation's efforts primarily benefit?",
+                    "answer": "the United States",
+                    "explanation": "The NSF funds research and education in all the non-medical fields of science and engineering. It is also the funding source for the National Science Digital Library, which provides high-quality online resources for education and research in STEM fields."
+                }
+            ],
+            "hops": [
+                "Carl Sagan",
+                "the National Science Foundation's"
+            ]
+        },
+        "Brooklyn": {
+            "term": "Brooklyn",
+            "passage": "Brooklyn is a borough of New York City, coterminous with Kings County, located in the U.S. state of New York, the most populous county in the state, and the second-most densely populated county in the United States. It is New York City's most populous borough, with an estimated 2,504,700 residents in 2020. Named after the Dutch village of Breukelen, it borders the borough of Queens at the western end of Long Island. Brooklyn has several bridge and tunnel connections to the borough of Manhattan across the East River, and the Verrazzano-Narrows Bridge connects it with Staten Island. Since 1896, Brooklyn has been coterminous with Kings County, the most populous county in the state of New York and the second-most densely populated county in the United States. It is also the cultural and artistic center of the city, with a large number of galleries, museums, and performance spaces.",
+            "qae_pairs": [
+                {
+                    "question": "What is the borough that borders Brooklyn at the western end of Long Island?",
+                    "answer": "Queens",
+                    "explanation": "Since 1896, Brooklyn has been coterminous with Kings County, the most populous county in the state of New York and the second-most densely populated county in the United States."
+                }
+            ],
+            "hops": [
+                "Carl Sagan",
+                "Brooklyn"
+            ]
+        }
+    }
+}

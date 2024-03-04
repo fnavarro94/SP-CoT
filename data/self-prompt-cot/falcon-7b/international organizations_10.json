@@ -1,0 +1,503 @@
+{
+    "first_hops": {
+        "United Nations": {
+            "term": "United Nations",
+            "passage": ".. I'm sorry, I'm not sure how to add a wikipedia link in my response. As an AI language model, I am not able to add links to my response. However, I can tell you that you can easily access the passage from Wikipedia about the United Nations by searching 'United Nations' on any search engine and clicking on the link.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the website that provides free access to knowledge and information?",
+                    "answer": "Wikipedia",
+                    "explanation": "Wikipedia is an online encyclopedia that provides free access to knowledge and information. It is a collaborative project that aims to create a freely accessible and reliable source of information. Anyone can contribute to and edit the content of the website, making it a valuable resource for learning and research."
+                }
+            ],
+            "hops": [
+                "World Health Organization",
+                "United Nations"
+            ]
+        },
+        "World Health Organization": {
+            "term": "World Health Organization",
+            "passage": "World Health Organization (WHO), founded in 1948 in Geneva, is a specialized United Nations agency dealing with international health, that is responsible for the overall direction, supervision and coordination of health-related aspects. Its objective is to promote, the health of individuals, communities and populations and to ensure that health services are available to all people at all levels of society, in accordance with the principles contained in the Charter of the United Nations, and in accordance with the Constitution of the World Health Organization. [citation needed]. Its headquarters are situated in Geneva (Switzerland).",
+            "qae_pairs": [
+                {
+                    "question": "What is the headquarters of the World Health Organization?",
+                    "answer": "Geneva",
+                    "explanation": "The headquarters of the World Health Organization (WHO) is located in Geneva, Switzerland."
+                },
+                {
+                    "question": "When was the World Health Organization founded?",
+                    "answer": "1948",
+                    "explanation": "The World Health Organization (WHO) was founded on April 7, 1948, in Geneva, Switzerland."
+                },
+                {
+                    "question": "Who is the head of the UN?",
+                    "answer": "United Nations",
+                    "explanation": "The head of the United Nations is the Secretary-General, who is currently António Guterres."
+                }
+            ],
+            "hops": [
+                "World Health Organization"
+            ]
+        },
+        "International Monetary Fund": {
+            "term": "International Monetary Fund",
+            "passage": "(IMF) and it's activities and actions. This passage is on the IMF's role and role of central banks. There are two central banks, the World Bank and the International Monetary Fund, that help to coordinate global policies. The article is about how they work in conjunction with each other. This is a list of countries that have implemented or are in the process of implementing the International Monetary Fund's guidelines in order to prevent or end currency devaluation. There are a number of articles about this process on my site. The articles on this site include information on why the IMF was established, what the IMF is now doing, and how it works in conjunction with the World Bank.",
+            "qae_pairs": [
+                {
+                    "question": "What is the International Monetary Fund?",
+                    "answer": "IMF",
+                    "explanation": "(IMF) is an international organization that is responsible for promoting international monetary cooperation and exchange rate stability, facilitating the balanced growth of international trade, and helping to ensure the stability of the global financial system. The IMF is a global organization that is responsible for promoting international monetary cooperation and exchange rate stability, facilitating the balanced growth of international trade, and helping to ensure the stability of the global financial system. The IMF is an international organization that is responsible for promoting international monetary cooperation and exchange rate stability, facilitating the balanced growth of international trade, and helping to ensure the stability of the global financial system. The IMF is an international organization that is responsible"
+                }
+            ],
+            "hops": [
+                "International Monetary Fund"
+            ]
+        },
+        "World Trade Organization": {
+            "term": "World Trade Organization",
+            "passage": "History\nThe origins of the WTO are in the GATT, which was created after World War II and was a successor organization to the Geneva-based Geneva Conference of 1947. The GATT was a treaty which provided an intellectual property right for the GATT member countries to make any rules for intellectual property rights as they see fit, without needing the consent of other GATT members. As GATT continued to operate, it was eventually replaced by the Uruguay Round, a GATT-based process which ended with the final agreements of Marrakech in 1994. In the 1990s, in addition to a series of bilateral trade agreements, a series of new rules and laws were added, as well as the establishment of a Multilateral Trading System that included the creation of a new trade organization called the WTO. Membership\nThe WTO currently comprises a total of 164 member countries. A number of these are former Soviet countries, with the majority of members being Western European countries.",
+            "qae_pairs": [
+                {
+                    "question": "When was the WTO established?",
+                    "answer": "1994",
+                    "explanation": "1994"
+                },
+                {
+                    "question": "What is the World Trade Organization?",
+                    "answer": "WTO",
+                    "explanation": "The World Trade Organization (WTO) is an international organization that aims to promote free trade and economic growth by encouraging countries to open their markets to foreign trade and investment. The WTO is the successor organization to the Geneva-based Geneva Conference of 1947, which was established after World War II. The WTO is headquartered in Geneva, Switzerland, and is composed of 164 member countries. The WTO is responsible for negotiating and administering trade agreements and rules between member countries, and also provides a forum for member countries to discuss and resolve trade-related issues. The WTO also provides technical assistance to member countries in areas"
+                },
+                {
+                    "question": "What is the WTO?",
+                    "answer": "Marrakech",
+                    "explanation": "(Marrakech) The World Trade Organization (WTO) is an international organization that helps member countries to negotiate and enforce trade agreements. It was created in 1994 and is headquartered in Geneva, Switzerland. It aims to make the global trading system more open and competitive by helping member countries to negotiate trade agreements and by enforcing these agreements to ensure that member countries comply with their terms."
+                }
+            ],
+            "hops": [
+                "World Trade Organization"
+            ]
+        },
+        "International Criminal Police Organization": {
+            "term": "International Criminal Police Organization",
+            "passage": "(ICPO)\nInternational Criminal Police Organization, commonly referred to as Interpol, is a non-governmental global organization that has come to play a major role in modern policing. Its primary function is to assist national criminal police authorities in their role of keeping their citizens safe and protecting their property and assets. Its main purpose is to gather information from police forces around the world and to help coordinate investigations into international crimes in an efficient and coordinated manner. Its role includes collecting data from over 200 countries. Interpol has an effective system of 186 member countries which it is obliged to comply with by its governing body. There are currently 40 associate members (that pay a similar levy) including China. In March 2017, the United Nations General Assembly passed a resolution for the Secretary General to submit to the 174 member states of Interpol, the recommendation that Interpol should be transformed from an existing national police force into a new international organization. Currently Interpol has been working on the creation of a new international police organization which would allow more member countries to join Interpol and share more information. ICPO was founded in 1950 and became effective in 1958 when it took over from Interpol as it was no longer meeting international standards. It was then established on 1 May 1958. Interpol was established in 1948.",
+            "qae_pairs": [
+                {
+                    "question": "When was Interpol established?",
+                    "answer": "1948",
+                    "explanation": "- Interpol was established in 1948."
+                },
+                {
+                    "question": "What is the International Criminal Police Organization?",
+                    "answer": "ICPO",
+                    "explanation": "(ICPO)"
+                }
+            ],
+            "hops": [
+                "International Criminal Police Organization"
+            ]
+        },
+        "International Federation of Red Cross and Red Crescent Societies": {
+            "term": "International Federation of Red Cross and Red Crescent Societies",
+            "passage": "..\nTo the right of the image is a description from wikipedia. This image was captured by the Google Chrome web browser and uploaded here. Google Chrome web browser's description of the image: The red and white ribbon of the International Federation of Red Cross and Red Crescent Societies. International Federation of Red Cross and Red Crescent Societies is an international organization that provides disaster relief, medical assistance, and humanitarian services to the armed forces of more than 170 countries worldwide. It was founded in 1863 by Henri Dunant at a Geneva conference in which 20 representatives attended from 11 countries. Since then, the Federation has been affiliated with the Red Cross and the Red Crescent in 45 different countries. From Wikipedia, the free encyclopedia. The International Federation of Red Cross and Red Crescent Societies is an international voluntary humanitarian organization headquartered in Geneva, Switzerland.",
+            "qae_pairs": [
+                {
+                    "question": "What is the international organization that provides disaster relief, medical assistance, and humanitarian services to the armed forces of more than 170 countries worldwide?",
+                    "answer": "the International Federation of Red Cross",
+                    "explanation": "The international organization that provides disaster relief, medical assistance, and humanitarian services to the armed forces of more than 170 countries worldwide is the International Federation of Red Cross."
+                },
+                {
+                    "question": "Where is the International Federation of Red Cross and Red Crescent Societies located?",
+                    "answer": "Switzerland",
+                    "explanation": "(The International Federation of Red Cross and Red Crescent Societies is located in Geneva, Switzerland)"
+                },
+                {
+                    "question": "When was the International Federation of Red Cross and Red Crescent Societies founded?",
+                    "answer": "1863",
+                    "explanation": "1863"
+                },
+                {
+                    "question": "What is the capital of the International Federation of Red Cross and Red Crescent Societies?",
+                    "answer": "Geneva",
+                    "explanation": "The International Federation of Red Cross and Red Crescent Societies is headquartered in Geneva, Switzerland."
+                }
+            ],
+            "hops": [
+                "International Federation of Red Cross and Red Crescent Societies"
+            ]
+        },
+        "International Labour Organization": {
+            "term": "International Labour Organization",
+            "passage": "(a wikipedia article). From the (International Labour Organization) International Labour Law series, which is a collection of summaries of a country’s implementation of its labour laws. In particular the ILO is a major force in developing countries. (The following information may be considered outdated, but I can not guarantee that the information is up to date). As part of the United Nations system, the ILO has a close relationship with the United Nations system and is often used as an arm of the UN by UN agencies (such as the ILO) to carry out UN activities. To achieve these aims the ILO:\n- Promotes and implements international labour standards and ILO conventions\n- Makes ILO assistance available to member countries (notably to help member countries ratify international labour standards and conventions)\n- Enforces labour rights\n- Carries out social and economic research\n- Provides research and training, including training and research in labour legislation\n- Assists in developing international labour laws, legislation and policy\n- Engages in other activities of a professional and consultative nature\n- Disseminates the information among members and the public\n- Advocates on international labour standards\n- Participates in the implementation of international labour standards at the national and sector level\n- Provides free or subsidised services to private enterprises\nThe main legal instrument of the ILO is the International Labour Code.",
+            "qae_pairs": [
+                {
+                    "question": "What is the International Labour Organization?",
+                    "answer": "ILO",
+                    "explanation": "(a wikipedia article) The International Labour Organization (ILO) is a specialized agency of the United Nations system. It is a global organization that works to promote social justice and promote the rights of workers. The ILO is a major force in developing countries, providing assistance to member countries in the form of technical assistance, training, and research. The ILO also works to develop international labour standards and conventions, and to enforce labour rights. The ILO is a unique organization in that it is a tripartite organization, with a tripartite structure that includes employers, workers, and governments. The ILO is a unique"
+                }
+            ],
+            "hops": [
+                "International Labour Organization"
+            ]
+        },
+        "International Telecommunications Union": {
+            "term": "International Telecommunications Union",
+            "passage": "The International Telecommunication Union (ITU) is an intergovernmental organization founded in 1865 to coordinate the regulation of telecommunications in the telecommunication sector. Its main aim is to ensure that telecommunications infrastructure is used in an efficient, safe, reliable, and cost-effective manner. As such, it is a member of the United Nations. [2]\nAccording to the 2011 ITU World Telecommunication/ICT statistics report, as of the first half of 2011 the total revenue of the world telecommunications sector was estimated at US$1,483 billion. The ITU coordinates regulatory standards for telecommunications by providing a forum for government experts from all over the world to discuss various topics related to telecommunications. It is also responsible for negotiating and implementing contracts to improve and protect the interests of telecommunications regulators and operators on a global level. The ITU's role in regulating telecommunications is based on its long-term history as the organization that drafted the first set of international telecommunications regulations. These regulations were originally developed in 1922, in the form of an International Conference in Stockholm.",
+            "qae_pairs": [
+                {
+                    "question": "who is the UN?",
+                    "answer": "the United Nations",
+                    "explanation": "The United Nations (UN) is an international organization that coordinates the activities of its 193 member states. It is the main intergovernmental organization responsible for promoting and maintaining peace and security in the world. The UN is headquartered in New York, New York, USA. It is a member of the United Nations system of organizations, which also includes the International Court of Justice, the International Criminal Court, the International Monetary Fund, the International Organization for Standardization, and the World Trade Organization."
+                },
+                {
+                    "question": "Who regulates the Internet?",
+                    "answer": "The International Telecommunication Union",
+                    "explanation": "The International Telecommunication Union (ITU) is an intergovernmental organization founded in 1865 to coordinate the regulation of telecommunications in the telecommunication sector. Its main aim is to ensure that telecommunications infrastructure is used in an efficient, safe, reliable, and cost-effective manner. As such, it is a member of the United Nations."
+                },
+                {
+                    "question": "When was the International Telecommunication Union founded?",
+                    "answer": "1865",
+                    "explanation": "1865"
+                },
+                {
+                    "question": "What is the International Telecommunication Union?",
+                    "answer": "ITU",
+                    "explanation": "The International Telecommunication Union (ITU) is an intergovernmental organization founded in 1865 to coordinate the regulation of telecommunications in the telecommunication sector. Its main aim is to ensure that telecommunications infrastructure is used in an efficient, safe, reliable, and cost-effective manner. As such, it is a member of the United Nations."
+                }
+            ],
+            "hops": [
+                "International Telecommunications Union"
+            ]
+        },
+        "International Red Cross and Red Crescent Societies": {
+            "term": "International Red Cross and Red Crescent Societies",
+            "passage": "As of 2005, there are 186 Red Cross or Red Crescent national societies, including 100 in the United States. International Red Cross and Red Crescent Societies operate mainly in areas affected by armed conflict or natural disaster. The organization is unique among international aid groups in having two distinct and separate entities, one for each sex and the other for mixed and other volunteers and staff. Founded in 1863 by Henri Lauber in Geneva, Switzerland, the International Red Cross was formally recognized by the Swiss government in 1865 and was incorporated as an independent body. The organization is often used as an intermediary in times of conflict or disaster between governmental and other relief organizations. The first three years of the organization were marked by a significant lack of funding and personnel, but this improved greatly during the latter years of the First World War. This was the first time in modern history that a Red Cross organization provided emergency services to the victims of a war zone. A few years later, after a second major war in Europe, the ICRC was granted the status of a Red Cross society. In 1914, its charter was ratified by the International Conference on Humanitarian Aid, or the Geneva Conference. The Geneva Convention, adopted at the end of the First World War, required that ICRC relief workers wear 'white crosses' and carry the words 'Médecins Sans Frontières' on their emblem.",
+            "qae_pairs": [
+                {
+                    "question": "When was the International Red Cross founded?",
+                    "answer": "1863",
+                    "explanation": "1863"
+                },
+                {
+                    "question": "What is the Red Cross?",
+                    "answer": "Red Crescent Societies",
+                    "explanation": "Red Cross is a common term used to refer to the International Red Cross and Red Crescent Societies. The organization is unique among international aid groups in having two distinct and separate entities, one for each sex and the other for mixed and other volunteers and staff."
+                },
+                {
+                    "question": "What is the International Red Cross and Red Crescent Societies?",
+                    "answer": "ICRC",
+                    "explanation": "International Red Cross and Red Crescent Societies are organizations that provide emergency services to the victims of war, natural disasters, and other emergencies. They are independent, non-governmental organizations that are recognized by the International Red Cross and Red Crescent Societies."
+                },
+                {
+                    "question": "Who founded the International Red Cross and Red Crescent Societies?",
+                    "answer": "Henri Lauber",
+                    "explanation": "Henri Lauber founded the International Red Cross and Red Crescent Societies in 1863 in Geneva, Switzerland."
+                },
+                {
+                    "question": "What is the headquarters of the International Red Cross and Red Crescent Societies?",
+                    "answer": "Switzerland",
+                    "explanation": "The headquarters of the International Red Cross and Red Crescent Societies is located in Geneva, Switzerland."
+                }
+            ],
+            "hops": [
+                "International Red Cross and Red Crescent Societies"
+            ]
+        }
+    },
+    "second_hops": {
+        "Geneva": {
+            "term": "Geneva",
+            "passage": "In 1555, Geneva was devastated by a plague, the plague of the year 1638 was not much less devastating and in 1643 the town council was obliged to ban further celebrations of the plague. The first time we can hear of any kind of celebration was on 12th August 1643 when people gathered to celebrate a victory over the English troops, and in 1647 a celebration of the city's birthday took place, where the date of birth of the city, 31st August 1205 was mentioned. A lot of celebrating and partying took place on the occasion of the 500th anniversary of Geneva in 1650 and 50 years later in 1750, when it celebrated its 300th anniversary, a date of which we are not certain. In the meantime the celebration of the 250th anniversary of Geneva in 1750 took place and 75 years later a monument was erected in the city to celebrate the 300th anniversary. It was erected by the city in 1812 and is now located in the Parc du Flon. This particular celebration marked the beginning of what we now call the celebrations in Geneva.",
+            "qae_pairs": [
+                {
+                    "question": "When did Geneva celebrate its 300th anniversary?",
+                    "answer": "1812",
+                    "explanation": "1812 was the year that Geneva celebrated its 300th anniversary."
+                },
+                {
+                    "question": "What is the name of the park located in Geneva to celebrate its 300th anniversary?",
+                    "answer": "the Parc du Flon",
+                    "explanation": "300 years ago, on 31st August 1750, the city celebrated its 300th anniversary. The celebrations were held in the Parc du Flon."
+                }
+            ],
+            "hops": [
+                "International Federation of Red Cross and Red Crescent Societies",
+                "Geneva"
+            ]
+        },
+        "United Nations": {
+            "term": "United Nations",
+            "passage": ".. I'm sorry, I'm not sure how to add a wikipedia link in my response. As an AI language model, I am not able to add links to my response. However, I can tell you that you can easily access the passage from Wikipedia about the United Nations by searching 'United Nations' on any search engine and clicking on the link.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the website that provides free access to knowledge and information?",
+                    "answer": "Wikipedia",
+                    "explanation": "Wikipedia is an online encyclopedia that provides free access to knowledge and information. It is a collaborative project that aims to create a freely accessible and reliable source of information. Anyone can contribute to and edit the content of the website, making it a valuable resource for learning and research."
+                }
+            ],
+            "hops": [
+                "World Health Organization",
+                "United Nations"
+            ]
+        },
+        "IMF": {
+            "term": "IMF",
+            "passage": "From a 1940s banknote, The first ever use of the name International Monetary Fund is in a 1948 article from the Economist on the international payments system. The IMF was founded on October 21, 1947, on the initiative of John McCluskey. The initial capital of the IMF was $5,000. The IMF headquarters are located at 700 19th Street, NW, Washington, D.C. USA. The building is a 6 story brick and stone structure designed by architect William F. Denzel. The current head of the IMF is Christine Lagarde. She was elected as the new head of the IMF on July 1, 2011. In order to maintain its credibility and relevance, the IMF, which is now a global institution, requires a certain amount of autonomy.",
+            "qae_pairs": [
+                {
+                    "question": "\nWhat was the name of the person who founded the IMF?",
+                    "answer": "John McCluskey",
+                    "explanation": "John McCluskey was an American banker who founded the International Monetary Fund (IMF) on October 21, 1947. He was a former chairman of the Federal Reserve Bank of New York."
+                },
+                {
+                    "question": "\nWhat is the headquarters location of the IMF?",
+                    "answer": "Washington",
+                    "explanation": "The headquarters of the International Monetary Fund (IMF) is located at 700 19th Street, NW, Washington, D.C. USA."
+                },
+                {
+                    "question": "\nWhen was the IMF founded?",
+                    "answer": "1948",
+                    "explanation": "The IMF was founded on October 21, 1947, on the initiative of John McCluskey."
+                },
+                {
+                    "question": "Who is the current head of the IMF?",
+                    "answer": "Christine Lagarde",
+                    "explanation": "The current head of the IMF is Christine Lagarde. She was elected as the new head of the IMF on July 1, 2011."
+                },
+                {
+                    "question": "\nWhich date did the International Monetary Fund (IMF) come into existence?",
+                    "answer": "October 21, 1947",
+                    "explanation": "The International Monetary Fund (IMF) was founded on October 21, 1947, on the initiative of John McCluskey."
+                }
+            ],
+            "hops": [
+                "International Monetary Fund",
+                "IMF"
+            ]
+        },
+        "WTO": {
+            "term": "WTO",
+            "passage": "As WTO agreements and rules are often more complex than most other rules (e.g. labor and environmental laws and regulations, and international laws of the countries in question), there is a general consensus that WTO agreements can be difficult to enforce and to comply with. As the 1994 Uruguay Round agreements themselves noted, it is difficult to estimate the number of existing WTO rules, and there is a need to identify and simplify the rules to make them easier for members and non-members to use. The same point of view has been repeated time and time again: the WTO agreements are too complex. In general, the more complex the agreement, the more likely it is to be disregarded, or only partially followed. In the future, more specific WTO agreements will probably be sought. The WTO's current structure has a long history, dating back to the Uruguay Round of the mid-1990s, when the world's first comprehensive multilateral trade agreement was signed, and now it's time to re-evaluate whether it should stay in place. The WTO agreements, as the website of the WTO explains, are a system of rules that determine trade relations between countries.",
+            "qae_pairs": [
+                {
+                    "question": "What year was the WTO established?",
+                    "answer": "1994",
+                    "explanation": "1994"
+                }
+            ],
+            "hops": [
+                "World Trade Organization",
+                "WTO"
+            ]
+        },
+        "Marrakech": {
+            "term": "Marrakech",
+            "passage": "\"Marrakech is a city in the Middle Atlas Mountains of Morocco. It is 230 km (140 mi) from the capital, Rabat, and is one of the most important cities in the country, with a population of about 750,000. It is the most important center of the Rif. The city has always been an important center for commerce, since its red rock mountains were used for mining. Today, the city still has thriving markets and markets are an important part of Moroccan life. History of Marrakech dates back to the middle Ages, where it was called \"Marrakech\" (in Amazigh language) meaning \"Marrakech\" meaning \"the one who sees\". Marrakech was founded by the Romans and was later ruled by the Islamic Arabs. The city is famous for its famous mosques and palaces that were built during the 12th and 13th centuries. Marrakech is famous for its famous mosques and palaces. The city was founded by the Romans and ruled by the Islamic Arabs. This is a large part of Morocco's history, the Romans. Marrakech is the most popular tourist attraction in Morocco. It is an important destination for tourists all year round.",
+            "qae_pairs": [
+                {
+                    "question": "\nAmazigh is a word in the Tamazight language, which is an indigenous language of Morocco. The city was founded in the middle ages by the Romans, who named it Marrakech. It is a popular tourist destination all year round, particularly in the spring when the weather is mild and pleasant.",
+                    "answer": "Amazigh",
+                    "explanation": "Amazigh is a word in the Tamazight language, which is an indigenous language of Morocco. The city was founded in the middle ages by the Romans, who named it Marrakech. It is a popular tourist destination all year round, particularly in the spring when the weather is mild and pleasant."
+                },
+                {
+                    "question": "\nWhat is Marrakech known for all year round?",
+                    "answer": "all year",
+                    "explanation": "Marrakech is a popular tourist destination all year round. It is known for its famous mosques and palaces that were built during the 12th and 13th centuries."
+                }
+            ],
+            "hops": [
+                "World Trade Organization",
+                "Marrakech"
+            ]
+        },
+        "ICPO": {
+            "term": "ICPO",
+            "passage": "The International Civil Procedure Organization (ICPO), founded in 1951, is an association of 37 civil law notaries of all member countries of the International Association of Notaries (IANA). Its aim is to improve relations among notaries between countries and to foster the spread of information about the notary profession, the civil law and the notary public in the member countries, where it may have been established. The ICPO also acts as a professional association by serving as the liaison organ between its member associations and the International Commission on the Notarial Profession.",
+            "qae_pairs": [
+                {
+                    "question": "\nWhen did the International Civil Procedure Organization (ICPO) was founded?",
+                    "answer": "1951",
+                    "explanation": "The International Civil Procedure Organization (ICPO) was founded in 1951."
+                }
+            ],
+            "hops": [
+                "International Criminal Police Organization",
+                "ICPO"
+            ]
+        },
+        "the International Federation of Red Cross": {
+            "term": "the International Federation of Red Cross",
+            "passage": "The (in French) the Federation Internationale de la Croix-Rouge (FICR) is the international federation of the red cross and red cross society of the country, the red cross and red cross society of the country, and red cross society. In 1949, the FICR was transformed into the International Federation of Red Cross and Red Cross.",
+            "qae_pairs": [
+                {
+                    "question": "What is the International Federation of Red Cross called in French?",
+                    "answer": "FICR",
+                    "explanation": "FICR is the French abbreviation for the International Federation of Red Cross."
+                },
+                {
+                    "question": "What is the International Federation of Red Cross?",
+                    "answer": "the Federation Internationale de la Croix-Rouge",
+                    "explanation": "(in French) the Federation Internationale de la Croix-Rouge (FICR) is the international federation of the red cross and red cross society of the country, the red cross and red cross society of the country, and red cross society. In 1949, the FICR was transformed into the International Federation of Red Cross and Red Cross."
+                }
+            ],
+            "hops": [
+                "International Federation of Red Cross and Red Crescent Societies",
+                "the International Federation of Red Cross"
+            ]
+        },
+        "Switzerland": {
+            "term": "Switzerland",
+            "passage": "Switzerland is a global leader in many sectors. The country is renowned for its renowned quality of life. The country's population is 8.6 million, divided into 26 cantons. The cantons of Zürich, Bern, Basel, and Geneva are the most urbanized areas. Zürich, Bern, and Geneva are considered the wealthiest of all Swiss cities. Switzerland has a highly developed industry, especially in mechanical engineering, electronics, and banking. The country's exports totaled CHF 764.7 billion in 2010. In 2010, it was ranked second among the world's wealthiest countries, after the United States. The Swiss National Bank is the most influential central bank in the world, controlling the country's monetary policy, the Swiss franc, and the Swiss market. The Swiss population was estimated to have a total of CHF 1,037.9 billion in assets. Switzerland is among the world's top ten wealthiest countries.",
+            "qae_pairs": [
+                {
+                    "question": "What is the currency used in Switzerland?",
+                    "answer": "the Swiss franc",
+                    "explanation": "(1) The Swiss franc is the official currency of Switzerland. (2) The Swiss franc is the second most commonly used currency in the world, after the United States dollar. (3) The Swiss franc is used in the Swiss banking system, which is one of the worlds largest. (4) The Swiss franc is used in the Swiss economy and is tied to the Swiss francs value. (5) The Swiss franc is used in the Swiss banking system, which is one of the worlds largest. (6) The Swiss franc is used in the Swiss economy, which is one"
+                },
+                {
+                    "question": "What is the capital and largest city of Switzerland?",
+                    "answer": "Bern",
+                    "explanation": "The capital and largest city of Switzerland is Bern. Bern is the capital of Switzerland and is located in the Bernese Oberland region. Bern is the second-largest city in Switzerland, with a population of 1.2 million. Bern is home to the Swiss government, the Swiss parliament, and the Swiss Federal Council. Bern is home to many museums, including the Bern Art Museum, the Bern Historical Museum, and the Bern Museum of Fine Arts. Bern is home to the Bern University, the Bern University of Applied Sciences, and the Bern University of the Arts. Bern is home to the Bern Stock Exchange, the Bern Trade Fair"
+                },
+                {
+                    "question": "What is the wealthiest city in Switzerland?",
+                    "answer": "Geneva",
+                    "explanation": "The wealthiest city in Switzerland is Geneva. The city is home to the headquarters of many global companies, including the United Nations, the Red Cross, and the International Red Cross. Geneva is also home to the headquarters of many international banks, including the International Monetary Fund and the World Trade Organization. The city is also home to the largest shopping mall in Europe, the Geneva Shopping Mall. The city is home to the largest airport in Europe, Geneva International Airport. The city is home to the largest lake in Europe, Lake Geneva. The city is home to the largest lake in Europe, Lake Geneva. The city is home to the largest"
+                },
+                {
+                    "question": "What is the name of the central bank in Switzerland?",
+                    "answer": "The Swiss National Bank",
+                    "explanation": "The Swiss National Bank is the central bank of Switzerland. It is responsible for the monetary policy of the country, the Swiss franc, and the Swiss market."
+                }
+            ],
+            "hops": [
+                "International Red Cross and Red Crescent Societies",
+                "Switzerland"
+            ]
+        },
+        "the United Nations": {
+            "term": "the United Nations",
+            "passage": "When the United Nations first began in 1945, it was largely unknown. A few world leaders met in London to sign the United Nations Charter. It was a vision of world peace. It was a vision, however, that required a great deal of sacrifice. That sacrifice was met by many. But for many others it went too far, and that is what you are likely to hear from many who fought in the UN. The world’s biggest power wanted in some ways, it seemed to them, to turn the UN into something like the Soviet Union. But that has not occurred, and the UN is one of the world’s major sources of international law and diplomacy. Of course, the UN still is an imperfect organization. It often is criticized for taking too much time to do things that many, many other world organizations have done before. It can be slow, but it is not at all like the Soviet Union. The UN has been a force in world politics for decades. Its biggest failure in the history of the planet occurred during the first 25 years. Today, the UN remains an important source of global power. But it has been 50 years since that first summit in London.",
+            "qae_pairs": [
+                {
+                    "question": "When was the United Nations established?",
+                    "answer": "1945",
+                    "explanation": "The United Nations was established in 1945 at the conclusion of the United Nations Conference on International Organization in San Francisco, California."
+                },
+                {
+                    "question": "How has the United Nations changed since its founding in 1945?",
+                    "answer": "Today",
+                    "explanation": "The United Nations has changed significantly since its founding in 1945. It has expanded its role in global affairs, and has become a major source of international law and diplomacy. The UN has been involved in a number of major global events, including the Cold War, the Vietnam War, the Gulf War, and the War on Terror. It has also been involved in issues such as human rights, global trade, and environmental concerns. The UN has also become more diverse, with more countries joining the organization. Today, the UN is a major source of global power, and is an important source of international law and diplomacy."
+                },
+                {
+                    "question": "When was the United Nations founded?",
+                    "answer": "50 years",
+                    "explanation": "1945"
+                }
+            ],
+            "hops": [
+                "International Telecommunications Union",
+                "the United Nations"
+            ]
+        },
+        "The International Telecommunication Union": {
+            "term": "The International Telecommunication Union",
+            "passage": "The International Telecommunication Union (ITU) is a specialized agency of the United Nations that is responsible for the management of the global telecommunications system. It is headquartered in Geneva, Switzerland. The ITU is a specialized agency of the United Nations that is responsible for the management of the global telecommunications system.",
+            "qae_pairs": [
+                {
+                    "question": "What is the headquarters of the International Telecommunication Union?",
+                    "answer": "ITU",
+                    "explanation": "The headquarters of the International Telecommunication Union is located in Geneva, Switzerland."
+                },
+                {
+                    "question": "What is the headquarters location of the International Telecommunication Union?",
+                    "answer": "Geneva",
+                    "explanation": "The headquarters of the International Telecommunication Union (ITU) is located in Geneva, Switzerland."
+                },
+                {
+                    "question": "Where is the headquarters of the International Telecommunication Union located?",
+                    "answer": "Switzerland",
+                    "explanation": "The headquarters of the International Telecommunication Union is located in Geneva, Switzerland."
+                }
+            ],
+            "hops": [
+                "International Telecommunications Union",
+                "The International Telecommunication Union"
+            ]
+        },
+        "ITU": {
+            "term": "ITU",
+            "passage": "The International Telecommunication Union (ITU) is a United Nations organization that specializes in telecommunications issues. The ITU is a non-governmental organization, consisting of over 700 member countries. The organization seeks to assist member countries in their development efforts, through the exchange of information, best practices and international standardisation. The ITU is located in Geneva, Switzerland.",
+            "qae_pairs": [
+                {
+                    "question": "What is the main purpose of the International Telecommunications Union (ITU)?",
+                    "answer": "United Nations",
+                    "explanation": "The International Telecommunication Union (ITU) is a United Nations organization that specializes in telecommunications issues. It is a non-governmental organization consisting of over 700 member countries. The organization seeks to assist member countries in their development efforts by exchanging information, best practices, and international standardization. The main purpose of the ITU is to facilitate the development and deployment of telecommunications in member countries."
+                },
+                {
+                    "question": " 4. the length of the answer is 4 characters, or 1 word.\nQuestion: Where is the ITU located? Answer: Geneva.",
+                    "answer": "Geneva",
+                    "explanation": "The International Telecommunication Union (ITU) is a United Nations organization that specializes in telecommunications issues. It is located in Geneva, Switzerland."
+                },
+                {
+                    "question": " The term is a pre-defined variable that has been replaced with the ITU.",
+                    "answer": "The International Telecommunication Union",
+                    "explanation": "The International Telecommunication Union (ITU) is an international organization that specializes in telecommunications issues. The ITU is a non-governmental organization consisting of over 700 member countries. The organization seeks to assist member countries in their development efforts through the exchange of information, best practices, and international standardisation. The ITU is located in Geneva, Switzerland."
+                }
+            ],
+            "hops": [
+                "International Telecommunications Union",
+                "ITU"
+            ]
+        },
+        "Henri Lauber": {
+            "term": "Henri Lauber",
+            "passage": "\"Henri Lauber (September 1, 1924 – October 11, 2010) was a Swiss mathematician. He is most famous for his research in the field of fluid mechanics. Lauber obtained a degree in engineering from the Ecole Polytechnique Fédérale de Lausanne (EPFL) in Switzerland in 1954, after which he undertook further studies in fluid dynamics at the California Institute of Technology. In 1957, he left Lausanne for the United States. Lauber worked at various places in California, including the Lawrence Livermore National Lab, University of California, Berkeley, and the National Aeronautics and Space Administration. He became well-known in the 1960s and 1970s as a professor of mathematics and fluid dynamics at UC Berkeley, but he left that position in 1978 to become a professor at the Swiss Federal Institute of Technology in Zurich. His main areas of research include boundary layer theory, internal fluid mixing in the wake of complex structures, and the effects of air density on fluid motion. Lauber's research has influenced the work of many modern fluid dynamicists and he is considered a pioneer of the subject.\" \"In 1956, Lauber proposed the 'Lauber Number', which is a mathematical equation for the amount of boundary-layer thickness required in a fluid for a given flow speed and wall angle.",
+            "qae_pairs": [
+                {
+                    "question": "What is Henri Laubers alma mater?",
+                    "answer": "the Ecole Polytechnique Fédérale de Lausanne",
+                    "explanation": "Henri Lauber obtained a degree in engineering from the Ecole Polytechnique Fédérale de Lausanne (EPFL) in Switzerland in 1954, after which he undertook further studies in fluid dynamics at the California Institute of Technology. In 1957, he left Lausanne for the United States. Lauber worked at various places in California, including the Lawrence Livermore National Lab, University of California, Berkeley, and the National Aeronautics and Space Administration. He became well-known in the 1960s and 1970s as a professor of mathematics and fluid dynamics at UC Berkeley"
+                },
+                {
+                    "question": "Who is Henri Lauber and where is he currently located?",
+                    "answer": "Zurich",
+                    "explanation": "Henri Lauber (September 1, 1924 – October 11, 2010) is a Swiss mathematician and fluid dynamics researcher. He is currently located in Zurich, Switzerland. He is most famous for his research in the field of fluid mechanics. Lauber obtained a degree in engineering from the Ecole Polytechnique Fédérale de Lausanne (EPFL) in Switzerland in 1954, after which he undertook further studies in fluid dynamics at the California Institute of Technology. He is considered a pioneer of the subject."
+                },
+                {
+                    "question": "What institution did Henri Lauber work for after leaving EPFL?",
+                    "answer": "the Lawrence Livermore National Lab, University of California, Berkeley",
+                    "explanation": "Henri Lauber worked at the Lawrence Livermore National Lab, University of California, Berkeley after leaving EPFL."
+                },
+                {
+                    "question": "What was Henri Laubers birthdate?",
+                    "answer": "September 1, 1924 – October 11, 2010",
+                    "explanation": "Henri Lauber (September 1, 1924 – October 11, 2010) was a Swiss mathematician. He is most famous for his research in the field of fluid mechanics. Lauber obtained a degree in engineering from the Ecole Polytechnique Fédérale de Lausanne (EPFL) in Switzerland in 1954, after which he undertook further studies in fluid dynamics at the California Institute of Technology. In 1957, he left Lausanne for the United States. Lauber worked at various places in California, including the Lawrence Livermore National Lab, University of California"
+                },
+                {
+                    "question": "What is Henri Laubers alma mater and where did he obtain his degree in engineering?",
+                    "answer": "EPFL",
+                    "explanation": "Henri Lauber (September 1, 1924 – October 11, 2010) was a Swiss mathematician. He is most famous for his research in the field of fluid mechanics. Lauber obtained a degree in engineering from the Ecole Polytechnique Fédérale de Lausanne (EPFL) in Switzerland in 1954, after which he undertook further studies in fluid dynamics at the California Institute of Technology. In 1957, he left Lausanne for the United States. Lauber worked at various places in California, including the Lawrence Livermore National Lab, University of California"
+                },
+                {
+                    "question": "What year did Henri Lauber obtain his engineering degree from Ecole Polytechnique Fédérale de Lausanne (EPFL) in Switzerland?",
+                    "answer": "1954",
+                    "explanation": "Henri Lauber obtained his engineering degree from Ecole Polytechnique Fédérale de Lausanne (EPFL) in Switzerland in 1954."
+                },
+                {
+                    "question": "What year did Henri Lauber leave his position as a professor at UC Berkeley?",
+                    "answer": "1978",
+                    "explanation": "Henri Lauber (1924-2010) was a Swiss mathematician and fluid dynamics expert who worked at various places in California, including the Lawrence Livermore National Lab, University of California, Berkeley, and the National Aeronautics and Space Administration. He became well-known in the 1960s and 1970s as a professor of mathematics and fluid dynamics at UC Berkeley, but he left that position in 1978 to become a professor at the Swiss Federal Institute of Technology in Zurich."
+                },
+                {
+                    "question": "In what decade did Henri Lauber make significant contributions to the field of fluid dynamics?",
+                    "answer": "the 1960s",
+                    "explanation": "Henri Lauber made significant contributions to the field of fluid dynamics in the 1960s. This decade saw the development of boundary layer theory, which is a mathematical equation for the amount of boundary-layer thickness required in a fluid for a given flow speed and wall angle. Laubers research in this area was influential and his work has been cited in numerous publications."
+                }
+            ],
+            "hops": [
+                "International Red Cross and Red Crescent Societies",
+                "Henri Lauber"
+            ]
+        }
+    }
+}

@@ -1,0 +1,84 @@
+[
+    {
+        "question": "Who was ordered to force a Tibetan assault into the region conquered by Yellow Tiger in the mid-17th century?",
+        "answer": "Ming general Qu Neng",
+        "cot": [
+            "Step 1: The region conquered by Yellow Tiger in the mid-17th century is Sichuan.",
+            "Step 2: The Ming general Qu Neng was ordered to force a Tibetan assault into Sichuan."
+        ],
+        "type": "bridge",
+        "hops": 2
+
+    },
+    {
+        "question": "What date was the start of the season of Grey's Anatomy where Eric died?",
+        "answer": "September 25, 2014",
+        "cot": [
+            "Step 1: The season of Grey's Anatomy where Eric died is season 11.",
+            "Step 2: The eleventh season of the American television medical drama Grey's Anatomy premiered on September 25, 2014 in the United States on the American Broadcasting Company (ABC) and consists of 25 episodes. "
+        ],
+        "type": "bridge",
+        "hops": 2
+    },
+    {
+        "question": "When did the publisher of Tetrisphere release their new systems in North American?",
+        "answer": "October 18, 1985",
+        "cot": [
+            "Step 1: Tetrisphere is a falling block puzzle video game for the Nintendo 64 (N64) console. It was developed by Canadian company H2O Entertainment and published by Nintendo.",
+            "Step 2: Nintendo unveiled the American version of its Famicom at June 1985's Consumer Electronics Show (CES) and released it in North America on October 18, 1985."
+        ],
+        "type": "bridge",
+        "hops": 2
+    },
+    {
+        "question": "Who is the composer of Rhapsody No. 1, named after and inspired by the county where Alfred Seaman was born?",
+        "answer": "Ralph Vaughan Williams",
+        "cot": [
+            "Step 1: Alfred Seaman was born in Norfolk in 1844.",
+            "Step 2: The composer of Rhapsody No. 1, named after and inspired by Norfolk is Ralph Vaughan Williams."
+        ],
+        "type": "bridge",
+        "hops": 2
+    },
+    {
+        "question": "What region is Qaleh Now-e Khaleseh in Mahdi Tajik's birth city located?",
+        "answer": "Qaleh Now Rural District",
+        "cot": [
+            "Step 1: Mahdi Tajik is an Iranian students’ activist, journalist and political prisoner born in Tehran.",
+            "Step 2: Qaleh Now-e Khaleseh is located in Qaleh Now Rural District, Qaleh Now District, Ray County, Tehran Province, Iran."
+        ],
+        "type": "bridge",
+        "hops": 2
+    },
+    {
+        "question": "What is Nasir Zaidi's birthplace the capital of?",
+        "answer": "West Pakistan",
+        "cot": [
+            "Step 1: Syed Mohammad Nasir Zaidi is a former cricketer for Karachi and Lancashire born in Karachi on March 25, 1961.",
+            "Step 2: Karachi was the capital of West Pakistan."
+        ],
+        "type": "bridge",
+        "hops": 2
+    },
+    {
+        "question": "Who founded the publisher of Journal of Bisexuality?",
+        "answer": "George Routledge",
+        "cot": [
+            "Step 1: The Journal of Bisexuality is a peer-reviewed academic journal published quarterly by the Taylor & Francis Group under the Routledge imprint.",
+            "Step 2: Routledge was founded by George Routledge."
+        ],
+        "type": "bridge",
+        "hops": 2
+    },
+    {
+        "question": "Where is the headquarters of located of the 48th Highlanders of the country which released the performer of As Seen Through Windows?",
+        "answer": "Moss Park Armoury",
+        "cot": [
+            "Step 1: The performer of As Seen Through Windows is Bell Orchestre.",
+            "Step 2: Bell Orchestre is a Canadian band.",
+            "Step 3: The headquarters of the 48th Highlanders of Canada is located in Moss Park Armoury."
+        ],
+        "type": "bridge",
+        "hops": 3
+    }
+]

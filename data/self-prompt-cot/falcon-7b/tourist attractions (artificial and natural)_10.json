@@ -1,0 +1,816 @@
+{
+    "first_hops": {
+        "Eiffel Tower": {
+            "term": "Eiffel Tower",
+            "passage": "1\nEiffel Tower is a wrought iron lattice tower located on the Champ de Mars in Paris, 124m (400 feet) tall. It is the tallest structure in Paris and 9th tallest in the world. The tower has 12 levels accessible by 2 escalators. There are 2 elevators, as well. It is possible to visit the first two levels without an admission ticket, but the upper levels require admission. Eiffel Tower was built by Gustave Eiffel, a renowned engineer. Construction began in 1887 and was finished 12 years later. The tower was originally built for the 1889 Exposition Universelle in Paris.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the event that Eiffel Tower was built for?",
+                    "answer": "Exposition Universelle",
+                    "explanation": "Exposition Universelle is a French term that means Worlds Fair. It is an event that is held in Paris every 10 years. The first Exposition Universelle was held in 1889 and the Eiffel Tower was built for this event."
+                },
+                {
+                    "question": "What is the name of the year the Eiffel Tower was built?",
+                    "answer": "1889",
+                    "explanation": "1889 was the year the Eiffel Tower was built."
+                },
+                {
+                    "question": "What is the name of the city in which the Eiffel Tower is located?",
+                    "answer": "Paris",
+                    "explanation": "Eiffel Tower is the name of the tower, and Paris is the name of the city it is located in."
+                },
+                {
+                    "question": "Who built the Eiffel Tower?",
+                    "answer": "Gustave Eiffel",
+                    "explanation": "Gustave Eiffel was a renowned engineer who designed the Eiffel Tower. He was originally asked to build it for the 1889 Exposition Universelle in Paris."
+                }
+            ],
+            "hops": [
+                "Eiffel Tower"
+            ]
+        },
+        "Taj Mahal": {
+            "term": "Taj Mahal",
+            "passage": "(also known as Shah Jahan or Shah Jahan the Great) (Persian: تجامل مسجل / Taj Mahal \"Palace of Light\" ) is a mausoleum located in New Delhi, India, completed in 1632. The construction was ordered by the Mughal emperor Shah Jahan in memory of his favorite wife Mumtaz Mahal (\"Mistress of the world\", Persian: ألاك / ąalīk). It is considered one of the most iconic architectural and engineering feats of the 17th century world and is located at the south-western end of the Red Fort in the city. This monument is constructed out of marble and white lime and is considered one of the most iconic architectural and engineering feats of the 17th century world. It is located at the south-western end of the Red Fort in the city. It is a mausoleum built in memory of the Mughal emperor's beloved wife Mumtaz Mahal. It is a striking architectural achievement of the 17th century world. It is made of marble and white lime.",
+            "qae_pairs": [
+                {
+                    "question": "What is the capital of India?",
+                    "answer": "New Delhi",
+                    "explanation": "New Delhi is the capital of India. It is located in the northern part of the country and is spread over an area of 1,484 square kilometers. It is the largest city in the country and is home to over 20 million people. It is the home of the Indian government and is the center of all major government offices. It is also home to many monuments and tourist attractions, including the Red Fort, the Qutab Minar, and the India Gate."
+                },
+                {
+                    "question": "When was the Taj Mahal built?",
+                    "answer": "1632",
+                    "explanation": "1632"
+                },
+                {
+                    "question": "Who is the father of Taj Mahal?",
+                    "answer": "Shah Jahan",
+                    "explanation": "The father of Taj Mahal is Shah Jahan."
+                }
+            ],
+            "hops": [
+                "Taj Mahal"
+            ]
+        },
+        "Great Wall of China": {
+            "term": "Great Wall of China",
+            "passage": "(I've inserted some relevant parts in parentheses and bolded some words that I'm guessing are more commonly known in Chinese history):\n\"The Great Wall of China is a series of fortification systems built along the edge of the country, usually using stone or brick. The name 'Great Wall' was likely coined by the 8th-century Persian ruler Bahraman in his famous poem 'Peril and the Perilous,' which referred to Chinese defenses against attacks from nomadic tribes from the north. The wall stretches about 7,500 miles (12,000 km) and is estimated to have taken up to 2,000 years to build. It has been continuously maintained and improved by the Chinese over the centuries. The Great Wall was built along the Ming Dynasty (1368–1644) and extended in the 18th century by Qianlong (1744–1795), the 2nd emperor of the Qing Dynasty (1644–1911). The Ming Dynasty's Great Wall, with its more than 20,000 watchtowers, was constructed in large numbers during the reign of Ming Dynasty Emperor Tung Ching, which lasted from 1392 to 1644. The Ming dynasty's wall extended 8,100 miles and had 2,500 miles of trenches and moats.",
+            "qae_pairs": [
+                {
+                    "question": "Who built the Great Wall of China?",
+                    "answer": "Qianlong",
+                    "explanation": "Qianlong (Chien Lung) was the 2nd emperor of the Qing Dynasty (1644–1911) and extended the Ming Dynastys Great Wall. He extended the wall 8,100 miles and had 2,500 miles of trenches and moats."
+                },
+                {
+                    "question": "Who is the author of the poem Peril and the Perilous?",
+                    "answer": "Bahraman",
+                    "explanation": "Peril and the Perilous is a poem written by Bahraman, an Iranian poet and poet laureate of the Persian Empire. The poem was written in Persian and is considered to be one of the most famous Persian poems. It is believed that the poem was written in the 8th century, during the reign of Bahramans son, Bahraman II. The poem is a narrative poem that tells the story of the construction of the Great Wall of China. The poem is believed to have been written to commemorate the construction of the wall and its completion. The poem is also believed to have been written"
+                },
+                {
+                    "question": "When was the Great Wall of China built?",
+                    "answer": "the 18th century",
+                    "explanation": "The Great Wall of China was built along the Ming Dynasty (1368–1644) and extended in the 18th century by Qianlong (1744–1795), the 2nd emperor of the Qing Dynasty (1644–1911). The Ming Dynastys Great Wall, with its more than 20,000 watchtowers, was constructed in large numbers during the reign of Ming Dynasty Emperor Tung Ching, which lasted from 1392 to 1644. The Ming dynastys wall extended 8,100 miles and had 2,500 miles of trenches and moats"
+                }
+            ],
+            "hops": [
+                "Great Wall of China"
+            ]
+        },
+        "Petra": {
+            "term": "Petra",
+            "passage": "(see what the word means. In terms of what to do in Petra, the obvious attraction is the Treasury. I recommend it over the next week or so as it has some of the best facsimilies on the planet to be found in this one place. I took lots of pictures there and would highly recommend this. It’s possible to walk up to it and have a look, or there is a cable lift for $10. I went up it. Also at the entrance are some of the best photos ever from Petra, the most famous place is the large water tank/basin/lava stone on the right. I’m not really a big fan of lava stones and I find them more in the backcountry. I’d highly recommend this place if you are travelling to Petra. A night stay would be the best way to experience it and get away from the crowded area. I loved being away from all the crowds and I wish I could spend more time there. There is so much to see and explore.",
+            "qae_pairs": [
+                {
+                    "question": "What is the most famous place in Petra?",
+                    "answer": "Treasury",
+                    "explanation": "“The Treasury” is the most famous place in Petra. It is a large, ornately decorated, water tank/basin/lava stone. It is located at the entrance to the city and is a must-see for any visitor to Petra."
+                }
+            ],
+            "hops": [
+                "Petra"
+            ]
+        },
+        "Colosseum": {
+            "term": "Colosseum",
+            "passage": "“The Colosseum, Colosseo or Colosseo Colosseo was the largest amphitheater in the world, constructed in 73 AD during the reign of Emperor Vespasian. It is located in the heart of the city and is a short distance from the Roman Forum. At its peak, it could seat an estimated 1,800,000 spectators. The Colosseum, Colosseo, or Colosseo Colosseo is the largest amphitheater in the world, constructed in 73 AD during the reign of Emperor Vespasian. The Colosseum has an exterior diameter of 410 meters (13,200 feet) and an overall circumference of 482 meters (1,570 feet). The Colosseum has been the subject of various archaeological excavations that have revealed the existence of several layers of stone slabs that were laid in the Colosseum over its history. This layer of stone was originally constructed as a retaining wall for the construction of the Colosseum, and it was later covered with lime plaster in order to create a white appearance. “\nHere are the pictures of Colosseum. The Colosseum has a marble floor. You can see the intricate pattern in the floor when you get closer.",
+            "qae_pairs": [
+                {
+                    "question": "When was the Colosseum built?",
+                    "answer": "73 AD",
+                    "explanation": "“The Colosseum was built during the reign of Emperor Vespasian in 73 AD. “"
+                },
+                {
+                    "question": "where is the Colosseum located?",
+                    "answer": "the Roman Forum",
+                    "explanation": "“The Colosseum is located in the heart of the city, in the Roman Forum. It is a short distance from the Roman Forum, which is a square in the center of the city. The Colosseum is located in the center of the square, and it is surrounded by the Roman Forum on all sides. The Colosseum is a popular tourist attraction in Rome, and it is one of the most recognizable landmarks in the world. “"
+                },
+                {
+                    "question": "What is the largest amphitheater in the world?",
+                    "answer": "Colosseo Colosseo",
+                    "explanation": "“The Colosseum, Colosseo, or Colosseo Colosseo is the largest amphitheater in the world, constructed in 73 AD during the reign of Emperor Vespasian. The Colosseum has an exterior diameter of 410 meters (13,200 feet) and an overall circumference of 482 meters (1,570 feet). The Colosseum has been the subject of various archaeological excavations that have revealed the existence of several layers of stone slabs that were laid in the Colosseum over its history. This layer of stone was originally constructed as a retaining wall for the construction of the Col"
+                }
+            ],
+            "hops": [
+                "Colosseum"
+            ]
+        },
+        "Machu Picchu": {
+            "term": "Machu Picchu",
+            "passage": "It is a remarkable and intricate stone structure with intricate stonework and complex architectural features that were completed and constructed between AD 1440 and AD 1470, about four hundred years ago. Machu Picchu is located in the high Andes Mountains in Peru, near the Urubamba River. The city was built around 1440 AD by the Inca emperor Pachacuti, using limestone and granite stones. Machu Picchu has been constructed over more than three centuries by different Inca dynasties and kings, each of which was used to expand the city by adding new structures and temples. The city was destroyed by the Spanish conquistadors in 1532, and many of its structures were destroyed as a result. Machu Picchu's ruins and structures are covered in vegetation and lichens, but the city was rediscovered by archaeologist and historian Hiram Bingham in 1911, when he found evidence of a structure at the height of 1,100 meters above sea level. After a lengthy series of excavations and research, a comprehensive restoration of the city was begun by archaeologist Richard F. Wallis in 1980, and was completed by 1998. In the 15th century, Machu Picchu was rediscovered by the French archaeologist Françoise Grille.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the country in which Machu Picchu is located?",
+                    "answer": "Peru",
+                    "explanation": "Machu Picchu is located in the high Andes Mountains in Peru, near the Urubamba River."
+                },
+                {
+                    "question": "Who rediscovered Machu Picchu?",
+                    "answer": "Hiram Bingham",
+                    "explanation": "Hiram Bingham was an American archaeologist, historian, and author. He rediscovered Machu Picchu in 1911."
+                },
+                {
+                    "question": "Who discovered Machu Picchu?",
+                    "answer": "Françoise Grille",
+                    "explanation": "Françoise Grille, a French archaeologist, rediscovered Machu Picchu in 1911."
+                },
+                {
+                    "question": "What is the name of the river that runs through Machu Picchu?",
+                    "answer": "the Urubamba River",
+                    "explanation": "Machu Picchu is the name of the city, which means Old Mountain in the Inca language. The city is located in the high Andes Mountains in Peru, near the Urubamba River."
+                },
+                {
+                    "question": "When was Machu Picchu rediscovered?",
+                    "answer": "1911",
+                    "explanation": ""
+                }
+            ],
+            "hops": [
+                "Machu Picchu"
+            ]
+        },
+        "Christ the Redeemer": {
+            "term": "Christ the Redeemer",
+            "passage": "'The. [1] The statue's creators, French sculptors Frédéric-Auguste Bartholdi and Alfred-Auguste Vischer, modeled Christ the Redeemer after a painting by the artist Charles-Augustin Beaulaincourt. [1] The statue stands atop Mount Corcovado, overlooking Rio de Janeiro. Its arms are outstretched to welcome visitors; its head is tilted downwards; and its feet face the city. The statue's base is adorned with a plaque inscribed with the name \"Christo Redentor\" (Christ the Redeemer) and the date \"Cristo Rei\" (Christ the Redeemer) in Portuguese. [2] The statue is 98 feet (30 m) in height. [1] The statue is carved out of marble. In 1758, when the statue was unveiled, there were some concerns about its safety and stability. To address these concerns, a \"plank\" was inserted behind the statue to serve as a foundation. [1] The statue became an attraction in the 1930s after the film adaptation of the 1889 book Christ Redeemer. This film is believed to be the only depiction of Christ in any film. The statue is one of the most visited monuments in the world. It is said to have inspired the 1850 novel A Tale of Two Cities by Charles Dickens.",
+            "qae_pairs": [
+                {
+                    "question": "When did the statue become an attraction in Rio de Janeiro?",
+                    "answer": "the 1930s",
+                    "explanation": "The statue became an attraction in the 1930s after the film adaptation of the 1889 book Christ Redeemer. This film is believed to be the only depiction of Christ in any film."
+                },
+                {
+                    "question": "When was the statue of Christ the Redeemer first unveiled?",
+                    "answer": "1758",
+                    "explanation": "1758"
+                },
+                {
+                    "question": "What is the highest point in Rio de Janeiro?",
+                    "answer": "Mount Corcovado",
+                    "explanation": "Christ the Redeemer is located on Mount Corcovado, which is the highest point in Rio de Janeiro."
+                },
+                {
+                    "question": "Who is the author of A Tale of Two Cities?",
+                    "answer": "Charles Dickens",
+                    "explanation": "A Tale of Two Cities is a novel by Charles Dickens."
+                },
+                {
+                    "question": "Who sculpted the statue of Christ the Redeemer?",
+                    "answer": "Alfred-Auguste Vischer",
+                    "explanation": "The statues creators, French sculptors Frédéric-Auguste Bartholdi and Alfred-Auguste Vischer, modeled Christ the Redeemer after a painting by the artist Charles-Augustin Beaulaincourt."
+                },
+                {
+                    "question": "Who created the statue of Christ the Redeemer?",
+                    "answer": "Frédéric-Auguste Bartholdi",
+                    "explanation": "The statues creators, French sculptors Frédéric-Auguste Bartholdi and Alfred-Auguste Vischer, modeled Christ the Redeemer after a painting by the artist Charles-Augustin Beaulaincourt."
+                },
+                {
+                    "question": "What is the name of the city in Brazil?",
+                    "answer": "Rio de Janeiro",
+                    "explanation": "Rio de Janeiro means River of January in Portuguese."
+                }
+            ],
+            "hops": [
+                "Christ the Redeemer"
+            ]
+        },
+        "Grand Canyon": {
+            "term": "Grand Canyon",
+            "passage": "\"The Grand Canyon is the most striking geologic feature in North America. It is a 277-mile-long and 18-mile-wide gorge carved by the Colorado River through the North American plateaus. The rim of the canyon is over 800 miles in circumference. It is about 6,000 feet deep. The average elevation is 4,000 feet, and the highest elevation in the park is over 6,800 feet. This makes the park the highest elevations in the American Rockies, and it is about 6,000 feet higher than the second-highest state, the South Dakota Badlands. \"The canyon is part of the Sonoran Desert, which has one of the most diverse habitats in the country. The canyon has over 2,000 species of plants and 600 species of animal, the majority of which are unique to the area. Over 20 million people visit the park each year, and it generates over $1 billion for the local economy.",
+            "qae_pairs": [
+                {
+                    "question": "Which river runs through the Grand Canyon?",
+                    "answer": "the Colorado River",
+                    "explanation": "The Grand Canyon is the most striking geologic feature in North America. It is a 277-mile-long and 18-mile-wide gorge carved by the Colorado River through the North American plateaus. The rim of the canyon is over 800 miles in circumference. It is about 6,000 feet deep. The average elevation is 4,000 feet, and the highest elevation in the park is over 6,800 feet. This makes the park the highest elevations in the American Rockies, and it is about 6,000 feet higher than the second-highest state, the South Dakota Badlands."
+                },
+                {
+                    "question": "Which desert is located in the American Southwest?",
+                    "answer": "the Sonoran Desert",
+                    "explanation": "The Sonoran Desert is located in the American Southwest. It is characterized by its arid, desert-like climate and its diverse plant and animal life. The Grand Canyon, which is part of the Sonoran Desert, is one of the most famous landmarks in the country."
+                }
+            ],
+            "hops": [
+                "Grand Canyon"
+            ]
+        },
+        "Mount Everest": {
+            "term": "Mount Everest",
+            "passage": "(for people who cannot access it, I can provide you with a link to a.doc, please send me a note if you need this)\nI found this passage on wikipedia so I'm sharing it. It's a detailed article on Mount Everest. I didn't think of Mt. Everest as a place to go in that direction - it seemed more like a place for the extreme athletes.",
+            "qae_pairs": [
+                {
+                    "question": "What is the highest mountain in the world?",
+                    "answer": "Mt. Everest",
+                    "explanation": "The highest mountain in the world is Mt. Everest, located in the Himalayas. It is 8,848 meters (29,029 ft) tall. The peak is located in the border between Nepal and Chinas Tibet Autonomous Region. The summit was first reached in 1953 by Sir Edmund Hillary and Tenzing Norgay, and since then it has become a popular destination for mountaineers and trekkers."
+                }
+            ],
+            "hops": [
+                "Mount Everest"
+            ]
+        },
+        "Sydney Opera House": {
+            "term": "Sydney Opera House",
+            "passage": "\"The Sydney Opera House, designed by Jørgen Klit Nielsen, is the most iconic symbol of Sydney. It consists of two main performance halls, the Sydney Opera House Theatre and the Sydney Harbour Bridge Theatre. It is renowned as one of the world's leading opera houses, having become a symbol of the city. The opera house is situated on the shores of Sydney Harbour, at Bennelong Point. It is the home of the Sydney Symphony Orchestra and the Sydney Ballet, as well as several other companies. In 2010, the Sydney Opera House was named a UNESCO World Heritage site, alongside the Sydney Harbour Bridge. A 4.8km2, 1.6km deep harbour is also considered a major feature of the city. The Sydney Opera House is known for its spectacular views of the city skyline, particularly from the Sydney Harbour Bridge.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the point on which the Sydney Opera House is situated?",
+                    "answer": "Bennelong Point",
+                    "explanation": "Bennelong Point is the name of the point on which the Sydney Opera House is situated. It is located at the mouth of Sydney Harbour, and is named after the Aboriginal man Bennelong, who lived in the area in the 1780s. The point is also home to the Sydney Harbour Bridge, which is the main crossing point of the harbour. The Sydney Opera House is situated on the shores of Bennelong Point, and is a major landmark of the city."
+                },
+                {
+                    "question": "Who designed the Sydney Opera House?",
+                    "answer": "Jørgen Klit Nielsen",
+                    "explanation": "Jørgen Klit Nielsen is a Danish architect, who designed the Sydney Opera House. He was awarded the 2000 Sydney Design Award for the Sydney Opera House."
+                },
+                {
+                    "question": "Which is the most famous symphony orchestra in the world?",
+                    "answer": "the Sydney Symphony Orchestra",
+                    "explanation": "The Sydney Symphony Orchestra is the most famous symphony orchestra in the world. It was founded in 1986 and is the leading performing arts organization in Australia. It has performed more than 1,000 concerts and has collaborated with more than 200 international conductors and artists. The orchestra is renowned for its performances of the worlds most popular classical music and opera. It is also the resident orchestra of the Sydney Opera House and the Sydney Harbour Bridge Theatre."
+                }
+            ],
+            "hops": [
+                "Sydney Opera House"
+            ]
+        }
+    },
+    "second_hops": {
+        "Exposition Universelle": {
+            "term": "Exposition Universelle",
+            "passage": "There were other international exhibitions in London and elsewhere during the 19th century, such as the London Great Exhibition, the Paris Exposition of 1889, the Vienna Exposition in 1896, and the St. Louis Exposition in 1902. The Chicago World's Fair was held in 1893 and the St. Petersburg Exposition in 1913. There were three Expositions Universelles in Paris: (1889), (1906) and (1937). In addition, there were two Expos in Madrid (1882 and 1929).",
+            "qae_pairs": [
+                {
+                    "question": "\nQuestion: In what city was the most recent 'Exposition Universelle' held?",
+                    "answer": "the Paris Exposition",
+                    "explanation": "The Paris Exposition, held in 1900, was the most recent Exposition Universelle."
+                },
+                {
+                    "question": "\nWhere was the Exposition Universelle held in 1906?",
+                    "answer": "1906",
+                    "explanation": "The Exposition Universelle was held in Paris, France in 1906."
+                },
+                {
+                    "question": "\nWhich city held the Exposition Universelle in 1902?",
+                    "answer": "1902",
+                    "explanation": "The Exposition Universelle in 1902 was held in Paris, France."
+                },
+                {
+                    "question": "\nQuestion: Which Exposition Universelle was held in Paris in 1889?",
+                    "answer": "1889",
+                    "explanation": "1889 Exposition Universelle was held in Paris, France."
+                },
+                {
+                    "question": "\nWhat was the name of the city in which the Exposition Universelle was held in 1913?",
+                    "answer": "1913",
+                    "explanation": "The Exposition Universelle was held in St. Petersburg, Russia in 1913."
+                }
+            ],
+            "hops": [
+                "Eiffel Tower",
+                "Exposition Universelle"
+            ]
+        },
+        "Paris": {
+            "term": "Paris",
+            "passage": "\"In a country the size of France, there is no shortage of interesting towns, villages, and cities to visit, including some that are small. The French are in the habit of taking a lot of pride in small towns, which is why Paris has so many, and there are some hidden gems that are worth looking for.\" I will be attending an International conference in Paris in October 2014. My hotel is in Versailles. The Versailles International Conference Centre, which I will be visiting during the conference, is about a 45 minute drive from Versailles, and also about the same amount of time from the Paris-Orly airport. This is the event and location of the conference I will be attending in Paris. I will also have free time on the 19th for sightseeing. I have also been advised to stay out of central Paris as much as possible, and that Versailles is a very nice town to visit. On the 18th, I will stay in the Luxembourg Gardens, where I will have the chance to walk around, visit the park, and maybe get some good photo's. I have been told that the gardens are open to the public for most of the day, so that I should be able to make the 11am bus to Versailles.",
+            "qae_pairs": [
+                {
+                    "question": "Where in Paris will you be staying during the conference?",
+                    "answer": "October 2014",
+                    "explanation": "The conference is being held at the Versailles International Conference Centre, which is about a 45 minute drive from Versailles. I will also have free time on the 19th for sightseeing. I have also been advised to stay out of central Paris as much as possible, and that Versailles is a very nice town to visit."
+                },
+                {
+                    "question": "\nWhat iconic structure can you visit in Paris for free on the 19th, which is also within walking distance of the Versailles International Conference Centre?",
+                    "answer": "Versailles",
+                    "explanation": "The iconic structure in Paris that you can visit for free on the 19th is the Palace of Versailles. It is located about 45 minutes away from the Versailles International Conference Centre, and is also within walking distance of the Palace of Versailles. The Palace of Versailles is a former royal residence in Versailles, France, and is considered one of the most beautiful and important palaces in the world. It is home to the French royal family, and is also a popular tourist attraction. The Palace of Versailles is a must-see for any visitor to Paris, and is definitely worth a visit."
+                }
+            ],
+            "hops": [
+                "Eiffel Tower",
+                "Paris"
+            ]
+        },
+        "Gustave Eiffel": {
+            "term": "Gustave Eiffel",
+            "passage": "\"His success in Paris in the late 19th century was, however, no surprise to those who knew of his earlier successes, as Eiffel had a wide knowledge of physics. He was inspired by his childhood and the countryside around his home near Dijon. Eiffel had, for many years, been a regular lecturer at the Sorbonne. He took part in the French railway company, in the development of the railroads in France.",
+            "qae_pairs": [
+                {
+                    "question": "What other significant achievements did Gustave Eiffel have besides the Eiffel Tower?",
+                    "answer": "many years",
+                    "explanation": "His success in Paris in the late 19th century was, however, no surprise to those who knew of his earlier successes, as Eiffel had a wide knowledge of physics. He was inspired by his childhood and the countryside around his home near Dijon. Eiffel had, for many years, been a regular lecturer at the Sorbonne. He took part in the French railway company, in the development of the railroads in France."
+                },
+                {
+                    "question": "What inspired Gustave Eiffel to become a renowned engineer and physicist?",
+                    "answer": "the late 19th century",
+                    "explanation": "Gustave Eiffels success in Paris in the late 19th century was no surprise to those who knew of his earlier successes, as Eiffel had a wide knowledge of physics. He was inspired by his childhood and the countryside around his home near Dijon. Eiffel had, for many years, been a regular lecturer at the Sorbonne. He took part in the French railway company, in the development of the railroads in France."
+                }
+            ],
+            "hops": [
+                "Eiffel Tower",
+                "Gustave Eiffel"
+            ]
+        },
+        "New Delhi": {
+            "term": "New Delhi",
+            "passage": "New Delhi, India, has been the capital of India for more than a century. The city has evolved from the small town of New Delhi that was created in 1911 to an industrial centre, that is now a thriving city with millions of inhabitants. Although New Delhi is also a centre for the service sector, it has become a cultural hub with a diverse mix of people. Delhi is the seat of the supreme court, as well as the leader of the Indian Army. In a country where 90 per cent of people do not know English, it has become a great centre for learning foreign languages. Although New Delhi is known for its wide array of skyscrapers and modern amenities, many Indian people are still wary of them because of the many pollution and air-quality problems that are caused by this high density of tall buildings. Although New Delhi is known for its wide array of skyscrapers and modern amenities, many Indian people are still wary of them because of the many pollution and air-quality problems caused by this high density of tall buildings.",
+            "qae_pairs": [
+                {
+                    "question": "What year was New Delhi founded?",
+                    "answer": "1911",
+                    "explanation": "1911 was the year when New Delhi was founded as a small town named New Delhi."
+                }
+            ],
+            "hops": [
+                "Taj Mahal",
+                "New Delhi"
+            ]
+        },
+        "Shah Jahan": {
+            "term": "Shah Jahan",
+            "passage": "Shah Jahan was the sixth emperor of the Mughal Empire and the son of the renowned Akbar the Great, founder of the Mughal Empire. [1] The Shah was born in 1492 and ruled over India until his death in 1657. [2][3] He took the title Padma-purushottama, which in Persian means 'Pride of a God'. [4] Shah Jahan ruled India during the reign of Akbar II, who had died on 19 December 1632, four months after giving birth to a son named Aurangzeb. Shah Jahan's mother was a Persian queen called Jodhpur who gave birth to a daughter named Nur Jahan, who was sent to Persia after her divorce from the Emperor, following which she was divorced from her own son who became a Muslim. [5] Shah Jahan was born to Jodhpur when the 12th emperor of the Mughal Empire was just 8 years old.",
+            "qae_pairs": [
+                {
+                    "question": "\nWhat was the main religion of India during the reign of Emperor Shah Jahan?",
+                    "answer": "India",
+                    "explanation": "During the reign of Emperor Shah Jahan, the religion of India was Islam."
+                },
+                {
+                    "question": "\nWhat was the name of Shah Jahan's father and son?",
+                    "answer": "Aurangzeb",
+                    "explanation": "Aurangzeb was the son of the 12th emperor of the Mughal Empire, Akbar the Great."
+                },
+                {
+                    "question": "Who was the daughter of Shah Jahan and the wife of Aurangzeb?",
+                    "answer": "Nur Jahan",
+                    "explanation": "Nur Jahan was the daughter of Shah Jahan and the wife of Aurangzeb. She was born in 1612 and died in 1646. She was the mother of Aurangzeb, who was the son of Shah Jahan."
+                },
+                {
+                    "question": "\nWhich Mughal emperor was the father of Shah Jahan?",
+                    "answer": "the Mughal Empire",
+                    "explanation": "Shah Jahan was the son of Akbar the Great, who founded the Mughal Empire."
+                },
+                {
+                    "question": "What was the name of the Mughal emperor who was the father of Shah Jahan?",
+                    "answer": "Akbar",
+                    "explanation": "Akbar was the 8th emperor of the Mughal Empire and the son of the renowned Akbar the Great, founder of the Mughal Empire."
+                },
+                {
+                    "question": "Who was the mother of Shah Jahan?",
+                    "answer": "Jodhpur",
+                    "explanation": "Jodhpur was the mother of Shah Jahan."
+                },
+                {
+                    "question": "What year was Shah Jahan born?",
+                    "answer": "1492",
+                    "explanation": "1492 was the year when Shah Jahan was born."
+                }
+            ],
+            "hops": [
+                "Taj Mahal",
+                "Shah Jahan"
+            ]
+        },
+        "Qianlong": {
+            "term": "Qianlong",
+            "passage": "...\nQuianlong was born in Nanjing on 6th October, 1735. He became Emperor of China during the reign of Emperor Yongzhi and died during the reign of the Empress Dowager, 18th October, 1796.",
+            "qae_pairs": [
+                {
+                    "question": "What was the date of Qianlongs death?",
+                    "answer": "18th October, 1796",
+                    "explanation": ".. Qianlong was born in Nanjing on 6th October, 1735. He became Emperor of China during the reign of Emperor Yongzhi and died during the reign of the Empress Dowager, 18th October, 1796."
+                },
+                {
+                    "question": "What was the birthplace of Emperor Qianlong?",
+                    "answer": "Nanjing",
+                    "explanation": ".. Emperor Qianlong was born in the capital city of the Ming Dynasty, Nanjing."
+                },
+                {
+                    "question": "\nWho was the emperor of China during the reign of which two emperors were Qianlong and the Great Wall of China existed?",
+                    "answer": "China",
+                    "explanation": "The Great Wall of China was built during the reign of Emperor Qin Shi Huang (r. 221 BC - 210 BC) and Emperor Wu Zixu (r. 1401 - 1421). Qianlong was the emperor during the reign of Emperor Yongzhi (r. 1735 - 1796) and the reign of Emperor Wu Zixu (r. 1401 - 1421)."
+                },
+                {
+                    "question": "Who was the first emperor of China to be called Qianlong?",
+                    "answer": "Yongzhi",
+                    "explanation": ".. Qianlong was born in Nanjing on 6th October, 1735. He became Emperor of China during the reign of Emperor Yongzhi and died during the reign of the Empress Dowager, 18th October, 1796."
+                }
+            ],
+            "hops": [
+                "Great Wall of China",
+                "Qianlong"
+            ]
+        },
+        "Bahraman": {
+            "term": "Bahraman",
+            "passage": "Bahraman is an Indian mathematician, born on 4 October 1948 in Bangalore. He is a professor of mathematics in the Department of Mathematics at Indian Institute of Technology Kanpur, India. He was awarded the Ramanujan Award in 2000 for his work in analytic number theory. “In an attempt to simplify the subject [number theory] […] [Bahraman] is the first person to have applied number theory in this manner, but this is a field in which others have not yet succeeded in doing so. Bahraman’s work in the field has made an impression in the world.",
+            "qae_pairs": [
+                {
+                    "question": "Who is Bahraman?",
+                    "answer": "Bangalore",
+                    "explanation": "“Bahraman is an Indian mathematician, born on 4 October 1948 in Bangalore. He is a professor of mathematics in the Department of Mathematics at Indian Institute of Technology Kanpur, India. He was awarded the Ramanujan Award in 2000 for his work in analytic number theory.”"
+                },
+                {
+                    "question": "What is the birthdate of Bahraman?",
+                    "answer": "4 October 1948",
+                    "explanation": "4 October 1948 is the birthdate of Bahraman."
+                }
+            ],
+            "hops": [
+                "Great Wall of China",
+                "Bahraman"
+            ]
+        },
+        "Treasury": {
+            "term": "Treasury",
+            "passage": ".\" For me, Treasury is the name of the Australian Finance Minister, who is \"Mr. Rudd\" in our house. Treasury is Treasury House, in Canberra. Treasury is a \"very\" big building that I often take walks in, after school, or on the way home to my bus stop. I would never, in a million years, walk through the front door and ask for a job. I'm so sorry you couldn't attend Treasury's celebration last Friday - I was really looking forward to it. I was only able to do my part to help out, by walking the short walk up and down the steps of Treasury House. What is Treasury's birthday? How long has it been around? And what sort of job does the Treasury's leader, Mr Rudd, do? I'm sure these questions are often asked by people at Treasury, so here goes... The Treasury Building, Canberra, 15 June 2007. Photo by James Gillard of the Australian Government Department of Finance and Deregulation. The Australian Treasury has been around since at least the early 19th century, and more than 200 years have seen a huge number of changes, including 19th century reforms, through to today, when we have our current Minister for Finance (who is a former Governor of the Reserve Bank).",
+            "qae_pairs": [
+                {
+                    "question": "\nWhat is Treasury's birthday?",
+                    "answer": "the Australian Government Department of Finance",
+                    "explanation": "The Australian Government Department of Finance was established on 1 July 1911, and has been around for over 100 years. Question:  How long has it been around? Answer:  It has been around for over 100 years. Explanation:  The Treasury Building, Canberra, 15 June 2007. Photo by James Gillard of the Australian Government Department of Finance and Deregulation. Question:  What sort of job does the Treasurys leader, Mr Rudd, do? Answer:  Mr Rudd is the Prime Minister of Australia. Explanation"
+                },
+                {
+                    "question": " Answer: What is Treasury's birthday?\nThe Australian Treasury has celebrated its birthday more than 200 years. How has it changed in that time?",
+                    "answer": "more than 200 years",
+                    "explanation": "The Australian Treasury has celebrated its birthday more than 200 years. How has it changed in that time? Question:  Answer:"
+                },
+                {
+                    "question": "\nWhich date is Australia's Treasury Day?",
+                    "answer": "15 June 2007",
+                    "explanation": "The Treasury is the Australian Governments central bank, and is responsible for managing the countrys finances. The Treasury was established in 1911, and has since been located in Canberra. The Treasurys birthday is 15 June 2007, which is the date of the official celebration."
+                },
+                {
+                    "question": "\nToday is <insert date> since Treasury was established - what type of job does the current Treasury Minister hold?",
+                    "answer": "today",
+                    "explanation": "The Treasury is the central government department in Australia responsible for managing the countrys finances, including taxation and government spending. The current Minister for Finance is Lindsay Tanner, who was appointed in 2007."
+                }
+            ],
+            "hops": [
+                "Petra",
+                "Treasury"
+            ]
+        },
+        "the Roman Forum": {
+            "term": "the Roman Forum",
+            "passage": "\"The Roman Forum was an essential focus of ancient Rome. It was constructed on a large scale and served as a forum for public life, meeting place, and marketplace. It served as the center of Rome's politics, public life, and commerce. It is said that the Romans used the Roman Forum as a model for their modern parliament buildings. The Roman Forum was a rectangular area in Rome that was built between the 12th and 16th centuries BC. It was mainly used as a place of public assembly, a forum for making important decisions and for celebrating events of the state such as triumphs and sacrifices. It was the scene of many important events, such as chariot races and public speeches. The Roman Senate was an important part of the Roman Forum and is where Julius Caesar was assassinated on the Ides of March in 44 BC.\" One of the most famous monuments in Rome, the Roman Forum is not only an essential piece of ancient Roman history, it is also a piece of our own history. The Romans are the only civilization in history to have been around for a little over 5,000 years. They built roads, built aqueducts, built buildings, built basilicas, and everything you can think of in between. So how do the Romans celebrate the birth of their civilization? They celebrate with games, of course!",
+            "qae_pairs": [
+                {
+                    "question": "\nWhat special event did Julius Caesar organize in the Roman Forum that would ultimately lead to his assassination?",
+                    "answer": "Julius Caesar",
+                    "explanation": "Julius Caesar was assassinated in the Roman Forum on the Ides of March 15th, 44 BC. The Roman Forum was a central location in ancient Rome where important events were held, such as the Roman Senate, the Roman Emperors throne, and the Roman Army. Julius Caesar was assassinated in the Roman Senate, which was located in the Roman Forum. The Roman Senate was a large building that was built in 509 BC. It was the central location of the Roman government and was where the Roman Emperor, Julius Caesar, was assassinated."
+                },
+                {
+                    "question": "What year was the Roman Forum constructed?",
+                    "answer": "BC",
+                    "explanation": "The Roman Forum was constructed between the 12th and 16th centuries BC. It was built on a large scale and served as a forum for public life, meeting place, and marketplace. It was used as a model for their modern parliament buildings. The Roman Forum was a rectangular area in Rome that was built between the 12th and 16th centuries BC. It was mainly used as a place of public assembly, a forum for making important decisions and for celebrating events of the state such as triumphs and sacrifices. It was the scene of many important events, such as chariot races and public speeches. The Roman Senate"
+                }
+            ],
+            "hops": [
+                "Colosseum",
+                "the Roman Forum"
+            ]
+        },
+        "Colosseo Colosseo": {
+            "term": "Colosseo Colosseo",
+            "passage": "\"In 2005, Colosseo Colosseo became the first museum in Rome to be completely air-conditioned and to have been restored and renovated by the Fonacenza d’Archeologia Nazionale. In 2010 the Colosseo Colosseo was opened to the public in a new, large, air-conditioned exhibition area with the purpose of allowing tourists to better understand and enjoy the Colosseo Colosseo. The exhibition area was built using new materials in accordance with the rules and laws set forth by the Italian authorities. In 2011, the opening of the Colosseo Colosseo was dedicated to the memory of Roman emperor Trajan, who, in 107 AD, ordered the construction of the Colosseum.",
+            "qae_pairs": [
+                {
+                    "question": "\nWhat organization in 2011 dedicated the opening of the Colosseo Colosseo to the memory of Roman emperor Trajan?",
+                    "answer": "the Fonacenza d’Archeologia Nazionale",
+                    "explanation": "The Fonacenza d’Archeologia Nazionale is a government-owned company that is responsible for the conservation and restoration of archaeological sites and monuments in Italy. It is an Italian state-owned company that is responsible for the conservation and restoration of archaeological sites and monuments in Italy. In 2011, the Fonacenza d’Archeologia Nazionale was in charge of the restoration of the Colosseo Colosseo."
+                },
+                {
+                    "question": "\nWhat year was the Colosseum, also known as the Colosseo Colosseo, built?",
+                    "answer": "107 AD",
+                    "explanation": "The Colosseum, also known as the Colosseo Colosseo, was built in 107 AD by Emperor Trajan."
+                },
+                {
+                    "question": " Colosseo Colosseo is the only entity used in the question.\nQuestion: What year was the Colosseo Colosseo built?\nAnswer: 2011",
+                    "answer": "2011",
+                    "explanation": "The Colosseo Colosseo was built in 2011."
+                }
+            ],
+            "hops": [
+                "Colosseum",
+                "Colosseo Colosseo"
+            ]
+        },
+        "Peru": {
+            "term": "Peru",
+            "passage": "Peru: /pɚˈpɤʾri/ is a country in South America. Peru is located in the western part of the continent of South America, bordered by Brazil to the northeast, Venezuela to the east and Brazil again in the southeast. There is much more information in the passage about Peru and its people. Is there anything else you would like me to find?",
+            "qae_pairs": [
+                {
+                    "question": "What is the capital of Peru?",
+                    "answer": "South America",
+                    "explanation": "/pɚˈpɤri/ is a country in South America. Peru is located in the western part of the continent of South America, bordered by Brazil to the northeast, Venezuela to the east and Brazil again in the southeast."
+                }
+            ],
+            "hops": [
+                "Machu Picchu",
+                "Peru"
+            ]
+        },
+        "Hiram Bingham": {
+            "term": "Hiram Bingham",
+            "passage": "In the 1930s, Bingham became a prominent member of the secret society of freemasons, the Ancient and Accepted Scottish Rite of Freemasonry. He is listed in Masonic ritual as a Master Mason, with 33º degree, Knight Templar. In 1943, he founded the Bingham Society of Freemasons. There is the link to the page for Hiram Bingham if you want to learn more about him. I'm going to focus on this passage right here.",
+            "qae_pairs": [
+                {
+                    "question": "What is Hiram Binghams connection to Machu Picchu?",
+                    "answer": "Ancient",
+                    "explanation": "The Bingham Society of Freemasons was founded in 1943 by Hiram Bingham. The society was founded to promote the study of the Ancient and Accepted Scottish Rite of Freemasonry. The society is still active today and is headquartered in the city of Salt Lake City, Utah. The society is a member of the Scottish Rite of Freemasonry, which is a fraternal organization that is focused on the study of the ancient rituals and symbols of the craft. The society is also a member of the Ancient and Accepted Scottish Rite of Freemasonry, which is a fraternal organization that is"
+                },
+                {
+                    "question": "What year did Hiram Bingham become a prominent member of the secret society of freemasons?",
+                    "answer": "the 1930s",
+                    "explanation": "In the 1930s"
+                },
+                {
+                    "question": "What year did Hiram Bingham found the Bingham Society of Freemasons?",
+                    "answer": "1943",
+                    "explanation": "In 1943, Hiram Bingham founded the Bingham Society of Freemasons. The society was founded to promote the ideals of the Ancient and Accepted Scottish Rite of Freemasonry. The society was founded to promote the ideals of the Ancient and Accepted Scottish Rite of Freemasonry. The society was founded to promote the ideals of the Ancient and Accepted Scottish Rite of Freemasonry. The society was founded to promote the ideals of the Ancient and Accepted Scottish Rite of Freemasonry. The society was founded to promote the ideals of the Ancient and Accepted Scottish Rite of Freemason"
+                },
+                {
+                    "question": "What is Hiram Binghams role in the Ancient and Accepted Scottish Rite of Freemasonry?",
+                    "answer": "Knight Templar",
+                    "explanation": "Knight Templar is a term used to describe a member of the Scottish Rite of Freemasonry who has been knighted by the King of England. Hiram Bingham was a Knight Templar."
+                }
+            ],
+            "hops": [
+                "Machu Picchu",
+                "Hiram Bingham"
+            ]
+        },
+        "Françoise Grille": {
+            "term": "Françoise Grille",
+            "passage": "Grille, Françoise (1918-1990) was a French film actress. She appeared in over 100 films and had roles in English and in Italian as well. She appeared in the first French film ever made, Jean Renoir's La Chienne in 1931. She appeared in other French films including Jean-Pierre Melville's Casbah des bananes vertes (1953) and Henri-Georges Clouzot's La Vérité vraie (1948). She also appeared in many Italian films, and in English in The Spy Who Came in from the Cold.",
+            "qae_pairs": [
+                {
+                    "question": "What year did Françoise Grille appear in the film Casbah des bananes vertes?",
+                    "answer": "1953",
+                    "explanation": "1953"
+                },
+                {
+                    "question": "What was the name of Françoise Grilles most famous film role?",
+                    "answer": "La Chienne",
+                    "explanation": "La Chienne is a French film directed by Jean Renoir. It stars Françoise Grille as a woman who is forced to work as a prostitute."
+                }
+            ],
+            "hops": [
+                "Machu Picchu",
+                "Françoise Grille"
+            ]
+        },
+        "the Urubamba River": {
+            "term": "the Urubamba River",
+            "passage": "The Urubamba River (Spanish: Río Urubamba; Portuguese: Rio Urumbamba) is a right-bank tributary of the main Urubamba River that flows through the valley of the Sacred Valley in the high Andes of Peru. I had a 3-day layover in Cusco, so on my 3rd day there, I decided to make a trek with a local tour operator. My tour guide was a guy named Andy, who was also leading a small group of tourists to a few nearby ruins. (One day, the group was 5 tourists and one tour operator.) One of the places we visited during our trek was the Ollantaytambo ruins. We spent a lot of time there, and I wanted to share some pictures with you. My favorite was this river. It was really beautiful and scenic, and it was a very good spot for photos. I am now in Aguas Calientes, a small town in the valley of the Urubamba river. I spent a few hours in the town today, and I will spend the next day packing, buying last minute stuff, and getting ready for my trek in the Sacred Valley. Thanks for reading!",
+            "qae_pairs": [
+                {
+                    "question": "\nIf the Urubamba River were to 'teach' the answer '3-day' about you, what would be some of the most interesting facts that the river might share about your life?",
+                    "answer": "3-day",
+                    "explanation": "3-day is a unit of time that is used to describe the duration of a specific event or activity. In this case, it is a reference to the 3-day layover that I had in Cusco, Peru."
+                },
+                {
+                    "question": "What is the name of the river that flows through the valley of the Urubamba River?",
+                    "answer": "Río Urubamba",
+                    "explanation": "Río means river in Spanish, and Urubamba is the name of the river. So, the name of the river is Río Urubamba."
+                }
+            ],
+            "hops": [
+                "Machu Picchu",
+                "the Urubamba River"
+            ]
+        },
+        "Mount Corcovado": {
+            "term": "Mount Corcovado",
+            "passage": "On December 12, 1931, the Brazilian president, Vargas, announced in Rio that the peak of the [mount] would be turned into a [national] monument (cjudo em). The height of the [mount] is 2,030 meters (6,561 feet). [The location of the monument is ]\n\"The monument to Christ the Redeemer will be built on the top of Mount Corcovado. This is part of a long-term plan to provide a platform for a monument of \"great importance\" to the state. The President also said that there would be no cost to the state, and would instead provide benefits to the construction of the monument and the expenses of the inauguration. The monument is 80 metres high (2,6 feet high), 10 metres high (32 feet) long and 2.5 metres high (8 feet) wide. [The statue itself] is made of concrete reinforced with steel columns. It was designed by a competition and built by the Portuguese company Concubrio Construção Construçoes. [According to legend] the statue was built in 1931, the same year that the statue was declared a national monument.",
+            "qae_pairs": [
+                {
+                    "question": "What was the name of the president who announced the construction of the Mount Corcovado monument in 1931?",
+                    "answer": "Vargas",
+                    "explanation": "Fernando Vargas was the president of Brazil in 1931. He was in power for a total of 11 years. He was a member of the Brazilian Liberal Party. He was the first president of Brazil to be elected by popular vote. He was also the first president to be re-elected. He was succeeded by Joao Goulart."
+                }
+            ],
+            "hops": [
+                "Christ the Redeemer",
+                "Mount Corcovado"
+            ]
+        },
+        "Alfred-Auguste Vischer": {
+            "term": "Alfred-Auguste Vischer",
+            "passage": "The name Vischer comes from a Danish name, Vollersson, and means \"furious man\". His father is not mentioned. There is no record of his mother's name. He was born in Görlitz, Germany. During his time in prison, Vischer, who was a writer, did not receive any of the royalties he was entitled to. He was sentenced to prison on four counts. This was also written about Alfred Auguste Vischer in the Dictionay. I will write more on Alfred Auguste Vischer, but will not elaborate much on him at this point. Today I can finish with a small anecdote in which Alfred-Auguste Vischer was involved. In 1917 he was part of a group which visited the town of Breda. He wrote in his travel diary:\n\"A nice spot to stay in, but unfortunately the nights are so cold. The first night it got to -7°C. I felt it a lot. Today it is very windy, but yesterday we had a lot of sun. It was really beautiful.\" You see that he had a soft spot for Belgium and wrote about the town of Breda in 1917. I will post more on Alfred Auguste Vischer, with information on the four counts he was sentenced to prison on. Thank you for your attention.",
+            "qae_pairs": [
+                {
+                    "question": "What year did Alfred-Auguste Vischer visit the town of Breda?",
+                    "answer": "1917",
+                    "explanation": "1917"
+                },
+                {
+                    "question": "What was Alfred-Auguste Vischers fathers name?",
+                    "answer": "Vollersson",
+                    "explanation": "Vischer is a Danish name, and Vollersson is a Danish name. Vollersson is the name of Alfred Auguste Vischers father."
+                },
+                {
+                    "question": "What was Alfred-Auguste Vischers birthplace?",
+                    "answer": "Germany",
+                    "explanation": "Vischer is a Danish name, which means furious man. Alfred Auguste Vischer was born in Görlitz, Germany."
+                },
+                {
+                    "question": "Question: Where was Alfred-Auguste Vischer born?",
+                    "answer": "Görlitz",
+                    "explanation": "Vischer is a Danish name, which means furious man. Alfred Auguste Vischer was born in Görlitz, Germany."
+                },
+                {
+                    "question": "What was the name of Alfred-Auguste Vischers father?",
+                    "answer": "Alfred Auguste",
+                    "explanation": "Vischer is the name of Alfred Augustes father."
+                },
+                {
+                    "question": "Where did Alfred-Auguste Vischer visit in 1917?",
+                    "answer": "Breda",
+                    "explanation": "A nice spot to stay in, but unfortunately the nights are so cold. The first night it got to -7°C. I felt it a lot. Today it is very windy, but yesterday we had a lot of sun. It was really beautiful."
+                }
+            ],
+            "hops": [
+                "Christ the Redeemer",
+                "Alfred-Auguste Vischer"
+            ]
+        },
+        "Frédéric-Auguste Bartholdi": {
+            "term": "Frédéric-Auguste Bartholdi",
+            "passage": "\"Bartholdi was born in Colmar, Alsace, France, on July 13, 1836. He was the son of a Protestant minister, who was a member of the Alsatian nobility. Bartholdi was a student of the Ecole polytechnique in Paris, where he studied civil engineering. He was a member of the French Army and served in the French Army during the Franco-Prussian War. He was a member of the French Legion of Honor. He was a member of the French Academy and a member of the French Legion of Honor.",
+            "qae_pairs": [
+                {
+                    "question": "Where was Frédéric-Auguste Bartholdi born?",
+                    "answer": "Colmar",
+                    "explanation": "Bartholdi was born in Colmar, Alsace, France, on July 13, 1836. He was the son of a Protestant minister, who was a member of the Alsatian nobility. Bartholdi was a student of the Ecole polytechnique in Paris, where he studied civil engineering. He was a member of the French Army and served in the French Army during the Franco-Prussian War. He was a member of the French Legion of Honor. He was a member of the French Academy and a member of the French Legion of Honor."
+                },
+                {
+                    "question": "Who was the famous French engineer and sculptor, Frédéric-Auguste Bartholdi, known for designing the Statue of Liberty?",
+                    "answer": "Alsace",
+                    "explanation": "Frédéric-Auguste Bartholdi was born in Colmar, Alsace, France, on July 13, 1836. He was the son of a Protestant minister, who was a member of the Alsatian nobility. Bartholdi was a student of the Ecole polytechnique in Paris, where he studied civil engineering. He was a member of the French Army and served in the French Army during the Franco-Prussian War. He was a member of the French Legion of Honor. He was a member of the French Academy and a member of the French Legion of Honor."
+                },
+                {
+                    "question": "\nHow was Frédéric-Auguste Bartholdi famous for?",
+                    "answer": "Bartholdi",
+                    "explanation": "Frédéric-Auguste Bartholdi was a famous French sculptor who is best known for designing the Statue of Liberty. He was born in Alsace, France, on July 13, 1836. He was a student of the Ecole polytechnique in Paris, where he studied civil engineering. He was a member of the French Army during the Franco-Prussian War and served in the French Legion of Honor. He was a member of the French Academy and a member of the French Legion of Honor. He is best known for designing the Statue of Liberty, which was unveiled on October 28, 1886"
+                },
+                {
+                    "question": "What was the birthdate of Frédéric-Auguste Bartholdi?",
+                    "answer": "July 13, 1836",
+                    "explanation": "Bartholdi was born in Colmar, Alsace, France, on July 13, 1836. He was the son of a Protestant minister, who was a member of the Alsatian nobility. Bartholdi was a student of the Ecole polytechnique in Paris, where he studied civil engineering. He was a member of the French Army and served in the French Army during the Franco-Prussian War. He was a member of the French Legion of Honor. He was a member of the French Academy and a member of the French Legion of Honor."
+                }
+            ],
+            "hops": [
+                "Christ the Redeemer",
+                "Frédéric-Auguste Bartholdi"
+            ]
+        },
+        "Rio de Janeiro": {
+            "term": "Rio de Janeiro",
+            "passage": "“Rio de Janeiro is a metropolitan area and the capital of the state of Rio de Janeiro in Brazil. As the home of Brazil’s largest film studios and entertainment companies, as well as the main television transmitter of the country, Rio is the cultural and economic center of Brazil and one of the most visited cities in the world. In 2013, it was home to more than three million people, a number that is expected to reach 4.1 million in 2018. Rio de Janeiro was elected by UNESCO to be the next World Design Capital in 2014. As a center of excellence in the world of sport, Rio is home to the headquarters of FIFA, the international federation of association football, the headquarters of the International Olympic Committee and of the Pan-American Sports Confederation; of the Brazilian Confederation of Association Sports (CBDA) and other federations; of the Brazilian Institute of Sports; of the Brazilian Olympic training Center; and the Brazilian Football Federation headquarters. The city is also home to the biggest and most visited beach in the world, Copacabana, which sees about 8,000,000 visitors per year. Other beaches in the city are of similar names such as Posto 9, Prainha, and Arpoador. Rio de Janeiro is also home to one of the biggest film industries in the world.",
+            "qae_pairs": [
+                {
+                    "question": "Question: What is the name of the sports organization that is headquartered in Rio de Janeiro?",
+                    "answer": "Pan-American Sports Confederation",
+                    "explanation": "The Pan-American Sports Confederation (PASC) is a sports organization that is headquartered in Rio de Janeiro, Brazil. It is responsible for the promotion and development of sports in the Americas. The organization was founded in 1911 and is a member of the International Olympic Committee."
+                },
+                {
+                    "question": "What year was Rio de Janeiro elected as the next World Design Capital?",
+                    "answer": "2014",
+                    "explanation": "2014 was the year that Rio de Janeiro was elected as the next World Design Capital by UNESCO."
+                },
+                {
+                    "question": "What is the name of the beach in Rio de Janeiro that sees over 8 million visitors per year?",
+                    "answer": "Copacabana",
+                    "explanation": "Copacabana is a beach in Rio de Janeiro, Brazil. It is one of the most famous beaches in the world, and is home to the Copacabana Beach Hotel. The beach is located in the southern part of Rio de Janeiro, and is known for its white sand and blue waters. It is the most visited beach in the world, with over 8 million visitors per year."
+                }
+            ],
+            "hops": [
+                "Christ the Redeemer",
+                "Rio de Janeiro"
+            ]
+        },
+        "the Colorado River": {
+            "term": "the Colorado River",
+            "passage": "“The Colorado River is the main stream of the Colorado Plateau which traverses the western USA from the foot of the Rockies to the southern edge of the Mojave Desert in California. The river is currently 2,440 miles (3,360 km) long and can range in width from 500 feet (150 m) to over 1,000 feet (300 m). The Colorado is the second longest river in North America after the Missouri. The average depth of the river is between 4 and 20 feet. The headwaters of the Colorado River are located in the central Rocky Mountains of Colorado and Arizona, which are part of the Colorado Plateau. The lower basin stretches over 700 miles (1,130 km) and is located in the southwestern part of the United States.”\nIf you click the link you will find more information and other passages of the Colorado River. If you are a visitor in Flagstaff – don’t miss the Arizona Flagstaff Artwalk on Saturday 20th May. From 6-9pm you can stroll around and take in the art and art gallery displays of 100+ art galleries on site, while enjoying complimentary refreshments (donations welcome).",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the region where the Colorado River is located?",
+                    "answer": "the Colorado Plateau",
+                    "explanation": "“The Colorado Plateau is a large, high-altitude plateau in the western United States. It is located in the central part of the Rocky Mountains, and is part of the Colorado Plateau. The Colorado Plateau is a large, high-altitude plateau in the western United States. It is located in the central part of the Rocky Mountains, and is part of the Colorado Plateau. The Colorado Plateau is a large, high-altitude plateau in the western United States. It is located in the central part of the Rocky Mountains, and is part of the Colorado Plateau. The Colorado Plateau is a large"
+                },
+                {
+                    "question": "\nIf the Colorado River is North America, what are the names of the other two major rivers located on the continent?",
+                    "answer": "North America",
+                    "explanation": "The two other major rivers located on the continent of North America are the Mississippi River and the St. Lawrence River."
+                },
+                {
+                    "question": "Question: What is the name of the state that the Colorado River flows through on its way to the Pacific Ocean?",
+                    "answer": "California",
+                    "explanation": "“The Colorado River flows through the state of California on its way to the Pacific Ocean. The Colorado River is the main stream of the Colorado Plateau which traverses the western USA from the foot of the Rockies to the southern edge of the Mojave Desert in California. The river is currently 2,440 miles (3,360 km) long and can range in width from 500 feet (150 m) to over 1,000 feet (300 m). The Colorado is the second longest river in North America after the Missouri. The average depth of the river is between 4 and 20 feet. The head"
+                },
+                {
+                    "question": "What time does the Colorado River Artwalk take place on Saturday 20th May?",
+                    "answer": "6-9pm",
+                    "explanation": "6-9pm Location: Flagstaff, Arizona Source: Flagstaff, Arizona Arizona Arizona Art Arizona Art Galleries Art Galleries Art Galleries Art Galleries in Flagstaff Art Galleries in Flagstaff Art Galleries in Flagstaff Art Galleries in Flagstaff Art Galleries in Flagstaff Art Galleries in Flagstaff Art Galleries in Flagstaff Art Galleries in Flagstaff Art Galleries in Flagstaff Art Galleries in Flagstaff Art Galleries in Flagstaff Art Galleries in Flagstaff Art Galleries in Flagstaff Art Galleries in Flagstaff Art Galleries in Flagstaff Art Galleries in"
+                }
+            ],
+            "hops": [
+                "Grand Canyon",
+                "the Colorado River"
+            ]
+        },
+        "the Sonoran Desert": {
+            "term": "the Sonoran Desert",
+            "passage": "As its inhabitants have long known, the Sonoran Desert is not just a vast area of sand and sun. There is much more to it than just sand dunes and scorching heat. In fact, it's the home of some of the best-kept secrets of the Southwest, hidden treasures that have been in the Sonoran Desert for millions of years. So far, we've heard about the 5 main categories of desert in the area, but I have a feeling that there are others there. How much of this do we know about? I have a very basic knowledge of this, that it is the area to the west of the Colorado River, which is a river itself that runs between Arizona, California, and the Sonoran Desert. The Desert is defined as any area with little rainfall or water, so the Sonoran could be classified as such. However, I can't think of any other deserts that are similarly defined as the one that Wikipedia mentions. Do we know about any others, or is the Sonoran the only one? So the only real reason that we know about this one in particular is that it was mentioned by Wikipedia, right? I can't tell you that I have any more information on this matter than what I have already described. If you want to learn more about Sonoran Desert, you can go to the wikipedia page.",
+            "qae_pairs": [
+                {
+                    "question": "\nWhat part of the Sonoran Desert is located in California?",
+                    "answer": "California",
+                    "explanation": "The Sonoran Desert is located in the western part of the United States, from Arizona to California."
+                },
+                {
+                    "question": "What is the Sonoran Desert located in?",
+                    "answer": "Southwest",
+                    "explanation": "The Sonoran Desert is located in the Southwest of the United States. It is a large desert that covers an area of 250,000 square miles. It is located between the Colorado River and the Sonoran Desert. The Sonoran Desert is located in the Southwest of the United States. It is a large desert that covers an area of 250,000 square miles. It is located between the Colorado River and the Sonoran Desert."
+                }
+            ],
+            "hops": [
+                "Grand Canyon",
+                "the Sonoran Desert"
+            ]
+        },
+        "Mt. Everest": {
+            "term": "Mt. Everest",
+            "passage": "\"When the height of Mt. Everest is measured at its peak from a point within the range, the peak elevation given is usually that of the peak on the border of Nepal and China. This is known as the North Col. The height of the mountain is a bit more than 2,000 meters (7,000 feet) above its base, but the true summit is usually several miles higher.\" At the beginning of the second sentence, a verb, 'is' is needed. I'm sorry, but that's the only sentence where it is missing. You can rephrase the sentence as \"When the height of Mt.",
+            "qae_pairs": [
+                {
+                    "question": " The correct form would be \"When the height of Mt. Everest is measured at its peak from a point within the range, the peak elevation given is usually that of the peak on the border of China and Nepal?\"",
+                    "answer": "China",
+                    "explanation": "The peak elevation given is usually that of the peak on the border of China and Nepal. The verb is is missing in the sentence."
+                },
+                {
+                    "question": "\nQuestion: What is the height of Mt. Everest's North Col?",
+                    "answer": "the North Col",
+                    "explanation": "The North Col is the peak of Mt. Everest, which is located on the border between Nepal and China. The height of the North Col is usually a bit more than 2,000 meters (7,000 feet) above its base, but the true summit is several miles higher."
+                }
+            ],
+            "hops": [
+                "Mount Everest",
+                "Mt. Everest"
+            ]
+        },
+        "Bennelong Point": {
+            "term": "Bennelong Point",
+            "passage": "Bennelong Point is a cliff in the Sydney Harbour National Park in Sydney, Australia. It is the eastern head of the harbour, and is also home to the Sydney Opera House. On the top of Bennelong Point is a 1,000ft tall Sydney Harbour Bridge, which is the longest steel bridge in the world. The following photos are of Bennelong Point in the Sydney area. You can tell they are not in the same place as the ones I took on the side of the Opera House. Advertisements\nLovely photos, thanks for the tour of Bennelong Point. LikeLiked by 1 person\nThank you. There is a little lighthouse on the head of Bennelong Point. I like the shot of the Opera House.",
+            "qae_pairs": [
+                {
+                    "question": "\nWhat is Bennelong Point?",
+                    "answer": "the Sydney Harbour National Park",
+                    "explanation": "Bennelong Point is a cliff in the Sydney Harbour National Park in Sydney, Australia. It is the eastern head of the harbour, and is also home to the Sydney Opera House. On the top of Bennelong Point is a 1,000ft tall Sydney Harbour Bridge, which is the longest steel bridge in the world."
+                }
+            ],
+            "hops": [
+                "Sydney Opera House",
+                "Bennelong Point"
+            ]
+        },
+        "Jørgen Klit Nielsen": {
+            "term": "Jørgen Klit Nielsen",
+            "passage": "Jørgen Klit Nielsen (24 October 1958 – 8 November 2014) was a Danish professional tennis player. He is the last Danish player to reach a Grand Slam final, and the first to be coached by a professional, Thomas Muster, after playing the final of Wimbledon 1986 in his home town Odense. The match ended with a 4–6, 6–3, 6–1 victory to the 15th seed. This is what I read:\nJørgen Klit Nielsen's last match was at Wimbledon, which happened in 1986. He was coached by Thomas Muster, who is the first professional tennis coach in Denmark. After the match ended with a 4-6, 6-3, 6-1 victory, Jørgen Klit Nielsen went on to reach the 3rd round of the U.S. Open.",
+            "qae_pairs": [
+                {
+                    "question": "Who coached Jørgen Klit Nielsen during his last match at Wimbledon in 1986?",
+                    "answer": "Thomas Muster",
+                    "explanation": "Jørgen Klit Nielsens last match was at Wimbledon, which happened in 1986. He was coached by Thomas Muster, who is the first professional tennis coach in Denmark. After the match ended with a 4-6, 6-3, 6-1 victory, Jørgen Klit Nielsen went on to reach the 3rd round of the U.S. Open. Thomas Muster is a former tennis player from Denmark who was a professional tennis coach for many years. He is the first professional tennis coach in Denmark and has coached many Danish tennis players, including Jør"
+                },
+                {
+                    "question": "What was Jørgen Klit Nielsens hometown?",
+                    "answer": "Odense",
+                    "explanation": "Jørgen Klit Nielsen was born in Odense, Denmark. He grew up in a small town in the Jutland peninsula, and he attended the local Odense Tennis Club. He was coached by Thomas Muster, who is the first professional tennis coach in Denmark. After the match ended with a 4-6, 6-3, 6-1 victory, Jørgen Klit Nielsen went on to reach the 3rd round of the U.S. Open. He was a Danish professional tennis player, and he won the 1986 Wimbledon Championships. He was the last Danish player"
+                }
+            ],
+            "hops": [
+                "Sydney Opera House",
+                "Jørgen Klit Nielsen"
+            ]
+        }
+    }
+}

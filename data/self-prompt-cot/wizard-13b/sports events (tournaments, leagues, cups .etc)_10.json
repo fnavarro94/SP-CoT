@@ -1,0 +1,446 @@
+{
+    "first_hops": {
+        "FIFA World Cup": {
+            "term": "FIFA World Cup",
+            "passage": "The FIFA World Cup is an international football tournament contested by the men's national teams of the members of Fédération Internationale de Football Association (FIFA), the sport's global governing body. The tournament has been held every four years since the first edition in 1930, except for the years of the Second World War, with the exception of the 1942 and 1946 tournaments, which were held as a single tournament contested by national teams in South America. The tournament consists of several stages, including qualification, which takes place over the preceding three years, and the final tournament, which is held over a month in the host nation(s). The qualification process, which is conducted by the respective continental confederations, determines the participating teams, with the number of places allocated to each continent being based on the relative strength of the confederations' teams. The final tournament, which is held every four years, consists of several stages, including the group stage, knockout stage, and the final. The group stage, which is held in multiple venues across the host nation(s), involves the 32 teams being divided into eight groups of four teams each. Each team plays the other three teams in their group once, with the top two teams from each group advancing to the knockout stage. The knockout stage, which is held in multiple venues across the host nation(s), involves the remaining 16 teams being drawn into four sets of single-elimination matches. The winners of each match advance to the next round, with the final two teams playing the championship match to determine the winner of the tournament. The FIFA World Cup is the most prestigious association football tournament in the world, and the most widely viewed and followed sporting event in the world, exceeding even the Olympic Games.",
+            "qae_pairs": [
+                {
+                    "question": "What is the year in which the FIFA World Cup tournament was last held during the Second World War?",
+                    "answer": "1946",
+                    "explanation": "The tournament has been held every four years since the first edition in 1930, except for the years of the Second World War, with the exception of the 1942 and 1946 tournaments, which were held as a single tournament contested by national teams in South America."
+                },
+                {
+                    "question": "* How often is the FIFA World Cup held? * When is the FIFA World Cup held? * How many teams participate in the FIFA World Cup? * What is the format of the FIFA World Cup?",
+                    "answer": "every four years",
+                    "explanation": "The tournament has been held every four years since the first edition in 1930, except for the years of the Second World War, with the exception of the 1942 and 1946 tournaments, which were held as a single tournament contested by national teams in South America."
+                }
+            ],
+            "hops": [
+                "FIFA World Cup"
+            ]
+        },
+        "UEFA Champions League": {
+            "term": "UEFA Champions League",
+            "passage": "The UEFA Champions League is an annual continental club football competition organised by the Union of European Football Associations (UEFA) and contested by top-division European clubs. It is one of the most prestigious club competitions in the world and the most prestigious club competition in European football, rivalling the FIFA Club World Cup and the Copa Libertadores. The competition was first held in the 1992–93 season as the UEFA Champions League, but was previously known as the European Cup from 1955 to 1992. The competition consists of a group stage, followed by a knockout stage that culminates in a single-match final. The winner of the UEFA Champions League qualifies for the following year's FIFA Club World Cup.",
+            "qae_pairs": [
+                {
+                    "question": "What is the full name of the UEFA Champions League organiser?",
+                    "answer": "the Union of European Football Associations",
+                    "explanation": "The UEFA Champions League is an annual continental club football competition organised by the Union of European Football Associations (UEFA) and contested by top-division European clubs."
+                }
+            ],
+            "hops": [
+                "UEFA Champions League"
+            ]
+        },
+        "NBA Finals": {
+            "term": "NBA Finals",
+            "passage": "The NBA Finals is the championship series of the National Basketball Association (NBA). The series was inaugurated in 1947, and is played between the Eastern Conference champion and the Western Conference champion. The winner of the NBA Finals receives the Larry O'Brien Championship Trophy. The NBA Finals has been contested 73 times, with the Eastern Conference holding a 38-35 advantage in the series. The Boston Celtics have won the most championships with 17, followed by the Los Angeles Lakers with 16. The most recent NBA Finals was held in 2021, with the Los Angeles Lakers defeating the Miami Heat in a 4-2 series.",
+            "qae_pairs": [
+                {
+                    "question": "What team won the most recent NBA Finals in 2021?",
+                    "answer": "the Los Angeles Lakers",
+                    "explanation": "The most recent NBA Finals was held in 2021, with the Los Angeles Lakers defeating the Miami Heat in a 4-2 series."
+                },
+                {
+                    "question": "What is the name of the professional basketball league in the United States?",
+                    "answer": "the National Basketball Association",
+                    "explanation": "The NBA Finals is the championship series of the National Basketball Association (NBA)."
+                },
+                {
+                    "question": "Who has won the most championships in NBA history?",
+                    "answer": "The Boston Celtics",
+                    "explanation": "The Boston Celtics have won the most championships with 17, followed by the Los Angeles Lakers with 16."
+                },
+                {
+                    "question": "'What year was the NBA Finals inaugurated?'",
+                    "answer": "1947",
+                    "explanation": "The NBA Finals was inaugurated in 1947."
+                },
+                {
+                    "question": "What is the name of the trophy given to the winner of the NBA Finals?",
+                    "answer": "the Larry O'Brien Championship Trophy",
+                    "explanation": "The winner of the NBA Finals receives the Larry O'Brien Championship Trophy."
+                }
+            ],
+            "hops": [
+                "NBA Finals"
+            ]
+        },
+        "Wimbledon Championships": {
+            "term": "Wimbledon Championships",
+            "passage": "Wimbledon Championships, also known simply as Wimbledon, is the oldest tennis tournament in the world, and is held annually in late June and early July at the All England Club in Wimbledon, London, United Kingdom. The tournament is considered the most prestigious event in the sport of tennis, and the winners of the men's and women's singles titles are widely regarded as the true champions of the sport. The tournament was first held in 1877, and has been held every year since, except for a break during both World War I and World War II. The tournament is played on grass courts, and is one of the only three Grand Slam tournaments to do so, the others being the Australian Open and the US Open. The tournament consists of five main events: men's and women's singles, men's and women's doubles, and mixed doubles. The tournament is played over two weeks, and is divided into several stages, including qualifying rounds, the main draw, and the final rounds. The tournament is known for its strict traditions and rules, including a strict dress code for players and spectators, and a ban on advertising and sponsorship logos on player clothing and equipment. The tournament is also known for its unique scoring system, which includes a tiebreaker in the event of a score of 6-6 in each set, and a sudden death point in the event of a score of 12-12 in the final set. The tournament has been won by many of the greatest players in the history of the sport, including Bjorn Borg, Pete Sampras, Roger Federer, and Serena Williams.",
+            "qae_pairs": [
+                {
+                    "question": "Which country is the location of the All England Club in Wimbledon, where the Wimbledon Championships are held annually?",
+                    "answer": "United Kingdom",
+                    "explanation": "The tournament is considered the most prestigious event in the sport of tennis, and the winners of the men's and women's singles titles are widely regarded as the true champions of the sport."
+                },
+                {
+                    "question": "What year was the Wimbledon Championships first held?",
+                    "answer": "1877",
+                    "explanation": "The tournament was first held in 1877, and has been held every year since, except for a break during both World War I and World War II."
+                },
+                {
+                    "question": "What is the date of the Wimbledon Championships?",
+                    "answer": "late June",
+                    "explanation": "The tournament is considered the most prestigious event in the sport of tennis, and the winners of the men's and women's singles titles are widely regarded as the true champions of the sport."
+                },
+                {
+                    "question": "What is the frequency of Wimbledon Championships?",
+                    "answer": "annually",
+                    "explanation": "The tournament is considered the most prestigious event in the sport of tennis, and the winners of the men's and women's singles titles are widely regarded as the true champions of the sport. Answer: The tournament is considered the most prestigious event in the sport of tennis, and the winners of the men's and women's singles titles are widely regarded as the true champions of the sport."
+                }
+            ],
+            "hops": [
+                "Wimbledon Championships"
+            ]
+        },
+        "Australian Open": {
+            "term": "Australian Open",
+            "passage": "The Australian Open is a major tennis tournament held annually over the last fortnight of January in Melbourne, Australia. It is the first of the four Grand Slam tournaments to be held each year. The tournament features men's and women's singles; men's, women's, and mixed doubles; junior's championships; and wheelchair, legends, and exhibition events. The tournament is played on hard courts and, in even-numbered years, also features the season-opening Hopman Cup, a mixed teams event. The Australian Open is managed by Tennis Australia, a not-for-profit organization, and is held at Melbourne Park, which consists of multiple courts, including the Rod Laver Arena, Hisense Arena, and the refurbished Margaret Court Arena. The tournament has a rich history, dating back to 1905 when it was first held in Sydney, and has been held in Melbourne since 1972. The tournament has been won by many of the greatest players in tennis history, including Roy Emerson, Rod Laver, Margaret Court, and Novak Djokovic, who have won the tournament a record seven times each. The tournament has also been the site of many memorable matches and upsets, such as the 2012 final between Rafael Nadal and Novak Djokovic, which lasted over five hours and is considered one of the greatest tennis matches of all time. The Australian Open is one of the most prestigious tennis tournaments in the world and is widely regarded as the premier tennis event in the Asia-Pacific region.",
+            "qae_pairs": [
+                {
+                    "question": "'What is the record for most Australian Open titles held by a male tennis player?'",
+                    "answer": "Novak Djokovic",
+                    "explanation": "Novak Djokovic has won the tournament a record seven times."
+                },
+                {
+                    "question": "In which city is the Australian Open held annually?",
+                    "answer": "Melbourne",
+                    "explanation": "The Australian Open is held annually in Melbourne, Australia."
+                },
+                {
+                    "question": "'Which month has 31 days?'",
+                    "answer": "January",
+                    "explanation": "The Australian Open is a major tennis tournament held annually over the last fortnight of January in Melbourne, Australia."
+                },
+                {
+                    "question": "\"What are the four major tennis tournaments held each year?\"",
+                    "answer": "Grand Slam",
+                    "explanation": "The Australian Open is a major tennis tournament held annually over the last fortnight of January in Melbourne, Australia. It is the first of the four Grand Slam tournaments to be held each year."
+                }
+            ],
+            "hops": [
+                "Australian Open"
+            ]
+        },
+        "Super Bowl": {
+            "term": "Super Bowl",
+            "passage": "The Super Bowl is the championship game of the National Football League (NFL), the highest level of professional American football in the United States, culminating a season that begins in the late summer of the previous calendar year. The game is held annually on the first Sunday in February, and is intended to showcase the best team in the NFL. The game is usually held in a cold-weather city, and is often accompanied by a week-long series of events and activities, including concerts, parties, and other festivities. The Super Bowl is one of the most-watched sporting events in the world, with an estimated 100 million viewers in the United States alone. The game is also broadcast internationally, and is watched by millions of people around the world. The Super Bowl halftime show, featuring popular music artists, is a highly-anticipated event, and is often considered to be the highlight of the game for many viewers. The Super Bowl is also known for its commercials, which are often highly-anticipated and widely discussed. The Super Bowl is a cultural phenomenon, and is considered to be one of the most important sporting events in the United States.",
+            "qae_pairs": [
+                {
+                    "question": "What month is the Super Bowl held in?",
+                    "answer": "February",
+                    "explanation": "The Super Bowl is held annually on the first Sunday in February."
+                },
+                {
+                    "question": "What is the highest level of professional American football in the United States?",
+                    "answer": "the National Football League",
+                    "explanation": "The Super Bowl is the championship game of the National Football League (NFL), the highest level of professional American football in the United States."
+                },
+                {
+                    "question": "What is the season in which the NFL season begins?",
+                    "answer": "the late summer",
+                    "explanation": "The Super Bowl is the championship game of the National Football League (NFL), the highest level of professional American football in the United States, culminating a season that begins in the late summer of the previous calendar year. The evidence sentence is The Super Bowl is the championship game of the National Football League (NFL), the highest level of professional American football in the United States, culminating a season that begins in the late summer of the previous calendar year."
+                }
+            ],
+            "hops": [
+                "Super Bowl"
+            ]
+        },
+        "Cricket World Cup": {
+            "term": "Cricket World Cup",
+            "passage": "Cricket World Cup is the premier international championship of the sport of cricket. The tournament is organised by the International Cricket Council (ICC) and is held every four years. The tournament was first held in 1975 in England, and has since been held nine times, with the most recent tournament being held in 2019 in England and Wales. The tournament is contested by the full members of the ICC, as well as other national teams that have been granted ODI status. The teams are divided into groups, with the top two teams from each group progressing to a knockout stage. The knockout stage consists of a quarter-final, a semi-final, and a final. The tournament has been won by six different teams, with Australia being the most successful team, having won the tournament five times. The other teams to have won the tournament are West Indies, India, Pakistan, Sri Lanka, and England. The tournament has been criticised for its length, with some arguing that it is too long and that it detracts from the quality of the cricket. However, it is widely regarded as the pinnacle of the sport and is watched by millions of people around the world.",
+            "qae_pairs": [
+                {
+                    "question": "Cricket World Cup: Which team has won the tournament the most?",
+                    "answer": "Australia",
+                    "explanation": "The tournament has been won by six different teams, with Australia being the most successful team, having won the tournament five times."
+                },
+                {
+                    "question": "'In which round of the tournament do the top two teams from each group progress?'",
+                    "answer": "quarter-final",
+                    "explanation": "The knockout stage consists of a quarter-final, a semi-final, and a final."
+                },
+                {
+                    "question": "'What is the year of the most recent Cricket World Cup?' 'What is the year of the next Cricket World Cup?' 'What is the year of the first Cricket World Cup?' 'What is the year of the Cricket World Cup that was held in England",
+                    "answer": "2019",
+                    "explanation": "The tournament was first held in 1975 in England, and has since been held nine times, with the most recent tournament being held in 2019 in England and Wales."
+                },
+                {
+                    "question": "1. In which year was the first Cricket World Cup held? 2. Who won the first Cricket World Cup? 3. How many times has Australia won the Cricket World Cup? 4. Which team has never won the Cricket World Cup? 5. How many teams comp",
+                    "answer": "1975",
+                    "explanation": "The tournament is contested by the full members of the ICC, as well as other national teams that have been granted ODI status. Evidence sentence: The tournament is contested by the full members of the ICC, as well as other national teams that have been granted ODI status."
+                }
+            ],
+            "hops": [
+                "Cricket World Cup"
+            ]
+        },
+        "Formula One World Championship": {
+            "term": "Formula One World Championship",
+            "passage": "Formula One World Championship is the highest class of single-seat auto racing that is sanctioned by the Fédération Internationale de l'Automobile (FIA). The \"formula\" in the name refers to a set of rules to which all participants' cars must conform. The F1 season consists of a series of races, known as Grands Prix, which are held on purpose-built circuits and public roads. The results of each race are combined to determine two annual World Championships, one for drivers and one for constructors. The FIA Formula One World Championship has a long history dating back to the 1950s, and it is widely considered to be the highest class of international open-wheeled single-seater racing. The championship is recognized by the International Olympic Committee (IOC) as a sporting event, and the winner of the World Drivers' Championship is considered to be one of the greatest athletes in the world. The championship is contested by teams with two drivers each, and each driver competes for their respective team and uses the same car during the entire season. The cars are designed and built by the teams, and they are highly advanced and technologically advanced machines that are capable of reaching speeds in excess of 360 km/h (223 mph). The cars are powered by highly advanced and powerful V6 turbocharged engines that produce over 1,000 horsepower. The championship is highly competitive, and the teams and drivers are constantly pushing the boundaries of what is possible in terms of speed, performance, and technology. The championship is also highly lucrative, with teams and drivers earning millions of dollars in prize money and sponsorship deals.",
+            "qae_pairs": [
+                {
+                    "question": "What is the history of the FIA Formula One World Championship?",
+                    "answer": "the 1950s",
+                    "explanation": "The FIA Formula One World Championship has a long history dating back to the 1950s."
+                },
+                {
+                    "question": "What are the races in the Formula One World Championship called?",
+                    "answer": "Grands Prix",
+                    "explanation": "The FIA Formula One World Championship has a long history dating back to the 1950s, and it is widely considered to be the highest class of international open-wheeled single-seater racing."
+                },
+                {
+                    "question": "What is the governing body of Formula One World Championship?",
+                    "answer": "the Fédération Internationale de l'Automobile",
+                    "explanation": "Formula One World Championship is the highest class of single-seat auto racing that is sanctioned by the Fédération Internationale de l'Automobile (FIA)."
+                },
+                {
+                    "question": "What is the organization that recognizes the FIA Formula One World Championship as a sporting event?",
+                    "answer": "the International Olympic Committee",
+                    "explanation": "The FIA Formula One World Championship has a long history dating back to the 1950s, and it is widely considered to be the highest class of international open-wheeled single-seater racing."
+                }
+            ],
+            "hops": [
+                "Formula One World Championship"
+            ]
+        },
+        "PGA Championship": {
+            "term": "PGA Championship",
+            "passage": "The PGA Championship is a golf tournament conducted by the Professional Golfers' Association of America (PGA of America) in the United States. It is one of the four major championships in men's professional golf, and it is held in August of every year. The PGA Championship is played on a variety of courses, usually in the United States, but occasionally in other countries. The tournament was first held in 1916 and has been held annually since 1934. The PGA Championship is a stroke play competition, and the format is usually over four days. The winner of the PGA Championship receives the Wanamaker Trophy, named after the founder of the PGA of America, Rodman Wanamaker. The PGA Championship is considered one of the most prestigious championships in professional golf, and it is one of the most difficult tournaments to win due to the strong field of players that compete in it.",
+            "qae_pairs": [
+                {
+                    "question": "What year was the PGA Championship first held?",
+                    "answer": "1916",
+                    "explanation": "The PGA Championship is a golf tournament conducted by the Professional Golfers' Association of America (PGA of America) in the United States."
+                },
+                {
+                    "question": "What is the name of the organization that conducts the PGA Championship?",
+                    "answer": "the Professional Golfers' Association of America",
+                    "explanation": "The PGA Championship is a golf tournament conducted by the Professional Golfers' Association of America (PGA of America) in the United States."
+                },
+                {
+                    "question": "What is the frequency of the PGA Championship?",
+                    "answer": "annually",
+                    "explanation": "The PGA Championship is played on a variety of courses, usually in the United States, but occasionally in other countries. This sentence is an evidence sentence because it provides information about the frequency of the PGA Championship. It states that the tournament is held annually, which is consistent with the definition of a frequency."
+                },
+                {
+                    "question": "* What is the location of the PGA Championship? * What is the name of the founder of the PGA of America? * What is the name of the trophy awarded to the winner of the PGA Championship? * What is the format of the PGA Championship?",
+                    "answer": "the United States",
+                    "explanation": "The PGA Championship is a golf tournament conducted by the Professional Golfers' Association of America (PGA of America) in the United States."
+                }
+            ],
+            "hops": [
+                "PGA Championship"
+            ]
+        },
+        "Ryder Cup": {
+            "term": "Ryder Cup",
+            "passage": "The Ryder Cup is a biennial men's golf competition between teams from Europe and the United States. The competition is named after Samuel Ryder, a wealthy English businessman who donated the trophy in 1927. The event is jointly administered by the PGA of America and the European Tour, and is one of the most prestigious tournaments in golf. The Ryder Cup was first played in 1927, and was originally contested between a team of American professionals and a team of British professionals. The event was held in the United States until 1979, when it was decided to alternate the venue between the two countries. Since then, the event has been held in the United States in 1983, 1987, 1991, 1999, 2007, and 2013, and in Europe in 1985, 1989, 1993, 1997, 2002, 2006, and 2018. The competition format is similar to that of the Presidents Cup, which is contested between teams from the rest of the world and the United States. Each team consists of 12 players, and the competition is played over three days. On the first two days, there are four matches played in a foursomes format, where two players from each team play together as a pair. On the third day, there are eight singles matches played, with each player from each team playing against their opposite number. The Ryder Cup is known for its intense atmosphere and passionate fans.",
+            "qae_pairs": [
+                {
+                    "question": "'In which year was the Ryder Cup held in Europe?",
+                    "answer": "2018",
+                    "explanation": "The event was held in the United States in 1983, 1987, 1991, 1999, 2007, and 2013, and in Europe in 1985, 1989, 1993, 1997, 2002, 2006, and 2018."
+                },
+                {
+                    "question": "Who donated the trophy in 1927?",
+                    "answer": "Samuel Ryder",
+                    "explanation": "The event was held in the United States until 1979, when it was decided to alternate the venue between the two countries."
+                },
+                {
+                    "question": "What is the year in which the Ryder Cup was held in the United States?",
+                    "answer": "2007",
+                    "explanation": "The Ryder Cup was first played in 1927, and was originally contested between a team of American professionals and a team of British professionals."
+                }
+            ],
+            "hops": [
+                "Ryder Cup"
+            ]
+        }
+    },
+    "second_hops": {
+        "the Union of European Football Associations": {
+            "term": "the Union of European Football Associations",
+            "passage": "The Union of European Football Associations, commonly referred to by its acronym UEFA, is the administrative body for football in Europe, and is one of the six continental confederations of world football's governing body, FIFA. UEFA was founded on June 15, 1954, in Switzerland, and is responsible for the organization of major international football competitions in Europe, including the UEFA Champions League, the UEFA Europa League, and the UEFA European Championship. The organization also coordinates the game's development across the continent, and works to promote football as a tool for social integration and cultural exchange. With 55 member associations, UEFA represents the interests of national football associations and leagues, as well as professional football players, coaches, and referees. The organization is headquartered in Nyon, Switzerland, and is led by President Aleksander Čeferin.",
+            "qae_pairs": [
+                {
+                    "question": "What is the headquarters of the Union of European Football Associations?",
+                    "answer": "Nyon",
+                    "explanation": "The organization also coordinates the game's development across the continent, and works to promote football as a tool for social integration and cultural exchange."
+                }
+            ],
+            "hops": [
+                "UEFA Champions League",
+                "the Union of European Football Associations"
+            ]
+        },
+        "the Los Angeles Lakers": {
+            "term": "the Los Angeles Lakers",
+            "passage": "The Los Angeles Lakers are an American professional basketball team based in Los Angeles, California. The Lakers compete in the National Basketball Association (NBA), as a member of the league's Western Conference in the Pacific Division. The Lakers play their home games at the Staples Center, an arena they share with their local rival, the Los Angeles Clippers. The Lakers are one of the most successful teams in NBA history, with 16 NBA championships to their name, second only to the Boston Celtics, who have 17 championships. The franchise began with the 1947 move of the Minneapolis Lakers to Los Angeles. The Lakers have a storied history, with legendary players such as Kobe Bryant, Shaquille O'Neal, Magic Johnson, and Kareem Abdul-Jabbar having played for the team. The Lakers have a strong fan base, known as the \"Laker Nation,\" and have a long-standing rivalry with the Clippers.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the league that the Los Angeles Lakers compete in?",
+                    "answer": "the National Basketball Association",
+                    "explanation": "The Lakers compete in the National Basketball Association (NBA), as a member of the league's Western Conference in the Pacific Division."
+                }
+            ],
+            "hops": [
+                "NBA Finals",
+                "the Los Angeles Lakers"
+            ]
+        },
+        "Novak Djokovic": {
+            "term": "Novak Djokovic",
+            "passage": "Novak Djokovic is a Serbian professional tennis player who is currently ranked world No. 1 in men's singles tennis by the Association of Tennis Professionals (ATP). He has won 18 Grand Slam singles titles, the fourth-most in history for a male player, and has held the world No. 1 ranking for a total of 275 weeks, the fifth-most in history. Djokovic has also won the ATP Finals a record six times and has been a member of the Serbian Davis Cup team since 2006, helping them win the competition in 2010. Djokovic is known for his versatile playing style, his speed, and his ability to play well on all types of surfaces. He is considered one of the greatest tennis players of all time.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the competition that Novak Djokovic has been a member of the Serbian Davis Cup team since 2006, helping them win the competition in 2010?",
+                    "answer": "Davis Cup",
+                    "explanation": "Djokovic has also won the ATP Finals a record six times and has been a member of the Serbian Davis Cup team since 2006, helping them win the competition in 2010."
+                },
+                {
+                    "question": "What organization is responsible for ranking Novak Djokovic as the world No. 1 in men's singles tennis?",
+                    "answer": "the Association of Tennis Professionals",
+                    "explanation": "Novak Djokovic is a Serbian professional tennis player who is currently ranked world No. 1 in men's singles tennis by the Association of Tennis Professionals (ATP)."
+                },
+                {
+                    "question": "What year did Novak Djokovic win the Davis Cup for Serbia?",
+                    "answer": "2010",
+                    "explanation": "Djokovic has also won the ATP Finals a record six times and has been a member of the Serbian Davis Cup team since 2006, helping them win the competition in 2010."
+                },
+                {
+                    "question": "What year did Novak Djokovic first become a member of the Serbian Davis Cup team?",
+                    "answer": "2006",
+                    "explanation": "Djokovic has also won the ATP Finals a record six times and has been a member of the Serbian Davis Cup team since 2006, helping them win the competition in 2010."
+                }
+            ],
+            "hops": [
+                "Australian Open",
+                "Novak Djokovic"
+            ]
+        },
+        "Melbourne": {
+            "term": "Melbourne",
+            "passage": "Melbourne is the capital and most populous city of the Australian state of Victoria, and the second-most populous city in Australia and Oceania. The name \"Melbourne\" refers to the area of urban agglomeration, as well as the Port Phillip metropolitan area, which is the metropolitan area located in the state of Victoria, Australia. Melbourne is situated on the Yarra River and its tributaries, in the southeastern part of the state of Victoria. The city has a population of approximately 4.9 million, making it the most populous city in Australia. Melbourne is known for its mix of modern architecture and old buildings, and is considered one of the world's most livable cities. The city is also known for its cultural diversity, with a wide range of cultural and ethnic communities represented in the city. Melbourne is home to many of Australia's largest and oldest cultural institutions, including the National Gallery of Victoria, the Melbourne Cricket Ground, and the Australian Open tennis tournament. The city is also known for its sporting events, including the Australian Open tennis tournament, the Melbourne Cup horse race, and the Australian Grand Prix Formula One race. Melbourne is a major financial center in Australia, and is home to the headquarters of many of the country's largest banks and companies. The city is also a major center for the arts, with a thriving music, theater, and film scene. Melbourne is known for its vibrant street art scene, and is home to many of Australia's most famous artists. The city is also known for its food and wine, with a wide range of restaurants and cafes serving up everything from traditional Australian cuisine to international fare.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the metropolitan area located in the state of Victoria, Australia, that is situated on the Yarra River and its tributaries, and is home to Melbourne?",
+                    "answer": "Port Phillip",
+                    "explanation": "The city has a population of approximately 4.9 million, making it the most populous city in Australia."
+                },
+                {
+                    "question": "What is the name of the river that flows through Melbourne?",
+                    "answer": "the Yarra River",
+                    "explanation": "Melbourne is situated on the Yarra River and its tributaries, in the southeastern part of the state of Victoria. This sentence explains that Melbourne is located on the Yarra River and its tributaries, which are in the southeastern part of the state of Victoria."
+                }
+            ],
+            "hops": [
+                "Australian Open",
+                "Melbourne"
+            ]
+        },
+        "Australia": {
+            "term": "Australia",
+            "passage": "Australia is a country in the southern hemisphere. It is the world's sixth-largest country by total area. The country is known for its natural wonders and unique wildlife, such as kangaroos and koalas. It is also home to the Great Barrier Reef, the largest coral reef system in the world. Australia has a population of around 25 million people, with its capital city being Canberra. The country is a constitutional monarchy with a parliamentary democracy. It is a member of the United Nations, the Commonwealth of Nations, and the G20. Australia is considered to be one of the world's most prosperous countries and has a high standard of living. It is also a popular destination for tourists, with its beaches, outback, and major cities attracting millions of visitors each year.",
+            "qae_pairs": [
+                {
+                    "question": "What organization does Australia belong to?",
+                    "answer": "the Commonwealth of Nations",
+                    "explanation": "Australia is a member of the United Nations, the Commonwealth of Nations, and the G20."
+                },
+                {
+                    "question": "What is the animal that is native to Australia and is known for its unique appearance and love for eucalyptus leaves?",
+                    "answer": "koalas",
+                    "explanation": "Australia is known for its natural wonders and unique wildlife, such as kangaroos and koalas."
+                }
+            ],
+            "hops": [
+                "Cricket World Cup",
+                "Australia"
+            ]
+        },
+        "Grands Prix": {
+            "term": "Grands Prix",
+            "passage": "Grands Prix are major international sporting events that are contested by the top drivers in a particular sport. The term is most commonly used in the context of Formula One, where the World Championship is divided into a series of Grands Prix races that take place around the world throughout the year. However, the term is also used in other sports, such as motorcycle racing and auto racing, to describe major events that attract the top competitors from around the world. In Formula One, the Grands Prix are run by the FIA (Fédération Internationale de l'Automobile), and are typically held on purpose-built circuits that are designed to provide a challenging and exciting race for the drivers and spectators alike. The races are typically held over a weekend, with practice and qualifying sessions taking place on Friday and Saturday, and the race itself taking place on Sunday. The Grands Prix are a major part of the Formula One World Championship, and are attended by millions of fans from around the world. The races are broadcast live on television in over 200 countries, and are watched by an estimated 500 million people each year. The Grands Prix are also a major source of revenue for the teams and drivers that compete in them, with prize money and sponsorship deals providing a significant income for those at the top of the sport. In addition to Formula One, the term Grands Prix is also used in other sports, such as motorcycle racing and auto racing, to describe major events that attract the top competitors from around the world. In these sports, the Grands Prix are typically held on purpose-built circuits, and are attended by large crowds of fans who come to watch the top drivers compete for victory.",
+            "qae_pairs": [
+                {
+                    "question": "How many Grands Prix races are held each year in auto racing?",
+                    "answer": "each year",
+                    "explanation": "In Formula One, the Grands Prix are run by the FIA (Fédération Internationale de l'Automobile), and are typically held on purpose-built circuits that are designed to provide a challenging and exciting race for the drivers and spectators alike."
+                },
+                {
+                    "question": "What day of the week does the Grands Prix race typically take place on?",
+                    "answer": "Sunday",
+                    "explanation": "The races are typically held over a weekend, with practice and qualifying sessions taking place on Friday and Saturday, and the race itself taking place on Sunday."
+                }
+            ],
+            "hops": [
+                "Formula One World Championship",
+                "Grands Prix"
+            ]
+        },
+        "the Fédération Internationale de l'Automobile": {
+            "term": "the Fédération Internationale de l'Automobile",
+            "passage": "The Fédération Internationale de l'Automobile (FIA) is an association established on 20 June 1904 to represent the interests of motoring organizations and motor car users. The FIA is generally known as the governing body for many auto racing events, including Formula One, World Rally Championship, and the World Touring Car Championship. However, the FIA also has a number of other roles, including the promotion of road safety, the development of car safety standards, and the promotion of sustainable mobility. The FIA is headquartered in Paris, France, and has over 240 member organizations in more than 140 countries around the world.",
+            "qae_pairs": [
+                {
+                    "question": "What is the location of the headquarters of the Fédération Internationale de l'Automobile?",
+                    "answer": "Paris",
+                    "explanation": "The FIA is generally known as the governing body for many auto racing events, including Formula One, World Rally Championship, and the World Touring Car Championship."
+                }
+            ],
+            "hops": [
+                "Formula One World Championship",
+                "the Fédération Internationale de l'Automobile"
+            ]
+        },
+        "the Professional Golfers' Association of America": {
+            "term": "the Professional Golfers' Association of America",
+            "passage": "The Professional Golfers' Association of America (PGA of America) is the largest working organization of golf professionals in the world, with over 29,000 members. The PGA was founded in 1916 and is headquartered in Palm Beach Gardens, Florida. The PGA's mission is to promote the enjoyment and involvement in golf, to conduct golf tournaments, and to serve as the governing body of the sport. The PGA offers a variety of services to its members, including education, career development, and marketing support. The PGA also operates the PGA Tour, which is the primary men's professional golf tour in the United States, and the LPGA Tour, which is the primary women's professional golf tour in the world. The PGA of America also conducts the PGA Championship, the Senior PGA Championship, and the PGA Professional Championship, among other events.",
+            "qae_pairs": [
+                {
+                    "question": "What is the location of the headquarters of the Professional Golfers' Association of America?",
+                    "answer": "Palm Beach Gardens",
+                    "explanation": "The PGA was founded in 1916 and is headquartered in Palm Beach Gardens, Florida."
+                }
+            ],
+            "hops": [
+                "PGA Championship",
+                "the Professional Golfers' Association of America"
+            ]
+        },
+        "the United States": {
+            "term": "the United States",
+            "passage": "The United States of America (USA), commonly referred to as the United States (U.S.) or America, is a federal republic composed of 50 states, a federal district, five major self-governing territories, and various possessions. At 3.8 million square miles (9.8 million km2), the United States is the world's third- or fourth-largest country by total area and slightly smaller than the entire continent of Europe's 3.9 million square miles (10.1 million km2). With a population of over 328 million people, the U.S. is the third most populous country in the world. The capital is Washington, D.C., and the largest city by population is New York City. Forty-eight states and the capital's federal district are contiguous and located in North America between Canada and Mexico. The state of Alaska is in the northwest corner of North America, bordered by Canada to the east and across the Bering Strait from Russia to the west. The state of Hawaii is an archipelago in the mid-Pacific Ocean. The U.S. territories are scattered around the Pacific Ocean and the Caribbean Sea, stretching across nine official time zones. The extremely diverse geography, climate, and wildlife of the United States make it one of the world's 17 megadiverse countries.",
+            "qae_pairs": [
+                {
+                    "question": "What body of water is located to the southeast of the United States?",
+                    "answer": "the Caribbean Sea",
+                    "explanation": "The state of Hawaii is an archipelago in the mid-Pacific Ocean."
+                }
+            ],
+            "hops": [
+                "PGA Championship",
+                "the United States"
+            ]
+        },
+        "Samuel Ryder": {
+            "term": "Samuel Ryder",
+            "passage": "Samuel Ryder was an English businessman and golfer who founded the Ryder Cup competition. Born in St Albans, Hertfordshire, England, in 1858, Ryder was a successful businessman who made his fortune in the manufacturing industry. He was also an avid golfer and was a member of several golf clubs in the United Kingdom. In 1926, Ryder donated a trophy to be awarded to the winner of a golf competition between American and British professionals. The competition was first held in 1927 and was named the Ryder Cup in honor of its founder. The event has since become one of the most prestigious golf tournaments in the world, with teams from Europe and the United States competing every two years. Ryder was also a philanthropist and used his wealth to support various charitable causes. He established the Samuel Ryder Foundation, which provided financial support to a number of organizations, including hospitals, schools, and churches. Ryder died in 1936 at the age of 78 and was buried in St Albans. His legacy lives on through the Ryder Cup competition, which continues to be a highly anticipated event in the world of golf.",
+            "qae_pairs": [
+                {
+                    "question": "What is the frequency of the Ryder Cup competition named after Samuel Ryder?",
+                    "answer": "every two years",
+                    "explanation": "The event has since become one of the most prestigious golf tournaments in the world, with teams from Europe and the United States competing every two years."
+                }
+            ],
+            "hops": [
+                "Ryder Cup",
+                "Samuel Ryder"
+            ]
+        }
+    }
+}

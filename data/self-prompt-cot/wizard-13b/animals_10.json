@@ -1,0 +1,397 @@
+{
+    "first_hops": {
+        "Lion": {
+            "term": "Lion",
+            "passage": "Lions are large carnivorous cats with a short, bushy tail. They are social animals and live in groups called prides. Lions are native to Africa and some parts of Asia, and are the second largest big cat species after tigers. They are known for their distinctive mane, which is made up of long hairs on the neck, head, and shoulders of male lions. Female lions, called lionesses, are smaller and less muscular than males. Lions are apex predators and are capable of taking down large prey such as zebras, wildebeests, and buffalo. They are also known to scavenge on carrion and will eat smaller prey such as birds, rodents, and reptiles. Lions are listed as vulnerable on the IUCN Red List of Threatened Species, and their populations have declined in recent years due to habitat loss, human-wildlife conflict, and poaching. Conservation efforts are underway to protect lions and their habitats.",
+            "qae_pairs": [
+                {
+                    "question": "What is the time period during which lion populations have declined?",
+                    "answer": "recent years",
+                    "explanation": "Lions are listed as vulnerable on the IUCN Red List of Threatened Species, and their populations have declined in recent years due to habitat loss, human-wildlife conflict, and poaching. Conservation efforts are underway to protect lions and their habitats."
+                },
+                {
+                    "question": "What is the continent where lions are native?",
+                    "answer": "Africa",
+                    "explanation": "Lions are native to Africa and some parts of Asia."
+                },
+                {
+                    "question": "What is the continent where lions are native to?",
+                    "answer": "Asia",
+                    "explanation": "Lions are native to Africa and some parts of Asia."
+                }
+            ],
+            "hops": [
+                "Lion"
+            ]
+        },
+        "Giraffe": {
+            "term": "Giraffe",
+            "passage": "Giraffes are a family of African even-toed ungulates, the tallest living terrestrial animals and the largest ruminants. There are nine extant species of giraffes, which are divided into four genera: Giraffa, Okapia, Damalis, and Hylogerius. The four species of Giraffa are the reticulated giraffe, the Masai giraffe, the southern giraffe, and the northern giraffe. The Okapia species is the okapi, which is a close relative of giraffes. The Damalis species is the palmate-leafed palm-viper, which is a venomous snake that feeds on giraffes. The Hylogerius species is the hyloger, which is a prehistoric relative of giraffes. Giraffes are known for their long necks and legs, which help them reach high branches and browse on leaves that other herbivores cannot reach. They have a distinctive coat pattern that is unique to each individual, and their tongues are long and prehensile, which they use to grasp leaves and twigs. Giraffes are social animals that live in loose groups called towers or herds, which are led by a dominant male. They communicate with each other through a variety of vocalizations, body language, and facial expressions. Giraffes are found in a variety of habitats in sub-Saharan Africa, including savannas, grasslands, and woodlands. They are listed as vulnerable on the IUCN Red List, due to habitat loss, poaching, and civil unrest in some parts of their range.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the prehistoric relative of giraffes?",
+                    "answer": "Hylogerius",
+                    "explanation": "Giraffes are known for their long necks and legs, which help them reach high branches and browse on leaves that other herbivores cannot reach."
+                },
+                {
+                    "question": "What is the scientific name for giraffes?",
+                    "answer": "Giraffa",
+                    "explanation": "Giraffes are a family of African even-toed ungulates, the tallest living terrestrial animals and the largest ruminants."
+                },
+                {
+                    "question": "What is the name of the okapi, a close relative of giraffes?",
+                    "answer": "Okapia",
+                    "explanation": "The Okapia species is the okapi, which is a close relative of giraffes."
+                }
+            ],
+            "hops": [
+                "Giraffe"
+            ]
+        },
+        "Zebra": {
+            "term": "Zebra",
+            "passage": "Zebras are several species of African equids united by their distinctive black and white striped coats. Their stripes come in different patterns unique to each individual and may help to camouflage them from predators. They are further classified into several species, including the plains zebra, the mountain zebra, and the Grevy's zebra. Zebras are social animals, living in small harems to large herds, with a strict hierarchy based on age and sex. They are also known for their distinctive warning calls, which can alert the herd to the presence of predators. Zebras are also known for their speed and endurance, and can run at speeds of up to 65 km/h (40 mph) over long distances. They are also known for their strong, sturdy legs, which are adapted for their life in the wild. Zebras are found mainly in the savannas and grasslands of Africa, but they can also be found in woodlands and mountainous regions. They are an important part of the African ecosystem, and play a vital role in maintaining the balance of the ecosystem. They are also hunted for their meat, hides, and other body parts, which has led to a decline in their population in some areas. Conservation efforts are underway to protect the zebra and its habitat.",
+            "qae_pairs": [
+                {
+                    "question": "",
+                    "answer": "Africa",
+                    "explanation": "Zebras are several species of African equids united by their distinctive black and white striped coats."
+                },
+                {
+                    "question": "What is the name of the species of zebra that has a distinctive white stripe that runs from its head to its rump?",
+                    "answer": "Grevy",
+                    "explanation": "Zebras are further classified into several species, including the plains zebra, the mountain zebra, and the Grevy's zebra."
+                }
+            ],
+            "hops": [
+                "Zebra"
+            ]
+        },
+        "Cheetah": {
+            "term": "Cheetah",
+            "passage": "Cheetah (Acinonyx jubatus) is a large felid of the subfamily Felinae that occurs mainly in eastern and southern Africa. It is the fastest land animal, capable of running at speeds of up to 120 km/h (75 mph) in short bursts, and has a body build adapted for speed and agility. The cheetah's coat is marked with black \"tear marks\" that run down the sides of the nose to the eyes, which are also outlined in black. The cheetah's body is slender and streamlined, with a small head and a long tail that provides stability during high-speed turns. The cheetah's claws are nonretractable and provide traction while running. The cheetah's diet consists mainly of gazelles, impalas, and other small antelopes. It is an opportunistic predator and will also hunt birds, hares, and young zebras. The cheetah is a solitary animal, except for females with cubs. Males and females do not form lasting bonds, and males will defend their territory against other males. The cheetah's habitat has been greatly reduced by human activities such as farming and urbanization, and it is now considered a vulnerable species. The cheetah's future is threatened by habitat loss, human-wildlife conflict, and poaching for its skin and other body parts. Conservation efforts are underway to protect the cheetah and its habitat, including the establishment of protected areas and the promotion of sustainable land use practices.",
+            "qae_pairs": [
+                {
+                    "question": "What is the subfamily of the cheetah?",
+                    "answer": "Felinae",
+                    "explanation": "The cheetah's coat is marked with black tear marks that run down the sides of the nose to the eyes, which are also outlined in black."
+                },
+                {
+                    "question": "What continent is the home of the cheetah?",
+                    "answer": "Africa",
+                    "explanation": "The cheetah's body is slender and streamlined, with a small head and a long tail that provides stability during high-speed turns."
+                },
+                {
+                    "question": "What is the scientific name of the cheetah?",
+                    "answer": "Acinonyx",
+                    "explanation": "The cheetah's coat is marked with black tear marks that run down the sides of the nose to the eyes, which are also outlined in black. Question: What is the function of the black tear marks on the cheetah's coat? Answer: The black tear marks on the cheetah's coat help to reduce glare and improve the cheetah's vision while hunting."
+                },
+                {
+                    "question": "Which of the following words best describes the physical and biological environment in which a plant or animal lives?",
+                    "answer": "habitat",
+                    "explanation": "The cheetah's habitat has been greatly reduced by human activities such as farming and urbanization, and it is now considered a vulnerable species. This sentence explains how human activities have affected the cheetah's habitat, leading to a decline in the species' population and its classification as vulnerable."
+                }
+            ],
+            "hops": [
+                "Cheetah"
+            ]
+        },
+        "Gorilla": {
+            "term": "Gorilla",
+            "passage": "Gorillas are ground-dwelling, predominantly herbivorous apes that inhabit the forests of central and eastern Africa. The genus Gorilla is divided into two species: the eastern gorilla and the western gorilla, and both are further subdivided into several subspecies. Gorillas are the largest living primates. They are characterized by their muscular body, long arms, and short legs. Their hair is dark and coarse, except for the hair on the back of the hands and feet, which is lighter in color. Male gorillas are significantly larger than females and can weigh up to 400 pounds (180 kg). Gorillas are primarily vegetarians, feeding on a variety of plants, including leaves, stems, and fruits. They have a specialized digestive system that allows them to extract nutrients from tough plant material. Gorillas are also known to eat insects and occasionally small animals. Gorillas are highly social animals that live in groups called troops. Troops are typically led by a dominant male, known as a silverback, who is responsible for protecting the group and mating with the females. Females in the group typically give birth to one baby at a time, after a gestation period of approximately 8.5 months. Infants are completely dependent on their mothers for the first few years of life and learn important social and survival skills from the other members of the troop. Gorillas are critically endangered, with only about 1,000 individuals remaining in the wild. Their habitat is being destroyed by deforestation and human activities such as mining and agriculture. Gorillas are also hunted for their meat and body parts, which are used in traditional medicine.",
+            "qae_pairs": [
+                {
+                    "question": "What is the continent where gorillas are found?",
+                    "answer": "Africa",
+                    "explanation": "Gorillas are ground-dwelling, predominantly herbivorous apes that inhabit the forests of central and eastern Africa."
+                }
+            ],
+            "hops": [
+                "Gorilla"
+            ]
+        },
+        "Chimpanzee": {
+            "term": "Chimpanzee",
+            "passage": "Chimpanzees are members of the family Hominidae, along with gorillas, humans, and orangutans. Chimpanzees are native to the forests and savannahs of West and Central Africa. There are two recognized species: the common chimpanzee (Pan troglodytes) and the bonobo (Pan paniscus). Both species are closely related, and share 98.8% of their DNA. Chimpanzees are social animals, living in groups of up to 150 individuals. These groups are typically led by a dominant male, known as a \"alpha\" or \"beta\" male. Females typically give birth to one baby at a time, after a gestation period of 8 months. Chimpanzees have a lifespan of around 40-45 years in the wild. Chimpanzees are known for their intelligence, tool use, and communication abilities. They have been observed using tools to extract food from otherwise inaccessible sources, and have even been known to use sticks to \"fish\" for ants. Chimpanzees also have a complex system of communication, including vocalizations, body language, and facial expressions. In the wild, chimpanzees primarily eat fruit, but they also eat leaves, flowers, and insects. They have been observed hunting and eating small mammals, such as birds and monkeys. Chimpanzees are also known to engage in \"warfare\" with neighboring groups, sometimes resulting in fatalities. Chimpanzees have been extensively studied in captivity, and have been used in medical research, including the development of vaccines for diseases such as hepatitis and malaria.",
+            "qae_pairs": [
+                {
+                    "question": "A. What is the lifespan of chimpanzees in the wild? B. How long do chimpanzees typically live in captivity? C. What is the average age of chimpanzees when they reach sexual maturity? D. How long do chimpanze",
+                    "answer": "40-45 years",
+                    "explanation": "Chimpanzees have a lifespan of around 40-45 years in the wild."
+                },
+                {
+                    "question": "Q: How long does a chimpanzee gestate before giving birth? Q: How long do chimpanzees typically live in the wild? Q: How long do chimpanzees typically live in captivity? Q: How long do chimpanzees typically live after being captured",
+                    "answer": "8 months",
+                    "explanation": "Chimpanzees are known for their intelligence, tool use, and communication abilities. They have been observed using tools to extract food from otherwise inaccessible sources, and have even been known to use sticks to fish for ants. Chimpanzees also have a complex system of communication, including vocalizations, body language, and facial expressions."
+                },
+                {
+                    "question": "What is the family of animals that includes chimpanzees, gorillas, humans, and orangutans?",
+                    "answer": "Hominidae",
+                    "explanation": "Chimpanzees are members of the family Hominidae, along with gorillas, humans, and orangutans."
+                }
+            ],
+            "hops": [
+                "Chimpanzee"
+            ]
+        },
+        "Rhino": {
+            "term": "Rhino",
+            "passage": "Rhino is a genus of five extant species of rhinos in the family Rhinocerotidae. Two of these species, the white rhinoceros and the black rhinoceros, are native to Africa, while the remaining three species, the greater one-horned rhinoceros, the lesser one-horned rhinoceros, and the Javan rhinoceros, are native to Asia. All species of rhinoceros are herbivorous, and their diets consist of a variety of plants. They are characterized by their large size, thick skin, and specialized teeth for grazing. The white rhinoceros is the largest species of rhino, weighing up to 2,300 kg (5,000 lb) and standing up to 1.8 meters (6 feet) tall at the shoulder. The black rhinoceros is smaller, weighing up to 900 kg (2,000 lb) and standing up to 1.5 meters (5 feet) tall at the shoulder. The greater one-horned rhinoceros is the second-largest species, weighing up to 1,800 kg (4,000 lb) and standing up to 1.8 meters (6 feet) tall at the shoulder. The lesser one-horned rhinoceros is smaller, weighing up to 900 kg (2,000 lb) and standing up to 1.4 meters (4.6 feet) tall at the shoulder. The Javan rhinoceros is the smallest species, weighing up to 800 kg (1,800 lb) and standing up to 1.3 meters (4.3 feet) tall at the shoulder.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the smallest species of rhinoceros?",
+                    "answer": "Javan",
+                    "explanation": "The Javan rhinoceros is the smallest species, weighing up to 800 kg (1,800 lb) and standing up to 1.3 meters (4.3 feet) tall at the shoulder."
+                }
+            ],
+            "hops": [
+                "Rhino"
+            ]
+        },
+        "Hippopotamus": {
+            "term": "Hippopotamus",
+            "passage": "Hippopotamus (Hippopotamus amphibius) is a large, mostly herbivorous mammal in sub-Saharan Africa, and one of only two extant species in the family Hippopotamidae, the other being the Pygmy Hippopotamus. The name comes from the ancient Greek for \"river horse\". After the elephant and rhinoceros, the hippopotamus is the third-largest land animal and the heaviest extant artiodactyl. Despite their physical resemblance to pigs and other terrestrial animals, the closest living relatives of the hippopotamus are whales and dolphins. They are semiaquatic mammals, inhabiting rivers, lakes and mangrove swamps, where they browse on grasses and aquatic plants. Hippopotamuses are recognizable by their barrel-shaped torso, enormous mouth and teeth, nearly hairless body, stubby legs and enormous size; adults can weigh up to 1,500 kg (3,300 lb). They have a unique digestive system that allows them to obtain nutrients from grasses and other plant material that other herbivores cannot digest. Hippopotamuses are also notable for their aggressive behavior and are among the most territorial animals in the world; they are capable of running at 30 km/h (19 mph) over short distances. Despite their reputation for being aggressive, hippos are not usually hostile to humans unless provoked or threatened.",
+            "qae_pairs": [
+                {
+                    "question": "",
+                    "answer": "Africa",
+                    "explanation": "The hippopotamus is a large, mostly herbivorous mammal found in sub-Saharan Africa, and one of only two extant species in the family Hippopotamidae."
+                },
+                {
+                    "question": "What is the family of the hippopotamus?",
+                    "answer": "Hippopotamidae",
+                    "explanation": "The name comes from the ancient Greek for river horse."
+                }
+            ],
+            "hops": [
+                "Hippopotamus"
+            ]
+        },
+        "Crocodile": {
+            "term": "Crocodile",
+            "passage": "Crocodiles are large aquatic reptiles that live throughout the tropics in Africa, Asia, the Americas and Australia. Crocodiles are known for their extensive history, having been around for over 200 million years. They are apex predators and are known for their aggressive nature and powerful jaws. They are also known for their ability to survive in harsh environments and their longevity. Crocodiles have a long and slender body, with a broad, flat snout and powerful jaws. They have a long, muscular tail that helps them to swim quickly through the water. Their skin is thick and scaly, and is covered in osteoderms, which are bony plates that provide protection. Crocodiles are carnivorous and are known to eat a variety of prey, including fish, birds, mammals, and reptiles. They are ambush predators and will often lie in wait for their prey before striking quickly. They are also known to be opportunistic feeders and will eat whatever prey is available. Crocodiles are known for their ability to survive in harsh environments and their longevity. They are able to survive in a wide range of habitats, including saltwater, freshwater, and brackish water. They are also able to survive in extreme temperatures and can go for long periods without food. Crocodiles have been around for over 200 million years and have a long and extensive history. They have played an important role in the evolution of many species and have been featured in mythology and folklore throughout history. They are also an important part of many cultures and are often revered and respected.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the continent that includes North and South America?",
+                    "answer": "Americas",
+                    "explanation": "Passage: Crocodiles are large aquatic reptiles that live throughout the tropics in Africa, Asia, the Americas and Australia. Evidence sentence: Crocodiles are large aquatic reptiles that live throughout the tropics in Africa, Asia, the Americas and Australia. Explanation: The evidence sentence states that crocodiles live in the Americas, which is one of the continents included in the Americas. Therefore, the answer to the question What is the name of the continent that includes North and South America? is Americas."
+                },
+                {
+                    "question": "\"Which continent is not home to any countries with a coastline on the Mediterranean Sea?\"",
+                    "answer": "Asia",
+                    "explanation": "Crocodiles are known for their extensive history, having been around for over 200 million years."
+                },
+                {
+                    "question": "What continent is Crocodile found in?",
+                    "answer": "Africa",
+                    "explanation": "Crocodiles are known for their extensive history, having been around for over 200 million years."
+                }
+            ],
+            "hops": [
+                "Crocodile"
+            ]
+        }
+    },
+    "second_hops": {
+        "Africa": {
+            "term": "Africa",
+            "passage": "1. Africa is the world's second-largest and second-most-populous continent. 2. At about 30.3 million km2 (11.7 million square miles) including adjacent islands, it covers six percent of the Earth's total surface area and 20.4 percent of the total land area. 3. With 1.2 billion people as of 2016, it accounts for about 16% of the world's human population. 4. The continent is surrounded by the Mediterranean Sea to the north, both the Suez Canal and the Red Sea along the Sinai Peninsula to the northeast, the Indian Ocean to the southeast, and the Atlantic Ocean to the west. 5. The continent includes Madagascar and various archipelagos. 6. Africa, particularly central Eastern Africa, is the origin of humans and the Hominidae family, as well as the home of the oldest civilizations. 7. Africa is home to a diverse array of languages, religions, and cultures. 8. The continent is home to the world's longest river—the Nile—and the largest desert—the Sahara. 9. The Nile, Niger, and Congo rivers all originate in Africa. 10. Africa was the site of the earliest human civilizations, and is the location of the oldest known civilization, the Nile Valley civilization, which emerged in the predynastic period c. 5000 BCE.",
+            "qae_pairs": [
+                {
+                    "question": "What body of water surrounds Africa to the west?",
+                    "answer": "the Atlantic Ocean",
+                    "explanation": "The continent is surrounded by the Mediterranean Sea to the north, both the Suez Canal and the Red Sea along the Sinai Peninsula to the northeast, the Indian Ocean to the southeast, and the Atlantic Ocean to the west. This sentence explains that Africa is surrounded by four different bodies of water: the Mediterranean Sea to the north, the Suez Canal and the Red Sea along the Sinai Peninsula to the northeast, the Indian Ocean to the southeast, and the Atlantic Ocean to the west."
+                },
+                {
+                    "question": "What is the largest desert in Africa?",
+                    "answer": "Sahara",
+                    "explanation": "The continent is home to the world's longest river—the Nile—and the largest desert—the Sahara."
+                },
+                {
+                    "question": "What body of water separates Africa from Asia?",
+                    "answer": "the Red Sea",
+                    "explanation": "The continent is surrounded by the Mediterranean Sea to the north, both the Suez Canal and the Red Sea along the Sinai Peninsula to the northeast, the Indian Ocean to the southeast, and the Atlantic Ocean to the west. This sentence provides evidence that the Red Sea separates Africa from Asia."
+                },
+                {
+                    "question": "What is the name of the longest river in Africa and the location of the oldest known civilization?",
+                    "answer": "Nile Valley",
+                    "explanation": "Africa is the world's second-largest and second-most-populous continent."
+                }
+            ],
+            "hops": [
+                "Crocodile",
+                "Africa"
+            ]
+        },
+        "Asia": {
+            "term": "Asia",
+            "passage": "Asia is the world's largest and most populous continent, located primarily in the eastern and northern hemispheres. It covers 8.7% of the Earth's total surface area and comprises 30% of its land area. With approximately 4.5 billion people, it hosts 60% of the world's current human population. In general terms, Asia is bounded on the east by the Pacific Ocean, on the south by the Indian Ocean, on the west by the Red Sea and Europe, and on the north by the Arctic Ocean. The border of Asia with Europe is a historical and cultural construct, as there is no clear physical or geographical separation between them. It is somewhat arbitrary and has moved since its first conception in Ancient Greece. The history of Asia can be traced back to the earliest human migrations, with the first modern humans likely to have emerged in Africa and then spread to Asia around 60,000 years ago. The continent has since been home to many of the world's oldest civilizations, including those of Mesopotamia, India, China, and Japan. Asia has a diverse range of climates and landscapes, ranging from the dry deserts of the Middle East to the tropical forests in Southeast Asia and the tropical rainforests in South Asia. It is also home to the world's highest mountain range, the Himalayas, and the world's largest river, the Yangtze. Asia is home to many of the world's most populous countries, including China, India, Indonesia, Pakistan, and Bangladesh, as well as many of its most powerful economies, including China, Japan, India, and South Korea.",
+            "qae_pairs": [
+                {
+                    "question": "What is the highest mountain range in Asia?",
+                    "answer": "Himalayas",
+                    "explanation": "It is somewhat arbitrary and has moved since its first conception in Ancient Greece. Explanation: This sentence explains that the border between Asia and Europe is a historical and cultural construct that is somewhat arbitrary and has changed over time."
+                },
+                {
+                    "question": "What body of water is located to the west of Asia?",
+                    "answer": "the Red Sea",
+                    "explanation": "Asia is bounded on the east by the Pacific Ocean, on the south by the Indian Ocean, on the west by the Red Sea and Europe, and on the north by the Arctic Ocean."
+                },
+                {
+                    "question": "What is the name of the oldest civilization in Asia?",
+                    "answer": "Mesopotamia",
+                    "explanation": "The history of Asia can be traced back to the earliest human migrations, with the first modern humans likely to have emerged in Africa and then spread to Asia around 60,000 years ago. Asia is bounded on the east by the Pacific Ocean, on the south by the Indian Ocean, on the west by the Red Sea and Europe, and on the north by the Arctic Ocean. It is somewhat arbitrary and has moved since its first conception in Ancient Greece."
+                }
+            ],
+            "hops": [
+                "Crocodile",
+                "Asia"
+            ]
+        },
+        "Hylogerius": {
+            "term": "Hylogerius",
+            "passage": "Hylogerius was a Roman jurist and writer of the 3rd century AD. He was a contemporary of the emperor Alexander Severus and is known to have written a work on the Roman law of inheritance, which is now lost. Hylogerius is also known to have been a teacher of the future emperor Maximinus Thrax, who was one of his students.",
+            "qae_pairs": [
+                {
+                    "question": "What was the name of the student of Hylogerius who later became the emperor of Rome?",
+                    "answer": "Maximinus Thrax",
+                    "explanation": "Hylogerius is also known to have been a teacher of the future emperor Maximinus Thrax, who was one of his students."
+                }
+            ],
+            "hops": [
+                "Giraffe",
+                "Hylogerius"
+            ]
+        },
+        "Okapia": {
+            "term": "Okapia",
+            "passage": "The Okapi (Okapia johnstoni) is an artiodactyl mammal native to the northeast of the Democratic Republic of the Congo in central Africa. It is a close relative of giraffes, and has similar markings on its legs and neck. The okapi and the giraffe are the only living members of the family Giraffidae. The okapi stands about 1.5 m (4.9 ft) tall at the shoulder and measures about 2–2.5 m (6.6–8.2 ft) in length. It has a short, prehensile tongue, which it uses to grasp leaves and branches when feeding. The okapi is listed as a vulnerable species by the International Union for Conservation of Nature (IUCN), as its population is estimated to be fewer than 20,000 individuals and its habitat is threatened by deforestation and civil unrest.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the organization that classifies the Okapia as a vulnerable species?",
+                    "answer": "the International Union for Conservation of Nature",
+                    "explanation": "The Okapi (Okapia johnstoni) is an artiodactyl mammal native to the northeast of the Democratic Republic of the Congo in central Africa."
+                },
+                {
+                    "question": "What is the native habitat of the Okapia johnstoni, the close relative of giraffes?",
+                    "answer": "Congo",
+                    "explanation": "The Okapi (Okapia johnstoni) is an artiodactyl mammal native to the northeast of the Democratic Republic of the Congo in central Africa."
+                }
+            ],
+            "hops": [
+                "Giraffe",
+                "Okapia"
+            ]
+        },
+        "Grevy": {
+            "term": "Grevy",
+            "passage": "Grevy's zebra (Equus grevyi) is a large species of zebra that is found in the grasslands and savannas of Kenya and Ethiopia. It is the largest and most northerly of all the zebra species, and is named after Jules Grévy, the President of France from 1879 to 1887. Grevy's zebra has a distinctive coat pattern, with narrow black stripes on a white background. The stripes are narrower and more closely spaced than those of other zebra species, and they extend down the legs and across the face. The head and neck are also black, and the ears are large and rounded. Grevy's zebra is a social animal, and it lives in small harems consisting of a stallion and several mares and their foals. The stallion defends the harem from other males, and he mates with the females. Grevy's zebra is also known for its distinctive vocalizations, which include grunts, snorts, and whinnies. The population of Grevy's zebra has declined dramatically in recent years, due to habitat loss, hunting, and competition with domestic livestock. It is now considered endangered, and conservation efforts are underway to protect the remaining populations. These efforts include habitat restoration, anti-poaching patrols, and education programs for local communities.",
+            "qae_pairs": [
+                {
+                    "question": "What is the range of Grevy's zebra in Africa?",
+                    "answer": "Kenya",
+                    "explanation": "Grevy's zebra is a social animal, and it lives in small harems consisting of a stallion and several mares and their foals. The stallion defends the harem from other males, and he mates with the females."
+                }
+            ],
+            "hops": [
+                "Zebra",
+                "Grevy"
+            ]
+        },
+        "Felinae": {
+            "term": "Felinae",
+            "passage": "Felinae is a subfamily of the family Felidae that includes small to medium-sized cats. The subfamily is divided into two tribes: the Pantherinae, which includes the big cats, and the Felinae, which includes the smaller cats. The Felinae tribe is further divided into six genera: Felis, Lynx, Otocolobus, Prionailurus, Puma, and Leptailurus. The Felinae cats are found in a variety of habitats, including forests, grasslands, deserts, and wetlands. They are known for their agility, speed, and stealth, and are often used as symbols of grace and beauty. Some of the most well-known Felinae cats include the domestic cat, the African wildcat, the bobcat, the lynx, and the serval.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the genus in the Felinae tribe that includes the bongo antelope?",
+                    "answer": "Otocolobus",
+                    "explanation": "The Felinae cats are known for their agility, speed, and stealth, and are often used as symbols of grace and beauty."
+                }
+            ],
+            "hops": [
+                "Cheetah",
+                "Felinae"
+            ]
+        },
+        "Acinonyx": {
+            "term": "Acinonyx",
+            "passage": "Acinonyx is a genus of big cats that includes the cheetah, the fastest land animal. The cheetah is known for its slender body, deep chest, spotted coat, small head, and long tail. It is the only extant member of the subfamily Felinae that is not part of the Panthera lineage. The cheetah is found mainly in Africa and some parts of Iran. It is an endangered species, with an estimated 7,100 individuals remaining in the wild. The cheetah is threatened by habitat loss, human-wildlife conflict, and poaching. Conservation efforts are underway to protect the cheetah and its habitat.",
+            "qae_pairs": [
+                {
+                    "question": "What is the range of the Acinonyx species in Iran?",
+                    "answer": "Iran",
+                    "explanation": "The cheetah is found mainly in Africa and some parts of Iran."
+                },
+                {
+                    "question": "What is the habitat of the Acinonyx species?",
+                    "answer": "Africa",
+                    "explanation": "The cheetah is found mainly in Africa and some parts of Iran."
+                }
+            ],
+            "hops": [
+                "Cheetah",
+                "Acinonyx"
+            ]
+        },
+        "Hominidae": {
+            "term": "Hominidae",
+            "passage": "Hominidae is a family of great apes that includes humans, chimpanzees, gorillas, and orangutans. Members of this family are characterized by their bipedal locomotion, large brains, and the use of tools. The family is believed to have originated in Africa around 14 million years ago, and has since spread to other parts of the world. Hominids are classified into several genera, including Australopithecus, Paranthropus, and Homo, each of which represents a different stage in the evolution of the family. The most recent common ancestor of all living hominids is believed to have lived around 6-8 million years ago. Hominids are classified into several species, including Homo sapiens, the only surviving species of the family, and several extinct species such as Homo neanderthalensis and Homo erectus. Hominids are highly intelligent and social animals, and are known for their complex social structures and communication systems. They are also known for their ability to use tools and to adapt to a wide range of environments.",
+            "qae_pairs": [
+                {
+                    "question": "1. What is the most recent common ancestor of all living Hominidae named? 2. What is the name of the species of Hominidae that includes humans?",
+                    "answer": "Homo",
+                    "explanation": "Hominids are classified into several species, including Homo sapiens, the only surviving species of the family, and several extinct species such as Homo neanderthalensis and Homo erectus."
+                },
+                {
+                    "question": "What is the continent where Hominidae originated?",
+                    "answer": "Africa",
+                    "explanation": "The family is believed to have originated in Africa around 14 million years ago, and has since spread to other parts of the world."
+                },
+                {
+                    "question": "What is the estimated time of origin of Hominidae according to scientific research?",
+                    "answer": "14 million years ago",
+                    "explanation": ""
+                },
+                {
+                    "question": "What is the name of the genus of Hominidae that is characterized by its large brow ridges and robust jaws?",
+                    "answer": "Paranthropus",
+                    "explanation": "Hominids are classified into several genera, including Australopithecus, Paranthropus, and Homo, each of which represents a different stage in the evolution of the family."
+                }
+            ],
+            "hops": [
+                "Chimpanzee",
+                "Hominidae"
+            ]
+        },
+        "Javan": {
+            "term": "Javan",
+            "passage": "Javan is a male given name of Hebrew origin, meaning \"God is gracious\". It is also the name of a large island in Southeast Asia, known as Java in English. The island is the home of the Javanese people, who are the largest ethnic group in Indonesia. The name Javan is also used in the Bible to refer to the people of the island of Java, as well as to the descendants of Javan, who are believed to include the Greeks and Romans.",
+            "qae_pairs": [
+                {
+                    "question": "What is the home of the Javanese people and the largest ethnic group in Indonesia?",
+                    "answer": "Indonesia",
+                    "explanation": "The island is the home of the Javanese people, who are the largest ethnic group in Indonesia."
+                }
+            ],
+            "hops": [
+                "Rhino",
+                "Javan"
+            ]
+        },
+        "Americas": {
+            "term": "Americas",
+            "passage": "The Americas, also collectively called America, are the lands of the Western hemisphere or New World, consisting of the continents of North America and South America with their associated islands and regions. The Americas cover 8% of the earth's total surface area and are home to about 17.5% of the world's population. The topography is diverse, ranging from the Andes Mountains and the Amazon River in South America to the Rocky Mountains and the Great Lakes in North America. The climate varies from tropical in the equatorial regions to temperate and polar in the higher latitudes. The Americas have a rich and diverse culture, with influences from the indigenous peoples, European colonizers, and African slaves. The Americas have been shaped by a history of colonization, slavery, and immigration, and have become a melting pot of cultures and traditions. Today, the Americas are home to many of the world's largest economies, including the United States, Canada, Brazil, and Mexico, and are a major center for international trade and commerce.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the continent in the Americas that is located entirely in the southern hemisphere and is home to the Andes Mountains and the Amazon River?",
+                    "answer": "South America",
+                    "explanation": "The Americas cover 8% of the earth's total surface area and are home to about 17.5% of the world's population. This sentence is an evidence sentence because it provides statistical data that supports the statement that the Americas are a significant region in terms of both land area and population."
+                }
+            ],
+            "hops": [
+                "Crocodile",
+                "Americas"
+            ]
+        }
+    }
+}

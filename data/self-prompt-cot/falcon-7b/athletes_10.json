@@ -1,0 +1,661 @@
+{
+    "first_hops": {
+        "Cristiano Ronaldo": {
+            "term": "Cristiano Ronaldo",
+            "passage": "“Cristiano Ronaldo, nomenclature and real name Paulo Jorge Pinto Jnr., is a Portuguese professional footballer who currently plays for Manchester United and the Portugal national team. Born in the Madeira island in 1985, Ronaldo is considered one of the most talented and versatile footballers of the modern era. He plays as a forward for both club and country. He has also been described by former Manchester United manager Sir Alex Ferguson as being one of the world’s best players and, in 2007, the world’s best footballer by Pele. He has made over 400 goals in over 300 appearances in top-level professional football and was awarded the FIFA Ballon d’Or in 2008, 2013, 2014 and 2015, winning the award four times in total, more than any other player in the competition’s history.”\n“Born in the Madeira island in 1985, Ronaldo is considered one of the most talented and versatile footballers of the modern era.”\nWe can see that he is both talented and versatile!",
+            "qae_pairs": [
+                {
+                    "question": "What year did Cristiano Ronaldo win the Ballon dOr?",
+                    "answer": "2013",
+                    "explanation": "“Cristiano Ronaldo won the Ballon d’Or in 2013. He was awarded the award four times in total, more than any other player in the competition’s history. He won the award in 2008, 2013, 2014 and 2015. In 2013, he won the award for the fourth time in a row. He was also awarded the UEFA Champions League Player of the Year award in 2013. Ronaldo was also awarded the FIFA Best Player of the Year award in 2013, 2014 and 2015. He was also awarded the UEFA Super Cup"
+                },
+                {
+                    "question": "What is the name of the country where Cristiano Ronaldo was born?",
+                    "answer": "Portugal",
+                    "explanation": "“Cristiano Ronaldo, nomenclature and real name Paulo Jorge Pinto Jnr., is a Portuguese professional footballer who currently plays for Manchester United and the Portugal national team. Born in the Madeira island in 1985, Ronaldo is considered one of the most talented and versatile footballers of the modern era.”"
+                },
+                {
+                    "question": "Where is Cristiano Ronaldo from?",
+                    "answer": "Madeira",
+                    "explanation": "“Cristiano Ronaldo is from the Madeira island in Portugal. He was born in 1985 in the city of Funchal, which is the capital of the island. He is of Portuguese and African descent.”"
+                },
+                {
+                    "question": "Who is the best footballer in the world?",
+                    "answer": "Ronaldo",
+                    "explanation": "“Ronaldo is considered one of the best footballers of all time. He has won numerous trophies and awards, including the UEFA Champions League, La Liga, the Premier League, the UEFA Super Cup, the UEFA European Championship, the UEFA Nations League, and the FIFA Club World Cup. He has also scored over 400 goals in over 300 appearances in top-level professional football. He has been described by former Manchester United manager Sir Alex Ferguson as being one of the world’s best players and, in 2007, the world’s best footballer by Pele. He has made over 400 goals in over"
+                },
+                {
+                    "question": "Who is Cristiano Ronaldo?",
+                    "answer": "Paulo Jorge Pinto Jnr",
+                    "explanation": "“Cristiano Ronaldo, nomenclature and real name Paulo Jorge Pinto Jnr., is a Portuguese professional footballer who currently plays for Manchester United and the Portugal national team. Born in the Madeira island in 1985, Ronaldo is considered one of the most talented and versatile footballers of the modern era.”"
+                },
+                {
+                    "question": "Which team does Cristiano Ronaldo play for?",
+                    "answer": "Manchester United",
+                    "explanation": "“Cristiano Ronaldo is a Portuguese professional footballer who currently plays for Manchester United and the Portugal national team. He was born in the Madeira island in 1985, and has been playing professional football since 2002. He has played for several clubs in Portugal, England, Spain, and Italy, including Manchester United, Real Madrid, and the Portugal national team. He has also played for the Portugal national team since 2002, and has been the captain of the Portugal national team since 2003. Ronaldo has won numerous awards, including the UEFA Champions League, the UEFA Super Cup, the UEFA European Championship, and"
+                },
+                {
+                    "question": "What is the most prestigious award in professional football?",
+                    "answer": "FIFA Ballon",
+                    "explanation": "“The FIFA Ballon d’Or is an annual award given to the best male footballer in the world as voted for by the players themselves. It is considered the most prestigious award in professional football, and is awarded to the best footballer in the world, regardless of position. The award is voted for by a panel of 25 footballers, who are chosen by FIFA. The award is given to the best footballer in the world, regardless of position, and is awarded to the best footballer in the world, regardless of position. The award is voted for by a panel of 25 footballers, who are chosen by"
+                },
+                {
+                    "question": "When was Cristiano Ronaldo born?",
+                    "answer": "1985",
+                    "explanation": "“Cristiano Ronaldo, nomenclature and real name Paulo Jorge Pinto Jnr., is a Portuguese professional footballer who currently plays for Manchester United and the Portugal national team. Born in the Madeira island in 1985, Ronaldo is considered one of the most talented and versatile footballers of the modern era.”"
+                },
+                {
+                    "question": "What year did Cristiano Ronaldo win the FIFA Ballon dOr?",
+                    "answer": "2008",
+                    "explanation": "“Cristiano Ronaldo won the FIFA Ballon d’Or in 2008, 2013, 2014 and 2015. He won the award four times in total, more than any other player in the competition’s history.”"
+                }
+            ],
+            "hops": [
+                "Cristiano Ronaldo"
+            ]
+        },
+        "Lionel Messi": {
+            "term": "Lionel Messi",
+            "passage": "\"Lionel Messi (Catalan: Lionel Messi i Farró, 24-07-24) is a professional footballer who plays as a forward for the Spanish club Barcelona and the Argentina national team. He is considered one of the best footballers of all time, and is widely considered to be one of the greatest footballers of the 21st century. He has won numerous individual awards, including the Ballon d'Or, the UEFA Champions League, and the La Liga. He has also won numerous international titles with the Argentina national team, including the 2008 and 2010 FIFA World Cups. He is widely considered to be one of the greatest footballers of all time, and is widely considered to be one of the greatest footballers of the 21st century. He has scored over 700 professional goals, and is widely considered to be one of the greatest footballers of all time. He is widely considered to be one of the greatest footballers of the 21st century.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of Lionel Messis country?",
+                    "answer": "Argentina",
+                    "explanation": "Lionel Messi is a professional footballer who plays as a forward for the Spanish club Barcelona and the Argentina national team. He is considered one of the best footballers of all time, and is widely considered to be one of the greatest footballers of the 21st century. He has scored over 700 professional goals, and is widely considered to be one of the greatest footballers of all time. He is widely considered to be one of the greatest footballers of the 21st century."
+                },
+                {
+                    "question": "What is the most prestigious trophy in the world of football?",
+                    "answer": "Ballon",
+                    "explanation": "The Ballon dOr is considered the most prestigious trophy in the world of football. It is awarded to the best male footballer in the world, as voted by a panel of sports journalists. The award is given out annually at the FIFA Best Player Award ceremony, held in Paris, France. The award is considered to be the most prestigious trophy in the world of football, and is awarded to the best male footballer in the world. The award is voted on by a panel of sports journalists, and is considered to be the most prestigious trophy in the world of football."
+                },
+                {
+                    "question": "what century are we in now?",
+                    "answer": "the 21st century",
+                    "explanation": "the 21st century refers to the current century, starting from 2001."
+                },
+                {
+                    "question": "Which is the most prestigious football trophy in the world?",
+                    "answer": "the UEFA Champions League",
+                    "explanation": "The UEFA Champions League is considered the most prestigious football trophy in the world. It is an annual football tournament that is organized by the Union of European Football Associations (UEFA) and is open to the top clubs in Europe. The tournament is held in May and June each year and is played by the top clubs in Europe. The winner of the tournament is awarded the UEFA Champions League trophy, which is a prestigious trophy that is highly sought after by clubs and players."
+                },
+                {
+                    "question": "What is Lionel Messis birthdate?",
+                    "answer": "24-07-24",
+                    "explanation": "24-07-24 is the birthdate of Lionel Messi."
+                },
+                {
+                    "question": "What is the name of the city where Lionel Messi was born?",
+                    "answer": "Barcelona",
+                    "explanation": ""
+                }
+            ],
+            "hops": [
+                "Lionel Messi"
+            ]
+        },
+        "LeBron James": {
+            "term": "LeBron James",
+            "passage": "The King\nThere is a man that you have to know about. The man has been the best basketball player in the world for more than a decade. LeBron James has made himself a true basketball legend with his amazing talent, hard work, and loyalty. His 18 NBA championships have put his name right next to some of the greatest of all time like Kobe and Shaq. This man has more accolades than many of the best NFL and NBA players. He has a talent that cannot be replaced. This man is LeBron James. The best player in the world is in his 11th season and he still looks like the youngest superstar of the NBA. When it comes to basketball, LeBron James is something that is very hard to replicate. His incredible skill, competitiveness, and athleticism have made him a superstar in the NBA and one of the most recognizable figures in the world. He is an inspiration to everyone who plays basketball. James’ NBA career has brought a lot of fame and success to him. He’s the greatest NBA player in the history. This is LeBron James. Career\nThe basketball career of LeBron James is one of the most fascinating in the history of basketball. He’s a four time champion and one of the most successful NBA players in the history of the game. He’s been in the NBA since 2005, and has been to the finals every year since he’s been there.",
+            "qae_pairs": [
+                {
+                    "question": "What is LeBron James doing now?",
+                    "answer": "NBA",
+                    "explanation": "LeBron James is a basketball superstar. He’s been in the NBA since 2005 and has been to the finals every year since he’s been there. He’s one of the most successful basketball players in the history of the game. He’s a four time champion, and has been to the finals every year since he’s been in the NBA. He’s an inspiration to many athletes and is one of the most recognizable figures in the world. He’s the greatest NBA player in the history of basketball. User"
+                }
+            ],
+            "hops": [
+                "LeBron James"
+            ]
+        },
+        "Roger Federer": {
+            "term": "Roger Federer",
+            "passage": "\"At 7'1\", Roger Federer is the tallest man on the ATP Tour, and often wears specially customized adidas sneakers. His height and his game on the court is characterized by an athleticism that belies his age (30). Federer is one of the most successful tennis players of all time, and has been one of the best players in the world since 2004. He has held the world No. 1 ranking for a record total of 310 weeks, the record for the longest period a male player has held the title. Federer is one of only four male players to have been ranked in the top 10 for 200 consecutive weeks (2004-2005) and has held the No. 1 spot for a record 310 weeks, and 21 weeks in a row. He is currently the oldest man in the Top 10.\" And now you know.",
+            "qae_pairs": [
+                {
+                    "question": "How long has Roger Federer been ranked as the worlds No?",
+                    "answer": "310 weeks",
+                    "explanation": "(310 weeks = 7 years)"
+                }
+            ],
+            "hops": [
+                "Roger Federer"
+            ]
+        },
+        "Serena Williams": {
+            "term": "Serena Williams",
+            "passage": "(not a spoiler)\n“I am working on getting that rhythm back in my mind,” Williams said during an interview in Cincinnati on August 18, 2008. “I am having to figure out how to take that time to regroup. You do that when you are tired, when you are exhausted.”\n“I am so fortunate to do what I do because of my drive to compete. I am having to take it down and regroup. You have to let your body recover and I am working on that with a trainer.”\n“It’s just a process. It’s not easy, but it’s doable,” Williams said. “It’s just been difficult for me. I have been working very hard to keep going. I am trying to find that energy that I had from that moment in Cincinnati. That’s when I just had that rhythm and I am trying to find it back in Cincinnati.”\n“It is just going to take time. It’s difficult.",
+            "qae_pairs": [
+                {
+                    "question": "Who is the best tennis player in the world?",
+                    "answer": "Williams",
+                    "explanation": "“Williams is the best tennis player in the world. She has won 13 Grand Slam titles, including the 2008 Australian Open, 2009 French Open, and 2010 Australian Open. She has also won 16 other titles in 2010, including the 2010 Australian Open. She has won 13 Grand Slam titles, including the 2008 Australian Open, 2009 French Open, and 2010 Australian Open. She has also won 16 other titles in 2010, including the 2010 Australian Open. She has won 13 Grand Slam titles, including the 2008 Australian"
+                },
+                {
+                    "question": "What is the name of the city where Serena Williams won her first Grand Slam tournament?",
+                    "answer": "Cincinnati",
+                    "explanation": "“Serena Williams won her first Grand Slam tournament in Cincinnati, Ohio in 2008. She defeated the 13th-seeded Nicole Vaidisova of the Czech Republic in the quarterfinals before defeating the 14th-seeded Shahar Peer of Israel in the semifinals. Williams then defeated the 13th-seeded Jelena Jankovic of Serbia in the final to win her first Grand Slam tournament in 13 years.”"
+                }
+            ],
+            "hops": [
+                "Serena Williams"
+            ]
+        },
+        "Michael Jordan": {
+            "term": "Michael Jordan",
+            "passage": "\"Michael Jordan (born January 17, 1989[2]) is an American professional basketball player currently playing for the Charlotte Bobcats. He played his first professional basketball game for the Chicago Bulls on October 15, 1984[1], and finished his career with the Washington Wizards. During his career, Jordan has led the Bulls to a record eight consecutive 70-win seasons, five regular season MVP awards, six All-Star appearances, 23 playoff appearances, and a record 10 scoring titles. He is the most popular athlete in the history of the game, having gained a reputation as one of the greatest players of all time and being widely regarded as one of the best athletes to ever grace the game of basketball. Jordan is a member of the National Basketball Hall of Fame, an induction ceremony of which was held on September 13, 2009. He was also awarded a \"FIFA 100\" ranking of the world's top 100 best players during his career.\" Some of the famous things that Michael Jordan said include:\n\"I am not a god, I am just a basketball player.\" -Michael Jordan\n\"Do you ever wonder why the sun rises?\" -Michael Jordan\n\"There are some things money can't buy.\" -Michael Jordan\n\"The people on my team are not my friends.\"",
+            "qae_pairs": [
+                {
+                    "question": "What is Michael Jordans birthday?",
+                    "answer": "January 17",
+                    "explanation": "Michael Jordan (born January 17, 1989[2]) is an American professional basketball player currently playing for the Charlotte Bobcats. He played his first professional basketball game for the Chicago Bulls on October 15, 1984[1], and finished his career with the Washington Wizards. During his career, Jordan has led the Bulls to a record eight consecutive 70-win seasons, five regular season MVP awards, six All-Star appearances, 23 playoff appearances, and a record 10 scoring titles. He is the most popular athlete in the history of the game, having gained a reputation as one of the greatest"
+                },
+                {
+                    "question": "What do you call a team that wins 72 games in a row?",
+                    "answer": "the Chicago Bulls",
+                    "explanation": "The Chicago Bulls is the name of the professional basketball team that Michael Jordan played for during his entire career."
+                },
+                {
+                    "question": "What is the date of Michael Jordans first professional basketball game?",
+                    "answer": "October 15",
+                    "explanation": "Michael Jordan (born January 17, 1989[2]) is an American professional basketball player currently playing for the Charlotte Bobcats. He played his first professional basketball game for the Chicago Bulls on October 15, 1984[1], and finished his career with the Washington Wizards. During his career, Jordan has led the Bulls to a record eight consecutive 70-win seasons, five regular season MVP awards, six All-Star appearances, 23 playoff appearances, and a record 10 scoring titles. He is the most popular athlete in the history of the game, having gained a reputation as one of the greatest"
+                },
+                {
+                    "question": "Who is Michael Jordans team?",
+                    "answer": "the Charlotte Bobcats",
+                    "explanation": "Michael Jordan (born January 17, 1989[2]) is an American professional basketball player currently playing for the Charlotte Bobcats. He played his first professional basketball game for the Chicago Bulls on October 15, 1984[1], and finished his career with the Washington Wizards."
+                }
+            ],
+            "hops": [
+                "Michael Jordan"
+            ]
+        },
+        "Usain Bolt": {
+            "term": "Usain Bolt",
+            "passage": ".. 0_4_Bolt\nThis was written by the BBC to celebrate Usain Bolt in his 30th birthday. This is a detailed passage from wikipedia about Usain Bolt:... 0_4_Bolt\nThis was written by the BBC to celebrate Usain Bolt in his 30th birthday. The fastest human being\nA short documentary. [Bolt Documentary]\nThe documentary starts off by looking back at Usain Bolt's success in 2008. He talks about how he managed to win the world track championships and then he began to go on tour in America. Usain Bolt talks about his early childhood and his passion for track and field. He also talks about how the 2012 London Olympics was his final one and the fact he has not been as successful in recent years as he was in 2008. Bolt then begins the final part of the documentary by talking about how he felt after the last track meet he was in. Usain Bolt talks about how he had to take a break and how he felt at his lowest in terms of running. Bolt talks about his comeback in 2011 and his hard work to make his comeback in his final years. The documentary then looks back at Usain Bolt's first Olympic gold medal in 2008 and then how he lost the gold in the 4x4 final and the bronze in the 4x4.",
+            "qae_pairs": [
+                {
+                    "question": "What is Usain Bolts best year?",
+                    "answer": "2011",
+                    "explanation": "2011 was Usain Bolts best year as he won the world championships in Berlin and the world 100m championships in Shanghai. He also won the 4x100m relay at the world championships in Shanghai. Usain Bolt also won the 4x4 relay at the world championships in Shanghai. Usain Bolt also won the 4x4 relay at the world championships in Shanghai. Usain Bolt also won the 4x4 relay at the world championships in Shanghai. Usain Bolt also won the 4x4 relay at the world championships in Shanghai. Usain Bolt also won the 4x4 relay"
+                }
+            ],
+            "hops": [
+                "Usain Bolt"
+            ]
+        },
+        "Neymar": {
+            "term": "Neymar",
+            "passage": "\"Neymar Júnior (Neymar da Silva Santos, Jr. in Portuguese) (born 7 February 1992), known as Neymar, is a Brazilian professional footballer who currently plays as an attacking midfielder for Paris Saint-Germain and the Brazil national team. Neymar is regarded as one of the best footballers in the world. He has consistently been named one of the most talented young players of the 2000s and 2010s. He has scored over 100 goals in his career. Neymar began his career with Fluminense in 2008, and spent a season with Santos. He was signed to Paris Saint-Germain in 2017, where he has won many trophies and been named the best Brazilian player in Ligue 1 in 2019. He was then transferred to the Brazilian national team, where he played as the central attacking forward and represented Brazil at the 2018 FIFA World Cup in Russia. Neymar was the first Brazilian player to score a hat-trick in a Champions League final, and was one of only five players to score 100 or more goals in a calendar year. As a member of the Brazil national team, he is one of the top players with the most goals and appearances, and was the captain of the squad in the 2018 World Cup. He has been dubbed the \"best Brazilian footballer since Pelé\".",
+            "qae_pairs": [
+                {
+                    "question": "What is Neymars birthdate?",
+                    "answer": "7 February 1992",
+                    "explanation": "(Neymar) is a Brazilian professional footballer who was born on 7 February 1992 in Mogi das Cruzes, São Paulo, Brazil."
+                },
+                {
+                    "question": "Which team is Neymar playing for now?",
+                    "answer": "Paris Saint-Germain",
+                    "explanation": "- Neymar is currently playing for Paris Saint-Germain."
+                },
+                {
+                    "question": "When did Neymar begin his career?",
+                    "answer": "2008",
+                    "explanation": "Neymar began his career with Fluminense in 2008."
+                },
+                {
+                    "question": "What is the best football league in the world?",
+                    "answer": "Champions League",
+                    "explanation": "The Champions League is considered the best football league in the world. It is a professional football league that is organized by the Union of European Football Associations (UEFA) and is the most prestigious football league in the world. The Champions League is the most prestigious football league in the world, and is the most watched football league in the world. It is also the most competitive football league in the world, as it is made up of the top clubs in Europe. The Champions League is also the most financially lucrative football league in the world, as it generates the most revenue of any football league in the world. The Champions League is also"
+                },
+                {
+                    "question": "Which decade did Neymar begin his professional career?",
+                    "answer": "2010s",
+                    "explanation": "2010s"
+                }
+            ],
+            "hops": [
+                "Neymar"
+            ]
+        },
+        "Tom Brady": {
+            "term": "Tom Brady",
+            "passage": "\"His parents were both Roman Catholic, although both were later excommunicated. The New England Patriots have had a running feud with the family for some time, and there was significant controversy when Tom became the latest Brady to play in New England. During the 2009 NFL season, the team took issue with the fact that there was a $18,000 fine on Tom for not arriving on time to practice, and $35,000 for an unauthorized helmet-to-helmet contact during a game. He also clashed with Bill Belichick in that year's AFC championship game, but managed to put those issues behind him and help the team secure a win. He also was fined $15,000 for criticizing a Boston reporter during the 2009 season.\" The Tom Brady wiki has several articles on him as well. The one here is particularly helpful, I think.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the NFL team that Tom Brady plays for?",
+                    "answer": "The New England Patriots",
+                    "explanation": "Tom Brady is a professional American football quarterback for the New England Patriots of the National Football League (NFL). He was drafted by the Patriots in the 2000 NFL Draft, and has been the teams starting quarterback since 2001. He has led the Patriots to four Super Bowl championships, and has been named the Most Valuable Player of the Super Bowl three times. He is considered one of the greatest quarterbacks in the history of the game."
+                },
+                {
+                    "question": "What is the name of the football league that Tom Brady plays in?",
+                    "answer": "NFL",
+                    "explanation": "Tom Brady is a professional American football quarterback who currently plays for the New England Patriots. He has been the teams starting quarterback since 2001, and has led the team to two Super Bowl victories. Brady has also played for the San Diego Chargers and the New York Jets, as well as the Pittsburgh Steelers. He was the MVP of Super Bowl XXXIX in 2005, and was named to the Pro Bowl four times. In 2009, he led the Patriots to their first Super Bowl victory in 18 years, and was named the MVP of the game. Brady is considered one of the greatest quarterbacks in NFL"
+                }
+            ],
+            "hops": [
+                "Tom Brady"
+            ]
+        },
+        "Michael Phelps": {
+            "term": "Michael Phelps",
+            "passage": "\"On July 1, 2009, Phelps and several other U.S. swimmers were found asleep in the middle of the night at a restaurant by local police in Fayetteville, North Carolina. Phelps and some of the other swimmers were eventually arrested and charged with disorderly conduct. Phelps, along with three other swimmers, was sentenced to a 18-month prison sentence (though the sentence was reduced to 1 year in prison). The Fayetteville Police Department later dropped all charges against Phelps and the other swimmers. However, Phelps' parents were fined by the Cumberland County, North Carolina court for not paying fines of approximately $750,000. \" Michael Phelps may have been a very special athlete. But his recent behavior is not a \"sport\" and needs to be addressed. He's a role model and it's not a good example to follow. And that's what I'm saying. He was charged with a disorderly conduct for sleeping. But, if he is guilty, and I have no reason to believe he is, this kind of behavior is not acceptable to me at all. If it is acceptable to you, that's your business. It's not something I'd want to see if he were my son. That said, he is still an amazing swimmer. He has overcome a lot of barriers to get where he is now.",
+            "qae_pairs": [
+                {
+                    "question": "What is the capital of the United States?",
+                    "answer": "U.S",
+                    "explanation": "The capital of the United States is Washington D.C. The city was established in 1790 and has been the capital of the U.S. since 1790. The city is located on the Potomac River, and is home to many monuments, including the Washington Monument, the Lincoln Memorial, and the Jefferson Memorial. The White House is located in Washington D.C. The city is home to the federal government, and is home to many of the nations top companies. The city is home to the largest number of foreign embassies in the world, and is home to many of the worlds"
+                },
+                {
+                    "question": "Whos in charge of the police department in Fayetteville, North Carolina?",
+                    "answer": "The Fayetteville Police Department",
+                    "explanation": "The Fayetteville Police Department is the law enforcement agency responsible for the safety and security of the city of Fayetteville, North Carolina. The department is headed by the Chief of Police, David W. Anderson. The department is divided into several divisions, including the Criminal Investigations Division, the Patrol Division, the Special Operations Division, and the Training Division. The department is responsible for providing law enforcement services to the city, including the investigation of criminal activity, the enforcement of laws, and the protection of citizens. The department is also responsible for providing emergency medical services, including the provision of first aid and emergency medical care. The department is also responsible"
+                },
+                {
+                    "question": "When did Michael Phelps sleep in the middle of the night at a restaurant?",
+                    "answer": "July 1, 2009",
+                    "explanation": "On July 1, 2009, Phelps and several other U.S. swimmers were found asleep in the middle of the night at a restaurant by local police in Fayetteville, North Carolina. Phelps and some of the other swimmers were eventually arrested and charged with disorderly conduct. Phelps, along with three other swimmers, was sentenced to a 18-month prison sentence (though the sentence was reduced to 1 year in prison)."
+                }
+            ],
+            "hops": [
+                "Michael Phelps"
+            ]
+        }
+    },
+    "second_hops": {
+        "Portugal": {
+            "term": "Portugal",
+            "passage": "In Portugal, there is a strong emphasis on family life and respect for the elderly. This is reflected in the numerous festivities throughout the country, particularly in larger cities such as Lisbon and Porto, when families gather to celebrate together. Portuguese people are known for the importance they place on having large social networks, and a typical Portuguese Christmas party is the celebration of the \"bacalhau com natas\" (salt cod and cream). This celebration is common throughout the country and often involves an entire family coming together to share a meal in a small home. This passage makes me think of the difference between family traditions and the holidays that we Americans celebrate. Although our holidays are based in large part on religion, family and religious holidays are less frequently celebrated here than in Portugal. I think the concept of \"bacalhau com natas\" (salt cod and cream) is a good example of a religious celebration, but it's so tied to family tradition that it's hard to separate the two in Portugal. Perhaps I'm romanticizing Portugal and its holiday traditions, but I can't help but want to celebrate all of them - large and small - with my own family and family in-laws. It has been a long time since I've done any research on Portugal, and in particular, Christmas traditions, but it's been fun looking up all of this!",
+            "qae_pairs": [
+                {
+                    "question": "What is the capital city of Portugal?",
+                    "answer": "Lisbon",
+                    "explanation": "Lisbon is the capital city of Portugal. It is located in the Lisbon Metropolitan Area, which is the largest metropolitan area in Portugal. The city is home to the countrys largest airport, the Lisbon Airport, and is a major center for commerce, culture, and education. The city is home to the countrys largest university, the University of Lisbon, and is home to the countrys largest newspaper, the Diário de Notícias. The city is home to the countrys largest shopping mall, the Lisbon Shopping Center, and is home to the countrys largest shopping district, the Lisbon Shopping"
+                }
+            ],
+            "hops": [
+                "Cristiano Ronaldo",
+                "Portugal"
+            ]
+        },
+        "Madeira": {
+            "term": "Madeira",
+            "passage": "Madeira wine is a sweet, fortified wine which is made on the island of Madeira in Portugal. It is produced from the black-berried grape varieties found on the island. It has become known and highly appreciated for its sweetness and flavour. Madeira wine is sweet because the grapes are so ripe that they produce a natural sugar. This sugar helps preserve the wine, even without a preservative like sulfites. The result is a sweet wine which you can drink on its own or with food. The main difference between white and red wine is the type of grape used. In white wine, the grapes are white (of course). In red wine, the grapes are red (of course). In Madeira, the grapes are black. To find out more about Madeira wine, you can go to this page and find out how it is made. Here's what some of our readers have written to us:\nHere are some links to places in the UK that sell Madeira:\nMadeira from Portugal is one of the best-known and most popular sweet wines in the world. There is a huge choice of brands on the market, from the cheap supermarket ones, such as M&S, all the way up to the very expensive ones.",
+            "qae_pairs": [
+                {
+                    "question": " Answer: a drink with 'Madeira' in it is generally called a 'Port'.\nWhich supermarket wine brands sell Madeira?",
+                    "answer": "UK",
+                    "explanation": "- Madeira is a sweet wine made in Portugal. - There are many brands of Madeira available in the UK, including the popular ones such as Blands, Martini & Rossi, and Madeira. - They are all made by the same company, which is the Madeira Wine Company, based in the town of Funchal on the island of Madeira. - The Madeira Wine Company has been making Madeira for over 300 years, and has a long history of making and exporting this wine. - The company is a member of the Port Wine Consortium, which means that all of"
+                },
+                {
+                    "question": "\nQuestion: Which company sells Madeira? Answer: M&S.",
+                    "answer": "M&S",
+                    "explanation": "Madeira is a brand of wine, and M&S is a supermarket chain."
+                },
+                {
+                    "question": "What is the country that produces the sweet wine Madeira?",
+                    "answer": "Portugal",
+                    "explanation": "Madeira is a town in the Madeira district of Portugal. The wine is made from the black-berried grape varieties found on the island."
+                }
+            ],
+            "hops": [
+                "Cristiano Ronaldo",
+                "Madeira"
+            ]
+        },
+        "Ronaldo": {
+            "term": "Ronaldo",
+            "passage": "I can tell you this. I was not surprised to see that he has an interest in football but I was surprised to learn that he started playing when he was 4 years old. He may be a great athlete but I think he has more talents than that. He has the talent to draw, to sing, to play an instrument, and to cook. That’s a lot of talent to have.",
+            "qae_pairs": [
+                {
+                    "question": "What age did Cristiano Ronaldo start playing football?",
+                    "answer": "4 years old",
+                    "explanation": "“Ronaldo’s father, a former professional footballer himself, began to take Ronaldo to football matches at the age of 4. Ronaldo was born in 1985 and started playing professional football at the age of 14. Ronaldo was just 14 years old when he made his debut in the Portuguese Super League. Ronaldo was then just 14 years old when he made his debut in the Portuguese Super League. Ronaldo was just 14 years old when he made his debut in the Portuguese Super League. Ronaldo was just 14 years old when he made his debut in the Portuguese Super League. Ronaldo was just 14 years old"
+                }
+            ],
+            "hops": [
+                "Cristiano Ronaldo",
+                "Ronaldo"
+            ]
+        },
+        "Paulo Jorge Pinto Jnr": {
+            "term": "Paulo Jorge Pinto Jnr",
+            "passage": "... Paulo Pinto Jnr. was born on 6 July 1957, at Guamalapa in Guamalapa district, Vila de Curaçao. He studied economics and mathematics at the Escuela de Economia e Gestão and graduated with a degree in Economics. He held a variety of senior roles within... I was born and raised on a small island in South Africa. The area, on the South East tip of the African continent, was in a time of great change during apartheid. The South African experience was a major influence on the way I view the world and has led me to live a life of exploration and global learning. During my college years, I was involved in a number of community initiatives and also worked at a local dairy farm. The former led to my introduction to local history, heritage and culture. The latter was where I found my passion for cooking. This has seen me travel the world, both on my own and on business trips with companies. My career has taken me on an amazing journey of personal and professional growth and I am always on the lookout for new experiences. I’ve also had the privilege of working with some of the best cooks in the world, both local and internationally. I’ve learned about local and global cuisines, and believe that learning about the diversity in this area is essential to understanding global cultures.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the town where Paulo Jorge Pinto Jnr was born?",
+                    "answer": "Guamalapa in Guamalapa",
+                    "explanation": ".. Paulo Jorge Pinto Jnr. was born on 6 July 1957, at Guamalapa in Guamalapa district, Vila de Curaçao. He studied economics and mathematics at the Escuela de Economia e Gestão and graduated with a degree in Economics. He held a variety of senior roles within the government and private sector."
+                },
+                {
+                    "question": "What is the name of the city where Paulo Jorge Pinto Jnr was born?",
+                    "answer": "Vila de Curaçao",
+                    "explanation": "Paulo Jorge Pinto Jnr. was born on 6 July 1957, at Guamalapa in Guamalapa district, Vila de Curaçao."
+                },
+                {
+                    "question": "What is the birthdate of Paulo Jorge Pinto Jnr?",
+                    "answer": "6 July 1957",
+                    "explanation": "1957 = 60 years old Question: What is the birthdate of Paulo Jorge Pinto Jnr? Answer: 6 July 1957 Explanation: 1957 = 60 years old"
+                },
+                {
+                    "question": "What did Paulo Jorge Pinto Jnr learn about himself during his college years?",
+                    "answer": "my college years",
+                    "explanation": "I was born and raised on a small island in South Africa. The area, on the South East tip of the African continent, was in a time of great change during apartheid. The South African experience was a major influence on the way I view the world and has led me to live a life of exploration and global learning. During my college years, I was involved in a number of community initiatives and also worked at a local dairy farm. The former led to my introduction to local history, heritage and culture. The latter was where I found my passion for cooking. This has seen me travel the world, both on my own and on"
+                }
+            ],
+            "hops": [
+                "Cristiano Ronaldo",
+                "Paulo Jorge Pinto Jnr"
+            ]
+        },
+        "Manchester United": {
+            "term": "Manchester United",
+            "passage": "Manchester United's main crest consists of the letters M (for Manchester), U (for United), and the abbreviation \"MUFC\". In the centre is the badge of the Royal coat of arms, the \"chickerell crest\" (for the town of Chickerell, where the club was formed) in the centre of a green laurel wreath. It is accompanied by the motto \"Pride of the Nation\", which reflects the club's ethos of \"strength in unity\" and the \"viva red devils\" song. It is the most successful football club in Manchester and the most successful in England and is regarded as the one of the most prestigious in the world. Manchester United is one of the world's most popular football clubs and is regarded as one of the \"Big Four\" of English football. It is the largest football club in the world, as measured by number of supporters. I think the fact that this is the logo of a successful, prestigious, and well-established soccer team means that there are many things in this logo that the team could have done differently. There are too many letters for my liking and the color scheme seems too feminine to me (blue and white). I think if a soccer team logo were a girl's name it would be more successful.",
+            "qae_pairs": [
+                {
+                    "question": "Question: What is the name of the town where Manchester United was founded?",
+                    "answer": "Chickerell",
+                    "explanation": "Chickerell is a town in the English county of Devon. It is located in the south of England, near the city of Exeter. The town is situated on the banks of the River Exe and is home to the Chickerell crest. The crest is a red and white chequered flag with a black and white chequered flag in the centre. The crest is accompanied by the motto Pride of the Nation, which reflects the clubs ethos of strength in unity. The name of the town is Chickerell, which is derived from the name of the town"
+                }
+            ],
+            "hops": [
+                "Cristiano Ronaldo",
+                "Manchester United"
+            ]
+        },
+        "Barcelona": {
+            "term": "Barcelona",
+            "passage": "There are a number of very fine art galleries in Barcelona, particularly along Passeig de Gràcia. The area in and around La Sagrada Familia is home to the highest concentration of galleries and art shops in the city, and the most prestigious artists' quarters. Barcelona is home to many prestigious artists, art schools and galleries. Barcelona has the largest concentration of fine art museums in Europe and is home to two major institutions, the Museu Nacional d'Art Catalunya and the Picasso Museum. There are more than 800 galleries in the city, and more than 800 artists' studios. There are several galleries devoted to contemporary art, among them are the Center de la Creencia Catalana and the galleries of Montjuïc. Barcelona is also home to the first art school in Spain, the Real Academia de Bellas Artes de Barcelona, which trains artists for both traditional and contemporary art.",
+            "qae_pairs": [
+                {
+                    "question": "Which famous artists museum is located in Barcelona?",
+                    "answer": "the Picasso Museum",
+                    "explanation": "Picasso Museum is located in Barcelona."
+                }
+            ],
+            "hops": [
+                "Lionel Messi",
+                "Barcelona"
+            ]
+        },
+        "NBA": {
+            "term": "NBA",
+            "passage": "NBA Basketball was founded in 1949 in New York, New York. The National Basketball Association (NBA) is a professional basketball organization in North America. In Canada, the league is known as the Basketball Association of Canada (BAC), and in France it is called LNB Pro A. It is the oldest professional basketball league in the world. Currently, there are 30 teams in the NBA. Basketball, also known as \"hoop\" or \"round ball\", is a popular sport played by millions of people around the world. It originated in the United States and has spread to Europe, Asia, and Latin America. It is known as basketball in the United States and basketball (basketball) in France. It is a team sport played on a basketball court, with two teams of five players each trying to make baskets. A team consists of five players who must work together to win.",
+            "qae_pairs": [
+                {
+                    "question": "What year was the NBA founded?",
+                    "answer": "1949",
+                    "explanation": "The National Basketball Association (NBA) was founded in 1949 in New York, New York."
+                },
+                {
+                    "question": "\nIn which country is the NBA commonly known as 'hoop' or 'round ball'? Answer: France",
+                    "answer": "France",
+                    "explanation": "The NBA is commonly known as hoop or round ball in France."
+                }
+            ],
+            "hops": [
+                "LeBron James",
+                "NBA"
+            ]
+        },
+        "Williams": {
+            "term": "Williams",
+            "passage": "\"Williams was born in Williamsport, Pennsylvania, on March 28, 1919. He attended Williamsport High School, where he was a member of the football team. Williams was drafted into the Army in 1942, and served in the 82nd Airborne Division. He was discharged in 1945. Williams attended the University of Pittsburgh, where he was a member of the varsity football team. He was drafted into the Army in 1942, and served in the 82nd Airborne Division.",
+            "qae_pairs": [
+                {
+                    "question": "What year did Williams attend the University of Pittsburgh?",
+                    "answer": "1942",
+                    "explanation": "Williams attended the University of Pittsburgh in 1942. He was a member of the varsity football team."
+                },
+                {
+                    "question": "What university did Williams attend?",
+                    "answer": "the University of Pittsburgh",
+                    "explanation": "Williams attended the University of Pittsburgh, where he was a member of the varsity football team. He was drafted into the Army in 1942, and served in the 82nd Airborne Division. Williams was discharged in 1945."
+                },
+                {
+                    "question": "What was Williams alma mater?",
+                    "answer": "the 82nd Airborne Division",
+                    "explanation": "Williams was born in Williamsport, Pennsylvania, on March 28, 1919. He attended Williamsport High School, where he was a member of the football team. Williams was drafted into the Army in 1942, and served in the 82nd Airborne Division. He was discharged in 1945. Williams attended the University of Pittsburgh, where he was a member of the varsity football team. He was drafted into the Army in 1942, and served in the 82nd Airborne Division. Williams was discharged in 1945. Williams attended the University of Pittsburgh, where he was a member of the"
+                },
+                {
+                    "question": "Where was Williams born?",
+                    "answer": "Pennsylvania",
+                    "explanation": "Williams was born in Williamsport, Pennsylvania, on March 28, 1919."
+                },
+                {
+                    "question": "What was the date of birth for Williams?",
+                    "answer": "March 28, 1919",
+                    "explanation": "Williams was born in Williamsport, Pennsylvania, on March 28, 1919. He attended Williamsport High School, where he was a member of the football team. Williams was drafted into the Army in 1942, and served in the 82nd Airborne Division. He was discharged in 1945. Williams attended the University of Pittsburgh, where he was a member of the varsity football team. He was drafted into the Army in 1942, and served in the 82nd Airborne Division. Williams was discharged in 1945. Williams attended the University of Pittsburgh, where he was a member of the"
+                }
+            ],
+            "hops": [
+                "Serena Williams",
+                "Williams"
+            ]
+        },
+        "Cincinnati": {
+            "term": "Cincinnati",
+            "passage": "\"Cincinnati is the county seat of Hamilton County, Ohio, United States. As of 2010, the city has a population of 8,381,200 (and a estimated population of 8,300,200 as of 2004). Cincinnati is part of the Greater Cincinnati metropolitan area. Cincinnati has a reputation as a'sunny place for the winter', due to being home to the Cincinnati Bengals and the Cincinnati Reds, who share a stadium. Cincinnati is home to 17 Fortune 500 companies, including Procter & Gamble, Cargill, and Kroger. The city has a long history of sports, including basketball and football, as well as its famous chili and corn bread.\" As an AI language model, I can not provide information about real-time information. However, according to recent statistics, the population of Cincinnati is around 75,000.",
+            "qae_pairs": [
+                {
+                    "question": "Question: What is the name of the grocery store chain located in Cincinnati?",
+                    "answer": "Kroger",
+                    "explanation": "Kroger is an American retail company headquartered in Cincinnati, Ohio. It is the largest supermarket chain in the United States, with over 2,500 stores in the country. Kroger is the largest supermarket chain in the world, with over 2,500 stores in the world. Kroger is the largest supermarket chain in the United States, with over 2,500 stores in the country. Kroger is the largest supermarket chain in the world, with over 2,500 stores in the world. Kroger is the largest supermarket chain in the United States, with over 2,500 stores in the world. Kro"
+                },
+                {
+                    "question": "\nWhich well-known company in Cincinnati is best known for producing the 'Cargill' brand?",
+                    "answer": "Cargill",
+                    "explanation": "Cargill is a global agribusiness and food company that produces food products such as animal feed, meat, and other food products. It is headquartered in Minneapolis, Minnesota, and has a presence in over 40 countries. The company is best known for producing the Cargill brand, which is a leading brand in the food industry."
+                },
+                {
+                    "question": "\nQuestion: Which well-known corporation is based in the city of Cincinnati? (Answer: Procter & Gamble)",
+                    "answer": "Procter & Gamble",
+                    "explanation": "Procter & Gamble is a consumer goods company that is based in Cincinnati, Ohio. It is one of the largest companies in the world, with a market capitalization of over $100 billion. The company is best known for its brands such as Tide, Crest, and Gillette."
+                }
+            ],
+            "hops": [
+                "Serena Williams",
+                "Cincinnati"
+            ]
+        },
+        "the Chicago Bulls": {
+            "term": "the Chicago Bulls",
+            "passage": ".\" It’s a pretty clear message. And it’s a very common one in the business world:\nYou are not a commodity. You do not deserve to be commodified. You are a professional, and that means you are in a league of your own. You deserve to be treated like a professional. A year or so ago, the word “personal brand” first entered my consciousness, and I immediately knew that this was one area that I needed to improve upon as a professional. And one thing that has been clear to me over the past several months is that having a personal brand is a big deal. And I don’t mean just that you have a nice little logo on your business card or on your website. I mean that you have an online profile that’s available, and that you have a presence in the social media world - with a blog, Facebook, Twitter, etc. This is a very, very big deal - and it's something that the business world is starting to catch on to. The Chicago Bulls are one of the more obvious examples, but you also have the likes of the Green Bay Packers, who have a huge presence on Facebook. In a lot of ways, I don’t think this is a unique approach - it’s not the first time that a business has asked its customers to go and make a page for themselves.",
+            "qae_pairs": [
+                {
+                    "question": "Who is the Chicago Bulls biggest rival?",
+                    "answer": "the Green Bay Packers",
+                    "explanation": "The Chicago Bulls are one of the more obvious examples, but you also have the likes of the Green Bay Packers, who have a huge presence on Facebook."
+                }
+            ],
+            "hops": [
+                "Michael Jordan",
+                "the Chicago Bulls"
+            ]
+        },
+        "the Charlotte Bobcats": {
+            "term": "the Charlotte Bobcats",
+            "passage": "On July 15, 2005, the Bobcats were established as an expansion team in Charlotte. The team was established just a week after its former parent team, the Charlotte Hornets, relocated to Oklahoma City and became the Oklahoma City Thunder. At the time of the expansion, the Charlotte Bobcats became the Hornets' former team. However, after two seasons in Oklahoma City, the Hornets were sold to New Orleans on July 7, 2008. With the Hornets relocation, the Charlotte Bobcats became the only NBA team that is the sole property of its parent team. The Bobcats were the first NBA team to play an entire season without head coach. This is their third head coach in three years, making it the longest period between head coaches in Bobcats history. What does this passage tell us about the Charlotte Hornets? The Charlotte Hornets became the Charlotte Bobcats after the Hornets relocated to Oklahoma City, and they have been the team's sole property ever since.",
+            "qae_pairs": [
+                {
+                    "question": "\nWhat do you know about the Charlotte Hornets, the Charlotte Bobcats' former parent team?",
+                    "answer": "the Oklahoma City Thunder",
+                    "explanation": "The Charlotte Hornets relocated to Oklahoma City after the 2005-06 season, becoming the Oklahoma City Thunder. The Charlotte Bobcats, on the other hand, have been the teams sole property ever since their inception in 2005."
+                },
+                {
+                    "question": "What is the current head coach of the Charlotte Bobcats?",
+                    "answer": "NBA",
+                    "explanation": "NBA stands for National Basketball Association."
+                },
+                {
+                    "question": "\nHow many seasons did the Charlotte Hornets play as the Charlotte Bobcats' former parent team before their relocation?",
+                    "answer": "two seasons",
+                    "explanation": "The Charlotte Hornets played as the Charlotte Bobcats former parent team for two seasons before their relocation."
+                },
+                {
+                    "question": "\nWhat NBA team is the Charlotte Bobcats' former parent team, the Charlotte Hornets, located in now?",
+                    "answer": "New Orleans",
+                    "explanation": "After two seasons in Oklahoma City, the Charlotte Hornets were sold to New Orleans on July 7, 2008. The Hornets relocated to Oklahoma City and became the Oklahoma City Thunder."
+                },
+                {
+                    "question": "\nWhat was the date when the Charlotte Bobcats moved to Oklahoma City?",
+                    "answer": "July 7, 2008",
+                    "explanation": "The Charlotte Bobcats moved to Oklahoma City on July 7, 2008, after two seasons in New Orleans."
+                }
+            ],
+            "hops": [
+                "Michael Jordan",
+                "the Charlotte Bobcats"
+            ]
+        },
+        "Paris Saint-Germain": {
+            "term": "Paris Saint-Germain",
+            "passage": "\"In 2014, Paris Saint-Germain took part in the UEFA Champions League for the first time, and finished at the top of the table. This was the first time that PSG had ever achieved such a feat. At the end of the 2014–2015 Ligue 1, PSG also won the league for the first time. They also became the first French team to win the Champions League in 2016, since the competition began with the 1992–93 tournament.\" What a year 2015 is turning out to be! The French are celebrating this victory - \"France’s finest clubs have never won the Champions League until now. This is their sixth European Cup and the fourth French title in a row. The French, whose biggest club is Paris Saint-Germain, have already seen the club compete in the last three finals and three UEFA Champions League in the past six seasons and could complete the fourth in Paris on 27th May. Last week's win over AS Monaco means the French can win four straight trophies, after being beaten by the English in the past three seasons. A remarkable return to Europe’s top club. It’s been a year of celebrations and recognition for France.",
+            "qae_pairs": [
+                {
+                    "question": "Question: Which year did Paris Saint-Germain win the UEFA Champions League for the first time?",
+                    "answer": "2016",
+                    "explanation": "2016"
+                },
+                {
+                    "question": "What happened last week involving Paris Saint-Germain?",
+                    "answer": "Last week's",
+                    "explanation": "Paris Saint-Germain beat AS Monaco 2-1 in the French Cup final on 20th May. The victory was their fourth in a row in the French Cup, and their third in the French Cup in a row. The French champions have now won their fourth French Cup in a row, and their fifth in the past six years. The French have also won the last three French Cups in a row, and their fourth in a row. Paris Saint-Germain have now won their fourth French Cup in a row, and their fifth in a row. The French have also won the last three French Cups in a row"
+                },
+                {
+                    "question": "What year did Paris Saint-Germain win their first UEFA Champions League?",
+                    "answer": "2014",
+                    "explanation": "Paris Saint-Germain won their first UEFA Champions League in 2014, after finishing first in the Ligue 1 table. They also won the league for the first time in their history. The French club also won the 2016 UEFA Champions League, making them the first French team to do so. This is their sixth European Cup and their fourth French title in a row."
+                },
+                {
+                    "question": "\nWhich Ligue 1 team was able to knock out Paris Saint-Germain in the 2015 UEFA Champions League?",
+                    "answer": "Monaco",
+                    "explanation": "Paris Saint-Germain won the 2015 UEFA Champions League after defeating AS Monaco in the final. Monaco had knocked out the French side in the semi-finals, after a 2-1 victory in the first leg and a 4-2 victory in the second leg."
+                },
+                {
+                    "question": "What date will Paris Saint-Germain play in the UEFA Champions League final?",
+                    "answer": "27th May",
+                    "explanation": "The 2016 UEFA Champions League final will be held on 27th May at the Olympiastadion in Berlin, Germany. The match will be between the winners of the semi-finals, which will be held on 24th and 25th May. The winners of the semi-finals will be determined by the draw on 18th May. The final will be held on 27th May, and the match will be broadcast live on BBC One and BBC iPlayer. The match will be held at the Olympiastadion in Berlin, Germany, and will kick off at 8pm. The match will"
+                }
+            ],
+            "hops": [
+                "Neymar",
+                "Paris Saint-Germain"
+            ]
+        },
+        "Champions League": {
+            "term": "Champions League",
+            "passage": "The UEFA Champions League (English: European Cup Winners' Cup), formerly known as the European Champion Clubs' Cup (French: Champions' League Européenne des Clubs de l'Excellence (Clubs' Cup) in French and the ECC (European Club Cup) in Dutch), is a series of professional men's football competitions established in 1955. It is organized by UEFA, and is open to club teams from all European countries.",
+            "qae_pairs": [
+                {
+                    "question": "When was the UEFA Champions League established?",
+                    "answer": "1955",
+                    "explanation": "1955"
+                },
+                {
+                    "question": "\nWho won the most European Club Cup/Champions League titles?",
+                    "answer": "European Club Cup",
+                    "explanation": "The European Club Cup was established in 1955 and was open to club teams from all European countries. The first winners of the European Club Cup were the French club, Saint-Étienne, who won the 1956 edition. Since then, the European Club Cup has been won by a total of 24 different clubs. The most successful clubs in the European Club Cup are Real Madrid, Barcelona, Ajax, Milan, Liverpool, and Bayern Munich."
+                }
+            ],
+            "hops": [
+                "Neymar",
+                "Champions League"
+            ]
+        },
+        "The New England Patriots": {
+            "term": "The New England Patriots",
+            "passage": "The New England Patriots, also referred to as simply the Patriots, are a professional American football team based in Foxborough, Massachusetts. The Patriots compete in the National Football League (NFL) as members of the Eastern Division of the American Football Conference (AFC). The Patriots are the most successful NFL franchise in modern history, having won more Super Bowls than any other team. With a history dating back to 1959, the Patriots have a well-known legacy of being one of the most successful franchises in American sports history. Since the NFL merger in 1960, no other franchise has won more Super Bowls than the Patriots. The Patriots are one of the founding teams of the AFL and were inducted into the Pro Football Hall of Fame in 1965. I couldn't find a page where the Patriots could be downloaded. After you read this, here are a few interesting New England Patriot links you might want to visit:\nThe Patriots Web Site\nThe Patriots' history\nThe Patriots' stats\nThe Patriots' schedule\nThe Patriots' latest news\nThis site has many interesting pages like\nthe Patriots' history\nand\nthe Patriots' schedule. You will also find a lot of\ninteresting information on the Patriots' current team. Go to my\nsite to find out more about the Patriots\n. Back to my\npage.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the city where the New England Patriots play?",
+                    "answer": "Foxborough",
+                    "explanation": "Foxborough is a town in the Plymouth County, Massachusetts, United States. It is located in the southeastern part of the state, about 25 miles (40 km) west of Boston. The town is home to the New England Patriots, who play their home games at Gillette Stadium. The town is also home to the New England Revolution, a professional soccer team."
+                },
+                {
+                    "question": "What is the name of the state where the New England Patriots are located?",
+                    "answer": "Massachusetts",
+                    "explanation": "Massachusetts is the name of the state where the New England Patriots are located."
+                },
+                {
+                    "question": "What is the New England Patriots latest news?",
+                    "answer": "NFL",
+                    "explanation": "The New England Patriots are a professional American football team based in Foxborough, Massachusetts. The Patriots compete in the National Football League (NFL) as members of the Eastern Division of the American Football Conference (AFC). The Patriots are the most successful NFL franchise in modern history, having won more Super Bowls than any other team. With a history dating back to 1959, the Patriots have a well-known legacy of being one of the most successful franchises in American sports history. Since the NFL merger in 1960, no other franchise has won more Super Bowls than the Patriots. The Patriots are one of the"
+                }
+            ],
+            "hops": [
+                "Tom Brady",
+                "The New England Patriots"
+            ]
+        },
+        "NFL": {
+            "term": "NFL",
+            "passage": "The NFL, which was founded in 1929, is a professional American football league that comprises 32 teams based in North America. It is the largest professional sports league in the world in terms of total revenue. As of the 2020 season, the NFL is the most popular sport in the United States, with 1.5 billion viewers tuning into television broadcasts during the regular season. The league is a member of the National Football League (NFL) and the American Football League (AFL) since 1920. The league is made up of 32 teams based in North America. The NFL has become a cultural icon and a major part of American culture. The NFL season consists of 17 regular season games and then 6 postseason games including the Super Bowl. The NFL is a professional American football league consisting of 32 teams based in North America. Founded in 1929, it is the largest sports league in the world in terms of total revenue. With over 1.5 billion viewers tuning into TV broadcasts during the regular season, it is considered a major cultural icon in America.",
+            "qae_pairs": [
+                {
+                    "question": "When was the NFL founded?",
+                    "answer": "1929",
+                    "explanation": "- The NFL was founded in 1929."
+                },
+                {
+                    "question": "Who is the most popular player in the NFL?",
+                    "answer": "the American Football League",
+                    "explanation": "The NFL is the largest professional sports league in the world in terms of total revenue. As of the 2020 season, the NFL is the most popular sport in the United States, with 1.5 billion viewers tuning into television broadcasts during the regular season. The league is a member of the National Football League (NFL) and the American Football League (AFL) since 1920. The NFL season consists of 17 regular season games and then 6 postseason games including the Super Bowl. The NFL is a professional American football league consisting of 32 teams based in North America. Founded in 1929,"
+                },
+                {
+                    "question": "Who founded the NFL in 1929?",
+                    "answer": "1920",
+                    "explanation": "The NFL was founded in 1920 by a group of 32 American football owners. The league was founded by a group of 32 American football owners. The league was founded by a group of 32 American football owners. The league was founded by a group of 32 American football owners. The league was founded by a group of 32 American football owners. The league was founded by a group of 32 American football owners. The league was founded by a group of 32 American football owners. The league was founded by a group of 32 American football owners. The league was founded by a group of 32 American"
+                }
+            ],
+            "hops": [
+                "Tom Brady",
+                "NFL"
+            ]
+        },
+        "U.S": {
+            "term": "U.S",
+            "passage": "\"The United States, often referred to as the U.S. or America, is a federal constitutional republic and is the world's current superpower. The nation is also referred to as the USA (for example, by the name USA on the flags of some U.S. ships and planes). The U.S. population of over 293 million people, makes it one of the most populous nations on the planet. The nation has the world's most diverse and multicultural population, composed of people from a variety of ethnic and racial groups, although the vast majority of its population is of European descent. It is also the world's wealthiest and most powerful nation. With regard to its global economic and military might, it is the world's current leading superpower. The country is the third oldest country in the world by its first recorded constitution, the Constitution of 1777. Its capital is Washington, D.C. on the Potomac River, with more than 200 other cities and numerous smaller towns, along with numerous military bases and other facilities. The nation's national anthem is the U.S. 'Stars and Stripes Forever' which was composed during the first world war.",
+            "qae_pairs": [
+                {
+                    "question": "What is the worlds most populous nation?",
+                    "answer": "The United States",
+                    "explanation": "The United States is the most populous nation in the world, with a population of over 293 million people. It is also one of the most diverse and multicultural nations, composed of people from a variety of ethnic and racial groups. The vast majority of its population is of European descent. It is also the worlds wealthiest and most powerful nation."
+                },
+                {
+                    "question": "\nWhat is the capital city of the United States, and who is the current President of the U.S.?",
+                    "answer": "Washington",
+                    "explanation": "The capital city of the United States is Washington, D.C. It is located on the Potomac River, and is home to the federal government and many other government agencies. The current President of the U.S. is Joe Biden."
+                },
+                {
+                    "question": "\nWhat is the famous river in the United States?",
+                    "answer": "the Potomac River",
+                    "explanation": "The Potomac River is a river in the United States, located in the Mid-Atlantic region. It is the largest river in the country, and is the third-longest river in the world. It is the main river of the Washington, D.C. metropolitan area, and is the main river of the District of Columbia. The Potomac is also the main river of the Chesapeake Bay, and is the main river of the Chesapeake Bay watershed. It is the main river of the Potomac River watershed, and is the main river of the Chesapeake Bay watershed. The Potomac is also the main river of the James River"
+                }
+            ],
+            "hops": [
+                "Michael Phelps",
+                "U.S"
+            ]
+        },
+        "The Fayetteville Police Department": {
+            "term": "The Fayetteville Police Department",
+            "passage": "\"The Fayetteville Police Department is the largest police agency in Cumberland County and the only police agency in the county that maintains a full-time Emergency Management Agency. The department has 130 officers and 110 civilian employees. A number of specialized units including: SWAT, SRT, K9, and Air Wing also serve the city. The city has received a number of awards, including being recognized as an outstanding law enforcement agency, a number of times. The city also received the first \"Law Enforcement Award\" by the Fayetteville/Cumberland County Chamber of Commerce. The department operates the Communications center, Records Department, and Fire/EMS Department. The department is responsible for providing 24/7 emergency response in the city, as well as in the surrounding areas when requested. The department is one of 2,000 agencies in the state that provide SWAT teams in the community, which are responsible for responding to hostage and barricaded incidents. The Fayetteville department is also a member of a number of national law enforcement associations and is a member of the International Association of Chiefs of Police.\" The Fayetteville Police Department operates a variety of units, including SWAT, SRT, K9, and Air Wing. SWAT is responsible for responding to a variety of emergencies, including barricaded incidents. SRT is responsible for SWAT operations and also handles K9 operations. Air Wing provides a helicopter for emergency transport and is also responsible for surveillance.",
+            "qae_pairs": [
+                {
+                    "question": "\nWhat unit does The Fayetteville Police Department use to surveil the city?",
+                    "answer": "Air Wing",
+                    "explanation": "The Fayetteville Police Department uses Air Wing to surveil the city. Air Wing is responsible for a number of tasks, including providing aerial surveillance of the city."
+                },
+                {
+                    "question": "What is the Fayetteville Police Department responsible for?",
+                    "answer": "SWAT",
+                    "explanation": "The Fayetteville Police Department is responsible for responding to a variety of emergencies, including barricaded incidents. SWAT is responsible for SWAT operations and also handles K9 operations."
+                }
+            ],
+            "hops": [
+                "Michael Phelps",
+                "The Fayetteville Police Department"
+            ]
+        }
+    }
+}

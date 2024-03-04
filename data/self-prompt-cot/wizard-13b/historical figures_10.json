@@ -1,0 +1,833 @@
+{
+    "first_hops": {
+        "Julius Caesar": {
+            "term": "Julius Caesar",
+            "passage": "Julius Caesar was a Roman general, statesman, Consul, and writer. He played a critical role in the events that led to the demise of the Roman Republic and the rise of the Roman Empire. He is widely considered one of the greatest military commanders in history, and his legacy has had a profound impact on Western civilization. Caesar was born into a patrician family in Rome in 100 BC. He began his military career at a young age, serving as a military tribune in 68 BC. He quickly gained a reputation as a skilled and successful commander, and was appointed to lead the Roman army in Gaul in 58 BC. Over the next several years, Caesar conquered much of Gaul, and his victories made him one of the most famous and respected figures in Rome. In 49 BC, Caesar returned to Rome and launched a political career that would see him rise to the highest offices in the Roman Republic. He was elected Consul in 59 BC, and went on to hold a number of other important political positions, including governor of provinces such as Spain and Gaul. Caesar's political career was marked by a series of power struggles and conflicts with his political rivals. In 44 BC, he was assassinated by a group of senators who feared his growing power and popularity. His death marked the end of the Roman Republic and the beginning of the Roman Empire, under the rule of his grandnephew and adopted son, Gaius Julius Caesar Octavianus, who would later become known as Augustus. Caesar is remembered as one of the greatest military commanders in history, and his legacy has had a profound impact on Western civilization.",
+            "qae_pairs": [
+                {
+                    "question": "What is the capital city of Italy? 'Italy' is the answer to which question: Which country is located in Southern Europe and is known for its art, fashion, and cuisine?",
+                    "answer": "Rome",
+                    "explanation": "Passage: Julius Caesar was a Roman general, statesman, Consul, and writer. He played a critical role in the events that led to the demise of the Roman Republic and the rise of the Roman Empire. He is widely considered one of the greatest military commanders in history, and his legacy has had a profound impact on Western civilization. Caesar was born into a patrician family in Rome in 100 BC. He began his military career at a young age, serving as a military tribune in 68 BC."
+                },
+                {
+                    "question": "What is the abbreviation for 'Before Christ'?",
+                    "answer": "BC",
+                    "explanation": "Caesar was born into a patrician family in Rome in 100 BC."
+                },
+                {
+                    "question": "What is the name of the country that Julius Caesar conquered during his political career?",
+                    "answer": "Spain",
+                    "explanation": "Caesar was born into a patrician family in Rome in 100 BC."
+                },
+                {
+                    "question": "What was the political system of ancient Rome?",
+                    "answer": "the Roman Republic",
+                    "explanation": "Caesar's political career was marked by a series of power struggles and conflicts with his political rivals."
+                },
+                {
+                    "question": "What is the name of the region that Julius Caesar conquered during his military career?",
+                    "answer": "Gaul",
+                    "explanation": "Caesar was born into a patrician family in Rome in 100 BC. He began his military career at a young age, serving as a military tribune in 68 BC. He quickly gained a reputation as a skilled and successful commander, and was appointed to lead the Roman army in Gaul in 58 BC. Over the next several years, Caesar conquered much of Gaul, and his victories made him one of the most famous and respected figures in Rome."
+                }
+            ],
+            "hops": [
+                "Cleopatra",
+                "Julius Caesar"
+            ]
+        },
+        "Cleopatra": {
+            "term": "Cleopatra",
+            "passage": "Cleopatra VII Philopator (Greek: Κλεοπάτρα Φιλοπάτωρ; 69 BC – August 12, 30 BC) was the last active pharaoh of Ancient Egypt, known for her political and romantic alliances with Julius Caesar and Mark Antony. She was born into the Ptolemaic dynasty as the daughter of Ptolemy XII and was the queen of Egypt from 51 BC until her death. Cleopatra was a member of the Ptolemaic dynasty, which had ruled Egypt since the time of Alexander the Great. She was the last active pharaoh of Ancient Egypt, and was known for her political and romantic alliances with Julius Caesar and Mark Antony. Cleopatra was born in 69 BC in Alexandria, Egypt, as the daughter of Ptolemy XII and his sister Cleopatra V. She had several siblings, including her brothers Ptolemy XIII and Ptolemy XIV, and her sister Cleopatra Selene. Cleopatra became queen of Egypt in 51 BC, after the death of her father. She was only 18 years old at the time, and faced a power struggle with her younger brother Ptolemy XIII. Cleopatra was able to maintain her position as queen, but the conflict between her and Ptolemy XIII led to civil war in Egypt. Cleopatra was able to gain the support of Julius Caesar, who became her ally and lover. Together, they had a son named Caesarion. Cleopatra and Caesarion traveled to Rome in 47 BC, where they were welcomed by the Roman people.",
+            "qae_pairs": [
+                {
+                    "question": "What was the name of the dynasty that ruled Egypt from the time of Alexander the Great?",
+                    "answer": "the Ptolemaic dynasty",
+                    "explanation": "Cleopatra was born in 69 BC in Alexandria, Egypt, as the daughter of Ptolemy XII and his sister Cleopatra V. She had several siblings, including her brothers Ptolemy XIII and Ptolemy XIV, and her sister Cleopatra Selene. This sentence provides evidence that Cleopatra was born into the Ptolemaic dynasty, which ruled Egypt from the time of Alexander the Great."
+                },
+                {
+                    "question": "Who is the son of Cleopatra and Julius Caesar?",
+                    "answer": "Caesarion",
+                    "explanation": "Cleopatra and Caesarion traveled to Rome in 47 BC, where they were welcomed by the Roman people."
+                },
+                {
+                    "question": "What is the capital city of Italy? What is the currency of Japan? What is the largest country in the world by land area? What is the name of the famous pharaoh of Ancient Egypt known for her political and romantic alliances with Julius Caesar and",
+                    "answer": "Rome",
+                    "explanation": "Cleopatra was the last active pharaoh of Ancient Egypt, known for her political and romantic alliances with Julius Caesar and Mark Antony."
+                },
+                {
+                    "question": "1. Who was the last active pharaoh of Ancient Egypt? 2. Who was the father of Cleopatra VII? 3. Who was the lover and ally of Cleopatra VII?",
+                    "answer": "Julius Caesar",
+                    "explanation": "Cleopatra was able to maintain her position as queen, but the conflict between her and Ptolemy XIII led to civil war in Egypt."
+                }
+            ],
+            "hops": [
+                "Cleopatra"
+            ]
+        },
+        "Napoleon Bonaparte": {
+            "term": "Napoleon Bonaparte",
+            "passage": "Napoleon Bonaparte (15 August 1769 – 5 May 1821) was a French military and political leader who rose to prominence during the French Revolution and its associated wars. He was born in Corsica and served as a general during the French Revolutionary Wars, distinguishing himself at the Battle of Toulon and the Battle of Valmy. He seized power in a coup in 1799 and established the Consulate, becoming First Consul of France. He crowned himself Emperor of the French in 1804, and launched a series of successful military campaigns, including the Napoleonic Wars, against various European powers. He is best known for his role in the French Revolution and his impact on European politics in the early 19th century. He died in exile on the island of Saint Helena in 1821.",
+            "qae_pairs": [
+                {
+                    "question": "What is the location of Napoleon Bonaparte's death?",
+                    "answer": "Saint Helena",
+                    "explanation": "He died in exile on the island of Saint Helena in 1821."
+                },
+                {
+                    "question": "What is the birthdate of Napoleon Bonaparte?",
+                    "answer": "15 August 1769",
+                    "explanation": "He was born in Corsica and served as a general during the French Revolutionary Wars, distinguishing himself at the Battle of Toulon and the Battle of Valmy."
+                },
+                {
+                    "question": "What was the political system established by Napoleon Bonaparte after he seized power in a coup in 1799?",
+                    "answer": "Consulate",
+                    "explanation": "He seized power in a coup in 1799 and established the Consulate, becoming First Consul of France."
+                },
+                {
+                    "question": "1. What year did Napoleon Bonaparte crown himself Emperor of the French? 2. Who did Napoleon Bonaparte defeat in the Battle of Valmy? 3. What was Napoleon Bonaparte's full name? 4. Where was Napoleon Bonaparte born? 5. When did",
+                    "answer": "1804",
+                    "explanation": "Napoleon Bonaparte (15 August 1769 – 5 May 1821) was a French military and political leader who rose to prominence during the French Revolution and its associated wars. He was born in Corsica and served as a general during the French Revolutionary Wars, distinguishing himself at the Battle of Toulon and the Battle of Valmy. He seized power in a coup in 1799 and established the Consulate, becoming First Consul of France."
+                },
+                {
+                    "question": "What was the date of Napoleon Bonaparte's death?",
+                    "answer": "May 1821",
+                    "explanation": "He is best known for his role in the French Revolution and his impact on European politics in the early 19th century."
+                },
+                {
+                    "question": "What year did Napoleon Bonaparte seize power in a coup and establish the Consulate, becoming First Consul of France?",
+                    "answer": "1799",
+                    "explanation": "Napoleon Bonaparte seized power in a coup in 1799 and established the Consulate, becoming First Consul of France."
+                },
+                {
+                    "question": "* What was Napoleon Bonaparte's impact on European politics in? * What was Napoleon Bonaparte's birthplace? * What was Napoleon Bonaparte's military rank during the French Revolutionary Wars? * When did Napoleon Bonaparte establish the Consulate?",
+                    "answer": "the early 19th century",
+                    "explanation": "Napoleon Bonaparte's impact on European politics in the early 19th century."
+                },
+                {
+                    "question": "What was Napoleon Bonaparte's title after he seized power in a coup in 1799?",
+                    "answer": "First Consul of France",
+                    "explanation": "He seized power in a coup in 1799 and established the Consulate, becoming First Consul of France."
+                }
+            ],
+            "hops": [
+                "Napoleon Bonaparte"
+            ]
+        },
+        "Abraham Lincoln": {
+            "term": "Abraham Lincoln",
+            "passage": "Abraham Lincoln was the 16th President of the United States, serving from 1861 until his assassination in April 1865. Lincoln led the country through its Civil War—its bloodiest war and perhaps its greatest moral, constitutional, and political crisis—preserving the Union, ending slavery, strengthening the federal government and modernizing the economy. Lincoln was born in Hodgenville, Kentucky, on February 12, 1809, the second child of Thomas and Nancy Hanks Lincoln. Lincoln grew up in a poor family and received little formal education. He worked on his father's farm in Kentucky and Indiana, and later as a laborer, a shopkeeper, and a surveyor. In 1830, Lincoln moved to Illinois, where he became a lawyer and a politician. He served in the Illinois House of Representatives from 1834 to 1842, and in the U.S. House of Representatives from 1847 to 1849. In 1858, he ran for the U.S. Senate, but he lost to Stephen A. Douglas. Lincoln's election as president in 1860 was the trigger for the secession of eleven southern states and the outbreak of the Civil War. In his inaugural address, Lincoln made it clear that he would not recognize the legitimacy of secession, and he would use force if necessary to maintain the integrity of the Union. He also declared that he had no intent to interfere with slavery where it already existed, but he made it clear that he believed slavery was morally wrong. Throughout the Civil War, Lincoln was the leader of the Union forces.",
+            "qae_pairs": [
+                {
+                    "question": "Who was Abraham Lincoln's father?",
+                    "answer": "Thomas",
+                    "explanation": "Lincoln grew up in a poor family and received little formal education. He worked on his father's farm in Kentucky and Indiana, and later as a laborer, a shopkeeper, and a surveyor. In 1830, Lincoln moved to Illinois, where he became a lawyer and a politician."
+                },
+                {
+                    "question": "What year did Abraham Lincoln run for the U.S. Senate?",
+                    "answer": "1858",
+                    "explanation": "Lincoln's election as president in 1860 was the trigger for the secession of eleven southern states and the outbreak of the Civil War."
+                },
+                {
+                    "question": "What year did Abraham Lincoln serve in the Illinois House of Representatives?",
+                    "answer": "1834",
+                    "explanation": "In 1830, Lincoln moved to Illinois, where he became a lawyer and a politician. He served in the Illinois House of Representatives from 1834 to 1842, and in the U.S. House of Representatives from 1847 to 1849."
+                },
+                {
+                    "question": "A) Who was Abraham Lincoln's mother? B) Who was Abraham Lincoln's father? C) Who was Abraham Lincoln's spouse? D) Who was Abraham Lincoln's sibling?",
+                    "answer": "Nancy Hanks Lincoln",
+                    "explanation": "Lincoln grew up in a poor family and received little formal education."
+                },
+                {
+                    "question": "A. Who was Abraham Lincoln's father? B. Where was Abraham Lincoln born? C. Where did Abraham Lincoln grow up? D. What was Abraham Lincoln's occupation before becoming a lawyer? E. What was Abraham Lincoln's political career before becoming president? F. What",
+                    "answer": "Hodgenville",
+                    "explanation": "Abraham Lincoln was born in Hodgenville, Kentucky, on February 12, 1809."
+                },
+                {
+                    "question": "Lincoln served as president during which year?",
+                    "answer": "1861",
+                    "explanation": "Lincoln served as president from 1861 until his assassination in April 1865."
+                },
+                {
+                    "question": "What year did Abraham Lincoln move to Illinois?",
+                    "answer": "1830",
+                    "explanation": "Lincoln moved to Illinois in 1830, where he became a lawyer and a politician."
+                },
+                {
+                    "question": "A) Who was the 16th President of the United States? B) Who was the leader of the Union forces during the Civil War? C) Who was the person Lincoln ran against in the 1858 Senate election? D) Who was the person who triggered the secess",
+                    "answer": "Stephen A. Douglas",
+                    "explanation": "Abraham Lincoln was the 16th President of the United States, serving from 1861 until his assassination in April 1865."
+                }
+            ],
+            "hops": [
+                "Abraham Lincoln"
+            ]
+        },
+        "Mahatma Gandhi": {
+            "term": "Mahatma Gandhi",
+            "passage": "Mohandas Karamchand Gandhi (2 October 1869 – 30 January 1948) was an Indian activist who was born in Porbandar, a coastal town in present-day Gujarat, India. He is known for his nonviolent philosophy and leadership in the Indian independence movement against British colonial rule. Gandhi is often referred to as Mahatma, which means \"great soul\" or \"venerable\" in Sanskrit. Gandhi's philosophy of nonviolent resistance, which he termed Satyagraha, has inspired similar movements around the world, including the civil rights movement led by Martin Luther King Jr. in the United States. Gandhi's philosophy of nonviolence emphasized the use of nonviolent action to achieve political and social progress. He believed that nonviolence was not a sign of weakness, but rather a powerful means of effecting change. Gandhi's commitment to nonviolence was tested throughout his life, particularly during his campaigns in India. He was imprisoned numerous times for his activism, and in 1948, he was assassinated by a Hindu nationalist who opposed his advocacy for religious tolerance. Despite this, Gandhi's legacy continues to inspire people around the world to fight for justice and equality through nonviolent means.",
+            "qae_pairs": [
+                {
+                    "question": "What is the date of Mahatma Gandhi's assassination?",
+                    "answer": "30 January 1948",
+                    "explanation": "Mahatma Gandhi was assassinated by a Hindu nationalist who opposed his advocacy for religious tolerance."
+                },
+                {
+                    "question": "Which language is the origin of the word 'Mahatma'?",
+                    "answer": "Sanskrit",
+                    "explanation": "Gandhi's philosophy of nonviolence emphasized the use of nonviolent action to achieve political and social progress. He believed that nonviolence was not a sign of weakness, but rather a powerful means of effecting change."
+                },
+                {
+                    "question": "What is the birthdate of Mahatma Gandhi?",
+                    "answer": "2 October 1869",
+                    "explanation": "Mohandas Karamchand Gandhi was born on 2 October 1869 in Porbandar, a coastal town in present-day Gujarat, India."
+                },
+                {
+                    "question": "",
+                    "answer": "Mahatma",
+                    "explanation": "Mahatma Gandhi was an Indian activist who was born in Porbandar, a coastal town in present-day Gujarat, India."
+                },
+                {
+                    "question": "Which coastal town in present-day Gujarat, India, was Mohandas Karamchand Gandhi born in?",
+                    "answer": "Porbandar",
+                    "explanation": "Mohandas Karamchand Gandhi was born in Porbandar, a coastal town in present-day Gujarat, India."
+                },
+                {
+                    "question": "Which Indian state is known for its coastal town of Porbandar, where Mahatma Gandhi was born?",
+                    "answer": "Gujarat",
+                    "explanation": "Gandhi's philosophy of nonviolence emphasized the use of nonviolent action to achieve political and social progress. He believed that nonviolence was not a sign of weakness, but rather a powerful means of effecting change. Evidence sentence: Gandhi's philosophy of nonviolence emphasized the use of nonviolent action to achieve political and social progress."
+                }
+            ],
+            "hops": [
+                "Martin Luther King Jr.",
+                "Mahatma Gandhi"
+            ]
+        },
+        "Martin Luther King Jr.": {
+            "term": "Martin Luther King Jr.",
+            "passage": "Martin Luther King Jr. (January 15, 1929 – April 4, 1968) was an American Baptist minister and activist who became the most visible spokesperson and leader in the civil rights movement from 1954 until his assassination in 1968. Born in Atlanta, King is best known for advancing civil rights through nonviolence and civil disobedience, tactics his Christian beliefs and the nonviolent activism of Mahatma Gandhi helped inspire. King led the 1955 Montgomery bus boycott and helped found the Southern Christian Leadership Conference (SCLC) in 1957, serving as its first president. He also played a key role in the American Civil Rights Movement from the mid-1950s until his death. King's efforts led to the 1964 Civil Rights Act and the 1965 Voting Rights Act, both signed into law by President Lyndon B. Johnson. King's activism began early, when he was a student at Morehouse College in Atlanta. He became a pastor and then a civil rights leader, and he was a prominent figure in the American civil rights movement from the mid-1950s until his death in 1968. King's philosophy of nonviolent resistance was based on the teachings of Jesus and the nonviolent activism of Mahatma Gandhi. He believed that people should use love and peace to overcome hate and violence.",
+            "qae_pairs": [
+                {
+                    "question": "* What was the date of Martin Luther King Jr.'s assassination? * What was the date of the Montgomery bus boycott? * What was the date of the American Civil Rights Act being signed into law? * What was the date of the Voting Rights Act being signed",
+                    "answer": "April 4, 1968",
+                    "explanation": "Martin Luther King Jr. (January 15, 1929 – April 4, 1968) was an American Baptist minister and activist who became the most visible spokesperson and leader in the civil rights movement from 1954 until his assassination in 1968."
+                },
+                {
+                    "question": "What year did Martin Luther King Jr. lead the Montgomery bus boycott?",
+                    "answer": "1955",
+                    "explanation": "King led the 1955 Montgomery bus boycott and helped found the Southern Christian Leadership Conference (SCLC) in 1957, serving as its first president."
+                },
+                {
+                    "question": "What is the birthdate of Martin Luther King Jr.?",
+                    "answer": "January 15, 1929",
+                    "explanation": "King is best known for advancing civil rights through nonviolence and civil disobedience, tactics his Christian beliefs and the nonviolent activism of Mahatma Gandhi helped inspire."
+                },
+                {
+                    "question": "'Who is an Indian independence activist and leader who is known for his philosophy of nonviolent resistance and civil disobedience?'  Who is an American Baptist minister and civil rights activist who is known for his philosophy of nonviolent resistance and civil disobedience?",
+                    "answer": "Mahatma Gandhi",
+                    "explanation": "King's philosophy of nonviolent resistance was based on the teachings of Jesus and the nonviolent activism of Mahatma Gandhi. He believed that people should use love and peace to overcome hate and violence."
+                },
+                {
+                    "question": "Which president signed the Civil Rights Act and the Voting Rights Act?",
+                    "answer": "Lyndon B. Johnson",
+                    "explanation": "King's efforts led to the 1964 Civil Rights Act and the 1965 Voting Rights Act, both signed into law by President Lyndon B. Johnson."
+                },
+                {
+                    "question": "'In which city was Martin Luther King Jr. born?",
+                    "answer": "Atlanta",
+                    "explanation": "Martin Luther King Jr. was born in Atlanta."
+                },
+                {
+                    "question": "* What year did Martin Luther King Jr. help found the Southern Christian Leadership Conference (SCLC)? * What year did the American Civil Rights Act and the Voting Rights Act become law? * What year did Martin Luther King Jr. become a pastor? * What year did Martin",
+                    "answer": "1957",
+                    "explanation": "Martin Luther King Jr. helped found the Southern Christian Leadership Conference (SCLC) in 1957, serving as its first president."
+                }
+            ],
+            "hops": [
+                "Martin Luther King Jr."
+            ]
+        },
+        "Nelson Mandela": {
+            "term": "Nelson Mandela",
+            "passage": "Nelson Mandela was a South African anti-apartheid revolutionary, politician, and philanthropist who served as the President of South Africa from 1994 to 1999. He was the country's first black head of state and the first elected in a fully representative democratic election. His government focused on dismantling the legacy of apartheid, promoting racial reconciliation, and building a more equitable society. Mandela was born on July 18, 1918, in Mvezo, a small village in the Eastern Cape province of South Africa. He was the son of Gadla Henry Mphakanyiswa, a local chief, and Nosekeni Fanny Mandela, who was a social worker and the third of his father's four wives. Mandela was given the name Rolihlahla, which means \"troublemaker\" in the Xhosa language. Mandela became involved in politics while studying law at the University of Witwatersrand in Johannesburg. He joined the African National Congress (ANC) in 1944 and quickly rose through the ranks, becoming a leader of the armed wing of the organization, Umkhonto we Sizwe, in 1961. He was arrested in 1962 and sentenced to life imprisonment for sabotage and conspiracy to overthrow the government. While in prison, Mandela became a symbol of the anti-apartheid movement both in South Africa and around the world. He was released from prison in 1990 after 27 years of imprisonment, and he subsequently played a key role in negotiating an end to apartheid and establishing a democratic government in South Africa.",
+            "qae_pairs": [
+                {
+                    "question": "\"What year did Nelson Mandela join the African National Congress (ANC)?\"",
+                    "answer": "1944",
+                    "explanation": "Nelson Mandela joined the African National Congress (ANC) in 1944 while studying law at the University of Witwatersrand in Johannesburg."
+                },
+                {
+                    "question": "\"Which political party was Nelson Mandela involved in while studying law at the University of Witwatersrand in Johannesburg?\"",
+                    "answer": "the African National Congress",
+                    "explanation": "Mandela became a leader of the armed wing of the organization, Umkhonto we Sizwe, in 1961."
+                },
+                {
+                    "question": "What is the length of time Nelson Mandela spent in prison before being released in 1990?",
+                    "answer": "27 years",
+                    "explanation": "Mandela was given the name Rolihlahla, which means troublemaker in the Xhosa language."
+                },
+                {
+                    "question": "What is the name of the university where Nelson Mandela studied law?",
+                    "answer": "the University of Witwatersrand",
+                    "explanation": "Mandela became involved in politics while studying law at the University of Witwatersrand in Johannesburg."
+                },
+                {
+                    "question": "Which country is Nelson Mandela the first black head of state?",
+                    "answer": "South Africa",
+                    "explanation": "Mandela was born on July 18, 1918, in Mvezo, a small village in the Eastern Cape province of South Africa."
+                },
+                {
+                    "question": "What is the name of the province in South Africa where Nelson Mandela was born?",
+                    "answer": "the Eastern Cape",
+                    "explanation": "Mandela was born on July 18, 1918, in Mvezo, a small village in the Eastern Cape province of South Africa."
+                }
+            ],
+            "hops": [
+                "Nelson Mandela"
+            ]
+        },
+        "Albert Einstein": {
+            "term": "Albert Einstein",
+            "passage": "Albert Einstein was a German-born theoretical physicist who developed the theory of general relativity, one of the two pillars of modern physics (alongside quantum mechanics). He is best known for his equation E=mc², which has been called the world's most famous equation. He was also a humanitarian who advocated for pacifism and civil rights, and he played a significant role in the development of the atomic bomb, which he later regretted. Einstein was awarded the Nobel Prize in Physics in 1921 for his explanation of the photoelectric effect and his services to Theoretical Physics. He is widely considered one of the most influential scientists of the 20th century and is considered the father of modern physics. Einstein was born in Ulm, in the Kingdom of Württemberg in the German Empire, on March 14, 1879. He spent his childhood in Munich where he developed a passion for science and mathematics. He later moved to Switzerland and then to Berlin, where he began to develop his theory of relativity. Einstein's work had a profound impact on the development of modern physics, and he is considered one of the most important scientists in history. He died on April 18, 1955, at the age of 76, in Princeton, New Jersey.",
+            "qae_pairs": [
+                {
+                    "question": "Which country was Albert Einstein born in?",
+                    "answer": "the German Empire",
+                    "explanation": "He was also a humanitarian who advocated for pacifism and civil rights, and he played a significant role in the development of the atomic bomb, which he later regretted."
+                },
+                {
+                    "question": "What is the name of the city where Albert Einstein died?",
+                    "answer": "Princeton",
+                    "explanation": "Einstein was awarded the Nobel Prize in Physics in 1921 for his explanation of the photoelectric effect and his services to Theoretical Physics."
+                },
+                {
+                    "question": "Which city did Albert Einstein move to in order to develop his theory of relativity?",
+                    "answer": "Berlin",
+                    "explanation": "He later moved to Switzerland and then to Berlin, where he began to develop his theory of relativity."
+                },
+                {
+                    "question": "1. What is the capital of Germany? 2. What is the name of the Swiss city where Albert Einstein developed his theory of relativity? 3. What is the currency of Japan? 4. What is the name of the largest country in the world by area?",
+                    "answer": "Switzerland",
+                    "explanation": "He later moved to Switzerland and then to Berlin, where he began to develop his theory of relativity. This sentence explains that Einstein moved to Switzerland and then to Berlin, where he began to develop his theory of relativity."
+                },
+                {
+                    "question": "Which century did Albert Einstein live in?",
+                    "answer": "the 20th century",
+                    "explanation": "Einstein was awarded the Nobel Prize in Physics in 1921 for his explanation of the photoelectric effect and his services to Theoretical Physics. This sentence explains that Einstein was awarded the Nobel Prize in Physics in 1921, which is evidence that he lived in the 20th century."
+                },
+                {
+                    "question": "In which year was Albert Einstein awarded the Nobel Prize in Physics?",
+                    "answer": "1921",
+                    "explanation": "Einstein was awarded the Nobel Prize in Physics in 1921 for his explanation of the photoelectric effect and his services to Theoretical Physics."
+                }
+            ],
+            "hops": [
+                "Albert Einstein"
+            ]
+        },
+        "Marie Curie": {
+            "term": "Marie Curie",
+            "passage": "Marie Curie (1867-1934) was a Polish physicist and chemist who conducted pioneering research on radioactivity and discovered the elements polonium and radium. She was the first woman to win a Nobel Prize, the first person and only woman to win two Nobel Prizes in different fields, and the only person to win Nobel Prizes in two different sciences. Curie was born in Warsaw, Poland, and later moved to Paris, France, where she studied physics and mathematics at the Sorbonne. She met her husband Pierre Curie, who was also a physicist, and the two worked together on research in radioactivity. They discovered polonium and radium, which were previously unknown elements, and their work laid the foundation for the field of nuclear physics. Curie's work on radioactivity was groundbreaking and revolutionary, and she became a world-renowned scientist. She was the first woman to become a professor at the University of Paris, and she founded the Curie Institutes in Paris and Warsaw, which continue to be leading research centers in the field of radioactivity. Curie's contributions to science were not limited to her work on radioactivity. She also made significant contributions to the development of X-ray technology, and she was instrumental in the use of X-rays during World War I to diagnose and treat wounded soldiers. Curie's legacy continues to inspire scientists and researchers around the world. Her work on radioactivity paved the way for the development of nuclear energy and nuclear weapons, and her pioneering research on the properties of radioactive elements continues to be studied and built upon today.",
+            "qae_pairs": [
+                {
+                    "question": "What year was Marie Curie born and what year did she die?",
+                    "answer": "1867-1934",
+                    "explanation": "Curie's work on radioactivity was groundbreaking and revolutionary, and she became a world-renowned scientist."
+                },
+                {
+                    "question": "Which city did Marie Curie move to after studying physics and mathematics at the Sorbonne in Paris?",
+                    "answer": "Warsaw",
+                    "explanation": "Curie was born in Warsaw, Poland, and later moved to Paris, France, where she studied physics and mathematics at the Sorbonne. Explanation: The evidence sentence Curie was born in Warsaw, Poland, and later moved to Paris, France, where she studied physics and mathematics at the Sorbonne explains that Marie Curie was born in Warsaw, Poland, and later moved to Paris, France, where she studied physics and mathematics at the Sorbonne."
+                }
+            ],
+            "hops": [
+                "Marie Curie"
+            ]
+        },
+        "Leonardo da Vinci": {
+            "term": "Leonardo da Vinci",
+            "passage": "Leonardo da Vinci (1452-1519) was an Italian polymath, who is widely considered one of the greatest painters of all time and a leading light of the Italian Renaissance. Born in the Tuscan town of Vinci, he was the illegitimate son of a wealthy notary and a peasant woman. Despite his humble origins, he was educated in the best schools of Florence and became an apprentice to the artist Andrea del Verrocchio. Da Vinci's artistic talents were evident from an early age, and he quickly became known for his ability to create lifelike drawings and paintings. He was particularly skilled at creating the illusion of depth and perspective, and his works were characterized by a sense of realism and naturalism that was unmatched by his contemporaries. In addition to his work as an artist, da Vinci was also a prolific inventor and engineer. He designed a wide range of machines, including flying machines, submarines, and even a robot, many of which were centuries ahead of their time. He was also a skilled architect and urban planner, and his designs for cities and buildings were highly influential. Da Vinci was also a keen scientist and made important contributions to fields such as anatomy, botany, and physics. He is perhaps best known for his studies of the human body, which led to the creation of some of the most detailed and accurate anatomical drawings ever produced. Despite his many achievements, da Vinci was a deeply private and enigmatic figure. He left behind a vast body of work, including thousands of pages of notes and drawings, but very little is known about his personal life.",
+            "qae_pairs": [
+                {
+                    "question": "What was Leonardo da Vinci's first art teacher?",
+                    "answer": "Andrea del Verrocchio",
+                    "explanation": "Despite his humble origins, he was educated in the best schools of Florence and became an apprentice to the artist Andrea del Verrocchio."
+                },
+                {
+                    "question": "1. When did Leonardo da Vinci become known for his ability to create lifelike drawings and paintings? 2. What was Leonardo da Vinci's profession? 3. What was Leonardo da Vinci's nationality? 4. What was the name of",
+                    "answer": "an early age",
+                    "explanation": "1. He was particularly skilled at creating the illusion of depth and perspective, and his works were characterized by a sense of realism and naturalism that was unmatched by his contemporaries."
+                },
+                {
+                    "question": "What year was Leonardo da Vinci born and when did he die?",
+                    "answer": "1452-1519",
+                    "explanation": "Despite his humble origins, he was educated in the best schools of Florence and became an apprentice to the artist Andrea del Verrocchio."
+                }
+            ],
+            "hops": [
+                "Leonardo da Vinci"
+            ]
+        }
+    },
+    "second_hops": {
+        "Rome": {
+            "term": "Rome",
+            "passage": "1. Rome is the capital city of Italy and the largest city in the country. 2. Rome is located in the central-western portion of the Italian peninsula, on the Tiber River. 3. The city is famous for its ancient history, art, culture, and cuisine. 4. Rome was once the center of the Roman Empire, which was one of the most powerful empires in world history. 5. Today, Rome is a major tourist destination and a hub for international business and finance. 6. The city is home to many famous landmarks, including the Colosseum, the Pantheon, and the Vatican City. 7. Rome is also known for its delicious cuisine, which includes pasta, pizza, and gelato. 8. The city has a rich cultural heritage, with many museums, galleries, and theaters showcasing the works of famous Italian artists. 9. Rome is a vibrant and cosmopolitan city, with a diverse population and a lively nightlife scene. 10. The city is also known for its fashion and design industries, with many famous Italian fashion houses and designers based in Rome.",
+            "qae_pairs": [
+                {
+                    "question": "What was the name of the powerful empire that was once centered in Rome?",
+                    "answer": "the Roman Empire",
+                    "explanation": "Rome was once the center of the Roman Empire, which was one of the most powerful empires in world history. This sentence explains that Rome was the center of the Roman Empire, which was one of the most powerful empires in world history."
+                },
+                {
+                    "question": "What is the name of the smallest independent state in the world that is located entirely within the city of Rome?",
+                    "answer": "Vatican City",
+                    "explanation": "Rome was once the center of the Roman Empire, which was one of the most powerful empires in world history. Evidence sentence: Rome was once the center of the Roman Empire, which was one of the most powerful empires in world history."
+                },
+                {
+                    "question": "What is the name of the famous ancient Roman temple located in Rome?",
+                    "answer": "Pantheon",
+                    "explanation": "The city is home to many famous landmarks, including the Colosseum, the Pantheon, and the Vatican City. This sentence is an evidence sentence because it provides specific information about the famous landmarks in Rome, which supports the overall idea that Rome is a major tourist destination and a hub for international business and finance."
+                },
+                {
+                    "question": "What country is Rome the capital of?",
+                    "answer": "Italy",
+                    "explanation": "Rome is the capital city of Italy and the largest city in the country."
+                }
+            ],
+            "hops": [
+                "Cleopatra",
+                "Rome"
+            ]
+        },
+        "BC": {
+            "term": "BC",
+            "passage": "The Bronze Age is a time period characterized by the use of bronze, an alloy of copper and tin, for the creation of tools, weapons, and other objects. It is generally considered to have begun in the 3rd millennium BCE and ended with the beginning of the Iron Age. The Bronze Age is divided into three main periods: Early Bronze Age, Middle Bronze Age, and Late Bronze Age. The Early Bronze Age began around 3500 BCE and lasted until around 2000 BCE. The Middle Bronze Age began around 2000 BCE and lasted until around 1600 BCE. The Late Bronze Age began around 1600 BCE and lasted until around 1200 BCE. During the Bronze Age, people in different parts of the world developed their own unique cultures and technologies. In Europe, the Bronze Age was characterized by the development of the wheel, the use of writing, and the construction of monumental structures such as Stonehenge. In the Middle East, the Bronze Age was marked by the rise of civilizations such as Sumer, Babylon, and Assyria. In China, the Bronze Age was characterized by the development of the Shang Dynasty and the use of bronze in the creation of ritual objects. The Bronze Age was a time of great change and innovation, and it laid the foundation for the development of later civilizations.",
+            "qae_pairs": [
+                {
+                    "question": "What was the name of the ancient city-state in Mesopotamia that was known for its hanging gardens and was conquered by the Babylonian king Nebuchadnezzar II in the 6th century BCE?",
+                    "answer": "Babylon",
+                    "explanation": "During the Bronze Age, people in different parts of the world developed their own unique cultures and technologies. This evidence sentence explains that the Bronze Age was a time of great change and innovation, and it laid the foundation for the development of later civilizations."
+                }
+            ],
+            "hops": [
+                "Julius Caesar",
+                "BC"
+            ]
+        },
+        "the Roman Republic": {
+            "term": "the Roman Republic",
+            "passage": "The Roman Republic was the period of ancient Roman history from the overthrow of the Roman monarchy in 509 BC until the establishment of the Roman Empire in 27 BC, when Octavian, the adopted son of Julius Caesar, proclaimed himself Roman Emperor. The Roman Republic was characterized by a complex system of government that included two consuls, a Senate, and various assemblies. The Roman Republic was also known for its military prowess, which allowed it to expand its territory and become one of the dominant powers in the Mediterranean world. The Republic was also marked by political and social unrest, including civil wars and conflicts between the patricians (wealthy aristocrats) and the plebeians (common people). Despite these challenges, the Roman Republic was able to maintain its stability and continue to function as a democratic government for over four centuries.",
+            "qae_pairs": [
+                {
+                    "question": "What was the name of the government that replaced the Roman Republic in 27 BC?",
+                    "answer": "the Roman Empire",
+                    "explanation": "The Roman Republic was characterized by a complex system of government that included two consuls, a Senate, and various assemblies."
+                }
+            ],
+            "hops": [
+                "Julius Caesar",
+                "the Roman Republic"
+            ]
+        },
+        "Gaul": {
+            "term": "Gaul",
+            "passage": "Gaul was a region of Western Europe during the Iron Age that was inhabited by Celtic tribes. It covered an area that includes present-day France, Luxembourg, Belgium, most of Switzerland, parts of Northern Italy, and the parts of the Netherlands and Germany on the west bank of the Rhine. Gaul was conquered by Julius Caesar and became a part of the Roman Empire in 51 BC. The region was known for its mineral resources, including iron, lead, and silver, and for its production of wine and wheat. The Gauls were known for their military prowess and their use of chariots in battle. They also had a complex social structure that included a nobility class and a class of artisans and traders. The Gauls were eventually assimilated into the Roman culture and language, and their legacy can still be seen in the place names and cultural traditions of modern-day France.",
+            "qae_pairs": [
+                {
+                    "question": "What was the year when Gaul became a part of the Roman Empire?",
+                    "answer": "BC",
+                    "explanation": "Gaul was conquered by Julius Caesar and became a part of the Roman Empire in 51 BC."
+                }
+            ],
+            "hops": [
+                "Julius Caesar",
+                "Gaul"
+            ]
+        },
+        "Julius Caesar": {
+            "term": "Julius Caesar",
+            "passage": "Julius Caesar was a Roman general, statesman, Consul, and writer. He played a critical role in the events that led to the demise of the Roman Republic and the rise of the Roman Empire. He is widely considered one of the greatest military commanders in history, and his legacy has had a profound impact on Western civilization. Caesar was born into a patrician family in Rome in 100 BC. He began his military career at a young age, serving as a military tribune in 68 BC. He quickly gained a reputation as a skilled and successful commander, and was appointed to lead the Roman army in Gaul in 58 BC. Over the next several years, Caesar conquered much of Gaul, and his victories made him one of the most famous and respected figures in Rome. In 49 BC, Caesar returned to Rome and launched a political career that would see him rise to the highest offices in the Roman Republic. He was elected Consul in 59 BC, and went on to hold a number of other important political positions, including governor of provinces such as Spain and Gaul. Caesar's political career was marked by a series of power struggles and conflicts with his political rivals. In 44 BC, he was assassinated by a group of senators who feared his growing power and popularity. His death marked the end of the Roman Republic and the beginning of the Roman Empire, under the rule of his grandnephew and adopted son, Gaius Julius Caesar Octavianus, who would later become known as Augustus. Caesar is remembered as one of the greatest military commanders in history, and his legacy has had a profound impact on Western civilization.",
+            "qae_pairs": [
+                {
+                    "question": "What is the capital city of Italy? 'Italy' is the answer to which question: Which country is located in Southern Europe and is known for its art, fashion, and cuisine?",
+                    "answer": "Rome",
+                    "explanation": "Passage: Julius Caesar was a Roman general, statesman, Consul, and writer. He played a critical role in the events that led to the demise of the Roman Republic and the rise of the Roman Empire. He is widely considered one of the greatest military commanders in history, and his legacy has had a profound impact on Western civilization. Caesar was born into a patrician family in Rome in 100 BC. He began his military career at a young age, serving as a military tribune in 68 BC."
+                },
+                {
+                    "question": "What is the abbreviation for 'Before Christ'?",
+                    "answer": "BC",
+                    "explanation": "Caesar was born into a patrician family in Rome in 100 BC."
+                },
+                {
+                    "question": "What is the name of the country that Julius Caesar conquered during his political career?",
+                    "answer": "Spain",
+                    "explanation": "Caesar was born into a patrician family in Rome in 100 BC."
+                },
+                {
+                    "question": "What was the political system of ancient Rome?",
+                    "answer": "the Roman Republic",
+                    "explanation": "Caesar's political career was marked by a series of power struggles and conflicts with his political rivals."
+                },
+                {
+                    "question": "What is the name of the region that Julius Caesar conquered during his military career?",
+                    "answer": "Gaul",
+                    "explanation": "Caesar was born into a patrician family in Rome in 100 BC. He began his military career at a young age, serving as a military tribune in 68 BC. He quickly gained a reputation as a skilled and successful commander, and was appointed to lead the Roman army in Gaul in 58 BC. Over the next several years, Caesar conquered much of Gaul, and his victories made him one of the most famous and respected figures in Rome."
+                }
+            ],
+            "hops": [
+                "Cleopatra",
+                "Julius Caesar"
+            ]
+        },
+        "Consulate": {
+            "term": "Consulate",
+            "passage": "The Consulate was a period in the history of France following the fall of the Directory in the coup of Brumaire in 1799 and the establishment of the French Consulate, which lasted until the fall of Napoleon in 1815. During this period, Napoleon Bonaparte was the first consul of France and held supreme power. The Consulate was characterized by the establishment of a more stable and centralized government, the expansion of the French Empire, and the implementation of the Napoleonic Code, which was a comprehensive set of laws that applied to all French citizens. The Consulate also saw the rise of Napoleon as a dominant figure in European politics and the beginning of the Napoleonic Wars.",
+            "qae_pairs": [
+                {
+                    "question": "What year did the French Consulate begin, according to the passage?",
+                    "answer": "1799",
+                    "explanation": "The Consulate was a period in the history of France following the fall of the Directory in the coup of Brumaire in 1799 and the establishment of the French Consulate, which lasted until the fall of Napoleon in 1815."
+                }
+            ],
+            "hops": [
+                "Napoleon Bonaparte",
+                "Consulate"
+            ]
+        },
+        "Thomas": {
+            "term": "Thomas",
+            "passage": "Thomas was a prominent figure in the early Christian church, and is best known for his role in the New Testament as one of Jesus' twelve apostles. He is often referred to as \"Doubting Thomas\" because of his skepticism when he heard that Jesus had risen from the dead. According to the Gospel of John, Thomas refused to believe the other apostles when they told him that Jesus had appeared to them after his resurrection. However, when Jesus appeared to Thomas and invited him to touch his wounds, Thomas exclaimed, \"My Lord and my God!\" and became a believer. Thomas is also known for his missionary work, and is said to have traveled to India, where he preached the gospel and founded the Church of the East. He is revered as a saint by many Christian denominations, and his feast day is celebrated on July 3rd.",
+            "qae_pairs": [
+                {
+                    "question": "What is the feast day of Thomas, the prominent figure in the early Christian church, known for his role in the New Testament as one of Jesus' twelve apostles?",
+                    "answer": "July 3rd",
+                    "explanation": "Passage: Thomas is also known for his missionary work, and is said to have traveled to India, where he preached the gospel and founded the Church of the East. Evidence sentence: Thomas is known for his missionary work and is said to have traveled to India to preach the gospel and found the Church of the East."
+                },
+                {
+                    "question": "What is the name of the Gospel in which Thomas is famously known for his skepticism when he heard that Jesus had risen from the dead?",
+                    "answer": "the Gospel of John",
+                    "explanation": "According to the Gospel of John, Thomas refused to believe the other apostles when they told him that Jesus had appeared to them after his resurrection."
+                }
+            ],
+            "hops": [
+                "Abraham Lincoln",
+                "Thomas"
+            ]
+        },
+        "Hodgenville": {
+            "term": "Hodgenville",
+            "passage": "Hodgenville is a home rule-class city in LaRue County, Kentucky, United States. The population was 2,796 at the 2010 census. It is the county seat of LaRue County. Hodgenville is located in the central part of the county, along U.S. Route 31W, which is a major north-south highway in Kentucky. The city is named for Abraham Lincoln's birthplace, which is located just outside the city limits. The Hodgenville area was settled in the early 19th century, and the city was officially incorporated in 1870. Today, Hodgenville is a small, rural community with a strong agricultural economy. The city is also home to several historic sites and museums, including the Abraham Lincoln Birthplace National Historical Park and the Hodgenville-LaRue County Museum.",
+            "qae_pairs": [
+                {
+                    "question": "What year was Hodgenville officially incorporated?",
+                    "answer": "1870",
+                    "explanation": "The city is named for Abraham Lincoln's birthplace, which is located just outside the city limits."
+                },
+                {
+                    "question": "What is the state of Hodgenville, which is located in the central part of LaRue County, Kentucky, United States?",
+                    "answer": "Kentucky",
+                    "explanation": "Hodgenville is a home rule-class city in LaRue County, Kentucky, United States. The population was 2,796 at the 2010 census. It is the county seat of LaRue County. This sentence explains that Hodgenville is a city located in LaRue County, Kentucky, United States, and it is the county seat of LaRue County."
+                }
+            ],
+            "hops": [
+                "Abraham Lincoln",
+                "Hodgenville"
+            ]
+        },
+        "Stephen A. Douglas": {
+            "term": "Stephen A. Douglas",
+            "passage": "Stephen Arnold Douglas (1813-1861) was an American politician from Illinois. He was a U.S. Representative, a U.S. Senator, and the Democratic Party nominee for President in the 1860 election. Douglas is best known for his efforts to pass the Kansas-Nebraska Act of 1854, which established the territories of Kansas and Nebraska and allowed settlers in those territories to decide whether or not to allow slavery within their borders. This act led to a fierce debate in Congress and throughout the country, and Douglas became a controversial figure as a result. He was also known for his \"Freeport Doctrine,\" which stated that slavery could not exist in a territory unless it was allowed by the territorial legislature or the U.S. Congress. Douglas was a skilled orator and debater, and his political career spanned more than two decades. He died in 1861, shortly after the outbreak of the Civil War.",
+            "qae_pairs": [
+                {
+                    "question": "What was the year that Stephen A. Douglas was nominated for President?",
+                    "answer": "1860",
+                    "explanation": "Douglas is best known for his efforts to pass the Kansas-Nebraska Act of 1854, which established the territories of Kansas and Nebraska and allowed settlers in those territories to decide whether or not to allow slavery within their borders. Rationale: The evidence sentence explains the main reason why Douglas is best known. He was a key figure in passing the Kansas-Nebraska Act, which was a significant event in the history of the United States and had a major impact on the issue of slavery."
+                }
+            ],
+            "hops": [
+                "Abraham Lincoln",
+                "Stephen A. Douglas"
+            ]
+        },
+        "Mahatma": {
+            "term": "Mahatma",
+            "passage": "Mohandas Karamchand Gandhi, commonly known as Mahatma Gandhi, was an Indian independence activist who is known for his nonviolent civil disobedience and political philosophy. Born on October 2, 1869, in Porbandar, Gujarat, India, Gandhi is considered one of the most influential figures in modern Indian history. He is best known for his leadership in the Indian independence movement from British colonial rule and for his philosophy of nonviolent resistance, which he termed as Satyagraha. Gandhi's philosophy of nonviolent resistance influenced many civil rights movements around the world, including the African American civil rights movement led by Martin Luther King Jr. Gandhi's birthday, October 2, is commemorated in India as Gandhi Jayanti, a national holiday, and the United Nations declared October 2 to be the International Day of Non-Violence in his honor. Gandhi was assassinated on January 30, 1948, in New Delhi by Nathuram Godse, a Hindu nationalist who thought Gandhi was too accommodating to Muslims.",
+            "qae_pairs": [
+                {
+                    "question": "In which city was Mahatma Gandhi assassinated?",
+                    "answer": "New Delhi",
+                    "explanation": "Gandhi was assassinated on January 30, 1948, in New Delhi by Nathuram Godse, a Hindu nationalist who thought Gandhi was too accommodating to Muslims."
+                },
+                {
+                    "question": "1. What country did Mahatma Gandhi lead to independence?(Avoid the following entities in the question: Mahatma Gandhi) 2. In which country was Mahatma Gandhi born?",
+                    "answer": "India",
+                    "explanation": "Gandhi is considered one of the most influential figures in modern Indian history."
+                }
+            ],
+            "hops": [
+                "Mahatma Gandhi",
+                "Mahatma"
+            ]
+        },
+        "Porbandar": {
+            "term": "Porbandar",
+            "passage": "Porbandar is a coastal city and a municipal corporation in the Indian state of Gujarat. It is the administrative headquarters of Porbandar district. The city is known for its rich cultural heritage and is a popular tourist destination. Porbandar is situated on the western coast of India and is known for its beautiful beaches, historic sites, and vibrant culture. The city has a rich history and was once an important port city during the British Raj. Porbandar is also known for its association with Mahatma Gandhi, who was born in the city in 1869. The city has several historic sites and monuments, including the Kirti Mandir, the Gandhi Smriti, and the Sudama Temple. Porbandar is also known for its delicious seafood and traditional Gujarati cuisine. The city is well connected by road, rail, and air, making it easily accessible to tourists. Porbandar is a must-visit destination for anyone interested in history, culture, and beautiful beaches.",
+            "qae_pairs": [
+                {
+                    "question": "What is the primary language spoken in Porbandar?",
+                    "answer": "Gujarati",
+                    "explanation": "Porbandar is a coastal city and a municipal corporation in the Indian state of Gujarat. It is the administrative headquarters of Porbandar district. The city is known for its rich cultural heritage and is a popular tourist destination. The primary language spoken in Porbandar is Gujarati. This information is given in the passage, and it is not an evidence sentence."
+                },
+                {
+                    "question": "What is the capital city of Porbandar district in India?",
+                    "answer": "India",
+                    "explanation": "Porbandar is a coastal city and a municipal corporation in the Indian state of Gujarat. It is the administrative headquarters of Porbandar district."
+                }
+            ],
+            "hops": [
+                "Mahatma Gandhi",
+                "Porbandar"
+            ]
+        },
+        "Gujarat": {
+            "term": "Gujarat",
+            "passage": "Gujarat is a state in western India that has a population of 60 million people. It is the seventh-largest Indian state by area and the sixth-most populous. The state is known for its diverse culture and rich history. Gujarat has a coastline of 1,600 km (990 mi) and is bordered by Rajasthan to the north, Maharashtra to the south, Madhya Pradesh to the east, and the Arabian Sea as well as the Pakistani province of Sindh on its west. The state is home to the Gujarati people, who speak their own language and have a rich cultural heritage. Gujarat is one of the wealthiest states of India and has a high level of economic development. The state is known for its industrial development, particularly in the areas of textiles, petrochemicals, and engineering. Gujarat is also known for its tourist attractions, including the ancient city of Patan and the Sabarmati Ashram, which was the residence of Mahatma Gandhi. The state is also home to the Gir Forest National Park, which is the only home of the Asiatic lion.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the Pakistani province that borders Gujarat to the west?",
+                    "answer": "Sindh",
+                    "explanation": "Gujarat is one of the wealthiest states of India and has a high level of economic development. The state is known for its industrial development, particularly in the areas of textiles, petrochemicals, and engineering. Explanation sentence:  Gujarat is one of the wealthiest states of India and has a high level of economic development."
+                }
+            ],
+            "hops": [
+                "Mahatma Gandhi",
+                "Gujarat"
+            ]
+        },
+        "Mahatma Gandhi": {
+            "term": "Mahatma Gandhi",
+            "passage": "Mohandas Karamchand Gandhi (2 October 1869 – 30 January 1948) was an Indian activist who was born in Porbandar, a coastal town in present-day Gujarat, India. He is known for his nonviolent philosophy and leadership in the Indian independence movement against British colonial rule. Gandhi is often referred to as Mahatma, which means \"great soul\" or \"venerable\" in Sanskrit. Gandhi's philosophy of nonviolent resistance, which he termed Satyagraha, has inspired similar movements around the world, including the civil rights movement led by Martin Luther King Jr. in the United States. Gandhi's philosophy of nonviolence emphasized the use of nonviolent action to achieve political and social progress. He believed that nonviolence was not a sign of weakness, but rather a powerful means of effecting change. Gandhi's commitment to nonviolence was tested throughout his life, particularly during his campaigns in India. He was imprisoned numerous times for his activism, and in 1948, he was assassinated by a Hindu nationalist who opposed his advocacy for religious tolerance. Despite this, Gandhi's legacy continues to inspire people around the world to fight for justice and equality through nonviolent means.",
+            "qae_pairs": [
+                {
+                    "question": "What is the date of Mahatma Gandhi's assassination?",
+                    "answer": "30 January 1948",
+                    "explanation": "Mahatma Gandhi was assassinated by a Hindu nationalist who opposed his advocacy for religious tolerance."
+                },
+                {
+                    "question": "Which language is the origin of the word 'Mahatma'?",
+                    "answer": "Sanskrit",
+                    "explanation": "Gandhi's philosophy of nonviolence emphasized the use of nonviolent action to achieve political and social progress. He believed that nonviolence was not a sign of weakness, but rather a powerful means of effecting change."
+                },
+                {
+                    "question": "What is the birthdate of Mahatma Gandhi?",
+                    "answer": "2 October 1869",
+                    "explanation": "Mohandas Karamchand Gandhi was born on 2 October 1869 in Porbandar, a coastal town in present-day Gujarat, India."
+                },
+                {
+                    "question": "",
+                    "answer": "Mahatma",
+                    "explanation": "Mahatma Gandhi was an Indian activist who was born in Porbandar, a coastal town in present-day Gujarat, India."
+                },
+                {
+                    "question": "Which coastal town in present-day Gujarat, India, was Mohandas Karamchand Gandhi born in?",
+                    "answer": "Porbandar",
+                    "explanation": "Mohandas Karamchand Gandhi was born in Porbandar, a coastal town in present-day Gujarat, India."
+                },
+                {
+                    "question": "Which Indian state is known for its coastal town of Porbandar, where Mahatma Gandhi was born?",
+                    "answer": "Gujarat",
+                    "explanation": "Gandhi's philosophy of nonviolence emphasized the use of nonviolent action to achieve political and social progress. He believed that nonviolence was not a sign of weakness, but rather a powerful means of effecting change. Evidence sentence: Gandhi's philosophy of nonviolence emphasized the use of nonviolent action to achieve political and social progress."
+                }
+            ],
+            "hops": [
+                "Martin Luther King Jr.",
+                "Mahatma Gandhi"
+            ]
+        },
+        "Atlanta": {
+            "term": "Atlanta",
+            "passage": "Atlanta is the capital and most populous city in the state of Georgia in the United States. With an estimated 2019 population of 498,044, Atlanta is the cultural and economic center of the Atlanta metropolitan area, home to 5.9 million people and the ninth-largest metropolitan area in the United States. Atlanta is the primary transportation hub of the Southeastern United States, via highway, railroad, and air, with Hartsfield–Jackson Atlanta International Airport being the world's busiest airport since 1998. Atlanta is also an important city in American history, particularly in the Civil Rights Movement. The city played a pivotal role in the movement, with Dr. Martin Luther King Jr. and other civil rights leaders based in Atlanta. The city was also the site of the 1996 Summer Olympics. Today, Atlanta is a major business and financial center, with major corporations such as Coca-Cola, Delta Air Lines, Home Depot, UPS, and AT&T headquartered in the city or its suburbs. The city is also a major transportation hub, with numerous highways, railroads, and airports. Atlanta is home to several major sports teams, including the Atlanta Braves (MLB), Atlanta Falcons (NFL), and Atlanta Hawks (NBA). The city is known for its vibrant arts and culture scene, with numerous museums, galleries, and cultural institutions. Atlanta is also home to a thriving music scene, with numerous venues and festivals throughout the year. The city is also known for its food scene, with a diverse array of restaurants and cuisines.",
+            "qae_pairs": [
+                {
+                    "question": "What company is headquartered in Atlanta and is a major player in the telecommunications industry?",
+                    "answer": "AT&T",
+                    "explanation": "Today, Atlanta is a major business and financial center, with major corporations such as Coca-Cola, Delta Air Lines, Home Depot, UPS, and AT&T headquartered in the city or its suburbs."
+                },
+                {
+                    "question": "What is the name of the major corporation headquartered in Atlanta that is known for its iconic red and white logo and its signature beverage?",
+                    "answer": "Coca-Cola",
+                    "explanation": "Atlanta is the primary transportation hub of the Southeastern United States, via highway, railroad, and air, with Hartsfield–Jackson Atlanta International Airport being the world's busiest airport since 1998. Explanation: This sentence provides evidence that Atlanta is an important transportation hub, with access to various modes of transportation, including highways, railroads, and air travel, and that Hartsfield-Jackson Atlanta International Airport is a major airport that is the busiest in the world."
+                }
+            ],
+            "hops": [
+                "Martin Luther King Jr.",
+                "Atlanta"
+            ]
+        },
+        "the African National Congress": {
+            "term": "the African National Congress",
+            "passage": "The African National Congress (ANC) is a political party in South Africa that has been the ruling party of South Africa since the end of apartheid in 1994. The ANC was founded in 1912 by John Dube, Pixley ka Isaka Seme, and Sol Plaatje as a multiracial organization to campaign for the rights of black South Africans. The party was initially moderate and focused on achieving equal rights for black South Africans within the existing political system. However, after the National Party came to power in 1948 and instituted apartheid, the ANC became more radical and began advocating for the complete dismantling of the apartheid system. The ANC was banned by the South African government in 1960, and many of its leaders, including Nelson Mandela, were imprisoned. The party continued to operate underground and became a symbol of resistance against apartheid. After the end of apartheid, the ANC won the first democratic elections in 1994, and Nelson Mandela became the country's first black president. The ANC has since been re-elected in every national election, and its leaders have played a central role in shaping the country's post-apartheid policies and institutions.",
+            "qae_pairs": [
+                {
+                    "question": "Q: Who was the first president of the African National Congress (ANC) after its founding in 1912?(Avoid the following entities in the question: Nelson Mandela).",
+                    "answer": "John Dube",
+                    "explanation": "The ANC was founded in 1912 by John Dube, Pixley ka Isaka Seme, and Sol Plaatje as a multiracial organization to campaign for the rights of black South Africans."
+                }
+            ],
+            "hops": [
+                "Nelson Mandela",
+                "the African National Congress"
+            ]
+        },
+        "the University of Witwatersrand": {
+            "term": "the University of Witwatersrand",
+            "passage": "The University of the Witwatersrand, Johannesburg, is a multi-campus South African public research university situated in the northern areas of central Johannesburg. It is more commonly known as Wits University or simply Wits. The university has its roots in the mining industry, as it was established in 1896 as the South African School of Mines and Technology. It is today the third oldest university in South Africa.",
+            "qae_pairs": [
+                {
+                    "question": "What is the location of the University of Witwatersrand?",
+                    "answer": "Johannesburg",
+                    "explanation": "The University of the Witwatersrand, Johannesburg, is a multi-campus South African public research university situated in the northern areas of central Johannesburg."
+                }
+            ],
+            "hops": [
+                "Nelson Mandela",
+                "the University of Witwatersrand"
+            ]
+        },
+        "the Eastern Cape": {
+            "term": "the Eastern Cape",
+            "passage": "The Eastern Cape is a province of South Africa. Its capital is Bhisho. The province is situated in the southeast of the country, extending from the Eastern Cape Highlands in the north to the Indian Ocean in the south. It is the traditional home of the Xhosa people, who make up the majority of the province's population. The province is known for its diverse landscape, which includes the Wild Coast, the Sunshine Coast, and the Karoo. The Eastern Cape is also home to several national parks, including the Addo Elephant National Park and the Camdeboo National Park. The province is rich in natural resources, including diamonds, manganese, and titanium. The Eastern Cape is also known for its cultural heritage, including the Xhosa culture and the Afrikaans culture. The province is home to several universities, including the University of Fort Hare and the Nelson Mandela Metropolitan University.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the coast in the Eastern Cape known for its rugged beauty and unspoiled beaches?",
+                    "answer": "the Wild Coast",
+                    "explanation": "The Eastern Cape is known for its diverse landscape, which includes the Wild Coast, the Sunshine Coast, and the Karoo. This sentence explains that the Eastern Cape is known for its diverse landscape, which includes three different coastal areas: the Wild Coast, the Sunshine Coast, and the Karoo."
+                },
+                {
+                    "question": "What is the capital of the Eastern Cape?",
+                    "answer": "Bhisho",
+                    "explanation": "The Eastern Cape is known for its diverse landscape, which includes the Wild Coast, the Sunshine Coast, and the Karoo."
+                }
+            ],
+            "hops": [
+                "Nelson Mandela",
+                "the Eastern Cape"
+            ]
+        },
+        "the German Empire": {
+            "term": "the German Empire",
+            "passage": "The German Empire, officially the Imperial Germany, was a constitutional monarchy in Central Europe that existed from 1871 to 1918. It was founded after the Franco-Prussian War and the proclamation of the German Emperor Wilhelm I at Versailles on January 18, 1871. The empire was a federal state composed of 26 states, with the Kaiser (Emperor) as its head of state and the Chancellor as its head of government. The empire was divided into three parts: the Kingdom of Prussia, which was the largest and most powerful state; the Austrian Empire; and the Kingdom of Bavaria. The empire was a great power and had a strong economy, a large army, and a powerful navy. It was involved in several wars, including the First World War, which led to its dissolution in 1918.",
+            "qae_pairs": [
+                {
+                    "question": "What was the largest and most powerful state in the German Empire before its dissolution in 1918?",
+                    "answer": "the Kingdom of Prussia",
+                    "explanation": "The empire was divided into three parts: the Kingdom of Prussia, which was the largest and most powerful state; the Austrian Empire; and the Kingdom of Bavaria."
+                },
+                {
+                    "question": "What was the location of the German Empire?",
+                    "answer": "Central Europe",
+                    "explanation": "The German Empire was a federal state composed of 26 states, with the Kaiser (Emperor) as its head of state and the Chancellor as its head of government."
+                }
+            ],
+            "hops": [
+                "Albert Einstein",
+                "the German Empire"
+            ]
+        },
+        "Princeton": {
+            "term": "Princeton",
+            "passage": "Princeton is a university town in Mercer County, New Jersey, United States, that serves as the location of Princeton University. The town is located in central New Jersey, about 40 miles (64 km) south of New York City, and 60 miles (97 km) northeast of Philadelphia. As of the 2010 United States Census, the town had a total population of 30,138, reflecting the high number of college students and faculty compared to other communities in the region. Princeton was founded before the American Revolutionary War, and during the war served as the capital of the United States. The town is known for its historic architecture, including the campus of Princeton University, which is a major contributor to the town's economy. The university has a strong reputation as a world-class research institution, and is consistently ranked among the top universities in the world. Princeton is also home to several notable cultural institutions, including the Princeton University Art Museum, the Princeton University Library, and the Princeton University Press. The town is also known for its numerous parks and open spaces, including the Princeton University campus, which is home to several notable gardens and arboretums. In addition to its cultural and educational attractions, Princeton is also known for its vibrant downtown area, which features a variety of shops, restaurants, and cafes. The town is also home to several annual events, including the Princeton University Reunions, which draw alumni from around the world, and the Princeton Festival, a celebration of music and the arts.",
+            "qae_pairs": [
+                {
+                    "question": "What was the population of Princeton in the year 2010?",
+                    "answer": "2010",
+                    "explanation": "As of the 2010 United States Census, the town had a total population of 30,138, reflecting the high number of college students and faculty compared to other communities in the region."
+                },
+                {
+                    "question": "1. Which state is home to the town of Princeton, which is famous for its university and cultural institutions, and which was once the capital of the United States during the American Revolutionary War?",
+                    "answer": "New Jersey",
+                    "explanation": "The town is located in central New Jersey, about 40 miles (64 km) south of New York City, and 60 miles (97 km) northeast of Philadelphia. This sentence provides evidence that Princeton is located in central New Jersey, and gives the distance from the town to two major cities in the region, New York City and Philadelphia."
+                },
+                {
+                    "question": "What is the county that hosts Princeton University?",
+                    "answer": "Mercer County",
+                    "explanation": "Princeton is a university town in Mercer County, New Jersey, United States, that serves as the location of Princeton University."
+                }
+            ],
+            "hops": [
+                "Albert Einstein",
+                "Princeton"
+            ]
+        },
+        "Berlin": {
+            "term": "Berlin",
+            "passage": "1. Berlin is the capital and largest city of Germany, as well as one of its 16 states. 2. With a population of approximately 3.7 million people, Berlin is the second most populous city in Germany, after Hamburg. 3. The city is known for its rich history, diverse culture, and modern architecture. 4. Berlin's economy is based on high-tech industries, creative industries, and scientific research. 5. The city is home to many world-renowned universities, museums, and entertainment venues. 6. Berlin is also known for its vibrant nightlife, with many clubs and bars throughout the city. 7. The city is well-connected by public transportation, including buses, trams, and trains. 8. Berlin is also known for its street art scene, with many murals and graffiti throughout the city. 9. The city is home to many international events and festivals, including the Berlin International Film Festival and the Berlin Marathon. 10. Berlin is a major tourist destination, with millions of visitors each year.",
+            "qae_pairs": [
+                {
+                    "question": "What is the second most populous city in Germany, after Berlin?",
+                    "answer": "Hamburg",
+                    "explanation": "The city is known for its rich history, diverse culture, and modern architecture. Answer: The city is known for its rich history, diverse culture, and modern architecture."
+                },
+                {
+                    "question": "What is the capital of Germany, where the Berlin International Film Festival is held?",
+                    "answer": "Germany",
+                    "explanation": "Berlin is the capital and largest city of Germany, as well as one of its 16 states. This sentence explains that Berlin is the capital of Germany, which is a fact that is relevant to the question."
+                }
+            ],
+            "hops": [
+                "Albert Einstein",
+                "Berlin"
+            ]
+        },
+        "Switzerland": {
+            "term": "Switzerland",
+            "passage": "Switzerland, officially the Swiss Confederation, is a country situated in south-central Europe. It has a long history of neutrality—it has not been in a state of war internationally since 1815. Switzerland is a federal republic composed of 26 cantons, with federal authorities located in Bern. The country is situated in the Alps, and is bordered by Italy to the south, France to the west, Germany to the north, and Austria and Liechtenstein to the east. Switzerland is a landlocked country geographically divided between the Alps, the Swiss Plateau and the Jura. The Swiss Alps occupy the greater part of the country. The Swiss population of approximately eight million people is predominantly German-speaking, with French and Italian speaking regions. Switzerland has a strong economy and is known for its banking and finance industry, its chocolate and watchmaking industry, and its tourism industry. Switzerland has a high standard of living and is ranked as the wealthiest country in the world in terms of per capita gross domestic product.",
+            "qae_pairs": [
+                {
+                    "question": "What year did Switzerland last declare war internationally?",
+                    "answer": "1815",
+                    "explanation": "Switzerland has not been in a state of war internationally since 1815."
+                }
+            ],
+            "hops": [
+                "Albert Einstein",
+                "Switzerland"
+            ]
+        },
+        "Warsaw": {
+            "term": "Warsaw",
+            "passage": "Warsaw is the capital and largest city of Poland. It stands on the Vistula River in east-central Poland and its population is officially estimated at 1.75 million residents within the city limits, with 3.1 million in the greater metropolitan area. The city is an important economic hub and cultural center of Poland. Warsaw is considered to be one of the most beautiful cities in Europe, with its rich history and architecture. The city has a rich history, having been founded in the 13th century and being repeatedly destroyed and rebuilt over the centuries. It was also the site of the Warsaw Uprising in 1944, during World War II. Today, Warsaw is a bustling metropolis with a rich cultural scene, including numerous museums, theaters, and music venues. It is also known for its vibrant nightlife and is a popular destination for tourists from around the world.",
+            "qae_pairs": [
+                {
+                    "question": "1. What was the date Warsaw was founded?",
+                    "answer": "the 13th century",
+                    "explanation": "Warsaw was founded in the 13th century."
+                }
+            ],
+            "hops": [
+                "Marie Curie",
+                "Warsaw"
+            ]
+        },
+        "Andrea del Verrocchio": {
+            "term": "Andrea del Verrocchio",
+            "passage": "Andrea del Verrocchio (1435-1488) was an Italian sculptor, goldsmith, and painter who was one of the leading artists in Florence during the Renaissance. He was born in Florence and trained as an apprentice to the goldsmith and sculptor, Antonio del Pollaiuolo. Verrocchio was known for his ability to work in a variety of mediums, including bronze, stone, and paint. He created many famous works of art, including the bronze statue of David, which was later cast in bronze by his student, Leonardo da Vinci. Verrocchio was also known for his innovative techniques in painting, such as his use of perspective and his ability to create realistic textures and depth. He was a member of the Florentine Guild of Artists and played an important role in the development of the Renaissance in Florence.",
+            "qae_pairs": [
+                {
+                    "question": "1. What was the name of the statue that Andrea del Verrocchio's student, who was not Leonardo da Vinci, cast in bronze after Verrocchio's death?",
+                    "answer": "David",
+                    "explanation": "Passage: Verrocchio was known for his ability to work in a variety of mediums, including bronze, stone, and paint. He created many famous works of art, including the bronze statue of David, which was later cast in bronze by his student, Leonardo da Vinci. Evidence sentence: Verrocchio was known for his ability to work in a variety of mediums, including bronze, stone, and paint."
+                },
+                {
+                    "question": "What was the period in which Andrea del Verrocchio created famous works of art?",
+                    "answer": "Renaissance",
+                    "explanation": "He created many famous works of art, including the bronze statue of David, which was later cast in bronze by his student, Leonardo da Vinci. This sentence explains that Andrea del Verrocchio created famous works of art, including the bronze statue of David, which was later cast in bronze by his student, Leonardo da Vinci. This evidence supports the period in which Andrea del Verrocchio created famous works of art, which was during the Renaissance."
+                }
+            ],
+            "hops": [
+                "Leonardo da Vinci",
+                "Andrea del Verrocchio"
+            ]
+        }
+    }
+}

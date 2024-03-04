@@ -1,0 +1,746 @@
+{
+    "first_hops": {
+        "Tom Hanks": {
+            "term": "Tom Hanks",
+            "passage": "Tom Hanks is an American actor, producer, and director. Hanks is known for his roles in Saving Private Ryan, Forrest Gump, Cast Away, The Da Vinci Code, and The Green Mile. He has won numerous awards for his work, including two Academy Awards, a Golden Globe, and a Screen Actors Guild Award. Hanks was born in Concord, California, in 1956. He grew up in a family of actors and musicians, and began his acting career in high school. After attending college for a year, Hanks dropped out to pursue acting full-time. He landed his first major role in the television series Bosom Buddies in 1980. Hanks' breakthrough role came in 1988 with the film Big, in which he played a 12-year-old boy trapped in the body of a 30-year-old man. The film was a critical and commercial success, and Hanks became a household name. He went on to star in a string of successful films throughout the 1990s, including A League of Their Own, Sleepless in Seattle, and Philadelphia. In addition to his work as an actor, Hanks has also produced and directed several films. He made his directorial debut with the 1996 film That Thing You Do!, which he also wrote and starred in. Hanks has also produced films such as Saving Private Ryan and The Post. Hanks is known for his versatility as an actor, and his ability to bring depth and humanity to his roles. He has been praised for his ability to portray a wide range of characters, from comedic to dramatic.",
+            "qae_pairs": [
+                {
+                    "question": "Tom Hanks is known for his roles in which film?",
+                    "answer": "Ryan",
+                    "explanation": "Tom Hanks is known for his roles in Saving Private Ryan, Forrest Gump, Cast Away, The Da Vinci Code, and The Green Mile."
+                },
+                {
+                    "question": "What year did Tom Hanks' breakthrough role come in?",
+                    "answer": "1988",
+                    "explanation": "Tom Hanks' breakthrough role came in 1988 with the film Big, in which he played a 12-year-old boy trapped in the body of a 30-year-old man."
+                },
+                {
+                    "question": "Tom Hanks' breakthrough role came in which film?",
+                    "answer": "12-year-old",
+                    "explanation": "Tom Hanks' breakthrough role came in 1988 with the film Big, in which he played a 12-year-old boy trapped in the body of a 30-year-old man."
+                },
+                {
+                    "question": "In which year was Tom Hanks born?",
+                    "answer": "1956",
+                    "explanation": "Tom Hanks was born in Concord, California, in 1956."
+                },
+                {
+                    "question": "What are the awards that Tom Hanks has won for his work?",
+                    "answer": "Academy Awards",
+                    "explanation": "Tom Hanks has won numerous awards for his work, including two Academy Awards."
+                }
+            ],
+            "hops": [
+                "Tom Hanks"
+            ]
+        },
+        "Meryl Streep": {
+            "term": "Meryl Streep",
+            "passage": "Meryl Streep (born June 22, 1949) is an American actress, singer, and producer. She has been described as the \"best actress of her generation\" by the New York Times, and is widely regarded as one of the greatest actresses of all time. Streep has received numerous accolades for her work, including three Academy Awards, a record 21 Academy Award nominations, and a Tony Award. Streep made her professional stage debut in 1971, and made her screen debut in the 1977 television film The Deadliest Season. She went on to establish herself as a leading actress in the 1980s, receiving nominations for her roles in the films The French Lieutenant's Woman (1981), Sophie's Choice (1982), and Out of Africa (1985). She won her first Academy Award for Best Supporting Actress for her role in the 1982 film The Sophie's Choice. Streep has since gone on to star in a wide range of films, including the romantic comedy-drama The Bridges of Madison County (1995), the historical drama The Iron Lady (2011), and the musical-comedy Mamma Mia! (2008). She has also worked as a voice actress, providing her voice for the animated films The Ant Bully (2006) and Florence Foster Jenkins (2016). In addition to her acting work, Streep is also a singer, and has performed in several films and concerts. She has also been involved in various political and social causes, and has been a vocal advocate for women's rights and LGBTQ+ rights.",
+            "qae_pairs": [
+                {
+                    "question": "'Which one of the following is not like the others?' Streep played the role of a mother who had to make a difficult choice in which one of her children to save during the Holocaust in this 1982 film.",
+                    "answer": "Sophie's Choice",
+                    "explanation": "Streep made her professional stage debut in 1971, and made her screen debut in the 1977 television film The Deadliest Season. She went on to establish herself as a leading actress in the 1980s, receiving nominations for her roles in the films The French Lieutenant's Woman (1981), Sophie's Choice (1982), and Out of Africa (1985). She won her first Academy Award for Best Supporting Actress for her role in the 1982 film The Sophie's Choice."
+                },
+                {
+                    "question": "What is Meryl Streep's birthday?",
+                    "answer": "June 22, 1949",
+                    "explanation": "Meryl Streep (born June 22, 1949) is an American actress, singer, and producer."
+                },
+                {
+                    "question": "In which decade did Meryl Streep establish herself as a leading actress?",
+                    "answer": "the 1980s",
+                    "explanation": "She went on to establish herself as a leading actress in the 1980s, receiving nominations for her roles in the films The French Lieutenant's Woman (1981), Sophie's Choice (1982), and Out of Africa (1985)."
+                },
+                {
+                    "question": "\"Which musical-comedy film did Meryl Streep star in?\"",
+                    "answer": "Mamma Mia",
+                    "explanation": "Streep has received numerous accolades for her work, including three Academy Awards, a record 21 Academy Award nominations, and a Tony Award."
+                },
+                {
+                    "question": "Which year did Meryl Streep win her first Academy Award for Best Supporting Actress?",
+                    "answer": "1982",
+                    "explanation": "Meryl Streep won her first Academy Award for Best Supporting Actress for her role in the 1982 film The Sophie's Choice."
+                },
+                {
+                    "question": "\"What is the name of the continent that is home to the Nile River, the Sahara Desert, and the Serengeti National Park?\"",
+                    "answer": "Africa",
+                    "explanation": "Streep has received numerous accolades for her work, including three Academy Awards, a record 21 Academy Award nominations, and a Tony Award."
+                }
+            ],
+            "hops": [
+                "Meryl Streep"
+            ]
+        },
+        "Leonardo DiCaprio": {
+            "term": "Leonardo DiCaprio",
+            "passage": "Leonardo DiCaprio is an American actor and film producer. He has been nominated for numerous awards, and has won several, including an Academy Award and a Golden Globe. He is known for his roles in films such as Titanic, The Departed, and The Revenant. DiCaprio began his career as a child actor, appearing in commercials and educational films. He made his film debut in Critters 3 in 1986, and went on to appear in several other films in the 1990s, including This Boy's Life and What's Eating Gilbert Grape. He gained recognition for his role in the television series Growing Pains, and later starred in the film Romeo + Juliet. DiCaprio has been involved in various environmental and humanitarian causes. He is a prominent advocate for climate change, and has been involved in several documentaries and campaigns related to the issue. He has also donated millions of dollars to environmental causes, and has been recognized for his efforts. In addition to his acting career, DiCaprio is also a film producer. He has produced several films, including The Wolf of Wall Street and The Revenant, both of which he also starred in. He has also been involved in several other projects, including the documentary Before the Flood. DiCaprio is known for his versatility as an actor, and has played a wide range of roles throughout his career. He has been praised for his ability to fully immerse himself in his roles, and has been described as one of the most talented actors of his generation. He continues to act in films and produce projects, and is considered one of the most influential figures in the entertainment industry.",
+            "qae_pairs": [
+                {
+                    "question": "Which television series did Leonardo DiCaprio star in as a child actor?",
+                    "answer": "Growing Pains",
+                    "explanation": "Leonardo DiCaprio gained recognition for his role in the television series Growing Pains, which he starred in as a child actor."
+                },
+                {
+                    "question": "What year did Leonardo DiCaprio make his film debut in Critters 3?",
+                    "answer": "1986",
+                    "explanation": "Leonardo DiCaprio began his career as a child actor, appearing in commercials and educational films."
+                },
+                {
+                    "question": "What is the name of the film in which Leonardo DiCaprio starred as Jack Dawson?",
+                    "answer": "Titanic",
+                    "explanation": "Passage: Leonardo DiCaprio is an American actor and film producer. He has been nominated for numerous awards, and has won several, including an Academy Award and a Golden Globe. He is known for his roles in films such as Titanic, The Departed, and The Revenant. Evidence sentence: Leonardo DiCaprio is known for his roles in films such as Titanic, The Departed, and The Revenant."
+                },
+                {
+                    "question": "What decade did Leonardo DiCaprio become known as an actor?",
+                    "answer": "the 1990s",
+                    "explanation": "He gained recognition for his role in the television series Growing Pains, and later starred in the film Romeo + Juliet. This sentence explains that Leonardo DiCaprio gained recognition as an actor in the 1990s, specifically for his roles in the television series Growing Pains and the film Romeo + Juliet."
+                }
+            ],
+            "hops": [
+                "Leonardo DiCaprio"
+            ]
+        },
+        "Julia Roberts": {
+            "term": "Julia Roberts",
+            "passage": "Julia Fiona Roberts (born October 28, 1967) is an American actress and producer. She became a Hollywood star after headlining the romantic comedy Pretty Woman (1990), which grossed $464 million worldwide. She has won three Golden Globe Awards, and has been nominated for four Academy Awards for her film performances, winning the Academy Award for Best Actress for her performance in Erin Brockovich (2000). Roberts was the highest-paid actress in the world throughout the 1990s and 2000s. Her films have collectively brought box office receipts of over $2.5 billion, making her one of the most successful actresses in terms of box office receipts. She has been named one of People magazine's \"50 Most Beautiful People in the World\" eleven times, tied with Halle Berry for the record. Roberts was born in Smyrna, Georgia, to actors Walter and Betty Lou Roberts. She was raised in Atlanta, Georgia, and attended Fitzhugh Lee Elementary School, Griffin Elementary School, and the Georgia Actors Youth Theatre. After graduating from Smyrna High School, she attended Georgia State University but dropped out after one year to pursue a career in acting. Roberts's first film role came in the film Blood Red (1989), which was not released until 1991. She followed this with a supporting role in the comedy film Mystic Pizza (1988), which was followed by a role in the independent film Satisfaction (1988). She then appeared in the comedy film Dying Young (1991), which was a box office success.",
+            "qae_pairs": [
+                {
+                    "question": "What university did Julia Roberts attend before dropping out to pursue a career in acting?",
+                    "answer": "Georgia State University",
+                    "explanation": "Julia Roberts attended Georgia State University but dropped out after one year to pursue a career in acting."
+                },
+                {
+                    "question": "What decade did Julia Roberts become the highest-paid actress in the world throughout?",
+                    "answer": "2000s",
+                    "explanation": "Julia Roberts became the highest-paid actress in the world throughout the 1990s and 2000s."
+                },
+                {
+                    "question": "What year did Julia Roberts make her film debut?",
+                    "answer": "1988",
+                    "explanation": "Julia Roberts made her film debut in 1988 with the independent film Satisfaction, followed by a role in the comedy film Mystic Pizza."
+                },
+                {
+                    "question": "What is Julia Roberts' mother's name?",
+                    "answer": "Betty Lou Roberts",
+                    "explanation": "Julia Roberts was born in Smyrna, Georgia, to actors Walter and Betty Lou Roberts."
+                },
+                {
+                    "question": "What is the name of the magazine that named Julia Roberts one of the '50 Most Beautiful People in the World' eleven times?",
+                    "answer": "People magazine's",
+                    "explanation": "Julia Roberts has been named one of People magazine's 50 Most Beautiful People in the World eleven times, tied with Halle Berry for the record."
+                },
+                {
+                    "question": "Who is Julia Roberts's father?",
+                    "answer": "Walter",
+                    "explanation": "Julia Roberts was born in Smyrna, Georgia, to actors Walter and Betty Lou Roberts."
+                },
+                {
+                    "question": "'What is the movie in which Julia Roberts won the Academy Award for Best Actress?'",
+                    "answer": "Erin Brockovich",
+                    "explanation": "She has won three Golden Globe Awards, and has been nominated for four Academy Awards for her film performances, winning the Academy Award for Best Actress for her performance in Erin Brockovich (2000)."
+                },
+                {
+                    "question": "What decade did Julia Roberts become a Hollywood star?",
+                    "answer": "the 1990s",
+                    "explanation": "Roberts was the highest-paid actress in the world throughout the 1990s and 2000s."
+                }
+            ],
+            "hops": [
+                "Julia Roberts"
+            ]
+        },
+        "Denzel Washington": {
+            "term": "Denzel Washington",
+            "passage": "Denzel Hayes Washington Jr. (born December 28, 1954) is an American actor, director, and producer. He has received three Golden Globe awards, a Tony Award, and two Academy Awards: Best Supporting Actor for the historical drama film Glory (1989) and Best Actor for the biographical drama film Training Day (2001). Washington is widely regarded as one of the greatest actors of his generation, and is known for his portrayals of complex and morally ambiguous characters. He has been described as the \"poet laureate of contemporary African-American cinema\" and is considered to be one of the most influential African-American actors in Hollywood. Washington made his screen debut in the 1981 film Carbon Copy, before receiving critical acclaim for his role in the 1987 film The Principal. He has since appeared in over 50 films, including Malcolm X (1992), The Preacher's Wife (1996), Remember the Titans (2000), The Book of Eli (2010), and Fences (2016), for which he won his second Academy Award for Best Actor. In addition to his acting career, Washington has also directed and produced several films, including the critically acclaimed film Antwone Fisher (2002), which he also starred in. He has also been involved in philanthropic efforts, including the creation of the Denzel Washington Foundation, which provides college scholarships to underprivileged students. Washington is married to actress Pauletta Washington, with whom he has four children.",
+            "qae_pairs": [
+                {
+                    "question": "What year did Denzel Washington make his screen debut in the film Carbon Copy?",
+                    "answer": "1981",
+                    "explanation": "Denzel Washington made his screen debut in the 1981 film Carbon Copy, before receiving critical acclaim for his role in the 1987 film The Principal."
+                },
+                {
+                    "question": "What was Denzel Washington's first film?",
+                    "answer": "Carbon Copy",
+                    "explanation": "Washington is widely regarded as one of the greatest actors of his generation, and is known for his portrayals of complex and morally ambiguous characters."
+                },
+                {
+                    "question": "What is the name of the award that Denzel Washington has won three times?",
+                    "answer": "Golden Globe",
+                    "explanation": "Denzel Washington has won three Golden Globe awards."
+                }
+            ],
+            "hops": [
+                "Denzel Washington"
+            ]
+        },
+        "Sandra Bullock": {
+            "term": "Sandra Bullock",
+            "passage": "Sandra Annette Bullock (born July 26, 1964) is an American actress, producer, and philanthropist. She made her acting debut with a minor role in the 1987 thriller Hangmen, and made her television debut in the film Bionic Showdown: The Six Million Dollar Man and the Bionic Woman (1989). She received early attention for her supporting work in the action film Demolition Man (1993) and in the romantic comedy While You Were Sleeping (1995). Bullock's breakthrough role was in the film Speed (1994), for which she was nominated for a Golden Globe Award for Best Actress. She followed this with roles in the romantic comedies Miss Congeniality (2000) and Two Weeks Notice (2002), and the science fiction film The Net (1995). She was critically acclaimed for her leading role in the drama Crash (2004), for which she won an Academy Award for Best Actress. In the 2000s, Bullock expanded her career into producing, with her company Fortis Films producing films such as Miss Congeniality 2: Armed and Fabulous (2005) and The Proposal (2009). She also co-produced the critically acclaimed drama The Blind Side (2009), which earned her a nomination for the Academy Award for Best Picture. Bullock has been active in philanthropy, including donating $1 million to the American Red Cross after Hurricane Katrina in 2005, and supporting various other charities and causes.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of Sandra Bullock's production company?",
+                    "answer": "Fortis Films",
+                    "explanation": "Sandra Bullock's breakthrough role was in the film Speed (1994), for which she was nominated for a Golden Globe Award for Best Actress."
+                },
+                {
+                    "question": "What year did Sandra Bullock win an Academy Award for Best Actress?",
+                    "answer": "2004",
+                    "explanation": "Sandra Bullock won an Academy Award for Best Actress in 2004 for her leading role in the drama Crash."
+                }
+            ],
+            "hops": [
+                "Sandra Bullock"
+            ]
+        },
+        "Johnny Depp": {
+            "term": "Johnny Depp",
+            "passage": "John Christopher Depp II (born June 9, 1963) is an American actor, producer, and musician. He has won the Golden Globe Award and Screen Actors Guild Award for Best Actor. Depp rose to prominence on the 1980s television series 21 Jump Street, becoming a teen idol. Depp has collaborated with director Tim Burton in several films, including Edward Scissorhands (1990), Ed Wood (1994), Sleepy Hollow (1999), Charlie and the Chocolate Factory (2005), Alice in Wonderland (2010), and Dark Shadows (2012). He played the title character in Burton's biographical film Ed Wood, and won a Golden Globe for his portrayal of Boston gangster Whitey Bulger in the crime drama Black Mass (2015). Depp has been nominated for major acting awards, including three nominations for Academy Award for Best Actor for his roles in the fantasy adventure film Pirates of the Caribbean: The Curse of the Black Pearl (2003), the biographical film Ed Wood, and the crime drama Black Mass. He has been listed in the 2012 Guinness World Records as the highest paid actor, with earnings of $75 million. Depp has been involved in a number of controversies and legal disputes, including a high-profile divorce from actress Amber Heard in 2016. He has also been a target of criticism from some Native American groups for his portrayal of Native Americans in the film The Lone Ranger (2013).",
+            "qae_pairs": [
+                {
+                    "question": "What year did Johnny Depp win the Golden Globe Award and Screen Actors Guild Award for Best Actor?",
+                    "answer": "2005",
+                    "explanation": "Johnny Depp won the Golden Globe Award and Screen Actors Guild Award for Best Actor in 2005."
+                },
+                {
+                    "question": "1. Who is Johnny Depp? 2. What is the name of the biographical film in which Johnny Depp played the title character? 3. What is the name of the character played by Johnny Depp in the film 'Pirates of the Caribbean: The Curse of the",
+                    "answer": "Ed Wood",
+                    "explanation": "Johnny Depp is an American actor, producer, and musician who has won the Golden Globe Award and Screen Actors Guild Award for Best Actor."
+                },
+                {
+                    "question": "What is the name of the award that John Christopher Depp II has won?",
+                    "answer": "Screen Actors Guild Award",
+                    "explanation": "John Depp has won the Screen Actors Guild Award for Best Actor."
+                },
+                {
+                    "question": "\"What year did the film 'Sleepy Hollow' directed by Tim Burton and starring Johnny Depp, release?\"",
+                    "answer": "1999",
+                    "explanation": "Depp has been listed in the 2012 Guinness World Records as the highest paid actor, with earnings of $75 million."
+                }
+            ],
+            "hops": [
+                "Johnny Depp"
+            ]
+        },
+        "Nicole Kidman": {
+            "term": "Nicole Kidman",
+            "passage": "Nicole Mary Kidman, AC (born 20 June 1967) is an Australian actress, producer, and humanitarian. She is the recipient of multiple awards, including an Academy Award, two Primetime Emmy Awards, five Golden Globe Awards, and the Silver Bear for Best Actress. She was born in Honolulu, Hawaii, while her Australian parents were temporarily living in the United States. Her film career began in 1983. She starred in various Australian films, before making her Hollywood debut in the 1989 thriller Dead Calm. Her breakthrough came in 1990 with the thriller Days of Thunder, opposite Tom Cruise, with whom she married in 1990. Kidman has since established herself as one of the most successful actresses in Hollywood, starring in films such as To Die For (1995), Eyes Wide Shut (1999), Moulin Rouge! (2001), The Hours (2002), and Lion (2016). She has been a Goodwill Ambassador for UNICEF since 1994 and a Women's Health Champion since 2016.",
+            "qae_pairs": [
+                {
+                    "question": "What is the title of the film in which Nicole Kidman starred in 2016?",
+                    "answer": "Lion",
+                    "explanation": "Nicole Kidman has since established herself as one of the most successful actresses in Hollywood, starring in films such as To Die For (1995), Eyes Wide Shut (1999), Moulin Rouge! (2001), The Hours (2002), and Lion (2016)."
+                },
+                {
+                    "question": "What are the awards that Nicole Kidman has won?",
+                    "answer": "Emmy Awards",
+                    "explanation": "Nicole Kidman has won multiple awards, including an Academy Award, two Primetime Emmy Awards, five Golden Globe Awards, and the Silver Bear for Best Actress."
+                },
+                {
+                    "question": "\"What year did Nicole Kidman's Hollywood debut with the thriller Dead Calm?\"",
+                    "answer": "1989",
+                    "explanation": "Nicole Kidman's Hollywood debut came in 1989 with the thriller Dead Calm."
+                },
+                {
+                    "question": "\"Which year did Nicole Kidman star in Moulin Rouge!\"?",
+                    "answer": "2001",
+                    "explanation": "She has been a Goodwill Ambassador for UNICEF since 1994 and a Women's Health Champion since 2016. This sentence provides information about Nicole Kidman's philanthropic work and her involvement in promoting women's health."
+                },
+                {
+                    "question": "In which film did Nicole Kidman play a cabaret performer named Satine, who falls in love with a writer named Christian, played by Ewan McGregor, in Paris in the year 1899?",
+                    "answer": "Moulin Rouge",
+                    "explanation": "Nicole Kidman has since established herself as one of the most successful actresses in Hollywood, starring in films such as To Die For (1995), Eyes Wide Shut (1999), Moulin Rouge! (2001), The Hours (2002), and Lion (2016)."
+                }
+            ],
+            "hops": [
+                "Nicole Kidman"
+            ]
+        },
+        "Brad Pitt": {
+            "term": "Brad Pitt",
+            "passage": "Brad Pitt (born William Bradley Pitt; December 18, 1963) is an American actor and producer. He has received a Golden Globe Award, a Screen Actors Guild Award, and three Academy Award nominations in acting categories, and received two further Academy Award nominations, winning one, for productions of his film production company Plan B Entertainment. Pitt first gained recognition as a cowboy hitchhiker in the road movie Thelma & Louise (1991). His first leading roles were in the drama film The Dark Side of the Sun (1988) and the thriller film Cutting Class (1989). He made his mark in Hollywood with his role as the charming and charismatic cowboy, Tyler Durden, in the cult hit Fight Club (1999). He received critical acclaim for his performances in the crime film Seven (1995) and the science fiction film 12 Monkeys (1995). He gave a breakthrough performance as the stoner Jimmy Darmody in the HBO series Boardwalk Empire (2010–2014), and received a Golden Globe Award for his supporting role in the biographical crime film The Departed (2006). Pitt has been married three times, to actresses Jennifer Aniston and Angelina Jolie, and model and actress Charlize Theron. He has six children, three of whom were adopted internationally with Jolie. In addition to his acting career, Pitt is a philanthropist and activist, and has donated millions of dollars to charitable organizations and causes.",
+            "qae_pairs": [
+                {
+                    "question": "A. What is Brad Pitt's first name? B. Who did Brad Pitt play in the cult hit Fight Club? C. What is the name of Brad Pitt's production company? D. How many children does Brad Pitt have?",
+                    "answer": "Tyler Durden",
+                    "explanation": "He made his mark in Hollywood with his role as the charming and charismatic cowboy, Tyler Durden, in the cult hit Fight Club (1999)."
+                },
+                {
+                    "question": "What is the name of the road movie in which Brad Pitt first gained recognition?",
+                    "answer": "the road movie Thelma & Louise",
+                    "explanation": "Pitt first gained recognition as a cowboy hitchhiker in the road movie Thelma & Louise (1991)."
+                },
+                {
+                    "question": "What is the name of the character that Brad Pitt played in the HBO series Boardwalk Empire?",
+                    "answer": "Jimmy Darmody",
+                    "explanation": "He received critical acclaim for his performances in the crime film Seven (1995) and the science fiction film 12 Monkeys (1995)."
+                },
+                {
+                    "question": "'What is the name of Brad Pitt's film production company?'",
+                    "answer": "Plan B Entertainment",
+                    "explanation": "He received two further Academy Award nominations, winning one, for productions of his film production company Plan B Entertainment."
+                },
+                {
+                    "question": "What is the name of the cult hit film in which Brad Pitt plays the charming and charismatic cowboy, Tyler Durden?",
+                    "answer": "Fight Club",
+                    "explanation": "He made his mark in Hollywood with his role as the charming and charismatic cowboy, Tyler Durden, in the cult hit Fight Club (1999)."
+                }
+            ],
+            "hops": [
+                "Brad Pitt"
+            ]
+        },
+        "Angelina Jolie": {
+            "term": "Angelina Jolie",
+            "passage": "Angelina Jolie (born Angelina Jolie Voight; June 4, 1975) is an American actress, filmmaker, and humanitarian. She has received an Academy Award, two Screen Actors Guild Awards, and three Golden Globe Awards, and has been cited as one of Hollywood's highest-paid actresses. Jolie made her screen debut as a child alongside her father, Jon Voight, in the 1982 film Lookin' to Get Out. Her film career began in earnest a decade later with the low-budget production Cyborg 2 (1993), followed by her first leading role in a major film, Hackers (1995). She starred in the critically acclaimed biographical cable films George Wallace (1997) and Gia (1998), and won an Academy Award for Best Supporting Actress for her performance in the drama Girl, Interrupted (1999). Jolie's starring role as the video game heroine Lara Croft in Lara Croft: Tomb Raider (2001) established her as a leading Hollywood actress. She continued her successful action-star career with Mr. & Mrs. Smith (2005), Wanted (2008), and Salt (2010), and received critical acclaim for her performances in the dramas A Mighty Heart (2007) and Changeling (2008). In the 2010s, she expanded her career into directing, screenwriting, and producing, working on the wartime dramas In the Land of Blood and Honey (2011) and Unbroken (2014).",
+            "qae_pairs": [
+                {
+                    "question": "What is the title of Angelina Jolie's film about a mother whose son is kidnapped and replaced with a fake child by the police?",
+                    "answer": "Changeling",
+                    "explanation": "Jolie starred in the critically acclaimed biographical cable films George Wallace (1997) and Gia (1998), and won an Academy Award for Best Supporting Actress for her performance in the drama Girl, Interrupted (1999)."
+                },
+                {
+                    "question": "What year did Angelina Jolie star in the film 'Wanted'?",
+                    "answer": "2008",
+                    "explanation": "Her film career began in earnest a decade later with the low-budget production Cyborg 2 (1993), followed by her first leading role in a major film, Hackers (1995)."
+                },
+                {
+                    "question": "What year did Angelina Jolie direct and produce the film 'In the Land of Blood and Honey'?",
+                    "answer": "2011",
+                    "explanation": "Jolie made her screen debut as a child alongside her father, Jon Voight, in the 1982 film Lookin' to Get Out. Her film career began in earnest a decade later with the low-budget production Cyborg 2 (1993), followed by her first leading role in a major film, Hackers (1995)."
+                },
+                {
+                    "question": "\"In which year did Angelina Jolie star in the film Mr. & Mrs. Smith?\"",
+                    "answer": "2005",
+                    "explanation": "Jolie made her screen debut as a child alongside her father, Jon Voight, in the 1982 film Lookin' to Get Out. Explanation: The passage mentions that Angelina Jolie made her screen debut as a child alongside her father, Jon Voight, in the 1982 film Lookin' to Get Out. This sentence serves as an evidence sentence as it provides specific information about Jolie's acting debut and her father's involvement in the film."
+                }
+            ],
+            "hops": [
+                "Angelina Jolie"
+            ]
+        }
+    },
+    "second_hops": {
+        "Ryan": {
+            "term": "Ryan",
+            "passage": "Ryan is a given name of Irish and Scottish origin. It is derived from the Irish name Raghallaigh, which means \"little king\". The name is also used in Scotland, where it is a variant of the name Rory. The name Ryan has been popular in the United States since the 1970s, and it has been a top 100 name for boys in the country since 1980. Ryan is also a surname of Irish and Scottish origin. It is derived from the Irish name O'Raghallaigh, which means \"descendant of Raghallaigh\". The name is also used in Scotland, where it is a variant of the name MacRory. Notable people with the name Ryan include: Ryan Gosling, a Canadian actor; Ryan Reynolds, a Canadian actor and producer; Ryan Seacrest, an American television and radio host; Ryan Lochte, an American swimmer; Ryan Newman, an American race car driver; Ryan Coogler, an American film director and screenwriter; and Ryan Tedder, an American singer, songwriter, and record producer.",
+            "qae_pairs": [
+                {
+                    "question": "What year did the name Ryan become a top 100 name for boys in the United States?",
+                    "answer": "1980",
+                    "explanation": "The name Ryan has been popular in the United States since the 1970s, and it has been a top 100 name for boys in the country since 1980."
+                }
+            ],
+            "hops": [
+                "Tom Hanks",
+                "Ryan"
+            ]
+        },
+        "Academy Awards": {
+            "term": "Academy Awards",
+            "passage": "The Academy Awards, also known as the Oscars, are a set of awards for artistic and technical merit in the film industry. Given annually by the Academy of Motion Picture Arts and Sciences (AMPAS), the awards are a widely recognized symbol of excellence in cinematic achievements. The awards were first presented in 1929 at a private dinner party attended by around 270 people. The ceremony was held to honor the actors, actresses, and directors of the silent film era. Since then, the ceremony has grown in size and scope, and is now televised to millions of viewers worldwide. The awards are given in a variety of categories, including Best Picture, Best Director, Best Actor, and Best Actress. The ceremony is also known for its glamorous red carpet event, where celebrities showcase their fashion and style. The Academy Awards are considered one of the most prestigious awards in the film industry, and winning an Oscar is a significant achievement for any filmmaker.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the category in the Academy Awards that is given to the best male actor in a leading role?",
+                    "answer": "Best Actor",
+                    "explanation": "The Academy Awards are considered one of the most prestigious awards in the film industry, and winning an Oscar is a significant achievement for any filmmaker."
+                },
+                {
+                    "question": "What is the name of the organization that presents the Academy Awards?",
+                    "answer": "the Academy of Motion Picture Arts and Sciences",
+                    "explanation": "The awards were first presented in 1929 at a private dinner party attended by around 270 people. This sentence explains that the first Academy Awards ceremony was held in 1929 at a private dinner party attended by around 270 people."
+                },
+                {
+                    "question": "What year were the Academy Awards first presented?",
+                    "answer": "1929",
+                    "explanation": "The awards were first presented in 1929 at a private dinner party attended by around 270 people."
+                }
+            ],
+            "hops": [
+                "Tom Hanks",
+                "Academy Awards"
+            ]
+        },
+        "Sophie's Choice": {
+            "term": "Sophie's Choice",
+            "passage": "Sophie's Choice is a 1979 American drama film directed by Alan J. Pakula, who adapted the screenplay from the novel of the same name by William Styron. The film stars Meryl Streep, Kevin Kline, and Peter MacNicol. The story is set in Brooklyn in 1947 and focuses on Sophie (Streep), a Polish immigrant who shares a crowded apartment with her lover, Nathan (Kline), and his friend, Stingo (MacNicol). Sophie is haunted by her past, particularly her experiences in Nazi concentration camps, and her love for Nathan is complicated by her tragic history. The film explores themes of love, loss, and survival, and has been praised for its performances, particularly Streep's, which earned her an Academy Award for Best Actress.",
+            "qae_pairs": [
+                {
+                    "question": "What year did Sophie's Choice take place in?",
+                    "answer": "1947",
+                    "explanation": "The story is set in Brooklyn in 1947 and focuses on Sophie (Streep), a Polish immigrant who shares a crowded apartment with her lover, Nathan (Kline), and his friend, Stingo (MacNicol)."
+                }
+            ],
+            "hops": [
+                "Meryl Streep",
+                "Sophie's Choice"
+            ]
+        },
+        "Mamma Mia": {
+            "term": "Mamma Mia",
+            "passage": "Mamma Mia is a jukebox musical romantic comedy film directed by Phyllida Lloyd and written by Catherine Johnson. The film was based on the musical of the same name, which was composed of songs by the pop group ABBA, with additional music and lyrics by Benny Andersson and Björn Ulvaeus. The film was released in 2008 and starred Meryl Streep, Amanda Seyfried, and Pierce Brosnan. The film tells the story of a young woman named Sophie who is about to be married and wants to find out who her father is, so she invites three men from her mother's past to her wedding without telling her mother. The film was a commercial success and received mixed reviews from critics.",
+            "qae_pairs": [
+                {
+                    "question": "Who composed the music and lyrics for the film Mamma Mia along with Benny Andersson?",
+                    "answer": "Björn Ulvaeus",
+                    "explanation": "The film was based on the musical of the same name, which was composed of songs by the pop group ABBA, with additional music and lyrics by Benny Andersson and Björn Ulvaeus."
+                },
+                {
+                    "question": "What year was the film 'Mamma Mia' released?",
+                    "answer": "2008",
+                    "explanation": "The film was released in 2008 and starred Meryl Streep, Amanda Seyfried, and Pierce Brosnan. This sentence is an evidence sentence because it provides a specific fact about the film 'Mamma Mia' and its release year, which is 2008."
+                },
+                {
+                    "question": "What is the name of the composer who wrote additional music and lyrics for the Mamma Mia musical?",
+                    "answer": "Benny Andersson",
+                    "explanation": "The film was based on the musical of the same name, which was composed of songs by the pop group ABBA, with additional music and lyrics by Benny Andersson and Björn Ulvaeus."
+                }
+            ],
+            "hops": [
+                "Meryl Streep",
+                "Mamma Mia"
+            ]
+        },
+        "Africa": {
+            "term": "Africa",
+            "passage": "1. Africa is the world's second-largest and second-most-populous continent. 2. At about 30.3 million km² (11.7 million sq mi) including adjacent islands, it covers six percent of the Earth's total surface area and 20.4 percent of the total land area. 3. With 1.2 billion people as of 2016, it accounts for about 16% of the world's human population. 4. The continent is surrounded by the Mediterranean Sea to the north, both the Suez Canal and the Red Sea along the Sinai Peninsula to the northeast, the Indian Ocean to the southeast, and the Atlantic Ocean to the west. 5. The continent includes Madagascar and various archipelagoes. 6. Africa, particularly central Eastern Africa, is the origin of humans and the Hominidae family, as well as the home of the oldest civilizations. 7. Africa has been inhabited by humans for at least 300,000 years, and the continent was first inhabited by Homo erectus. 8. The continent is home to numerous ethnic groups, each with their own unique culture, history and traditions. 9. Africa has a wide range of climate zones, from the deserts of the north to the tropical forests in the south, and the savannas in between. 10. The continent is home to a diverse array of flora and fauna, including the largest animals such as elephants, giraffes, and rhinoceroses. 11. Africa has been the site of many important civilizations throughout history, including the Ancient Egyptians, Carthaginians, and Romans. 12.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the family that includes humans and is believed to have originated in Africa?",
+                    "answer": "Hominidae",
+                    "explanation": "Africa, particularly central Eastern Africa, is the origin of humans and the Hominidae family, as well as the home of the oldest civilizations."
+                },
+                {
+                    "question": "What body of water surrounds Africa to the west?",
+                    "answer": "the Atlantic Ocean",
+                    "explanation": "The continent includes Madagascar and various archipelagoes. (Sentence 5) Why is this sentence an evidence? This sentence is an evidence because it provides information about the physical features of the continent of Africa, specifically that it includes Madagascar and various archipelagoes. This information helps to support the overall topic of the passage, which is about the continent of Africa."
+                },
+                {
+                    "question": "What body of water is located to the east of Africa?",
+                    "answer": "the Indian Ocean",
+                    "explanation": "Africa, particularly central Eastern Africa, is the origin of humans and the Hominidae family, as well as the home of the oldest civilizations. This sentence is an evidence sentence because it states a fact that is supported by scientific evidence, specifically the discovery of the oldest human fossils in central Eastern Africa."
+                }
+            ],
+            "hops": [
+                "Meryl Streep",
+                "Africa"
+            ]
+        },
+        "Titanic": {
+            "term": "Titanic",
+            "passage": "The Titanic was a British passenger liner that sank in the North Atlantic Ocean on April 15, 1912, after colliding with an iceberg during its maiden voyage from Southampton to New York City. The sinking of the Titanic resulted in the loss of 1,517 lives, making it one of the deadliest commercial peacetime maritime disasters in modern history. The Titanic was the largest ship afloat at the time it entered service and was one of three Olympic-class ocean liners operated by the White Star Line. It was built by the Harland and Wolff shipyard in Belfast, Northern Ireland. The Titanic was under the command of Captain Edward Smith, who also went down with the ship. The sinking of the Titanic caused widespread shock and outrage, leading to the establishment of the International Convention for the Safety of Life at Sea (SOLAS) in 1914. The Titanic has since become one of the most famous ships in history, and its sinking has been the subject of numerous books, films, and other forms of media.",
+            "qae_pairs": [
+                {
+                    "question": "What was the location where the Titanic was built?",
+                    "answer": "Belfast",
+                    "explanation": "The Titanic was built by the Harland and Wolff shipyard in Belfast, Northern Ireland."
+                },
+                {
+                    "question": "What was the port of departure for the Titanic's maiden voyage?",
+                    "answer": "Southampton",
+                    "explanation": "The Titanic was a British passenger liner that sank in the North Atlantic Ocean on April 15, 1912, after colliding with an iceberg during its maiden voyage from Southampton to New York City."
+                }
+            ],
+            "hops": [
+                "Leonardo DiCaprio",
+                "Titanic"
+            ]
+        },
+        "Georgia State University": {
+            "term": "Georgia State University",
+            "passage": "Georgia State University (GSU) is a public research university in Atlanta, Georgia, USA. It was founded in 1913 as the Georgia School of Technology and was initially focused on training engineers and scientists. Over the years, the university has expanded its academic offerings and now offers a wide range of undergraduate and graduate programs in fields such as business, law, education, and the arts. GSU is the largest institution of higher education in Georgia, with over 50,000 students enrolled in its various programs. The university is known for its commitment to diversity and inclusion, and has been recognized as a Hispanic-Serving Institution and an Asian American Native American Pacific Islander-Serving Institution. In addition to its academic programs, GSU is also home to several research centers and institutes, including the J. Mack Robinson College of Business, the College of Law, and the Andrew Young School of Policy Studies. The university has also been recognized for its research in areas such as public health, cybersecurity, and urban studies. GSU is located in the heart of Atlanta, and its campus is home to several notable landmarks, including the Georgia State Capitol, the Jimmy Carter Presidential Library and Museum, and the Martin Luther King Jr. National Historical Park. The university is also located near several major cultural institutions, including the High Museum of Art, the Atlanta Symphony Orchestra, and the Fox Theatre.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the famous theater located near Georgia State University that is known for its performances and shows?",
+                    "answer": "the Fox Theatre",
+                    "explanation": "GSU is located in the heart of Atlanta, and its campus is home to several notable landmarks, including the Georgia State Capitol, the Jimmy Carter Presidential Library and Museum, and the Martin Luther King Jr. National Historical Park. The university is also located near several major cultural institutions, including the High Museum of Art, the Atlanta Symphony Orchestra, and the Fox Theatre. This sentence provides evidence that the Fox Theatre is located near Georgia State University."
+                },
+                {
+                    "question": "What is the location of Georgia State University in the United States?",
+                    "answer": "USA",
+                    "explanation": "The university is known for its commitment to diversity and inclusion, and has been recognized as a Hispanic-Serving Institution and an Asian American Native American Pacific Islander-Serving Institution."
+                }
+            ],
+            "hops": [
+                "Julia Roberts",
+                "Georgia State University"
+            ]
+        },
+        "People magazine's": {
+            "term": "People magazine's",
+            "passage": "People magazine is an American weekly magazine that focuses on celebrity news and human-interest stories. It is one of the most popular magazines in the United States and has a circulation of over 4 million. The magazine was founded in 1974 by Time Inc., and has since become a staple in American pop culture. People magazine covers a wide range of topics, including celebrity news, fashion, beauty, and lifestyle. It also features in-depth profiles of famous people, as well as stories about real-life heroes and inspiring individuals. The magazine is known for its glossy pages and stunning photography, which showcase the latest trends in fashion and beauty. People magazine has won numerous awards for its journalism and has been recognized as one of the most influential magazines in the world.",
+            "qae_pairs": [
+                {
+                    "question": "What year was People magazine's first issue published?",
+                    "answer": "1974",
+                    "explanation": "The magazine was founded in 1974 by Time Inc., and has since become a staple in American pop culture."
+                },
+                {
+                    "question": "What is the name of the company that founded People magazine's?",
+                    "answer": "Time Inc",
+                    "explanation": "The magazine was founded in 1974 by Time Inc., and has since become a staple in American pop culture. This sentence explains that People magazine was founded in 1974 by Time Inc., which is a well-known media company that has been around for a long time. The fact that the magazine has become a staple in American pop culture suggests that it has had a significant impact on the culture and is widely recognized and respected."
+                }
+            ],
+            "hops": [
+                "Julia Roberts",
+                "People magazine's"
+            ]
+        },
+        "Walter": {
+            "term": "Walter",
+            "passage": "Walter is a male given name of Germanic origin, meaning \"ruler of the army\". It was a popular name in medieval Europe, and was borne by several medieval kings and nobles. The name has been used in various forms throughout history, including Waltharius, Walther, and Gualtherus. It has been used by many notable people throughout history, including Walter Cronkite, a famous American news anchor, and Walter Payton, a legendary American football player.",
+            "qae_pairs": [
+                {
+                    "question": "What is the origin of the name Walter?",
+                    "answer": "Germanic",
+                    "explanation": "The name has been used in various forms throughout history, including Waltharius, Walther, and Gualtherus. This sentence provides evidence that the name Walter has been used in various forms throughout history."
+                }
+            ],
+            "hops": [
+                "Julia Roberts",
+                "Walter"
+            ]
+        },
+        "Golden Globe": {
+            "term": "Golden Globe",
+            "passage": "The Golden Globe Awards are accolades bestowed by the 93 members of the Hollywood Foreign Press Association (HFPA) recognizing excellence in film and television, both domestic and foreign. The annual ceremony at which the awards are presented is a major part of the film industry's awards season, which culminates with the Academy Awards.",
+            "qae_pairs": [
+                {
+                    "question": "Who presents the Golden Globe Awards?",
+                    "answer": "HFPA",
+                    "explanation": "The Golden Globe Awards are accolades bestowed by the 93 members of the Hollywood Foreign Press Association (HFPA) recognizing excellence in film and television, both domestic and foreign."
+                },
+                {
+                    "question": "What is the name of the organization that presents the Golden Globe Awards?",
+                    "answer": "the Hollywood Foreign Press Association",
+                    "explanation": "The Golden Globe Awards are accolades bestowed by the 93 members of the Hollywood Foreign Press Association (HFPA) recognizing excellence in film and television, both domestic and foreign."
+                }
+            ],
+            "hops": [
+                "Denzel Washington",
+                "Golden Globe"
+            ]
+        },
+        "Fortis Films": {
+            "term": "Fortis Films",
+            "passage": "Fortis Films is a production company based in Mumbai, India. It was founded in 2008 by filmmaker and producer, Ruchikaa Sharma. The company has produced several critically acclaimed films, including \"The Blue Umbrella\" (2005), \"Peepli Live\" (2010), and \"Shahid\" (2012). Fortis Films is known for its focus on socially relevant and thought-provoking content, and has been recognized with several awards and nominations for its work. In addition to feature films, the company has also produced documentaries and short films, and has collaborated with international partners on co-productions. Fortis Films continues to be a leading voice in Indian independent cinema, and is committed to telling stories that challenge and inspire audiences.",
+            "qae_pairs": [
+                {
+                    "question": "What is the location of Fortis Films production company?",
+                    "answer": "India",
+                    "explanation": "Fortis Films is known for its focus on socially relevant and thought-provoking content, and has been recognized with several awards and nominations for its work."
+                },
+                {
+                    "question": "What was the year when Fortis Films produced the critically acclaimed film \"The Blue Umbrella\"?",
+                    "answer": "2005",
+                    "explanation": "Fortis Films is known for its focus on socially relevant and thought-provoking content, and has been recognized with several awards and nominations for its work."
+                },
+                {
+                    "question": "Who is the founder of Fortis Films, a production company based in Mumbai, India?",
+                    "answer": "Ruchikaa Sharma",
+                    "explanation": "Fortis Films is known for its focus on socially relevant and thought-provoking content, and has been recognized with several awards and nominations for its work."
+                }
+            ],
+            "hops": [
+                "Sandra Bullock",
+                "Fortis Films"
+            ]
+        },
+        "Ed Wood": {
+            "term": "Ed Wood",
+            "passage": "Edward D. Wood Jr. (October 10, 1924 – December 10, 1978) was an American filmmaker, actor, writer, and director, known for his low-budget, highly controversial films. He is often considered one of the worst filmmakers in history, but has been celebrated for his unique style and approach to filmmaking. Wood's career spanned from the late 1940s to the early 1970s, during which he made over 40 films, including the cult classic Plan 9 from Outer Space (1959). Wood's films were often criticized for their poor production values, incoherent plots, and bizarre dialogue, but they have since become cult classics and are celebrated for their unique charm and camp appeal. Wood's life and work have been the subject of numerous books, documentaries, and films, including Tim Burton's biographical film Ed Wood (1994), which starred Johnny Depp in the title role. Wood's legacy continues to inspire filmmakers and artists to this day.",
+            "qae_pairs": [
+                {
+                    "question": "What year did Tim Burton's biographical film about Ed Wood premiere in theaters?",
+                    "answer": "1994",
+                    "explanation": "Wood's films were often criticized for their poor production values, incoherent plots, and bizarre dialogue, but they have since become cult classics and are celebrated for their unique charm and camp appeal. Evidence sentence: Wood's films were often criticized for their poor production values, incoherent plots, and bizarre dialogue, but they have since become cult classics and are celebrated for their unique charm and camp appeal."
+                },
+                {
+                    "question": "What year did Ed Wood release his cult classic film Plan 9 from Outer Space?",
+                    "answer": "1959",
+                    "explanation": "Ed Wood's films were often criticized for their poor production values, incoherent plots, and bizarre dialogue, but they have since become cult classics and are celebrated for their unique charm and camp appeal."
+                }
+            ],
+            "hops": [
+                "Johnny Depp",
+                "Ed Wood"
+            ]
+        },
+        "Lion": {
+            "term": "Lion",
+            "passage": "Lions are large carnivorous cats with a short, bushy tail. They are social animals and live in groups called prides. Lions are native to Africa and some parts of Asia, and are the second largest big cat species after tigers. They are known for their distinctive mane, which is made up of long hairs on the neck, head, and shoulders of male lions. Female lions, called lionesses, are smaller and less muscular than males. Lions are apex predators and are capable of taking down large prey such as zebras, wildebeests, and buffalo. They are also known to scavenge on carrion. Lions are listed as vulnerable on the IUCN Red List of Threatened Species, with populations declining due to habitat loss, human-wildlife conflict, and poaching. Conservation efforts are underway to protect lion populations and their habitats.",
+            "qae_pairs": [
+                {
+                    "question": "What is the continent where Lions are found in Asia?",
+                    "answer": "Asia",
+                    "explanation": "Lions are native to Africa and some parts of Asia, and are the second largest big cat species after tigers."
+                }
+            ],
+            "hops": [
+                "Nicole Kidman",
+                "Lion"
+            ]
+        },
+        "Emmy Awards": {
+            "term": "Emmy Awards",
+            "passage": "The Primetime Emmy Awards, commonly called the Emmys, are presented annually by the Academy of Television Arts & Sciences (ATAS) to recognize excellence in American primetime television programming. The first Emmy Awards ceremony took place in 1949, and the ceremony has been held annually ever since, except for a hiatus in 1951. The Emmy Awards are considered the television equivalent to the Academy Awards (Oscars) for film. The awards are presented in various categories, such as drama series, comedy series, limited series, television movie, variety series, reality competition, and more. The Primetime Emmy Awards are one of the most prestigious awards in the television industry, and winning an Emmy is considered a significant achievement for actors, actresses, directors, and other professionals in the television industry. The Primetime Emmy Awards are televised live on Fox, and the ceremony is usually held in September or August.",
+            "qae_pairs": [
+                {
+                    "question": "What channel is the Primetime Emmy Awards ceremony televised on?",
+                    "answer": "Fox",
+                    "explanation": "The Primetime Emmy Awards, commonly called the Emmys, are presented annually by the Academy of Television Arts & Sciences (ATAS) to recognize excellence in American primetime television programming."
+                },
+                {
+                    "question": "When is the Primetime Emmy Awards ceremony held?",
+                    "answer": "September",
+                    "explanation": "The Primetime Emmy Awards, commonly called the Emmys, are presented annually by the Academy of Television Arts & Sciences (ATAS) to recognize excellence in American primetime television programming."
+                },
+                {
+                    "question": "What year did the Primetime Emmy Awards first take place?",
+                    "answer": "1949",
+                    "explanation": "The first Emmy Awards ceremony took place in 1949, and the ceremony has been held annually ever since, except for a hiatus in 1951."
+                },
+                {
+                    "question": "What organization is responsible for presenting the Primetime Emmy Awards, which recognize excellence in American primetime television programming?",
+                    "answer": "ATAS",
+                    "explanation": "The Primetime Emmy Awards, commonly called the Emmys, are presented annually by the Academy of Television Arts & Sciences (ATAS) to recognize excellence in American primetime television programming."
+                },
+                {
+                    "question": "What month is the Primetime Emmy Awards ceremony usually held in?",
+                    "answer": "August",
+                    "explanation": "The Primetime Emmy Awards ceremony is usually held in September or August."
+                }
+            ],
+            "hops": [
+                "Nicole Kidman",
+                "Emmy Awards"
+            ]
+        },
+        "Moulin Rouge": {
+            "term": "Moulin Rouge",
+            "passage": "Moulin Rouge is a cabaret in Paris, France. The original house, which was built in 1889, was located at 82 Boulevard de Clichy in the Montmartre district of Paris. It was founded by Charles Zidler and Joseph Oller, who also owned the nearby Théâtre des Folies Bergère. The cabaret was closely associated with the Romantic movement of the late 19th century, and it quickly became a popular destination for artists and writers, including Henri de Toulouse-Lautrec, Pablo Picasso, and Jean Cocteau. The Moulin Rouge is also known for its famous \"French Cancan\" dance, which was first performed there in 1893. The cabaret was closed during World War I and reopened in 1921. It has since become a tourist attraction and a symbol of Parisian nightlife.",
+            "qae_pairs": [
+                {
+                    "question": "What is the location of the famous cabaret Moulin Rouge in Paris, France?",
+                    "answer": "the Montmartre district",
+                    "explanation": "The cabaret was closely associated with the Romantic movement of the late 19th century, and it quickly became a popular destination for artists and writers, including Henri de Toulouse-Lautrec, Pablo Picasso, and Jean Cocteau. This sentence explains that the Moulin Rouge was closely associated with the Romantic movement of the late 19th century and was a popular destination for artists and writers of the time, including Henri de Toulouse-Lautrec, Pablo Picasso, and Jean Cocteau."
+                },
+                {
+                    "question": "Who was the co-founder of the Moulin Rouge cabaret in Paris, France?",
+                    "answer": "Charles Zidler",
+                    "explanation": "The cabaret was closely associated with the Romantic movement of the late 19th century, and it quickly became a popular destination for artists and writers, including Henri de Toulouse-Lautrec, Pablo Picasso, and Jean Cocteau. Evidence sentence: Charles Zidler and Joseph Oller founded the Moulin Rouge cabaret in Paris, France in 1889."
+                },
+                {
+                    "question": "What artist created the famous poster of the Moulin Rouge?",
+                    "answer": "Henri de Toulouse-Lautrec",
+                    "explanation": "The cabaret was closely associated with the Romantic movement of the late 19th century, and it quickly became a popular destination for artists and writers, including Henri de Toulouse-Lautrec, Pablo Picasso, and Jean Cocteau. This sentence explains that the Moulin Rouge was a popular destination for artists and writers during the Romantic movement of the late 19th century, and specifically mentions Henri de Toulouse-Lautrec as one of the artists who frequented the cabaret."
+                },
+                {
+                    "question": "What famous artist was closely associated with the Moulin Rouge cabaret in Paris, France?",
+                    "answer": "Picasso",
+                    "explanation": "The cabaret was closely associated with the Romantic movement of the late 19th century, and it quickly became a popular destination for artists and writers, including Henri de Toulouse-Lautrec, Pablo Picasso, and Jean Cocteau."
+                }
+            ],
+            "hops": [
+                "Nicole Kidman",
+                "Moulin Rouge"
+            ]
+        },
+        "Jimmy Darmody": {
+            "term": "Jimmy Darmody",
+            "passage": "Jimmy Darmody was a fictional character in the HBO television series Boardwalk Empire, portrayed by actor Michael Pitt. He was a protégé of the show's main character, Enoch \"Nucky\" Thompson, and a central figure in the series' first season. Darmody was born in 1899 in New York City to an Irish-American family. He served in World War I and returned to the United States with a Purple Heart. After the war, he became involved in organized crime, working for Nucky Thompson as a bootlegger and enforcer. Darmody was a complex character, torn between his loyalty to Nucky and his desire for independence. He was also haunted by his experiences in the war, which led him to have a violent temper and a tendency to act impulsively. Throughout the first season, Darmody's relationship with Nucky became increasingly strained. He became involved with Nucky's mistress, Billie Kent, and was eventually betrayed by Nucky, who had him killed in a hit ordered by rival gangster Gyp Rossetti. Darmody's death was a major turning point in the series, leading to a power struggle between Nucky and his rivals. His character was widely praised by critics and audiences, with many citing Michael Pitt's performance as a highlight of the show's first season.",
+            "qae_pairs": [
+                {
+                    "question": "What was the name of the television network that aired the HBO series Boardwalk Empire, which featured the character Jimmy Darmody?",
+                    "answer": "HBO",
+                    "explanation": "Darmody was born in 1899 in New York City to an Irish-American family. This sentence explains the character's background and origin."
+                },
+                {
+                    "question": "What year was Jimmy Darmody born in?",
+                    "answer": "1899",
+                    "explanation": "Darmody was born in 1899 in New York City to an Irish-American family."
+                }
+            ],
+            "hops": [
+                "Brad Pitt",
+                "Jimmy Darmody"
+            ]
+        },
+        "Plan B Entertainment": {
+            "term": "Plan B Entertainment",
+            "passage": "Plan B Entertainment is an American film and television production company founded in 2001 by filmmakers Jennifer Aniston, Brad Pitt, and Brad Grey. The company is known for producing critically acclaimed and commercially successful films and television shows, including the television series \"Friends\" and the film \"12 Years a Slave\". The company's productions have been nominated for numerous awards, including multiple Academy Awards and Primetime Emmy Awards. In addition to producing content, Plan B Entertainment also provides support for various philanthropic organizations, including the Make It Right Foundation and the J/P Haitian Relief Organization.",
+            "qae_pairs": [
+                {
+                    "question": "What year was Plan B Entertainment founded?",
+                    "answer": "2001",
+                    "explanation": "The company is known for producing critically acclaimed and commercially successful films and television shows, including the television series Friends and the film 12 Years a Slave."
+                },
+                {
+                    "question": "What is the total number of Academy Awards nominations received by Plan B Entertainment?",
+                    "answer": "Academy Awards",
+                    "explanation": "The company's productions have been nominated for numerous awards, including multiple Academy Awards and Primetime Emmy Awards. Explanation: The passage states that Plan B Entertainment's productions have been nominated for numerous awards, including multiple Academy Awards and Primetime Emmy Awards. This suggests that the company has received a significant number of nominations for these prestigious awards. However, the passage does not provide a specific number of Academy Awards nominations received by Plan B Entertainment."
+                },
+                {
+                    "question": "Example: Can you provide some background information on the founding of Plan B Entertainment?",
+                    "answer": "Jennifer Aniston",
+                    "explanation": "Plan B Entertainment is known for producing critically acclaimed and commercially successful films and television shows."
+                },
+                {
+                    "question": "What film produced by Plan B Entertainment won the Academy Award for Best Picture in 2014?",
+                    "answer": "12 Years",
+                    "explanation": "The company is known for producing critically acclaimed and commercially successful films and television shows, including the television series Friends and the film 12 Years a Slave."
+                }
+            ],
+            "hops": [
+                "Brad Pitt",
+                "Plan B Entertainment"
+            ]
+        },
+        "Fight Club": {
+            "term": "Fight Club",
+            "passage": "Fight Club is a 1996 novel by Chuck Palahniuk. It follows the experiences of an unnamed protagonist struggling with insomnia and his relationship with Tyler Durden, his projected alter ego. The narrator finds solace in attending underground fights and meets Marla Singer, a woman with similar interests. The novel explores themes of masculinity, consumerism, and anti-consumerism, as well as the concept of the unreliable narrator. The novel was adapted into a 1999 film of the same name directed by David Fincher and starring Brad Pitt and Edward Norton. The film was a commercial success and received critical acclaim for its direction, screenplay, and performances. It has since become a cult classic and is considered a landmark film in the fight genre. Fight Club has been the subject of controversy and debate since its release. Some critics have praised the novel for its commentary on modern society and the male psyche, while others have criticized it for promoting violence and misogyny. The novel has also been banned in some schools and libraries for its graphic content and themes. Despite the controversy, Fight Club has had a significant impact on popular culture. Its themes and imagery have been referenced in various forms of media, including music, art, and literature. The novel has also inspired a subculture of fight clubs and anti-consumerist movements.",
+            "qae_pairs": [
+                {
+                    "question": "What year was the Fight Club film released?",
+                    "answer": "1999",
+                    "explanation": "The novel was adapted into a 1999 film of the same name directed by David Fincher and starring Brad Pitt and Edward Norton."
+                },
+                {
+                    "question": "What is the year that Fight Club was published?",
+                    "answer": "1996",
+                    "explanation": "The novel explores themes of masculinity, consumerism, and anti-consumerism, as well as the concept of the unreliable narrator."
+                }
+            ],
+            "hops": [
+                "Brad Pitt",
+                "Fight Club"
+            ]
+        },
+        "Changeling": {
+            "term": "Changeling",
+            "passage": "Changeling is a creature in folklore and mythology that is said to replace a human child with a fairy, troll, or other supernatural entity. The term derives from the Old English word ceolcing, which means \"exchanging\" or \"substituting\". In some stories, the changeling is said to be the offspring of the supernatural entity, while in others it is said to be a stolen human child. The concept of the changeling has been found in many cultures around the world, including those of Europe, Asia, and Africa. In some cases, the changeling is said to be able to assume the shape of animals or inanimate objects. In other cases, the changeling is said to be unable to assume any form other than that of a human child. The concept of the changeling has been used in literature and film, including the 2007 film \"The Changeling\" and the 2011 film \"The Secret World of Arrietty\".",
+            "qae_pairs": [
+                {
+                    "question": "What is the origin of the concept of Changeling in Africa?",
+                    "answer": "Africa",
+                    "explanation": "The concept of the changeling has been found in many cultures around the world, including those of Europe, Asia, and Africa."
+                },
+                {
+                    "question": "1. What is the release year of the Disney film \"The Changeling\", which features a protagonist named Arrietty?",
+                    "answer": "2011",
+                    "explanation": "The concept of the changeling has been found in many cultures around the world, including those of Europe, Asia, and Africa."
+                },
+                {
+                    "question": "What year was the film \"The Changeling\" released, which features the supernatural entity of the same name?",
+                    "answer": "2007",
+                    "explanation": "In some stories, the changeling is said to be the offspring of the supernatural entity, while in others it is said to be a stolen human child."
+                }
+            ],
+            "hops": [
+                "Angelina Jolie",
+                "Changeling"
+            ]
+        }
+    }
+}

@@ -1,0 +1,811 @@
+{
+    "first_hops": {
+        "Abebe Bikila": {
+            "term": "Abebe Bikila",
+            "passage": "Abebe Bikila (born 26 March 1932) is a former Ethiopian long-distance runner. He is one of the most celebrated long distance runners in the history of athletics. He is a four-time winner of the Olympic marathon, and is one of only two men in history to win the Olympic marathon twice in a row, having accomplished this feat at the 1960 Rome and the 1964 Tokyo Games, and he is also the only man to win the Olympic marathon three times, having achieved this at the 1964 Tokyo and the 1968 Mexico City Games. Bikila was a member of the Ethiopian team that won the gold medal in the 10,000 m at the 1960 Rome Olympics, and also a member of the team that won the silver medal in the marathon at the 1964 Tokyo Olympics. He won the Boston Marathon in 1965, and set a course record of 2:15:16. Bikila was born in Bonga, a town in the Oromia Region in Ethiopia. He began his career as a steeplechase runner, but later switched to longer distance running. He was a three-time winner of the Rome-Berlin race, and was the first man to run a marathon in under 2 hours and 15 minutes. He also won the Paris Marathon in 1969. Bikila is the only man to win the Boston and the Boston Public Garden Marathons, having accomplished this in 1965.",
+            "qae_pairs": [
+                {
+                    "question": "Which year did Abebe Bikila win the Boston Marathon?",
+                    "answer": "1965",
+                    "explanation": "Abebe Bikila won the Boston Marathon in 1965."
+                },
+                {
+                    "question": "Which year did Abebe Bikila win the Olympic marathon for the first time?",
+                    "answer": "1960",
+                    "explanation": "Abebe Bikila won the Olympic marathon for the first time in 1960."
+                },
+                {
+                    "question": "Where was Abebe Bikila born?",
+                    "answer": "the Oromia Region",
+                    "explanation": "Bikila was born in Bonga, a town in the Oromia Region in Ethiopia."
+                },
+                {
+                    "question": "Which city hosted the Olympics in which Abebe Bikila won the marathon?",
+                    "answer": "Tokyo",
+                    "explanation": "Abebe Bikila won the marathon at the 1960 Rome Olympics and the 1964 Tokyo Olympics."
+                },
+                {
+                    "question": "Which marathon is Abebe Bikila the only man to win twice?",
+                    "answer": "the Boston Public Garden Marathons",
+                    "explanation": "Abebe Bikila is the only man to win the Boston and the Boston Public Garden Marathons, having accomplished this in 1965."
+                },
+                {
+                    "question": "What is the date of birth of the athlete who won the Boston Marathon in 1965?",
+                    "answer": "26 March 1932",
+                    "explanation": "Abebe Bikila was born on 26 March 1932."
+                },
+                {
+                    "question": "Which year did Abebe Bikila win the Olympic marathon for the second time?",
+                    "answer": "1964",
+                    "explanation": "Abebe Bikila won the Olympic marathon for the second time in 1964."
+                },
+                {
+                    "question": "Question: What is the name of the marathon Abebe Bikila won in 1965?",
+                    "answer": "the Boston Marathon",
+                    "explanation": "Abebe Bikila won the Boston Marathon in 1965."
+                },
+                {
+                    "question": "Which country is Abebe Bikila from?",
+                    "answer": "Ethiopia",
+                    "explanation": "Abebe Bikila was born in Bonga, a town in the Oromia Region in Ethiopia."
+                }
+            ],
+            "hops": [
+                "Abebe Bikila"
+            ]
+        },
+        "Bobby Moore": {
+            "term": "Bobby Moore",
+            "passage": "The following is a detailed passage about Bobby Moore from wikipedia:\n\nBobby Moore (born Robert Anthony Moore; 17 January 1946) is an English former footballer who played as a defender for West Ham United. He was the captain of the club and is widely regarded as one of the greatest defenders of all time. He was a member of the West Ham teams that won the 1966 and 1970 FA Cups. He played 442 times for West Ham in all competitions, and was named Hammer of the Year on two occasions. He was inducted into the English Football Hall of Fame in 2002, and was voted England's Footballer of the 20th Century by the public. Moore began his career at West Ham in 1963, and was a member of the team that won promotion to the First Division in 1966. He was a key member of the West Ham side which won two successive FA Cup finals in 1970 and 1974, captaining the team in both finals. He played for West Ham until 1976, and retired in 1978. Moore made his international debut for England in 1965. He went on to captain the team on 55 occasions, and played in three World Cups, in 1966, 1974 and 1978. He was named as the Footballer of the Year by the Football Writers' Association in 1971, and as England's Footballer of the 20th Century by the public in 1999.",
+            "qae_pairs": [
+                {
+                    "question": "Which year did Bobby Moore retire from football?",
+                    "answer": "1978",
+                    "explanation": "Bobby Moore retired from football in 1978."
+                },
+                {
+                    "question": "Which century did Bobby Moore play in?",
+                    "answer": "the 20th Century",
+                    "explanation": "Bobby Moore played for West Ham in the 20th Century."
+                },
+                {
+                    "question": "What was the name of the award given to Bobby Moore?",
+                    "answer": "the Footballer of the Year",
+                    "explanation": "Bobby Moore won the Footballer of the Year award in 1971."
+                },
+                {
+                    "question": "In what year was Bobby Moore inducted into the English Football Hall of Fame?",
+                    "answer": "2002",
+                    "explanation": "Bobby Moore was inducted into the English Football Hall of Fame in 2002."
+                },
+                {
+                    "question": "Which year did Bobby Moore win the Football Writers' Association Footballer of the Year?",
+                    "answer": "1971",
+                    "explanation": "Bobby Moore won the Football Writers' Association Footballer of the Year in 1971."
+                },
+                {
+                    "question": "What is the full name of the person who played for West Ham United?",
+                    "answer": "Robert Anthony Moore",
+                    "explanation": "Robert Anthony Moore"
+                },
+                {
+                    "question": "What is the date of birth of the person who played for West Ham United?",
+                    "answer": "17 January 1946",
+                    "explanation": "Bobby Moore was born on 17 January 1946."
+                },
+                {
+                    "question": "In what year did Bobby Moore play his first international match for England?",
+                    "answer": "1965",
+                    "explanation": "Bobby Moore played his first international match for England in 1965."
+                },
+                {
+                    "question": "What football club did Bobby Moore play for?",
+                    "answer": "West Ham United",
+                    "explanation": "Bobby Moore played for West Ham United."
+                },
+                {
+                    "question": "Which division did Bobby Moore play in?",
+                    "answer": "the First Division",
+                    "explanation": "Bobby Moore played for West Ham United in the First Division."
+                }
+            ],
+            "hops": [
+                "Bobby Moore"
+            ]
+        },
+        "Paavo Nurmi": {
+            "term": "Paavo Nurmi",
+            "passage": "Paavo Nurmi (2 May 1897 – 20 March 1973) was a Finnish runner who specialized in long-distance running, and was the most successful long-distance athlete of the early 20th century. He won nine Olympic medals, including six gold medals, and set world record in the 5 km, 10 km, and 20 km races. Nurmi was also an accomplished cross-country skier and a world-class gymnast. He won five cross-country skiing events at the 1920 and 1924 Winter Olympics, and was a member of the Finnish teams that won the team cross-country skiing event at the 1926 and 1932 Winter Olympics. He also competed in artistic gymnastics at the 1924 Summer Olympics. Nurmi was born in Kontiolahti, a small village in the municipality of Kauhajoki, in the Grand Duchy of Finland, then part of the Russian Empire. He was the second of four children of Matti and Hilja (née Kettunen) Nurmi. His father was a shoemaker and his mother was a farmer's daughter. His parents had eight children, of whom Nurmi was the second-oldest. Nurmi's talent for sports emerged early, and at age 12 he won a local 10 km cross-country skiing race. In 1913, he won his first long-distance running event, a 20 km race in Turku.",
+            "qae_pairs": [
+                {
+                    "question": "In what year did the Finnish runner Paavo Nurmi compete in artistic gymnastics?",
+                    "answer": "1924",
+                    "explanation": "Paavo Nurmi competed in artistic gymnastics at the 1924 Summer Olympics."
+                },
+                {
+                    "question": "Where is Paavo Nurmi from?",
+                    "answer": "Kontiolahti",
+                    "explanation": "Paavo Nurmi was born in Kontiolahti, a small village in the municipality of Kauhajoki, in the Grand Duchy of Finland, then part of the Russian Empire."
+                },
+                {
+                    "question": "Which year did Paavo Nurmi win his first long-distance running event?",
+                    "answer": "1913",
+                    "explanation": "Paavo Nurmi won his first long-distance running event in 1913."
+                },
+                {
+                    "question": "What is the date of birth of the person who won nine Olympic medals, including six gold medals?",
+                    "answer": "2 May 1897",
+                    "explanation": "Paavo Nurmi was born on 2 May 1897."
+                },
+                {
+                    "question": "What is the date of death of the person who won nine Olympic medals, including six gold medals?",
+                    "answer": "20 March 1973",
+                    "explanation": "Paavo Nurmi died on 20 March 1973."
+                },
+                {
+                    "question": "What year did Paavo Nurmi compete in the team cross-country skiing event?",
+                    "answer": "1926",
+                    "explanation": "Paavo Nurmi competed in the team cross-country skiing event at the 1926 Winter Olympics."
+                }
+            ],
+            "hops": [
+                "Paavo Nurmi"
+            ]
+        },
+        "Usain Bolt": {
+            "term": "Usain Bolt",
+            "passage": "Usain Bolt (born August 21, 1986) is a Jamaican sprinter. He is the current world record holder in the 100-meter, 200-meter, and 4×100-meter relay events. He is the most dominant athlete in the history of the sport, with a 100-meter time of 9.58 seconds and 200-meter time of 19.19 seconds, both of which were set at the 2009 World Championships in Athletics. He holds the world record in the 100-meter and 200-meter dash. He is the first man to have broken both world records in the same race. He is also the first man to win consecutive gold medals in the 100 and 200 meters at the Olympics. Bolt is widely considered to be one of the greatest track and field athletes ever.",
+            "qae_pairs": [
+                {
+                    "question": "What is the date of birth of the athlete who holds the world record in the 100-meter, 200-meter, and 4×100-meter relay events?",
+                    "answer": "August 21, 1986",
+                    "explanation": "Usain Bolt was born on August 21, 1986."
+                },
+                {
+                    "question": "Which year did Usain Bolt win the 100-meter dash?",
+                    "answer": "2009",
+                    "explanation": "Bolt won the 100-meter dash in 2009."
+                }
+            ],
+            "hops": [
+                "Usain Bolt"
+            ]
+        },
+        "Michael Phelps": {
+            "term": "Michael Phelps",
+            "passage": "Michael Phelps (born August 21, 1985) is an American former competitive swimmer who won a total of 22 medals (eight gold, eight silver, and seven bronze) in individual events at the Olympic Games between 2000 and 2016, as well as six medals (three gold, two silver, and one bronze) in relay events at the Olympic Games, and one medal (a gold) in the World Championships. Phelps is the most decorated Olympian of all time, and the most decorated male swimmer in the history of the Olympics. He is also the most decorated Olympic athlete of all time. Phelps was born in York, Pennsylvania. His father, Bob, is a former minor league baseball player and coach, and his mother, Debbie, is a former competitive swimmer and high school swimming coach. His maternal grandfather was Jewish, and his maternal great-grandfather was a Lithuanian Jew. Phelps was raised in Salisbury, Maryland. He began swimming at the age of four and took up the butterfly and backstroke at eight, and was a member of the Cal Ripken Collegiate Club. In 2001, Phelps won the 200- and 400-meter individual medley at both the Junior World Championships and the World Short Course Championships. He won the 200-meter individual medley at the 2004 Summer Olympics in the Olympic Games, and the 400-meter individual medley at the 2012 Summer Olympics.",
+            "qae_pairs": [
+                {
+                    "question": "What is the city where Michael Phelps was born?",
+                    "answer": "York",
+                    "explanation": "Michael Phelps was born in York, Pennsylvania."
+                },
+                {
+                    "question": "What is the name of the person who is the father of Michael Phelps?",
+                    "answer": "Bob",
+                    "explanation": "Michael Phelps was born in York, Pennsylvania. His father, Bob, is a former minor league baseball player and coach, and his mother, Debbie, is a former competitive swimmer and high school swimming coach. His maternal grandfather was Jewish, and his maternal great-grandfather was a Lithuanian Jew. Phelps was raised in Salisbury, Maryland. He began swimming at the age of four and took up the butterfly and backstroke at eight, and was a member of the Cal Ripken Collegiate Club."
+                },
+                {
+                    "question": "Which year did Michael Phelps win the 200-meter individual medley at the Olympic Games?",
+                    "answer": "2004",
+                    "explanation": "Michael Phelps won the 200-meter individual medley at the 2004 Summer Olympics."
+                },
+                {
+                    "question": "What year did Michael Phelps win the 400-meter individual medley?",
+                    "answer": "2012",
+                    "explanation": "Michael Phelps won the 400-meter individual medley at the 2012 Summer Olympics."
+                },
+                {
+                    "question": "Which year did Michael Phelps win the 200- and 400-meter individual medley at both the Junior World Championships and the World Short Course Championships?",
+                    "answer": "2001",
+                    "explanation": "Michael Phelps won the 200- and 400-meter individual medley at both the Junior World Championships and the World Short Course Championships in 2001."
+                },
+                {
+                    "question": "What is the date of birth of the person who won a total of 22 medals (eight gold, eight silver, and seven bronze) in individual events at the Olympic Games between 2000 and 2016, as well as six medals (three gold, two silver, and one bronze) in relay events at the Olympic Games, and",
+                    "answer": "August 21, 1985",
+                    "explanation": "Michael Phelps was born on August 21, 1985."
+                },
+                {
+                    "question": "What state is Michael Phelps from?",
+                    "answer": "Pennsylvania",
+                    "explanation": "Michael Phelps was born in York, Pennsylvania."
+                },
+                {
+                    "question": "Who is the mother of Michael Phelps?",
+                    "answer": "Debbie",
+                    "explanation": "Debbie Phelps"
+                }
+            ],
+            "hops": [
+                "Michael Phelps"
+            ]
+        },
+        "Shawn Crawford": {
+            "term": "Shawn Crawford",
+            "passage": "Shawn Crawford (born March 17, 1976) is an American singer, songwriter, and record producer. He is best known for his work with the R&B group Boyz II Men. Crawford was born in Detroit, Michigan, and raised in the Boston suburb of Waltham, Massachusetts. He began singing in church at the age of four. He attended Waltham High School and was a member of the school's jazz band. Crawford's first experience as a recording artist was in 1992, when he was featured on the song \"I'm Gonna Make You Love Me\" by the R&B group Men of Vizion. He later joined the group, and they released one album together, titled \"Men of Vizion\". Crawford's first solo album, \"Shawn Crawford\", was released in 1997. It featured the single \"When a Man Loves a Woman\", which reached number one on the Billboard Hot 100. The album also featured the singles \"Love Will Find a Way\" and \"I Don't Want to Be Your Friend\". Crawford's second album, \"Shawn Crawford 2: Unexpected\", was released in 1999. It featured the single \"I'm Not Missing You\", which reached number one on the Billboard Hot 100. The album also featured the singles \"I'm Not Missing You\" and \"It's Over Now\".",
+            "qae_pairs": [
+                {
+                    "question": "What is the date of birth for Shawn Crawford?",
+                    "answer": "March 17, 1976",
+                    "explanation": "Shawn Crawford was born on March 17, 1976."
+                },
+                {
+                    "question": "What year was the album Shawn Crawford 2: Unexpected released?",
+                    "answer": "1999",
+                    "explanation": "Shawn Crawford 2: Unexpected was released in 1999."
+                },
+                {
+                    "question": "What is the state Shawn Crawford was born in?",
+                    "answer": "Massachusetts",
+                    "explanation": "Shawn Crawford was born in Detroit, Michigan, and raised in the Boston suburb of Waltham, Massachusetts."
+                },
+                {
+                    "question": "What year was the album Shawn Crawford released?",
+                    "answer": "1997",
+                    "explanation": "Shawn Crawford released his first solo album, Shawn Crawford, in 1997."
+                },
+                {
+                    "question": "What is the name of the school Shawn Crawford attended?",
+                    "answer": "Waltham High School",
+                    "explanation": "Shawn Crawford was born in Detroit, Michigan, and raised in the Boston suburb of Waltham, Massachusetts. He attended Waltham High School."
+                },
+                {
+                    "question": "What is the city Shawn Crawford was born in?",
+                    "answer": "Detroit",
+                    "explanation": "Shawn Crawford was born in Detroit, Michigan."
+                },
+                {
+                    "question": "What is Shawn Crawford's first group?",
+                    "answer": "Men of Vizion",
+                    "explanation": "Shawn Crawford was a member of the R&B group Men of Vizion."
+                },
+                {
+                    "question": "What is the genre of the artist who sang \"When a Man Loves a Woman\"?",
+                    "answer": "R&B",
+                    "explanation": "Shawn Crawford is an American singer, songwriter, and record producer. He is best known for his work with the R&B group Boyz II Men."
+                }
+            ],
+            "hops": [
+                "Shawn Crawford"
+            ]
+        },
+        "Shawn Johnson": {
+            "term": "Shawn Johnson",
+            "passage": "Shawn Johnson (born August 19, 1990) is an American professional golfer who plays on the LPGA Tour. Johnson was the first overall selection in the 2011 LPGA Draft and won three events as a rookie.",
+            "qae_pairs": [
+                {
+                    "question": "Which year did the first overall selection in the LPGA Draft win three events?",
+                    "answer": "2011",
+                    "explanation": "Shawn Johnson was the first overall selection in the 2011 LPGA Draft and won three events as a rookie."
+                },
+                {
+                    "question": "What is the date of birth of the player who was the first overall selection in the 2011 LPGA Draft?",
+                    "answer": "August 19, 1990",
+                    "explanation": "Shawn Johnson was born on August 19, 1990."
+                }
+            ],
+            "hops": [
+                "Shawn Johnson"
+            ]
+        },
+        "Shawn Kemp": {
+            "term": "Shawn Kemp",
+            "passage": "Shawn Kemp (born March 26, 1968) is an American retired professional basketball player. He was a two-time NBA All-Star, and a three-time All-Star in Europe, and was selected to the NBA All-Rookie First Team in 1991–92. He is currently the assistant coach for the Seattle SuperSonics. Kemp attended the University of Kansas, where he led the Jayhawks to the 1988 NCAA Championship Game and was named the Most Outstanding Player of the Final Four. He is the only Kansas player to be named an All-American four times. Kemp was selected by the Seattle SuperSonics with the first overall pick in the 1991 NBA draft. He played for the Sonics for nine seasons, and was selected to three All-Star games. He played for the Vancouver/Memphis Grizzlies, the Cleveland Cavaliers, the Portland Trail Blazers, the Milwaukee Bucks, and the Orlando Magic before announcing his retirement from the NBA on February 20, 2004. Kemp is the only player in NBA history to record a quadruple double while playing in a regular season game. He is also one of two players in NBA history to have recorded at least 20 points, 10 rebounds, 10 assists, and 10 steals in a single game, and the only player to have done so on three separate occasions.",
+            "qae_pairs": [
+                {
+                    "question": "What date did Shawn Kemp announce his retirement from the NBA?",
+                    "answer": "February 20, 2004",
+                    "explanation": "Shawn Kemp announced his retirement from the NBA on February 20, 2004."
+                },
+                {
+                    "question": "Question: What team did Shawn Kemp play for?",
+                    "answer": "the Seattle SuperSonics",
+                    "explanation": "Shawn Kemp played for the Seattle SuperSonics."
+                },
+                {
+                    "question": "What is the date of birth of the player who played for the Seattle SuperSonics?",
+                    "answer": "March 26, 1968",
+                    "explanation": "Shawn Kemp was born on March 26, 1968."
+                },
+                {
+                    "question": "What is the year of the first overall pick in the Shawn Kemp draft?",
+                    "answer": "1991",
+                    "explanation": "Shawn Kemp was selected by the Seattle SuperSonics with the first overall pick in the 1991 NBA draft."
+                },
+                {
+                    "question": "Which year did Shawn Kemp play for the Kansas Jayhawks?",
+                    "answer": "1988",
+                    "explanation": "Shawn Kemp played for the Kansas Jayhawks in 1988."
+                },
+                {
+                    "question": "Question: What school did Shawn Kemp attend?",
+                    "answer": "the University of Kansas",
+                    "explanation": "Shawn Kemp attended the University of Kansas, where he led the Jayhawks to the 1988 NCAA Championship Game and was named the Most Outstanding Player of the Final Four."
+                }
+            ],
+            "hops": [
+                "Shawn Kemp"
+            ]
+        },
+        "Shawn Marion": {
+            "term": "Shawn Marion",
+            "passage": "Shawn Marion (born March 17, 1979) is a retired American professional basketball player who last played for the Dallas Mavericks. He is a 6' 7\" (2.00 m) tall power forward-center. He played one year of college basketball for the University of Arizona before being selected 24th overall by the Phoenix Suns in the 2001 NBA draft. Marion was a member of the 2004 NBA Champion Detroit Pistons, and won a championship with the San Antonio Spurs in 2007. He was named to the NBA All-Defensive Second Team in 2010, and earned an All-Star berth in 2012. He is also known for his defensive prowess, earning the nickname \"The Eraser\", and for his ability to block shots.",
+            "qae_pairs": [
+                {
+                    "question": "How many feet tall is Shawn Marion?",
+                    "answer": "6' 7",
+                    "explanation": "Shawn Marion is 6' 7 (2.00 m) tall."
+                },
+                {
+                    "question": "In what year did Shawn Marion win the All-Star game?",
+                    "answer": "2012",
+                    "explanation": "Shawn Marion won the All-Star game in 2012."
+                },
+                {
+                    "question": "What year did Shawn Marion win the NBA All-Defensive Second Team?",
+                    "answer": "2010",
+                    "explanation": "Shawn Marion won the NBA All-Defensive Second Team in 2010."
+                },
+                {
+                    "question": "Which year did Shawn Marion win a championship?",
+                    "answer": "2007",
+                    "explanation": "Shawn Marion won a championship with the San Antonio Spurs in 2007."
+                },
+                {
+                    "question": "Which college did Shawn Marion play for?",
+                    "answer": "the University of Arizona",
+                    "explanation": "Shawn Marion played one year of college basketball for the University of Arizona before being selected 24th overall by the Phoenix Suns in the 2001 NBA draft."
+                },
+                {
+                    "question": "What is the date of birth of the player who played for the Phoenix Suns?",
+                    "answer": "March 17, 1979",
+                    "explanation": "Shawn Marion was born on March 17, 1979."
+                }
+            ],
+            "hops": [
+                "Shawn Marion"
+            ]
+        },
+        "Shawn Mullins": {
+            "term": "Shawn Mullins",
+            "passage": "Shawn Mullins (born March 17, 1976) is an American singer-songwriter and musician. He is best known for his work with the band Nickel Creek, which he co-founded with his brother and sister-in-law, Sean and Sara Watkins.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the band Shawn Mullins is a member of?",
+                    "answer": "Nickel Creek",
+                    "explanation": "Shawn Mullins is a member of Nickel Creek, a band that he co-founded with his brother and sister-in-law, Sean and Sara Watkins."
+                },
+                {
+                    "question": "What is the birthdate of the singer who was in the band Nickel Creek?",
+                    "answer": "March 17, 1976",
+                    "explanation": "Shawn Mullins was born on March 17, 1976."
+                }
+            ],
+            "hops": [
+                "Shawn Mullins"
+            ]
+        }
+    },
+    "second_hops": {
+        "the Oromia Region": {
+            "term": "the Oromia Region",
+            "passage": "Oromia Region or Oromo people is a region in Southern Ethiopia. Located in the Horn of Africa, it is the largest of the nine regions of Ethiopia. It was formed in May 2018 from a merger of two former regions: Oromia and Southern Nations, Nationalities, and People's Region.",
+            "qae_pairs": [
+                {
+                    "question": "Which of the following is not an entity that is part of the Oromia Region?\n",
+                    "answer": "Southern Nations",
+                    "explanation": "Southern Nations, Nationalities, and People's Region is not part of the Oromia Region."
+                },
+                {
+                    "question": "What is the largest former region of Oromia that merged to form the Oromia Region?\n",
+                    "answer": "People's Region",
+                    "explanation": "The largest former region of Oromia that merged to form the Oromia Region is Southern Nations, Nationalities, and People's Region."
+                },
+                {
+                    "question": "What year was the Oromia Region formed?",
+                    "answer": "May 2018",
+                    "explanation": "The Oromia Region was formed in May 2018 from a merger of two former regions: Oromia and Southern Nations, Nationalities, and People's Region."
+                }
+            ],
+            "hops": [
+                "Abebe Bikila",
+                "the Oromia Region"
+            ]
+        },
+        "the Boston Public Garden Marathons": {
+            "term": "the Boston Public Garden Marathons",
+            "passage": "Boston Public Garden Marathons (BPT) is an annual 5K road race held in the Boston Public Garden in Boston, Massachusetts, United States. It is the largest annual race in New England, with over 20,000 runners in 2016. It is also the largest annual road race in the state of Massachusetts.",
+            "qae_pairs": [
+                {
+                    "question": "How many years after the first Boston Marathon did the Boston Public Garden Marathons start?",
+                    "answer": "2016",
+                    "explanation": "The Boston Public Garden Marathons started in 2016, the year after the first Boston Marathon."
+                }
+            ],
+            "hops": [
+                "Abebe Bikila",
+                "the Boston Public Garden Marathons"
+            ]
+        },
+        "the Boston Marathon": {
+            "term": "the Boston Marathon",
+            "passage": "The Boston Marathon is the world’s oldest annual marathon. It was first run on April 19, 1897, and was held annually until 1983. Since then, it has been run annually except for 2018 and 2019, when it was cancelled due to bomb scares and inclement weather, respectively. The marathon is held on Patriots’ Day, the third Monday of April, and attracts over 50,000 runners and hundreds of thousands of spectators.",
+            "qae_pairs": [
+                {
+                    "question": "How many years did the Boston Marathon not take place?",
+                    "answer": "2019",
+                    "explanation": "The Boston Marathon was cancelled in 2018 and 2019 due to bomb scares and inclement weather, respectively."
+                },
+                {
+                    "question": "How many days apart are the Boston Marathon and the New York Marathon?",
+                    "answer": "the third Monday of April",
+                    "explanation": "The Boston Marathon is the world’s oldest annual marathon. It was first run on April 19, 1897, and was held annually until 1983. Since then, it has been run annually except for 2018 and 2019, when it was cancelled due to bomb scares and inclement weather, respectively. The marathon is held on Patriots’ Day, the third Monday of April, and attracts over 50,000 runners and hundreds of thousands of spectators. Question: How many days apart are the Boston Marathon and the New York Marathon? Answer: the third Monday of April"
+                },
+                {
+                    "question": "How many years after the first Boston Marathon was the first woman to win it?",
+                    "answer": "April 19, 1897",
+                    "explanation": "The first Boston Marathon was held on April 19, 1897. The first woman to win the Boston Marathon was Kathrine Switzer in 1967. The Boston Marathon was not held in 2018 or 2019 due to bomb scares and inclement weather, respectively. Therefore, the answer (arabic numerals) is 67."
+                },
+                {
+                    "question": "How many years did the Boston Marathon not take place in?",
+                    "answer": "2018",
+                    "explanation": "The Boston Marathon was cancelled in 2018 and 2019 due to bomb scares and inclement weather, respectively."
+                }
+            ],
+            "hops": [
+                "Abebe Bikila",
+                "the Boston Marathon"
+            ]
+        },
+        "Ethiopia": {
+            "term": "Ethiopia",
+            "passage": "Ethiopia (i/ˌɛfˈriːθiə/; Arabic: عوبيتي‎ ‎ (ʔʊbwˈitī); Amharic: አቡባኤልት (ʔɐ̃wˈtʃiːnɛ)) is a country located in the Horn of Africa, bordered by Eritrea to the north, Sudan to the south, Kenya to the west, and Djibouti and Somalia to the east. It is the second-most populous landlocked country after Kazakhstan, and has the 19th largest economy by nominal GDP and the 38th largest economy by PPP in the world. Ethiopia is the oldest independent nation in Africa. It became a kingdom in the fourth century and thereafter a powerful empire, controlling much of the African continent. It was the only African country to have a continuous empire from 3000 BC until 1100 AD. The Ethiopian Empire was the first in history to have a written script, the Ge'ez script, and its church, the Ethiopian Orthodox Tewahedo Church, is the oldest Christian Church in Africa. Ethiopia is the homeland of the Solomonic dynasty and the Axumite Empire, as well as the birthplace of the Zagwe dynasty.",
+            "qae_pairs": [
+                {
+                    "question": "What empire was the birthplace of the Ethiopian Empire?\n",
+                    "answer": "the Axumite Empire",
+                    "explanation": "the Axumite Empire"
+                },
+                {
+                    "question": "What is the date of the Ethiopian Empire?",
+                    "answer": "1100 AD",
+                    "explanation": "The Ethiopian Empire was the first in history to have a written script, the Ge'ez script, and its church, the Ethiopian Orthodox Tewahedo Church, is the oldest Christian Church in Africa."
+                },
+                {
+                    "question": "What is the name of the dynasty that ruled Ethiopia from the 12th century to 1974?",
+                    "answer": "the Solomonic dynasty",
+                    "explanation": "The Solomonic dynasty ruled Ethiopia from the 12th century to 1974."
+                },
+                {
+                    "question": "Which religion was founded in Ethiopia?\n",
+                    "answer": "Tewahedo Church",
+                    "explanation": "The Ethiopian Orthodox Tewahedo Church, the oldest Christian Church in Africa."
+                }
+            ],
+            "hops": [
+                "Abebe Bikila",
+                "Ethiopia"
+            ]
+        },
+        "the Footballer of the Year": {
+            "term": "the Footballer of the Year",
+            "passage": "The Footballer of the Year Award is an annual association football award given to the best player in England as voted by the members of the English National Game Players Association (ENGPA). It is currently sponsored by JD Wetherspoon. It has previously been sponsored by JD Wetherspoon, Nike and Virgin Media. The award was first presented in 1992, when it was sponsored by JD Wetherspoon and named the JD Wetherspoon's Footballer of the Year.",
+            "qae_pairs": [
+                {
+                    "question": "Which year was the Footballer of the Year Award first presented?",
+                    "answer": "1992",
+                    "explanation": "The Footballer of the Year Award was first presented in 1992, when it was sponsored by JD Wetherspoon and named the JD Wetherspoon's Footballer of the Year."
+                },
+                {
+                    "question": "Which company sponsors the Footballer of the Year Award?",
+                    "answer": "JD Wetherspoon",
+                    "explanation": "The Footballer of the Year Award is currently sponsored by JD Wetherspoon."
+                }
+            ],
+            "hops": [
+                "Bobby Moore",
+                "the Footballer of the Year"
+            ]
+        },
+        "Robert Anthony Moore": {
+            "term": "Robert Anthony Moore",
+            "passage": "Robert Anthony Moore (January 19, 1932 – July 22, 2012) was an American actor. He appeared in more than 100 films and television shows during his career. He is best known for his roles as the father on \"The Brady Bunch\" (1969–1974) and \"The Brady Brides\" (1981–1982), the title role of \"The Adventures of Captain Marvel\" (1966–1971), as the voice of Baloo in Disney's animated feature \"The Jungle Book\" (1994), and his role as the voice of the Genie in Disney's Aladdin (1992).",
+            "qae_pairs": [
+                {
+                    "question": "Which of the following is true about Robert Anthony Moore's date of death?\n",
+                    "answer": "July 22, 2012",
+                    "explanation": "Robert Anthony Moore died on July 22, 2012."
+                },
+                {
+                    "question": "What is the name of the character that Robert Anthony Moore played in Aladdin?",
+                    "answer": "Genie",
+                    "explanation": "Robert Anthony Moore played the Genie in Disney's Aladdin."
+                }
+            ],
+            "hops": [
+                "Bobby Moore",
+                "Robert Anthony Moore"
+            ]
+        },
+        "West Ham United": {
+            "term": "West Ham United",
+            "passage": "The club's nickname, the Irons, is derived from the colour of their kit; their traditional crest is a gold-coloured heraldic shield with a football in the middle, and the club's nickname is written within a crest of a crown and a sword. The nickname the Irons was first used in the mid-19th century. The club's nickname was formerly the \"Hammers\", but was changed to \"The Irons\" in the 1970s.",
+            "qae_pairs": [
+                {
+                    "question": "When did West Ham United change their nickname to the Irons?\n",
+                    "answer": "the 1970s",
+                    "explanation": "The club's nickname, the Irons, is derived from the colour of their kit; their traditional crest is a gold-coloured heraldic shield with a football in the middle, and the club's nickname is written within a crest of a crown and a sword. The nickname the Irons was first used in the mid-19th century. The club's nickname was formerly the Hammers, but was changed to The Irons in the 1970s."
+                },
+                {
+                    "question": "Which of the following is true of West Ham United?",
+                    "answer": "Irons",
+                    "explanation": "The club's nickname, the Irons, is derived from the colour of their kit; their traditional crest is a gold-coloured heraldic shield with a football in the middle, and the club's nickname is written within a crest of a crown and a sword."
+                }
+            ],
+            "hops": [
+                "Bobby Moore",
+                "West Ham United"
+            ]
+        },
+        "York": {
+            "term": "York",
+            "passage": "York (UK: /ˈjɔːk/; US: /ˈdʒɔːk/), officially the City of York, is the largest and most populated city in the North Island of the British overseas territory of England (the other two main islands are the Isle of Wight and the Anglesey). It lies on the River Ouse and its tributary, the River Foss, in the historic East Riding of Yorkshire, England. The city has a population of over 650,000, with over one million in the metropolitan area. The metropolitan area is the second largest in the United Kingdom (after London), the fifth in the European Union (after Berlin, Madrid, London, and Rome), and the seventh in the world.",
+            "qae_pairs": [
+                {
+                    "question": "Which of the following is/are the correct answer(s) to the following question: What country is York located in?\n",
+                    "answer": "the United Kingdom",
+                    "explanation": "York is located in the United Kingdom."
+                },
+                {
+                    "question": "Which city is larger, London or York?\n",
+                    "answer": "London",
+                    "explanation": "London"
+                },
+                {
+                    "question": "Which city in the world has a larger population than York?",
+                    "answer": "Berlin",
+                    "explanation": "The population of Berlin is larger than that of York."
+                },
+                {
+                    "question": "What is the name of the river that flows through York, England?",
+                    "answer": "the River Ouse",
+                    "explanation": "York, England is located on the River Ouse."
+                }
+            ],
+            "hops": [
+                "Michael Phelps",
+                "York"
+            ]
+        },
+        "Bob": {
+            "term": "Bob",
+            "passage": "Robert \"Bob\" Gillespie (born March 19, 1955) is a Canadian retired professional ice hockey player who played in the World Hockey Association (WHA). Drafted in the first round, fifth overall, by the Edmonton Oilers in the 1975 WHA General Player Draft, Gillespie played parts of three seasons with the Oilers, and also played for the Indianapolis Racers and Birmingham Bulls.",
+            "qae_pairs": [
+                {
+                    "question": "Which year was Bob Gillespie born?",
+                    "answer": "1975",
+                    "explanation": "Bob Gillespie was born in 1955."
+                },
+                {
+                    "question": "Which league did Bob Gillespie play for?",
+                    "answer": "WHA",
+                    "explanation": "Bob Gillespie played for the Edmonton Oilers in the World Hockey Association (WHA)."
+                },
+                {
+                    "question": "Which team did Bob Gillespie play for?",
+                    "answer": "Birmingham Bulls",
+                    "explanation": "Bob Gillespie played for the Birmingham Bulls."
+                },
+                {
+                    "question": "What is the name of the team that drafted Bob Gillespie?",
+                    "answer": "the Edmonton Oilers",
+                    "explanation": "Bob Gillespie was drafted fifth overall by the Edmonton Oilers in the 1975 WHA General Player Draft. He played parts of three seasons with the Oilers, and also played for the Indianapolis Racers and Birmingham Bulls."
+                },
+                {
+                    "question": "What date is Bob's birthday?\n",
+                    "answer": "March 19, 1955",
+                    "explanation": "Robert Gillespie was born on March 19, 1955."
+                }
+            ],
+            "hops": [
+                "Michael Phelps",
+                "Bob"
+            ]
+        },
+        "Pennsylvania": {
+            "term": "Pennsylvania",
+            "passage": "Pennsylvania (Pennsylvania German: [ˈpɛnˌtɔːlɐˌwɪd͡ʒə]; Pennsylvania Dutch: [ˈpɛnˌtɔːlɐ ˈduːʒə]; Pennsylvania-German: [ˈpɛnˌtɔːlɐ ˈduːʒə]; Lenape: [ˈlɛnˌpɛː]) is the second-most populous and the fifth-most extensive U.S. state. Located in the Mid-Atlantic and Great Appalachian regions, Pennsylvania is the 33rd largest and the 9th most densely populated of the 50 United States. The state is bordered by New York to the north, New Jersey and Delaware to the southeast, Maryland to the south, and Ohio and West Virginia to the southwest. The Appalachian Mountains run through the state, creating numerous scenic valleys, lowlands, and peaks. The state has a maritime and inland delta along the coast of the Atlantic Ocean, a wide valley known as the Great Appalachian Valley, and the vast Allegheny Plateau.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the plateau that is located in Pennsylvania?",
+                    "answer": "Allegheny Plateau",
+                    "explanation": "The Allegheny Plateau is a plateau that is located in Pennsylvania."
+                },
+                {
+                    "question": "Which state is located to the west of Pennsylvania?",
+                    "answer": "West Virginia",
+                    "explanation": "West Virginia is located to the west of Pennsylvania."
+                },
+                {
+                    "question": "How many states border Pennsylvania to the north?",
+                    "answer": "Delaware",
+                    "explanation": "Pennsylvania is bordered by New York to the north, New Jersey and Delaware to the southeast, Maryland to the south, and Ohio and West Virginia to the southwest."
+                },
+                {
+                    "question": "Which of the following is true about the state of Ohio: Ohio is bordered by New York to the north, New Jersey and Delaware to the southeast, Maryland to the south, and Pennsylvania and West Virginia to the southwest.\n",
+                    "answer": "Ohio",
+                    "explanation": "Ohio is bordered by New York to the north, New Jersey and Delaware to the southeast, Maryland to the south, and Pennsylvania and West Virginia to the southwest."
+                }
+            ],
+            "hops": [
+                "Michael Phelps",
+                "Pennsylvania"
+            ]
+        },
+        "Debbie": {
+            "term": "Debbie",
+            "passage": "Debbie Reynolds (born December 25, 1932) is an American actress, singer and dancer. Reynolds has received an Academy Honorary Award and a BAFTA Award, and is a two-time recipient of the Grammy Award for Best Spoken Word Album for Children. She is the mother of actresses Carrie Fisher and Billie Lourd, as well as the grandmother of actress/musician Harper Avery.",
+            "qae_pairs": [
+                {
+                    "question": "How old was Debbie Reynolds when she was born?",
+                    "answer": "December 25, 1932",
+                    "explanation": "Debbie Reynolds was born on December 25, 1932."
+                },
+                {
+                    "question": "What is Debbie's award?",
+                    "answer": "the Grammy Award",
+                    "explanation": "Debbie Reynolds has received an Academy Honorary Award and a BAFTA Award, and is a two-time recipient of the Grammy Award for Best Spoken Word Album for Children."
+                }
+            ],
+            "hops": [
+                "Michael Phelps",
+                "Debbie"
+            ]
+        },
+        "Massachusetts": {
+            "term": "Massachusetts",
+            "passage": "The Massachusetts state legislature is the state legislature of the Commonwealth of Massachusetts in the United States. It is a bicameral body, with a lower house (the House of Representatives) and an upper house (the Senate). The House of Representatives consists of 150 members, elected to two-year terms, and the Senate has 40 members, elected to four-year terms. The Massachusetts state government is based in Boston. The Massachusetts state legislature is one of the few state governments in the United States that meets in a building designed for that purpose.",
+            "qae_pairs": [
+                {
+                    "question": "What is the capital of Massachusetts?",
+                    "answer": "Boston",
+                    "explanation": "The Massachusetts state legislature is based in Boston."
+                },
+                {
+                    "question": "How many years are the terms of the Massachusetts state legislature?",
+                    "answer": "two-year",
+                    "explanation": "The Massachusetts state legislature is the state legislature of the Commonwealth of Massachusetts in the United States. It is a bicameral body, with a lower house (the House of Representatives) and an upper house (the Senate). The House of Representatives consists of 150 members, elected to two-year terms, and the Senate has 40 members, elected to four-year terms. The Massachusetts state government is based in Boston. The Massachusetts state legislature is one of the few state governments in the United States that meets in a building designed for that purpose."
+                },
+                {
+                    "question": "How many members are in the Massachusetts state legislature?",
+                    "answer": "the House of Representatives",
+                    "explanation": "The Massachusetts state legislature is the state legislature of the Commonwealth of Massachusetts in the United States. It is a bicameral body, with a lower house (the House of Representatives) and an upper house (the Senate). The House of Representatives consists of 150 members, elected to two-year terms, and the Senate has 40 members, elected to four-year terms."
+                }
+            ],
+            "hops": [
+                "Shawn Crawford",
+                "Massachusetts"
+            ]
+        },
+        "Men of Vizion": {
+            "term": "Men of Vizion",
+            "passage": "Men of Vizion is a science fiction novel by American writer Robert Silverberg. It was published in 1980 by Gnome Press in an edition of 3,000 copies, of which 300 were hand-numbered and signed by the author. The novel is a fix-up of three previously published stories: \"The Men of Vizion\" (Analog, March 1977), \"The Men of Vizion II\" (Analog, January 1978), and \"The Men of Vizion III\" (Analog, June 1978).",
+            "qae_pairs": [
+                {
+                    "question": "Which year was the novel Men of Vizion published?",
+                    "answer": "1980",
+                    "explanation": "Men of Vizion is a science fiction novel by American writer Robert Silverberg. It was published in 1980 by Gnome Press in an edition of 3,000 copies, of which 300 were hand-numbered and signed by the author. The novel is a fix-up of three previously published stories: The Men of Vizion (Analog, March 1977), The Men of Vizion II (Analog, January 1978), and The Men of Vizion III (Analog, June 1978)."
+                },
+                {
+                    "question": "What is the name of the magazine that published the story \"The Men of Vizion\"?",
+                    "answer": "Analog",
+                    "explanation": "The Men of Vizion is a science fiction novel by American writer Robert Silverberg. It was published in 1980 by Gnome Press in an edition of 3,000 copies, of which 300 were hand-numbered and signed by the author. The novel is a fix-up of three previously published stories: The Men of Vizion (Analog, March 1977), The Men of Vizion II (Analog, January 1978), and The Men of Vizion III (Analog, June 1978)."
+                },
+                {
+                    "question": "What is the publisher of Men of Vizion?",
+                    "answer": "Gnome Press",
+                    "explanation": "Men of Vizion is a science fiction novel by American writer Robert Silverberg. It was published in 1980 by Gnome Press in an edition of 3,000 copies, of which 300 were hand-numbered and signed by the author. The novel is a fix-up of three previously published stories: The Men of Vizion (Analog, March 1977), The Men of Vizion II (Analog, January 1978), and The Men of Vizion III (Analog, June 1978)."
+                }
+            ],
+            "hops": [
+                "Shawn Crawford",
+                "Men of Vizion"
+            ]
+        },
+        "R&B": {
+            "term": "R&B",
+            "passage": "Rhythm and blues (R&B), also known simply as blues, is a genre of African-American popular music that originated in the 1940s. It combines elements of blues, gospel music, and jazz. R&B is noted for its use of vocal harmonies, piano, organ, guitar, electric bass, drums and percussion, as well as a horn section (trumpet, saxophone, and trombone). The style often features a strong back beat of the drums and bass.",
+            "qae_pairs": [
+                {
+                    "question": "Question: What year did R&B originate?",
+                    "answer": "the 1940s",
+                    "explanation": "R&B originated in the 1940s."
+                }
+            ],
+            "hops": [
+                "Shawn Crawford",
+                "R&B"
+            ]
+        },
+        "the Seattle SuperSonics": {
+            "term": "the Seattle SuperSonics",
+            "passage": "The Seattle SuperSonics are an American professional basketball team based in Seattle. The Sonics compete in the National Basketball Association (NBA), as a member club of the league's Northwest Division. The team was founded as an expansion team in 1967 as the Seattle SuperSonics, and played in Seattle until 2008, when the ownership relocated the team to Oklahoma City, Oklahoma.",
+            "qae_pairs": [
+                {
+                    "question": "How many more years did the Seattle SuperSonics play in Oklahoma City after 2008?\n",
+                    "answer": "2008",
+                    "explanation": "The Sonics played in Oklahoma City until 2008, when the ownership relocated the team to Oklahoma City."
+                }
+            ],
+            "hops": [
+                "Shawn Kemp",
+                "the Seattle SuperSonics"
+            ]
+        },
+        "the University of Arizona": {
+            "term": "the University of Arizona",
+            "passage": "The University of Arizona (U of A or Arizona) is a public research university with its main campus in Tucson, Arizona and branch campuses in Yuma and Sierra Vista. It is the state's largest university and the largest land-grant university in the U.S. state of Arizona. The University of Arizona is a member of the A.",
+            "qae_pairs": [
+                {
+                    "question": "What is the largest branch campus of the University of Arizona?",
+                    "answer": "Sierra Vista",
+                    "explanation": "The University of Arizona has three branch campuses: Tucson, Yuma, and Sierra Vista."
+                },
+                {
+                    "question": "Which of the following is true about the University of Arizona?",
+                    "answer": "Yuma",
+                    "explanation": "The University of Arizona is a public research university with its main campus in Tucson, Arizona and branch campuses in Yuma and Sierra Vista."
+                },
+                {
+                    "question": "What is the location of the University of Arizona?",
+                    "answer": "Tucson",
+                    "explanation": "The University of Arizona is located in Tucson, Arizona."
+                }
+            ],
+            "hops": [
+                "Shawn Marion",
+                "the University of Arizona"
+            ]
+        },
+        "Nickel Creek": {
+            "term": "Nickel Creek",
+            "passage": "Nickel Creek is an American alternative country band formed in 1989 in Raleigh, North Carolina. The band consists of Sara Watkins (lead vocals, guitar), Sean Watkins (guitar, vocals), Chris Eldridge (guitar, vocals), Paul Kowert (bass), and Daniel Tashian (drums).",
+            "qae_pairs": [
+                {
+                    "question": "Which city is Nickel Creek from?",
+                    "answer": "Raleigh",
+                    "explanation": "Nickel Creek is an American alternative country band formed in Raleigh, North Carolina."
+                },
+                {
+                    "question": "How many years has Paul Kowert been in the band Nickel Creek?\n",
+                    "answer": "Paul Kowert",
+                    "explanation": "Paul Kowert has been in the band Nickel Creek since 1989."
+                },
+                {
+                    "question": "How many years ago was the first album released by Nickel Creek?\n",
+                    "answer": "1989",
+                    "explanation": "Nickel Creek is an American alternative country band formed in 1989 in Raleigh, North Carolina."
+                },
+                {
+                    "question": "Which state is the band Nickel Creek from?",
+                    "answer": "North Carolina",
+                    "explanation": "Nickel Creek is an American alternative country band formed in 1989 in Raleigh, North Carolina."
+                },
+                {
+                    "question": "What is the name of the lead singer of Nickel Creek?",
+                    "answer": "Sara Watkins",
+                    "explanation": "Sara Watkins is the lead singer of Nickel Creek."
+                },
+                {
+                    "question": "Which of the following people plays the drums in the American alternative country band, Nickel Creek?\n",
+                    "answer": "Daniel Tashian",
+                    "explanation": "Daniel Tashian"
+                }
+            ],
+            "hops": [
+                "Shawn Mullins",
+                "Nickel Creek"
+            ]
+        }
+    }
+}

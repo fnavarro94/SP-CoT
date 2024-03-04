@@ -1,0 +1,1046 @@
+{
+    "first_hops": {
+        "Los Angeles Lakers": {
+            "term": "Los Angeles Lakers",
+            "passage": "Los Angeles Lakers is a professional basketball team based in Los Angeles, California. The Lakers compete in the National Basketball Association (NBA), as a member of the league's Western Conference in the Pacific Division. The Lakers play their home games at the Staples Center, which they share with their local rival, the Los Angeles Clippers, and the Los Angeles Kings of the National Hockey League (NHL). The Lakers are one of the most successful teams in NBA history, with 16 championships, and have an extensive history of great players, including Kobe Bryant, Shaquille O'Neal, Magic Johnson, Kareem Abdul-Jabbar, and Wilt Chamberlain. The Lakers have a strong and passionate fan base, with supporters coming from all over the world. The team's colors are purple and gold, and its mascot is a lion named \"Lucky\". The Lakers have a long-standing rivalry with the Boston Celtics, with the two teams having met in the NBA Finals a record 12 times. The Lakers have a storied history of success, including numerous championships and some of the greatest players in NBA history.",
+            "qae_pairs": [
+                {
+                    "question": "What is the National Hockey League?",
+                    "answer": "NHL",
+                    "explanation": "The Lakers compete in the National Basketball Association (NBA), as a member of the league's Western Conference in the Pacific Division."
+                },
+                {
+                    "question": "Who are the greatest players in NBA history?",
+                    "answer": "Wilt Chamberlain",
+                    "explanation": "The Lakers have a long-standing rivalry with the Boston Celtics, with the two teams having met in the NBA Finals a record 12 times."
+                },
+                {
+                    "question": "What is the name of the professional basketball league that the Los Angeles Lakers compete in?",
+                    "answer": "the National Basketball Association",
+                    "explanation": "The Lakers compete in the National Basketball Association (NBA), as a member of the league's Western Conference in the Pacific Division."
+                },
+                {
+                    "question": "Which division does the Los Angeles Lakers play in?",
+                    "answer": "the Pacific Division",
+                    "explanation": "The Lakers compete in the National Basketball Association (NBA), as a member of the league's Western Conference in the Pacific Division."
+                },
+                {
+                    "question": "What is the name of the National Hockey League (NHL) team that shares the Staples Center with the Los Angeles Lakers?",
+                    "answer": "the Los Angeles Kings",
+                    "explanation": "The Lakers compete in the National Basketball Association (NBA), as a member of the league's Western Conference in the Pacific Division. Evidence sentence: The Los Angeles Lakers compete in the National Basketball Association (NBA) as a member of the league's Western Conference in the Pacific Division."
+                },
+                {
+                    "question": "What is the name of the championship series in the NBA?",
+                    "answer": "the NBA Finals",
+                    "explanation": "The Lakers have a long-standing rivalry with the Boston Celtics, with the two teams having met in the NBA Finals a record 12 times."
+                },
+                {
+                    "question": "\"What state is home to the Los Angeles Lakers?\"",
+                    "answer": "California",
+                    "explanation": "The Lakers play their home games at the Staples Center, which they share with their local rival, the Los Angeles Clippers, and the Los Angeles Kings of the National Hockey League (NHL). This sentence provides evidence that the Los Angeles Lakers are based in California, as it states that the team plays their home games at the Staples Center, which is located in Los Angeles, California."
+                },
+                {
+                    "question": "What is the name of the other professional basketball team that the Los Angeles Lakers share the Staples Center with?",
+                    "answer": "the Los Angeles Clippers",
+                    "explanation": "The Lakers are one of the most successful teams in NBA history, with 16 championships, and have an extensive history of great players, including Kobe Bryant, Shaquille O'Neal, Magic Johnson, Kareem Abdul-Jabbar, and Wilt Chamberlain."
+                }
+            ],
+            "hops": [
+                "Los Angeles Lakers"
+            ]
+        },
+        "Manchester United": {
+            "term": "Manchester United",
+            "passage": "Manchester United Football Club is a professional football club based in Old Trafford, Greater Manchester, England, that competes in the Premier League, the top flight of English football. Nicknamed the Red Devils, the club was founded as Newton Heath LYR Football Club in 1878, changed its name to Manchester United in 1902 and moved to its current stadium in 1910. Manchester United has won a record 20 league titles, 12 FA Cups, 5 League Cups and a record 3 UEFA Champions League titles. The club has a long-standing rivalry with Liverpool, and has a large following of fans worldwide. The club's home colours are a red shirt with a white trim, white shorts and red socks. The club's badge features the club's name inside the traditional roundel, which is a stylised representation of the city of Manchester's coat of arms, which features a ship on its river, representing the Manchester Ship Canal. Manchester United is one of the most valuable sports teams in the world, worth an estimated $3.69 billion, and is ranked as the world's most valuable football brand by Forbes. The club's revenue in 2020-21 was £628.3 million, the highest in the world, and the club has a large global following, with over 659 million fans worldwide. The club has a long history of successful players, including George Best, Denis Law, Bobby Charlton, Ryan Giggs, David Beckham, and Wayne Rooney. The current manager is Ole Gunnar Solskjær, who took over from José Mourinho in December 2018.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the most prestigious club football competition in Europe, featuring the top teams from each country's domestic league?",
+                    "answer": "UEFA Champions League",
+                    "explanation": "Manchester United has won a record 20 league titles, 12 FA Cups, 5 League Cups and a record 3 UEFA Champions League titles."
+                },
+                {
+                    "question": "'What is the name of the region where Manchester United Football Club is based?'",
+                    "answer": "Greater Manchester",
+                    "explanation": "Manchester United Football Club is a professional football club based in Old Trafford, Greater Manchester, England, that competes in the Premier League, the top flight of English football."
+                },
+                {
+                    "question": "Who is the most successful and popular footballer to have played for Manchester United?",
+                    "answer": "David Beckham",
+                    "explanation": "Manchester United has a long history of successful players, including George Best, Denis Law, Bobby Charlton, Ryan Giggs, David Beckham, and Wayne Rooney."
+                },
+                {
+                    "question": "What is the top flight of English football?",
+                    "answer": "the Premier League",
+                    "explanation": "Manchester United has won a record 20 league titles, 12 FA Cups, 5 League Cups and a record 3 UEFA Champions League titles. Answer: Manchester United has won a record 20 league titles, 12 FA Cups, 5 League Cups and a record 3 UEFA Champions League titles."
+                },
+                {
+                    "question": "What is Manchester United Football Club's nickname?",
+                    "answer": "the Red Devils",
+                    "explanation": "Manchester United Football Club is a professional football club based in Old Trafford, Greater Manchester, England, that competes in the Premier League, the top flight of English football. Nicknamed the Red Devils, the club was founded as Newton Heath LYR Football Club in 1878, changed its name to Manchester United in 1902 and moved to its current stadium in 1910. Manchester United has won a record 20 league titles, 12 FA Cups, 5 League Cups and a record 3 UEFA Champions League titles."
+                },
+                {
+                    "question": "Which Manchester landmark is featured in the club's badge?",
+                    "answer": "the Manchester Ship Canal",
+                    "explanation": "The club's badge features the club's name inside the traditional roundel, which is a stylised representation of the city of Manchester's coat of arms, which features a ship on its river, representing the Manchester Ship Canal."
+                }
+            ],
+            "hops": [
+                "Manchester United"
+            ]
+        },
+        "New England Patriots": {
+            "term": "New England Patriots",
+            "passage": "The New England Patriots are a professional American football team based in the Greater Boston region. The Patriots play their home games at Gillette Stadium in the town of Foxborough, Massachusetts, which is located 21 miles (34 km) southwest of downtown Boston and 20 miles (32 km) northeast of downtown Providence, Rhode Island. The Patriots are part of the East Division of the American Football Conference (AFC) in the National Football League (NFL). The team was founded in 1960 as the Boston Patriots, one of the eight teams that joined the American Football League (AFL) in its inaugural season. The team changed its name to the New England Patriots in 1971, and has since become one of the most successful franchises in NFL history. The Patriots have appeared in 11 Super Bowls, winning six of them, the most of any team in NFL history. They have also won 14 division championships, 17 conference championships, and have the second-best overall record in the NFL since 1970. The Patriots have a storied history of successful coaches and players. Bill Belichick has been the head coach of the team since 2000, and has led the team to six Super Bowl victories. Tom Brady has been the starting quarterback for the team since 2001, and has won six Super Bowl MVP awards. Other notable players in the team's history include quarterbacks Jim Plunkett and Drew Bledsoe, running backs Curtis Martin and Corey Dillon, and wide receivers Randy Moss and Rob Gronkowski.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the conference that the New England Patriots play in?",
+                    "answer": "the American Football Conference",
+                    "explanation": "The Patriots are part of the East Division of the American Football Conference (AFC) in the National Football League (NFL)."
+                },
+                {
+                    "question": "What year did the New England Patriots change their name to the New England Patriots?",
+                    "answer": "1971",
+                    "explanation": "The team changed its name to the New England Patriots in 1971, and has since become one of the most successful franchises in NFL history."
+                },
+                {
+                    "question": "What year was the Boston Patriots founded?",
+                    "answer": "1960",
+                    "explanation": "The team was founded in 1960 as the Boston Patriots, one of the eight teams that joined the American Football League (AFL) in its inaugural season."
+                },
+                {
+                    "question": "What is the name of the league that the Boston Patriots joined in its inaugural season?",
+                    "answer": "the American Football League",
+                    "explanation": "The Patriots changed their name to the New England Patriots in 1971, and have since become one of the most successful franchises in NFL history."
+                },
+                {
+                    "question": "\"Who was the starting quarterback for the New England Patriots during the 1970 season?\"",
+                    "answer": "Jim Plunkett",
+                    "explanation": "The Patriots have appeared in 11 Super Bowls, winning six of them, the most of any team in NFL history."
+                }
+            ],
+            "hops": [
+                "New England Patriots"
+            ]
+        },
+        "New York Yankees": {
+            "term": "New York Yankees",
+            "passage": "The New York Yankees are a professional baseball team based in the Bronx, New York City, New York. They compete in Major League Baseball (MLB) in the American League's East Division. One of the most successful franchises in all of sports, the Yankees have won 27 World Series championships, the most in MLB history, and have won 40 American League pennants. The team is also known for its storied history, which includes numerous legendary players and managers, such as Babe Ruth, Lou Gehrig, Joe DiMaggio, Mickey Mantle, Yogi Berra, and Casey Stengel. The Yankees play their home games at Yankee Stadium, a iconic ballpark that has hosted numerous historic moments in baseball history. The team is widely considered to be one of the most popular and successful franchises in all of sports, and its games are broadcasted to millions of fans around the world.",
+            "qae_pairs": [
+                {
+                    "question": "What is the New York Yankees' division in Major League Baseball?",
+                    "answer": "East Division",
+                    "explanation": "The Yankees have won 27 World Series championships, the most in MLB history, and have won 40 American League pennants. Answer: The Yankees have won 27 World Series championships, the most in MLB history, and have won 40 American League pennants."
+                },
+                {
+                    "question": "In what city is the Yankee Stadium located?",
+                    "answer": "Bronx",
+                    "explanation": "The Yankees play their home games at Yankee Stadium, a iconic ballpark that has hosted numerous historic moments in baseball history. Explanation: This sentence provides evidence that the Yankee Stadium is located in the Bronx, as it is where the Yankees play their home games."
+                }
+            ],
+            "hops": [
+                "New York Yankees"
+            ]
+        },
+        "Real Madrid": {
+            "term": "Real Madrid",
+            "passage": "Real Madrid Club de Fútbol, commonly known as Real Madrid, is a professional football club based in Madrid, Spain. The club was founded on 6 March 1902 as the Madrid Football Club, and has since then become one of the most successful and prestigious football clubs in the world, with a total of 13 UEFA Champions League titles, 33 La Liga titles, and 4 FIFA Club World Cup titles. Real Madrid's home ground is the Santiago Bernabéu Stadium, which has a seating capacity of 81,044. The club has a long-standing rivalry with FC Barcelona, known as El Clásico, and has a large following of fans around the world, known as \"Madridistas\". Real Madrid's crest features the club's name in gold letters on a white background, with the image of the bear and the strawberry tree from the coat of arms of the city of Madrid in the center. The club's colors are white and royal blue, and the club's motto is \"Honor, Fidelity, and Work\". Real Madrid has a rich history of successful players, including Alfredo Di Stéfano, Ferenc Puskás, Zinedine Zidane, Cristiano Ronaldo, and Lionel Messi. The club has also produced many successful coaches, such as José Mourinho, Carlo Ancelotti, and Zinedine Zidane. Real Madrid has a strong youth academy, known as La Fabrica, which has produced many talented players over the years. The club also has a women's team, which has won several domestic and international titles. Real Madrid is one of the most valuable sports teams in the world, with an estimated worth of over $3 billion.",
+            "qae_pairs": [
+                {
+                    "question": "What is Real Madrid's home ground?",
+                    "answer": "the Santiago Bernabéu Stadium",
+                    "explanation": "Real Madrid's home ground is the Santiago Bernabéu Stadium, which has a seating capacity of 81,044."
+                },
+                {
+                    "question": "What is the full name of Real Madrid Club de Fútbol?",
+                    "answer": "the Madrid Football Club",
+                    "explanation": "The club was founded on 6 March 1902 as the Madrid Football Club, and has since then become one of the most successful and prestigious football clubs in the world, with a total of 13 UEFA Champions League titles, 33 La Liga titles, and 4 FIFA Club World Cup titles."
+                },
+                {
+                    "question": "What is the name of the most prestigious football club competition in Europe?",
+                    "answer": "UEFA Champions League",
+                    "explanation": "Real Madrid has a total of 13 UEFA Champions League titles, which is a testament to the club's success and prestige in European football."
+                }
+            ],
+            "hops": [
+                "Real Madrid"
+            ]
+        },
+        "Barcelona": {
+            "term": "Barcelona",
+            "passage": "Barcelona is the capital and largest city of the autonomous community of Catalonia in Spain, as well as the second most populous municipality of Spain. It is located on the Mediterranean coast between the mouths of the rivers Llobregat and Besòs, and is bounded to the west by the Serra de Collserola mountain range, to the south by the Mediterranean Sea and to the north by the autonomous communities of Aragon and Navarra. As of 2021, Barcelona has a population of 1.6 million people within its administrative limits, and a metropolitan area of over 3.2 million people, making it the sixth-most populous urban area in the European Union after Paris, London, Ruhr area, Madrid and Milan. It is the tenth-most populous city in the European Union and the largest city on the Mediterranean Sea. Barcelona is one of the world's leading tourist, economic, and cultural centers, and its influence in commerce, education, fashion, entertainment, sports, and the arts all contribute to its status as one of the world's major global cities. It is a major cultural and tourist destination and its importance in commerce, education, fashion, entertainment, sports, and the arts all contribute to its status as one of the world's major global cities. The city is famous for its architecture, including works by Antoni Gaudí and Lluís Domènech i Montaner, which have been declared UNESCO World Heritage Sites. The city has a rich cultural heritage and is today an important cultural center, with a rich and diverse cultural life. It is also a major tourist destination, attracting millions of visitors every year.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the architect who designed the Casa Batlló and the Palau de la Música Catalana?",
+                    "answer": "Lluís Domènech",
+                    "explanation": "Barcelona is famous for its architecture, including works by Antoni Gaudí and Lluís Domènech i Montaner, which have been declared UNESCO World Heritage Sites."
+                },
+                {
+                    "question": "Which autonomous community is bounded to the north of Barcelona?",
+                    "answer": "Aragon",
+                    "explanation": "As of 2021, Barcelona has a population of 1.6 million people within its administrative limits, and a metropolitan area of over 3.2 million people, making it the sixth-most populous urban area in the European Union after Paris, London, Ruhr area, Madrid and Milan. This sentence is an evidence sentence because it provides a specific and objective fact about the population of Barcelona, which supports the statement that it is one of the world's major global cities."
+                }
+            ],
+            "hops": [
+                "Barcelona"
+            ]
+        },
+        "Dallas Cowboys": {
+            "term": "Dallas Cowboys",
+            "passage": "The Dallas Cowboys are a professional American football team based in Dallas, Texas. The Cowboys compete in the National Football League (NFL) as a member club of the league's National Football Conference (NFC) East division. The team plays its home games at AT&T Stadium, which opened for the 2009 season, and is owned by Jerry Jones. The Cowboys joined the NFL as an expansion team in 1960. The team has won five Super Bowl championships, tied with the Pittsburgh Steelers for most by an NFL team, and have appeared in the Super Bowl eight times, tied with the New England Patriots for most appearances without a loss. The Cowboys have won 20 division titles, which is the most in the NFC. They have also won 13 conference championships, second only to the Pittsburgh Steelers, and have the most playoff appearances in the NFC with 34. The Cowboys are also one of the most valuable sports franchises in the world, worth in excess of $5 billion.",
+            "qae_pairs": [
+                {
+                    "question": "'What is the abbreviation for the National Football Conference?'",
+                    "answer": "NFC",
+                    "explanation": "The Cowboys compete in the National Football League (NFL) as a member club of the league's National Football Conference (NFC) East division."
+                },
+                {
+                    "question": "1. What is the name of the state where the Dallas Cowboys play their home games? 2. What is the name of the state where the Dallas Cowboys were founded? 3. What is the name of the state where the Dallas Cowboys have won the most Super Bowl championships",
+                    "answer": "Texas",
+                    "explanation": "The Cowboys have won five Super Bowl championships, tied with the Pittsburgh Steelers for most by an NFL team, and have appeared in the Super Bowl eight times, tied with the New England Patriots for most appearances without a loss."
+                },
+                {
+                    "question": "The Dallas Cowboys joined the NFL as an expansion team in which year?",
+                    "answer": "1960",
+                    "explanation": "The Dallas Cowboys joined the NFL as an expansion team in 1960."
+                },
+                {
+                    "question": "What is the year AT&T Stadium, where the Cowboys play their home games, opened for the first time?",
+                    "answer": "the 2009 season",
+                    "explanation": "The Cowboys joined the NFL as an expansion team in 1960. Explanation: This sentence explains that the Dallas Cowboys were one of the original teams that joined the NFL in 1960, which is the year the league expanded from 12 to 16 teams."
+                },
+                {
+                    "question": "The Cowboys play their home games at which stadium?",
+                    "answer": "AT&T Stadium",
+                    "explanation": "The Cowboys play their home games at AT&T Stadium, which opened for the 2009 season, and is owned by Jerry Jones."
+                },
+                {
+                    "question": "'Which conference does the Dallas Cowboys belong to in the NFL?'",
+                    "answer": "National Football Conference",
+                    "explanation": "The Cowboys compete in the National Football League (NFL) as a member club of the league's National Football Conference (NFC) East division."
+                },
+                {
+                    "question": "What is the name of the professional American football league in the United States?",
+                    "answer": "NFL",
+                    "explanation": "The Cowboys compete in the National Football League (NFL) as a member club of the league's National Football Conference (NFC) East division."
+                }
+            ],
+            "hops": [
+                "Dallas Cowboys"
+            ]
+        },
+        "Boston Celtics": {
+            "term": "Boston Celtics",
+            "passage": "The Boston Celtics are a professional basketball team based in Boston, Massachusetts. They play in the National Basketball Association (NBA), as a member of the league's Eastern Conference Atlantic Division. Founded in 1946, the team is owned by Boston Basketball Partners LLC. The Celtics play their home games at the TD Garden, which they share with the National Hockey League (NHL)'s Boston Bruins. The Celtics have won a total of 17 NBA championships, which is the most of any franchise in NBA history, and have won 21 division titles. They have played in 22 NBA Finals, and have a record of 12-10 in the final series. The franchise has a storied history, with some of the greatest players in NBA history having played for the Celtics, including Bob Cousy, Bill Russell, Larry Bird, Kevin McHale, and Paul Pierce. The Celtics have a fierce rivalry with the Los Angeles Lakers, with the two teams having met in 12 NBA Finals, including a highly-anticipated series in 2008 that was won by the Celtics in six games. The Celtics have also had long-standing rivalries with the New York Knicks and the Philadelphia 76ers. The Celtics have a strong tradition of drafting well, with many of their draft picks becoming key contributors to the team's success. In 2008, the Celtics drafted Rajon Rondo, who went on to become a two-time All-Star and a key player in the team's 2008 championship run.",
+            "qae_pairs": [
+                {
+                    "question": "Who did the Boston Celtics draft in 2008?",
+                    "answer": "Rajon Rondo",
+                    "explanation": "The Celtics drafted Rajon Rondo in 2008, who went on to become a two-time All-Star and a key player in the team's 2008 championship run."
+                },
+                {
+                    "question": "What is the name of the National Hockey League (NHL) team that shares the TD Garden with the Boston Celtics?",
+                    "answer": "Boston Bruins",
+                    "explanation": "The Celtics have a fierce rivalry with the Los Angeles Lakers, with the two teams having met in 12 NBA Finals, including a highly-anticipated series in 2008 that was won by the Celtics in six games."
+                },
+                {
+                    "question": "Who owns the Boston Celtics?",
+                    "answer": "Boston Basketball Partners",
+                    "explanation": "The Celtics have won a total of 17 NBA championships, which is the most of any franchise in NBA history, and have won 21 division titles. They have played in 22 NBA Finals, and have a record of 12-10 in the final series."
+                },
+                {
+                    "question": "Which team has the Celtics had a fierce rivalry with over the years?",
+                    "answer": "the Los Angeles Lakers",
+                    "explanation": "The Celtics have a fierce rivalry with the Los Angeles Lakers, with the two teams having met in 12 NBA Finals, including a highly-anticipated series in 2008 that was won by the Celtics in six games."
+                },
+                {
+                    "question": "The state that is home to the Boston Celtics basketball team is which state?",
+                    "answer": "Massachusetts",
+                    "explanation": "The Boston Celtics are a professional basketball team based in Boston, Massachusetts."
+                },
+                {
+                    "question": "What is the championship series for the NBA?",
+                    "answer": "NBA Finals",
+                    "explanation": "The Celtics have played in 22 NBA Finals, and have a record of 12-10 in the final series."
+                },
+                {
+                    "question": "What is the national hockey league?",
+                    "answer": "NHL",
+                    "explanation": "The Celtics have played in 22 NBA Finals, and have a record of 12-10 in the final series."
+                },
+                {
+                    "question": "\"Who is the greatest player in Boston Celtics history?\" Boston Celtics is a professional basketball team based in Boston, Massachusetts. They have won a total of 17 NBA championships, which is the most of any franchise in NBA history, and have won 21 division titles.",
+                    "answer": "Paul Pierce",
+                    "explanation": "The Celtics have a storied history, with some of the greatest players in NBA history having played for the Celtics, including Bob Cousy, Bill Russell, Larry Bird, Kevin McHale, and Paul Pierce."
+                }
+            ],
+            "hops": [
+                "Boston Celtics"
+            ]
+        },
+        "Bayern Munich": {
+            "term": "Bayern Munich",
+            "passage": "Bayern Munich is a German sports club based in Munich, Bavaria, Germany. It is best known for its professional football team, which plays in the Bundesliga, the top tier of the German football league system, and is the most successful club in German football history, having won 29 national titles and 6 European titles. The club was founded in 1900 by 11 football players, led by Franz John, as the Munich Football Club. The club changed its name to Bayern Munich in 1906 in honor of the ruling house of Bavaria, and has since grown to include a wide range of sports and athletic programs, including basketball, handball, and ice hockey. Bayern Munich has a fierce rivalry with 1860 Munich, another Munich-based football club. The two clubs have played each other over 90 times in competitive matches, with Bayern Munich holding the upper hand in recent years. The club's home ground is the Allianz Arena, which it shares with local rivals TSV 1860 Munich. The stadium has a capacity of 75,000 and is known for its iconic exterior, which features a translucent exterior that changes color at night. Bayern Munich has a large and passionate fan base, with supporters known as the Bayern Munich Fanclub. The club has a global following, with fans in over 180 countries around the world. Bayern Munich has a long history of success in European football, having won 6 European titles, including 5 UEFA Champions League titles. The club has also won 29 national titles, including 7 Bundesliga titles in a row from 2013 to 2019.",
+            "qae_pairs": [
+                {
+                    "question": "What year was Bayern Munich founded?",
+                    "answer": "1900",
+                    "explanation": "The club was founded in 1900 by 11 football players, led by Franz John, as the Munich Football Club."
+                },
+                {
+                    "question": "What is the name of Bayern Munich's local rival in Munich?",
+                    "answer": "1860",
+                    "explanation": "Passage: The club has a fierce rivalry with 1860 Munich, another Munich-based football club. The two clubs have played each other over 90 times in competitive matches, with Bayern Munich holding the upper hand in recent years."
+                },
+                {
+                    "question": "Who is the founder of Bayern Munich?",
+                    "answer": "Franz John",
+                    "explanation": "The club was founded in 1900 by 11 football players, led by Franz John, as the Munich Football Club."
+                },
+                {
+                    "question": "What is the name of Bayern Munich's home ground?",
+                    "answer": "the Allianz Arena",
+                    "explanation": "The club's home ground is the Allianz Arena, which it shares with local rivals TSV 1860 Munich."
+                },
+                {
+                    "question": "What is Bayern Munich's original name?",
+                    "answer": "the Munich Football Club",
+                    "explanation": "The club was founded in 1900 by 11 football players, led by Franz John, as the Munich Football Club."
+                },
+                {
+                    "question": "Which European country is Bayern Munich from?",
+                    "answer": "Germany",
+                    "explanation": "Bayern Munich is a German sports club based in Munich, Bavaria, Germany."
+                }
+            ],
+            "hops": [
+                "Bayern Munich"
+            ]
+        },
+        "Chicago Cubs": {
+            "term": "Chicago Cubs",
+            "passage": "The Chicago Cubs are a professional baseball team based in Chicago, Illinois. They play in the National League Central division of Major League Baseball (MLB). The Cubs are one of two remaining charter members of the National League, which was founded in 1876. Along with the Tampa Bay Rays, the Cubs are one of two Major League clubs based in cities that have not had a team in the other major North American professional sports leagues. The Cubs play their home games at Wrigley Field, located on the North Side of Chicago. Wrigley Field is the oldest ballpark in the major leagues and is known for its iconic ivy-covered outfield walls and its historic status as a Chicago landmark. The Cubs have a storied history, with a total of 11 World Series championships, second only to the New York Yankees. The team has a strong fan base, known as \"Cub Nation,\" which has supported the team through its ups and downs over the years. The Cubs have had many famous players over the years, including Hall of Famers such as Ernie Banks, Billy Williams, and Ron Santo. More recently, the team has featured stars such as Sammy Sosa, Mark Prior, and Kerry Wood. The Cubs have also had several successful managers, including legendary skipper Joe McCarthy and current manager Joe Maddon. Despite their success, the Cubs have also experienced a long period of futility, particularly in the second half of the 20th century. The team went over 100 years without winning a World Series before finally breaking through in 2016, ending a drought that was one of the longest in sports history.",
+            "qae_pairs": [
+                {
+                    "question": "The question is: Who are some famous players who have played for the Chicago Cubs?",
+                    "answer": "Ron Santo",
+                    "explanation": "The Cubs have had many famous players over the years, including Hall of Famers such as Ernie Banks, Billy Williams, and Ron Santo."
+                },
+                {
+                    "question": "What is the location of Wrigley Field, the home stadium of the Chicago Cubs?",
+                    "answer": "the North Side of Chicago",
+                    "explanation": "The Cubs play their home games at Wrigley Field, located on the North Side of Chicago."
+                }
+            ],
+            "hops": [
+                "Chicago Cubs"
+            ]
+        }
+    },
+    "second_hops": {
+        "NHL": {
+            "term": "NHL",
+            "passage": "The National Hockey League (NHL) is a professional ice hockey league in North America, currently comprising 31 teams: 24 in the United States and 7 in Canada. The NHL is considered to be the premier professional ice hockey league in the world and one of the major professional sports leagues in the United States and Canada. The league is divided into two conferences: the Eastern Conference and the Western Conference, each of which has three divisions: the Atlantic, Metropolitan, and Central; and the Pacific, Central, and Pacific. The NHL is known for its physical play, high scoring, and fast-paced action. The Stanley Cup, the oldest professional sports trophy in North America, is awarded annually to the playoff champion at the end of each season.",
+            "qae_pairs": [
+                {
+                    "question": "What is the frequency of the NHL All-Star Game being held annually?",
+                    "answer": "annually",
+                    "explanation": "The NHL is known for its physical play, high scoring, and fast-paced action."
+                }
+            ],
+            "hops": [
+                "Los Angeles Lakers",
+                "NHL"
+            ]
+        },
+        "Wilt Chamberlain": {
+            "term": "Wilt Chamberlain",
+            "passage": "Wilt Chamberlain (August 21, 1936 – October 12, 1999) was an American professional basketball player who played for the Philadelphia Warriors and the Philadelphia 76ers of the National Basketball Association (NBA). He played for the University of Kansas Jayhawks before being drafted by the Warriors with the first overall pick in the 1959 NBA draft. Chamberlain is widely considered one of the greatest basketball players of all time. He stood 7 feet 1 inch (2.16 m) tall and weighed 250 pounds (113 kg) during his playing career, and was known for his versatile offensive style, his rebounding and shot-blocking abilities, and his dominant defense. Chamberlain holds numerous records in the NBA, including the most points scored in a single game (100) and the most rebounds in a single game (55). He is the only player in NBA history to average more than 30 points and 20 rebounds per game in a season, a feat he accomplished seven times. Chamberlain won two NBA championships, four MVP awards, and was a 13-time All-Star. He was also a member of the United States men's national basketball team that won the gold medal at the 1960 Summer Olympics. Chamberlain was known for his flamboyant personality and his penchant for breaking down racial barriers in the sport. He was also a successful businessman and investor after his retirement from basketball. Chamberlain died of heart failure in 1999 at the age of 63.",
+            "qae_pairs": [
+                {
+                    "question": "What team did Wilt Chamberlain play for in the NBA before being drafted by the Philadelphia 76ers?",
+                    "answer": "the Philadelphia Warriors",
+                    "explanation": "Wilt Chamberlain played for the Philadelphia Warriors before being drafted by the Philadelphia 76ers in the NBA."
+                },
+                {
+                    "question": "1. What league did Wilt Chamberlain play for?(Avoid the following entities in the question: Los Angeles Lakers)",
+                    "answer": "NBA",
+                    "explanation": "Passage: He played for the University of Kansas Jayhawks before being drafted by the Warriors with the first overall pick in the 1959 NBA draft."
+                }
+            ],
+            "hops": [
+                "Los Angeles Lakers",
+                "Wilt Chamberlain"
+            ]
+        },
+        "the National Basketball Association": {
+            "term": "the National Basketball Association",
+            "passage": "The National Basketball Association (NBA) is a men's professional basketball league in North America, composed of 30 teams. It is widely considered to be the premier men's professional basketball league in the world, and is one of the four major professional sports leagues in the United States and Canada. The NBA's 82-game regular season runs from October to April, with playoffs and the NBA Finals usually held in June. The league was founded in 1946 as the Basketball Association of America (BAA), and merged with the National Basketball League (NBL) in 1949 to become the NBA. The league's headquarters are located in New York City, with teams distributed across the United States and Canada. The NBA has featured many famous players over the years, including Michael Jordan, LeBron James, Kobe Bryant, and Shaquille O'Neal. The league has also been marked by controversies, such as the 2007 NBA referee scandal, in which several referees were accused of betting on games. Despite this, the NBA remains one of the most popular and successful sports leagues in the world.",
+            "qae_pairs": [
+                {
+                    "question": "What is the location of the headquarters of the National Basketball Association?",
+                    "answer": "New York City",
+                    "explanation": "The NBA's 82-game regular season runs from October to April, with playoffs and the NBA Finals usually held in June."
+                }
+            ],
+            "hops": [
+                "Los Angeles Lakers",
+                "the National Basketball Association"
+            ]
+        },
+        "the Pacific Division": {
+            "term": "the Pacific Division",
+            "passage": "The Pacific Division is one of the four divisions in the National Hockey League's (NHL) Western Conference. It was created in 1993 as part of the league's realignment into six divisions. The division is made up of five teams: the Anaheim Ducks, the Calgary Flames, the Edmonton Oilers, the Los Angeles Kings, and the San Jose Sharks. The Pacific Division is known for its high level of competition and has produced several Stanley Cup champions over the years. The division has also been home to some of the NHL's most iconic players, including Wayne Gretzky, Mario Lemieux, and Jaromir Jagr. The Pacific Division playoffs are highly anticipated by fans, as the division's teams are known for their physical play and high-scoring games.",
+            "qae_pairs": [
+                {
+                    "question": "What league is the Pacific Division a part of?",
+                    "answer": "the National Hockey League's",
+                    "explanation": "The Pacific Division is one of the four divisions in the National Hockey League's (NHL) Western Conference."
+                },
+                {
+                    "question": "What year was the Pacific Division created in the National Hockey League?",
+                    "answer": "1993",
+                    "explanation": "The Pacific Division was created in 1993 as part of the league's realignment into six divisions."
+                }
+            ],
+            "hops": [
+                "Los Angeles Lakers",
+                "the Pacific Division"
+            ]
+        },
+        "the Los Angeles Kings": {
+            "term": "the Los Angeles Kings",
+            "passage": "The Los Angeles Kings are a professional ice hockey team based in Los Angeles, California. They were founded in 1967 and are members of the Pacific Division of the Western Conference in the National Hockey League (NHL). The team has won two Stanley Cup championships, in 2012 and 2014. The Kings have played their home games at the Staples Center since 1999. The team has a strong fan base, known as the \"Kings Army\". The team's colors are black, silver, and white. The Kings have retired several numbers in honor of their players, including Wayne Gretzky's No. 99. The team has a long-standing rivalry with the Anaheim Ducks, with whom they have played in several playoff series. The Kings have a history of strong goaltending, with players such as Jonathan Quick and Rogie Vachon having played for the team. The team has also had several notable coaches, including Darryl Sutter and Terry Murray. The Kings have a strong youth development program, with several players having come up through their system. The team has a strong community outreach program, with players and staff participating in various charitable events throughout the year.",
+            "qae_pairs": [
+                {
+                    "question": "What division does the Los Angeles Kings play in?",
+                    "answer": "the Pacific Division",
+                    "explanation": "The Los Angeles Kings are a professional ice hockey team based in Los Angeles, California. They were founded in 1967 and are members of the Pacific Division of the Western Conference in the National Hockey League (NHL)."
+                },
+                {
+                    "question": "What year did the Los Angeles Kings, a professional ice hockey team based in Los Angeles, California, founded?",
+                    "answer": "1967",
+                    "explanation": "The Los Angeles Kings were founded in 1967."
+                }
+            ],
+            "hops": [
+                "Los Angeles Lakers",
+                "the Los Angeles Kings"
+            ]
+        },
+        "the NBA Finals": {
+            "term": "the NBA Finals",
+            "passage": "The NBA Finals is the championship series of the National Basketball Association (NBA). The series was inaugurated in 1947, and is played between the Eastern Conference champion and the Western Conference champion. The NBA Finals is a best-of-seven series, with the first team to win four games being declared the champion. The NBA Finals is one of the four major annual professional sports league championships in North America, along with the Super Bowl, World Series, and Stanley Cup Finals. The NBA Finals is broadcast live on national television in the United States, and is a highly-anticipated event for basketball fans around the world. The NBA Finals has been won by 20 different teams, with the Boston Celtics and Los Angeles Lakers each winning 17 championships, the most of any team. The most recent NBA Finals was held in 2021, with the Los Angeles Lakers defeating the Miami Heat in a thrilling seven-game series.",
+            "qae_pairs": [
+                {
+                    "question": "What year did the NBA Finals begin?",
+                    "answer": "1947",
+                    "explanation": "The NBA Finals is one of the four major annual professional sports league championships in North America, along with the Super Bowl, World Series, and Stanley Cup Finals. Evidence sentence: The NBA Finals is one of the four major annual professional sports league championships in North America. Explanation: The evidence sentence provides a factual statement that the NBA Finals is one of the four major annual professional sports league championships in North America, along with the Super Bowl, World Series, and Stanley Cup Finals."
+                },
+                {
+                    "question": "What is the frequency of the NBA Finals being held annually?",
+                    "answer": "annual",
+                    "explanation": "The NBA Finals is one of the four major annual professional sports league championships in North America, along with the Super Bowl, World Series, and Stanley Cup Finals."
+                }
+            ],
+            "hops": [
+                "Los Angeles Lakers",
+                "the NBA Finals"
+            ]
+        },
+        "California": {
+            "term": "California",
+            "passage": "California is a state in the Pacific Region of the United States. With a population of nearly 40 million people, California is the most populous state in the U.S. and the third-largest by area.",
+            "qae_pairs": [
+                {
+                    "question": "What is the region that California belongs to in the United States?",
+                    "answer": "the Pacific Region",
+                    "explanation": "With a population of nearly 40 million people, California is the most populous state in the U.S. and the third-largest by area. This sentence is an evidence sentence because it provides specific information about California's population and size, which supports the main idea that California is a state in the Pacific Region of the United States."
+                }
+            ],
+            "hops": [
+                "Los Angeles Lakers",
+                "California"
+            ]
+        },
+        "the Los Angeles Clippers": {
+            "term": "the Los Angeles Clippers",
+            "passage": "The Los Angeles Clippers are a professional basketball team based in Los Angeles, California. The Clippers compete in the National Basketball Association (NBA) as a member of the league's Western Conference Pacific Division. The team was founded in 1970 as the Buffalo Braves, an expansion team based in Buffalo, New York. In 1978, the team moved to San Diego, California and was renamed the San Diego Clippers. In 1984, the team moved to Los Angeles and was renamed the Los Angeles Clippers. The Clippers have won two division championships in 1978 and 1979, and have made the playoffs 13 times in their history. The team has had several notable players throughout its history, including Elton Brand, Blake Griffin, and Chris Paul. The Clippers play their home games at the Staples Center, which they share with the Los Angeles Lakers and the Los Angeles Kings.",
+            "qae_pairs": [
+                {
+                    "question": "Who is the point guard for the Los Angeles Clippers?",
+                    "answer": "Chris Paul",
+                    "explanation": "The Clippers have had several notable players throughout its history, including Elton Brand, Blake Griffin, and Chris Paul."
+                },
+                {
+                    "question": "What league does the Los Angeles Clippers play in?",
+                    "answer": "the National Basketball Association",
+                    "explanation": "The Clippers compete in the National Basketball Association (NBA) as a member of the league's Western Conference Pacific Division."
+                }
+            ],
+            "hops": [
+                "Los Angeles Lakers",
+                "the Los Angeles Clippers"
+            ]
+        },
+        "UEFA Champions League": {
+            "term": "UEFA Champions League",
+            "passage": "The UEFA Champions League is an annual continental club football competition organised by the Union of European Football Associations (UEFA) and contested by top-division European clubs. It is one of the most prestigious club competitions in the world and the most prestigious club competition in Europe, with the winner regarded as the best team in Europe. The competition was first held in the 1992–93 season as the UEFA Champions League, but was previously known as the European Cup from 1955 to 1992. The competition consists of a group stage, followed by a knockout stage that culminates in a single-match final. The winner of the UEFA Champions League qualifies for the FIFA Club World Cup and the UEFA Super Cup.",
+            "qae_pairs": [
+                {
+                    "question": "What was the season when the UEFA Champions League was first held?",
+                    "answer": "the 1992–93 season",
+                    "explanation": "The competition was first held in the 1992–93 season as the UEFA Champions League, but was previously known as the European Cup from 1955 to 1992."
+                },
+                {
+                    "question": "What is the frequency of the UEFA Champions League?",
+                    "answer": "annual",
+                    "explanation": "The UEFA Champions League is an annual continental club football competition organised by the Union of European Football Associations (UEFA) and contested by top-division European clubs."
+                }
+            ],
+            "hops": [
+                "Real Madrid",
+                "UEFA Champions League"
+            ]
+        },
+        "Greater Manchester": {
+            "term": "Greater Manchester",
+            "passage": "Greater Manchester is a metropolitan county in North West England, with a population of 2.8 million. It encompasses one of the largest metropolitan areas in the United Kingdom and comprises ten metropolitan boroughs: Bolton, Bury, Oldham, Rochdale, Stockport, Tameside, Trafford, Wigan, and the cities of Manchester and Salford. The county was created on 1 April 1974 as a result of the Local Government Act 1972, and designated a metropolitan county. It is governed by the Greater Manchester Combined Authority, which consists of representatives from each of the ten metropolitan boroughs, as well as an elected mayor. Greater Manchester is home to a diverse range of industries, including media, digital technology, and creative industries. It is also a major centre for higher education, with several universities located within the county, including the University of Manchester and Manchester Metropolitan University. The county is served by an extensive public transport network, including a metro system, buses, and trains. It is also home to Manchester Airport, one of the busiest airports in the United Kingdom. In terms of culture, Greater Manchester is known for its music scene, which has produced bands such as The Smiths, Oasis, and The Stone Roses. The county is also home to a number of museums and galleries, including the Manchester Art Gallery and the Museum of Science and Industry. Sport is an important part of the county's culture, with Manchester United and Manchester City being two of the most successful football clubs in the world. The county is also home to the National Cycling Centre and the Manchester Velodrome, which have hosted numerous international competitions.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the museum in Greater Manchester that showcases the history of science and industry in the county?",
+                    "answer": "the Museum of Science and Industry",
+                    "explanation": "The county is also home to a number of museums and galleries, including the Manchester Art Gallery and the Museum of Science and Industry."
+                },
+                {
+                    "question": "What is the name of the metropolitan borough in Greater Manchester that is home to the Bury Football Club?",
+                    "answer": "Bury",
+                    "explanation": "Greater Manchester is a metropolitan county in North West England, with a population of 2.8 million. It encompasses one of the largest metropolitan areas in the United Kingdom and comprises ten metropolitan boroughs: Bolton, Bury, Oldham, Rochdale, Stockport, Tameside, Trafford, Wigan, and the cities of Manchester and Salford. This sentence provides an overview of the geographical location and population of Greater Manchester, as well as the number of metropolitan boroughs that make up the county."
+                }
+            ],
+            "hops": [
+                "Manchester United",
+                "Greater Manchester"
+            ]
+        },
+        "David Beckham": {
+            "term": "David Beckham",
+            "passage": "David Robert Joseph Beckham, OBE (born 2 May 1975) is an English former professional footballer. He played for Manchester United, Preston North End, Real Madrid, Milan, LA Galaxy, Paris Saint-Germain, and the England national team, for whom he held the appearance record for an outfield player until 2016 when he was surpassed by Peter Shilton. He is the first English player to win league titles in four countries: England, Spain, the United States and France. He announced his retirement in May 2013 after a 20-year career, during which he had won 19 major trophies.",
+            "qae_pairs": [
+                {
+                    "question": "What club did David Beckham play for in the United States?",
+                    "answer": "LA Galaxy",
+                    "explanation": "David Beckham played for LA Galaxy in the United States."
+                },
+                {
+                    "question": "In which country did David Beckham win his 19th major trophy?",
+                    "answer": "France",
+                    "explanation": "David Beckham won his 19th major trophy in France."
+                },
+                {
+                    "question": "What is the date of birth of David Beckham?",
+                    "answer": "2 May 1975",
+                    "explanation": "David Beckham was born on 2 May 1975."
+                }
+            ],
+            "hops": [
+                "Manchester United",
+                "David Beckham"
+            ]
+        },
+        "the Premier League": {
+            "term": "the Premier League",
+            "passage": "The Premier League is the top professional football league for men's clubs in England, consisting of 20 teams. It is a corporation in which the 20 member clubs act as shareholders. The Premier League was formed as the FA Premier League in 1992, following the decision of clubs to break away from the Football League and take advantage of a lucrative television rights deal. The Premier League is considered one of the most competitive and popular football leagues in the world, and it is one of the most-watched sports leagues globally. The Premier League is also one of the richest football leagues in the world, with total league revenues of £3.6 billion in 2019–20. The Premier League operates on a promotion and relegation system, with the top two teams automatically promoted to the Premier League, and the bottom three teams automatically relegated to the English Football League Championship. The Premier League has been won by 10 different clubs since its inception, with Manchester United winning the most titles.",
+            "qae_pairs": [
+                {
+                    "question": "What year was the Premier League formed?",
+                    "answer": "1992",
+                    "explanation": "The Premier League was formed as the FA Premier League in 1992, following the decision of clubs to break away from the Football League and take advantage of a lucrative television rights deal."
+                },
+                {
+                    "question": "What is the name of the league that the bottom three teams of the Premier League are automatically relegated to?",
+                    "answer": "the English Football League Championship",
+                    "explanation": "The Premier League is considered one of the most competitive and popular football leagues in the world, and it is one of the most-watched sports leagues globally."
+                }
+            ],
+            "hops": [
+                "Manchester United",
+                "the Premier League"
+            ]
+        },
+        "Jim Plunkett": {
+            "term": "Jim Plunkett",
+            "passage": "Jim Plunkett is a former American football player who played quarterback in the National Football League (NFL) for 16 seasons. He played college football for Stanford University, where he won the Heisman Trophy in 1970. Plunkett was drafted by the New England Patriots in the first round of the 1971 NFL Draft, and he played for the Patriots, San Francisco 49ers, and Los Angeles Raiders during his career. He led the Raiders to two Super Bowl victories, Super Bowl XI and Super Bowl XV. Plunkett was inducted into the Pro Football Hall of Fame in 1990.",
+            "qae_pairs": [
+                {
+                    "question": "What team did Jim Plunkett play for before joining the San Francisco 49ers?",
+                    "answer": "San Francisco",
+                    "explanation": "Jim Plunkett played for the New England Patriots in the first round of the 1971 NFL Draft, and he played for the Patriots, San Francisco 49ers, and Los Angeles Raiders during his career."
+                },
+                {
+                    "question": "What is the total number of seasons that Jim Plunkett played in the National Football League?",
+                    "answer": "16 seasons",
+                    "explanation": "Jim Plunkett is a former American football player who played quarterback in the National Football League (NFL) for 16 seasons."
+                },
+                {
+                    "question": "What league did Jim Plunkett play in during his 16-year career in the NFL?",
+                    "answer": "the National Football League",
+                    "explanation": "Jim Plunkett is a former American football player who played quarterback in the National Football League (NFL) for 16 seasons."
+                },
+                {
+                    "question": "What year did Jim Plunkett get drafted by the team that he won two Super Bowls with?",
+                    "answer": "1971",
+                    "explanation": "Jim Plunkett was drafted by the New England Patriots in the first round of the 1971 NFL Draft."
+                }
+            ],
+            "hops": [
+                "New England Patriots",
+                "Jim Plunkett"
+            ]
+        },
+        "East Division": {
+            "term": "East Division",
+            "passage": "The East Division is one of the four divisions in the Canadian Football League (CFL). It was created in 1981 when the CFL realigned into two conferences with two divisions each. The division consists of five teams: the Hamilton Tiger-Cats, Toronto Argonauts, Montreal Alouettes, Ottawa Redblacks, and BC Lions. The division has produced several Grey Cup champions over the years, including the Toronto Argonauts, who have won the championship a record 17 times. The Hamilton Tiger-Cats and Montreal Alouettes are also perennial contenders, having won the Grey Cup multiple times. The East Division has a strong rivalry with the West Division, with the two divisions facing off in the Grey Cup each year.",
+            "qae_pairs": [
+                {
+                    "question": "What year was the East Division created in the Canadian Football League?",
+                    "answer": "1981",
+                    "explanation": "The East Division is one of the four divisions in the Canadian Football League (CFL). It was created in 1981 when the CFL realigned into two conferences with two divisions each."
+                },
+                {
+                    "question": "What is the rival of the East Division in the Canadian Football League?",
+                    "answer": "the West Division",
+                    "explanation": "The East Division and the West Division are the two divisions in the Canadian Football League (CFL) that face off in the Grey Cup each year."
+                },
+                {
+                    "question": "What league does the East Division belong to in Canadian football?",
+                    "answer": "the Canadian Football League",
+                    "explanation": "The East Division is one of the four divisions in the Canadian Football League (CFL)."
+                }
+            ],
+            "hops": [
+                "New York Yankees",
+                "East Division"
+            ]
+        },
+        "Bronx": {
+            "term": "Bronx",
+            "passage": "The Bronx is the northernmost of the five boroughs of New York City, in the U.S. state of New York. It is located north of Manhattan and south of Westchester County, and is the third-largest borough by land area and fourth-largest by population. The Bronx is divided by the Bronx River into a hillier section in the west, and a flatter eastern section. The borough has a diverse population, with a majority of Hispanic and African American residents, and a significant population of Italians, Irish, and Jews. The Bronx has a number of famous landmarks, including Yankee Stadium, the Bronx Zoo, and the New York Botanical Garden. The borough is also home to many cultural institutions, including the Bronx Museum of the Arts and the Bronx Music Heritage Center. The Bronx has a rich history, having been settled by the Native American Lenape people, and later colonized by the Dutch. The borough played a significant role in the American Revolution, and was the site of the Battle of Pell's Point. The Bronx also played a major role in the Industrial Revolution, with many factories and mills located in the borough. Today, the Bronx is a thriving community, with a diverse economy and a rich cultural heritage.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the famous landmark located in the Bronx that is known for its extensive collection of plants and flowers?",
+                    "answer": "the New York Botanical Garden",
+                    "explanation": "The Bronx has a number of famous landmarks, including Yankee Stadium, the Bronx Zoo, and the New York Botanical Garden."
+                }
+            ],
+            "hops": [
+                "New York Yankees",
+                "Bronx"
+            ]
+        },
+        "the Santiago Bernabéu Stadium": {
+            "term": "the Santiago Bernabéu Stadium",
+            "passage": "The Santiago Bernabéu Stadium, located in Madrid, Spain, is the home stadium of the Real Madrid Club de Fútbol. It has a seating capacity of 81,044, making it one of the largest stadiums in Europe. The stadium was built in 1947 and was named after Santiago Bernabéu, a former president of Real Madrid. It has hosted numerous international football matches, including the 1982 FIFA World Cup final. The stadium has also been used for other events, such as concerts and religious ceremonies. In 2019, the stadium underwent a major renovation, which included the installation of a new retractable pitch and the construction of a new south stand. The Santiago Bernabéu Stadium is known for its impressive architecture and its iconic status in the world of football.",
+            "qae_pairs": [
+                {
+                    "question": "What year was the Santiago Bernabéu Stadium built?",
+                    "answer": "1947",
+                    "explanation": "The stadium was built in 1947 and was named after Santiago Bernabéu, a former president of Real Madrid."
+                },
+                {
+                    "question": "What is the name of the country where the Santiago Bernabéu Stadium is located?",
+                    "answer": "Spain",
+                    "explanation": "The stadium was built in 1947 and was named after Santiago Bernabéu, a former president of Real Madrid."
+                },
+                {
+                    "question": "What year did the Santiago Bernabéu Stadium host the FIFA World Cup final?",
+                    "answer": "1982",
+                    "explanation": "The stadium has hosted numerous international football matches, including the 1982 FIFA World Cup final."
+                }
+            ],
+            "hops": [
+                "Real Madrid",
+                "the Santiago Bernabéu Stadium"
+            ]
+        },
+        "the Madrid Football Club": {
+            "term": "the Madrid Football Club",
+            "passage": "The Real Madrid Club de Fútbol, commonly known as Real Madrid, is a professional football club based in Madrid, Spain. The club was founded on March 6, 1902, by a group of football enthusiasts who sought to establish a club that would represent the city of Madrid. The club has since become one of the most successful and prestigious football clubs in the world, with a long and storied history that includes numerous domestic and international titles. Real Madrid has won a record 33 La Liga titles, 19 Copa del Rey titles, and 4 UEFA Champions League titles, among many other honors. The club's home ground is the Santiago Bernabéu Stadium, which has a seating capacity of over 80,000 spectators. Real Madrid's home kit is white shirts with blue shorts and socks, and the club's crest features the royal crown of Spain. The club's most successful period came in the 1950s, when it won five consecutive European Cups, a feat that has not been repeated since. Real Madrid has a long-standing rivalry with FC Barcelona, known as El Clásico, which is one of the most-watched football matches in the world. The club's supporters are known as the Madridistas, and they are widely regarded as one of the most passionate and loyal fan bases in the world. Real Madrid has produced many legendary players over the years, including Alfredo Di Stéfano, Ferenc Puskás, and Zinedine Zidane, among many others. The club's current roster includes players such as Luka Modric, Sergio Ramos, and Karim Benzema, who have helped the team maintain its status as one of the top teams in the world.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the passionate and loyal fan base of the Madrid Football Club?",
+                    "answer": "Madridistas",
+                    "explanation": "The club's supporters are known as the Madridistas, and they are widely regarded as one of the most passionate and loyal fan bases in the world. Evidence sentence: The club's supporters are known as the Madridistas."
+                }
+            ],
+            "hops": [
+                "Real Madrid",
+                "the Madrid Football Club"
+            ]
+        },
+        "Lluís Domènech": {
+            "term": "Lluís Domènech",
+            "passage": "Lluís Domènech i Montaner (1850-1923) was a Catalan architect, designer, and politician, best known for his work in the Catalan Modernista style. He was born in Barcelona and studied at the Escola Tècnica Superior d'Arquitectura de Barcelona, where he later taught. He was a member of the Catalan Regionalist movement and served as the mayor of Barcelona from 1906 to 1907. Domènech's most famous works include the Palau de la Música Catalana, a concert hall in Barcelona, and the Hospital de Sant Pau, a large complex of buildings in the same city. He also designed several houses and other buildings in the Modernista style, which was characterized by its ornate decoration and use of new materials such as steel and glass. Domènech was a prolific writer and speaker, and he played an important role in the cultural and political life of Catalonia. He was a member of the Catalan Regionalist Union and was involved in the organization of the 1908 Universal Exposition in Barcelona, which showcased the region's culture and industry. He was also a member of the Spanish Parliament and worked to promote Catalan autonomy. Domènech's work had a significant influence on the development of Modernisme and on the architecture of the early 20th century. He was awarded the Creu de Sant Jordi in 1982, the highest honor of the Generalitat de Catalunya, and his legacy is celebrated in museums and exhibitions throughout Catalonia.",
+            "qae_pairs": [
+                {
+                    "question": "What was the name of the concert hall designed by Lluís Domènech in Barcelona?",
+                    "answer": "Palau",
+                    "explanation": "Domènech's most famous works include the Palau de la Música Catalana, a concert hall in Barcelona, and the Hospital de Sant Pau, a large complex of buildings in the same city. Rationale: The evidence sentence provides a clear and concise explanation of Lluís Domènech's most famous works, which are the Palau de la Música Catalana and the Hospital de Sant Pau."
+                }
+            ],
+            "hops": [
+                "Barcelona",
+                "Lluís Domènech"
+            ]
+        },
+        "Texas": {
+            "term": "Texas",
+            "passage": "Texas is a state in the Southern United States, bordered by Mexico to the south, New Mexico to the west, Oklahoma to the north, Arkansas to the northeast, and Louisiana to the east. Texas has an area of 268,581 square miles and a growing population of over 29 million residents. Houston is the largest city in Texas and the fourth-largest in the United States, while San Antonio is the second-largest city in the state and the seventh-largest in the United States. Dallas–Fort Worth and Greater Houston are the fourth and fifth largest United States metropolitan areas, respectively. Other major cities include Austin, Fort Worth, and El Paso. Texas is nicknamed the Lone Star State to signify Texas as a former independent republic and as a reminder of the state's struggle for independence from Mexico. The \"Lone Star\" can be found on the Texas state flag and on the Texas state seal. The origin of the state's name is from the word \"Tejas,\" which means \"friends\" in the Caddo language.",
+            "qae_pairs": [
+                {
+                    "question": "What is the fifth largest United States metropolitan area in Texas?",
+                    "answer": "Greater Houston",
+                    "explanation": "Dallas–Fort Worth and Greater Houston are the fourth and fifth largest United States metropolitan areas, respectively."
+                },
+                {
+                    "question": "What is the origin of the name 'Texas' and what does it mean in the Caddo language?",
+                    "answer": "Caddo",
+                    "explanation": "The origin of the state's name is from the word Tejas, which means friends in the Caddo language."
+                },
+                {
+                    "question": "What state is located to the north of Texas, and is home to the Oklahoma City Thunder basketball team?",
+                    "answer": "Oklahoma",
+                    "explanation": "Texas is a state in the Southern United States, bordered by Mexico to the south, New Mexico to the west, Oklahoma to the north, Arkansas to the northeast, and Louisiana to the east."
+                }
+            ],
+            "hops": [
+                "Dallas Cowboys",
+                "Texas"
+            ]
+        },
+        "AT&T Stadium": {
+            "term": "AT&T Stadium",
+            "passage": "AT&T Stadium, formerly Cowboys Stadium, is a retractable roof stadium in Arlington, Texas, United States. It serves as the home venue for the Dallas Cowboys of the National Football League (NFL), and was completed on May 27, 2009. The stadium is owned by the City of Arlington and operated by the Dallas Cowboys. The stadium's construction began on June 23, 2005, and the project cost $1.15 billion to complete. The stadium was constructed to host major sports and entertainment events, and to attract other large events to the Dallas-Fort Worth metroplex. The stadium's design is inspired by the structure of a dome, and it features a retractable roof that can be opened and closed depending on weather conditions. The stadium's seating capacity is 80,000, making it the largest domed stadium in the world and the largest stadium in the United States. The stadium has hosted several major sporting events, including the Super Bowl XLV, the 2010 NBA All-Star Game, and the 2014 NCAA Men's Basketball Final Four.",
+            "qae_pairs": [
+                {
+                    "question": "What was the year when the first NBA All-Star Game was held at AT&T Stadium?",
+                    "answer": "2010",
+                    "explanation": "The stadium's construction began on June 23, 2005, and the project cost $1.15 billion to complete."
+                }
+            ],
+            "hops": [
+                "Dallas Cowboys",
+                "AT&T Stadium"
+            ]
+        },
+        "National Football Conference": {
+            "term": "National Football Conference",
+            "passage": "The National Football Conference (NFC) is one of the two conferences in the National Football League (NFL). It was formed in 1970 as part of the merger between the NFL and the American Football League (AFL). The NFC consists of 16 teams, divided into two divisions, the NFC East, NFC North, NFC South, and NFC West. The four division winners and the two wild card teams from each conference participate in the NFL playoffs. The NFC champion then faces the AFC champion in the Super Bowl to determine the NFL champion. The NFC has produced many of the greatest players and coaches in NFL history, including Walter Payton, Jerry Rice, Brett Favre, and Tom Brady. The conference has also produced many of the greatest teams in NFL history, including the 1985 Chicago Bears, the 1992 Dallas Cowboys, and the 2013 Seattle Seahawks.",
+            "qae_pairs": [
+                {
+                    "question": "What division does the National Football Conference's NFC North belong to?",
+                    "answer": "NFC North",
+                    "explanation": "The NFC consists of 16 teams, divided into two divisions, the NFC East, NFC North, NFC South, and NFC West."
+                },
+                {
+                    "question": "What division does the NFC East belong to in the National Football Conference?",
+                    "answer": "the NFC East",
+                    "explanation": "The NFC consists of 16 teams, divided into two divisions, the NFC East, NFC North, NFC South, and NFC West."
+                },
+                {
+                    "question": "What league does the National Football Conference belong to?",
+                    "answer": "the National Football League",
+                    "explanation": "The NFC consists of 16 teams, divided into two divisions, the NFC East, NFC North, NFC South, and NFC West. This sentence explains that the National Football Conference (NFC) is a part of the National Football League (NFL) and it consists of 16 teams, divided into two divisions, the NFC East, NFC North, NFC South, and NFC West."
+                }
+            ],
+            "hops": [
+                "Dallas Cowboys",
+                "National Football Conference"
+            ]
+        },
+        "NFL": {
+            "term": "NFL",
+            "passage": "The National Football League (NFL) is a professional American football league consisting of 32 teams, divided equally between the National Football Conference (NFC) and the American Football Conference (AFC). The NFL is one of the four major professional sports leagues in North America, and the highest professional level of American football in the world. The NFL's 17-week regular season runs from the week after Labor Day to the week after Christmas, with each team playing 16 games and having one bye week. Following the regular season, six teams from each conference (four division winners and two wild card teams) advance to the playoffs, a single-elimination tournament culminating in the Super Bowl, which is usually held in the first Sunday in February, and is played between the champions of the NFC and AFC.",
+            "qae_pairs": [
+                {
+                    "question": "What month does the Super Bowl, the championship game of the NFL, take place in?",
+                    "answer": "February",
+                    "explanation": "The NFL's 17-week regular season runs from the week after Labor Day to the week after Christmas, with each team playing 16 games and having one bye week. Evidence sentence: The NFL's 17-week regular season runs from the week after Labor Day to the week after Christmas, with each team playing 16 games and having one bye week."
+                },
+                {
+                    "question": "What is the geographical location of the NFL?",
+                    "answer": "North America",
+                    "explanation": "The NFL is one of the four major professional sports leagues in North America, and the highest professional level of American football in the world. This sentence explains that the NFL is one of the four major professional sports leagues in North America, which means that it is located in North America. Additionally, it states that the NFL is the highest professional level of American football in the world, which further confirms that it is located in North America."
+                },
+                {
+                    "question": "What conference does the NFL's Super Bowl champion come from?",
+                    "answer": "NFC",
+                    "explanation": "The NFL's 17-week regular season runs from the week after Labor Day to the week after Christmas, with each team playing 16 games and having one bye week."
+                }
+            ],
+            "hops": [
+                "Dallas Cowboys",
+                "NFL"
+            ]
+        },
+        "Rajon Rondo": {
+            "term": "Rajon Rondo",
+            "passage": "Rajon Rondo is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He played college basketball for the Kentucky Wildcats before being drafted 17th overall by the Boston Celtics in the 2006 NBA draft. Rondo is a four-time NBA All-Star and won an NBA championship with the Boston Celtics in 2008. He is known for his passing ability and is considered one of the best point guards of his generation. Rondo holds several Celtics franchise records, including most assists and steals. He has also played for the Dallas Mavericks and the Sacramento Kings before joining the Lakers in 2021.",
+            "qae_pairs": [
+                {
+                    "question": "What year did Rajon Rondo get drafted by the Boston Celtics?",
+                    "answer": "2006",
+                    "explanation": "Rajon Rondo is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He played college basketball for the Kentucky Wildcats before being drafted 17th overall by the Boston Celtics in the 2006 NBA draft."
+                },
+                {
+                    "question": "What year did Rajon Rondo win his first NBA championship?",
+                    "answer": "2008",
+                    "explanation": "Rajon Rondo won an NBA championship with the Boston Celtics in 2008."
+                },
+                {
+                    "question": "What is the title of Rajon Rondo that he earned during his time with the Boston Celtics?",
+                    "answer": "NBA All-Star",
+                    "explanation": "Rondo is a four-time NBA All-Star and won an NBA championship with the Boston Celtics in 2008."
+                },
+                {
+                    "question": "What college did Rajon Rondo play for before being drafted by the Boston Celtics?",
+                    "answer": "the Kentucky Wildcats",
+                    "explanation": "Rajon Rondo played college basketball for the Kentucky Wildcats before being drafted 17th overall by the Boston Celtics in the 2006 NBA draft."
+                }
+            ],
+            "hops": [
+                "Boston Celtics",
+                "Rajon Rondo"
+            ]
+        },
+        "Boston Bruins": {
+            "term": "Boston Bruins",
+            "passage": "The Boston Bruins are a professional ice hockey team based in Boston, Massachusetts. They are members of the Atlantic Division of the Eastern Conference of the National Hockey League (NHL). The team has been in existence since 1924, and is one of the Original Six teams of the NHL. The Bruins have won six Stanley Cup championships, including their first in 1929 and their most recent in 2011. The Bruins have also appeared in the finals five other times, losing in 1939, 1957, 1979, and 1988, and tying in 1930. The team has a strong history of rivalries with other Boston sports teams, including the Boston Red Sox and the Boston Celtics. The Bruins play their home games at TD Garden, which they share with the Boston Celtics. The team is known for its physical play and hard-working attitude, and has a large and passionate fan base.",
+            "qae_pairs": [
+                {
+                    "question": "What league does the Boston Bruins play in?",
+                    "answer": "the National Hockey League",
+                    "explanation": "The Boston Bruins are a professional ice hockey team based in Boston, Massachusetts. They are members of the Atlantic Division of the Eastern Conference of the National Hockey League (NHL)."
+                },
+                {
+                    "question": "When did the Boston Bruins, a professional ice hockey team based in Boston, Massachusetts, become a member of the National Hockey League (NHL)?",
+                    "answer": "1924",
+                    "explanation": "The Bruins have been in existence since 1924, and are one of the Original Six teams of the NHL."
+                },
+                {
+                    "question": "What years did the Boston Bruins lose in the Stanley Cup finals?",
+                    "answer": "1939, 1957, 1979",
+                    "explanation": "The Bruins have also appeared in the finals five other times, losing in 1939, 1957, 1979, and 1988, and tying in 1930."
+                },
+                {
+                    "question": "What other Boston sports team is known for its physical play and hard-working attitude, and has a large and passionate fan base, but is not the Boston Bruins?",
+                    "answer": "the Boston Red Sox",
+                    "explanation": "The Bruins have a strong history of rivalries with other Boston sports teams, including the Boston Red Sox and the Boston Celtics."
+                }
+            ],
+            "hops": [
+                "Boston Celtics",
+                "Boston Bruins"
+            ]
+        },
+        "Boston Basketball Partners": {
+            "term": "Boston Basketball Partners",
+            "passage": "Boston Basketball Partners, LLC is a limited liability company that owns the Boston Celtics, a professional basketball team in the National Basketball Association (NBA). The company was formed in 2002 by a group of investors led by Wyc Grousbeck, who serves as the team's managing partner. The Celtics play their home games at TD Garden, which they share with the Boston Bruins of the National Hockey League (NHL). The team has a long and storied history, having won a total of 17 NBA championships, including eight in the Boston Garden, the team's home court from 1946 to 1995. The Celtics have a strong following in Boston and are considered one of the most successful and historic franchises in the NBA.",
+            "qae_pairs": [
+                {
+                    "question": "What year was Boston Basketball Partners, LLC formed?",
+                    "answer": "2002",
+                    "explanation": "The company was formed in 2002 by a group of investors led by Wyc Grousbeck, who serves as the team's managing partner."
+                },
+                {
+                    "question": "What type of legal entity is Boston Basketball Partners?",
+                    "answer": "LLC",
+                    "explanation": "The company was formed in 2002 by a group of investors led by Wyc Grousbeck, who serves as the team's managing partner."
+                },
+                {
+                    "question": "What is the name of the league that Boston Basketball Partners, LLC's professional basketball team, the Boston Celtics, competes in?",
+                    "answer": "the National Basketball Association",
+                    "explanation": "The Celtics play their home games at TD Garden, which they share with the Boston Bruins of the National Hockey League (NHL). This sentence provides evidence that Boston Basketball Partners, LLC's professional basketball team, the Boston Celtics, competes in the National Basketball Association (NBA)."
+                }
+            ],
+            "hops": [
+                "Boston Celtics",
+                "Boston Basketball Partners"
+            ]
+        },
+        "the Los Angeles Lakers": {
+            "term": "the Los Angeles Lakers",
+            "passage": "The Los Angeles Lakers are an American professional basketball team based in Los Angeles, California. The Lakers compete in the National Basketball Association (NBA), as a member of the league's Western Conference in the Pacific Division. The Lakers play their home games at the Staples Center, which they share with their local rival, the Los Angeles Clippers. The Lakers are one of the most successful franchises in the NBA, having won 11 championships, second only to the Boston Celtics, and have an extensive history of great players, including Kobe Bryant, Shaquille O'Neal, Magic Johnson, and Kareem Abdul-Jabbar. The Lakers have a strong following and are widely considered one of the most prestigious teams in the NBA.",
+            "qae_pairs": [
+                {
+                    "question": "1. The Los Angeles Lakers play their home games at the Staples Center, which they share with their local rival, the Los Angeles Clippers. Can you tell me what league the Lakers compete in?",
+                    "answer": "NBA",
+                    "explanation": "The Lakers compete in the National Basketball Association (NBA), as a member of the league's Western Conference in the Pacific Division."
+                }
+            ],
+            "hops": [
+                "Boston Celtics",
+                "the Los Angeles Lakers"
+            ]
+        },
+        "NBA Finals": {
+            "term": "NBA Finals",
+            "passage": "The NBA Finals is the championship series of the National Basketball Association (NBA). The series was inaugurated in 1947, and is played between the Eastern Conference champion and the Western Conference champion. The NBA Finals is a best-of-seven series, with the first team to win four games being declared the champion. The NBA Finals is one of the four major annual professional sports league championships in North America, along with the Super Bowl, World Series, and Stanley Cup Finals. The NBA Finals is broadcast live on national television in the United States, and is a highly-anticipated event for basketball fans around the world. The NBA Finals has been won by 20 different teams, with the Boston Celtics and Los Angeles Lakers each winning 17 championships, the most of any team. The most recent NBA Finals was held in 2021, with the Los Angeles Lakers defeating the Miami Heat in a thrilling seven-game series.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the professional sports league that hosts the NBA Finals?",
+                    "answer": "the National Basketball Association",
+                    "explanation": "The NBA Finals is one of the four major annual professional sports league championships in North America, along with the Super Bowl, World Series, and Stanley Cup Finals."
+                },
+                {
+                    "question": "What year did the Los Angeles Lakers win the NBA Finals for the first time since 2010?",
+                    "answer": "2021",
+                    "explanation": "The NBA Finals is one of the four major annual professional sports league championships in North America, along with the Super Bowl, World Series, and Stanley Cup Finals."
+                }
+            ],
+            "hops": [
+                "Boston Celtics",
+                "NBA Finals"
+            ]
+        },
+        "Paul Pierce": {
+            "term": "Paul Pierce",
+            "passage": "Paul Pierce (born October 13, 1977) is an American retired professional basketball player who played 19 seasons in the National Basketball Association (NBA). Pierce played for the Boston Celtics, Los Angeles Clippers, and Washington Wizards. He was a starter on the Celtics' NBA championship team in 2008, and was a member of the Celtics' 2008 NBA Finals team. Pierce was known for his scoring ability and his clutch performances in big games. He was a 10-time NBA All-Star and was named to the All-NBA First Team three times. Pierce is currently a basketball analyst for ESPN.",
+            "qae_pairs": [
+                {
+                    "question": "What year did Paul Pierce win his first NBA championship?(Avoid the following entities in the question: Boston Celtics)",
+                    "answer": "2008",
+                    "explanation": "Paul Pierce was a starter on the Celtics' NBA championship team in 2008."
+                },
+                {
+                    "question": "What was the total number of NBA All-Star games that Paul Pierce played in during his career?",
+                    "answer": "NBA All-Star",
+                    "explanation": "Paul Pierce was a 10-time NBA All-Star during his career."
+                },
+                {
+                    "question": "What was the total number of seasons Paul Pierce played in the NBA?",
+                    "answer": "19 seasons",
+                    "explanation": "Paul Pierce played 19 seasons in the National Basketball Association (NBA)."
+                },
+                {
+                    "question": "What league did Paul Pierce play in during his 19-year NBA career?",
+                    "answer": "the National Basketball Association",
+                    "explanation": "Paul Pierce played 19 seasons in the National Basketball Association (NBA)."
+                }
+            ],
+            "hops": [
+                "Boston Celtics",
+                "Paul Pierce"
+            ]
+        },
+        "Franz John": {
+            "term": "Franz John",
+            "passage": "Franz John (1845-1916) was an Austrian composer and music theorist. He was born in Vienna and studied music at the Vienna Conservatory, where he later taught composition and theory. John was a prolific composer, writing works for orchestra, chamber ensembles, and voice. His compositions were influenced by the music of Richard Wagner and Franz Liszt, and he was known for his use of complex harmonies and rich textures. In addition to his compositions, John was also a respected music theorist, publishing several books on music theory and analysis. He died in Vienna in 1916.",
+            "qae_pairs": [
+                {
+                    "question": "What was the birthplace of Franz John, the Austrian composer and music theorist?",
+                    "answer": "Vienna",
+                    "explanation": "He was born in Vienna and studied music at the Vienna Conservatory, where he later taught composition and theory."
+                }
+            ],
+            "hops": [
+                "Bayern Munich",
+                "Franz John"
+            ]
+        },
+        "the Allianz Arena": {
+            "term": "the Allianz Arena",
+            "passage": "The Allianz Arena is a football stadium in Munich, Bavaria, Germany. It is the home of Bayern Munich and TSV 1860 Munich, and has a capacity of 75,000 spectators. The stadium was built from 2002 to 2005 and was opened on May 30, 2005. It is known for its exterior of inflated ETFE plastic panels, which are illuminated in different colors before and after games and special events. The stadium has hosted several high-profile matches, including the final of the 2005 UEFA Champions League and the 2006 FIFA World Cup. It is considered to be one of the most modern and environmentally friendly stadiums in the world.",
+            "qae_pairs": [
+                {
+                    "question": "What international football tournament was held at the Allianz Arena in 2005?",
+                    "answer": "UEFA Champions League",
+                    "explanation": "The Allianz Arena is known for its exterior of inflated ETFE plastic panels, which are illuminated in different colors before and after games and special events. Rationale: The evidence sentence clearly states that the Allianz Arena is known for its unique exterior feature of inflated ETFE plastic panels, which is a key characteristic of the stadium. This feature is also mentioned in the question, which further supports the relevance of this sentence as evidence."
+                },
+                {
+                    "question": "What year did the construction of the Allianz Arena begin?",
+                    "answer": "2002",
+                    "explanation": "The stadium was built from 2002 to 2005 and was opened on May 30, 2005."
+                },
+                {
+                    "question": "What is the state of the Allianz Arena located in?",
+                    "answer": "Bavaria",
+                    "explanation": "The stadium was built from 2002 to 2005 and was opened on May 30, 2005. This sentence is an evidence sentence because it provides a specific date of construction and opening of the Allianz Arena, which supports the statement that the stadium was built in 2002-2005."
+                },
+                {
+                    "question": "What is the location of the Allianz Arena?",
+                    "answer": "Germany",
+                    "explanation": "The Allianz Arena is a football stadium in Munich, Bavaria, Germany."
+                }
+            ],
+            "hops": [
+                "Bayern Munich",
+                "the Allianz Arena"
+            ]
+        },
+        "Germany": {
+            "term": "Germany",
+            "passage": "Germany is a country in central Europe. It is the most populous member state in the European Union and the fourth-largest economy in the world. Germany has a temperate seasonal climate, with warm summers and cold winters. The country is known for its cultural and historical significance, including its influential arts and music scenes, its famous landmarks such as the Brandenburg Gate and the Berlin Wall, and its rich history dating back to the Roman Empire. Germany is also known for its contributions to science and technology, including the discovery of the germ theory of disease by Robert Koch and the development of the first automobile by Karl Benz. The country is home to a diverse range of landscapes, from the Bavarian Alps in the south to the North Sea coast in the north. Germany is a federal parliamentary republic, with a president as the head of state and a chancellor as the head of government. The country is divided into 16 states, each with its own unique culture and traditions.",
+            "qae_pairs": [
+                {
+                    "question": "What are the highest mountains in Germany?",
+                    "answer": "Alps",
+                    "explanation": "Germany is known for its cultural and historical significance, including its influential arts and music scenes, its famous landmarks such as the Brandenburg Gate and the Berlin Wall, and its rich history dating back to the Roman Empire."
+                },
+                {
+                    "question": "What is the name of the body of water that borders Germany to the north?",
+                    "answer": "the North Sea",
+                    "explanation": "Germany is a federal parliamentary republic, with a president as the head of state and a chancellor as the head of government."
+                }
+            ],
+            "hops": [
+                "Bayern Munich",
+                "Germany"
+            ]
+        },
+        "Ron Santo": {
+            "term": "Ron Santo",
+            "passage": "Ron Santo was an American professional baseball player and a member of the National Baseball Hall of Fame. He played his entire 14-year Major League Baseball (MLB) career as a third baseman for the Chicago Cubs. Santo was a five-time All-Star and a member of the 1969 World Series champions. He also won five Gold Glove Awards for his defensive play. Santo was known for his hitting ability, particularly his powerful line drives, and he finished his career with a .277 batting average, 342 home runs, and 1,331 runs batted in. He was inducted into the National Baseball Hall of Fame in 2012.",
+            "qae_pairs": [
+                {
+                    "question": "What year was Ron Santo inducted into the National Baseball Hall of Fame?",
+                    "answer": "2012",
+                    "explanation": "Ron Santo was inducted into the National Baseball Hall of Fame in 2012."
+                },
+                {
+                    "question": "What year did Ron Santo win his first World Series championship?",
+                    "answer": "1969",
+                    "explanation": "Ron Santo was a five-time All-Star and a member of the 1969 World Series champions."
+                },
+                {
+                    "question": "What was the length of Ron Santo's Major League Baseball career?",
+                    "answer": "14-year",
+                    "explanation": "Ron Santo was a five-time All-Star and a member of the 1969 World Series champions."
+                }
+            ],
+            "hops": [
+                "Chicago Cubs",
+                "Ron Santo"
+            ]
+        },
+        "the North Side of Chicago": {
+            "term": "the North Side of Chicago",
+            "passage": "The North Side of Chicago is one of the three major divisions of the city, along with the South Side and the West Side. It is bounded on the north by the city limits and on the south by the Chicago River. The North Side is home to several of Chicago's most famous landmarks, including Wrigley Field, the John Hancock Center, and the Magnificent Mile. It is also home to several of the city's most affluent neighborhoods, including Lincoln Park, Lakeview, and Gold Coast. The North Side is known for its vibrant nightlife, with numerous bars, clubs, and restaurants lining the streets of neighborhoods like Wrigleyville and Boystown. The North Side is also home to several major cultural institutions, including the Museum of Contemporary Art and the Chicago History Museum.",
+            "qae_pairs": [
+                {
+                    "question": "What cultural institution is located on the North Side of Chicago that is not related to the Chicago Cubs?",
+                    "answer": "the Museum of Contemporary Art",
+                    "explanation": "The North Side is known for its vibrant nightlife, with numerous bars, clubs, and restaurants lining the streets of neighborhoods like Wrigleyville and Boystown. This sentence explains that the North Side of Chicago is known for its lively nightlife, with many bars, clubs, and restaurants found in neighborhoods such as Wrigleyville and Boystown."
+                },
+                {
+                    "question": "What is the name of the affluent neighborhood located on the North Side of Chicago that is known for its beautiful parks and beaches?",
+                    "answer": "Lincoln Park",
+                    "explanation": "The North Side is known for its vibrant nightlife, with numerous bars, clubs, and restaurants lining the streets of neighborhoods like Wrigleyville and Boystown."
+                }
+            ],
+            "hops": [
+                "Chicago Cubs",
+                "the North Side of Chicago"
+            ]
+        }
+    }
+}

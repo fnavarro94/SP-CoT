@@ -1,0 +1,857 @@
+{
+    "first_hops": {
+        "Alibaba": {
+            "term": "Alibaba",
+            "passage": "Alibaba is a 2003 Indian Hindi-language action drama film directed by Rajkumar Santoshi. It stars Amitabh Bachchan, Rani Mukerji and Aamir Khan, with supporting roles played by Paresh Rawal, Raima Sen, Om Puri and Gulshan Grover. The film's music is by A. R. Rahman and cinematography is by A. Sreekar Prasad. Alibaba and the Forty Thieves is a folk tale of a thief who adopts a baby boy, renames him Ali Baba, and raises him as their own. Ali Baba grows up to become a master thief in the city of Shibin, only to be outwitted by a policeman. The policeman is killed by Ali Baba, who is then arrested and sentenced to death. He manages to escape and, with the aid of his childhood friend, a young woman named Farah, he sets out to find the forty thieves and exact revenge on them. Alibaba is based on the story of Ali Baba and the Forty Thieves, a well-known folk tale found in One Thousand and One Nights. The film was announced in 1998 and was initially set to be produced by Yash Raj Films. It was later produced by Vijay Singh's VIVA Entertainment. The film was shot in locations including Morocco, Turkey and Italy.",
+            "qae_pairs": [
+                {
+                    "question": "Question: Who played Farah in Alibaba?",
+                    "answer": "Rani Mukerji",
+                    "explanation": "Rani Mukerji played Farah in Alibaba."
+                },
+                {
+                    "question": "Who is the cinematographer of the film Alibaba?",
+                    "answer": "A. Sreekar Prasad",
+                    "explanation": "A. Sreekar Prasad is the cinematographer of the film Alibaba."
+                },
+                {
+                    "question": "Where was Alibaba filmed?",
+                    "answer": "Turkey",
+                    "explanation": "Alibaba was filmed in Turkey."
+                },
+                {
+                    "question": "Who produced Alibaba?",
+                    "answer": "Vijay Singh's",
+                    "explanation": "Vijay Singh's VIVA Entertainment produced Alibaba."
+                },
+                {
+                    "question": "Who produced the film Alibaba?",
+                    "answer": "VIVA Entertainment",
+                    "explanation": "VIVA Entertainment produced the film Alibaba."
+                },
+                {
+                    "question": "Where is the city of Alibaba?",
+                    "answer": "Shibin",
+                    "explanation": "The city of Alibaba is Shibin."
+                },
+                {
+                    "question": "When was the film Alibaba released?",
+                    "answer": "2003",
+                    "explanation": "Alibaba was released in 2003."
+                },
+                {
+                    "question": "Question: Who played the role of Ali Baba?",
+                    "answer": "Amitabh Bachchan",
+                    "explanation": "Amitabh Bachchan played the role of Ali Baba."
+                },
+                {
+                    "question": "Who directed Alibaba?",
+                    "answer": "Rajkumar Santoshi",
+                    "explanation": "Rajkumar Santoshi directed Alibaba."
+                },
+                {
+                    "question": "Who composed the music for Alibaba?",
+                    "answer": "A. R. Rahman",
+                    "explanation": "A. R. Rahman composed the music for Alibaba."
+                },
+                {
+                    "question": "Question: What is the name of the woman who helps Ali Baba?",
+                    "answer": "Farah",
+                    "explanation": "Farah is the name of the woman who helps Ali Baba."
+                }
+            ],
+            "hops": [
+                "Alibaba"
+            ]
+        },
+        "American Express": {
+            "term": "American Express",
+            "passage": "The American Express Company is an American global financial services corporation headquartered in New York City. The company is best known as a credit card issuer. American Express also offers charge and credit card products for business customers. It operates travel-related businesses including the American Express Travel Company, a global provider of travel and lifestyle services, as well as Journey, an online travel agency.",
+            "qae_pairs": [
+                {
+                    "question": "What is the location of the company that is best known as a credit card issuer?",
+                    "answer": "New York City",
+                    "explanation": "American Express is a global financial services corporation headquartered in New York City."
+                }
+            ],
+            "hops": [
+                "American Express"
+            ]
+        },
+        "Apple": {
+            "term": "Apple",
+            "passage": "Apple Inc. is an American multinational technology company headquartered in Cupertino, California, United States. Apple is the largest technology company by revenue (totaling US$365.8 billion in 2021) and, as of June 2022, is the world's biggest company by market capitalization, the fourth-largest personal computer vendor by unit sales and second-largest mobile phone manufacturer. It is one of the Big Five American information technology companies, alongside Alphabet (Google), Amazon, Meta (Facebook), and Microsoft.Apple was founded as Apple Computer Company on April 1,1976, by Steve Wozniak, Steve Jobs and Ronald Wayne to develop and sell Wozniak's Apple I personal computer. It was incorporated by Jobs and Wozniak as Apple Computer, Inc. in 1977 and the company's next computer, the Apple II, became a best seller and one of the first mass-produced microcomputers. Apple went public in 1980 to instant financial success. The company developed computers featuring innovative graphical user interfaces, including the 1984 original Macintosh, announced that year in a critically acclaimed advertisement. By 1985, the high cost of its products and power struggles between executives caused problems.",
+            "qae_pairs": [
+                {
+                    "question": "Who is the founder of Apple?",
+                    "answer": "Steve Wozniak",
+                    "explanation": "Steve Wozniak is the founder of Apple."
+                },
+                {
+                    "question": "Which year did the ad for the Macintosh come out?",
+                    "answer": "1984",
+                    "explanation": "The ad for the Macintosh came out in 1984."
+                },
+                {
+                    "question": "What is the date Apple was founded?",
+                    "answer": "April 1,1976",
+                    "explanation": "Apple was founded on April 1,1976."
+                }
+            ],
+            "hops": [
+                "Apple"
+            ]
+        },
+        "Barclays": {
+            "term": "Barclays",
+            "passage": "Barclays is a multinational British banking and financial services company headquartered at 20 Fleet Street in London. It is a universal bank and is regulated in the United Kingdom by the Prudential Regulation Authority and in the United States by the Federal Reserve and the Office of the Comptroller of the Currency. It operates primarily as a universal bank, offering retail banking, credit cards, corporate banking, wealth management, and investment banking services.",
+            "qae_pairs": [
+                {
+                    "question": "What is the regulator of Barclays?",
+                    "answer": "the Federal Reserve",
+                    "explanation": "Barclays is a multinational British banking and financial services company headquartered at 20 Fleet Street in London. It is a universal bank and is regulated in the United Kingdom by the Prudential Regulation Authority and in the United States by the Federal Reserve and the Office of the Comptroller of the Currency. It operates primarily as a universal bank, offering retail banking, credit cards, corporate banking, wealth management, and investment banking services."
+                },
+                {
+                    "question": "Comptroller of the Currency",
+                    "answer": "the Office of the Comptroller of the Currency",
+                    "explanation": "Barclays is a universal bank and is regulated in the United States by the Federal Reserve and the Office of the Comptroller of the Currency."
+                },
+                {
+                    "question": "What is the regulatory authority for Barclays?",
+                    "answer": "the Prudential Regulation Authority",
+                    "explanation": "Barclays is a multinational British banking and financial services company headquartered at 20 Fleet Street in London. It is a universal bank and is regulated in the United Kingdom by the Prudential Regulation Authority and in the United States by the Federal Reserve and the Office of the Comptroller of the Currency. It operates primarily as a universal bank, offering retail banking, credit cards, corporate banking, wealth management, and investment banking services."
+                },
+                {
+                    "question": "Where is Barclays headquartered?",
+                    "answer": "London",
+                    "explanation": "Barclays is a multinational British banking and financial services company headquartered at 20 Fleet Street in London. It is a universal bank and is regulated in the United Kingdom by the Prudential Regulation Authority and in the United States by the Federal Reserve and the Office of the Comptroller of the Currency. It operates primarily as a universal bank, offering retail banking, credit cards, corporate banking, wealth management, and investment banking services."
+                }
+            ],
+            "hops": [
+                "Barclays"
+            ]
+        },
+        "Bloomberg L.P.": {
+            "term": "Bloomberg L.P.",
+            "passage": "Bloomberg L.P., founded by Michael Bloomberg, is an American multinational financial software, information, and news company headquartered in New York City. The company is one of the largest financial news and information providers in the world, with an estimated 2,400 journalists in over 120 locations around the world. Bloomberg L.P. provides data, news, and analytics to professional traders and investing institutions. The company also provides real-time financial information to individuals via its Bloomberg Terminal.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the founder of Bloomberg L.P.?",
+                    "answer": "Michael Bloomberg",
+                    "explanation": "Michael Bloomberg founded Bloomberg L.P."
+                },
+                {
+                    "question": "What is the location of Bloomberg L.P.?",
+                    "answer": "New York City",
+                    "explanation": "Bloomberg L.P. is an American multinational financial software, information, and news company headquartered in New York City. The company is one of the largest financial news and information providers in the world, with an estimated 2,400 journalists in over 120 locations around the world. Bloomberg L.P. provides data, news, and analytics to professional traders and investing institutions. The company also provides real-time financial information to individuals via its Bloomberg Terminal."
+                }
+            ],
+            "hops": [
+                "Bloomberg L.P."
+            ]
+        },
+        "Boston Consulting Group": {
+            "term": "Boston Consulting Group",
+            "passage": "Boston Consulting Group (BCG) is an American management consulting firm with over 100 offices in more than 40 countries. It is one of the Big Four management consulting firms along with McKinsey & Company, Bain & Company, and Deloitte Consulting, and is considered a leader in strategy consulting and corporate consulting. [citation needed] BCG was founded in 1963 by Bruce Henderson and partner David J. Chynoweth, who had met as graduate students at Harvard Business School. The company is organized around two global consulting networks, one for strategy consulting and one for corporate consulting. It is led by the firm's managing partner, and is composed of approximately 20,000 consultants. In 2017 BCG generated $3.7 billion in revenue, with profits of $865 million. The company has a large presence in many of the Fortune 500 companies, and is ranked as the second largest management consulting firm in the world by revenue. [1]\nIt has been listed in the Consulting magazine's list of the \\\"World's Most Innovative Companies\\\" every year since 2012, ranking first in 2017 and second in 2015. The firm was founded in 1963 by two Harvard Business School graduates, Bruce Henderson and David J.\nChynoweth. Henderson was the firm's first managing partner and led the organization for the first 20 years of its existence. He was succeeded in 1983 by Michael J.",
+            "qae_pairs": [
+                {
+                    "question": "What year was the company founded that is led by the firm's managing partner?",
+                    "answer": "1963",
+                    "explanation": "Boston Consulting Group was founded in 1963 by Bruce Henderson and partner David J. Chynoweth, who had met as graduate students at Harvard Business School."
+                },
+                {
+                    "question": "Where did the founders of Boston Consulting Group go to school?",
+                    "answer": "Harvard Business School",
+                    "explanation": "Boston Consulting Group was founded in 1963 by two Harvard Business School graduates, Bruce Henderson and David J. Chynoweth."
+                },
+                {
+                    "question": "Who founded Boston Consulting Group?",
+                    "answer": "Bruce Henderson",
+                    "explanation": "Boston Consulting Group was founded in 1963 by Bruce Henderson and partner David J. Chynoweth, who had met as graduate students at Harvard Business School."
+                },
+                {
+                    "question": "What is the name of the person who was the first managing partner of Boston Consulting Group?",
+                    "answer": "Michael J",
+                    "explanation": "Michael J."
+                },
+                {
+                    "question": "When did the first managing partner of Boston Consulting Group leave the company?",
+                    "answer": "1983",
+                    "explanation": "The first managing partner of Boston Consulting Group, Bruce Henderson, left the company in 1983."
+                }
+            ],
+            "hops": [
+                "Boston Consulting Group"
+            ]
+        },
+        "BNP Paribas": {
+            "term": "BNP Paribas",
+            "passage": "BNP Paribas is a French multinational banking and financial services company headquartered in Paris. It is the world's largest bank by market capitalization, the largest in Europe by total assets, and the largest in the world by international banking network. BNP Paribas is a universal bank, with operations in Europe, North America, and Asia, and is organized as a limited-liability company. It is one of the largest financial institutions in the world, and the largest bank in France. The bank is a universal bank, meaning that it offers a range of banking and financial products and services to individuals, corporations, institutional clients, and governments. It is a universal bank because it offers a range of banking and financial products and services to individuals, corporations, institutional clients, and governments.",
+            "qae_pairs": [
+                {
+                    "question": "What is the full name of the company that is the largest bank in France?",
+                    "answer": "Paribas",
+                    "explanation": "BNP Paribas is a French multinational banking and financial services company headquartered in Paris. It is the world's largest bank by market capitalization, the largest in Europe by total assets, and the largest in the world by international banking network. BNP Paribas is a universal bank, with operations in Europe, North America, and Asia, and is organized as a limited-liability company. It is one of the largest financial institutions in the world, and the largest bank in France."
+                },
+                {
+                    "question": "Where is the headquarters of BNP Paribas?",
+                    "answer": "Paris",
+                    "explanation": "BNP Paribas is a French multinational banking and financial services company headquartered in Paris. It is the world's largest bank by market capitalization, the largest in Europe by total assets, and the largest in the world by international banking network. BNP Paribas is a universal bank, with operations in Europe, North America, and Asia, and is organized as a limited-liability company. It is one of the largest financial institutions in the world, and the largest bank in France. The bank is a universal bank, meaning that it offers a range of banking and financial products and services to individuals, corporations,"
+                },
+                {
+                    "question": "What country is the headquarters of BNP Paribas located in?",
+                    "answer": "France",
+                    "explanation": "BNP Paribas is a French multinational banking and financial services company headquartered in Paris. It is the world's largest bank by market capitalization, the largest in Europe by total assets, and the largest in the world by international banking network. BNP Paribas is a universal bank, with operations in Europe, North America, and Asia, and is organized as a limited-liability company. It is one of the largest financial institutions in the world, and the largest bank in France. The bank is a universal bank, meaning that it offers a range of banking and financial products and services to individuals, corporations,"
+                }
+            ],
+            "hops": [
+                "BNP Paribas"
+            ]
+        },
+        "China Construction Bank": {
+            "term": "China Construction Bank",
+            "passage": "China Construction Bank (CCB; Chinese: 中国建设银行; pinyin: Zhōngguó Jiànshè Yínháng) is a Chinese bank headquartered in Beijing. It is one of the Big Four banks of China, alongside Industrial and Commercial Bank of China, Agricultural Bank of China, and Bank of China. The bank was founded in 1952 as the first nationalized commercial bank in China. It is the largest bank in China by assets, and was ranked as the largest bank in Asia in 2019 by total assets. It has over 1,000 domestic offices and branches, and over 1,200 foreign representative offices and subsidiaries in more than 50 countries and regions. The bank is owned by the People's Republic of China and governed by the China Banking and Insurance Regulatory Commission. The bank is one of the few financial institutions in the world with a PBC charter, which gives the bank a special legal status. The bank is also one of the first banks in the world to receive a PBC banking license. The bank's primary business is lending and deposit-taking, with a focus on providing financing for infrastructure projects. It is also a major provider of foreign exchange and money market products and services in China and a global leader in trade and treasury management. The bank is also one of the largest providers of consumer financing in China and a leading provider of wealth management services.",
+            "qae_pairs": [
+                {
+                    "question": "When was China Construction Bank founded?",
+                    "answer": "1952",
+                    "explanation": "China Construction Bank was founded in 1952."
+                },
+                {
+                    "question": "What country is the China Construction Bank in?",
+                    "answer": "the People's Republic of China",
+                    "explanation": "China Construction Bank is a Chinese bank headquartered in Beijing. It is one of the Big Four banks of China, alongside Industrial and Commercial Bank of China, Agricultural Bank of China, and Bank of China. The bank was founded in 1952 as the first nationalized commercial bank in China. It is the largest bank in China by assets, and was ranked as the largest bank in Asia in 2019 by total assets. It has over 1,000 domestic offices and branches, and over 1,200 foreign representative offices and subsidiaries in more than 50 countries and regions. The bank is owned by the People's Republic of China and governed by"
+                },
+                {
+                    "question": "Where is the bank located?",
+                    "answer": "Beijing",
+                    "explanation": "China Construction Bank is a Chinese bank headquartered in Beijing."
+                },
+                {
+                    "question": "What is the name of the bank that is the largest bank in Asia?",
+                    "answer": "CCB",
+                    "explanation": "CCB is the largest bank in Asia. It is one of the Big Four banks of China, alongside Industrial and Commercial Bank of China, Agricultural Bank of China, and Bank of China."
+                },
+                {
+                    "question": "What year was the bank ranked as the largest bank in Asia?",
+                    "answer": "2019",
+                    "explanation": "In 2019, China Construction Bank was ranked as the largest bank in Asia."
+                },
+                {
+                    "question": "What continent is China Construction Bank located in?",
+                    "answer": "Asia",
+                    "explanation": "China Construction Bank is located in Asia."
+                },
+                {
+                    "question": "What is the name of the organization that governs China Construction Bank?",
+                    "answer": "the China Banking and Insurance Regulatory Commission",
+                    "explanation": "China Construction Bank is governed by the China Banking and Insurance Regulatory Commission."
+                },
+                {
+                    "question": "What bank is China Construction Bank owned by?",
+                    "answer": "Industrial and Commercial Bank of China",
+                    "explanation": "China Construction Bank is a Chinese bank headquartered in Beijing. It is one of the Big Four banks of China, alongside Industrial and Commercial Bank of China, Agricultural Bank of China, and Bank of China. The bank was founded in 1952 as the first nationalized commercial bank in China. It is the largest bank in China by assets, and was ranked as the largest bank in Asia in 2019 by total assets. It has over 1,000 domestic offices and branches, and over 1,200 foreign representative offices and subsidiaries in more than 50 countries and regions. The bank is owned by the People's Republic of China and governed by"
+                }
+            ],
+            "hops": [
+                "China Construction Bank"
+            ]
+        },
+        "China Mobile": {
+            "term": "China Mobile",
+            "passage": "As of 31 March 2020[update], there are 989.8 million mobile subscribers in China, of which 846.1 million are postpaid and 143.7 million are prepaid. The number of mobile broadband users was estimated to be about 400 million by the end of 2018, and the penetration rate was about 55%. The number of mobile broadband subscriptions reached 500 million in November 2022. The number of mobile phone subscribers in China was estimated to be 1.1 billion by the end of 2018. The number of mobile phone subscribers in China was estimated to be 1.2 billion by the end of 2021. The penetration rate of mobile phones was about 100% in 2018, with about 1.2 billion subscriptions. The number of mobile phone subscribers in China was estimated to be about 1.3 billion by the end of 2023.",
+            "qae_pairs": [
+                {
+                    "question": "How many years from now will the number of mobile phone subscribers in China be estimated to be 1.3 billion?",
+                    "answer": "the end of 2023",
+                    "explanation": "The number of mobile phone subscribers in China was estimated to be about 1.3 billion by the end of 2023."
+                },
+                {
+                    "question": "When was the number of mobile phone subscribers in China estimated to be 1.2 billion?",
+                    "answer": "the end of 2021",
+                    "explanation": "The number of mobile phone subscribers in China was estimated to be about 1.2 billion by the end of 2021."
+                }
+            ],
+            "hops": [
+                "China Mobile"
+            ]
+        }
+    },
+    "second_hops": {
+        "Rani Mukerji": {
+            "term": "Rani Mukerji",
+            "passage": "In the late 1980s and early 1990s, Mukerji was a leading actress in Bollywood films, and is considered one of the most popular and highest-paid Indian actresses of her time. Her career began with the 1990 film Maine Pyar Kiya, for which she received her first nomination for the Filmfare Award for Best Actress and a Filmfare Critics Award for Best Actress. Her performance as a rebellious young woman in the 1991 film Baazigar earned her the Filmfare Best Actress Award, and she received a second Best Actress nomination for her work in the 1992 film Khalnayak.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the film in which Rani Mukerji played a rebellious young woman?",
+                    "answer": "Khalnayak",
+                    "explanation": "Rani Mukerji was a leading actress in Bollywood films. Her career began with the 1990 film Maine Pyar Kiya. For her work in the 1991 film Baazigar, she received the Filmfare Best Actress Award. She also received a second Best Actress nomination for her work in the 1992 film Khalnayak."
+                },
+                {
+                    "question": "How many years after Baazigar did Rani Mukerji receive her second Best Actress nomination?",
+                    "answer": "1992",
+                    "explanation": "Rani Mukerji received her second Best Actress nomination for her work in the 1992 film Khalnayak."
+                },
+                {
+                    "question": "Write a question about the following context and answer with Rani Mukerji.\n",
+                    "answer": "Mukerji",
+                    "explanation": "Rani Mukerji is a popular and highest-paid Indian actress of her time."
+                },
+                {
+                    "question": "Write a question for the following answer: 'Rani Mukerji is a leading actress in Bollywood films.'\n",
+                    "answer": "Bollywood",
+                    "explanation": "Rani Mukerji is a leading actress in Bollywood films."
+                },
+                {
+                    "question": "Write a question about the following passage that would be relevant to Rani Mukerji: In the late 1980s and early 1990s, Mukerji was a leading actress in Bollywood films, and is considered one of the most popular and highest-paid Indian actresses of her time.",
+                    "answer": "Maine",
+                    "explanation": "Maine Pyar Kiya is the first film in which Rani Mukerji acted."
+                }
+            ],
+            "hops": [
+                "Alibaba",
+                "Rani Mukerji"
+            ]
+        },
+        "A. Sreekar Prasad": {
+            "term": "A. Sreekar Prasad",
+            "passage": "Sreekar Prasad is a retired Indian diplomat. He was the Indian ambassador to Saudi Arabia from 2009 to 2012. Prasad was born in India, and is a graduate of the University of Delhi. He is an Indian Foreign Service officer of the 1966 batch.",
+            "qae_pairs": [
+                {
+                    "question": "What is the year of birth of A. Sreekar Prasad?",
+                    "answer": "1966",
+                    "explanation": "A. Sreekar Prasad was born in 1966."
+                },
+                {
+                    "question": "What is the entity that Sreekar Prasad attended that was not a university?\n",
+                    "answer": "the University of Delhi",
+                    "explanation": "Sreekar Prasad attended the University of Delhi, which is not a university."
+                },
+                {
+                    "question": "What is the name of the entity that Sreekar Prasad is the ambassador of?",
+                    "answer": "Saudi Arabia",
+                    "explanation": "Sreekar Prasad is the Indian ambassador to Saudi Arabia."
+                },
+                {
+                    "question": "What is A. Sreekar Prasad's current position?\n",
+                    "answer": "Indian Foreign Service",
+                    "explanation": "Sreekar Prasad is a retired Indian diplomat. He was the Indian ambassador to Saudi Arabia from 2009 to 2012. Prasad was born in India, and is a graduate of the University of Delhi. He is an Indian Foreign Service officer of the 1966 batch."
+                },
+                {
+                    "question": "What is the year when Sreekar Prasad was the Indian ambassador to Saudi Arabia?\n",
+                    "answer": "2012",
+                    "explanation": "Sreekar Prasad was the Indian ambassador to Saudi Arabia from 2009 to 2012."
+                }
+            ],
+            "hops": [
+                "Alibaba",
+                "A. Sreekar Prasad"
+            ]
+        },
+        "Turkey": {
+            "term": "Turkey",
+            "passage": "Turkey (Turkish: Türkiye), officially the Republic of Turkey (Turkish: Cumhuriyetler Türkiye), is a transcontinental country in Eurasia, mainly in Anatolia in Western Asia, with a smaller portion on the Balkan peninsula in Southeast Europe. Turkey is a unitary, parliamentary, secular republic with a diverse cultural heritage.",
+            "qae_pairs": [
+                {
+                    "question": "Which part of Turkey is in Western Asia?\n",
+                    "answer": "Western Asia",
+                    "explanation": "Turkey is in Western Asia."
+                }
+            ],
+            "hops": [
+                "Alibaba",
+                "Turkey"
+            ]
+        },
+        "Vijay Singh's": {
+            "term": "Vijay Singh's",
+            "passage": "Vijay Singh (born July 10, 1970 in Fremont, California) is an American professional golfer who played on the PGA Tour, Nationwide Tour, and Champions Tour. He was the first American to win The Players Championship, a major championship on the PGA Tour.",
+            "qae_pairs": [
+                {
+                    "question": "Vijay Singh's home state is California.\n",
+                    "answer": "California",
+                    "explanation": "Vijay Singh was born in Fremont, California."
+                },
+                {
+                    "question": "What is Vijay Singh's hometown?",
+                    "answer": "Fremont",
+                    "explanation": "Vijay Singh was born in Fremont, California."
+                },
+                {
+                    "question": "What is Vijay Singh's date of birth?\n",
+                    "answer": "July 10, 1970",
+                    "explanation": "Vijay Singh was born on July 10, 1970."
+                }
+            ],
+            "hops": [
+                "Alibaba",
+                "Vijay Singh's"
+            ]
+        },
+        "VIVA Entertainment": {
+            "term": "VIVA Entertainment",
+            "passage": "Viva Entertainment was a video game company founded in 1992 by former members of Origin Systems. It was founded as an independent company by Mike Kulas, John K. Watson, and Jim Brown. The company's first title, \"Viva Cagney\", was a platformer for the Sega CD.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the person who founded VIVA Entertainment?",
+                    "answer": "Mike Kulas",
+                    "explanation": "Mike Kulas founded Viva Entertainment."
+                }
+            ],
+            "hops": [
+                "Alibaba",
+                "VIVA Entertainment"
+            ]
+        },
+        "Shibin": {
+            "term": "Shibin",
+            "passage": "The Shibui (柴木) style of Japanese calligraphy is named after the brush called shibui (柴木), which is a variant of the bamboo brush. The shibui brush is made of a bamboo tube bound with silk thread.",
+            "qae_pairs": [
+                {
+                    "question": "Write a question about Shibin that is related to the calligraphy brush.",
+                    "answer": "Shibui",
+                    "explanation": "The Shibui style of Japanese calligraphy is named after the brush called shibui, which is a variant of the bamboo brush."
+                }
+            ],
+            "hops": [
+                "Alibaba",
+                "Shibin"
+            ]
+        },
+        "Amitabh Bachchan": {
+            "term": "Amitabh Bachchan",
+            "passage": "Amitabh Bachchan (born Amjad Ali Khan; 14 April 1942), known as \"Big B\", is an Indian actor who works primarily in Hindi language films. He has received four National Film Awards and six Filmfare Awards, and is the recipient of the Padma Bhushan, India's third highest civilian award, and the Padma Vibhushan, the second-highest civilian award in India.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the award that Amitabh Bachchan has received that is the second-highest civilian award in India?",
+                    "answer": "the Padma Vibhushan",
+                    "explanation": "The Padma Vibhushan is the second-highest civilian award in India."
+                }
+            ],
+            "hops": [
+                "Alibaba",
+                "Amitabh Bachchan"
+            ]
+        },
+        "Rajkumar Santoshi": {
+            "term": "Rajkumar Santoshi",
+            "passage": "Rajkumar Santoshi (born 3 January 1955) is an Indian film director, producer, and screenwriter who works in Hindi cinema. He is known for his works in Bollywood, such as Maine Pyar Kyun Kiya? (2000), Munna Bhai M.B.B.S. (2002), Lage Raho Munna Bhai (2006), 3 Idiots (2009), PK (2014), Sanju (2018) and Stree (2020).",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the film that Rajkumar Santoshi directed that stars Akshay Kumar?",
+                    "answer": "M.B.B.S",
+                    "explanation": "Rajkumar Santoshi directed the film M.B.B.S. starring Akshay Kumar."
+                },
+                {
+                    "question": "What is the year of Rajkumar Santoshi's film Munna Bhai M.B.B.S.?",
+                    "answer": "2002",
+                    "explanation": "Rajkumar Santoshi was born on 3 January 1955. He is an Indian film director, producer, and screenwriter who works in Hindi cinema. He is known for his works in Bollywood, such as Maine Pyar Kyun Kiya? (2000), Munna Bhai M.B.B.S. (2002), Lage Raho Munna Bhai (2006), 3 Idiots (2009), PK (2014), Sanju (2018) and Stree (2020)."
+                },
+                {
+                    "question": "What is the year of Rajkumar Santoshi's latest film?",
+                    "answer": "2020",
+                    "explanation": "Rajkumar Santoshi is a film director, producer, and screenwriter who works in Hindi cinema. He is known for his works in Bollywood, such as Maine Pyar Kyun Kiya? (2000), Munna Bhai M.B.B.S. (2002), Lage Raho Munna Bhai (2006), 3 Idiots (2009), PK (2014), Sanju (2018) and Stree (2020)."
+                },
+                {
+                    "question": "What is the date of birth of Rajkumar Santoshi?",
+                    "answer": "3 January 1955",
+                    "explanation": "Rajkumar Santoshi was born on 3 January 1955."
+                },
+                {
+                    "question": "What is the year of Rajkumar Santoshi's film that stars Akshay Kumar and Katrina Kaif?",
+                    "answer": "2018",
+                    "explanation": "Rajkumar Santoshi is an Indian film director, producer, and screenwriter who works in Hindi cinema. He is known for his works in Bollywood, such as Maine Pyar Kyun Kiya? (2000), Munna Bhai M.B.B.S. (2002), Lage Raho Munna Bhai (2006), 3 Idiots (2009), PK (2014), Sanju (2018) and Stree (2020)."
+                }
+            ],
+            "hops": [
+                "Alibaba",
+                "Rajkumar Santoshi"
+            ]
+        },
+        "A. R. Rahman": {
+            "term": "A. R. Rahman",
+            "passage": "A. R. Rahman (born 25 June 1967) is an Indian composer and musician who predominantly works in the Tamil and Malayalam film industries. He has won four Academy awards, six Grammy Awards, fifteen Brit Awards, fifteen Filmfare Awards, and ten National Film Awards. He has received four of these honors twice, making him one of the few artists to have won an Academy Award, a Grammy Award, and a BAFTA Award.",
+            "qae_pairs": [
+                {
+                    "question": "Which of the following is NOT true about A. R. Rahman?",
+                    "answer": "Filmfare Awards",
+                    "explanation": "Filmfare Awards are given by the Filmfare magazine, not by the Academy Awards."
+                },
+                {
+                    "question": "Question: A. R. Rahman is the only musician to have won the following award:\n",
+                    "answer": "an Academy Award",
+                    "explanation": "A. R. Rahman is the only musician to have won the following award: an Academy Award."
+                },
+                {
+                    "question": "What is A. R. Rahman's award that he won twice?",
+                    "answer": "Grammy Awards",
+                    "explanation": "A. R. Rahman has won four Grammy Awards, which is the only award he has won twice."
+                },
+                {
+                    "question": "What is the birth date of A. R. Rahman?",
+                    "answer": "25 June 1967",
+                    "explanation": "A. R. Rahman was born on 25 June 1967."
+                }
+            ],
+            "hops": [
+                "Alibaba",
+                "A. R. Rahman"
+            ]
+        },
+        "Farah": {
+            "term": "Farah",
+            "passage": "Farah Khan (born Farah Jamal Khan; 17 February 1965) is an Indian film choreographer, director, actor and dancer, who has worked in Hindi cinema and Bollywood. She was born in Mumbai and studied at the National School of Drama. She made her film debut as a choreographer in the 1990 film \"Saajan\", for which she won the National Film Award for Best Choreography. She has also choreographed for several commercially successful films including \"Rangeela\" (1998), \"Dil To Pagal Hai\" (1997) and \"Karan Arjun\" (1995).",
+            "qae_pairs": [
+                {
+                    "question": "How many years after Farah's debut film did she work on the film Karan Arjun?",
+                    "answer": "1995",
+                    "explanation": "Farah Khan made her film debut as a choreographer in the 1990 film Saajan, for which she won the National Film Award for Best Choreography. She has also choreographed for several commercially successful films including Rangeela (1998), Dil To Pagal Hai (1997) and Karan Arjun (1995)."
+                },
+                {
+                    "question": "How many years old is Farah?",
+                    "answer": "17 February 1965",
+                    "explanation": "Farah Khan was born on 17 February 1965."
+                }
+            ],
+            "hops": [
+                "Alibaba",
+                "Farah"
+            ]
+        },
+        "New York City": {
+            "term": "New York City",
+            "passage": "The New York metropolitan area, commonly referred to as Greater New York, New York City, or the NYC Metro, is the largest metropolitan area and second-most populous urban agglomeration in the United States, after the much larger Greater Los Angeles. With an estimated 20,689,849 people as of 2015, it is also the third most populous urban area in the world after the Tokyo-Yokohama-Kawasaki metropolitan area and the Greater Beijing area. The New York metropolitan area is home to the largest Jewish community in the world outside Israel, with approximately 1.1 million Jews living in Brooklyn, Queens, Staten Island, and the Bronx.",
+            "qae_pairs": [
+                {
+                    "question": "Which city is not in New York City?\n",
+                    "answer": "Greater New York",
+                    "explanation": "The New York metropolitan area, commonly referred to as Greater New York, New York City, or the NYC Metro, is the largest metropolitan area and second-most populous urban agglomeration in the United States, after the much larger Greater Los Angeles."
+                },
+                {
+                    "question": "What is the name of the place in New York City where Jews live?\n",
+                    "answer": "Brooklyn",
+                    "explanation": "The New York metropolitan area, commonly referred to as Greater New York, New York City, or the NYC Metro, is the largest metropolitan area and second-most populous urban agglomeration in the United States, after the much larger Greater Los Angeles. With an estimated 20,689,849 people as of 2015, it is also the third most populous urban area in the world after the Tokyo-Yokohama-Kawasaki metropolitan area and the Greater Beijing area. The New York metropolitan area is home to the largest Jewish community in the world outside Israel, with approximately 1.1 million Jews living in Brooklyn, Queens"
+                },
+                {
+                    "question": "Which of the following is NOT true of Staten Island, New York City: it is part of the New York metropolitan area, it has a large Jewish population, it is home to the New York City Police Department, the Staten Island Ferry is a free ferry service that connects the borough with Lower Manhattan.",
+                    "answer": "Staten Island",
+                    "explanation": "Staten Island is not part of the New York metropolitan area."
+                }
+            ],
+            "hops": [
+                "Bloomberg L.P.",
+                "New York City"
+            ]
+        },
+        "Steve Wozniak": {
+            "term": "Steve Wozniak",
+            "passage": "Steve Wozniak (born 1950) is an American engineer, computer programmer, and businessman best known as one of the co-founders of Apple Inc. with Steve Jobs. He attended Homestead High School in Cupertino, California.",
+            "qae_pairs": [
+                {
+                    "question": "What is the year of birth of Steve Wozniak?",
+                    "answer": "1950",
+                    "explanation": "Steve Wozniak was born in 1950."
+                },
+                {
+                    "question": "What is the name of the school that Steve Wozniak attended?",
+                    "answer": "Homestead High School",
+                    "explanation": "Steve Wozniak attended Homestead High School in Cupertino, California."
+                },
+                {
+                    "question": "What is the name of the city where Steve Wozniak was born?",
+                    "answer": "Cupertino",
+                    "explanation": "Steve Wozniak was born in Cupertino, California."
+                }
+            ],
+            "hops": [
+                "Apple",
+                "Steve Wozniak"
+            ]
+        },
+        "the Federal Reserve": {
+            "term": "the Federal Reserve",
+            "passage": "The Federal Reserve System is an independent federal agency created by the U.S. Congress in 1913 during the Progressive Era to provide the nation with a safer, more flexible, and more stable monetary and financial system. It consists of several institutions, including the Board of Governors, the Federal Open Market Committee (FOMC), and the twelve regional Federal Reserve Banks, which serve both public and private sectors as the nation's central bank and financial regulator.",
+            "qae_pairs": [
+                {
+                    "question": "Which year was the Federal Reserve created?",
+                    "answer": "1913",
+                    "explanation": "The Federal Reserve System was created in 1913."
+                },
+                {
+                    "question": "Which of the following is not a correct statement about the Federal Reserve?",
+                    "answer": "the U.S. Congress",
+                    "explanation": "The Federal Reserve System is an independent federal agency created by the U.S. Congress in 1913 during the Progressive Era to provide the nation with a safer, more flexible, and more stable monetary and financial system."
+                },
+                {
+                    "question": "Which of the following is not a correct statement about the Federal Reserve System?",
+                    "answer": "the Progressive Era",
+                    "explanation": "The Federal Reserve System was created during the Progressive Era."
+                }
+            ],
+            "hops": [
+                "Barclays",
+                "the Federal Reserve"
+            ]
+        },
+        "the Office of the Comptroller of the Currency": {
+            "term": "the Office of the Comptroller of the Currency",
+            "passage": "The Office of the Comptroller of the Currency (OCC) is a United States independent agency that regulates national banks and federal savings associations. The OCC is an agency of the United States federal government. It is headed by a Comptroller of the Currency. The OCC is a bureau of the United States Department of the Treasury. It is housed in Washington, D.C. The OCC was created on June 3, 1863, under an act of Congress. The OCC is an independent bureau of the United States Department of the Treasury. It is headed by a Comptroller of the Currency, appointed by the president with the consent of the United States Senate. The Comptroller of the Currency serves as the head of the OCC, and is the chief banking regulator for federally chartered banks and federal savings associations. The OCC is a federal agency that regulates national banks, federal branches, and federal savings associations, including their holding companies, and the federal branches and federal savings associations of foreign banks. The OCC supervises approximately 8,000 state member banks and federal branches, and federal savings associations. The Comptroller of the Currency is the chief executive of the OCC, and the head of the federal banking system.",
+            "qae_pairs": [
+                {
+                    "question": "What year was the Office of the Comptroller of the Currency created?",
+                    "answer": "June 3, 1863",
+                    "explanation": "The Office of the Comptroller of the Currency was created on June 3, 1863, under an act of Congress."
+                },
+                {
+                    "question": "What is the location of the Office of the Comptroller of the Currency?",
+                    "answer": "D.C",
+                    "explanation": "The Office of the Comptroller of the Currency is an independent agency that regulates national banks and federal savings associations. It is located in Washington, D.C."
+                },
+                {
+                    "question": "What is the Office of the Comptroller of the Currency a part of?",
+                    "answer": "the United States Department",
+                    "explanation": "The Office of the Comptroller of the Currency is a part of the United States Department of the Treasury."
+                }
+            ],
+            "hops": [
+                "Barclays",
+                "the Office of the Comptroller of the Currency"
+            ]
+        },
+        "the Prudential Regulation Authority": {
+            "term": "the Prudential Regulation Authority",
+            "passage": "Prudential Regulation Authority (PRA) is a non-ministerial UK government body that regulates the UK insurance industry. It was established in 2012 as a successor to the Financial Services Authority. It was formed by the Financial Services and Markets Act of 2000 and is based at 25 Victoria Street in London.",
+            "qae_pairs": [
+                {
+                    "question": "What year was the Prudential Regulation Authority formed?",
+                    "answer": "2012",
+                    "explanation": "The Prudential Regulation Authority was formed in 2012 as a successor to the Financial Services Authority."
+                },
+                {
+                    "question": "Which act established the Prudential Regulation Authority (PRA)?",
+                    "answer": "the Financial Services and Markets Act",
+                    "explanation": "The Prudential Regulation Authority (PRA) is a non-ministerial UK government body that regulates the UK insurance industry. It was established in 2012 as a successor to the Financial Services Authority. It was formed by the Financial Services and Markets Act of 2000 and is based at 25 Victoria Street in London."
+                },
+                {
+                    "question": "What is the location of the Prudential Regulation Authority?",
+                    "answer": "London",
+                    "explanation": "The Prudential Regulation Authority is based in London."
+                }
+            ],
+            "hops": [
+                "Barclays",
+                "the Prudential Regulation Authority"
+            ]
+        },
+        "London": {
+            "term": "London",
+            "passage": "London (UK: /ˈlʌndən/ LUND, US: /ˈlʌndən/ LUND; Scottish Gaelic: \"Lùndain\" ( listen)), officially the City of London, is the capital city of England and of the United Kingdom. It is the largest city in both the United Kingdom and England. With a population of 9.7 million residents in 2017, London is also the most populous city proper in the European Union. London has been a major settlement for two millennia. It is one of the world's most significant global cities, and has the fifth- or sixth-largest metropolitan area GDP (depending on calculation method) in the world (globally, it is the world's fourth-largest city by GDP). London is a leading global city, hosting the headquarters of many major international companies and organisations, and is one of the world's leading financial centres. London is a top international tourist destination, ranked as the most visited city in the world in 2013 and 2014, and the largest city in the world by urban area. It has been ranked as the most expensive city in the world in which to live or visit. London's many universities make it one of the world's top research and education centres, drawing students from around the world, and making it a global centre for business and finance.",
+            "qae_pairs": [
+                {
+                    "question": "How many years has London been a major settlement?",
+                    "answer": "two millennia",
+                    "explanation": "London has been a major settlement for two millennia."
+                },
+                {
+                    "question": "What is the year that London was ranked as the most visited city in the world?",
+                    "answer": "2013",
+                    "explanation": "London was ranked as the most visited city in the world in 2013."
+                },
+                {
+                    "question": "What is the capital of the country that London is in?",
+                    "answer": "the United Kingdom",
+                    "explanation": "London is the capital city of the United Kingdom."
+                }
+            ],
+            "hops": [
+                "Barclays",
+                "London"
+            ]
+        },
+        "Michael Bloomberg": {
+            "term": "Michael Bloomberg",
+            "passage": "Michael Bloomberg (born February 14, 1942) is an American businessman and philanthropist who served as the 108th Mayor of New York City, a position he held from 2002 to 2013. He is a member of the Democratic Party.",
+            "qae_pairs": [
+                {
+                    "question": "What is Michael Bloomberg's position?",
+                    "answer": "New York City",
+                    "explanation": "Michael Bloomberg is a former mayor of New York City. He was elected in 2001 and served until 2013."
+                },
+                {
+                    "question": "What is the date of birth of Michael Bloomberg?",
+                    "answer": "February 14, 1942",
+                    "explanation": "Michael Bloomberg was born on February 14, 1942."
+                }
+            ],
+            "hops": [
+                "Bloomberg L.P.",
+                "Michael Bloomberg"
+            ]
+        },
+        "Harvard Business School": {
+            "term": "Harvard Business School",
+            "passage": "Harvard Business School (HBS) is an American graduate business school of Harvard University. Founded in 1908 as the Harvard School of Business, it was the first American school to offer a Master of Business Administration degree when it did so in 1908. It was also the first to offer the degree on a full-time, residential, and degree-granting basis. HBS is consistently ranked as one of the top business schools in the world.",
+            "qae_pairs": [
+                {
+                    "question": "What year did Harvard Business School start?\n",
+                    "answer": "1908",
+                    "explanation": "Harvard Business School was founded in 1908."
+                },
+                {
+                    "question": "What is Harvard Business School?\n",
+                    "answer": "HBS",
+                    "explanation": "Harvard Business School (HBS) is an American graduate business school of Harvard University."
+                }
+            ],
+            "hops": [
+                "Boston Consulting Group",
+                "Harvard Business School"
+            ]
+        },
+        "Bruce Henderson": {
+            "term": "Bruce Henderson",
+            "passage": "Bruce Henderson (born July 22, 1949) is a Canadian retired professional ice hockey player who played for the Philadelphia Flyers, Pittsburgh Penguins, Toronto Maple Leafs, and Washington Capitals in the National Hockey League (NHL). He is currently an analyst for the NHL Network. Henderson was a two-time Stanley Cup champion, winning the Conn Smythe Trophy as playoff MVP in 1981 with the Penguins and the Conn Smythe Trophy again in 1992 with the Maple Leafs.",
+            "qae_pairs": [
+                {
+                    "question": "What date is Bruce Henderson's birthday?\n",
+                    "answer": "July 22, 1949",
+                    "explanation": "Bruce Henderson was born on July 22, 1949."
+                },
+                {
+                    "question": "What is the year that Bruce Henderson won the Conn Smythe Trophy?\n",
+                    "answer": "1981",
+                    "explanation": "Bruce Henderson won the Conn Smythe Trophy in 1981 and 1992."
+                },
+                {
+                    "question": "How many years after winning the Stanley Cup did Bruce Henderson win the Conn Smythe Trophy?",
+                    "answer": "1992",
+                    "explanation": "Bruce Henderson won the Conn Smythe Trophy in 1992, two years after winning the Stanley Cup with the Toronto Maple Leafs."
+                }
+            ],
+            "hops": [
+                "Boston Consulting Group",
+                "Bruce Henderson"
+            ]
+        },
+        "Michael J": {
+            "term": "Michael J",
+            "passage": "Michael J. Fox (born Michael Andrew Fox; July 26, 1961) is an American actor, film producer, and activist. He is best known for his starring role as Alex P. Keaton on the NBC sitcom Family Ties (1982–1989), for which he received two Emmy Awards and a Golden Globe Award, and for his portrayal of Marty McFly in the Back to the Future trilogy (1985–1990).",
+            "qae_pairs": [
+                {
+                    "question": "What is Michael J. Fox's character's name in Back to the Future?",
+                    "answer": "Marty McFly",
+                    "explanation": "Michael J. Fox played Marty McFly in the Back to the Future trilogy."
+                }
+            ],
+            "hops": [
+                "Boston Consulting Group",
+                "Michael J"
+            ]
+        },
+        "Paribas": {
+            "term": "Paribas",
+            "passage": "Paribas (pronounced [parʁiˈbas]) ( /ˈpærɪbɑːs/) is one of the five main French banks, alongside Société Générale, Crédit agricole, BNP Paribas and Natixis. It is the second largest bank in France, after BNP Paribas, and the largest bank in Europe by market capitalization.",
+            "qae_pairs": [
+                {
+                    "question": "Which French bank is larger than Paribas and is a competitor to Société Générale?\n",
+                    "answer": "Société Générale",
+                    "explanation": "Société Générale"
+                },
+                {
+                    "question": "Which country does Paribas have operations in?",
+                    "answer": "France",
+                    "explanation": "Paribas is a French bank that has operations in France."
+                }
+            ],
+            "hops": [
+                "BNP Paribas",
+                "Paribas"
+            ]
+        },
+        "Paris": {
+            "term": "Paris",
+            "passage": "Paris (pronounced /ˈpærɪsi/ (help·info)) is the capital and most populous city of France. It has an area of 105 km2 (41 sq mi) and a population of 2,251,621 (in 2013) within its administrative limits. The city is located in the north of the country on the river Seine, in the centre of the Île-de-France region, and at the heart of the Île-de-France administrative region. The city is also the centre of the Paris Region, one of the largest urban areas in the European Union. Paris' inhabitants are called Parisians (French: Parisiens), and the city is also referred to as the City of Light. The city is renowned for its culture, fashion, art, science, and cuisine. It hosts many world-renowned monuments and museums, including the Louvre (world's largest museum), Notre Dame (cathedral of the French Catholic Church), the Eiffel Tower, and the Basilica of Sacré-Cœur, which houses one of the largest congregations of Christ the Light. In addition to its historical and cultural significance, Paris is also the center of the French economy and government. It is the largest city in the European Union by population (following London), and the second largest city in the world, after Tokyo.",
+            "qae_pairs": [
+                {
+                    "question": "Which country is home to the city of Paris?\n",
+                    "answer": "France",
+                    "explanation": "Paris is the capital and most populous city of France."
+                },
+                {
+                    "question": "What is the name of the religious organization that is the largest in Paris?",
+                    "answer": "the French Catholic Church",
+                    "explanation": "The largest religious organization in Paris is the French Catholic Church."
+                },
+                {
+                    "question": "What is the largest river in Paris?",
+                    "answer": "Seine",
+                    "explanation": "The largest river in Paris is the Seine."
+                }
+            ],
+            "hops": [
+                "BNP Paribas",
+                "Paris"
+            ]
+        },
+        "Beijing": {
+            "term": "Beijing",
+            "passage": "Beijing (simplified Chinese: 北京; traditional Chinese: 北京; pinyin: Běijing) is the capital of the People's Republic of China (PRC) and the world's second most populous city proper, after Shanghai. Beijing is one of the world's most important cities, and a major center of culture, politics and industry. It has been a global city since the 19th century. Beijing is one of the oldest cities in the world, with a long history dating back three millennia, as one of the seven ancient capitals of China. Beijing is governed as a sub-national municipality, and the Beijing municipality administers 12 districts, four county-level cities and five other urban districts, in addition to a number of suburban counties. Beijing's status as a world city is evidenced by its designation as a global city. The city is one of the most significant national and international centers of politics, economy, culture and education. It is the political, cultural, and economic center of the People's Republic of China, and functions as a global city, hosting the headquarters of many of the world's largest companies. Beijing has been ranked as the world's second best city to live in by the Globalization and World Cities Research Network, and as the fifth most expensive city in the world by the International Monetary Fund.",
+            "qae_pairs": [
+                {
+                    "question": "What is the official name of the country that Beijing is the capital of?",
+                    "answer": "the People's Republic of China",
+                    "explanation": "The People's Republic of China"
+                },
+                {
+                    "question": "How old is Beijing?",
+                    "answer": "three millennia",
+                    "explanation": "Beijing is one of the oldest cities in the world, with a long history dating back three millennia, as one of the seven ancient capitals of China."
+                },
+                {
+                    "question": "Which organization is not based in Beijing?",
+                    "answer": "World Cities Research Network",
+                    "explanation": "World Cities Research Network"
+                }
+            ],
+            "hops": [
+                "China Construction Bank",
+                "Beijing"
+            ]
+        },
+        "Asia": {
+            "term": "Asia",
+            "passage": "Asia covers 6,826,400 square kilometres (2,590,400 sq mi) and has a population of 4.58 billion. It comprises the continental landmass of Eurasia and the Indian subcontinent. Asia is bounded by the Pacific Ocean on the east; by the Atlantic Ocean and the Indian Ocean on the south; by the Arctic Ocean on the north; and by Africa and the Atlantic Ocean on the west. The largest continent, Asia covers more than 30% of Earth's total land area and about 20% of its total surface area.",
+            "qae_pairs": [
+                {
+                    "question": "Which ocean is located to the east of Asia?",
+                    "answer": "the Pacific Ocean",
+                    "explanation": "Asia is located on the eastern side of the Pacific Ocean."
+                }
+            ],
+            "hops": [
+                "China Construction Bank",
+                "Asia"
+            ]
+        },
+        "the China Banking and Insurance Regulatory Commission": {
+            "term": "the China Banking and Insurance Regulatory Commission",
+            "passage": "The China Banking and Insurance Regulatory Commission (CBIRC, Chinese: 中国银保监察部), formerly known as the China Securities Regulatory Commission, is an agency of the Central Government of the People's Republic of China that is in charge of regulating banking and insurance industries in Mainland China. The CBIRC was established on June 30, 2007, and is headquartered in Beijing.",
+            "qae_pairs": [
+                {
+                    "question": "What is the headquarters location of China Banking and Insurance Regulatory Commission?\n",
+                    "answer": "Beijing",
+                    "explanation": "The China Banking and Insurance Regulatory Commission (CBIRC, Chinese: 中国银保监察部), formerly known as the China Securities Regulatory Commission, is an agency of the Central Government of the People's Republic of China that is in charge of regulating banking and insurance industries in Mainland China. The CBIRC was established on June 30, 2007, and is headquartered in Beijing."
+                },
+                {
+                    "question": "What year was the China Banking and Insurance Regulatory Commission established?",
+                    "answer": "June 30, 2007",
+                    "explanation": "The China Banking and Insurance Regulatory Commission was established on June 30, 2007."
+                }
+            ],
+            "hops": [
+                "China Construction Bank",
+                "the China Banking and Insurance Regulatory Commission"
+            ]
+        }
+    }
+}

@@ -1,0 +1,529 @@
+{
+    "first_hops": {
+        "The Legend of Zelda": {
+            "term": "The Legend of Zelda",
+            "passage": "\"The Legend of Zelda is an action-adventure video game series created by Nintendo. It was first released for the Nintendo Entertainment System (NES) in 1986 and later adapted for the Game Boy Advance, GameCube, Nintendo DS, Wii, Wii U, and 3DS. The games are set in a fictional world, with the series' core plot revolving around the hero and his quest to save the Princess of the particular game from an evil force. The Legend of Zelda series is often considered one of the most influential and successful video game series ever made.\" (The Legend of Zelda is a video game series created by Nintendo. It began on the Nintendo Entertainment System in 1986 and later made its way to the Game Boy Advance, GameCube, Nintendo DS, Wii, Wii U, and 3DS.",
+            "qae_pairs": [
+                {
+                    "question": "When was the Legend of Zelda series created?",
+                    "answer": "1986",
+                    "explanation": "The Legend of Zelda is a video game series created by Nintendo. It began on the Nintendo Entertainment System in 1986 and later made its way to the Game Boy Advance, GameCube, Nintendo DS, Wii, Wii U, and 3DS. The games are set in a fictional world, with the series core plot revolving around the hero and his quest to save the Princess of the particular game from an evil force."
+                },
+                {
+                    "question": "What is the name of the first video game console?",
+                    "answer": "NES",
+                    "explanation": "The Nintendo Entertainment System (NES) is a video game console created by Nintendo. It was first released in 1986 and was the first video game console to be released in North America. The console was a commercial success, selling over 10 million units worldwide. It was the best-selling video game console of the 1980s and is considered one of the most influential consoles in the history of the video game industry."
+                }
+            ],
+            "hops": [
+                "The Legend of Zelda"
+            ]
+        },
+        "Super Mario Odyssey": {
+            "term": "Super Mario Odyssey",
+            "passage": "\"Super Mario Odyssey: Kingdom Adventures is the tenth in a series of game adaptations by Nintendo. It was produced in conjunction with a television special that premiered on October 22, 2017, on the Disney Channel. It is also a spin-off of the 2016 feature film Super Mario Odyssey and the second spin-off game of the Super Mario series. It is titled \"Kingdom Adventures\" (Kingdom: Kokoro no Daigō! in Japanese) in Japan, where it has also been translated as \"Kingdom of Adventure\" or \"Super Mario Odyssey: Kingdom Adventures\" for North American audiences. The player can play as two of the characters from Super Mario Odyssey: two members of the Kingdom of the Koopa Klikks. These are King Bowser, whose son and assistant is Princess Peach, who takes up the position of being an adviser to the Kingdom, as well as the son of King Boo and Queen Haloom, and whose name is Goombulets (Gooms in English), and who is a member of the ruling council of the Kingdom. The game focuses on the Kingdom and its royal characters. There are four kingdoms, each of which consists of a number of levels that range in difficulty. Kingdom Adventures also introduces new characters such as the Gooms, Koopas, and other enemies. Additionally, it also introduces new items and power-ups.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the son of King Boo and Queen Haloom?",
+                    "answer": "Gooms",
+                    "explanation": "Gooms is a term used to refer to the children of King Boo and Queen Haloom. In the game, the son of King Boo and Queen Haloom is named Goombulets."
+                },
+                {
+                    "question": "What is the name of the channel that airs Super Mario Odyssey: Kingdom Adventures?",
+                    "answer": "the Disney Channel",
+                    "explanation": "Super Mario Odyssey: Kingdom Adventures is a spin-off of the 2016 feature film Super Mario Odyssey and the second spin-off game of the Super Mario series. It is titled Kingdom Adventures in Japan, where it has also been translated as Kingdom of Adventure or Super Mario Odyssey: Kingdom Adventures for North American audiences. The channel that airs Super Mario Odyssey: Kingdom Adventures is the Disney Channel."
+                },
+                {
+                    "question": "When did the TV special Super Mario Odyssey: Kingdom Adventures premiere on Disney Channel?",
+                    "answer": "October 22, 2017",
+                    "explanation": "Super Mario Odyssey: Kingdom Adventures premiered on Disney Channel on October 22, 2017."
+                },
+                {
+                    "question": "What is the name of the kingdom in Super Mario Odyssey: Kingdom Adventures?",
+                    "answer": "the Kingdom of the Koopa Klikks",
+                    "explanation": "Kingdom Adventures is a spin-off game of the Super Mario series. The game is centered around the Kingdom of the Koopa Klikks, which is ruled by King Bowser. The Kingdom is made up of four kingdoms, each of which consists of a number of levels that range in difficulty. In the game, the player can choose to play as two characters: King Bowser and Princess Peach. King Bowser is a member of the Koopa Klikks, while Princess Peach is a member of the Kingdom of the Koopa Klikks. The game introduces new characters such"
+                },
+                {
+                    "question": "What is the name of the Kingdom in the Super Mario Odyssey game?",
+                    "answer": "Daigō",
+                    "explanation": "Daigō is the name of the Kingdom in the Super Mario Odyssey game."
+                },
+                {
+                    "question": "Who are the bad guys in Super Mario Odyssey: Kingdom Adventures?",
+                    "answer": "Koopas",
+                    "explanation": "Super Mario Odyssey: Kingdom Adventures is a spin-off game of the Super Mario Odyssey series. The main antagonist of the game is the Koopa Klikks, who are a group of Koopas that have been transformed into humanoid creatures. They are led by King Bowser, who is the main antagonist of the Super Mario Odyssey series. The Koopas are known for their large size and their ability to transform into various forms, including the Koopa Troopa, Koopa-Troopa, and Koopa-Koopa. They are the main antagon"
+                },
+                {
+                    "question": "What is the name of the company that makes the Super Mario games?",
+                    "answer": "Nintendo",
+                    "explanation": "Nintendo is the name of the company that produces the Super Mario games."
+                },
+                {
+                    "question": "What would happen if the Mario series was a Kingdom Hearts game?",
+                    "answer": "Kingdom Adventures",
+                    "explanation": "Kingdom Adventures is a spin-off game of the Super Mario Odyssey series, where the player can play as two characters from the game, including King Bowser and Princess Peach. The game focuses on the Kingdom and its royal characters, and introduces new characters such as the Gooms, Koopas, and other enemies. Additionally, it also introduces new items and power-ups."
+                }
+            ],
+            "hops": [
+                "Super Mario Odyssey"
+            ]
+        },
+        "Red Dead Redemption": {
+            "term": "Red Dead Redemption",
+            "passage": "\"Red Dead Redemption is an action-adventure video game developed by Rockstar Games and published by Rockstar Games. It was released on May 18, 2010 for the Xbox 360 and PlayStation 3, and on May 13, 2012 for the PC. The game is set in an open-world environment in the fictional state of Red Dead Redemption, which is based on the American Old West. The game is the second main installment in the Red Dead series, following the 2005 game Red Dead Revolver. The game is also the first main installment in the series to be released on a PC platform. The game is the first main installment in the series to be released on a PC platform.",
+            "qae_pairs": [
+                {
+                    "question": "When was Red Dead Redemption released?",
+                    "answer": "May 18, 2010",
+                    "explanation": "Red Dead Redemption was released on May 18, 2010 for the Xbox 360 and PlayStation 3, and on May 13, 2012 for the PC."
+                },
+                {
+                    "question": "What is the name of the company that made Red Dead Redemption?",
+                    "answer": "Rockstar Games",
+                    "explanation": "Rockstar Games is a video game developer and publisher based in London, England. The company was founded in 1998 and has since become one of the most successful video game companies in the world. Rockstar is best known for its open-world action-adventure video game series, including Red Dead Redemption, Grand Theft Auto, and Midnight Club."
+                }
+            ],
+            "hops": [
+                "Red Dead Redemption"
+            ]
+        },
+        "Grand Theft Auto V": {
+            "term": "Grand Theft Auto V",
+            "passage": "… Grand Theft Auto V is a video game developed by Rockstar Games. It was released on September 16, 2013 for Microsoft Windows, Xbox 360 and Xbox One. It is also available on PC and Mac via the Rockstar Social Club. I’m in my final year of university and I recently purchased Grand Theft Auto V and its online version, so I can finally get a real taste of Grand Theft Auto. The story of GTA V is one that has a great amount of twists and turns, but is ultimately nothing new. In terms of gameplay, it is a bit more complicated than previous games. The game takes place in the fictional city of Los Santos in California. It is a vast metropolis of nearly 2.4 million residents and one of the five main cities in the fictional country of San Andreas. It is the home to a variety of locations, from sprawling suburbs and residential areas to rugged wilderness, to more urban and industrial areas. The game is driven by the player who controls a variety of different characters (from CEO of a company to a simple police officer) and a variety of different activities. The game offers a vast range of activities, from scuba diving in a submarine to flying in a jet to parachuting with a helicopter. With the vast array of activities available, the game is meant to provide an experience that is tailored to the individual player’s needs. It is also the best game to play with a PC or a Mac.",
+            "qae_pairs": [
+                {
+                    "question": "When did Grand Theft Auto V come out?",
+                    "answer": "September 16, 2013",
+                    "explanation": "(from the Rockstar Social Club) - Grand Theft Auto V was released on September 16, 2013. - It was released for Microsoft Windows, Xbox 360, and Xbox One. - The game was also released for PC and Mac via the Rockstar Social Club. - The game was developed by Rockstar Games."
+                },
+                {
+                    "question": "Where is the city in GTA V?",
+                    "answer": "Los Santos",
+                    "explanation": "The city of Los Santos is located in the state of California. It is a fictional city that is based on the real-life city of San Diego. The city is home to a variety of different locations, from sprawling suburbs and residential areas to rugged wilderness, to more urban and industrial areas. The city is also home to a variety of different activities, from scuba diving in a submarine to flying in a jet to parachuting with a helicopter. The city is also home to a variety of different characters, from CEO of a company to a simple police officer. The city is also home to a variety of different activities, from scuba diving"
+                },
+                {
+                    "question": "What is the best video game company in the world?",
+                    "answer": "Rockstar Games",
+                    "explanation": "… Rockstar Games is a video game developer and publisher based in London, England. It is one of the largest video game companies in the world, and is known for its best-selling video game series, Grand Theft Auto. The company was founded in 1998 and has since released a number of other popular video games, including the Red Dead Redemption series, Midnight Club, and the Manhunt series. Rockstar is known for its innovative gameplay, and has been praised for its unique approach to storytelling. It is also known for its unique approach to the video game industry, which has helped it become one of the most successful video"
+                },
+                {
+                    "question": "What is the best computer to play Grand Theft Auto V on?",
+                    "answer": "Mac",
+                    "explanation": "… Grand Theft Auto V is a game that is designed to be played on a PC or a Mac. It is a game that is designed to be played on a variety of different hardware, including the Xbox 360, Xbox One, PlayStation 3, and PlayStation 4. It is also available on PC and Mac. The game is designed to be played on a variety of different hardware, including the Xbox 360, Xbox One, PlayStation 3, and PlayStation 4. It is also available on PC and Mac. The game is designed to be played on a variety of different hardware, including the Xbox 360, Xbox One"
+                }
+            ],
+            "hops": [
+                "Grand Theft Auto V"
+            ]
+        },
+        "Call of Duty": {
+            "term": "Call of Duty",
+            "passage": "“Activision, Inc. is an American video game developer and publisher founded on May 3, 1980 in the Santa Monica, California suburb of Playa del Rey. It was one of the earliest developers of arcade and console video games. It is the developer and publisher of Call of Duty, one of the world’s best selling video game franchises. As of 2021, the company produces the largest revenue in the video game industry. Activision is the publisher of the Nintendo Switch version of Call of Duty: Warzone, and will be releasing the PC and mobile versions to celebrate the launch of the console. In the first half of 2019, Activision generated $5.35 billion in total revenue for the fiscal year. In 2020, Activision generated $7.63 billion in total revenue, with total sales in 2020 surpassing the sales of the Nintendo Switch console in 2020. In July 2019, Activision was one of 15 companies that formed a strategic alliance to produce the video game Call of Duty: Modern Warfare.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the state where Activision, Inc?",
+                    "answer": "California",
+                    "explanation": "“Activision, Inc. is an American video game developer and publisher founded on May 3, 1980 in the Santa Monica, California suburb of Playa del Rey. It is the developer and publisher of Call of Duty, one of the world’s best selling video game franchises. As of 2021, the company produces the largest revenue in the video game industry. Activision is the publisher of the Nintendo Switch version of Call of Duty: Warzone, and will be releasing the PC and mobile versions to celebrate the launch of the console. In the first half of 2019, Activision generated $5.35"
+                },
+                {
+                    "question": "What is the name of the company that produces the Call of Duty video game series?",
+                    "answer": "Activision, Inc",
+                    "explanation": "“Activision, Inc. is an American video game developer and publisher founded on May 3, 1980 in the Santa Monica, California suburb of Playa del Rey. It is the developer and publisher of Call of Duty, one of the world’s best selling video game franchises. As of 2021, the company produces the largest revenue in the video game industry. Activision is the publisher of the Nintendo Switch version of Call of Duty: Warzone, and will be releasing the PC and mobile versions to celebrate the launch of the console. In the first half of 2019, Activision generated $5.35"
+                },
+                {
+                    "question": "What is the name of the city where Activision is based?",
+                    "answer": "Santa Monica",
+                    "explanation": "“Activision, Inc. is an American video game developer and publisher founded on May 3, 1980 in the Santa Monica, California suburb of Playa del Rey. It is the developer and publisher of Call of Duty, one of the world’s best selling video game franchises. As of 2021, the company produces the largest revenue in the video game industry. Activision is the publisher of the Nintendo Switch version of Call of Duty: Warzone, and will be releasing the PC and mobile versions to celebrate the launch of the console. In the first half of 2019, Activision generated $5.35"
+                },
+                {
+                    "question": "When is Call of Duty: Modern Warfare release date?",
+                    "answer": "2021",
+                    "explanation": "“Call of Duty: Modern Warfare” was released on November 8, 2021 for PC, Xbox One, and Xbox Series X/S. It was released on November 19, 2021 for PS5 and PS4. Question: Who is the developer of Call of Duty: Modern Warfare? Answer: Activision, Inc. Explanation: “Call of Duty: Modern Warfare” is a first-person shooter video game developed by the American video game developer and publisher “Activision, Inc.” Question: Who is the publisher of Call of Duty: Modern Warfare? Answer: Activ"
+                },
+                {
+                    "question": "When did Activision, Inc?",
+                    "answer": "2020",
+                    "explanation": "Activision, Inc. was founded on May 3, 1980 in Santa Monica, California."
+                }
+            ],
+            "hops": [
+                "Call of Duty"
+            ]
+        },
+        "PlayerUnknown": {
+            "term": "PlayerUnknown",
+            "passage": "‘PlayerUnknown, also known as Brian Howard, is a popular streamer, content creator, and gamer who plays games such as PlayerUnknown’s Battlegrounds, CS:GO and Minecraft. He is the owner of the website, “OnePunchTwelve”, and currently runs a YouTube channel of the same name. He is also known for his commentary on other popular games and content. Brian Howard, more commonly known by his pseudonym “PlayerUnknown”, is a streamer, content creator, and gamer currently best known for playing popular games like “PlayerUnknown’s Battlegrounds” and “Counter-Strike: Global Offensive.” He currently runs a YouTube channel titled “OnePunchTwelve” and a stream channel under the same name. He is also a commentator on other popular games and has been featured on gaming news websites like IGN. In the early days of his streaming career, he was known as “Savage,” and gained his first real exposure on the game server Steam, where he played on the “DOTA 2” map. He eventually moved to the “Fortnite Battle Royale” and “PlayerUnknown’s Battlegrounds” platforms.",
+            "qae_pairs": [
+                {
+                    "question": "What is the most popular streaming platform?",
+                    "answer": "YouTube",
+                    "explanation": "“PlayerUnknown” is one of the most popular streamers on YouTube, with over 1.2 million subscribers and a total of over 600 million views on his channel. He has been featured on gaming news websites such as IGN and is a commentator on other popular games. He has also been featured on news websites such as Forbes and the BBC."
+                },
+                {
+                    "question": "Who is PlayerUnknown?",
+                    "answer": "Brian Howard",
+                    "explanation": "“PlayerUnknown” is a popular streamer, content creator, and gamer known for his commentary on other popular games and content. He is currently best known for playing popular games like “PlayerUnknown’s Battlegrounds” and “Counter-Strike: Global Offensive.”"
+                }
+            ],
+            "hops": [
+                "PlayerUnknown"
+            ]
+        },
+        "Assassin": {
+            "term": "Assassin",
+            "passage": "Gamaliel Silva, (born July 28, 1957) is a retired Brazilian professional mixed martial arts fighter. Silva is currently the head coach of the MMARussia Fight Team in Moscow. He is one of the most decorated athletes in Brazilian jiu-jitsu history and a long-time Brazilian jiu-jitsu black belt who has competed in the UFC and Bellator. Silva was a founding member of the now-defunct Brazilian jiu-jitsu team, Team Brasa. He has also coached top fighters like former UFC Champion Vitor Belfort, former UFC Lightweight Champion Eddie Alvarez, among many other fighters. Silva has coached fighters from the United States, Japan, and Europe. His best known work is his work with Jiu Jitsu and MMA in the UFC from 1997 until 2004. I found this really fascinating. Not only are there some serious injuries, but he also has a really important role in training fighters. The role of a coach is so important in sports, because even if you are a great athlete, it's their job to help them become better. I'm looking forward to watching more MMA with the kids! 4 comments:\nYes, I totally agree. A great coach is an important part of a fighter's success. MMA is a lot of training in a short amount of time. I'm sure the fighters feel their pain.",
+            "qae_pairs": [
+                {
+                    "question": "Who is the best Brazilian Jiu Jitsu fighter?",
+                    "answer": "UFC Lightweight Champion",
+                    "explanation": "UFC Lightweight Champion is a term used to describe someone who is the best in the world at the particular style of martial arts. In this case, it is Brazilian Jiu Jitsu. There are many great fighters in the world, but if you want to talk about the best, I would say that the best Brazilian Jiu Jitsu fighter is the UFC Lightweight Champion."
+                },
+                {
+                    "question": "What year did you start MMA?",
+                    "answer": "1997",
+                    "explanation": "I started training in jiu-jitsu in 1997. I was 30 years old at that time. I started training in jiu-jitsu in 1997. I was 30 years old at that time. I started training in jiu-jitsu in 1997. I was 30 years old at that time. I started training in jiu-jitsu in 1997. I was 30 years old at that time. I started training in jiu-jitsu in 1997. I was 30 years old at that time. I started training in jiu-"
+                },
+                {
+                    "question": "where is the UFC located?",
+                    "answer": "the United States",
+                    "explanation": "The Ultimate Fighting Championship (UFC) is a mixed martial arts promotion based in the United States. The promotion was founded in 1993 and has since become the worlds leading mixed martial arts organization. The UFC is headquartered in Las Vegas, Nevada, USA. The UFC is a member of the International Mixed Martial Arts Federation (IMMAF), which is the sports regulatory body. The UFC is the largest sports organization in the world in terms of total live gate revenue. The UFC has expanded its operations to other countries, including Brazil, Canada, China, and the United Kingdom. The UFC has been involved"
+                },
+                {
+                    "question": "What is the best martial art?",
+                    "answer": "Jiu Jitsu",
+                    "explanation": "Jiu Jitsu is a martial art that focuses on ground fighting and submission holds. It is a martial art that focuses on ground fighting and submission holds. It is a martial art that focuses on ground fighting and submission holds. It is a martial art that focuses on ground fighting and submission holds. It is a martial art that focuses on ground fighting and submission holds. It is a martial art that focuses on ground fighting and submission holds. It is a martial art that focuses on ground fighting and submission holds. It is a martial art that focuses on ground fighting and submission holds. It is a martial art that focuses on ground fighting and submission"
+                }
+            ],
+            "hops": [
+                "Assassin"
+            ]
+        }
+    },
+    "second_hops": {
+        "Gooms": {
+            "term": "Gooms",
+            "passage": "Gooms are one of the main enemies in the Donkey Kong games. Gooms are very similar to the enemies from Donkey Kong Country. They are large, ape-like creatures that have fur, very large feet, and large snouts. The article also states:\nAlthough the name \"Goom\" was used by Donkey Kong Country creators to refer to themselves, the official name of the species is Goomba, while the \"Gooms\" are also known as Donkey Kong Country enemies as they are much larger and bulkier than the Gooms of Donkey Kong Country 2: Diddy Kong Racing. I have been doing \"real\" work this week. I have created a small \"library\" using my existing code to create the database, a small web application that creates a web page of data that I can access from any device (though not in front of the keyboard on the keyboard I bought at Walmart) and two video production projects: one is a small video of my family's 50th anniversary that I was able to create using my photos, and one is a video of a wedding that I produced. (Thanks to YouTube, I can now watch these and add to them from any device in the house.) I was also doing some work on my personal website. Finally, I was also working on a personal project.",
+            "qae_pairs": [
+                {
+                    "question": "-Gooms-\nWhat is a Goomba?",
+                    "answer": "Goomba",
+                    "explanation": "-Gooms- What is a Goomba? Answer: Goomba Explanation: -Gooms- What is a Goomba? Answer: Goomba Explanation: -Gooms- What is a Goomba? Answer: Goomba Explanation: -Gooms- What is a Goomba? Answer: Goomba Explanation: -Gooms- What is a Goomba? Answer: Goomba Explanation: -Gooms- What is"
+                }
+            ],
+            "hops": [
+                "Super Mario Odyssey",
+                "Gooms"
+            ]
+        },
+        "the Disney Channel": {
+            "term": "the Disney Channel",
+            "passage": "\"In 1983, Disney Channel began airing the animated show DuckTales. Although the show was a huge success on the network and has been credited as one of the defining moments of the original Disney Channel, it has always been a cult hit that few people have ever heard of. This has been one of the biggest problems with DuckTales; it is still a mystery to many people exactly what show is in the Disney Channel logo. Despite the fact that it is still airing on the Disney Channel, no other major network has ever picked up DuckTales in its original incarnation since the show debuted in 1983. Many have even seen the show, but it is still a mystery to most. \" The logo of the Disney Channel is actually a circle that contains a key. I know some people that used to watch this show all the time, and I personally never saw it because the logo is confusing. That's a shame, because DuckTales was very good! Anyway, that's all I got to say about DuckTales. It would be nice if it could get a little more recognition from people. Maybe if they changed the logo! 8 comments:\nOh no! The DuckTales logo is always going to confuse people for some reason. I'd forgotten the original had that circle thing in the logo - that's a nice design.",
+            "qae_pairs": [
+                {
+                    "question": "What year did the Disney Channel first air DuckTales?",
+                    "answer": "1983",
+                    "explanation": "The Disney Channel was launched on October 18, 1983. DuckTales was one of the first shows to be broadcast on the channel.  Im glad you posted this. Ive been wondering about DuckTales for a while. Im glad to know that its still airing on the Disney Channel. Im glad you posted this. Ive been wondering about DuckTales for a while. Im glad to know that its still airing on the Disney Channel. Im glad you posted this. Ive been wondering about DuckT"
+                }
+            ],
+            "hops": [
+                "Super Mario Odyssey",
+                "the Disney Channel"
+            ]
+        },
+        "the Kingdom of the Koopa Klikks": {
+            "term": "the Kingdom of the Koopa Klikks",
+            "passage": "\"The Koopa Klikks are the main antagonists of the 1991/1992 Super Nintendo game, Super Mario 64. They are a species of evil mushrooms found throughout the kingdom. The Klikks are incredibly small and are barely larger than Mario. They have red caps and green bodies with two white eyes on the front of their bodies. They have a low IQ and are very slow-witted, which is why they are constantly getting stuck inside their giant mushroom. They are known for their love of money, as they are always seen haggling over coins or grabbing money that falls out of their mushroom caps. They are also known for their small size, as they are often used as the enemy by Mario as a way to make Mario bigger in the game.",
+            "qae_pairs": [
+                {
+                    "question": "Who are the main antagonists of Super Mario 64 and how are they related to the Kingdom of the Koopa Klikks?",
+                    "answer": "Klikks",
+                    "explanation": "The Klikks are the main antagonists of Super Mario 64. They are a species of evil mushrooms found throughout the kingdom. They are incredibly small and are barely larger than Mario. They have red caps and green bodies with two white eyes on the front of their bodies. They have a low IQ and are very slow-witted, which is why they are constantly getting stuck inside their giant mushroom. They are known for their love of money, as they are always seen haggling over coins or grabbing money that falls out of their mushroom caps. They are also known for their small size, as they are often used as"
+                },
+                {
+                    "question": "Question: What is the Kingdom of the Koopa Klikks?",
+                    "answer": "Super Mario 64",
+                    "explanation": "The Kingdom of the Koopa Klikks is a fictional kingdom in the Super Mario 64 video game. It is ruled by the Koopa Klikks, who are a species of evil mushrooms. The Klikks are incredibly small and are barely larger than Mario. They have red caps and green bodies with two white eyes on the front of their bodies. They are known for their love of money, as they are always seen haggling over coins or grabbing money that falls out of their mushroom caps. They are also known for their small size, as they are often used as the enemy by Mario as a way"
+                }
+            ],
+            "hops": [
+                "Super Mario Odyssey",
+                "the Kingdom of the Koopa Klikks"
+            ]
+        },
+        "Daigō": {
+            "term": "Daigō",
+            "passage": "He is also considered to be the \"inventor\" of Daigo's \"Kata (i.e., martial arts) Style\", which is one of the most popular forms of Japanese martial arts. This is often considered to be Daigō's biggest contribution to the martial arts world. He has since retired from the martial arts, but still lives in Tokyo and still holds the 7th dan black belt.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the city where Daigō, the inventor of Daigos Kata martial arts style, lives?",
+                    "answer": "Tokyo",
+                    "explanation": "Daigō is a city located in the Tokyo metropolitan area."
+                }
+            ],
+            "hops": [
+                "Super Mario Odyssey",
+                "Daigō"
+            ]
+        },
+        "Nintendo": {
+            "term": "Nintendo",
+            "passage": "“Nintendo, Inc. (Japanese: 任天堂株弁社 ; Nintendo) is a Japanese entertainment company. It is the world's most successful video game manufacturer, and was at one time the world's largest entertainment company, but its fortunes have declined in recent years due to the decrease in sales of its video game consoles. It also produces various peripheral devices, such as a handheld console for mobile phones, a home console for televisions, and a console portable and handheld for mobile phones. The company's headquarters is located in Kyoto, Japan, with additional offices in Tokyo, Osaka, and Kyoto. It is also one of the world's top companies in the video game industry. Nintendo is a Fortune 500 corporation, and it is also the largest video game publisher in the world, selling more than 100 million copies of its game consoles, surpassing Microsoft and Sony, both of which have sold more than 80 million units of their respective consoles.”\nIt has always been in my mind to get a Nintendo, but I never knew what they produced besides those consoles. They make video games, handhelds, and controllers. That's very interesting. I never realized how they have made such a big impact on the entertainment industry.",
+            "qae_pairs": [
+                {
+                    "question": "What other video games has Nintendo produced besides the Super Mario series?",
+                    "answer": "Japan",
+                    "explanation": "“Nintendo has been in the video game business since the 1980s, when it released the Famicom, which was the first home console in Japan. The company has since released numerous consoles, including the Nintendo Entertainment System (NES), the Super Nintendo Entertainment System (SNES), the Nintendo 64, the GameCube, the Wii, the DS, and the 3DS. In addition to its home consoles, Nintendo has also produced a number of handheld consoles, including the Game Boy Advance, the Game Boy Color, the Game Boy Advance SP, the Game Boy Micro, the Nintendo DS Lite, the Nintendo"
+                }
+            ],
+            "hops": [
+                "Super Mario Odyssey",
+                "Nintendo"
+            ]
+        },
+        "Kingdom Adventures": {
+            "term": "Kingdom Adventures",
+            "passage": "Land of the Floppy-eared Dwarves. I've included this because it gives a very good description of the kingdom and of the dwarves who inhabit it, as well as of the dwarves' traditional method of entering and leaving the town. The passage concludes with a description of their weapon, the \"Polehammer,\" a 7-foot long club with a very thick head made of iron. The Polehammer is carried on the back of the dwarf warrior by their personal henchmen, and is considered the symbol of their power. Kingdom Adventures: Land of the Floppy-eared Dwarves, the latest edition to the Pathfinder Roleplaying Game, presents a thrilling fantasy world with its own unique culture and ancient traditions. In addition to the introduction of the kingdom of Floppy-eared Dwarves, the book presents the dwarf race in great detail, their origin, characteristics, and methods of entering and leaving the city. Each individual dwarf also has its own specific type of weapon, the Polehammer, a massive club with a 7-foot, 3-inch long head that is carried to battle and worn on the back of every dwarf warrior by their personal henchmen.",
+            "qae_pairs": [
+                {
+                    "question": "What is the weapon of the Floppy-eared Dwarves in Kingdom Adventures?",
+                    "answer": "Polehammer",
+                    "explanation": "The Polehammer is a massive club with a 7-foot, 3-inch long head that is carried to battle and worn on the back of every dwarf warrior by their personal henchmen. It is considered the symbol of their power."
+                }
+            ],
+            "hops": [
+                "Super Mario Odyssey",
+                "Kingdom Adventures"
+            ]
+        },
+        "Rockstar Games": {
+            "term": "Rockstar Games",
+            "passage": "\"Rockstar Games is an independent American video game developer based in Manchester, New Hampshire, that is primarily focused on creating entertainment software for a variety of video game consoles. Rockstar is one of the most famous video game publishers in the world, but they don't publish the games themselves. They license their name to independent game developers and give them creative freedom to develop the games they want. Rockstar also provides technical and creative support for games it publishes.",
+            "qae_pairs": [
+                {
+                    "question": "What is Rockstar Games headquarters city located in?",
+                    "answer": "Manchester",
+                    "explanation": "Rockstar Games is an independent American video game developer based in Manchester, New Hampshire. It is one of the most famous video game publishers in the world, but they dont publish the games themselves. They license their name to independent game developers and give them creative freedom to develop the games they want. Rockstar also provides technical and creative support for games it publishes."
+                },
+                {
+                    "question": "Question: What other popular video games has Rockstar Games published?",
+                    "answer": "Rockstar",
+                    "explanation": "Rockstar is a video game publisher that has been around since the 1990s. They are best known for the Grand Theft Auto series, but they have also published games like Red Dead Redemption, Midnight Club, and Manhunt. Rockstar is known for its open-world games and has been a major influence on the video game industry."
+                },
+                {
+                    "question": "What is the location of Rockstar Games?",
+                    "answer": "New Hampshire",
+                    "explanation": "Rockstar Games is based in Manchester, New Hampshire."
+                }
+            ],
+            "hops": [
+                "Grand Theft Auto V",
+                "Rockstar Games"
+            ]
+        },
+        "Los Santos": {
+            "term": "Los Santos",
+            "passage": "The city of Los Santos is a major city and municipality in the province of Veracruz, Mexico. The city is located along the southwestern coast of the Gulf of Mexico. It is a part of the Mexico City Metropolitan Area, and its northern part is the northern portion of the Mexico City Basin. The city is separated from the country's northern and southern boundaries by high mountains and a large and fertile central plateau. Los Santos is home to the metropolitan population of the entire city area of 9,054,000 people. The city has several major universities, including the National Autonomous University of Mexico, the National Autonomous University of the South, the Instituto Tecnológico de Veracruz, and the Universidad Autónoma de Guerrero, among others.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the university located in the city of Los Santos?",
+                    "answer": "the Universidad Autónoma de Guerrero",
+                    "explanation": "Universidad Autónoma de Guerrero is the name of the university located in the city of Los Santos."
+                },
+                {
+                    "question": "What body of water is Los Santos located near?",
+                    "answer": "the Gulf of Mexico",
+                    "explanation": "Los Santos is located near the Gulf of Mexico. The Gulf of Mexico is a large body of saltwater that separates the city from the countrys northern and southern boundaries. It is the largest body of water in the world, with an area of 1.2 million square miles."
+                }
+            ],
+            "hops": [
+                "Grand Theft Auto V",
+                "Los Santos"
+            ]
+        },
+        "Mac": {
+            "term": "Mac",
+            "passage": "\"The Macintosh was the first modern computer for the home user. It was invented and designed in 1982 by Apple. The original Macintosh was a custom computer, designed with modern computer hardware, for use with a single user and designed primarily for tasks such as business, design, scientific and scientific and artistic computing. It was based on the Apple II design.\" This has become the definition of the Mac in my head, and I've been using a Mac since 1986. When I was in elementary school, my dad had a Mac at work. I'm not sure how many years I used that first Mac, because in middle school I switched to using a PC. Since I had a PC, I would come back to the Mac from time to time, to try to convert my dad and mom. (He would finally buy a PC after I graduated from high school.) So I don't have a Mac with the OS that I used as a kid. But when I think of my first love, my favorite computer, the Mac, I'm always imagining a Mac with the OS from my childhood. The OS that my dad had at work. I never have had a PC as my main computer - even now. I have used a PC for work for the past 13 years, but it wasn't my main machine.",
+            "qae_pairs": [
+                {
+                    "question": "What year was the Macintosh, the first modern computer for the home user, invented and designed?",
+                    "answer": "1982",
+                    "explanation": "The Macintosh was the first modern computer for the home user. It was invented and designed in 1982 by Apple. The original Macintosh was a custom computer, designed with modern computer hardware, for use with a single user and designed primarily for tasks such as business, design, scientific and scientific and artistic computing. It was based on the Apple II design."
+                }
+            ],
+            "hops": [
+                "Grand Theft Auto V",
+                "Mac"
+            ]
+        },
+        "California": {
+            "term": "California",
+            "passage": "California is the most populous state in the United States, occupying the west coast. It is the third most populous state in the world, behind China and India. As of 2020, it had a population of over 40.7 million people, making it the most populous state in the United States. It has a highly diverse population, including many immigrants from Asia, Europe, Africa and Latin America, making it the most diverse state in the US. The state's population is concentrated in coastal cities and in areas such as San Francisco, San Diego, San Jose, and Los Angeles. The first Spanish fleet of exploration in California in 1542, after the death of its Captain and discovery of the bay area was to explore for gold and pearls, came from the region that is now known as California's.",
+            "qae_pairs": [
+                {
+                    "question": "What year did the first Spanish fleet of exploration in California arrive?",
+                    "answer": "1542",
+                    "explanation": "1542"
+                },
+                {
+                    "question": "What is the most populous city in California?",
+                    "answer": "Los Angeles",
+                    "explanation": "Los Angeles is the most populous city in California, with a population of over 3.1 million people. It is the second most populous city in the United States, after New York City. Los Angeles is the most populous city in the world, with a population of over 3.1 million people. It is the most populous city in the United States, and the most populous city in the world."
+                },
+                {
+                    "question": "California is a state located on the west coast of the United States. What is something interesting you know about California that is not commonly known?",
+                    "answer": "the west coast",
+                    "explanation": "California is a state located on the west coast of the United States. What is something interesting you know about California that is not commonly known?"
+                },
+                {
+                    "question": "What is the population of California in 2020?",
+                    "answer": "2020",
+                    "explanation": "2020 population of California is 40.7 million, which is the 3rd most populous state in the world. California is the most populous state in the US, with a population of over 40.7 million people. The states population is concentrated in coastal cities and in areas such as San Francisco, San Diego, San Jose, and Los Angeles."
+                }
+            ],
+            "hops": [
+                "Call of Duty",
+                "California"
+            ]
+        },
+        "Activision, Inc": {
+            "term": "Activision, Inc",
+            "passage": "In 1979, Robert Kotick founded the company with seven others. However, his company was forced out of the industry by the likes of Microsoft, Nintendo and the Electronic Arts. [5]\nFrom 1979 to 1993, Activision was mainly involved in making and distributing arcade games. It has also created the first commercial coin-operated arcade game, Pong, and also was involved in the distribution of Atari arcade games. It also made the first commercial video game, as well as the first commercial games for personal computers. Robert Kotick, the original owner of Activision, was forced out of the company in 1979 by the likes of Microsoft, Nintendo and Electronic Arts.",
+            "qae_pairs": [
+                {
+                    "question": "Who is the current owner of Activision, Inc?",
+                    "answer": "Robert Kotick",
+                    "explanation": "Robert Kotick is the current owner of Activision, Inc. He founded the company in 1979 and was forced out of the industry by the likes of Microsoft, Nintendo and Electronic Arts."
+                },
+                {
+                    "question": "Which company do Call of Duty and Activision, Inc. compete against each other in the video game industry?",
+                    "answer": "Microsoft",
+                    "explanation": "Microsoft and Activision, Inc. are two of the biggest names in the video game industry. While they both have a long history in the industry, they have had a long-standing rivalry, particularly in the console market. Both companies have been involved in console wars, with Microsoft winning the majority of the console wars against Sony, while Activision, Inc. has been involved in the PC gaming market. In the PC gaming market, Activision, Inc. has been involved in a number of console wars with companies like Sony and Nintendo. While the company has been involved in the console wars, it has also been involved in the"
+                }
+            ],
+            "hops": [
+                "Call of Duty",
+                "Activision, Inc"
+            ]
+        },
+        "Santa Monica": {
+            "term": "Santa Monica",
+            "passage": ". On January 15, 1924, a day after the film of the silent epic The Plumed Serpent opened at the Carthay Circle Theater in Santa Monica, California, a group of young Mexicans from Tijuana, led by Don Alejandro León and his wife, María Jesús Sánchez, walked into a local restaurant, and killed all the staff, including the manager and his wife, and an 18-year-old Mexican film operator who was working behind the scenes. The Mexican film, in which Mexican actors had replaced the Chinese characters that were normally used by Hollywood actors and actresses of Mexican origin in the early silent film era, was not popular. The León-Sánchez group, on the other hand, was a popular attraction in California, and the film, which they had brought from Mexico, became popular in other Latin American cities as well. The Mexican film, which was dubbed in English and was entitled Mexicali Dawn, was not shown for about three years and, in 1930, it was renamed Mexicali Rose, with the name changed to The Mexican. It received good reviews, and Mexican-Americans were proud of the Mexican actors. In 1929, the León-Sánchez group came to Mexico, and Mexicali Rose was popular in many Mexican cities. Source: Wikipedia, The Mexican Film.",
+            "qae_pairs": [
+                {
+                    "question": "Question: Who were the members of the León-Sánchez group that caused a mass murder in a Mexican restaurant in Santa Monica, California, on January 15, 1924?",
+                    "answer": "León-Sánchez",
+                    "explanation": "The Mexican is a 1924 Mexican silent film directed by Enrique Berón. It stars Mexican actors and actresses of Mexican origin in the cast. The film was dubbed in English and was entitled Mexicali Dawn. It was not shown for about three years, and in 1930 it was renamed Mexicali Rose. The León-Sánchez group, which included Mexican actors, was popular in many Mexican cities."
+                },
+                {
+                    "question": "What is the significance of the film 'The Plumed Serpent' in the Santa Monica area?",
+                    "answer": "The Plumed Serpent",
+                    "explanation": "The Plumed Serpent is a Mexican silent film that was made in 1924. It was directed by Enrique Valles and starred Mexican actors and actresses. The film was popular in many Latin American cities, and it was also popular in the United States. The film was set in the Mexican town of Santa Monica, and it was based on a novel by the Mexican writer, Carlos Fuentes. The film was popular in the Santa Monica area, and it was shown at the Carthay Circle Theater. The film was also popular in other Latin American cities, and it was dubbed in English."
+                },
+                {
+                    "question": "Who killed the Carthay Circle theater staff in Santa Monica on January 15, 1924?",
+                    "answer": "María Jesús Sánchez",
+                    "explanation": "On January 15, 1924, a day after the film of the silent epic The Plumed Serpent opened at the Carthay Circle Theater in Santa Monica, California, a group of young Mexicans from Tijuana, led by Don Alejandro León and his wife, María Jesús Sánchez, walked into a local restaurant, and killed all the staff, including the manager and his wife, and an 18-year-old Mexican film operator who was working behind the scenes."
+                },
+                {
+                    "question": "Question: What is the name of the Mexican silent epic shown at the Carthay Circle Theater in Santa Monica, California, on January 15, 1924, and why was it popular in Latin American cities?",
+                    "answer": "Mexicali Dawn",
+                    "explanation": "Mexicali Dawn is a silent Mexican film that was shown at the Carthay Circle Theater in Santa Monica, California, on January 15, 1924. It was popular in Latin American cities because of its Mexican actors and actresses, who were not commonly used in Hollywood films at the time."
+                },
+                {
+                    "question": "Question: What is the name of the popular Mexican film, dubbed in English as Mexicali Rose, which was shot in Santa Monica, California in 1929, and starred Mexican actors and actresses?",
+                    "answer": "Mexicali Rose",
+                    "explanation": "Mexicali Rose is a Mexican film that was shot in Santa Monica, California in 1929. It starred Mexican actors and actresses, and was dubbed in English as Mexicali Rose."
+                },
+                {
+                    "question": "Who led a group of Mexican actors and actresses in killing the staff at a local restaurant in Santa Monica, California?",
+                    "answer": "Don Alejandro León",
+                    "explanation": "Don Alejandro León was a Mexican actor who worked in Hollywood films. He was born in Mexico City, Mexico, on July 27, 1905. He was a popular actor in Mexican films, and he was known for his roles in silent films. He was also known for his roles in Mexican films, and he was known for his roles in Mexican films. He was also known for his roles in Mexican films. He was also known for his roles in Mexican films. He was also known for his roles in Mexican films. He was also known for his roles in Mexican films. He was also known for his roles"
+                },
+                {
+                    "question": "What year did the Mexican film The Mexican first premiere in theaters in the city of Santa Monica?",
+                    "answer": "1930",
+                    "explanation": "1930"
+                },
+                {
+                    "question": "What is the name of the 18-year-old Mexican film operator who was killed during a silent film production in Santa Monica, California?",
+                    "answer": "18-year-old",
+                    "explanation": "Mexicali Dawn was a Mexican film that was dubbed in English and was titled Mexicali Rose. The name was changed to The Mexican in 1930, and it received good reviews."
+                }
+            ],
+            "hops": [
+                "Call of Duty",
+                "Santa Monica"
+            ]
+        },
+        "Brian Howard": {
+            "term": "Brian Howard",
+            "passage": "Brian Howard is the founder of two companies in the midwest, in St. Louis and Cleveland. He is 39 and currently works with 5 employees. I hope that Brian Howard will consider using some of his own money to make the world better by hiring a bunch of his own kids and teaching them to become leaders who will make a positive impact on their own families, as well as their community. My parents did that. My grand parents did that. My grand parents did that for their grandparents. There was a small town on the banks of the Mississippi where I learned that if you were a leader, you were there to lead and if you were in the \"wrong place\" or on the \"wrong team\", you better find a way to be the leader that would lead you back to a better place. I learned that by watching my father's example of becoming a successful entrepreneur and my mother's example of leading and being a \"leader\" to her children and her neighbors. She was very much a leader in her own community and we learned at home and on the street and on the playground how to \"be a leader\". Brian Howard is a great example of a leader that has given and continues to give back. If I ever had a chance to be a leader, I would do my best to be as strong a leader as Brian Howard. I would hire my own children and teach them how to be leaders.",
+            "qae_pairs": [
+                {
+                    "question": "What is Brian Howards hometown?",
+                    "answer": "Mississippi",
+                    "explanation": "Brian Howard was born in the small town of Southaven, Mississippi."
+                },
+                {
+                    "question": "What is Brian Howards age?",
+                    "answer": "39",
+                    "explanation": "39 years old"
+                },
+                {
+                    "question": "I love you Brian Howard.\nBrian Howard is the founder of two companies in the midwest. What are two companies in the midwest that Brian Howard founded?",
+                    "answer": "midwest",
+                    "explanation": "midwest is a term used to describe the region of the United States that is located between the East and West Coasts. It includes states such as Ohio, Indiana, Illinois, and Missouri."
+                }
+            ],
+            "hops": [
+                "PlayerUnknown",
+                "Brian Howard"
+            ]
+        },
+        "UFC Lightweight Champion": {
+            "term": "UFC Lightweight Champion",
+            "passage": "Jose Aldo\nJose Aldo has been a mixed martial artist since 1997, and is considered by many to be one of the best mixed martial arts fighters in the world. He is one of the most successful athletes in the history of Brazilian Jiu Jitsu, and has been a World Jiu Jitsu champion 5 times. He has also been a UFC Lightweight Champion twice. He is one of the most well known fighters in the sport of Mixed Martial Arts. His style is known as \"Jiu-Jitsu\" and is one of the best-known in the world, and is the style that most MMA fighters study, and is considered one of the best for MMA fighters to study. He is a well known trainer in Jiu Jitsu, and he has trained in Brazil for most of his life. He currently trains at Rigan Jiu Jitsu in Rio De Janeiro, Brazil, which is founded by Rigan Gracie. He is one of the most successful Brazilian Jiu Jitsu fighters in history, and is considered one of the best fighters in the world today. He has a record of 15-7 in the UFC, with a record of 11-5 (55%) in \"MMA\", which includes 10-5 in UFC competition, and is ranked one of the best in the world.",
+            "qae_pairs": [
+                {
+                    "question": "What is the city in Brazil where UFC Lightweight Champion Jose Aldo trains?",
+                    "answer": "Rio De Janeiro",
+                    "explanation": "Rigan Jiu Jitsu is located in Rio De Janeiro, Brazil, and is founded by Rigan Gracie. Jose Aldo is one of the most successful Brazilian Jiu Jitsu fighters in history, and is considered one of the best fighters in the world today. He has a record of 15-7 in the UFC, with a record of 11-5 (55%) in MMA, which includes 10-5 in UFC competition, and is ranked one of the best in the world. He currently trains at Rigan Jiu Jitsu in Rio De Janeiro, Brazil, which is"
+                },
+                {
+                    "question": "Who is the current UFC Lightweight Champion?",
+                    "answer": "Rigan Gracie",
+                    "explanation": "Rigan Gracie is a Brazilian Jiu Jitsu trainer, and is considered one of the best in the world. He is a former World Jiu Jitsu champion, and is considered one of the best Jiu Jitsu fighters in the world. He is currently the head instructor at Rigan Jiu Jitsu, and is considered one of the best Jiu Jitsu instructors in the world. He is currently ranked as one of the best Jiu Jitsu fighters in the world, and is considered one of the best MMA fighters in the world. He is currently the head instructor at Rigan Jiu Jitsu,"
+                }
+            ],
+            "hops": [
+                "Assassin",
+                "UFC Lightweight Champion"
+            ]
+        },
+        "the United States": {
+            "term": "the United States",
+            "passage": "This is where things get tricky. \"There is no federal income tax for any U.S. citizen who is a nonresident (that is, not physically in the country at the time), who earns a maximum of $200,000 a year. Only 0.7 percent of the income in the U.S. actually comes from payroll taxes, and it represents only a small fraction of the nation's revenue, while about 55 percent comes from sales and excise taxes. About a third comes from personal income taxes. Here are the numbers for 2008, for example, which I believe are the same as for 2009:\n\"The largest segment of the tax base consists of payroll taxes. These are taxes employees pay to Social Security and Medicare. For example, payroll taxes make up about 21 percent of the nation's budget.\" So, in 2008, the government made $1.23 trillion in payroll taxes, and about a third of that came from personal income taxes. That's $350 billion. Let's take a look at the government's income for 2009:\n\"The 2009 $3.8 trillion in federal taxes represents the federal income tax and payroll tax on income. The federal income tax is levied on all income, which includes all wages and salaries, interest, dividends, and corporate profits.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the federal health care program in the United States?",
+                    "answer": "Medicare",
+                    "explanation": "Medicare is a federal health insurance program for people who are 65 or older, certain younger people with disabilities, and people with End-Stage Renal Disease. It is funded by payroll taxes and is administered by the Social Security Administration. It provides coverage for a variety of medical services, including hospital stays, doctor visits, and prescription drugs."
+                },
+                {
+                    "question": "What was the income tax rate in the United States in 2009?",
+                    "answer": "2009",
+                    "explanation": "The federal income tax rate for 2009 was 10 percent, 15 percent, 25 percent, 28 percent, 33 percent, 35 percent, 38.5 percent, 40 percent, 42.5 percent, 45 percent, and 50 percent. The 10 percent rate was for those who earned less than $8,375, the 15 percent rate was for those who earned between $8,375 and $35,000, the 25 percent rate was for those who earned between $35,000 and $82,400, the 28 percent"
+                },
+                {
+                    "question": "What is the income tax in the United States?",
+                    "answer": "Social Security",
+                    "explanation": "Social Security is a payroll tax. It is a tax on the wages of employees and employers. The payroll tax is 12.4 percent of the employees wages, which is 6.2 percent of the employers wages. The payroll tax is 6.2 percent of the employees wages, which is 3.2 percent of the employers wages. The payroll tax is 6.2 percent of the employees wages, which is 3.2 percent of the employers wages. The payroll tax is 6.2 percent of the employees wages, which is"
+                }
+            ],
+            "hops": [
+                "Assassin",
+                "the United States"
+            ]
+        }
+    }
+}

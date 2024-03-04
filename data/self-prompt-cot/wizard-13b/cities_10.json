@@ -1,0 +1,876 @@
+{
+    "first_hops": {
+        "New York City": {
+            "term": "New York City",
+            "passage": "New York City is the most populous city in the United States, with an estimated 8,336,817 residents as of 2020, and is the cultural, financial, and media capital of the world. Located in the Northeastern region of the country, New York City is home to the largest subway system in the world, with over 472 miles of track and 472 stations. The city is also home to the world's two largest stock exchanges, the New York Stock Exchange and NASDAQ. New York City is a global hub of international business and commerce, and is home to the headquarters of many of the world's largest corporations, including Goldman Sachs, JPMorgan Chase, Citigroup, and Morgan Stanley. The city is also a major center for media, publishing, and entertainment, with many of the world's largest media conglomerates, including NBCUniversal, CBS Corporation, and Viacom, headquartered in the city. New York City is known for its iconic landmarks, including the Statue of Liberty, the Empire State Building, and Central Park. The city is also home to many world-renowned museums, including the Metropolitan Museum of Art, the Museum of Modern Art, and the American Museum of Natural History. The city is also a major center for the arts, with many theaters and performing arts centers, including the Lincoln Center for the Performing Arts and the Brooklyn Academy of Music. New York City is also known for its diverse and vibrant culture, with a wide range of ethnic neighborhoods and communities, including Chinatown, Little Italy, and Harlem. The city is also home to many world-renowned restaurants, including some of the best pizza and bagels in the world.",
+            "qae_pairs": [
+                {
+                    "question": "Which bank is headquartered in New York City and is one of the world's largest banks?",
+                    "answer": "JPMorgan Chase",
+                    "explanation": "JPMorgan Chase is one of the world's largest banks and is headquartered in New York City."
+                },
+                {
+                    "question": "What is the name of the world's second-largest stock exchange, located in New York City?",
+                    "answer": "NASDAQ",
+                    "explanation": "New York City is a global hub of international business and commerce, and is home to the headquarters of many of the world's largest corporations, including Goldman Sachs, JPMorgan Chase, Citigroup, and Morgan Stanley."
+                },
+                {
+                    "question": "What is the name of the world-renowned performing arts center in New York City?",
+                    "answer": "the Lincoln Center for the Performing Arts",
+                    "explanation": "New York City is a global hub of international business and commerce, and is home to the headquarters of many of the world's largest corporations, including Goldman Sachs, JPMorgan Chase, Citigroup, and Morgan Stanley. Evidence sentence: New York City is a global hub of international business and commerce, and is home to the headquarters of many of the world's largest corporations, including Goldman Sachs, JPMorgan Chase, Citigroup, and Morgan Stanley."
+                },
+                {
+                    "question": "Which of the following is a famous park in New York City?",
+                    "answer": "Central Park",
+                    "explanation": "New York City is known for its iconic landmarks, including the Statue of Liberty, the Empire State Building, and Central Park."
+                },
+                {
+                    "question": "What is the world's largest stock exchange?",
+                    "answer": "the New York Stock Exchange",
+                    "explanation": "The city is also home to the world's two largest stock exchanges, the New York Stock Exchange and NASDAQ."
+                }
+            ],
+            "hops": [
+                "New York City"
+            ]
+        },
+        "Tokyo": {
+            "term": "Tokyo",
+            "passage": "Tokyo is the capital city of Japan and the world's most populous metropolis. It is the center of the Greater Tokyo Area, which is the largest metropolitan area in the world. Tokyo is in the Kanto region on the east coast of Honshu, the largest island of Japan. The city is known for its vibrant atmosphere, its bustling streets and its modern technologies. Tokyo was originally a small fishing village named Edo, which in 1603 became the center of a new, powerful government and rapidly grew into a wealthy city. During the Meiji Restoration of 1868, the emperor moved to Tokyo and the city became the capital of Japan. Since then, Tokyo has been the center of Japanese political and economic power. Today, Tokyo is a major global city and a hub for international business and finance. It is also one of the world's most popular tourist destinations, attracting millions of visitors every year. The city is known for its unique blend of modern and traditional culture, its high-tech gadgets and its delicious food. Tokyo is home to many world-famous landmarks, including the Tokyo Tower, the Imperial Palace and the Sensoji Temple. The city is also famous for its vibrant nightlife, its fashion and its entertainment. Tokyo is a city that never sleeps and there is always something new to discover.",
+            "qae_pairs": [
+                {
+                    "question": "What is the largest island of Japan?",
+                    "answer": "Honshu",
+                    "explanation": "During the Meiji Restoration of 1868, the emperor moved to Tokyo and the city became the capital of Japan. This sentence is an evidence sentence because it explains the historical event that led to Tokyo becoming the capital of Japan."
+                },
+                {
+                    "question": "What was the original name of Tokyo?",
+                    "answer": "Edo",
+                    "explanation": "Tokyo was originally a small fishing village named Edo, which in 1603 became the center of a new, powerful government and rapidly grew into a wealthy city. Evidence sentence: Tokyo was originally a small fishing village named Edo, which in 1603 became the center of a new, powerful government and rapidly grew into a wealthy city."
+                },
+                {
+                    "question": "In what year did the emperor move to Tokyo and the city became the capital of Japan?",
+                    "answer": "1868",
+                    "explanation": "During the Meiji Restoration of 1868, the emperor moved to Tokyo and the city became the capital of Japan."
+                },
+                {
+                    "question": "What was the event that led to Tokyo becoming the capital of Japan?",
+                    "answer": "the Meiji Restoration",
+                    "explanation": "During the Meiji Restoration of 1868, the emperor moved to Tokyo and the city became the capital of Japan."
+                },
+                {
+                    "question": "'What is the region that Tokyo is located in?'",
+                    "answer": "Kanto",
+                    "explanation": "Tokyo is in the Kanto region on the east coast of Honshu, the largest island of Japan."
+                },
+                {
+                    "question": "In which year did Tokyo become the center of a new, powerful government?",
+                    "answer": "1603",
+                    "explanation": "Tokyo was originally a small fishing village named Edo, which in 1603 became the center of a new, powerful government and rapidly grew into a wealthy city. Explanation: This sentence explains that Tokyo was originally a small fishing village named Edo, which became the center of a new, powerful government in 1603 and rapidly grew into a wealthy city. This is an evidence sentence because it provides specific information about the history of Tokyo and how it became the capital of Japan."
+                },
+                {
+                    "question": "What is the capital city of?",
+                    "answer": "Japan",
+                    "explanation": "Tokyo is the capital city of Japan and the world's most populous metropolis."
+                },
+                {
+                    "question": "What is the location of Tokyo?",
+                    "answer": "the east coast",
+                    "explanation": "Tokyo is in the Kanto region on the east coast of Honshu, the largest island of Japan."
+                }
+            ],
+            "hops": [
+                "Tokyo"
+            ]
+        },
+        "Paris": {
+            "term": "Paris",
+            "passage": "Paris is the capital and most populous city of France, with an area of 105 square kilometres and an official estimated population of 2,148,271 residents as of 2021. The city is a major global city, and a center of art, fashion, gastronomy, and culture. Its influence in politics, education, entertainment, media, fashion, science, and the arts all contribute to its status as one of the world's major global cities. Paris is home to many iconic landmarks, including the Eiffel Tower, the Louvre Museum, Notre-Dame Cathedral, the Arc de Triomphe, and the Palace of Versailles. The city is also known for its romantic atmosphere, with its cafes, restaurants, and street vendors adding to its charm. Paris is divided into 20 arrondissements, or districts, which are numbered from 1 to 20 in a clockwise spiral from the center of the city, which is located on the Île de la Cité. Each arrondissement has its own unique character and attractions, from the trendy boutiques and cafes of the Marais to the bohemian vibe of Montmartre. The city is also known for its high-end fashion, with many of the world's top designers and fashion houses based in Paris. The city is home to the famous fashion week, which takes place twice a year and attracts fashion enthusiasts from around the world. Paris is also a major center for art and culture, with many museums, galleries, and theaters throughout the city.",
+            "qae_pairs": [
+                {
+                    "question": "What is the capital and most populous city of?",
+                    "answer": "France",
+                    "explanation": "Paris is the capital and most populous city of France."
+                },
+                {
+                    "question": "What is the name of the famous museum located in Paris?",
+                    "answer": "the Louvre Museum",
+                    "explanation": "Paris is home to many iconic landmarks, including the Eiffel Tower, the Louvre Museum, Notre-Dame Cathedral, the Arc de Triomphe, and the Palace of Versailles."
+                },
+                {
+                    "question": "The question is \"What is the name of the famous hill in Paris, known for its artists, bohemian vibe, and views of the city?\"",
+                    "answer": "Montmartre",
+                    "explanation": "The city is also known for its high-end fashion, with many of the world's top designers and fashion houses based in Paris. The city is home to the famous fashion week, which takes place twice a year and attracts fashion enthusiasts from around the world."
+                }
+            ],
+            "hops": [
+                "Paris"
+            ]
+        },
+        "London": {
+            "term": "London",
+            "passage": "London is the capital and largest city of England and the United Kingdom. Standing on the River Thames in the south-east of England, at the head of its 50-mile (80 km) estuary leading to the North Sea, London has been a major settlement for two millennia. Londinium was founded by the Romans. The City of London, London's ancient core − an area of just 1.12 square miles (2.9 km2) and colloquially known as the Square Mile − retains its medieval boundaries. The City of Westminster is an area of London to the west of the City of London and was historically the site of the Palace of Westminster, the seat of the British government. London is a leading global city, with strengths in the arts, commerce, education, entertainment, fashion, finance, healthcare, media, professional services, research and development, tourism, and transport all contributing to its prominence. It is one of the world's leading financial centres and has the fifth-or sixth-largest metropolitan area GDP in the world depending on the measurement method. London is a world cultural capital. It is the world's most-visited city as measured by international arrivals and has the world's largest city airport system measured by passenger traffic. London's 43 universities form the largest concentration of higher education institutions in Europe. In 2012, London became the first city to host the modern Summer Olympic Games three times. London has a diverse range of peoples and cultures, and more than 300 languages are spoken within its boundaries. It is a major centre for music, film, art, theatre, dance, and television.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the area of London to the west of the City of London and was historically the site of the Palace of Westminster, the seat of the British government?",
+                    "answer": "The City of Westminster",
+                    "explanation": "London is a leading global city, with strengths in the arts, commerce, education, entertainment, fashion, finance, healthcare, media, professional services, research and development, tourism, and transport all contributing to its prominence. Explanation: The passage states that London is a leading global city with strengths in various fields that contribute to its prominence."
+                }
+            ],
+            "hops": [
+                "London"
+            ]
+        },
+        "Los Angeles": {
+            "term": "Los Angeles",
+            "passage": "Los Angeles (/lɔːs ˈændʒələs/ (listen); Spanish: Los Ángeles), officially the City of Los Angeles and often known by its initials L.A., is the second-most populous city in the United States, after New York City, and the largest and most populous city in the state of California. It is located in Southern California, on a coastal plain overlooking the Pacific Ocean. The city is the focal point of the larger Los Angeles metropolitan area, which is the third-largest metropolitan area in the United States, with a population of nearly 14 million people. Los Angeles is known for its Mediterranean climate, ethnic diversity, sprawling metropolis, and as a major center of the American entertainment industry, particularly in film, television, and music. The city is home to renowned institutions covering a broad range of professional and cultural fields, and is one of the most substantial economic engines within the United States. Los Angeles has been ranked as one of the world's most livable cities and is considered a global city, with strengths in business, entertainment, culture, media, fashion, science, sports, technology, education, and tourism. The city is divided into many neighborhoods and enclaves, each with its unique character and history. Some of the most well-known neighborhoods include Hollywood, Beverly Hills, Santa Monica, Venice, and Downtown Los Angeles. Los Angeles is also home to a number of significant cultural landmarks, such as the Getty Center, the Los Angeles County Museum of Art, and the Griffith Observatory. Additionally, the city is home to a number of professional sports teams, including the Los Angeles Dodgers, Los Angeles Lakers, Los Angeles Clippers, and the Los Angeles Kings.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the cultural landmark located in Los Angeles?",
+                    "answer": "the Getty Center",
+                    "explanation": "The city is divided into many neighborhoods and enclaves, each with its unique character and history."
+                },
+                {
+                    "question": "Which neighborhood is located near the ocean and known for its canals and beach culture?",
+                    "answer": "Venice",
+                    "explanation": "Los Angeles is known for its Mediterranean climate, ethnic diversity, sprawling metropolis, and as a major center of the American entertainment industry, particularly in film, television, and music. This sentence is an explanation of the general characteristics of Los Angeles and its reputation in the world."
+                },
+                {
+                    "question": "Which country is Los Angeles in?",
+                    "answer": "the United States",
+                    "explanation": "Los Angeles is the second-most populous city in the United States, after New York City, and the largest and most populous city in the state of California."
+                },
+                {
+                    "question": "Which neighborhood of Los Angeles is famous for its beaches and oceanfront promenade? Passage about the United States: The United States of America (USA), commonly referred to as the United States (US) or America, is a country comprising 50 states, a federal district, five major self",
+                    "answer": "Santa Monica",
+                    "explanation": "Passage about Los Angeles: Los Angeles is known for its Mediterranean climate, ethnic diversity, sprawling metropolis, and as a major center of the American entertainment industry, particularly in film, television, and music. Evidence sentence: Los Angeles is known for its Mediterranean climate, ethnic diversity, sprawling metropolis, and as a major center of the American entertainment industry, particularly in film, television, and music."
+                },
+                {
+                    "question": "In what region is Los Angeles located?",
+                    "answer": "Southern California",
+                    "explanation": "Los Angeles is located in Southern California, on a coastal plain overlooking the Pacific Ocean."
+                },
+                {
+                    "question": "'What is the climate of Los Angeles known for?' This is a good example of a fact-based passage about Los Angeles.",
+                    "answer": "Mediterranean",
+                    "explanation": "Los Angeles is known for its Mediterranean climate."
+                }
+            ],
+            "hops": [
+                "Los Angeles"
+            ]
+        },
+        "Shanghai": {
+            "term": "Shanghai",
+            "passage": "Shanghai is one of the four direct-controlled municipalities of the People's Republic of China, located on the eastern coast of China, at the mouth of the Yangtze River. It is the largest city in China by population, with more than 24 million people, and is a global financial center and transport hub. Shanghai has a rich history, dating back to the 12th century when it was a small fishing village. It grew in importance in the 19th century due to its port, which was opened to foreign trade by the Treaty of Nanking in 1842. The city then became a center of commerce, and was known as the \"Paris of the East\" due to its Western-style architecture and culture. In the early 20th century, Shanghai became a haven for refugees fleeing war and persecution, particularly Jews fleeing Nazi Germany. It also became a center of Communist activity, and was the site of the First National Congress of the Communist Party of China in 1921. During World War II, Shanghai was occupied by Japan and became a battleground between Chinese and Japanese forces. After the war, the city was returned to Chinese control and became a major center of industry and commerce. Today, Shanghai is a global financial center, with the Shanghai Stock Exchange and the headquarters of many multinational corporations located in the city. It is also a major transport hub, with two international airports and the world's longest sea-crossing bridge, the Donghai Bridge. Shanghai is known for its unique blend of Western and Chinese culture, and is home to many historic landmarks, such as the Bund and Yu Garden.",
+            "qae_pairs": [
+                {
+                    "question": "Who occupied Shanghai during World War II?",
+                    "answer": "Japan",
+                    "explanation": "During World War II, Shanghai was occupied by Japan and became a battleground between Chinese and Japanese forces."
+                },
+                {
+                    "question": "What is the name of the famous waterfront area in Shanghai?",
+                    "answer": "Bund",
+                    "explanation": "Shanghai is known for its unique blend of Western and Chinese culture, and is home to many historic landmarks, such as the Bund and Yu Garden."
+                },
+                {
+                    "question": "What is the longest river in China?",
+                    "answer": "the Yangtze River",
+                    "explanation": "Shanghai is located at the mouth of the Yangtze River This sentence is an evidence sentence because it provides information about the location of Shanghai, which is relevant to the question about the longest river in China."
+                },
+                {
+                    "question": "What event allowed Shanghai to become a center of commerce in the 19th century?",
+                    "answer": "the Treaty of Nanking",
+                    "explanation": "Shanghai grew in importance in the 19th century due to its port, which was opened to foreign trade by the Treaty of Nanking in 1842."
+                }
+            ],
+            "hops": [
+                "Shanghai"
+            ]
+        },
+        "Mumbai": {
+            "term": "Mumbai",
+            "passage": "Mumbai, formerly known as Bombay, is the capital city of the Indian state of Maharashtra. It is the most populous city in India, with an estimated population of 20 million people as of 2021. Mumbai is located on the west coast of India and has a deep natural harbor. The city is also known as the \"City of Dreams\" due to its role in the Indian film industry, which is based in Mumbai. Mumbai is a major financial and commercial hub of India and is home to the Bombay Stock Exchange, the National Stock Exchange of India, and the Reserve Bank of India. The city is also a center for the entertainment industry, with many Bollywood film studios located in the city. Mumbai has a rich history, dating back to the 3rd century BC when it was under the rule of the Maurya Empire. The city was later ruled by the Gupta Empire, the Arabs, and the Portuguese. In the 17th century, the British East India Company established a trading post in Mumbai, which eventually grew into a major city. Today, Mumbai is a bustling metropolis with a diverse population and a rich cultural heritage. The city is known for its vibrant street life, colorful markets, and delicious street food. It is also home to many historic landmarks, including the Gateway of India, the Chhatrapati Shivaji Terminus, and the Elephanta Caves. Despite its economic success, Mumbai faces many challenges, including poverty, crime, and traffic congestion. The city is also vulnerable to natural disasters, such as floods and earthquakes.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the historic railway station in Mumbai, India?",
+                    "answer": "Shivaji Terminus",
+                    "explanation": "The city is also known as the City of Dreams due to its role in the Indian film industry, which is based in Mumbai. Evidence sentence: Mumbai is known as the City of Dreams due to its role in the Indian film industry, which is based in Mumbai. Passage about Mumbai: Mumbai, formerly known as Bombay, is the capital city of the Indian state of Maharashtra."
+                },
+                {
+                    "question": "What is the initialism for Before Christ? 'AD' is the answer to which question: What is the initialism for Anno Domini?",
+                    "answer": "BC",
+                    "explanation": "Passage about Mumbai: Mumbai is a major financial and commercial hub of India and is home to the Bombay Stock Exchange, the National Stock Exchange of India, and the Reserve Bank of India. Answer: Mumbai is a major financial and commercial hub of India and is home to the Bombay Stock Exchange, the National Stock Exchange of India, and the Reserve Bank of India. Rationale: The statement provides information about the economic significance of Mumbai and the role it plays in the Indian economy."
+                },
+                {
+                    "question": "Which coast is Mumbai located on?",
+                    "answer": "the west coast",
+                    "explanation": "Mumbai is located on the west coast of India and has a deep natural harbor."
+                },
+                {
+                    "question": "Which British trading company established a trading post in Mumbai in the 17th century?",
+                    "answer": "East India Company",
+                    "explanation": "In the 17th century, the British East India Company established a trading post in Mumbai, which eventually grew into a major city."
+                }
+            ],
+            "hops": [
+                "Mumbai"
+            ]
+        },
+        "Beijing": {
+            "term": "Beijing",
+            "passage": "Beijing is the capital of the People's Republic of China and the world's third most populous city proper. It is located in northern China, and is governed as a direct-controlled municipality under the national government, with 16 urban and suburban districts and two rural counties. Beijing is an ancient city with a long history, dating back more than 3,000 years. As the last of the Four Great Ancient Capitals of China, Beijing has been the political center of the country for much of the past eight centuries. The city is renowned for its rich history, culture, and heritage. It is also known for its modern infrastructure and as a major transportation hub, with dozens of airports, high-speed railways, and expressways. Beijing is home to many famous landmarks, such as the Forbidden City, the Temple of Heaven, the Summer Palace, and the Great Wall of China. The city is also known for its traditional siheyuan housing, hutongs, and courtyard houses. The city's culture is also reflected in its food, including Peking duck, hot pot, and a variety of noodle and dumpling dishes. Beijing is a major center for politics, economy, culture, and education in China. It is home to several world-renowned universities, such as Peking University and Tsinghua University. The city is also home to the headquarters of most of China's largest state-owned enterprises, and is an important hub for the national economy. Beijing hosted the 2008 Summer Olympics and was chosen to host the 2022 Winter Olympics, making it the first city to ever host both winter and summer Olympics.",
+            "qae_pairs": [
+                {
+                    "question": "Which university is located in Beijing and is known for its research in science and technology?",
+                    "answer": "Tsinghua University",
+                    "explanation": "Beijing is a major center for politics, economy, culture, and education in China. It is home to several world-renowned universities, such as Peking University and Tsinghua University. Evidence sentence: Beijing is a major center for politics, economy, culture, and education in China."
+                },
+                {
+                    "question": "Which university is located in Beijing, China?",
+                    "answer": "Peking University",
+                    "explanation": "Beijing is a major center for politics, economy, culture, and education in China. It is home to several world-renowned universities, such as Peking University and Tsinghua University. This sentence explains that Beijing is a significant center for education in China, and it is home to several world-renowned universities, including Peking University and Tsinghua University."
+                },
+                {
+                    "question": "What is the name of the palace complex in Beijing that was the ceremonial and political center of Chinese government for almost 500 years?",
+                    "answer": "the Forbidden City",
+                    "explanation": "The city is renowned for its rich history, culture, and heritage."
+                },
+                {
+                    "question": "What is the year Beijing will host the Winter Olympics?",
+                    "answer": "2022",
+                    "explanation": "Beijing hosted the 2008 Summer Olympics and was chosen to host the 2022 Winter Olympics, making it the first city to ever host both winter and summer Olympics. The evidence sentence is: Beijing hosted the 2008 Summer Olympics and was chosen to host the 2022 Winter Olympics, making it the first city to ever host both winter and summer Olympics."
+                },
+                {
+                    "question": "What is the year that Beijing hosted the Summer Olympics?",
+                    "answer": "2008",
+                    "explanation": "Beijing is renowned for its rich history, culture, and heritage."
+                }
+            ],
+            "hops": [
+                "Beijing"
+            ]
+        },
+        "Istanbul": {
+            "term": "Istanbul",
+            "passage": "Istanbul is the largest city in Turkey, located on the Bosphorus Strait and encompassing the natural harbor known as the Golden Horn, in the northwest of the country. It is the cultural and financial center of Turkey, and its strategic location has made it one of the world's most important cities for centuries. The city has a population of over 15 million people, making it the second-largest city in Europe by population, and the 16th-largest city in the world. Istanbul is also one of the world's most historic cities, with a rich cultural heritage that spans more than 2,000 years. Istanbul has a rich history, having been the capital of the Eastern Roman Empire, the Byzantine Empire, and the Ottoman Empire. It was also the capital of the Turkish Republic between 1923 and 1933. The city is home to numerous historic landmarks, including the Hagia Sophia, the Blue Mosque, and the Topkapi Palace. Istanbul is a major economic center, with a diverse range of industries including finance, tourism, and manufacturing. The city is home to the Istanbul Stock Exchange, and is also a hub for international trade. The city is known for its vibrant culture, with a rich tradition of music, art, and literature. Istanbul is also famous for its cuisine, which blends traditional Turkish flavors with influences from the Mediterranean and the Middle East. Despite its many strengths, Istanbul faces a number of challenges, including traffic congestion, air pollution, and urbanization. The city is also vulnerable to natural disasters, including earthquakes and floods.",
+            "qae_pairs": [
+                {
+                    "question": "What is Istanbul the largest city in?",
+                    "answer": "Turkey",
+                    "explanation": "Istanbul is the largest city in Turkey, located on the Bosphorus Strait and encompassing the natural harbor known as the Golden Horn, in the northwest of the country. This sentence is an evidence sentence because it provides a clear and specific statement about the size and location of Istanbul, which is the main topic of the passage."
+                },
+                {
+                    "question": "What is the name of the historic landmark located in Istanbul?",
+                    "answer": "the Hagia Sophia",
+                    "explanation": "The city is home to numerous historic landmarks, including the Hagia Sophia, the Blue Mosque, and the Topkapi Palace."
+                },
+                {
+                    "question": "What is the name of the historic mosque located in Istanbul, Turkey, known for its blue tiles and impressive domes?",
+                    "answer": "the Blue Mosque",
+                    "explanation": "The city is home to numerous historic landmarks, including the Hagia Sophia, the Blue Mosque, and the Topkapi Palace."
+                }
+            ],
+            "hops": [
+                "Istanbul"
+            ]
+        },
+        "Rio de Janeiro": {
+            "term": "Rio de Janeiro",
+            "passage": "Rio de Janeiro, commonly referred to simply as Rio, is the second-largest city in Brazil, with a population of approximately 6.6 million people as of 2019. It is the capital and largest city of the state of Rio de Janeiro, and is located within the greater Rio de Janeiro metropolitan area. Rio de Janeiro is famous for its beautiful natural settings, including its beaches, forests, and mountains, as well as its vibrant culture and history. The city is known around the world for its annual Carnival celebration, which is considered the largest carnival in the world, and draws millions of visitors from around the globe each year. Rio de Janeiro has a diverse economy, with a focus on tourism, finance, and industry. The city is home to several major companies, including Petrobras, the largest energy company in Brazil, and Vale, one of the world's largest mining companies. Rio de Janeiro is also home to several major universities, including the Federal University of Rio de Janeiro and the Pontifical Catholic University of Rio de Janeiro. The city is served by two major airports, Galeão International Airport and Santos Dumont Airport, and is connected to the rest of Brazil by a network of highways and railways.",
+            "qae_pairs": [
+                {
+                    "question": "Which country is Rio de Janeiro the capital and largest city of?",
+                    "answer": "Brazil",
+                    "explanation": "Rio de Janeiro is the capital and largest city of the state of Rio de Janeiro, and is located within the greater Rio de Janeiro metropolitan area. This sentence provides evidence that Rio de Janeiro is the capital and largest city of the state of Rio de Janeiro, which is located in Brazil."
+                },
+                {
+                    "question": "Which company is the largest energy company in Brazil? 'Vale' is the answer to which question: Which company is one of the world's largest mining companies?",
+                    "answer": "Petrobras",
+                    "explanation": "Rio de Janeiro is known around the world for its annual Carnival celebration, which is considered the largest carnival in the world, and draws millions of visitors from around the globe each year. Evidence sentence: Rio de Janeiro is known around the world for its annual Carnival celebration, which is considered the largest carnival in the world, and draws millions of visitors from around the globe each year."
+                },
+                {
+                    "question": "\"Which year does the passage mention Rio de Janeiro's population?\"",
+                    "answer": "2019",
+                    "explanation": "Rio de Janeiro is known around the world for its annual Carnival celebration, which is considered the largest carnival in the world, and draws millions of visitors from around the globe each year."
+                },
+                {
+                    "question": "What is one of the world's largest mining companies?",
+                    "answer": "Vale",
+                    "explanation": "Rio de Janeiro is known around the world for its annual Carnival celebration, which is considered the largest carnival in the world, and draws millions of visitors from around the globe each year. Evidence sentence: Rio de Janeiro is known around the world for its annual Carnival celebration, which is considered the largest carnival in the world, and draws millions of visitors from around the globe each year."
+                }
+            ],
+            "hops": [
+                "Rio de Janeiro"
+            ]
+        }
+    },
+    "second_hops": {
+        "JPMorgan Chase": {
+            "term": "JPMorgan Chase",
+            "passage": "JPMorgan Chase & Co. is an American multinational investment bank and financial services company headquartered in New York City. JPMorgan Chase is the largest bank in the United States, with total assets of $2.6 trillion. It is a leading provider of financial services for consumers, small businesses, corporations, governments, and institutions. The company operates in more than 60 countries and employs over 250,000 people. JPMorgan Chase is a member of the Dow Jones Industrial Average and the S&P 500 index. The company was formed in 2000 by the merger of J.P. Morgan & Co. and Chase Manhattan Corporation.",
+            "qae_pairs": [
+                {
+                    "question": "What year did JPMorgan Chase & Co. merge with Chase Manhattan Corporation?",
+                    "answer": "2000",
+                    "explanation": "JPMorgan Chase & Co. was formed in 2000 by the merger of J.P. Morgan & Co. and Chase Manhattan Corporation."
+                },
+                {
+                    "question": "What was the name of the company that merged with Chase Manhattan Corporation to form JPMorgan Chase & Co.?",
+                    "answer": "J.P. Morgan & Co",
+                    "explanation": "The company was formed in 2000 by the merger of J.P. Morgan & Co. and Chase Manhattan Corporation."
+                }
+            ],
+            "hops": [
+                "New York City",
+                "JPMorgan Chase"
+            ]
+        },
+        "NASDAQ": {
+            "term": "NASDAQ",
+            "passage": "NASDAQ (National Association of Securities Dealers Automated Quotations) is an American stock exchange. It is the second-largest stock exchange in the world by market capitalization, behind only the New York Stock Exchange. NASDAQ was founded in 1971 and is headquartered in New York City. The exchange is home to a number of well-known technology companies, including Apple, Microsoft, and Amazon. NASDAQ is known for its electronic trading platform, which allows investors to buy and sell securities in real-time. The exchange also offers a range of other services, including listings, trading, and market data. NASDAQ is regulated by the Securities and Exchange Commission (SEC) and is overseen by the Financial Industry Regulatory Authority (FINRA).",
+            "qae_pairs": [
+                {
+                    "question": "What regulatory body oversees NASDAQ?",
+                    "answer": "FINRA",
+                    "explanation": "NASDAQ is known for its electronic trading platform, which allows investors to buy and sell securities in real-time."
+                },
+                {
+                    "question": "What regulatory authority oversees NASDAQ's electronic trading platform and listings services?",
+                    "answer": "the Financial Industry Regulatory Authority",
+                    "explanation": "NASDAQ is regulated by the Securities and Exchange Commission (SEC) and is overseen by the Financial Industry Regulatory Authority (FINRA)."
+                },
+                {
+                    "question": "Q: Who is the largest public company listed on NASDAQ and was founded in California? (Avoid the following entities in the question: New York City)",
+                    "answer": "Apple",
+                    "explanation": "NASDAQ is known for its electronic trading platform, which allows investors to buy and sell securities in real-time."
+                }
+            ],
+            "hops": [
+                "New York City",
+                "NASDAQ"
+            ]
+        },
+        "Central Park": {
+            "term": "Central Park",
+            "passage": "Central Park is an urban park in Manhattan, New York City. It is located in the borough of Manhattan and covers 843 acres between 59th Street and 110th Street. The park was established in 1858 on land that was originally owned by John Jacob Astor and his wife, and it was designed by Frederick Law Olmsted and Calvert Vaux. Central Park is one of the most visited tourist attractions in New York City, with over 40 million visitors annually. The park is home to several landmarks, including the Central Park Zoo, the Central Park Conservatory Garden, and the Bethesda Fountain. It also features several lakes, ponds, and streams, as well as several walking and biking paths. Central Park is also known for its many events and performances, including the annual Shakespeare in the Park festival.",
+            "qae_pairs": [
+                {
+                    "question": "What is the location of Central Park in relation to Manhattan?",
+                    "answer": "Manhattan",
+                    "explanation": "Central Park is located in the borough of Manhattan and covers 843 acres between 59th Street and 110th Street."
+                },
+                {
+                    "question": "What was the name of the person who designed Central Park?",
+                    "answer": "Frederick Law Olmsted",
+                    "explanation": "The park was established in 1858 on land that was originally owned by John Jacob Astor and his wife, and it was designed by Frederick Law Olmsted and Calvert Vaux. This sentence explains that Central Park was established in 1858 on land that was originally owned by John Jacob Astor and his wife, and it was designed by Frederick Law Olmsted and Calvert Vaux."
+                },
+                {
+                    "question": "Who was the co-designer of Central Park along with Frederick Law Olmsted?",
+                    "answer": "Calvert Vaux",
+                    "explanation": "The park was established in 1858 on land that was originally owned by John Jacob Astor and his wife, and it was designed by Frederick Law Olmsted and Calvert Vaux."
+                }
+            ],
+            "hops": [
+                "New York City",
+                "Central Park"
+            ]
+        },
+        "the New York Stock Exchange": {
+            "term": "the New York Stock Exchange",
+            "passage": "The New York Stock Exchange (NYSE) is an American stock exchange located in New York City, New York. It is the world's largest stock exchange by market capitalization of its listed companies at US$30.1 trillion as of June 2021. The average daily trading value was approximately US$223 billion in 2020. The NYSE trading floor is located at 11 Wall Street and is composed of 21 rooms used for the facilitation of trading. A recent change to the trading floor was the replacement of the traditional open outcry system with electronic trading. The NYSE has been in operation since 1792 and is one of the oldest stock exchanges in the world. It is operated by Intercontinental Exchange (ICE), an American multinational corporation that operates a range of exchanges and clearinghouses for financial and commodity markets. The NYSE is home to some of the world's most iconic and recognizable companies, including Apple, Microsoft, and Amazon.",
+            "qae_pairs": [
+                {
+                    "question": "What company was listed on the New York Stock Exchange with the highest market capitalization in 2021?",
+                    "answer": "Apple",
+                    "explanation": "The NYSE trading floor is located at 11 Wall Street and is composed of 21 rooms used for the facilitation of trading. Evidence sentence: The NYSE trading floor is located at 11 Wall Street and is composed of 21 rooms used for the facilitation of trading."
+                }
+            ],
+            "hops": [
+                "New York City",
+                "the New York Stock Exchange"
+            ]
+        },
+        "Honshu": {
+            "term": "Honshu",
+            "passage": "Honshu is the largest island of Japan, located north of Shikoku and south of Hokkaido. It is the seventh-largest island in the world and the most populous island in the world. The island is divided into 34 prefectures, with Tokyo being the capital city. Honshu has a varied climate, ranging from subtropical in the south to temperate in the north. The island is home to many famous cities, including Tokyo, Osaka, and Kyoto. Honshu is also known for its natural beauty, including Mount Fuji, which is the highest mountain in Japan. The island is home to many cultural and historical landmarks, including the ancient capital of Nara and the famous temples of Kyoto. Honshu is a major economic and cultural center of Japan, and is home to many of the country's largest cities and industries.",
+            "qae_pairs": [
+                {
+                    "question": "What is the second largest city in Honshu, after Tokyo?",
+                    "answer": "Osaka",
+                    "explanation": "Honshu is the largest island of Japan, located north of Shikoku and south of Hokkaido. It is the seventh-largest island in the world and the most populous island in the world."
+                },
+                {
+                    "question": "What is the ancient capital of Honshu?",
+                    "answer": "Nara",
+                    "explanation": "Honshu is the largest island of Japan, located north of Shikoku and south of Hokkaido. It is the seventh-largest island in the world and the most populous island in the world. The island is divided into 34 prefectures, with Tokyo being the capital city. Honshu has a varied climate, ranging from subtropical in the south to temperate in the north. The island is home to many famous cities, including Tokyo, Osaka, and Kyoto."
+                }
+            ],
+            "hops": [
+                "Tokyo",
+                "Honshu"
+            ]
+        },
+        "Kanto": {
+            "term": "Kanto",
+            "passage": "The Kanto region is an area in the eastern part of Honshu, the largest island of Japan. It includes the Greater Tokyo Area, which is the most populous metropolitan area in the world, as well as several historical prefectures such as Tokyo, Kanagawa, Saitama, Gunma, Tochigi, Ibaraki, and Chiba. The region is known for its cultural and historical significance, as well as its economic and political power. The Kanto earthquake of 1923, one of the most devastating earthquakes in Japanese history, occurred in this region. The region is also home to several major universities and research institutions, including the University of Tokyo and Tokyo Institute of Technology. The Kanto region is a major transportation hub, with several airports, seaports, and high-speed rail lines connecting it to the rest of Japan and the world.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the prefecture located in the Kanto region, which is famous for its hot springs and ski resorts?",
+                    "answer": "Gunma",
+                    "explanation": "The Kanto region is an area in the eastern part of Honshu, the largest island of Japan."
+                },
+                {
+                    "question": "What is the name of the prefecture located in the Kanto region, which is known for its beautiful beaches and hot springs?",
+                    "answer": "Chiba",
+                    "explanation": "The Kanto region is known for its cultural and historical significance, as well as its economic and political power."
+                },
+                {
+                    "question": "What is the name of the island that the Kanto region is located on?",
+                    "answer": "Honshu",
+                    "explanation": "The Kanto region is an area in the eastern part of Honshu, the largest island of Japan."
+                },
+                {
+                    "question": "What is the capital city of Saitama prefecture in the Kanto region?",
+                    "answer": "Saitama",
+                    "explanation": "The Kanto region is an area in the eastern part of Honshu, the largest island of Japan. It includes the Greater Tokyo Area, which is the most populous metropolitan area in the world, as well as several historical prefectures such as Tokyo, Kanagawa, Saitama, Gunma, Tochigi, Ibaraki, and Chiba. Evidence sentence: The Kanto region includes several historical prefectures such as Tokyo, Kanagawa, Saitama, Gunma, Tochigi, Ibaraki, and Chiba."
+                }
+            ],
+            "hops": [
+                "Tokyo",
+                "Kanto"
+            ]
+        },
+        "Japan": {
+            "term": "Japan",
+            "passage": "Japan is an island nation in East Asia. Located in the Pacific Ocean, it lies to the east of the Sea of Japan, China, North Korea, South Korea and Russia, stretching from the Sea of Okhotsk in the north to the East China Sea and Taiwan in the south. The characters that make up Japan's name mean \"sun-origin\", which is why Japan is often referred to as the \"Land of the Rising Sun\". Japan is a stratovolcanic archipelago consisting of four main islands: Honshu, Hokkaido, Kyushu, and Shikoku, as well as over 3,000 smaller islands. The country is known for its unique culture, including its traditional arts such as tea ceremonies, calligraphy, and origami, as well as its modern pop culture such as anime, manga, and video games. Japan is also famous for its cuisine, including sushi, ramen, and tempura. The country is home to many world-renowned cities, including Tokyo, Osaka, and Kyoto, which are known for their bustling streets, high-tech gadgets, and ancient temples. Japan is a highly developed country with a high standard of living and a strong economy. It is also known for its advanced technology, including robotics, electronics, and automobiles. Japan has a rich history, dating back to the Jomon period, and has been heavily influenced by Chinese and Western cultures over the centuries. Today, Japan is a member of the United Nations, the G7, and the G20, and is considered a major world power.",
+            "qae_pairs": [
+                {
+                    "question": "What is the largest island in Japan, excluding Hokkaido, Kyushu, and Shikoku?",
+                    "answer": "Honshu",
+                    "explanation": "Japan is a stratovolcanic archipelago consisting of four main islands: Honshu, Hokkaido, Kyushu, and Shikoku, as well as over 3,000 smaller islands."
+                }
+            ],
+            "hops": [
+                "Shanghai",
+                "Japan"
+            ]
+        },
+        "the east coast": {
+            "term": "the east coast",
+            "passage": "The East Coast of the United States is the coastline along which the Eastern United States meets the Atlantic Ocean. The East Coast is a diverse region with several major cities, including New York City, Boston, Philadelphia, and Washington, D.C. The East Coast is also home to many historic sites, such as the Liberty Bell in Philadelphia and the Statue of Liberty in New York City. The East Coast is known for its beautiful beaches, such as those found in Miami Beach and Cape Cod. The East Coast is also home to many major ports, including the Port of New York and New Jersey and the Port of Baltimore. The East Coast is a popular destination for tourists from around the world, with its rich history, beautiful scenery, and vibrant culture.",
+            "qae_pairs": [
+                {
+                    "question": "What is the largest city on the East Coast of the United States?",
+                    "answer": "New York City",
+                    "explanation": "New York City is the largest city on the East Coast of the United States."
+                },
+                {
+                    "question": "What is the name of the beach that is located on the east coast of the United States and is known for its beautiful white sand and crystal clear waters?",
+                    "answer": "Miami Beach",
+                    "explanation": "The East Coast is known for its beautiful beaches, such as those found in Miami Beach and Cape Cod."
+                },
+                {
+                    "question": "What is the capital of Massachusetts on the East Coast?",
+                    "answer": "Boston",
+                    "explanation": "The East Coast is known for its beautiful beaches, such as those found in Miami Beach and Cape Cod. Question: What is the East Coast known for? Answer: The East Coast is known for its beautiful beaches, such as those found in Miami Beach and Cape Cod."
+                }
+            ],
+            "hops": [
+                "Tokyo",
+                "the east coast"
+            ]
+        },
+        "France": {
+            "term": "France",
+            "passage": "1. France is a country located in Western Europe. 2. It is the third-largest country in Europe, after Russia and Ukraine. 3. France has a population of approximately 67 million people. 4. It is a unitary semi-presidential republic with its capital in Paris. 5. France is a developed country with the world's seventh-largest economy by nominal GDP. 6. It is a member of the United Nations, the European Union, the Eurozone, the World Trade Organization, and the G7. 7. France is known for its rich culture, history, and art. 8. It is home to many famous landmarks, including the Eiffel Tower, the Louvre Museum, and the Palace of Versailles. 9. France is also known for its cuisine, wine, and fashion. 10. The French language is widely spoken in France and is an official language in over 29 countries.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the famous museum located in France?",
+                    "answer": "the Louvre Museum",
+                    "explanation": "France is a unitary semi-presidential republic with its capital in Paris."
+                },
+                {
+                    "question": "What organization does France belong to as a member?",
+                    "answer": "the European Union",
+                    "explanation": "France is known for its rich culture, history, and art. It is home to many famous landmarks, including the Eiffel Tower, the Louvre Museum, and the Palace of Versailles. This evidence sentence is extracted from the passage because it provides specific details about France's cultural and historical landmarks, which supports the overall claim that France is known for its rich culture and history."
+                },
+                {
+                    "question": "What international organization is France a member of, which is known for its role in promoting free trade and economic globalization?",
+                    "answer": "the World Trade Organization",
+                    "explanation": "France is known for its rich culture, history, and art. It is home to many famous landmarks, including the Eiffel Tower, the Louvre Museum, and the Palace of Versailles. This evidence sentence explains that France is known for its rich culture, history, and art, and it is home to many famous landmarks."
+                },
+                {
+                    "question": "What continent is France located in?",
+                    "answer": "Western Europe",
+                    "explanation": "France is a developed country with the world's seventh-largest economy by nominal GDP."
+                }
+            ],
+            "hops": [
+                "Paris",
+                "France"
+            ]
+        },
+        "Montmartre": {
+            "term": "Montmartre",
+            "passage": "Montmartre is a historic district in Paris, France. It is located in the 18th arrondissement, and is primarily known for its artistic heritage, and as the birthplace of the Impressionist movement. The area is home to the iconic Sacré-Cœur basilica, which offers stunning views of the city. Montmartre is also famous for its bohemian past, and was once home to many artists, including Vincent van Gogh, Pablo Picasso, and Salvador Dalí. The Moulin Rouge, a famous cabaret, is also located in the district. Today, Montmartre is a popular tourist destination, and is known for its charming streets, cafes, and shops.",
+            "qae_pairs": [
+                {
+                    "question": "What was the name of the artist who lived in Montmartre and was known for his Cubist paintings?",
+                    "answer": "Picasso",
+                    "explanation": "Montmartre is also famous for its bohemian past, and was once home to many artists, including Vincent van Gogh, Pablo Picasso, and Salvador Dalí. The evidence sentence is Montmartre is also famous for its bohemian past, and was once home to many artists, including Vincent van Gogh, Pablo Picasso, and Salvador Dalí."
+                }
+            ],
+            "hops": [
+                "Paris",
+                "Montmartre"
+            ]
+        },
+        "The City of Westminster": {
+            "term": "The City of Westminster",
+            "passage": "The City of Westminster is an area in central London, England, part of the West End, and is the location of the Palace of Westminster, which houses the British Parliament. It is one of the most historic and culturally significant areas in London, and is home to many famous landmarks, including Buckingham Palace, the London Eye, and Westminster Abbey. The area is also known for its luxury shopping, fine dining, and entertainment options, and is a popular tourist destination. The City of Westminster is divided into a number of districts, including Soho, Mayfair, and Covent Garden, each with its own unique character and attractions. The area is well-served by public transportation, including the London Underground and buses, and is easily accessible from all parts of the city.",
+            "qae_pairs": [
+                {
+                    "question": "The City of Westminster is located in which country?",
+                    "answer": "England",
+                    "explanation": "The City of Westminster is an area in central London, England, part of the West End, and is the location of the Palace of Westminster, which houses the British Parliament. This sentence provides a clear and specific location for the City of Westminster, which is in central London, England, and is part of the West End. It also identifies the Palace of Westminster as the location where the British Parliament meets, which is a significant cultural and political landmark in the United Kingdom."
+                }
+            ],
+            "hops": [
+                "London",
+                "The City of Westminster"
+            ]
+        },
+        "the Getty Center": {
+            "term": "the Getty Center",
+            "passage": "The Getty Center is a campus of the Getty Museum and other programs of the Getty Trust. The center is located in Los Angeles, California, and is known for its architecture, gardens, and views of the city. The center was designed by architect Richard Meier and opened in 1997. It is a popular tourist destination and attracts millions of visitors each year. The center features a collection of art from around the world, including European paintings, sculptures, and decorative arts, as well as American and Asian art. The center also hosts a variety of educational programs and events, including lectures, workshops, and concerts. The Getty Center is open to the public and admission is free, although parking fees apply.",
+            "qae_pairs": [
+                {
+                    "question": "What state is the Getty Center located in?",
+                    "answer": "California",
+                    "explanation": "The center is located in Los Angeles, California, and is known for its architecture, gardens, and views of the city. Evidence sentence: The Getty Center is located in Los Angeles, California."
+                }
+            ],
+            "hops": [
+                "Los Angeles",
+                "the Getty Center"
+            ]
+        },
+        "Venice": {
+            "term": "Venice",
+            "passage": "1. Venice is a city in northeastern Italy sited on a group of 118 small islands separated by canals and linked by bridges. 2. The city is located in the marshy Venetian Lagoon which stretches along the Adriatic Sea in the northern part of Italy. 3. Venice is renowned for its artistic and cultural heritage, its grand palaces and churches, and the beauty of its canals. 4. The city has been a major economic and cultural center throughout its history. 5. It is also known for its numerous art galleries, theatres, and musical events, and its film festival, which is one of the world's oldest and most prestigious. 6. The city is a popular tourist destination, attracting millions of visitors each year. 7. Venice is built on an archipelago of 118 islands formed by 177 canals in a shallow body of water called the Venetian Lagoon, which stretches along the Adriatic Sea in northeastern Italy. 8. The city is known for its unique architecture, which is characterized by Gothic, Byzantine, and Renaissance styles. 9. Venice has played an important role in the history of Europe and the Mediterranean, and has been a center of trade and commerce since the Middle Ages. 10. The city is also known for its numerous art galleries, theatres, and musical events, and its film festival, which is one of the world's oldest and most prestigious.",
+            "qae_pairs": [
+                {
+                    "question": "What is the location of Venice?",
+                    "answer": "Italy",
+                    "explanation": "Venice is a city in northeastern Italy sited on a group of 118 small islands separated by canals and linked by bridges. This sentence explains the location of Venice, which is in northeastern Italy on a group of 118 small islands."
+                },
+                {
+                    "question": "What body of water is Venice located on?",
+                    "answer": "the Adriatic Sea",
+                    "explanation": "Venice is a city in northeastern Italy sited on a group of 118 small islands separated by canals and linked by bridges. The evidence sentence explains that Venice is located on a group of 118 small islands separated by canals and linked by bridges."
+                },
+                {
+                    "question": "What is the architectural style of the buildings in Venice?",
+                    "answer": "Gothic",
+                    "explanation": "Venice is known for its unique architecture, which is characterized by Gothic, Byzantine, and Renaissance styles."
+                },
+                {
+                    "question": "What was the architectural style that characterized Venice during the Renaissance period?",
+                    "answer": "Renaissance",
+                    "explanation": "Venice is known for its unique architecture, which is characterized by Gothic, Byzantine, and Renaissance styles. This sentence explains that Venice is known for its unique architecture that is characterized by three different styles: Gothic, Byzantine, and Renaissance."
+                }
+            ],
+            "hops": [
+                "Los Angeles",
+                "Venice"
+            ]
+        },
+        "the United States": {
+            "term": "the United States",
+            "passage": "The United States of America, commonly referred to as the United States or America, is a federal republic consisting of 50 states and a federal district. The United States is a developed country and has the world's largest economy by nominal GDP and second-largest economy by PPP, with the U.S. dollar being the world's primary reserve currency. The United States is a founding member of the United Nations, World Trade Organization, International Monetary Fund, and other international organizations. The United States is a highly developed country, with the world's highest GDP per capita and a highly diversified economy that is dominated by the service sector.",
+            "qae_pairs": [
+                {
+                    "question": "What international organization is the United States a founding member of, which is dominated by the service sector and has the world's highest GDP per capita?",
+                    "answer": "International Monetary Fund",
+                    "explanation": "The United States is a founding member of the United Nations, World Trade Organization, International Monetary Fund, and other international organizations."
+                },
+                {
+                    "question": "What is the abbreviation for the United States in the international community?",
+                    "answer": "U.S",
+                    "explanation": "The United States is a founding member of the United Nations, World Trade Organization, International Monetary Fund, and other international organizations."
+                },
+                {
+                    "question": "What international organization does the United States belong to?",
+                    "answer": "World Trade Organization",
+                    "explanation": "The United States is a founding member of the United Nations, World Trade Organization, International Monetary Fund, and other international organizations."
+                },
+                {
+                    "question": "What international organization is the United States a founding member of, and where is its headquarters located?",
+                    "answer": "the United Nations",
+                    "explanation": "The United States is a founding member of the United Nations, World Trade Organization, International Monetary Fund, and other international organizations."
+                }
+            ],
+            "hops": [
+                "Los Angeles",
+                "the United States"
+            ]
+        },
+        "Santa Monica": {
+            "term": "Santa Monica",
+            "passage": "Santa Monica is a beachfront city in western Los Angeles County, California, United States. Situated on Santa Monica Bay, it is surrounded by the city of Los Angeles – Pacific Palisades to the north, Brentwood on the northeast, West Los Angeles on the east, Mar Vista on the southeast, and Venice on the south. The Santa Monica Pier is a large double-jointed pier located at the foot of Colorado Avenue in Santa Monica. With an historic carousel, aquarium, shops, restaurants, and a viewing deck, the pier is a popular tourist destination. The city is named after the Christian saint Monica. It is home to executives and Hollywood celebrities amongst the most affluent neighborhoods in the country. Santa Monica is also home to many upscale restaurants, boutiques, as well as the Third Street Promenade, a major outdoor shopping district. The city is served by the Santa Monica-Malibu Unified School District.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the neighborhood that is located to the southeast of Santa Monica?",
+                    "answer": "Mar Vista",
+                    "explanation": "The city is named after the Christian saint Monica."
+                }
+            ],
+            "hops": [
+                "Los Angeles",
+                "Santa Monica"
+            ]
+        },
+        "Southern California": {
+            "term": "Southern California",
+            "passage": "Southern California is a region in the south of the American state of California, defined by the state's regional planning agency, the Southern California Association of Governments (SCAG), as including Los Angeles, Orange, Riverside, San Bernardino, and Ventura counties. The region is known for its Mediterranean climate, beaches, and diverse range of landscapes, from the Pacific Ocean to the San Bernardino Mountains. The area is home to many world-famous attractions, including Disneyland, Universal Studios Hollywood, and the San Diego Zoo. Southern California is also known for its cultural diversity, with a large population of Hispanic and Latino Americans, as well as a significant Asian American population. The region is a major center for the entertainment industry, with Hollywood in Los Angeles being the center of the film and television industry. The region is also a major center for the aerospace industry, with companies such as Boeing, Lockheed Martin, and Northrop Grumman having a significant presence in the area. The region is served by several major airports, including Los Angeles International Airport (LAX), Ontario International Airport (ONT), and John Wayne Airport (SNA).",
+            "qae_pairs": [
+                {
+                    "question": "What is the largest body of water that borders Southern California?",
+                    "answer": "the Pacific Ocean",
+                    "explanation": "The region is known for its Mediterranean climate, beaches, and diverse range of landscapes, from the Pacific Ocean to the San Bernardino Mountains. Evidence sentence: The region is known for its Mediterranean climate, beaches, and diverse range of landscapes, from the Pacific Ocean to the San Bernardino Mountains."
+                },
+                {
+                    "question": "What is the name of the famous zoo located in Southern California?",
+                    "answer": "the San Diego Zoo",
+                    "explanation": "The area is home to many world-famous attractions, including Disneyland, Universal Studios Hollywood, and the San Diego Zoo. Evidence sentence: The area is home to many world-famous attractions, including Disneyland, Universal Studios Hollywood, and the San Diego Zoo."
+                },
+                {
+                    "question": "What is the climate type of Southern California?",
+                    "answer": "Mediterranean",
+                    "explanation": "The region is known for its Mediterranean climate, beaches, and diverse range of landscapes, from the Pacific Ocean to the San Bernardino Mountains. This sentence explains that Southern California is known for its Mediterranean climate, which is characterized by warm, dry summers and mild, wet winters. The region is also known for its beaches and diverse range of landscapes, from the Pacific Ocean to the San Bernardino Mountains."
+                }
+            ],
+            "hops": [
+                "Los Angeles",
+                "Southern California"
+            ]
+        },
+        "the Yangtze River": {
+            "term": "the Yangtze River",
+            "passage": "The Yangtze River, also known as Cháng Jiāng in Chinese, is the longest river in Asia and the third-longest in the world, after the Nile in Africa and the Amazon in South America. It is the longest river in China and the river flows for 6,300 km (3,915 mi) from the glaciers on the Qinghai-Tibet Plateau in western China eastward across the plains of Sichuan and Hubei provinces, through the hills of southern Anhui and northern Zhejiang provinces, and then into the East China Sea at Shanghai. The river drains one-fifth of the land area of China and its basin is home to one-third of the country's population. The Yangtze River is a major transport artery, with the largest river port in the world, Shanghai, located at its mouth. The river is also a major source of hydroelectric power, with several large dams built along its length. The Yangtze River is home to several endemic and endangered species, including the Chinese alligator, the Yangtze finless porpoise, and the Chinese sturgeon.",
+            "qae_pairs": [
+                {
+                    "question": "What is the continent that the Yangtze River flows through?",
+                    "answer": "Asia",
+                    "explanation": "The Yangtze River is the longest river in Asia and the third-longest in the world, after the Nile in Africa and the Amazon in South America. This sentence is an evidence sentence because it provides a specific fact about the Yangtze River, which is that it is the longest river in Asia."
+                }
+            ],
+            "hops": [
+                "Shanghai",
+                "the Yangtze River"
+            ]
+        },
+        "Shivaji Terminus": {
+            "term": "Shivaji Terminus",
+            "passage": "Shivaji Terminus is a historic railway station in Mumbai, Maharashtra, India which was built by the British in 1887. It is also known as Victoria Terminus and Chhatrapati Shivaji Terminus. The station is a UNESCO World Heritage Site and is considered to be one of the best examples of Victorian Gothic Revival architecture in India. The station serves as the headquarters of the Central Railway and is one of the busiest railway stations in India, serving over 3 million passengers every day. The station is named after the Maratha king Chhatrapati Shivaji and is a symbol of India's colonial past.",
+            "qae_pairs": [
+                {
+                    "question": "What is the architectural style of Shivaji Terminus?",
+                    "answer": "Victorian Gothic Revival",
+                    "explanation": "The station is a UNESCO World Heritage Site and is considered to be one of the best examples of Victorian Gothic Revival architecture in India."
+                }
+            ],
+            "hops": [
+                "Mumbai",
+                "Shivaji Terminus"
+            ]
+        },
+        "the west coast": {
+            "term": "the west coast",
+            "passage": "The west coast of the United States is a coastline along which the state of California, Oregon, and Washington are located. The west coast is known for its rugged coastline, beautiful beaches, and diverse landscapes. The coastline is home to many popular tourist destinations, including San Francisco, Los Angeles, and Seattle. The west coast is also known for its mild climate, which attracts many people to the area. The west coast is home to many famous landmarks, including the Golden Gate Bridge, the Hollywood Sign, and Mount Rainier. The west coast is also known for its vibrant culture, which is influenced by its diverse population. The west coast is a popular destination for tourists from around the world, and it is known for its beautiful scenery, friendly people, and exciting attractions.",
+            "qae_pairs": [
+                {
+                    "question": "What is the capital of Washington state on the west coast?",
+                    "answer": "Seattle",
+                    "explanation": "The west coast is known for its mild climate, which attracts many people to the area. This sentence is an evidence sentence because it provides information about a characteristic of the west coast that is relevant to the topic of the passage."
+                },
+                {
+                    "question": "What is the most popular tourist destination on the west coast of the United States?",
+                    "answer": "San Francisco",
+                    "explanation": "The west coast is home to many famous landmarks, including the Golden Gate Bridge, the Hollywood Sign, and Mount Rainier. This sentence explains that the west coast is home to many famous landmarks that attract tourists from around the world."
+                },
+                {
+                    "question": "What is the name of the highest mountain in the state of Washington on the west coast of the United States?",
+                    "answer": "Mount Rainier",
+                    "explanation": "The west coast is known for its mild climate, which attracts many people to the area. Explanation sentence: The west coast of the United States is known for its mild climate, which attracts many people to the area."
+                },
+                {
+                    "question": "Which state is known for its beautiful beaches and rugged coastline on the west coast of the United States?",
+                    "answer": "Oregon",
+                    "explanation": "The west coast is known for its rugged coastline, beautiful beaches, and diverse landscapes. This sentence explains that the west coast of the United States is known for its rugged coastline, beautiful beaches, and diverse landscapes."
+                }
+            ],
+            "hops": [
+                "Mumbai",
+                "the west coast"
+            ]
+        },
+        "East India Company": {
+            "term": "East India Company",
+            "passage": "The East India Company (EIC), also known as the Honourable East India Company (HEIC) or the British East India Company, was an English and later British joint-stock company that was formed to trade with the Indian subcontinent and East Asia. The company was granted a Royal Charter on 31 December 1600, and was officially incorporated on 14 January 1601. The company traded in spices, silk, tea, and cotton, and also had a significant presence in the opium trade. The company's military power allowed it to gain control over large parts of India, establishing the British Raj. The company's commercial success and wealth led to its dominance in the Indian subcontinent and East Asia, and it played a significant role in the development of the modern world economy. However, the company's exploitation of India and other countries in the region has been criticized, and its legacy remains controversial.",
+            "qae_pairs": [
+                {
+                    "question": "1. In which region did the East India Company establish its commercial influence through its trade? 2. Which region was heavily influenced by the East India Company's trade and expansion? 3. What region did the East India Company have a significant presence in? 4. Which area was impacted the most",
+                    "answer": "East Asia",
+                    "explanation": "The East India Company (EIC), also known as the Honourable East India Company (HEIC) or the British East India Company, was an English and later British joint-stock company that was formed to trade with the Indian subcontinent and East Asia."
+                },
+                {
+                    "question": "What was the date on which the East India Company was officially incorporated?",
+                    "answer": "14 January 1601",
+                    "explanation": "The company was granted a Royal Charter on 31 December 1600, and was officially incorporated on 14 January 1601."
+                }
+            ],
+            "hops": [
+                "Mumbai",
+                "East India Company"
+            ]
+        },
+        "Tsinghua University": {
+            "term": "Tsinghua University",
+            "passage": "Tsinghua University (simplified Chinese: 清华大学; traditional Chinese: 清華大學; pinyin: Qīnghuá Dàxué), is a research university located in Beijing, China. It was founded in 1911, originally under the name \"Tsinghua College\", and was renamed \"National Tsing Hua University\" in 1928. The university is one of the nine members of the elite C9 League, a select group of Chinese research universities. Tsinghua University is consistently ranked as one of the top universities in China and the world.",
+            "qae_pairs": [
+                {
+                    "question": "What is the location of Tsinghua University?",
+                    "answer": "China",
+                    "explanation": "Tsinghua University is a research university located in Beijing, China."
+                },
+                {
+                    "question": "What is the name of the select group of Chinese research universities that Tsinghua University is a member of?",
+                    "answer": "C9 League",
+                    "explanation": "Tsinghua University is consistently ranked as one of the top universities in China and the world."
+                }
+            ],
+            "hops": [
+                "Beijing",
+                "Tsinghua University"
+            ]
+        },
+        "the Forbidden City": {
+            "term": "the Forbidden City",
+            "passage": "The Forbidden City is a palace complex in Beijing, China. It was the imperial palace during the Ming and Qing dynasties. The Forbidden City served as the home of the Emperor and his household, as well as the ceremonial and political center of Chinese government. It is located in the center of Beijing, and covers an area of 720,000 square meters. The Forbidden City was declared a World Heritage Site in 1987, and is now one of the most popular tourist attractions in China. The complex consists of 980 buildings, and is surrounded by a moat and a wall. The Forbidden City was built between 1406 and 1420, and underwent several renovations and expansions during the Ming and Qing dynasties. It was named the Forbidden City because it was off-limits to the general public for centuries, and only the Emperor, his family, and selected officials were allowed to enter. Today, the Forbidden City is open to the public, and is a popular destination for tourists and history enthusiasts.",
+            "qae_pairs": [
+                {
+                    "question": "What dynasty was the Forbidden City built during in China?",
+                    "answer": "Ming",
+                    "explanation": "The Forbidden City was built between 1406 and 1420 This sentence is an evidence sentence because it provides a specific date range for when the Forbidden City was built, which supports the claim that it was built during the Ming dynasty."
+                },
+                {
+                    "question": "What dynasty was the Forbidden City built during in the Qing dynasty?",
+                    "answer": "Qing",
+                    "explanation": "The Forbidden City was built between 1406 and 1420, and underwent several renovations and expansions during the Ming and Qing dynasties. Explanation: This sentence provides evidence that the Forbidden City was built during the Ming and Qing dynasties, and underwent renovations and expansions during those periods."
+                }
+            ],
+            "hops": [
+                "Beijing",
+                "the Forbidden City"
+            ]
+        },
+        "Turkey": {
+            "term": "Turkey",
+            "passage": "1. Turkey is a transcontinental country located mostly in Western Asia, with a smaller portion on the Balkan peninsula in Southeast Europe. 2. Turkey is bordered by eight countries: Bulgaria to the northwest; Greece to the west; Georgia to the northeast; Armenia, Azerbaijan and Iran to the east; and Iraq and Syria to the south. 3. The country is home to a diverse range of ethnic groups, including Turkish, Kurdish, Arab, Armenian, Greek, and others. 4. Turkey has a population of over 83 million people, making it the largest country in Europe by population and the second-largest in the Middle East. 5. The country has a rich history dating back to the Ottoman Empire, which ruled much of Southeast Europe, Western Asia, and North Africa for over 600 years. 6. Today, Turkey is a democratic, secular, and unitary parliamentary republic, with a diverse cultural heritage that includes influences from the Ottoman Empire, the Byzantine Empire, and various other civilizations throughout history. 7. Turkey is a member of numerous international organizations, including the United Nations, NATO, the Council of Europe, and the Organization for Economic Co-operation and Development (OECD). 8. The country is known for its rich cuisine, which blends elements of Ottoman, Middle Eastern, and Balkan cuisines, as well as its unique architecture, which features a mix of traditional Ottoman and modern styles. 9. Turkey is also a popular tourist destination, with attractions such as the historic city of Istanbul, the beaches of Antalya, and the natural beauty of Cappadocia. 10.",
+            "qae_pairs": [
+                {
+                    "question": "What country is located to the northwest of Turkey?",
+                    "answer": "Bulgaria",
+                    "explanation": "Turkey is bordered by eight countries: Bulgaria to the northwest; Greece to the west; Georgia to the northeast; Armenia, Azerbaijan and Iran to the east; and Iraq and Syria to the south. Rationale: This sentence provides a clear and concise explanation of the countries that border Turkey, which is the topic of the question."
+                }
+            ],
+            "hops": [
+                "Istanbul",
+                "Turkey"
+            ]
+        },
+        "the Blue Mosque": {
+            "term": "the Blue Mosque",
+            "passage": "The Sultan Ahmed Mosque, also known as the Blue Mosque, is an Ottoman imperial mosque located in Istanbul, Turkey. It was built between 1609 and 1616 during the rule of Sultan Ahmed I. The mosque is one of the most popular tourist attractions in Istanbul, with its six minarets and beautiful blue tiles adorning the walls of its interior. The mosque is also known for its intricate decorations and its use of blue tiles, which are said to have been imported from Iznik. The mosque is open to visitors of all faiths, and is a popular place for both tourists and locals to visit and admire its beauty.",
+            "qae_pairs": [
+                {
+                    "question": "What is the country where the Blue Mosque is located?",
+                    "answer": "Turkey",
+                    "explanation": "The mosque is one of the most popular tourist attractions in Istanbul, with its six minarets and beautiful blue tiles adorning the walls of its interior. The evidence sentence is The mosque is one of the most popular tourist attractions in Istanbul, with its six minarets and beautiful blue tiles adorning the walls of its interior."
+                },
+                {
+                    "question": "What is the origin of the blue tiles used in the Blue Mosque?",
+                    "answer": "Iznik",
+                    "explanation": "The mosque is also known for its intricate decorations and its use of blue tiles, which are said to have been imported from Iznik."
+                }
+            ],
+            "hops": [
+                "Istanbul",
+                "the Blue Mosque"
+            ]
+        },
+        "Brazil": {
+            "term": "Brazil",
+            "passage": "1. Brazil is the largest country in both South America and the Latin American region. 2. It is the world's fifth-largest country, both by land area and by population. 3. Brazil was inhabited by numerous indigenous tribes prior to the arrival of European explorers in the 16th century. 4. The Portuguese established the first European settlement in the country in 1500, and Brazil became a colony of the Portuguese Empire. 5. In the 18th century, Brazil was the largest slave trading nation in the world. 6. Brazil remained a colony of Portugal until 1822, when it declared independence. 7. Since then, Brazil has experienced periods of democratic and military government, and has undergone significant economic growth, becoming a major global economic power. 8. Brazil is known for its diverse wildlife, including the Amazon Rainforest, which is the largest rainforest in the world. 9. The country is also famous for its football (soccer) and has won the FIFA World Cup five times. 10. Brazil is a federal republic composed of 26 states and a federal district.",
+            "qae_pairs": [
+                {
+                    "question": "In which continent is Brazil located?",
+                    "answer": "South America",
+                    "explanation": "Brazil is the largest country in both South America and the Latin American region. This sentence is an evidence sentence because it provides a factual statement about Brazil's size and location, which supports the main idea of the passage that Brazil is a significant country in South America."
+                },
+                {
+                    "question": "What was the largest slave trading nation in the world during the 18th century in Brazil?",
+                    "answer": "the 18th century",
+                    "explanation": "Brazil was inhabited by numerous indigenous tribes prior to the arrival of European explorers in the 16th century. Rationale: This evidence sentence explains that Brazil was inhabited by indigenous tribes before the arrival of European explorers, which provides a historical context for the country's colonization and development. Passage 2: Passage about India: 1. India is a country in South Asia with a population of over 1.3 billion people. 2."
+                },
+                {
+                    "question": "What was the name of the empire that established the first European settlement in Brazil in 1500?",
+                    "answer": "the Portuguese Empire",
+                    "explanation": "Brazil was inhabited by numerous indigenous tribes prior to the arrival of European explorers in the 16th century. Evidence sentence: Brazil was inhabited by numerous indigenous tribes prior to the arrival of European explorers in the 16th century."
+                },
+                {
+                    "question": "What year did Brazil declare independence from Portugal?",
+                    "answer": "1822",
+                    "explanation": "Brazil was inhabited by numerous indigenous tribes prior to the arrival of European explorers in the 16th century. Answer: Brazil was inhabited by numerous indigenous tribes prior to the arrival of European explorers in the 16th century."
+                }
+            ],
+            "hops": [
+                "Rio de Janeiro",
+                "Brazil"
+            ]
+        },
+        "Petrobras": {
+            "term": "Petrobras",
+            "passage": "Petrobras, short for Petróleo Brasileiro S.A., is a Brazilian multinational corporation in the petroleum industry, headquartered in Rio de Janeiro, Brazil. It is the largest company in Brazil, both by revenue and by number of employees, and the third largest oil company in the world. Petrobras is engaged in the exploration, production, refining, transportation, and marketing of oil and natural gas. It also operates in biofuels, power generation, and other related activities. The company's operations are spread across more than 30 countries, with a focus on Brazil and the Americas. Petrobras is listed on the New York Stock Exchange and is a component of the BM&F Bovespa and the Ibovespa indices.",
+            "qae_pairs": [
+                {
+                    "question": "What is the geographical location of Petrobras' main operations?",
+                    "answer": "Americas",
+                    "explanation": "Petrobras is listed on the New York Stock Exchange and is a component of the BM&F Bovespa and the Ibovespa indices. This sentence provides evidence that Petrobras' main operations are in the Americas, as it is listed on the New York Stock Exchange and is a component of the BM&F Bovespa and the Ibovespa indices, both of which are Brazilian stock exchanges."
+                }
+            ],
+            "hops": [
+                "Rio de Janeiro",
+                "Petrobras"
+            ]
+        },
+        "Vale": {
+            "term": "Vale",
+            "passage": "Vale is a Brazilian multinational corporation engaged in metals and mining, and one of the largest logistics operators in Brazil. It is the largest producer of iron ore and nickel in the world. The company also produces manganese, ferroalloys, copper, aluminum, coal, and cobalt. Vale operates in Brazil, Canada, Australia, and China. It is headquartered in Rio de Janeiro, Brazil.",
+            "qae_pairs": [
+                {
+                    "question": "What is the headquarters of Vale?",
+                    "answer": "Brazil",
+                    "explanation": "Vale is a Brazilian multinational corporation engaged in metals and mining, and one of the largest logistics operators in Brazil. It is the largest producer of iron ore and nickel in the world. The company also produces manganese, ferroalloys, copper, aluminum, coal, and cobalt. Vale operates in Brazil, Canada, Australia, and China. It is headquartered in Rio de Janeiro, Brazil."
+                }
+            ],
+            "hops": [
+                "Rio de Janeiro",
+                "Vale"
+            ]
+        }
+    }
+}

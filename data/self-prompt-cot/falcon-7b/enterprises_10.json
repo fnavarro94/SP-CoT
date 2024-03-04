@@ -1,0 +1,588 @@
+{
+    "first_hops": {
+        "Apple": {
+            "term": "Apple",
+            "passage": "\"Apple Incorporated (styled simply Apple) is a publicly traded multinational technology company that designs, develops, and sells consumer electronics, computer software, and online services in various product lines, including personal computers, mobile phones, media players, and video game consoles. It was the first personal computer company in the world, having started in 1976. It was established by Steve Jobs and Ronald Wayne, with the help of Steve Wozniak, and incorporated a year later. Apple was formed from the company Atari Electronics. The first personal computer, the Apple II, was released in 1976, followed by the original Macintosh in 1984. Apple introduced the Macintosh in January 1984. In 1985, Apple released the first Macintosh computer. The company also started selling other electronics such as the VisiCalc spreadsheet software in 1981. After 1989, Apple introduced the iMac and also sold other electronics including the PowerMac G3, PowerBook, and the iBook. Apple designs, develops, and sells a range of personal computers, online services, media players, and mobile phones. It currently designs and sells the iPhone, Macbook, Mac Pro, and Mac mini as well as iPod products. Apple was the first U.S. company to reach a market capitalization of over US$1 trillion.",
+            "qae_pairs": [
+                {
+                    "question": "Who is the co-founder of Apple?",
+                    "answer": "Steve Jobs",
+                    "explanation": "Steve Jobs was the co-founder of Apple, along with Steve Wozniak."
+                },
+                {
+                    "question": "What is the name of the first personal computer that Apple released?",
+                    "answer": "Macintosh",
+                    "explanation": "The Macintosh was the first personal computer that Apple released. It was introduced in 1984 and was designed by Steve Jobs and his team. The Macintosh was a revolutionary product that was ahead of its time and set the stage for the modern personal computer industry. It was a commercial success and helped to establish Apple as a major player in the computer industry. The Macintosh was a significant product for Apple and helped to make the company the success it is today."
+                },
+                {
+                    "question": "When was Apple Incorporated founded?",
+                    "answer": "1976",
+                    "explanation": "Apple was founded in 1976 by Steve Jobs, Ronald Wayne, and Steve Wozniak."
+                },
+                {
+                    "question": "When did Apple start selling other electronics?",
+                    "answer": "1981",
+                    "explanation": "Apple started selling other electronics in 1981 with the release of the VisiCalc spreadsheet software."
+                }
+            ],
+            "hops": [
+                "Apple"
+            ]
+        },
+        "Amazon": {
+            "term": "Amazon",
+            "passage": "\"Amazon.com, Inc. (NASDAQ:AMZN), is an American multinational internet retailing company. It is headquartered in Seattle, Washington. Founded on July 1994 by Jeff Bezos, the company also controls Audible.com, a provider of digital audio books, magazines, etc., and Amazon Music, an American e-commerce site offering digital distribution of music, movies, and video games. The site also sells consumer electronics, including Kindle e-readers and video games. Amazon has recently expanded its business operations into new areas, including the grocery retail sector, with the acquisition of Whole Foods Markets, the company's first physical store. Amazon, which has generated more than $10 billion in sales in 2016, is currently the largest internet retailing company in the world. The company is also the biggest DVD seller in the United States, selling over 1.3 billion units....\"\nAmazon is the world's largest online retailer. It sells electronics, books, movies, clothing, toys, and groceries. Founded in 1994 by Jeff Bezos, Amazon has expanded into various fields such as grocery retailing. It has generated over $10 billion in sales in 2016. It is also the largest DVD seller in the US, selling over 1.3 billion DVDs.",
+            "qae_pairs": [
+                {
+                    "question": "What is the capital of the United States?",
+                    "answer": "Washington",
+                    "explanation": "Washington is the capital of the United States. It is located on the Potomac River in the Potomac River basin, in the District of Columbia. The city is home to the federal government, which is responsible for the maintenance and operation of the city. The city is home to the White House, the official residence of the President of the United States. The city is home to many monuments, including the Washington Monument, the Lincoln Memorial, and the Jefferson Memorial. The city is home to many museums, including the National Mall, the National Zoo, and the National Air and Space Museum. The city is home to many monuments, including"
+                },
+                {
+                    "question": "Which country is Amazon based in?",
+                    "answer": "the United States",
+                    "explanation": "Amazon is an American multinational internet retailing company that is headquartered in Seattle, Washington. The company was founded in 1994 by Jeff Bezos and is currently the largest online retailer in the world. It sells electronics, books, movies, clothing, toys, and groceries. Amazon has expanded its business operations into new areas, including the grocery retail sector, with the acquisition of Whole Foods Markets. The company has generated over $10 billion in sales in 2016 and is currently the biggest DVD seller in the United States."
+                },
+                {
+                    "question": "What is the name of the city where Amazon is headquartered?",
+                    "answer": "Seattle",
+                    "explanation": "Amazon.com, Inc. (NASDAQ:AMZN), is an American multinational internet retailing company. It is headquartered in Seattle, Washington."
+                },
+                {
+                    "question": "Who founded Amazon?",
+                    "answer": "Jeff Bezos",
+                    "explanation": "Jeff Bezos founded Amazon in 1994."
+                },
+                {
+                    "question": "When was Amazon founded?",
+                    "answer": "July 1994",
+                    "explanation": "Amazon.com, Inc. (NASDAQ:AMZN), is an American multinational internet retailing company. It is headquartered in Seattle, Washington. Founded on July 1994 by Jeff Bezos, the company also controls Audible.com, a provider of digital audio books, magazines, etc., and Amazon Music, an American e-commerce site offering digital distribution of music, movies, and video games. The site also sells consumer electronics, including Kindle e-readers and video games. Amazon has recently expanded its business operations into new areas, including the grocery retail sector, with the acquisition of Whole Foods Markets, the company"
+                }
+            ],
+            "hops": [
+                "Amazon"
+            ]
+        },
+        "Google": {
+            "term": "Google",
+            "passage": "“Google is a technology company focused on improving the \"flow of information to, and within, individuals and businesses.\" It was founded by Larry Page and Sergey Brin in 1998, when they were Ph.D. students at Stanford University. Currently, the company is owned by Alphabet Inc. Google is currently the most visited website in the world and is known for its services such as Google Maps, Gmail, and YouTube.”\nIt is important to note that the company has been around for a while now. In fact, Google is already in its 23rd year of providing services to users around the world.",
+            "qae_pairs": [
+                {
+                    "question": "What is Google?",
+                    "answer": "Gmail",
+                    "explanation": "Google is a technology company focused on improving the flow of information to, and within, individuals and businesses. It was founded by Larry Page and Sergey Brin in 1998, when they were Ph.D. students at Stanford University. Currently, the company is owned by Alphabet Inc. Google is currently the most visited website in the world and is known for its services such as Google Maps, Gmail, and YouTube."
+                },
+                {
+                    "question": "When was Google founded?",
+                    "answer": "1998",
+                    "explanation": "“Google is a technology company focused on improving the flow of information to, and within, individuals and businesses. It was founded by Larry Page and Sergey Brin in 1998, when they were Ph.D. students at Stanford University. Currently, the company is owned by Alphabet Inc. Google is currently the most visited website in the world and is known for its services such as Google Maps, Gmail, and YouTube.”"
+                },
+                {
+                    "question": "Who owns Google?",
+                    "answer": "Alphabet Inc",
+                    "explanation": "Google is currently owned by Alphabet Inc. Alphabet Inc. is a holding company that is owned by Google. It is a parent company that owns Google, along with other companies such as Waymo, which is a self-driving car technology company. Alphabet Inc. is a holding company that is owned by Google. It is a parent company that owns Google, along with other companies such as Waymo, which is a self-driving car technology company."
+                },
+                {
+                    "question": "Who is the co-founder of Google?",
+                    "answer": "Larry Page",
+                    "explanation": "“Larry Page is the co-founder of Google. He is a former Ph.D. student at Stanford University, where he met Sergey Brin. The two founded Google in 1998, and Page is currently the CEO of Alphabet Inc. Google is currently the most visited website in the world and is known for its services such as Google Maps, Gmail, and YouTube.”"
+                },
+                {
+                    "question": "Where was Google founded?",
+                    "answer": "Stanford University",
+                    "explanation": "Google was founded by Larry Page and Sergey Brin in 1998, when they were Ph.D. students at Stanford University."
+                }
+            ],
+            "hops": [
+                "Alphabet",
+                "Google"
+            ]
+        },
+        "Tesla": {
+            "term": "Tesla",
+            "passage": "…\nTesla's father, who he never met, was a Serbian immigrant named Nikola Tesla. He was a highly intelligent immigrant who made a career in electricity by the early 20th century. Tesla was born in the town of what is now Croatijada. As a child, he would run around in the countryside, helping his father. The young Tesla was an avid inventor and his first patent was a light bulb. He studied at the Ljubljana School of Arts, Sciences and Philosophy in his hometown. In 1890, when he was 19 years old, he was hired by the electrical engineer J. B. Starcher. He then worked for the American manufacturer Westinghouse. Tesla left Westinghouse in 1900 and founded Tesla Electric Company in 1915. The company was a company that produced radio, film and the first electronic computer that was used for entertainment. It was the first in the world. This invention was the 1st of its kind and many of the patents that Tesla has held are still being used today.",
+            "qae_pairs": [
+                {
+                    "question": "where did Tesla study?",
+                    "answer": "the Ljubljana School of Arts, Sciences and Philosophy",
+                    "explanation": "The Ljubljana School of Arts, Sciences and Philosophy is located in the city of Ljubljana, Slovenia. It is a prestigious university that offers a wide range of courses. It is a university that is well known for its research and development. It was founded in 1816 and has since become one of the most renowned universities in Europe. The school is renowned for its research in the fields of science, engineering, arts and humanities. It is a school that has a long history of research and development and has a long history of research and development. Question: what type of research did Tesla do? Answer"
+                },
+                {
+                    "question": "what is the first invention of the world?",
+                    "answer": "the 1st",
+                    "explanation": "The invention of the first electronic computer is considered to be the first invention of the world."
+                },
+                {
+                    "question": "How old is Tesla?",
+                    "answer": "19 years old",
+                    "explanation": "19 years old"
+                }
+            ],
+            "hops": [
+                "Tesla"
+            ]
+        },
+        "SpaceX": {
+            "term": "SpaceX",
+            "passage": "..\nSpacetime is an unproven hypothesis that all events in the universe are related to the whole existence of the universe and all objects in it. The concept of spacetime is a physical extension of space-time, but this may also be the basis for a theory of spacetime. The basic idea of spacetime is that the physics of the universe is not contained within space-time but rather within the existence of the universe. The concept of spacetime is therefore unproven. In physics, spacetime is the space and time in which any physical event or any physical matter exists. The spacetime concept was introduced in 1915 by Albert Einstein in his Theory of Relativity. He has explained that spacetime is a single spacetime dimension, where all physical events, including gravitational waves, are related to this dimension. The spacetime is a dimension of spacetime itself. This dimension is not contained within the physical existence of the universe. Spacetime has not yet been proven by any experiment. So, it is still in its unproven stage. Spacetime theory may be an unproven physics theory of the whole existence of the universe. Some experts on the subject of Spacetime theory would define the dimensions of spacetime as having \"3 dimensions\", \"1 dimension\" and \"no dimensions\".",
+            "qae_pairs": [
+                {
+                    "question": "Who is the father of Spacetime theory?",
+                    "answer": "Albert Einstein",
+                    "explanation": "Albert Einstein is the father of Spacetime theory. He introduced the concept of spacetime in 1915, which is the year he published his Theory of Relativity."
+                },
+                {
+                    "question": "When did the concept of spacetime first appear?",
+                    "answer": "1915",
+                    "explanation": "1915 is the year when Albert Einstein introduced the concept of spacetime in his Theory of Relativity."
+                }
+            ],
+            "hops": [
+                "SpaceX"
+            ]
+        },
+        "Alibaba": {
+            "term": "Alibaba",
+            "passage": "\"Alibaba Group Holding Limited (Chinese: 阿里巴巴集团; pinyin: 阿里巴巴集团; simplified Chinese: 阿里巴巴集团; traditional Chinese: 阿里巴巴集团; Jìlìbābā zhǔng) is a Chinese e-commerce company that operates the largest online shopping platform in the world. It is headquartered in Hangzhou, Zhejiang province, China. Alibaba Group Holding Limited is listed on the New York Stock Exchange (NYSE: BABA) and is one of the largest companies in the world. Alibaba Group Holding Limited is the largest e-commerce company in the world, with over 2.8 billion registered users. Alibaba Group Holding Limited is the largest online retailer in the world, with over 1.2 billion active customers. Alibaba Group Holding Limited is the largest online payment company in the world, with over 1.2 billion active merchants. Alibaba Group Holding Limited is the largest cloud computing company in the world, with over 1.2 billion active users.",
+            "qae_pairs": [
+                {
+                    "question": "What is the location of Alibaba Group Holding Limited headquarters?",
+                    "answer": "Zhejiang province",
+                    "explanation": "阿里巴巴集团 is headquartered in Hangzhou, Zhejiang province, China."
+                },
+                {
+                    "question": "What is the name of the city where Alibaba is located?",
+                    "answer": "Hangzhou",
+                    "explanation": "阿里巴巴集团 is a Chinese e-commerce company that operates the largest online shopping platform in the world. It is headquartered in Hangzhou, Zhejiang province, China."
+                }
+            ],
+            "hops": [
+                "Alibaba"
+            ]
+        },
+        "Disney": {
+            "term": "Disney",
+            "passage": "“Walt Disney, Walt Disney World, and the Disney Company are American entertainment conglomerate that was founded in 1923. It is the second-largest media company in the world, and is considered the “mouse house” due to its iconic character, Mickey Mouse. As of 2017, the company employs more than 155,000 people worldwide and has a total annual revenue of more than $1 billion, making it the largest amusement park chain in the world, the largest American theme parks and merchandising company, the largest consumer electronics brand in the world, and the largest home video label in the world. Disney also produces movies, television shows, and other forms of entertainment. Disney has been listed on the New York Stock Exchange since 1994, and has consistently been listed as one of the largest American entertainment companies. Walt Disney, a cartoonist and filmmaker, founded the Walt Disney Company in 1923. His creation of Mickey Mouse, a “black-faced, red-eared mouse” is still credited for Disney’s success. Disney’s movies have a long history, beginning with the creation of Disney’s first feature-length animated feature Sleeping Beauty in 1959, which was followed by Peter Pan in 1953. Walt Disney World, the company’s theme park resort, is the most visited place in the world, with an annual attendance of over 140 million people as of 2016.",
+            "qae_pairs": [
+                {
+                    "question": "When was Walt Disney World founded?",
+                    "answer": "1923",
+                    "explanation": "-Walt Disney founded the Walt Disney Company in 1923. -The companys creation of Mickey Mouse is credited for its success. -Walt Disney World, the companys theme park resort, is the most visited place in the world, with an annual attendance of over 140 million people as of 2016."
+                }
+            ],
+            "hops": [
+                "Disney"
+            ]
+        },
+        "Netflix": {
+            "term": "Netflix",
+            "passage": "\"Netflix, Inc. (NASDAQ: NFLX) is an American entertainment company that provides a variety of video on demand services, including DVD, streaming video, and digital downloads. The company operates globally and provides a large range of video content, including television shows, feature films, original content produced in-house, and more. The company's core business consists of providing video rental or purchase services to customers. It also provides DVDs, downloads, and streaming services. As of April 2021, the company is operating in over 190 countries around the world. The company was founded in 1997, under the original name Pure Atari, by its current CEO Reed Hastings, who was an employee at the company at the time. Initially, the company was sold exclusively on PCs but eventually expanded to other platforms, such as video game consoles and DVD players. The company has expanded significantly since its launch, and it now provides video content to over 70 million members in over 200 countries. It has 5,300 employees as of 2021. The company's headquarters are in Los Gatos, California, where the corporate offices are located.\" Netflix is now a very profitable business (even during a pandemic) and is growing even more quickly than it did in the past. They are also branching out into other areas like gaming and the production of their own shows. Their new subscriber base is a big reason they have been able to make so many big changes.",
+            "qae_pairs": [
+                {
+                    "question": "Who is the CEO of Netflix?",
+                    "answer": "Reed Hastings",
+                    "explanation": "Reed Hastings is the CEO of Netflix. He founded the company in 1997 and has been with the company since its inception. He has been instrumental in the companys success and has been credited with helping to turn the company into the entertainment giant it is today. He is a highly respected figure in the industry and has been named one of the worlds most influential people by Time magazine. He is also a member of the board of directors at Apple Inc. and is a former member of the board of directors at Intuit Inc. He is a graduate of the University of California, Berkeley and is a former member of"
+                },
+                {
+                    "question": "What is the name of the town where Netflix is located?",
+                    "answer": "Los Gatos",
+                    "explanation": "Los Gatos is a town in Santa Clara County, California. It is located in the Santa Cruz Mountains and is home to the headquarters of Netflix, Inc."
+                },
+                {
+                    "question": "When was Netflix founded?",
+                    "answer": "1997",
+                    "explanation": "Netflix, Inc. (NASDAQ: NFLX) was founded in 1997 by Reed Hastings, who was an employee at the company at the time. The company was initially sold exclusively on PCs but has since expanded to other platforms, such as video game consoles and DVD players. The company has expanded significantly since its launch, and it now provides video content to over 70 million members in over 200 countries. It has 5,300 employees as of 2021. The companys headquarters are in Los Gatos, California, where the corporate offices are located."
+                },
+                {
+                    "question": "What is the name of the state where Netflix is headquartered?",
+                    "answer": "California",
+                    "explanation": "Netflix is headquartered in the city of Los Gatos, California. The company was founded in 1997 by Reed Hastings, who was an employee at the company at the time. The company has since expanded significantly and now provides video content to over 70 million members in over 200 countries. It has 5,300 employees as of 2021. The companys headquarters are located in Los Gatos, California, where the corporate offices are located."
+                }
+            ],
+            "hops": [
+                "Netflix"
+            ]
+        },
+        "Alphabet": {
+            "term": "Alphabet",
+            "passage": "The Google alphabet is a system of alphabetical indexing created by American linguist Edward A. Tufte in 1967 to facilitate the organization of information. Tufte created a standardized system of indexing that uses letters of the alphabet instead of numerals or other symbols. Each letter in the alphabet is assigned a numeric value, with letters assigned values ranging from 1 to 9. The Alphabet has many variations, but Tufte's system is the one most commonly used. In 1980, a related system of alphabets (called alphabetisation, which is itself defined as a system of \"alphabetical indexing and numbering\" but is similar to the English language alphabet in many respects) was developed by Swedish language model Lars Ekeberg. In 2000, a variation of the English alphabet was created in an experiment with the Unicode character set. It consists of letters A, B, and C, with no numerical values assigned to any of the letters. It is generally believed that the alphabet was created by Thomas Jefferson, a lawyer, educator and writer. During his tenure as the Secretary of the U.S. War Department, Jefferson, who became the author of the Declaration of Independence, used an alphabet derived from the phonetic pronunciation of letters to keep his correspondence in order. The letters in his alphabet are: 1=A, 2=B, 3=C, and so on.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the company that created the Alphabet?",
+                    "answer": "Google",
+                    "explanation": "Google is the name of the company that created the Alphabet."
+                },
+                {
+                    "question": "What is the name of the system of alphabetical indexing created by American linguist Edward A?",
+                    "answer": "Edward A. Tufte",
+                    "explanation": "The Alphabet is a system of alphabetical indexing created by American linguist Edward A. Tufte."
+                },
+                {
+                    "question": "When did the Alphabet system of indexing was created by Edward A?",
+                    "answer": "1967",
+                    "explanation": "1967"
+                },
+                {
+                    "question": "Who created the alphabet?",
+                    "answer": "Thomas Jefferson",
+                    "explanation": "Thomas Jefferson, a lawyer, educator and writer, created the alphabet."
+                }
+            ],
+            "hops": [
+                "Alphabet"
+            ]
+        }
+    },
+    "second_hops": {
+        "Macintosh": {
+            "term": "Macintosh",
+            "passage": "Macintosh is a personal computer produced and sold by Apple Inc. from 1985 to 2006, with various models sold until 2008. It is also known as the Macintosh, Mac OS X, and iMac, but is now called the Mac. It has been replaced by the MacBook.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the current Macintosh model?",
+                    "answer": "iMac",
+                    "explanation": "iMac is the current name of the Macintosh model."
+                },
+                {
+                    "question": "When did Apple stop producing the Macintosh?",
+                    "answer": "2006",
+                    "explanation": "Apple Inc. announced in January 2006 that it would no longer produce the Macintosh line of personal computers. The Macintosh was replaced by the MacBook."
+                },
+                {
+                    "question": "When was the Macintosh first released?",
+                    "answer": "1985",
+                    "explanation": "1985"
+                }
+            ],
+            "hops": [
+                "Apple",
+                "Macintosh"
+            ]
+        },
+        "Washington": {
+            "term": "Washington",
+            "passage": "In Washington, the president is the Commander in Chief of the United States military. Washington is located in a suburb of the city, Alexandria, Virginia. In 1799, Washington was named as the capital of the newly established nation. In 1800, Washington, D.C., was named the capital of the U.S. The Washington Redskins are the official American Football team of Washington. For a more detailed description, visit this link.",
+            "qae_pairs": [
+                {
+                    "question": "com, Amazon.com Inc.\nWhat is the capital of Washington, D.C.?",
+                    "answer": "D.C",
+                    "explanation": "The capital of Washington, D.C. is D.C. The city is located in a suburb of the city, Alexandria, Virginia."
+                },
+                {
+                    "question": "com - refer to this link, the Washington Monument - refer to this link\nQuestion: What is the capital of Washington, D.C.? Answer: U.S.",
+                    "answer": "U.S",
+                    "explanation": "The capital of Washington, D.C., is Washington. Washington, D.C., is located in a suburb of the city, Alexandria, Virginia."
+                },
+                {
+                    "question": "com, Yahoo!, U.S. President.\nWhat is the name of the city that Washington, D.C. was named after?",
+                    "answer": "Alexandria",
+                    "explanation": "Alexandria is the name of the city that Washington, D.C. was named after. It was named after the Greek city of Alexandria, Egypt. The city was founded in 1799 and was named the capital of the newly established nation."
+                },
+                {
+                    "question": "com, American Football, Washington DC.\nWhat is Washington's date of creation?",
+                    "answer": "1799",
+                    "explanation": "1799 was the year that Washington was established as the capital of the United States."
+                }
+            ],
+            "hops": [
+                "Amazon",
+                "Washington"
+            ]
+        },
+        "the United States": {
+            "term": "the United States",
+            "passage": "\"In July 1916, President Woodrow Wilson signed legislation permitting the President to become a \"War Time Commander in Chief\" and allowed Congress to levy taxes and conscript soldiers to fight in a war without first declaring it. The \"War Time\" act and the \"War Tax Act\" were the first acts of the Wilson administration which had previously been associated with the nonpartisan, non-partisan era.\" This is a passage from wikipedia about World War II:\n\"The United States entered World War II after Japanese aircraft attacked Pearl Harbor on December 7, 1941. Japan launched a major attack on the American military on December 7, 1941, killing more than 2,300 Americans and wounding 1,000. Thousands of civilian workers also died in the attack. In addition, the United States declared war on Japan on December 8, 1941.\" The main similarity between these two wars is that the president has been given broad powers to command the nation in war time. In both World War I and World War II, this power was used to create an army and the power to tax citizens. However, the specifics of the legislation used to declare war in each conflict were different. In World War I, Congress declared war on Germany and in World War II the United States declared war on Germany and Japan.",
+            "qae_pairs": [
+                {
+                    "question": "com, the US military, etc.\nWhat legislation did the United States use to declare war in each of the two major wars?",
+                    "answer": "Congress",
+                    "explanation": "In both World War I and World War II, the United States declared war on the enemy. In World War I, Congress declared war on Germany on April 6, 1917, and in World War II, the United States declared war on Germany on December 11, 1941, and on Japan on December 7, 1941."
+                },
+                {
+                    "question": "\nWhen did the United States declare war on Japan in World War II?",
+                    "answer": "December 8, 1941",
+                    "explanation": "The United States declared war on Japan on December 8, 1941."
+                },
+                {
+                    "question": "com and the term 'President'.\nWhen did the United States declare war on Japan during World War II?",
+                    "answer": "December 7, 1941",
+                    "explanation": "On December 7, 1941, Japan launched a major attack on the American military on Pearl Harbor in Hawaii. Thousands of Americans and civilians were killed in the attack, and the United States declared war on Japan on December 8, 1941."
+                },
+                {
+                    "question": "com\nWhat countries were the United States at war with in the years 1916 and 1941?",
+                    "answer": "Germany",
+                    "explanation": "In 1916, the United States declared war on Germany and in 1941, the United States declared war on Japan."
+                },
+                {
+                    "question": "\nWhat led the United States to declare war on Japan in World War II?",
+                    "answer": "Japan",
+                    "explanation": "The United States declared war on Japan in World War II due to the Japanese attack on Pearl Harbor on December 7, 1941."
+                }
+            ],
+            "hops": [
+                "Amazon",
+                "the United States"
+            ]
+        },
+        "Seattle": {
+            "term": "Seattle",
+            "passage": "A small collection of buildings on the west side of Lake Union, which included the first Seattle city hall, was built in 1856 on the land of Henry Yesler’s lumber yard. The original site of the city’s first courthouse is now a park and former fire station. A statue was later erected of a lumberjack (not to be confused with a Viking in the first two photos) holding a large board. I am thankful to the staff of the Seattle Public Library for letting me scan these photos in from their microfilm. They are such a good resource. And the pictures were so nice that it took more time to scan them than to shoot them. 4 responses to “Old Seattle – Part 1”\nGreat post. I know a little bit of the history and the city hall is still a bit of a landmark. But those old architecture designs (and especially that fire station) is beautiful, too. I think the fire station is probably just a bit more modern than your Viking, though! There’s a great deal of history in the buildings in that area, and they are nice photos. Great job in the capturing the pictures. I love to learn new things. :)\nI love old places. A fire station makes a nice addition to a downtown area, but I’m glad they were smart enough to use an old fire house that they built.",
+            "qae_pairs": [
+                {
+                    "question": "com\nQuestion: Who was Henry Yesler and what did he do in Seattle? Answer: Henry Yesler (1794-1866) was an early businessman and developer in Seattle. He built several mills and established himself as a successful lumber and mining entrepreneur. In 1854, he helped to found Seattle",
+                    "answer": "Henry Yesler’s",
+                    "explanation": "“Henry Yesler’s” is a term used to refer to the Yesler family, which was a prominent family in the early days of Seattle. Henry Yesler was a lumberman, and his family was involved in the lumber industry. He was also involved in the construction of the first courthouse in Seattle."
+                },
+                {
+                    "question": "com, Apple, Starbucks.\nWhat building, built in 1856, is known as the first Seattle fire station?",
+                    "answer": "1856",
+                    "explanation": "“The first fire station in Seattle was built in 1856. It was built on the land of Henry Yesler’s lumber yard. The original site of the city’s first courthouse is now a park and former fire station. A statue was later erected of a lumberjack holding a large board. I am thankful to the staff of the Seattle Public Library for letting me scan these photos in from their microfilm. They are such a good resource. And the pictures were so nice that it took more time to scan them than to shoot them. 4 responses to “Old Seattle – Part 1”"
+                }
+            ],
+            "hops": [
+                "Amazon",
+                "Seattle"
+            ]
+        },
+        "Gmail": {
+            "term": "Gmail",
+            "passage": "\"Gmail is a free, web-based email service offered by Google. It is designed to be a free, ad-supported service, and is one of the most popular email services on the Internet. Gmail is available in 28 languages, and is available to users in 37 countries. As of 2009, Gmail has over 1 billion users worldwide.\" I'm not sure if you can use Gmail to send emails to non-Gmail addresses. If you can, you can do it by typing the recipient's email address in the \"To\" field and then clicking on the \"Compose\" button. If you can't, you can still send an email to a non-Gmail address by using the \"Gmail for other email addresses\" option in the \"Compose\" menu.",
+            "qae_pairs": [
+                {
+                    "question": "What year was Gmail first introduced to users?",
+                    "answer": "2009",
+                    "explanation": "Gmail was first introduced to users in 2009."
+                }
+            ],
+            "hops": [
+                "Google",
+                "Gmail"
+            ]
+        },
+        "Larry Page": {
+            "term": "Larry Page",
+            "passage": "\"The original Google Logo was designed by Larry Page and Sergey Brin at the Stanford University Graphics Lab. It was based on their first idea for a logo (which was later discarded). It was designed and drawn by Larry Page himself.\" \"What makes a good logo?\" Larry Page is an influential person in the industry. He has a good logo design, and his name is linked to a very well known company. This is also how I perceive \"a good logo\". I am a student in Design and I have been making logos for a while. It's possible that I will end up on top, but it's still possible. My name is related to \"a good logo\". It is important for me to design something that's recognizable. A name can be easily remembered and passed on from generation to generation. I think that when you come across a logo that is well-known, it can also be helpful when choosing logos. My logo is a very nice work that took time to design, but it is also easy to understand. My logo is easy to understand and very popular. I think logos have their place in society and that they can help a business succeed. The design that I came up with for the \"P\" is also very well known, as it is used in a lot of places.",
+            "qae_pairs": [
+                {
+                    "question": "What is the original logo design by Larry Page and Sergey Brin?",
+                    "answer": "the Stanford University Graphics Lab",
+                    "explanation": "The original logo design by Larry Page and Sergey Brin was based on their first idea for a logo (which was later discarded). It was designed and drawn by Larry Page himself. The design is based on the logo of the Stanford University Graphics Lab, which was founded by Larry Page and Sergey Brin in 1998. The logo is based on a design by Sergey Brin, which was later discarded. The design is based on the logo of the Stanford University Graphics Lab, which was founded by Larry Page and Sergey Brin in 1998. The logo is based on a design by Sergey Br"
+                },
+                {
+                    "question": "Who is Larry Pages co-founder at Google?",
+                    "answer": "Sergey Brin",
+                    "explanation": "The original Google Logo was designed by Larry Page and Sergey Brin at the Stanford University Graphics Lab. It was based on their first idea for a logo (which was later discarded). It was designed and drawn by Larry Page himself."
+                }
+            ],
+            "hops": [
+                "Google",
+                "Larry Page"
+            ]
+        },
+        "Stanford University": {
+            "term": "Stanford University",
+            "passage": "In 1885, the University's first President, President Leland and Jane Stanford, established an endowment to create a \"public institution for higher learning [with a] broad range of undergraduate and graduate programs... to be under a single administrative and educational system... and to include the finest educational faculties, both in arts and sciences, with a library, in the arts, with a college of music, and in law. \"[1] (emphasis added)\nNote that the words \"public\" and \"university\" are used as synonyms in this statement, implying that Stanford is both a university and a \"public institution\" (emphasis added), which is a contradiction.",
+            "qae_pairs": [
+                {
+                    "question": "\nQuestion: Can you name a public institution that is similar to Stanford University?\nAnswer: <noinput>",
+                    "answer": "University",
+                    "explanation": "The University of California system is similar to Stanford University in many ways, including its public status."
+                },
+                {
+                    "question": "What is the name of the person who established Stanford University?",
+                    "answer": "Leland",
+                    "explanation": "Leland and Jane Stanford established Stanford University."
+                },
+                {
+                    "question": "What year did Stanford University establish its endowment?",
+                    "answer": "1885",
+                    "explanation": "In 1885, the Universitys first President, President Leland and Jane Stanford, established an endowment to create a public institution for higher learning [with a] broad range of undergraduate and graduate programs... to be under a single administrative and educational system... and to include the finest educational faculties, both in arts and sciences, with a library, in the arts, with a college of music, and in law."
+                },
+                {
+                    "question": "Who is the founder of Stanford University?",
+                    "answer": "Jane Stanford",
+                    "explanation": "In 1885, the Universitys first President, President Leland and Jane Stanford, established an endowment to create a public institution for higher learning [with a] broad range of undergraduate and graduate programs... to be under a single administrative and educational system... and to include the finest educational faculties, both in arts and sciences, with a library, in the arts, with a college of music, and in law."
+                }
+            ],
+            "hops": [
+                "Google",
+                "Stanford University"
+            ]
+        },
+        "the Ljubljana School of Arts, Sciences and Philosophy": {
+            "term": "the Ljubljana School of Arts, Sciences and Philosophy",
+            "passage": "Ljubljana: School of Arts, Sciences and Philosophy | Slovenia | Institutions of Higher Learning | National Educational System | Ljubljana Schools\nThe Ljubljana School of Arts, Sciences and Philosophy is a national institution of higher learning in Slovenia. It was established in 1913 and was one of the first institutions in the world to be located in a city, rather than in a castle or other large, medieval building. It is the only one of the school's institutes, and is composed of departments of arts, sciences and philosophy. The Ljubljana School of Arts, Sciences and Philosophy is the sole Slovene university, established in 1913 and was the second largest in the country by number of students, only after the University of Ljubljana. Currently it is one of the most prestigious educational institutions in the country. It consists of four faculties: Arts, Sciences, Law and Economics, as well as two departments: Medicine and Pharmacy.",
+            "qae_pairs": [
+                {
+                    "question": "When was the Ljubljana School of Arts, Sciences and Philosophy established?",
+                    "answer": "1913",
+                    "explanation": "1913"
+                }
+            ],
+            "hops": [
+                "Tesla",
+                "the Ljubljana School of Arts, Sciences and Philosophy"
+            ]
+        },
+        "Albert Einstein": {
+            "term": "Albert Einstein",
+            "passage": "\"In 1905, Einstein published four scientific papers in German, including one on special relativity. He also began to study quantum mechanics and cosmology. In 1915, he published five papers, including one on general relativity. In 1916, he published two papers on statistical mechanics. In 1917, he published two papers on quantum mechanics. In 1918, he published two papers on cosmology. In 1919, he published two papers on quantum mechanics. In 1920, he published two papers on cosmology. In 1921, he published two papers on quantum mechanics. In 1922, he published two papers on cosmology. In 1923, he published two papers on quantum mechanics. In 1924, he published two papers on cosmology. In 1925, he published two papers on quantum mechanics. In 1926, he published two papers on cosmology. In 1927, he published two papers on cosmology. In 1928, he published two papers on cosmology. In 1929, he published two papers on cosmology. In 1930, he published two papers on cosmology. In 1931, he published two papers on cosmology. In 1932, he published two papers on cosmology. In 1933, he published two papers on cosmology. In 1934, he published two papers on cosmology.",
+            "qae_pairs": [
+                {
+                    "question": "What year did Albert Einstein publish his famous paper on special relativity?",
+                    "answer": "1915",
+                    "explanation": "1915 was the year that Albert Einstein published his famous paper on special relativity."
+                },
+                {
+                    "question": "What area of science did Albert Einstein specialize in?",
+                    "answer": "quantum mechanics",
+                    "explanation": "Albert Einstein is known for his groundbreaking work in the field of physics, particularly in the areas of special relativity, general relativity, cosmology, and quantum mechanics."
+                },
+                {
+                    "question": "What year did Albert Einstein publish his first scientific papers?",
+                    "answer": "1905",
+                    "explanation": "1905 was the year in which Einstein published his first scientific papers."
+                },
+                {
+                    "question": "\nQuestion: In which year did Albert Einstein publish his first scientific paper?",
+                    "answer": "Einstein",
+                    "explanation": "Albert Einstein published his first scientific paper in 1905."
+                }
+            ],
+            "hops": [
+                "SpaceX",
+                "Albert Einstein"
+            ]
+        },
+        "Zhejiang province": {
+            "term": "Zhejiang province",
+            "passage": "\"In 1990, Zhejiang had a total population of 7.6 million, making it China's second most populous province. In 2000, Zhejiang's population numbered around 13.5 million.\" The link is at the end of the page. Zhejiang province is one of China's 23 provinces, and its capital is Hangzhou. The province borders on several provinces, including Fujian, Jiangxi, and Anhui. The province is the home of the Yangtze Delta region. The province's economy has been booming in recent years, thanks to exports from electronics and textiles companies. It has been dubbed as China's new economic \"hometown.\" The province's main ethnic groups are Han and Zhe. Mandarin Chinese is the official language of the province. The Han Chinese are the major ethnic group in Zhejiang. The Hui Muslim population in Zhejiang is growing. There are also many foreigners living in Zhejiang. The Chinese government has allocated more than 100 billion yuan for Zhejiang's development. This article is the 14th one in a series in the Hangzhou Economic Guide. As of October 2009, Zhejiang's economic growth has been slowed down to 11.4 percent. In terms of investment, Hangzhou is China's second city after Beijing.",
+            "qae_pairs": [
+                {
+                    "question": "com, Aliexpress, China-EU Financial Service. Answer: In 1990, what was the population of Zhejiang province?",
+                    "answer": "1990",
+                    "explanation": "1990"
+                },
+                {
+                    "question": "com - no link.\nThe question meets the following conditions: 1. contains the term 'Zhejiang province' in question, 2. answer is 'the Hangzhou Economic Guide', 3. entity 'Alibaba.com' is avoided.",
+                    "answer": "the Hangzhou Economic Guide",
+                    "explanation": "1. Zhejiang province is mentioned in the question. 2. the Hangzhou Economic Guide is the answer. 3. Alibaba.com is not mentioned in the question."
+                },
+                {
+                    "question": "com and its subsidiaries. Answer: In 2000, Zhejiang province's population was 13.5 million, making it China's second populous province.\n2000年Zhejiang省人口额度。",
+                    "answer": "2000",
+                    "explanation": "2000年Zhejiang省人口额度为13.5万人。"
+                }
+            ],
+            "hops": [
+                "Alibaba",
+                "Zhejiang province"
+            ]
+        },
+        "Hangzhou": {
+            "term": "Hangzhou",
+            "passage": "One of Hangzhou's main attractions is the beautiful West Lake, an artificial lake in the central part of the city. The lake is surrounded by hills and mountains, with the hills on either side covered with trees and vegetation. The lake is surrounded by a park, which is a place for relaxing and walking. The lake is about 9 kilometers in circumference. The lake can be reached via the Qingyuan Station on the Hangzhou Metro Line, the Hangzhou Line, the Hangzhou Metro Line (the old city line) or Bus No. 12, 18, 32, 53 and 63. The lake has become one of Hangzhou's most well-known attractions, and is the most visited attraction in China. Many tourists also swim in the lake and play games there. There is also a zoo and a 200-meter-tall pagoda at the east side of the lake. It is said that the lake was built when the Emperor Yuhuan and his entourage were fleeing from Beijing, and that he had to drink water from the lake on the last night of his life.",
+            "qae_pairs": [
+                {
+                    "question": "com\nWhat is the 63rd subway station in Hangzhou and what is its proximity to the Hangzhou Zoo and Qingyuan Park?",
+                    "answer": "63",
+                    "explanation": "63 is a station on the Hangzhou Metro Line, and is located in the Hangzhou Zoo and Qingyuan Park area."
+                },
+                {
+                    "question": "com\nWhat is the main attraction of Hangzhou, and can you give a brief explanation?",
+                    "answer": "West Lake",
+                    "explanation": "West Lake is a famous scenic spot in Hangzhou, located in the central part of the city. It is a man-made lake, built in the 12th century, and is the largest artificial lake in China. The lake is surrounded by hills and mountains, and is a place for relaxing and walking. The lake is about 9 kilometers in circumference, and is a popular attraction for tourists."
+                },
+                {
+                    "question": "\nWho was the Emperor Yuhuan and why did he choose Hangzhou as the last place to drink water before his death?",
+                    "answer": "Yuhuan",
+                    "explanation": "Yuhuan was the 13th emperor of the Tang Dynasty. He was a very cruel and cruel emperor, and he was known for his cruel and cruel methods. He was also a very cruel emperor, and he was known for his cruel and cruel methods. He was also a very cruel emperor, and he was known for his cruel and cruel methods. He was also a very cruel emperor, and he was known for his cruel and cruel methods. He was also a very cruel emperor, and he was known for his cruel and cruel methods. He was also a very cruel emperor, and he was known for his cruel and cruel"
+                },
+                {
+                    "question": "com\nWhat is 53 in Hangzhou?",
+                    "answer": "53",
+                    "explanation": "53 is the code for the Hangzhou Metro Line."
+                },
+                {
+                    "question": "\nWhere in China is the Hangzhou zoo located?",
+                    "answer": "China",
+                    "explanation": "The Hangzhou Zoo is located in Hangzhou, China."
+                },
+                {
+                    "question": "\nWhat is 32 in Hangzhou?",
+                    "answer": "32",
+                    "explanation": "32 is the code for the Hangzhou Metro Line."
+                }
+            ],
+            "hops": [
+                "Alibaba",
+                "Hangzhou"
+            ]
+        },
+        "Google": {
+            "term": "Google",
+            "passage": "“Google is a technology company focused on improving the \"flow of information to, and within, individuals and businesses.\" It was founded by Larry Page and Sergey Brin in 1998, when they were Ph.D. students at Stanford University. Currently, the company is owned by Alphabet Inc. Google is currently the most visited website in the world and is known for its services such as Google Maps, Gmail, and YouTube.”\nIt is important to note that the company has been around for a while now. In fact, Google is already in its 23rd year of providing services to users around the world.",
+            "qae_pairs": [
+                {
+                    "question": "What is Google?",
+                    "answer": "Gmail",
+                    "explanation": "Google is a technology company focused on improving the flow of information to, and within, individuals and businesses. It was founded by Larry Page and Sergey Brin in 1998, when they were Ph.D. students at Stanford University. Currently, the company is owned by Alphabet Inc. Google is currently the most visited website in the world and is known for its services such as Google Maps, Gmail, and YouTube."
+                },
+                {
+                    "question": "When was Google founded?",
+                    "answer": "1998",
+                    "explanation": "“Google is a technology company focused on improving the flow of information to, and within, individuals and businesses. It was founded by Larry Page and Sergey Brin in 1998, when they were Ph.D. students at Stanford University. Currently, the company is owned by Alphabet Inc. Google is currently the most visited website in the world and is known for its services such as Google Maps, Gmail, and YouTube.”"
+                },
+                {
+                    "question": "Who owns Google?",
+                    "answer": "Alphabet Inc",
+                    "explanation": "Google is currently owned by Alphabet Inc. Alphabet Inc. is a holding company that is owned by Google. It is a parent company that owns Google, along with other companies such as Waymo, which is a self-driving car technology company. Alphabet Inc. is a holding company that is owned by Google. It is a parent company that owns Google, along with other companies such as Waymo, which is a self-driving car technology company."
+                },
+                {
+                    "question": "Who is the co-founder of Google?",
+                    "answer": "Larry Page",
+                    "explanation": "“Larry Page is the co-founder of Google. He is a former Ph.D. student at Stanford University, where he met Sergey Brin. The two founded Google in 1998, and Page is currently the CEO of Alphabet Inc. Google is currently the most visited website in the world and is known for its services such as Google Maps, Gmail, and YouTube.”"
+                },
+                {
+                    "question": "Where was Google founded?",
+                    "answer": "Stanford University",
+                    "explanation": "Google was founded by Larry Page and Sergey Brin in 1998, when they were Ph.D. students at Stanford University."
+                }
+            ],
+            "hops": [
+                "Alphabet",
+                "Google"
+            ]
+        },
+        "Edward A. Tufte": {
+            "term": "Edward A. Tufte",
+            "passage": "Edward A. Tufte is a renowned American statistician, author, and consultant. He is the author of the best-selling book \"The Visual Display of Quantitative Information\" (1982). Tufte is a leading advocate of data visualization and has written extensively on the subject. He has been described as \"the father of data visualization\" by the New York Times.",
+            "qae_pairs": [
+                {
+                    "question": "\nQuestion: When did Edward A. Tufte's book 'The Visual Display of Quantitative Information' publish in 1982?",
+                    "answer": "1982",
+                    "explanation": "The book was published in 1982."
+                }
+            ],
+            "hops": [
+                "Alphabet",
+                "Edward A. Tufte"
+            ]
+        },
+        "Thomas Jefferson": {
+            "term": "Thomas Jefferson",
+            "passage": "“A large painting is hung on a wall across the room from the large window facing east on which it is painted. At this spot is the corner cupboard. On the left side of this corner cupboard are the shelves of the closet door. The corner cupboard was in place at the time of Thomas Jefferson’s death. His own portrait is painted on the cabinet door. The portrait, a bust with a portrait in oval frame, is inscribed \"J. J. J. C. J. C. C. P. T. J. J. B. S.\" (which means \"Jefferson J. J. B. S.\").",
+            "qae_pairs": [
+                {
+                    "question": "What is the inscription on the portrait of Thomas Jefferson in the corner cupboard?",
+                    "answer": "J. J. J. C. J. C. C. P. T. J. J. B. S",
+                    "explanation": "J. J. J. C. J. C. C. P. T. J. J. B. S means Jefferson J. J. B. S."
+                }
+            ],
+            "hops": [
+                "Alphabet",
+                "Thomas Jefferson"
+            ]
+        }
+    }
+}

@@ -1,0 +1,773 @@
+{
+    "first_hops": {
+        "Buddhism": {
+            "term": "Buddhism",
+            "passage": "Buddhism is a religion and dharma that encompasses a variety of traditions, beliefs and spiritual practices largely based on teachings attributed to the Buddha. Although the term Buddhism is commonly taken to refer to these various traditions, it is in fact only one of them; the others being the closely related but distinct Dharma teachings of Hinduism and Jainism. The term Buddhism is derived from the Sanskrit word buddh, meaning \"to awaken\" or \"to become aware\", and refers to the personal experience of awakening, liberation, or release that occurs when this awareness arises. The term \"Buddhism\" thus denotes the teachings of those who have claimed to have awoken from the various stages of \"delusion\" (avidya) to the ultimate nature of \"awakening\" (bodhi). The teachings of the Buddha are preserved in various early and classical Buddhist texts, which generally take the form of dialogues, sermons, and monastic rules. Buddha, meaning \"awakened\" or \"enlightened\", was the name given to the founder of Buddhism. In early Buddhism, Gautama Buddha was regarded as the supreme being who was born into the Shakya clan in Lumbini Garden in the eastern part of Nepal. He is believed to have lived and taught in the northeastern region of India sometime between the sixth and fourth centuries BCE.",
+            "qae_pairs": [
+                {
+                    "question": "What language is the word Buddhism derived from?",
+                    "answer": "Sanskrit",
+                    "explanation": "The term Buddhism is derived from the Sanskrit word buddh, meaning to awaken or to become aware, and refers to the personal experience of awakening, liberation, or release that occurs when this awareness arises."
+                },
+                {
+                    "question": "Where was the Buddha born?",
+                    "answer": "Nepal",
+                    "explanation": "The Buddha was born in Nepal."
+                },
+                {
+                    "question": "Which religion is the religion that has the Buddha as its founder?",
+                    "answer": "Hinduism and Jainism",
+                    "explanation": "Buddhism is a religion and dharma that encompasses a variety of traditions, beliefs and spiritual practices largely based on teachings attributed to the Buddha."
+                },
+                {
+                    "question": "Who was the founder of Buddhism?",
+                    "answer": "Gautama Buddha",
+                    "explanation": "Gautama Buddha was the founder of Buddhism."
+                }
+            ],
+            "hops": [
+                "Buddhism"
+            ]
+        },
+        "Christianity": {
+            "term": "Christianity",
+            "passage": "The term \"Christianity\" refers to a variety of beliefs and practices largely centered upon the life, teachings, death, and resurrection of Jesus of Nazareth, a Jewish preacher and religious leader from Galilee, who founded and established a religious movement known as \"Christianity\". The term \"Christianity\" emerged as a religious category in the 1st century, although it was not until much later, in 381, that Christianity became the state religion of the Roman Empire. Christianity is considered by its adherents to be a monotheistic religion and a branch of Western religion that professes the belief that Jesus Christ is the son of the God of Judaism, the creator and covenant partner of the Hebrew people, and the savior of humanity. Christians believe that Jesus is the \"Word of God\" and the \"Messiah\" prophesied in the Hebrew Bible, and that his death and resurrection has saved humanity from the consequences of sin. Christianity has its roots in Judaism, and the majority of Jews today are affiliated with the religion of Christianity. Christianity has influenced many other religions, cultures, ideas, and institutions, both positively and negatively. The beliefs and practices of the various churches and denominations are diverse, and range from the historically orthodox to the liberal. The largest branches of Christianity today are Catholicism, Eastern Orthodoxy, Oriental Orthodoxy, Anglicanism, Lutheranism, Methodism, and Baptists.",
+            "qae_pairs": [
+                {
+                    "question": "Where is Jesus from?",
+                    "answer": "Galilee",
+                    "explanation": "Galilee"
+                },
+                {
+                    "question": "Who is the founder of Christianity?",
+                    "answer": "Jesus of Nazareth",
+                    "explanation": "Jesus of Nazareth"
+                },
+                {
+                    "question": "Which empire was the one that Christianity became the state religion of?",
+                    "answer": "the Roman Empire",
+                    "explanation": "the Roman Empire"
+                },
+                {
+                    "question": "What is the religion that Christianity is a branch of?",
+                    "answer": "Judaism",
+                    "explanation": "Christianity is a branch of Judaism."
+                },
+                {
+                    "question": "What is the first year that the term \"Christianity\" is used?",
+                    "answer": "the 1st century",
+                    "explanation": "The term Christianity emerged as a religious category in the 1st century."
+                },
+                {
+                    "question": "Who is the savior of humanity?",
+                    "answer": "Jesus Christ",
+                    "explanation": "Jesus Christ"
+                },
+                {
+                    "question": "What book is the Christian religion based on?",
+                    "answer": "the Hebrew Bible",
+                    "explanation": "Christianity is based on the Hebrew Bible."
+                }
+            ],
+            "hops": [
+                "Christianity"
+            ]
+        },
+        "Islam": {
+            "term": "Islam",
+            "passage": "The Quran states that God has sent \"messengers\" to all people. In the Quran, the term \"messenger\" refers to prophets, who include Abraham, Moses, Jesus, and Muhammad. In the Quran, Muhammad is referred to as \"the seal of the prophets\" and \"the truthful messenger\".",
+            "qae_pairs": [
+                {
+                    "question": "Question: What is the name of the holy book of Islam?",
+                    "answer": "Quran",
+                    "explanation": "The Quran is the holy book of Islam."
+                },
+                {
+                    "question": "Question: Who is the \"seal of the prophets\"?",
+                    "answer": "Muhammad",
+                    "explanation": "The Quran states that God has sent messengers to all people. In the Quran, the term messenger refers to prophets, who include Abraham, Moses, Jesus, and Muhammad. In the Quran, Muhammad is referred to as the seal of the prophets and the truthful messenger."
+                },
+                {
+                    "question": "Which prophet was sent to the people of Mecca?",
+                    "answer": "Abraham, Moses",
+                    "explanation": "The Quran states that God has sent messengers to all people. In the Quran, the term messenger refers to prophets, who include Abraham, Moses, Jesus, and Muhammad. In the Quran, Muhammad is referred to as the seal of the prophets and the truthful messenger."
+                }
+            ],
+            "hops": [
+                "Islam"
+            ]
+        },
+        "Sikhism": {
+            "term": "Sikhism",
+            "passage": "Sikhism is a religion founded in the 15th century by Guru Nanak Dev Ji. It is considered a monotheistic religion as it considers the one God as the Creator of all things. It is an ethno-religion, which considers the whole of humankind as one family. The religion is named after the first Sikh Guru Nanak Dev Ji, who was a Hindu baniya (businessman), and is traditionally dated to the year 1469. Sikhism has no book, or scripture that is considered to be the holy book. The Sikh scripture, Guru Granth Sahib, is a collection of hymns written by ten successive Sikh Gurus, starting with the tenth and ending with Guru Gobind Singh. It is considered to be the living Guru. The Sikhs believe in equality of all human beings, and reject all forms of social stratification. The Sikh holy book, Guru Granth Sahib, is considered the eternal Guru, and is placed on a throne-like seat, called the Takhat, in the centre of the Sikh holy shrine, Harmandir Sahib.",
+            "qae_pairs": [
+                {
+                    "question": "What is the date of the founding of Sikhism?",
+                    "answer": "the year 1469",
+                    "explanation": "Guru Nanak Dev Ji founded Sikhism in the year 1469."
+                },
+                {
+                    "question": "Which of the following is not a Sikh Guru?",
+                    "answer": "Guru Gobind",
+                    "explanation": "Guru Gobind Singh was the tenth and the last Sikh Guru."
+                },
+                {
+                    "question": "Which book is considered the holy book of Sikhism?",
+                    "answer": "Guru Granth Sahib",
+                    "explanation": "Guru Granth Sahib is the holy book of Sikhism."
+                },
+                {
+                    "question": "What is the name of the seat in the centre of the Sikh holy shrine, Harmandir Sahib?",
+                    "answer": "Takhat",
+                    "explanation": "The Sikh holy book, Guru Granth Sahib, is considered the eternal Guru, and is placed on a throne-like seat, called the Takhat, in the centre of the Sikh holy shrine, Harmandir Sahib."
+                },
+                {
+                    "question": "Who founded Sikhism?",
+                    "answer": "Guru Nanak Dev Ji",
+                    "explanation": "Guru Nanak Dev Ji founded Sikhism."
+                },
+                {
+                    "question": "What is the name of the holy shrine of Sikhism?",
+                    "answer": "Harmandir Sahib",
+                    "explanation": "The holy shrine of Sikhism is Harmandir Sahib."
+                }
+            ],
+            "hops": [
+                "Sikhism"
+            ]
+        },
+        "Zoroastrianism": {
+            "term": "Zoroastrianism",
+            "passage": "Zoroastrianism is a monotheistic religion based on the teachings of Zoroaster (or Zarathushtra), the prophet of the ancient Iranian religion of Mazday (or Mazdā). Zoroastrianism has had a continuous presence in the world for more than 3,000 years and is currently practiced by about one million people, mostly in Iran and India. The religion has at times also been practiced in other countries, including parts of Central Asia, the Balkans, and the Caucasus. Zoroastrianism was the dominant religion of ancient Iran and was the first monotheistic faith in the world. The primary scriptures of the religion are the Avesta, a collection of religious texts that includes the Gathas, a selection from the religious hymns of Zoroaster. Zoroaster is believed to have lived sometime in the mid-2nd millennium BCE, in the region that is now the southern shores of the Caspian Sea. The Avesta contains the teachings of Zoroaster, which include the concept of dualism between Ahura Mazda and Angra Mainyu (Ahriman), the two opposing principles of good and evil, light and darkness. Zoroaster also taught that a savior, Saoshyant (Khordad), will bring about a final victory of good over evil. The Gathas are the only surviving part of Zoroaster's original texts.",
+            "qae_pairs": [
+                {
+                    "question": "How many years ago did Zoroaster live?",
+                    "answer": "mid-2nd",
+                    "explanation": "Zoroaster lived sometime in the mid-2nd millennium BCE, in the region that is now the southern shores of the Caspian Sea."
+                },
+                {
+                    "question": "Where is Zoroaster from?",
+                    "answer": "the Caspian Sea",
+                    "explanation": "Zoroaster lived in the southern shores of the Caspian Sea."
+                },
+                {
+                    "question": "How many years ago was the prophet of Zoroastrianism born?",
+                    "answer": "BCE",
+                    "explanation": "Zoroaster was born in the mid-2nd millennium BCE."
+                },
+                {
+                    "question": "Who is the savior of Zoroastrianism?",
+                    "answer": "Khordad",
+                    "explanation": "Saoshyant (Khordad)"
+                },
+                {
+                    "question": "Who is the evil principle in Zoroastrianism?",
+                    "answer": "Angra Mainyu",
+                    "explanation": "Angra Mainyu is the evil principle in Zoroastrianism."
+                },
+                {
+                    "question": "Who is the god of Zoroastrianism?",
+                    "answer": "Ahura Mazda",
+                    "explanation": "Ahura Mazda is the god of Zoroastrianism."
+                },
+                {
+                    "question": "How many years has Zoroastrianism been around?",
+                    "answer": "more than 3,000 years",
+                    "explanation": "Zoroastrianism is a religion that is based on the teachings of Zoroaster, the prophet of the ancient Iranian religion of Mazday (or Mazdā). Zoroastrianism has had a continuous presence in the world for more than 3,000 years and is currently practiced by about one million people, mostly in Iran and India. The religion has at times also been practiced in other countries, including parts of Central Asia, the Balkans, and the Caucasus."
+                },
+                {
+                    "question": "Which text is the only surviving part of Zoroaster's original texts?",
+                    "answer": "Gathas",
+                    "explanation": "Gathas"
+                },
+                {
+                    "question": "Which country has a population of 1 million people?",
+                    "answer": "India",
+                    "explanation": "Zoroastrianism has a population of 1 million people, mostly in India."
+                },
+                {
+                    "question": "Who is the prophet of the ancient Iranian religion of Mazday?",
+                    "answer": "Zoroaster",
+                    "explanation": "Zoroaster is the prophet of the ancient Iranian religion of Mazday."
+                },
+                {
+                    "question": "What is the name of the scripture of Zoroastrianism?",
+                    "answer": "Avesta",
+                    "explanation": "Zoroastrianism is a monotheistic religion based on the teachings of Zoroaster (or Zarathushtra), the prophet of the ancient Iranian religion of Mazday (or Mazdā). Zoroaster is believed to have lived sometime in the mid-2nd millennium BCE, in the region that is now the southern shores of the Caspian Sea. The primary scriptures of the religion are the Avesta, a collection of religious texts that includes the Gathas, a selection from the religious hymns of Zoroaster. Zoroaster also taught that a savior, Saos"
+                },
+                {
+                    "question": "Which country has a population of about one million people?",
+                    "answer": "Iran",
+                    "explanation": "Zoroastrianism is a monotheistic religion based on the teachings of Zoroaster (or Zarathushtra), the prophet of the ancient Iranian religion of Mazday (or Mazdā)."
+                },
+                {
+                    "question": "What is the name of the savior in Zoroastrianism?",
+                    "answer": "Saoshyant",
+                    "explanation": "Saoshyant is the savior in Zoroastrianism."
+                }
+            ],
+            "hops": [
+                "Zoroastrianism"
+            ]
+        },
+        "Baha": {
+            "term": "Baha",
+            "passage": "Baha (Arabic: بها; Persian: بهاء; \"Whirlwind\") is an Iranian heavy metal band formed in Tehran in 1997. The band has released seven studio albums. Their lyrics are in Persian and deal with social and political issues.",
+            "qae_pairs": [
+                {
+                    "question": "Where was Baha formed?",
+                    "answer": "Tehran",
+                    "explanation": "Baha is an Iranian heavy metal band formed in Tehran in 1997."
+                },
+                {
+                    "question": "When was the band formed?",
+                    "answer": "1997",
+                    "explanation": "Baha is an Iranian heavy metal band formed in Tehran in 1997."
+                }
+            ],
+            "hops": [
+                "Baha"
+            ]
+        },
+        "Jainism": {
+            "term": "Jainism",
+            "passage": "The following is a detailed passage about Jainism, a nontheistic, Indian religion founded by Vardhamana Mahavira, and subcategorized under the label of \"Non-Violence\", \"Lokayata\" and \"Ascetics\". It is extracted and summarized from the \"Jainism\" article in the \"Wikipedia\" encyclopedia. Jainism (IAST: \"Jainīya\") is an Indian religion, traditionally ascribed to Mahavira, the 24th and last Tirthankara of Jainism who lived in the 6th century BCE. Jainism is an ascetic tradition and the oldest extant Indian religion, with an ascetic tradition that originated in the 6th and 5th centuries BCE and has survived in India since then, with a decline in the number of adherents. Jainism is a nontheistic religion, meaning that it does not believe in a personal creator God, and its followers are called Jains. The Jain tradition has survived as an ascetic tradition, with a small number of followers. The religion has a significant following in the Indian state and overseas Jain diaspora. The religion's sacred texts, the \"Agamas\" or \"Pravachans\", date back to the 1st millennium BCE, but the earliest available texts were written in the 1st or 2nd century CE.",
+            "qae_pairs": [
+                {
+                    "question": "What is the number of the Tirthankara in Jainism?",
+                    "answer": "the 24th",
+                    "explanation": "The 24th Tirthankara of Jainism is Mahavira."
+                },
+                {
+                    "question": "Which country has a religion that is subcategorized under the label of \"Non-Violence\", \"Lokayata\" and \"Ascetics\"?",
+                    "answer": "India",
+                    "explanation": "Jainism is an Indian religion, traditionally ascribed to Mahavira, the 24th and last Tirthankara of Jainism who lived in the 6th century BCE."
+                },
+                {
+                    "question": "Who was the founder of Jainism?",
+                    "answer": "Vardhamana Mahavira",
+                    "explanation": "Vardhamana Mahavira was the founder of Jainism."
+                },
+                {
+                    "question": "What century did the religion of the founder of Jainism originate?",
+                    "answer": "the 6th century",
+                    "explanation": "Jainism originated in the 6th century BCE."
+                },
+                {
+                    "question": "Which century did the earliest available texts of Jainism come out?",
+                    "answer": "the 1st or 2nd century",
+                    "explanation": "The earliest available texts of Jainism were written in the 1st or 2nd century CE."
+                }
+            ],
+            "hops": [
+                "Jainism"
+            ]
+        },
+        "Shinto": {
+            "term": "Shinto",
+            "passage": "Shinto is a religion indigenous to Japan, where it is known as the \"Way of the kami\" (神道, kamidan). It is the indigenous religion of Japan, and the spiritual foundation of Japanese culture. Shinto is based on the worship and veneration of the kami, which are the forces that the Shinto religion considers animating everything in the universe. The kami are not considered to be transcendent beings but rather to be the presence and essence of the sacred in the natural world and the objects therein. Shinto is sometimes called the \"Way of the gods\" (Kami no Michi). Shinto shrines, which serve as the religious centers of the faith, are called \"jingū\" (神宮) in Japanese. The kami are believed to have the ability to manifest themselves to the world, and the faith is thus strongly tied to practices of ritual purification and offerings. The faith is also characterized by a strong sense of reverence for nature and a belief in the spiritual potential of objects. Shinto is sometimes considered a polytheistic or nature-worshipping faith; however, it also has aspects that are similar to monotheistic religions such as the veneration of ancestors and a belief in an otherworldly paradise, as well as a belief in kami as the ultimate divine beings.",
+            "qae_pairs": [
+                {
+                    "question": "What is the religion of the people who live in the country where the capital is Tokyo?",
+                    "answer": "Japan",
+                    "explanation": "Shinto is the indigenous religion of Japan, and the spiritual foundation of Japanese culture."
+                }
+            ],
+            "hops": [
+                "Shinto"
+            ]
+        }
+    },
+    "second_hops": {
+        "Sanskrit": {
+            "term": "Sanskrit",
+            "passage": "The Sanskrit language (IAST: Saṃskṛta, IPA: [sʱɑmˈskʰɾtə]) is an ancient Indo-Aryan language originating in the northern part of the Indian subcontinent. It is one of the two official languages of Hinduism, and is the liturgical language of Hinduism and of Buddhism. It is also a classical and modern scholarly and literary language of South Asia and Southeast Asia. It has been a primary source of knowledge and learning for scholars, intellectuals, and poets of ancient and medieval India and continues to be so in South Asia and Southeast Asia. The language is also influential outside of its traditional sphere, having been used as a model by many modern Indian languages, including English, Hindi/Urdu, Bengali, Telugu, Kannada, Gujarati, Tamil, Malayalam, and others.",
+            "qae_pairs": [
+                {
+                    "question": "Which of the following is true of the Sanskrit language?",
+                    "answer": "South Asia",
+                    "explanation": "The Sanskrit language is an ancient Indo-Aryan language originating in the northern part of the Indian subcontinent. It is one of the two official languages of Hinduism, and is the liturgical language of Hinduism and of Buddhism. It is also a classical and modern scholarly and literary language of South Asia and Southeast Asia."
+                },
+                {
+                    "question": "What religion is the language Sanskrit a part of?\n",
+                    "answer": "Hinduism",
+                    "explanation": "Sanskrit is an ancient Indo-Aryan language originating in the northern part of the Indian subcontinent. It is one of the two official languages of Hinduism, and is the liturgical language of Hinduism and of Buddhism. It is also a classical and modern scholarly and literary language of South Asia and Southeast Asia."
+                },
+                {
+                    "question": "Which Indian subcontinent is the home country of Sanskrit?\n",
+                    "answer": "India",
+                    "explanation": "The language is also influential outside of its traditional sphere, having been used as a model by many modern Indian languages, including English, Hindi/Urdu, Bengali, Telugu, Kannada, Gujarati, Tamil, Malayalam, and others."
+                },
+                {
+                    "question": "Which of the following regions is not in the list of countries where the Sanskrit language is used as a scholarly and literary language?\n",
+                    "answer": "Southeast Asia",
+                    "explanation": "Southeast Asia"
+                }
+            ],
+            "hops": [
+                "Buddhism",
+                "Sanskrit"
+            ]
+        },
+        "Gautama Buddha": {
+            "term": "Gautama Buddha",
+            "passage": "Gautama Buddha (Sanskrit: \"गौतम बुद्ध\", Pali: \"Gotama Buddha\") (c. 563 BCE – c. 483 BCE), also known as Siddhārtha Gautama, Shakyamuni Buddha, or simply the Buddha (\"awakened one\"), was an ascetic and spiritual teacher from the Shakya clan in the Bhadda Kapilvastu region of present-day Nepal. He is regarded by Buddhists as the Supreme Buddha and as an Enlightened being in the Dharma, one who has awakened to the ultimate nature of reality. He is also considered by many to be the founder of Buddhism, an Indian religion practiced by an estimated 400 million people, or about 7% of the global population. Born as Siddhārtha Gautama, he was the son of Śuddhodana, the king of the Shakya clan, and his wife Queen Māyā. He was married and the father of a son and a daughter, but renounced his family life and became an ascetic at the age of 29. He is believed to have spent six years meditating in the forests of northern India, during which time he achieved enlightenment, thus becoming the Buddha, \"awakened one\".",
+            "qae_pairs": [
+                {
+                    "question": "Who was the wife of Gautama Buddha?",
+                    "answer": "Queen Māyā",
+                    "explanation": "Queen Māyā was the wife of Gautama Buddha."
+                },
+                {
+                    "question": "What year was Gautama Buddha born?",
+                    "answer": "BCE",
+                    "explanation": "Gautama Buddha was born in 563 BCE."
+                },
+                {
+                    "question": "How old was Gautama Buddha when he renounced his family life?",
+                    "answer": "the age of 29",
+                    "explanation": "Gautama Buddha was 29 years old when he renounced his family life."
+                },
+                {
+                    "question": "Who was the father of Gautama Buddha?",
+                    "answer": "Śuddhodana",
+                    "explanation": "Gautama Buddha was the son of Śuddhodana, the king of the Shakya clan, and his wife Queen Māyā."
+                },
+                {
+                    "question": "Which of the following is true of Gautama Buddha?",
+                    "answer": "India",
+                    "explanation": "Gautama Buddha was born in India."
+                }
+            ],
+            "hops": [
+                "Buddhism",
+                "Gautama Buddha"
+            ]
+        },
+        "Galilee": {
+            "term": "Galilee",
+            "passage": "Galilee (; Hebrew: גַּלְעִיל‬, translit. galil, lit. \"circle\") is a region in Israel, located on the northwest shore of the Sea of Galilee (known in Hebrew as Lake Kinneret, lit. \\\"Sea of Springs\\\"). The name \"Galilee\" is a Latinized form of the Greek name Γαλιλαῖον, Galilaiòn, which was derived from the Aramaic form of the same name, Galilu. The name \"Galilee\" appears in the Hebrew Bible as the name of a hill-country and as the name of a specific geographical area.",
+            "qae_pairs": [
+                {
+                    "question": "What is a term for the language spoken by the Aramaic people of Galilee?\n",
+                    "answer": "Aramaic",
+                    "explanation": "Aramaic"
+                },
+                {
+                    "question": "In what country is the Galilee region?",
+                    "answer": "Israel",
+                    "explanation": "The Galilee region is located in Israel."
+                }
+            ],
+            "hops": [
+                "Christianity",
+                "Galilee"
+            ]
+        },
+        "Judaism": {
+            "term": "Judaism",
+            "passage": "Judaism (/ˈdʒuːdʒi/ JOO-jee) is the religion and cultural tradition of the Jewish people. Judaism is an ancient monotheistic religion and the oldest continuing religion in the world, with a history dating back more than 3,000 years. It has its roots in the Torah (also known as the Pentateuch or the Five Books of Moses), which is considered the first book of Judaism's holy text. Judaism has its own oral tradition, and its most important text outside the Torah and Talmud is the Zohar (literally, \"Splendor\"). It is the central text of Kabbalah. Judaism is considered by religious Jews to be the expression of the covenantal relationship that God established with the Children of Israel as described in the Torah. Judaism has a strong focus on education, with the study of the Hebrew language and Jewish history and law forming a significant part of observant Jewish life. The word \"Judaism\" is often used to refer to the religion, while \"Jewish\" is used as an adjective to describe people, items, or concepts related to Judaism. In English, Jews are commonly called \"Jews\" only in casual or affectionate contexts. Judaism encompasses a wide range of cultural and religious observance and practice, including religious law, ethics and theology, as well as cultural and historical traditions.",
+            "qae_pairs": [
+                {
+                    "question": "How old is Judaism?",
+                    "answer": "more than 3,000 years",
+                    "explanation": "Judaism is an ancient monotheistic religion and the oldest continuing religion in the world, with a history dating back more than 3,000 years."
+                },
+                {
+                    "question": "What is the name of the book that contains teachings on Judaism?\n",
+                    "answer": "Talmud",
+                    "explanation": "The Talmud is the book that contains teachings on Judaism."
+                },
+                {
+                    "question": "What is the name of the first book of Judaism's holy text?",
+                    "answer": "Torah",
+                    "explanation": "The Torah is the first book of Judaism's holy text."
+                }
+            ],
+            "hops": [
+                "Christianity",
+                "Judaism"
+            ]
+        },
+        "Jesus Christ": {
+            "term": "Jesus Christ",
+            "passage": "The New Testament is a collection of books that make up most of the Christian biblical canon. It contains 39 books, which are grouped into two major sections, the Old Testament and the New Testament, together comprising the Christian biblical canon. The books in the New Testament are: Matthew, Mark, Luke, John and Acts of the Apostles, Romans, 1 and 2 Corinthians, Galatians, Ephesians, Philippians, Colossians, 1 and 2 Thessalonians, 1 and 2 Timothy, Titus, Philemon, Hebrews, James, 1, 2 and 3 John, Revelation. The books of the Old Testament are: Torah (Genesis, Exodus, Leviticus, Numbers, Deuteronomy), Nevi'im (Joshua, Judges, Ruth, 1 and 2 Samuel, 1 and 2 Kings, 1 and 2 Chronicles), and Ketuvim (Job, Psalms, Proverbs, Ecclesiastes, Song of Songs, Lamentations, Daniel, Ezra-Nehemiah, Esther, Chronicles, Esthothilim).",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the book that contains the term 'Jesus Christ' in it?",
+                    "answer": "Matthew",
+                    "explanation": "The New Testament is a collection of books that make up most of the Christian biblical canon. It contains 39 books, which are grouped into two major sections, the Old Testament and the New Testament, together comprising the Christian biblical canon. The books in the New Testament are: Matthew, Mark, Luke, John and Acts of the Apostles, Romans, 1 and 2 Corinthians, Galatians, Ephesians, Philippians, Colossians, 1 and 2 Thessalonians, 1 and 2 Timothy, Titus, Philemon, Hebrews, James, 1, 2 and 3 John, Revelation"
+                },
+                {
+                    "question": "What is the name of the book that contains the term \"Jesus Christ\"?",
+                    "answer": "The New Testament",
+                    "explanation": "The New Testament is a collection of books that make up most of the Christian biblical canon."
+                }
+            ],
+            "hops": [
+                "Christianity",
+                "Jesus Christ"
+            ]
+        },
+        "the Hebrew Bible": {
+            "term": "the Hebrew Bible",
+            "passage": "The Hebrew Bible, also known as the Tanakh, the Old Testament or the Hebrew Scriptures, is a collection of sacred books written in ancient Hebrew, and forms the canonical text of Judaism and Christianity. The term \"Hebrew Bible\" is a scholarly construct that is used in Judaism and Christianity to distinguish the books of the Tanakh from the books of the Apocrypha.",
+            "qae_pairs": [
+                {
+                    "question": "What is the Hebrew Bible?",
+                    "answer": "Tanakh",
+                    "explanation": "The Hebrew Bible, also known as the Tanakh, the Old Testament or the Hebrew Scriptures, is a collection of sacred books written in ancient Hebrew, and forms the canonical text of Judaism and Christianity."
+                }
+            ],
+            "hops": [
+                "Christianity",
+                "the Hebrew Bible"
+            ]
+        },
+        "Quran": {
+            "term": "Quran",
+            "passage": "The Quran (Arabic: قرآن, romanized: Qirʼān) is the central religious text of Islam. Muslims believe that it was revealed by God to the Islamic prophet Muhammad through the angel Gabriel over a period of approximately 23 years (610 AD – 632 AD), though traditional accounts differ on its compilation, and traditional and academic estimates for the date of its revelation vary between 610 and 632. It is regarded as the finest work of literature in Arabic. It contains 6236 verses (ayah) in a dialect of classical Arabic known as \"Classical Arabic\", and is the best known example of a Quranic \"textual tradition\".",
+            "qae_pairs": [
+                {
+                    "question": "How long was the period of time that the Quran was revealed?",
+                    "answer": "approximately 23 years",
+                    "explanation": "The Quran was revealed over a period of approximately 23 years."
+                },
+                {
+                    "question": "What is the date of the Quran's revelation?",
+                    "answer": "610 AD",
+                    "explanation": "The Quran was revealed to Muhammad in 610 AD."
+                },
+                {
+                    "question": "What is the name of the angel that revealed the Quran to Muhammad?",
+                    "answer": "Gabriel",
+                    "explanation": "The Quran was revealed to Muhammad by the angel Gabriel."
+                }
+            ],
+            "hops": [
+                "Islam",
+                "Quran"
+            ]
+        },
+        "Muhammad": {
+            "term": "Muhammad",
+            "passage": "Muhammad (c. 580–632), also known as, \"the Prophet\", was an Arab religious and political leader and the founder of Islam. He is considered by Muslims to be the seal of the prophets and the \"Seal of the Prophets\". Born into an affluent Meccan family, he began receiving prophetic revelations from the age of forty, when he was forty, according to traditional sources, and forty-nine, according to modern biographers, and continued until ten days before his death at the age of 62. He is reported to have received a total of 6,236 direct revelations from God, known as the Qur'an, and a further 114 revelations that he is said to have received via Gabriel.",
+            "qae_pairs": [
+                {
+                    "question": "What is the age of Muhammad?",
+                    "answer": "the age of 62",
+                    "explanation": "Muhammad, also known as the Prophet, was an Arab religious and political leader and the founder of Islam. He is considered by Muslims to be the seal of the prophets and the Seal of the Prophets. Born into an affluent Meccan family, he began receiving prophetic revelations from the age of forty, when he was forty, according to traditional sources, and forty-nine, according to modern biographers, and continued until ten days before his death at the age of 62. He is reported to have received a total of 6,236 direct revelations from God, known as the Qur'an, and a further"
+                },
+                {
+                    "question": "What is the name of the book that contains the term \"Muhammad\"?",
+                    "answer": "Qur'an",
+                    "explanation": "The Qur'an is the holy book of Islam. It contains the term Muhammad."
+                }
+            ],
+            "hops": [
+                "Islam",
+                "Muhammad"
+            ]
+        },
+        "Guru Gobind": {
+            "term": "Guru Gobind",
+            "passage": "Guru Gobind Singh (5 October 1666 – 22 September 1708) was the tenth guru of Sikhism and the last living descendant of the tenth guru. He was born in Patna, the capital of the Mughals' Bihar province in India and was named Dhuan Dhana, \"the blacksmith\".",
+            "qae_pairs": [
+                {
+                    "question": "What is the capital of the province where Guru Gobind Singh was born?",
+                    "answer": "Patna",
+                    "explanation": "Guru Gobind Singh was born in Patna, the capital of the Mughals' Bihar province in India."
+                }
+            ],
+            "hops": [
+                "Sikhism",
+                "Guru Gobind"
+            ]
+        },
+        "Takhat": {
+            "term": "Takhat",
+            "passage": "In Sikhism the Takhat (also called the Takht or Thakar) is a group of five religious seats of authority, each of which is the seat of a religious order (or Khalsa) and the residence of the religious leader or guru of that order:\n\nThe first Takhat is at Nankana Sahib, Punjab, Pakistan. The second Takhat is at Kartarpur, in Narowal District, Pakistan. The third Takhat is at Damdama Sahib, Punjab, India. The fourth Takhat is at Keshgarh Sahib, in Anandpur Sahib District, Punjab, India. The fifth Takhat is at Takht Sri Patna Sahib, in the state of Uttar Pradesh, India. Takhats are also places of pilgrimage for Sikhism, and are the sites of important gurdwaras (Sikh temples).",
+            "qae_pairs": [
+                {
+                    "question": "What is the second Takhat?",
+                    "answer": "Kartarpur",
+                    "explanation": "The second Takhat is at Kartarpur, in Narowal District, Pakistan."
+                },
+                {
+                    "question": "What is the name of the place where the fourth Takhat is located?",
+                    "answer": "Keshgarh Sahib",
+                    "explanation": "The fourth Takhat is at Keshgarh Sahib, in Anandpur Sahib District, Punjab, India."
+                },
+                {
+                    "question": "What is the Takhat of Sikhism?",
+                    "answer": "Pakistan",
+                    "explanation": "The Takhat of Sikhism is located in Pakistan."
+                },
+                {
+                    "question": "What is the fifth Takhat?",
+                    "answer": "Uttar Pradesh",
+                    "explanation": "The fifth Takhat is at Takht Sri Patna Sahib, in the state of Uttar Pradesh, India."
+                }
+            ],
+            "hops": [
+                "Sikhism",
+                "Takhat"
+            ]
+        },
+        "Guru Nanak Dev Ji": {
+            "term": "Guru Nanak Dev Ji",
+            "passage": "Guru Nanak Dev (1469–1539) was a Sikh Guru, the founder of the Sikh religion, and the first of the ten Sikh Gurus. He was born in 1469 at Kartarpur in what is now the Pakistani Punjab. He was the eldest son of Mehta Kalu and Mata Sulakhani.",
+            "qae_pairs": [
+                {
+                    "question": "Write a question about the passage about 'Guru Nanak Dev Ji' that will be answered by the sentence 'Guru Nanak Dev (1469–1539) was a Sikh Guru, the founder of the Sikh religion, and the first of the ten Sikh Gurus.'\n<human",
+                    "answer": "Guru Nanak Dev",
+                    "explanation": "Guru Nanak Dev was the first of the ten Sikh Gurus."
+                },
+                {
+                    "question": "How many years after the birth of Guru Nanak Dev Ji was the first Sikh Guru, Guru Angad Dev Ji born?",
+                    "answer": "1469",
+                    "explanation": "Guru Nanak Dev Ji was the first of the ten Sikh Gurus. He was born in 1469 at Kartarpur in what is now the Pakistani Punjab."
+                }
+            ],
+            "hops": [
+                "Sikhism",
+                "Guru Nanak Dev Ji"
+            ]
+        },
+        "Harmandir Sahib": {
+            "term": "Harmandir Sahib",
+            "passage": "The Sikhs' holy scripture is the Adi Granth. It contains hymns composed by the first Sikh gurus, starting with the first guru, Nanak. The Adi Granth is a collection of hymns written in praise of the divine, and is the embodiment of the Sikh ethos. It contains hymns in the praise of God, and also hymns about the Gurus, and other Sikh religious figures. The Adi Granth was compiled by the tenth Sikh guru, Guru Gobind Singh, who was also a poet. The first five gurus are known as the Panj Piyare, or the 'Five beloved ones'. They are the spiritual, religious, and political founders of Sikhism. The Adi Granth contains hymns composed by the first Sikh gurus, starting with the first guru, Nanak. The Adi Granth is a collection of hymns written in praise of the divine. It contains hymns in the praise of God. It also contains hymns about the Gurus, and other Sikh religious figures. The Adi Granth was compiled by the tenth Sikh guru, Guru Gobind Singh.",
+            "qae_pairs": [
+                {
+                    "question": "What is the Harmandir Sahib?",
+                    "answer": "Sikh",
+                    "explanation": "The Harmandir Sahib is the Sikh's holy scripture."
+                },
+                {
+                    "question": "What holy text contains the term \"Harmandir Sahib\" in it?\n",
+                    "answer": "the Adi Granth",
+                    "explanation": "The Sikhs' holy scripture is the Adi Granth, which contains hymns composed by the first Sikh gurus, starting with the first guru, Nanak."
+                }
+            ],
+            "hops": [
+                "Sikhism",
+                "Harmandir Sahib"
+            ]
+        },
+        "mid-2nd": {
+            "term": "mid-2nd",
+            "passage": "The mid-2nd century is a period of transition in Roman Britain, from the final subjugation of the island to Roman control, to the establishment of the province of Britannia. The period is characterised by a general continuity with the preceding period, the Antonine Italo-Britons, with the military occupation of much of southern England by the Legio II Adiutrix and Legio IX Hispania. However, the establishment of the province of Britannia, and the creation of the civitates, marked the beginning of the long process of Romanisation of Britain. The civitates were largely self-governing, and were not directly subject to Roman military command. However, their existence was resented by the military, and there were several revolts. The Romanisation of Britain was a drawn-out process, and it was only in the 3rd century that the province of Britannia became fully integrated into the Roman Empire.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the Roman military unit that was stationed in southern England during the mid-2nd century?",
+                    "answer": "the Legio II Adiutrix",
+                    "explanation": "The mid-2nd century is a period of transition in Roman Britain, from the final subjugation of the island to Roman control, to the establishment of the province of Britannia. The period is characterised by a general continuity with the preceding period, the Antonine Italo-Britons, with the military occupation of much of southern England by the Legio II Adiutrix and Legio IX Hispania. However, the establishment of the province of Britannia, and the creation of the civitates, marked the beginning of the long process of Romanisation of Britain. The civitates were largely self-g"
+                }
+            ],
+            "hops": [
+                "Zoroastrianism",
+                "mid-2nd"
+            ]
+        },
+        "the Caspian Sea": {
+            "term": "the Caspian Sea",
+            "passage": "Caspian Sea is a transboundary sea shared between the countries of Iran, Russia (a minority portion), Kazakhstan, Turkmenistan, and Azerbaijan. It is in the basin of the river Volga. The sea is bounded by Kazakhstan to the northeast, Russia to the northwest, Iran to the southwest and the smaller Caucasus to the southeast.",
+            "qae_pairs": [
+                {
+                    "question": "Which country shares the Caspian Sea with Iran?",
+                    "answer": "Kazakhstan",
+                    "explanation": "The Caspian Sea is shared between the countries of Iran, Russia (a minority portion), Kazakhstan, Turkmenistan, and Azerbaijan."
+                },
+                {
+                    "question": "How many countries are in the Caspian Sea?",
+                    "answer": "Iran",
+                    "explanation": "The Caspian Sea is a transboundary sea shared between the countries of Iran, Russia (a minority portion), Kazakhstan, Turkmenistan, and Azerbaijan."
+                },
+                {
+                    "question": "Which of the following countries does not border the Caspian Sea?",
+                    "answer": "Turkmenistan",
+                    "explanation": "The Caspian Sea is a transboundary sea shared between the countries of Iran, Russia (a minority portion), Kazakhstan, Turkmenistan, and Azerbaijan."
+                },
+                {
+                    "question": "Which of the following is true about the Caspian Sea?",
+                    "answer": "Volga",
+                    "explanation": "The Caspian Sea is a transboundary sea shared between the countries of Iran, Russia (a minority portion), Kazakhstan, Turkmenistan, and Azerbaijan. It is in the basin of the river Volga."
+                }
+            ],
+            "hops": [
+                "Zoroastrianism",
+                "the Caspian Sea"
+            ]
+        },
+        "BCE": {
+            "term": "BCE",
+            "passage": "The period from 1 to 600 CE is known as the Ancient Period of China, and is divided into the Three Dynasties and Ten Kingdoms period (3rd century BCE to 7th century CE) and the Six Dynasties period (220–589 CE). The period from 618 to 907 is called the Period of the Five Dynasties and Ten Kingdoms, and is divided into the Six Dynasties period (220–589 CE) and the Ten Kingdoms period (9th–10th centuries). These periods are followed by the Song dynasty (960–1279), which is sometimes considered to be a reunification of China, and the subsequent Ming dynasty (1368–1644), which was succeeded by the Qing dynasty (1644–1912). The Republic of China (1912–49), founded by Sun Yat-sen, was followed by the People's Republic of China (1949–present). The years of these dynasties, in the Gregorian calendar, are as shown in the following table.",
+            "qae_pairs": [
+                {
+                    "question": "What is the BCE period of China?",
+                    "answer": "the Three Dynasties",
+                    "explanation": "The period from 1 to 600 CE is known as the Ancient Period of China, and is divided into the Three Dynasties and Ten Kingdoms period (3rd century BCE to 7th century CE) and the Six Dynasties period (220–589 CE)."
+                },
+                {
+                    "question": "How many years after BCE did the Republic of China start?\n",
+                    "answer": "Sun Yat-sen",
+                    "explanation": "The Republic of China was founded by Sun Yat-sen in 1912."
+                }
+            ],
+            "hops": [
+                "Zoroastrianism",
+                "BCE"
+            ]
+        },
+        "Khordad": {
+            "term": "Khordad",
+            "passage": "Khordad, also spelled Khorad (Persian: خراد‎, also Romanized as Khorād) is a village in Khorramdarreh Rural District in the Central District of Khorrambid County, Fars Province, Iran. At the 2006 census, its population was 1,849, in 419 families.",
+            "qae_pairs": [
+                {
+                    "question": "What is the province of Khordad?",
+                    "answer": "Fars Province",
+                    "explanation": "Khordad is a village in Khorramdarreh Rural District in the Central District of Khorrambid County, Fars Province, Iran."
+                }
+            ],
+            "hops": [
+                "Zoroastrianism",
+                "Khordad"
+            ]
+        },
+        "Gathas": {
+            "term": "Gathas",
+            "passage": "Gathas are the oldest known poems of the Avesta, the sacred text of Zoroastrianism. They are also the oldest known examples of a religious text written in the Iranian language. The Gathas are a collection of ten hymns, each of which is addressed to Ahura Mazda, the Zoroastrian supreme deity. The Gathas are traditionally believed to have been composed by Zoroaster himself, although this is a matter of scholarly debate.",
+            "qae_pairs": [
+                {
+                    "question": "What are the Gathas?",
+                    "answer": "Avesta",
+                    "explanation": "Gathas are the oldest known poems of the Avesta, the sacred text of Zoroastrianism. They are also the oldest known examples of a religious text written in the Iranian language. The Gathas are a collection of ten hymns, each of which is addressed to Ahura Mazda, the Zoroastrian supreme deity. The Gathas are traditionally believed to have been composed by Zoroaster himself, although this is a matter of scholarly debate."
+                }
+            ],
+            "hops": [
+                "Zoroastrianism",
+                "Gathas"
+            ]
+        },
+        "India": {
+            "term": "India",
+            "passage": "India, officially the Republic of India (Hindi: भारत जनता रिपब्लिक गणराज्य, Bhārat Jāntā Rājpūrblikā Gāntrājya, Hindi: भारत गणराज्य, Bhārat Gāntrājya ), is a country in South Asia. It is the seventh-largest country by area, the second-most populous country (with over 1.2 billion people), and the most populous democracy in the world. It is bounded by the Indian Ocean on the south, the Arabian Sea on the south-west, and the Bay of Bengal on the southeast. It shares land borders with Pakistan to the west; People's Republic of China, Nepal, and Bhutan to the north-east; and Myanmar (Burma) to the east. In the Indian Ocean, India is in the vicinity of Sri Lanka and the Maldives. India's capital is Delhi; its most populous city is Mumbai. India's sovereignty extends over the entire Indian sub-continent, the Indian Ocean and the South Asian region. It is the world's second-most populous country (after China), and the most populous democracy.",
+            "qae_pairs": [
+                {
+                    "question": "Which of the following countries is not a bordering country of the Republic of India?\n",
+                    "answer": "People's Republic of China",
+                    "explanation": "People's Republic of China is not a bordering country of the Republic of India."
+                },
+                {
+                    "question": "Which of the following regions is India not part of?",
+                    "answer": "South Asia",
+                    "explanation": "India is not part of South Asia."
+                },
+                {
+                    "question": "What city is the capital of India, which is the second-most populous democracy in the world and the most populous democracy in the world?\n",
+                    "answer": "Delhi",
+                    "explanation": "India is the most populous democracy in the world. Its capital is Delhi."
+                },
+                {
+                    "question": "Which city in India has a population of 20.0 million?",
+                    "answer": "Mumbai",
+                    "explanation": "Mumbai, the most populous city in India, has a population of 20.0 million."
+                },
+                {
+                    "question": "What language is the official language in India?\n",
+                    "answer": "Hindi",
+                    "explanation": "Hindi is the official language in India."
+                }
+            ],
+            "hops": [
+                "Jainism",
+                "India"
+            ]
+        },
+        "Iran": {
+            "term": "Iran",
+            "passage": "Iran (; also known as Persia, officially the Islamic Republic of Iran, IR Iran, or Islamic Republic of Iran), officially the Islamic Republic of Iran, is a sovereign state in Western Asia. It is bordered to the northwest by Armenia, the former Soviet Union (and the autonomous region of the Republic of Azerbaijan), and to the northeast by Turkey and the former Soviet Union (and the autonomous region of the Republic of Azerbaijan). Iran is the second-largest country in the Middle East and the 17th-largest in Asia, with an area of 1,648,195 km2 (630,372 sq mi), and a largely mountainous interior and a relatively dry climate.",
+            "qae_pairs": [
+                {
+                    "question": "Which of the following is true of Iran?",
+                    "answer": "the Middle East",
+                    "explanation": "Iran is located in Western Asia, bordered to the northwest by Armenia, the former Soviet Union (and the autonomous region of the Republic of Azerbaijan), and to the northeast by Turkey and the former Soviet Union (and the autonomous region of the Republic of Azerbaijan)."
+                }
+            ],
+            "hops": [
+                "Zoroastrianism",
+                "Iran"
+            ]
+        },
+        "Tehran": {
+            "term": "Tehran",
+            "passage": "Tehran (Persian: تهران‎ ‎, also romanized as Târâvân and Târâneh; also known as Tehrân, Târân, and Tîrân) is the capital city of Iran and the largest city in Western Asia. Tehran is the center of politics, culture, economy, and education in Iran. It is the second largest city in the Middle East after Cairo, Egypt.",
+            "qae_pairs": [
+                {
+                    "question": "How many cities are there in the Middle East that are larger than Tehran?",
+                    "answer": "Egypt",
+                    "explanation": "There are two cities in the Middle East that are larger than Tehran. One is Cairo, Egypt and the other is Cairo, Egypt."
+                }
+            ],
+            "hops": [
+                "Baha",
+                "Tehran"
+            ]
+        },
+        "Vardhamana Mahavira": {
+            "term": "Vardhamana Mahavira",
+            "passage": "Vardhamana Mahavira (Pāli, Sanskrit pronunciation: [ʋɑrːtʃmənə məhavira]; lit. \"The great awakened one\") was the twenty-fourth Tirthankara in the Jainism tradition. He is also called \"Tîrtha\" (lit. \"ford-maker\"). He preached and attained Nirvana in the 6th century BCE. Vardhamana Mahavira was a contemporary of Rishabhanatha, the last Tirthankara of the present age (Kâlachala kalpa). Vardhamana Mahavira is also called \"Mahavira\" (lit. \"Great hero\") because he was a great warrior who defeated the Kalinga ruler King Kharvela. Mahavira was born in a royal family of the Kurus in the city of Shravanabelgola in the present day Karnataka, India. He was the son of King Nandivardhan and Queen Prasavya. He renounced his kingdom at the age of twenty-nine and became the twenty-fourth Tirthankara of Jainism. He attained moksha in the year 527 BCE, at the age of sixty-two.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the city where Vardhamana Mahavira was born?",
+                    "answer": "Shravanabelgola",
+                    "explanation": "Vardhamana Mahavira was born in a royal family of the Kurus in the city of Shravanabelgola in the present day Karnataka, India."
+                },
+                {
+                    "question": "Who was the father of Vardhamana Mahavira?\n",
+                    "answer": "King Nandivardhan",
+                    "explanation": "King Nandivardhan"
+                },
+                {
+                    "question": "What was the name of the queen of Vardhamana Mahavira?",
+                    "answer": "Queen Prasavya",
+                    "explanation": "Queen Prasavya was the wife of Vardhamana Mahavira."
+                },
+                {
+                    "question": "What is the birth year of Vardhamana Mahavira?",
+                    "answer": "BCE",
+                    "explanation": "Vardhamana Mahavira was born in the 6th century BCE."
+                },
+                {
+                    "question": "How many years before Vardhamana Mahavira attained moksha did Rishabhanatha become the last Tirthankara?\n",
+                    "answer": "the 6th century",
+                    "explanation": "Vardhamana Mahavira was born in the 6th century BCE, which was the same year as Rishabhanatha became the last Tirthankara."
+                }
+            ],
+            "hops": [
+                "Jainism",
+                "Vardhamana Mahavira"
+            ]
+        },
+        "Japan": {
+            "term": "Japan",
+            "passage": "Japan (/ˈdʒɑːn.pɑːrəm/; Japanese: 日本[nɔːʔɰːbɕɒn], Hepburn: Nippon, Jap: Nihon, IPA: [niː.ɕoː.nɔn]) is a sovereign island nation in East Asia. Located in the Pacific Ocean, Japan is bordered by the Sea of Japan to the east, the East China Sea to the east and south, and the Korea Strait and China to the west and south. The country's four largest islands in order of size are Honshu, Hokkaido, Kyushu and Shikoku.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the body of water that is located between Japan and China?",
+                    "answer": "the East China Sea",
+                    "explanation": "Japan is located in the Pacific Ocean. It is bordered by the East China Sea to the east and south, and the Korea Strait and China to the west and south."
+                },
+                {
+                    "question": "What is the largest island in Japan?",
+                    "answer": "Honshu",
+                    "explanation": "Honshu is the largest island in Japan."
+                }
+            ],
+            "hops": [
+                "Shinto",
+                "Japan"
+            ]
+        }
+    }
+}

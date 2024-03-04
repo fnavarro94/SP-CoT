@@ -1,0 +1,207 @@
+{
+    "first_hops": {
+        "Hydration": {
+            "term": "Hydration",
+            "passage": "Hydration is the process by which water is taken up by a plant's roots and transported to the leaves and other parts of the plant. Water is essential for photosynthesis, the process by which plants produce their own food, and for maintaining the structure and function of the plant. Hydration is also important for regulating the temperature of the plant, as water can absorb and release heat. The process of hydration begins when water is absorbed by the plant's roots, which are specialized structures that are designed to take in water and nutrients from the soil. The water is then transported through the plant's xylem, which is a network of tubes that runs from the roots to the leaves. As the water travels through the xylem, it is pulled upward by the force of gravity and the tension created by the water's surface tension. Once the water reaches the leaves, it is used for photosynthesis and evaporation. Photosynthesis is the process by which plants convert sunlight into energy, which they use to produce glucose and other organic compounds. Evaporation is the process by which water is released into the air as water vapor, which is important for regulating the temperature of the plant and the surrounding environment. Hydration is also important for the plant's growth and development. As the plant grows, it requires more water to support its increased weight and size. Additionally, hydration is important for the development of fruits and seeds, as water is necessary for the formation of these structures. Overall, hydration is a critical process for the survival and health of plants. Without water, plants would not be able to produce their own food, regulate their temperature, or grow and develop properly.",
+            "qae_pairs": [
+                {
+                    "question": "What is the process by which plants produce their own food?",
+                    "answer": "Photosynthesis",
+                    "explanation": "Photosynthesis is the process by which plants convert sunlight into energy, which they use to produce glucose and other organic compounds."
+                }
+            ],
+            "hops": [
+                "Hydration"
+            ]
+        },
+        "DNA": {
+            "term": "DNA",
+            "passage": "DNA (deoxyribonucleic acid) is a molecule that encodes the genetic information of living organisms. It is composed of four nitrogenous bases—adenine (A), guanine (G), cytosine (C), and thymine (T—that are arranged in a specific sequence along a sugar-phosphate backbone. The sequence of these bases determines the genetic code, which is responsible for the traits and characteristics of an organism. DNA is present in all living organisms, from bacteria to plants and animals. It is found in the nucleus of eukaryotic cells and in the nucleoid region of prokaryotic cells. The molecule is organized into structures called chromosomes, which are located in the nucleus of eukaryotic cells. The discovery of DNA is attributed to James Watson and Francis Crick, who were awarded the Nobel Prize in Physiology or Medicine in 1962 for their discovery. The structure of DNA was first determined by Rosalind Franklin and Maurice Wilkins, who obtained X-ray crystallography images of the molecule. The process of DNA replication is essential for cell division and the production of new cells. During replication, the two strands of the double helix are separated, and each strand serves as a template for the synthesis of a new complementary strand. This results in two identical copies of the DNA molecule. Mutations in DNA can lead to genetic disorders and diseases. These mutations can be caused by environmental factors such as radiation or chemicals, or they can occur spontaneously. Some mutations are harmless, while others can have serious consequences for an organism's health.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the person who discovered DNA?",
+                    "answer": "James Watson",
+                    "explanation": "The person who discovered DNA is James Watson."
+                },
+                {
+                    "question": "What year was DNA first discovered?",
+                    "answer": "1962",
+                    "explanation": "The year that DNA was first discovered is 1962. James Watson and Francis Crick were awarded the Nobel Prize in Physiology or Medicine for their discovery of the molecule."
+                }
+            ],
+            "hops": [
+                "DNA"
+            ]
+        },
+        "Enzymes": {
+            "term": "Enzymes",
+            "passage": "Enzymes are biological molecules (usually proteins) that catalyze or accelerate chemical reactions in living organisms. Enzymes are highly specific, meaning that each enzyme catalyzes a particular reaction or class of reactions. Enzymes can be found in all living organisms, from bacteria to plants and animals. Enzymes operate by lowering the activation energy required to initiate a chemical reaction. In other words, enzymes make it easier for reactant molecules to come together and form a product. This is accomplished through the specific three-dimensional shape of the enzyme molecule, which allows it to bind to specific substrates (the reactant molecules) and catalyze their conversion into products. Enzymes are highly regulated in living organisms, with many different mechanisms controlling their production, activation, and inactivation. For example, enzyme activity can be regulated by changes in temperature, pH, and the availability of certain molecules or ions. There are many different types of enzymes, each with a specific function in the body. Some examples include digestive enzymes (such as amylase and lipase), which break down food into smaller molecules that can be absorbed by the body, and metabolic enzymes (such as glycolysis and the Krebs cycle), which catalyze the conversion of nutrients into energy. Overall, enzymes play a critical role in many biological processes, and their dysfunction can lead to a variety of diseases and disorders. Understanding the mechanisms of enzyme function and regulation is therefore an important area of research in fields such as biochemistry, genetics, and medicine.",
+            "qae_pairs": [
+                {
+                    "question": "Which type of enzyme catalyzes the conversion of nutrients into energy in living organisms, according to the passage?",
+                    "answer": "Krebs",
+                    "explanation": "According to the passage, the Krebs cycle is one of the metabolic enzymes that catalyze the conversion of nutrients into energy in living organisms."
+                }
+            ],
+            "hops": [
+                "Enzymes"
+            ]
+        },
+        "Alkaline": {
+            "term": "Alkaline",
+            "passage": "Alkaline water is water that has a pH higher than 7.0, which is considered alkaline. Alkaline water is produced by passing water through a filter that is infused with alkaline minerals, such as calcium, magnesium, potassium, and bicarbonate. These minerals are naturally found in the earth's crust and are essential for maintaining good health. Alkaline water has been claimed to have numerous health benefits, including the ability to neutralize acidity in the body, improve hydration, and reduce the risk of chronic diseases such as cancer, diabetes, and heart disease. However, there is limited scientific evidence to support these claims. Alkaline water is also known as ionized water, and it is different from alkaline water in that it has been infused with hydrogen ions, which can make it more acidic or more alkaline depending on the pH level. Overall, alkaline water is a safe and healthy alternative to tap water, but it is important to note that it is not a magic cure-all for all health problems. It is still water, and it will not change the pH of the body unless it is consumed in very large quantities over a long period of time.",
+            "qae_pairs": [
+                {
+                    "question": "What is the primary source of alkaline minerals used to produce alkaline water?",
+                    "answer": "earth",
+                    "explanation": "The primary source of alkaline minerals used to produce alkaline water is the earth's crust. These minerals, including calcium, magnesium, potassium, and bicarbonate, are naturally found in the earth's crust and are essential for maintaining good health."
+                }
+            ],
+            "hops": [
+                "Alkaline"
+            ]
+        }
+    },
+    "second_hops": {
+        "Photosynthesis": {
+            "term": "Photosynthesis",
+            "passage": "Photosynthesis is a process by which green plants and some other organisms use sunlight to synthesize foods with the help of chlorophyll. During this process, carbon dioxide and water are converted into oxygen and energy-rich organic compounds such as glucose. The process is divided into two stages: the light-dependent reactions and the light-independent reactions. In the light-dependent reactions, light energy is absorbed by chlorophyll and converted into chemical energy in the form of ATP and NADPH. The light-independent reactions then use this energy to synthesize organic compounds from carbon dioxide and water. This process releases oxygen as a byproduct. Photosynthesis is essential for life on Earth, as it provides the primary source of energy for almost all ecosystems.",
+            "qae_pairs": [
+                {
+                    "question": "What is the end product of the light-dependent reactions during Photosynthesis?",
+                    "answer": "NADPH",
+                    "explanation": "The end product of the light-dependent reactions during Photosynthesis is NADPH. This is because the light-dependent reactions involve the absorption of light energy by chlorophyll, which is then converted into chemical energy in the form of ATP and NADPH. ATP is used to power the light-independent reactions, which synthesize organic compounds from carbon dioxide and water. NADPH, on the other hand, is used to power the synthesis of glucose and other energy-rich organic compounds during the light-independent reactions."
+                },
+                {
+                    "question": "What is the process that converts carbon dioxide and water into oxygen and glucose, and occurs only on Earth?     Answer: Photosynthesis.",
+                    "answer": "Earth",
+                    "explanation": "The process that converts carbon dioxide and water into oxygen and glucose and occurs only on Earth is Photosynthesis."
+                }
+            ],
+            "hops": [
+                "Hydration",
+                "Photosynthesis"
+            ]
+        },
+        "James Watson": {
+            "term": "James Watson",
+            "passage": "James Watson James Watson (born 1928) is an American molecular biologist, geneticist and zoologist. He is best known for his work with Francis Crick in determining the structure of DNA, which they accomplished in 1953. Watson and Crick's discovery is considered one of the most important scientific discoveries of the 20th century. Watson was born in Chicago, Illinois, and received his PhD in physics from the University of Chicago in 1950. He then moved to the United Kingdom to work at the University of Cambridge, where he met Crick. Together, they began studying the structure of DNA, which led to their groundbreaking discovery. In addition to his work on DNA, Watson has also made significant contributions to the study of RNA and the genetic code. He has received numerous awards and honors for his contributions to science, including the Nobel Prize in Physiology or Medicine in 1962. Watson has also been involved in controversies throughout his career. In 2007, he sparked controversy by stating that he was \"inherently gloomy about the prospect of Africa\" and that \"all our social policies are based on the fact that every African country is a basket case, is absolutely not under control.\" These comments were widely criticized as racist and Watson later apologized for them. Today, Watson continues to work in science and is a professor emeritus at Cold Spring Harbor Laboratory in New York.",
+            "qae_pairs": [
+                {
+                    "question": "What year did James Watson receive the Nobel Prize in Physiology or Medicine?",
+                    "answer": "1962",
+                    "explanation": "James Watson received the Nobel Prize in Physiology or Medicine in 1962."
+                },
+                {
+                    "question": "What year did James Watson receive his PhD in physics from the University of Chicago?",
+                    "answer": "1950",
+                    "explanation": "James Watson received his PhD in physics from the University of Chicago in 1950."
+                },
+                {
+                    "question": "What is the name of the university where James Watson met Francis Crick and where they determined the structure of DNA?",
+                    "answer": "the University of Cambridge",
+                    "explanation": "The name of the university where James Watson met Francis Crick and where they determined the structure of DNA is the University of Cambridge."
+                },
+                {
+                    "question": "What is the name of the molecule that James Watson has also made significant contributions to the study of?",
+                    "answer": "RNA",
+                    "explanation": "The molecule that James Watson has also made significant contributions to the study of is RNA."
+                },
+                {
+                    "question": "What country did James Watson move to in order to work with Francis Crick and study the structure of DNA?",
+                    "answer": "the United Kingdom",
+                    "explanation": "James Watson moved to the United Kingdom to work with Francis Crick and study the structure of DNA."
+                },
+                {
+                    "question": "What is the name of the continent mentioned in the passage as the answer to the question that meets the conditions specified by James Watson?",
+                    "answer": "Africa",
+                    "explanation": "The name of the continent mentioned in the passage as the answer to the question that meets the conditions specified by James Watson is Africa."
+                },
+                {
+                    "question": "What year did James Watson and Francis Crick determine the structure of DNA?",
+                    "answer": "1953",
+                    "explanation": "James Watson and Francis Crick determined the structure of DNA in 1953."
+                },
+                {
+                    "question": "What is the name of the university where James Watson received his PhD in physics in 1950?",
+                    "answer": "the University of Chicago",
+                    "explanation": "The name of the university where James Watson received his PhD in physics in 1950 is the University of Chicago."
+                },
+                {
+                    "question": "What is the location of James Watson's current employment?",
+                    "answer": "New York",
+                    "explanation": "James Watson is currently employed as a professor emeritus at Cold Spring Harbor Laboratory in New York."
+                },
+                {
+                    "question": "What year did James Watson make controversial comments about Africa?",
+                    "answer": "2007",
+                    "explanation": "James Watson made controversial comments about Africa in the year 2007."
+                },
+                {
+                    "question": "What is the name of the person who, according to the passage, determined the structure of DNA alongside James Watson, and what is the answer to the question?",
+                    "answer": "Francis Crick",
+                    "explanation": "According to the passage, James Watson is best known for his work with Francis Crick in determining the structure of DNA. Therefore, the name of the person who determined the structure of DNA alongside James Watson is Francis Crick."
+                },
+                {
+                    "question": "What year was James Watson born, according to the passage?",
+                    "answer": "1928",
+                    "explanation": "According to the passage, James Watson was born in 1928."
+                },
+                {
+                    "question": "What is the state where James Watson was born?",
+                    "answer": "Illinois",
+                    "explanation": "James Watson was born in Chicago, Illinois."
+                },
+                {
+                    "question": "What is the name of the laboratory where James Watson is a professor emeritus?",
+                    "answer": "Cold Spring Harbor Laboratory",
+                    "explanation": "Cold Spring Harbor Laboratory."
+                }
+            ],
+            "hops": [
+                "DNA",
+                "James Watson"
+            ]
+        },
+        "Krebs": {
+            "term": "Krebs",
+            "passage": "Krebs ------- Krebs is a small town located in the Yukon-Koyukuk Census Area, in the U.S. state of Alaska. It is situated on the south bank of the Koyukuk River, near its confluence with the Yukon River, about 120 miles northwest of Fairbanks. As of the 2010 census, the population of the town was 185. Krebs was named after Captain Edwin G. Krebs, who was a U.S. Army officer and engineer who surveyed the area in the late 19th century. The town was established as a gold mining camp in the early 1930s, and it grew to a population of around 500 during the 1940s and 1950s. However, the decline of the gold industry in the area led to a decline in population, and by the 1980s, only a few residents remained. Today, Krebs is a small, isolated community that is only accessible by air or river. It has a post office, a general store, and a few other small businesses. The town is located in a region that is rich in natural resources, including gold, oil, and gas, and there are still some mining operations in the area. However, the economy of the town is largely based on subsistence activities, such as hunting, fishing, and berry picking.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the U.S. Army unit that Krebs served in?      Answer: Krebs served in the U.S. Army.",
+                    "answer": "U.S. Army",
+                    "explanation": "Krebs did not serve in a specific unit of the U.S. Army. Instead, it was named after Captain Edwin G. Krebs, who was a U.S. Army officer and engineer who surveyed the area in the late 19th century."
+                },
+                {
+                    "question": "What was the name of the scientist who discovered the Krebs cycle in the late 19th century?     Answer: The scientist who discovered the Krebs cycle in the late 19th century was Hans Krebs.",
+                    "answer": "the late 19th century",
+                    "explanation": "The scientist who discovered the Krebs cycle in the late 19th century was Hans Krebs."
+                },
+                {
+                    "question": "What is the name of the census area in which Krebs is located?",
+                    "answer": "the Yukon-Koyukuk Census Area",
+                    "explanation": "The name of the census area in which Krebs is located is the Yukon-Koyukuk Census Area."
+                }
+            ],
+            "hops": [
+                "Enzymes",
+                "Krebs"
+            ]
+        },
+        "earth": {
+            "term": "earth",
+            "passage": "Earth is the third planet from the sun and the fifth largest planet in the solar system. It is a terrestrial planet with a diameter of approximately 12,742 km (7,918 mi). The planet's name comes from the Anglo-Saxon word for the world, and is often referred to as the world or the globe. Earth is the only planet known to support life and its atmosphere contains 21% oxygen, 78% nitrogen, and trace amounts of other gases. The planet's gravity is what holds everything on the surface in place, and its magnetic field protects living things from harmful solar radiation. Earth has one natural satellite, the Moon, which is the fifth largest moon in the solar system.",
+            "qae_pairs": [
+                {
+                    "question": "What celestial body is the passage referring to when it mentions the 'earth'?  Answer: The Moon.      The passage refers to the Moon as the celestial body that orbits the Earth.      The passage mentions the Earth multiple",
+                    "answer": "Moon",
+                    "explanation": "The passage refers to the Moon as the celestial body that orbits the Earth. The passage mentions the Earth multiple times, emphasizing its position as the third planet from the sun and the only known planet to support life. The Moon is also mentioned in the passage as the natural satellite that orbits the Earth. Therefore, the correct answer is Moon."
+                }
+            ],
+            "hops": [
+                "Alkaline",
+                "earth"
+            ]
+        }
+    }
+}

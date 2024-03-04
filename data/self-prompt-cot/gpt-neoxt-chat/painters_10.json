@@ -1,0 +1,561 @@
+{
+    "first_hops": {
+        "Claude": {
+            "term": "Claude",
+            "passage": "Claude is a given name. It is a French form of the English name \"Claudius\", which is derived from the Roman gens Claudia. The name was introduced into France by the Normans.",
+            "qae_pairs": [
+                {
+                    "question": "In what country is the name Claude derived from?",
+                    "answer": "France",
+                    "explanation": "Claude is a French form of the English name Claudius, which is derived from the Roman gens Claudia. The name was introduced into France by the Normans."
+                }
+            ],
+            "hops": [
+                "Claude"
+            ]
+        },
+        "Monet": {
+            "term": "Monet",
+            "passage": "Monet Claude-Camille (French pronunciation: ​[monɑ̃ ˈkloʁe ʔkamjʁi]; French: [moɲɑ̃ klouʀ ɡamʁi]; English: [mohˈnɛ]; 7 December 1840 – 29 December 1926) was a French Impressionist painter and a pivotal figure in the development of 20th-century art. He is considered by some to be the father of modern art. His best-known series of work, the Water Lilies, are some of the most reproduced images in art history. He is often referred to as the \\\"father of impressionism\\\" or the \\\"father of post-impressionism\\\", although he himself rejected these labels. He was one of the first artists to abandon the detailed, carefully composed studio painting in favor of painting en plein air, or in the open air, and his later works are noted for their broken color and light effects. Monet is considered one of the most important and influential artists of the late 19th and early 20th centuries. He is often ranked among the most important artists of the 19th century and one of the most influential artists of all time, and he is sometimes called the \"Leonardo of the 20th century\".",
+            "qae_pairs": [
+                {
+                    "question": "What is the date of birth of the person who is considered by some to be the father of modern art?",
+                    "answer": "7 December 1840",
+                    "explanation": "Claude Monet was born on 7 December 1840."
+                },
+                {
+                    "question": "What was the date of death of the artist who was born on 7 December 1840?",
+                    "answer": "29 December 1926",
+                    "explanation": "Claude Monet was born on 7 December 1840 and died on 29 December 1926."
+                }
+            ],
+            "hops": [
+                "Monet"
+            ]
+        },
+        "Vincent": {
+            "term": "Vincent",
+            "passage": "Vincent van Gogh, also spelled van Goch, (30 March 1853 – 29 March 1890) was a Dutch post-Impressionist painter. He is considered one of the most influential figures in the development of 20th-century art. He was born in Zundert, in the southern province of North Brabant, as the son of a Protestant minister. Van Gogh moved to Amsterdam to study theology but was unable to accept a life of duty and discipline and was baptized a Roman Catholic in 1875. He worked as an art dealer and submitted paintings to art salons, but struggled to make a living. In 1886, he moved to the village of Nuenen, where he was inspired by the surrounding countryside to produce some of his most memorable works. He suffered from mental illness throughout his life, and died in 1890, aged 37, following a gunshot wound inflicted by his friend and fellow artist, painter Paul Gauguin. Van Gogh's work had little impact during his lifetime, but in the years following his death, he became widely admired. His reputation has grown steadily since the late 20th century and he is now widely regarded as one of the most significant figures in the history of art, and one of the most popular and influential painters of all time. He was an extremely prolific artist, completing about 2,200 paintings in his lifetime. He left behind about 1,800 paintings and 800 drawings.",
+            "qae_pairs": [
+                {
+                    "question": "Where was Vincent van Gogh born?",
+                    "answer": "North Brabant",
+                    "explanation": "Vincent van Gogh was born in Zundert, in the southern province of North Brabant."
+                },
+                {
+                    "question": "Question: What was the name of the person who shot Vincent van Gogh?",
+                    "answer": "Paul Gauguin",
+                    "explanation": "In 1890, Vincent van Gogh was shot by his friend and fellow artist, Paul Gauguin."
+                },
+                {
+                    "question": "What is the date of birth of the person who was born in Zundert, in the southern province of North Brabant?",
+                    "answer": "30 March 1853",
+                    "explanation": "Vincent van Gogh was born on 30 March 1853 in Zundert, in the southern province of North Brabant."
+                }
+            ],
+            "hops": [
+                "Vincent"
+            ]
+        },
+        "Gogh": {
+            "term": "Gogh",
+            "passage": "Johan Georges Gogh (Dutch: [ˈɣoɦ]; French: [ɡo]; 1 March 1869 – 29 July 1890) was a Dutch post-Impressionist artist born and raised in Zundert, in the province of North Brabant in the southern part of the Netherlands. He is widely regarded as one of the greatest painters of all time.",
+            "qae_pairs": [
+                {
+                    "question": "Where was the artist born and raised?",
+                    "answer": "Zundert",
+                    "explanation": "Johan Georges Gogh was born and raised in Zundert, in the province of North Brabant in the southern part of the Netherlands."
+                },
+                {
+                    "question": "In which country was Johan Georges Gogh born?",
+                    "answer": "Netherlands",
+                    "explanation": "Johan Georges Gogh was born in the Netherlands."
+                },
+                {
+                    "question": "Where was Johan Georges Gogh born?",
+                    "answer": "North Brabant",
+                    "explanation": "Johan Georges Gogh was born in Zundert, in the province of North Brabant in the southern part of the Netherlands."
+                }
+            ],
+            "hops": [
+                "Gogh"
+            ]
+        },
+        "Paul": {
+            "term": "Paul",
+            "passage": "Paul is a fictional character from the television series \"The Walking Dead\" and is portrayed by actor Chandler Riggs. He is a child actor who plays the role of Carl Grimes, the son of Rick Grimes and Lori Grimes.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the character who is the father of the character who plays the role of Carl Grimes?",
+                    "answer": "Rick Grimes",
+                    "explanation": "The character who plays the role of Carl Grimes is the son of the character who plays the role of Rick Grimes."
+                },
+                {
+                    "question": "Who is the mother of Carl Grimes?",
+                    "answer": "Lori Grimes",
+                    "explanation": "Carl Grimes is the son of Rick Grimes and Lori Grimes."
+                },
+                {
+                    "question": "Who is the actor who plays the character of Paul?",
+                    "answer": "Chandler Riggs",
+                    "explanation": "Chandler Riggs is the actor who plays the character of Paul."
+                }
+            ],
+            "hops": [
+                "Paul"
+            ]
+        },
+        "Cézanne": {
+            "term": "Cézanne",
+            "passage": "Jean-Paul Cézanne (/ˈtʃɑːnə/; French: [ʒɑ̃ paʁ ʃɛzɑ̃]; 22 October 1839 – 22 January 1906) was a French artist who is considered one of the key figures in the development of modern art. [1] He is particularly noted for developing the concept of painting \"nature itself\" (l'essence de la réalité), which was a major influence on the development of cubism and post-impressionism. [2] He worked in a variety of media including oil painting, watercolor, drawing, and printmaking. Cézanne was a prolific artist and his oeuvre includes over 2,000 works, many of which have been lost. [3] He is also known for being a perfectionist and often working on the same painting for years. [4]\nCézanne's early life was shaped by his family's financial difficulties, and by his father's death when he was eleven. He began his art studies in Aix-en-Provence and later attended the École des Beaux-Arts in Paris. [5] He became a professor of drawing there from 1879 to his death in 1906.",
+            "qae_pairs": [
+                {
+                    "question": "What year did Cézanne become a professor of drawing?",
+                    "answer": "1879",
+                    "explanation": "Cézanne became a professor of drawing in 1879."
+                },
+                {
+                    "question": "When was Cézanne born?",
+                    "answer": "22 October 1839",
+                    "explanation": "Jean-Paul Cézanne was born on 22 October 1839."
+                }
+            ],
+            "hops": [
+                "Cézanne"
+            ]
+        },
+        "Pablo": {
+            "term": "Pablo",
+            "passage": "Pablo Escobar was a Colombian drug lord and billionaire who became one of the wealthiest and most notorious criminals in history. He was killed by Colombian security forces on 26 December 1993. He was born on 1 January 1948, the son of Nereide Páez, a homemaker, and Gonzalo Rodríguez Gacha, a coffee farmer. His parents named him after the Colombian national hero, independence leader and general José Prudencio Padilla. He had four siblings.",
+            "qae_pairs": [
+                {
+                    "question": "What is the date of birth of the person who was the son of Gonzalo Rodríguez Gacha?",
+                    "answer": "1 January 1948",
+                    "explanation": "The person who was the son of Gonzalo Rodríguez Gacha was born on 1 January 1948."
+                },
+                {
+                    "question": "What was the date of death of the person who was born on 1 January 1948?",
+                    "answer": "26 December 1993",
+                    "explanation": "Pablo Escobar was killed by Colombian security forces on 26 December 1993."
+                },
+                {
+                    "question": "Who was the father of Pablo Escobar?",
+                    "answer": "Gonzalo Rodríguez Gacha",
+                    "explanation": "Gonzalo Rodríguez Gacha was the father of Pablo Escobar."
+                }
+            ],
+            "hops": [
+                "Pablo"
+            ]
+        },
+        "Picasso": {
+            "term": "Picasso",
+            "passage": "Pablo Picasso (Spanish: [ˈpakso]; 25 October 1881 – 8 April 1973) was a Spanish painter, sculptor, printmaker, ceramicist, and poet. He was a pivotal figure in the Modern art movement. Picasso's varied artistic output encompassed painting, sculpture, printmaking, ceramics, and drawing, and his work has been widely influential in the visual arts. He was a master of many techniques of the visual arts, including the collage of Picabia, the realism of Renoir, the naturalism of Cézanne, the still life of Matisse, and the abstraction of Braque and Gris. Picasso is regarded as one of the most important and influential artists of the 20th century. His wide-ranging work had a significant impact on the development of 20th-century art, and he is among the most celebrated painters of all time. He was a key figure in the avant-garde movements of cubism and surrealism, and his works are widely collected and exhibited. Picasso was born in Malaga, Spain, to an upper middle-class family of Italian descent. He left home at 17 and moved to Barcelona, where he was trained as a painter in a traditional academic style. He soon became a key member of the avant-garde group Les Vauvilliers. In 1901, he moved to Paris, the center of the art world.",
+            "qae_pairs": [
+                {
+                    "question": "Where was Pablo Picasso born?",
+                    "answer": "Spain",
+                    "explanation": "Picasso was born in Malaga, Spain, to an upper middle-class family of Italian descent."
+                },
+                {
+                    "question": "What is the name of the group that Picasso was a part of?",
+                    "answer": "Les Vauvilliers",
+                    "explanation": "Picasso was a member of the avant-garde group Les Vauvilliers."
+                },
+                {
+                    "question": "What century was Picasso born in?",
+                    "answer": "20th-century",
+                    "explanation": "Picasso was born in 1881, which means he was born in the 20th century."
+                },
+                {
+                    "question": "Where did Picasso live?",
+                    "answer": "Paris",
+                    "explanation": "Picasso was born in Malaga, Spain, to an upper middle-class family of Italian descent. He left home at 17 and moved to Barcelona, where he was trained as a painter in a traditional academic style. He soon became a key member of the avant-garde group Les Vauvilliers. In 1901, he moved to Paris, the center of the art world."
+                },
+                {
+                    "question": "What is the date of birth of the person who was born in Malaga, Spain?",
+                    "answer": "25 October 1881",
+                    "explanation": "Picasso was born on 25 October 1881."
+                },
+                {
+                    "question": "What century did the artist who was born in Malaga, Spain, live in?",
+                    "answer": "the 20th century",
+                    "explanation": "Picasso was born in 1881, and he lived in the 20th century."
+                },
+                {
+                    "question": "What is the date of death of the person who was born in Malaga, Spain?",
+                    "answer": "8 April 1973",
+                    "explanation": "Pablo Picasso (Spanish: [ˈpakso]; 25 October 1881 – 8 April 1973) was a Spanish painter, sculptor, printmaker, ceramicist, and poet. He was a pivotal figure in the Modern art movement. Picasso's varied artistic output encompassed painting, sculpture, printmaking, ceramics, and drawing, and his work has been widely influential in the visual arts. He was a master of many techniques of the visual arts, including the collage of Picabia, the realism of Renoir, the naturalism of Cézanne, the still life of Matisse, and the abstraction"
+                }
+            ],
+            "hops": [
+                "Picasso"
+            ]
+        },
+        "Georges": {
+            "term": "Georges",
+            "passage": "Georges Bwakira Mukirania (born 20 February 1957) is a Tanzanian CCM politician and a Member of Parliament for Chalinze constituency since 2010. He is the current Minister for Works, Transport and Communication. He also serves as the Member of Parliament for Chalinze.",
+            "qae_pairs": [
+                {
+                    "question": "What is the current title of Georges Bwakira Mukirania?",
+                    "answer": "Works, Transport and Communication",
+                    "explanation": "Georges Bwakira Mukirania is the current Minister for Works, Transport and Communication. He also serves as the Member of Parliament for Chalinze."
+                },
+                {
+                    "question": "Which year did Georges Bwakira Mukirania become a Member of Parliament?",
+                    "answer": "2010",
+                    "explanation": "Georges Bwakira Mukirania was elected as a Member of Parliament for Chalinze constituency in 2010. He is the current Minister for Works, Transport and Communication. He also serves as the Member of Parliament for Chalinze."
+                },
+                {
+                    "question": "What is the name of the institution that Georges Bwakira Mukirania serves as a member of?",
+                    "answer": "Parliament",
+                    "explanation": "Georges Bwakira Mukirania is a Tanzanian CCM politician and a Member of Parliament for Chalinze constituency since 2010. He is the current Minister for Works, Transport and Communication. He also serves as the Member of Parliament for Chalinze."
+                },
+                {
+                    "question": "What is the date of birth of Georges Bwakira Mukirania?",
+                    "answer": "20 February 1957",
+                    "explanation": "Georges Bwakira Mukirania was born on 20 February 1957."
+                }
+            ],
+            "hops": [
+                "Georges"
+            ]
+        },
+        "Seurat": {
+            "term": "Seurat",
+            "passage": "In 1879, aged 14, Georges-Pierre Seurat went to Paris, France to study at the studio of the historical painter Jean-Léon Gérôme. There he met the painter Paul Signac, with whom he would maintain a lifelong friendship. In 1882, he began his studies at the École des Beaux-Arts in Paris, where his professors included Léon Bonnat and Henri Le Secq.",
+            "qae_pairs": [
+                {
+                    "question": "Where did Georges-Pierre Seurat go to study?",
+                    "answer": "Paris",
+                    "explanation": "Georges-Pierre Seurat went to Paris, France to study at the studio of the historical painter Jean-Léon Gérôme."
+                },
+                {
+                    "question": "What is the name of the historical painter who taught Seurat at the École des Beaux-Arts?",
+                    "answer": "Jean-Léon Gérôme",
+                    "explanation": "Georges-Pierre Seurat went to Paris, France to study at the studio of the historical painter Jean-Léon Gérôme."
+                },
+                {
+                    "question": "Where did Georges-Pierre Seurat go to school?",
+                    "answer": "France",
+                    "explanation": "Georges-Pierre Seurat went to Paris, France to study at the studio of the historical painter Jean-Léon Gérôme."
+                },
+                {
+                    "question": "When did Seurat start his studies at the École des Beaux-Arts?",
+                    "answer": "1882",
+                    "explanation": "Georges-Pierre Seurat went to Paris, France to study at the studio of the historical painter Jean-Léon Gérôme. There he met the painter Paul Signac, with whom he would maintain a lifelong friendship. In 1882, he began his studies at the École des Beaux-Arts in Paris, where his professors included Léon Bonnat and Henri Le Secq."
+                },
+                {
+                    "question": "What is the name of the person who was a friend of Seurat?",
+                    "answer": "Paul Signac",
+                    "explanation": "Georges-Pierre Seurat was a French painter who was a friend of Paul Signac."
+                }
+            ],
+            "hops": [
+                "Seurat"
+            ]
+        }
+    },
+    "second_hops": {
+        "North Brabant": {
+            "term": "North Brabant",
+            "passage": "North Brabant (Dutch: Noord-Brabant) is a province in the south-eastern Netherlands, bordering Belgium. Its main city is's-Hertogenbosch. It is the largest province of the Netherlands, with a total area of 20,527 km2 (8,000 sq mi).",
+            "qae_pairs": [
+                {
+                    "question": "What is the capital of North Brabant?",
+                    "answer": "is's-Hertogenbosch",
+                    "explanation": "The capital of North Brabant is's-Hertogenbosch."
+                }
+            ],
+            "hops": [
+                "Gogh",
+                "North Brabant"
+            ]
+        },
+        "Paul Gauguin": {
+            "term": "Paul Gauguin",
+            "passage": "Paul Gauguin ( ; French: [paul gɔɡwɛ̃]; Tahitian: [pɔl̩ goɡuɲ]; 14 June 1848 – 8 May 1903) was a French post-Impressionist artist. He was one of the founders of modern painting, along with Vincent van Gogh and Henri de Toulouse-Lautrec.",
+            "qae_pairs": [
+                {
+                    "question": "What is the birth date of Paul Gauguin?",
+                    "answer": "14 June 1848",
+                    "explanation": "Paul Gauguin was born on 14 June 1848."
+                },
+                {
+                    "question": "When did Paul Gauguin die?",
+                    "answer": "8 May 1903",
+                    "explanation": "Paul Gauguin was a French post-Impressionist artist. He was one of the founders of modern painting, along with Vincent van Gogh and Henri de Toulouse-Lautrec. He died on 8 May 1903."
+                }
+            ],
+            "hops": [
+                "Vincent",
+                "Paul Gauguin"
+            ]
+        },
+        "Netherlands": {
+            "term": "Netherlands",
+            "passage": "The Netherlands (Dutch: \"Nederland\" ( listen ); Dutch pronunciation: (ˌnɛːrˈlantʃ) or (ˌnɛːrˈlant)), also informally known as Holland, is a country in Western Europe with several islands in the North Sea. The European Low Countries comprise the Netherlands, Belgium, and Luxembourg.",
+            "qae_pairs": [
+                {
+                    "question": "What is the location of the Netherlands?\n",
+                    "answer": "Western Europe",
+                    "explanation": "The Netherlands is a country in Western Europe with several islands in the North Sea."
+                },
+                {
+                    "question": "What is the name of the body of water that the Netherlands is located on?",
+                    "answer": "the North Sea",
+                    "explanation": "The Netherlands is located on the North Sea."
+                }
+            ],
+            "hops": [
+                "Gogh",
+                "Netherlands"
+            ]
+        },
+        "Rick Grimes": {
+            "term": "Rick Grimes",
+            "passage": "The character of Rick Grimes was created by author and comic book writer Robert Kirkman and artist Charlie Adlard, and first appeared in the comic \"The Walking Dead\" in 2003. [1] He is a sheriff's deputy who is given superhuman abilities after a near-fatal gunshot wound to the head.",
+            "qae_pairs": [
+                {
+                    "question": "What is the year that the character Rick Grimes was created?",
+                    "answer": "2003",
+                    "explanation": "The character of Rick Grimes was created by author and comic book writer Robert Kirkman and artist Charlie Adlard, and first appeared in the comic The Walking Dead in 2003."
+                },
+                {
+                    "question": "Who created Rick Grimes?",
+                    "answer": "Robert Kirkman",
+                    "explanation": "Robert Kirkman created the character of Rick Grimes."
+                }
+            ],
+            "hops": [
+                "Paul",
+                "Rick Grimes"
+            ]
+        },
+        "Lori Grimes": {
+            "term": "Lori Grimes",
+            "passage": "Lori Grimes (born April 19, 1971) is an American actress and producer. She is known for her roles on the television series \"Heroes\" as Tracy Strauss, \"Party of Five\" as Karen Roe and as Sarah Reeves in the film \"The Ring\".",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the character played by Lori Grimes in the television series \"Party of Five\"?",
+                    "answer": "Karen Roe",
+                    "explanation": "Lori Grimes played the character Karen Roe in the television series Party of Five."
+                },
+                {
+                    "question": "What is the date of birth of Lori Grimes?",
+                    "answer": "April 19, 1971",
+                    "explanation": "Lori Grimes was born on April 19, 1971."
+                },
+                {
+                    "question": "What is the name of the character played by Lori Grimes in the television series \"Heroes\"?",
+                    "answer": "Tracy Strauss",
+                    "explanation": "Lori Grimes played the character Tracy Strauss in the television series Heroes."
+                }
+            ],
+            "hops": [
+                "Paul",
+                "Lori Grimes"
+            ]
+        },
+        "Chandler Riggs": {
+            "term": "Chandler Riggs",
+            "passage": "Chandler Riggs (born March 26, 1992) is an American actor. He is known for his roles as Carl Grimes in the AMC horror drama series The Walking Dead (2010–present), Carl Dixon in the Netflix science fiction series The OA (2016–present), and Billy Batson / Captain Marvel in the DC Extended Universe films Shazam! (2019) and Captain Marvel (2021).",
+            "qae_pairs": [
+                {
+                    "question": "What is the date of birth of Chandler Riggs?",
+                    "answer": "March 26, 1992",
+                    "explanation": "Chandler Riggs was born on March 26, 1992."
+                },
+                {
+                    "question": "What is the name of the character Chandler Riggs played in the film Captain Marvel?",
+                    "answer": "Billy Batson / Captain Marvel",
+                    "explanation": "Chandler Riggs played the role of Billy Batson / Captain Marvel in the film Captain Marvel."
+                }
+            ],
+            "hops": [
+                "Paul",
+                "Chandler Riggs"
+            ]
+        },
+        "Gonzalo Rodríguez Gacha": {
+            "term": "Gonzalo Rodríguez Gacha",
+            "passage": "Gonzalo Rodríguez Gacha (Spanish pronunciation: [ɡonˈsaɾo ˈɾoɟeθo ˈɣaθa]; born March 19, 1951) is a Colombian drug lord and one of the wealthiest and most powerful drug traffickers of all time. He was the leader of the Medellín Cartel, one of the most prolific and successful drug trafficking organizations in history.",
+            "qae_pairs": [
+                {
+                    "question": "What is the date of birth of Gonzalo Rodríguez Gacha?",
+                    "answer": "March 19, 1951",
+                    "explanation": "Gonzalo Rodríguez Gacha was born on March 19, 1951."
+                }
+            ],
+            "hops": [
+                "Pablo",
+                "Gonzalo Rodríguez Gacha"
+            ]
+        },
+        "Spain": {
+            "term": "Spain",
+            "passage": "Spain (Spanish: España [espaˈɲa]; Basque: Espainia [espaínɐ]; Catalan: Espanya [espaˈnya]; Galician: España [espaˈnya]; Latin: Hispania; Astur-Leonese: Hispania [esˈpanɨa]), officially the Kingdom of Spain, is a sovereign state located primarily on the Iberian Peninsula. It is bordered by the Mediterranean Sea to the south, and by the Strait of Gibraltar to the north; to the east, it faces the Atlantic Ocean and to the west, it faces the Bay of Biscay and the Cantabrian Sea.",
+            "qae_pairs": [
+                {
+                    "question": "Which of the following is true of Spain?\n",
+                    "answer": "the Iberian Peninsula",
+                    "explanation": "Spain is located on the Iberian Peninsula."
+                },
+                {
+                    "question": "What is the name of the body of water that Spain shares with Morocco?",
+                    "answer": "the Strait of Gibraltar",
+                    "explanation": "Spain and Morocco share the Strait of Gibraltar."
+                },
+                {
+                    "question": "What is the name of the body of water that Spain borders to the north?",
+                    "answer": "the Atlantic Ocean",
+                    "explanation": "Spain borders the Mediterranean Sea to the south and the Atlantic Ocean to the north."
+                }
+            ],
+            "hops": [
+                "Picasso",
+                "Spain"
+            ]
+        },
+        "Paris": {
+            "term": "Paris",
+            "passage": "Paris (French: [paʁiʁ]) is the capital and most populous city of France. It has an area of 105 square kilometres (41 square miles) and a population of 2,251,621 within its administrative limits in 2013. The city is also a commune and department seat, and a major centre for finance, commerce, industry, fashion, science, and art, with a significant number of international institutions and universities.",
+            "qae_pairs": [
+                {
+                    "question": "What is the capital city of the country that Paris is located in?",
+                    "answer": "France",
+                    "explanation": "Paris is the capital and most populous city of France."
+                }
+            ],
+            "hops": [
+                "Seurat",
+                "Paris"
+            ]
+        },
+        "Works, Transport and Communication": {
+            "term": "Works, Transport and Communication",
+            "passage": "The Works, Transport and Communication Union (German: Gewerkschaft Erde-Transport- und Verkehr) was a trade union in Germany, representing transport and communication workers. The union was founded in 1949, as the successor to the Railway Transport Union, and was one of two major unions for railway workers in West Germany. In 1970, the union merged with the Union of Communication and Electrical Workers to form IG BCE.",
+            "qae_pairs": [
+                {
+                    "question": "What year was the Works, Transport and Communication Union founded?",
+                    "answer": "1949",
+                    "explanation": "The Works, Transport and Communication Union was founded in 1949, as the successor to the Railway Transport Union, and was one of two major unions for railway workers in West Germany."
+                },
+                {
+                    "question": "1. Where did the Works, Transport and Communication Union exist?\n2. What was it merged with in 1970?\n3. Who were the members of the union?\n",
+                    "answer": "IG BCE",
+                    "explanation": "The Works, Transport and Communication Union was a trade union in Germany, representing transport and communication workers. The union was founded in 1949, as the successor to the Railway Transport Union, and was one of two major unions for railway workers in West Germany. In 1970, the union merged with the Union of Communication and Electrical Workers to form IG BCE."
+                },
+                {
+                    "question": "1. What is the name of the union of the workers in Works, Transport and Communication?\n",
+                    "answer": "Gewerkschaft Erde-Transport",
+                    "explanation": "Gewerkschaft Erde-Transport- und Verkehr"
+                },
+                {
+                    "question": "Which of the following is true about the Works, Transport and Communication Union?",
+                    "answer": "West Germany",
+                    "explanation": "The Works, Transport and Communication Union was founded in 1949, as the successor to the Railway Transport Union, and was one of two major unions for railway workers in West Germany."
+                },
+                {
+                    "question": "What year did the Works, Transport and Communication Union merge with the Union of Communication and Electrical Workers to form IG BCE?",
+                    "answer": "1970",
+                    "explanation": "The Works, Transport and Communication Union merged with the Union of Communication and Electrical Workers to form IG BCE in 1970."
+                }
+            ],
+            "hops": [
+                "Georges",
+                "Works, Transport and Communication"
+            ]
+        },
+        "Parliament": {
+            "term": "Parliament",
+            "passage": "The Parliament of England was a bicameral legislature in England and Wales from the 13th century until the English Civil War. It was composed of two chambers: the House of Commons and the House of Lords. The House of Commons was elected by the lower and middle classes, and was designed to represent the interests of the people. The House of Lords was composed of members of the aristocracy, and was designed to protect the interests of the aristocracy.",
+            "qae_pairs": [
+                {
+                    "question": "Which of the following is NOT true about the Parliament of England:\n1. it was composed of two houses\n2. it was a bicameral legislature\n3. it was elected by the lower and middle classes\n4. the House of Lords was composed of members of the aristocracy\n",
+                    "answer": "the House of Commons",
+                    "explanation": "The Parliament of England was composed of two houses: the House of Commons and the House of Lords. The House of Commons was elected by the lower and middle classes, and was designed to represent the interests of the people. The House of Lords was composed of members of the aristocracy, and was designed to protect the interests of the aristocracy."
+                },
+                {
+                    "question": "What year did the English Parliament start?",
+                    "answer": "the 13th century",
+                    "explanation": "The Parliament of England was a bicameral legislature in England and Wales from the 13th century until the English Civil War. It was composed of two chambers: the House of Commons and the House of Lords. The House of Commons was elected by the lower and middle classes, and was designed to represent the interests of the people. The House of Lords was composed of members of the aristocracy, and was designed to protect the interests of the aristocracy."
+                },
+                {
+                    "question": "What is Parliament of England?\n",
+                    "answer": "Wales",
+                    "explanation": "The Parliament of England was a bicameral legislature in England and Wales from the 13th century until the English Civil War. It was composed of two chambers: the House of Commons and the House of Lords. The House of Commons was elected by the lower and middle classes, and was designed to represent the interests of the people. The House of Lords was composed of members of the aristocracy, and was designed to protect the interests of the aristocracy."
+                }
+            ],
+            "hops": [
+                "Georges",
+                "Parliament"
+            ]
+        },
+        "Jean-Léon Gérôme": {
+            "term": "Jean-Léon Gérôme",
+            "passage": "Jean-Léon Gérôme (French pronunciation: ​[ʒɑ̃ lɛɔ̃ ʒɛʁɔ̃]; 9 January 1824 – 20 January 1904) was a French painter and sculptor. He is considered to be one of the most important artists of the French academic tradition.",
+            "qae_pairs": [
+                {
+                    "question": "What is the date of birth of Jean-Léon Gérôme?",
+                    "answer": "9 January 1824",
+                    "explanation": "Jean-Léon Gérôme was born on 9 January 1824."
+                }
+            ],
+            "hops": [
+                "Seurat",
+                "Jean-Léon Gérôme"
+            ]
+        },
+        "France": {
+            "term": "France",
+            "passage": "France (French: [ʁaŋs fɛʁɑ̃]), officially the French Republic (French: [ʁɑ̃s lɛpʁɛtik rɛjtifrɛ̃]), is a country with territory in Western Europe and several overseas regions and territories. The European, or metropolitan, area of France extends from the Mediterranean Sea to the English Channel and the North Atlantic Ocean, and from the Rhine to the Atlantic coast of the Strait of Gibraltar (about 2000 kilometres, or 1,200 mi, in length).",
+            "qae_pairs": [
+                {
+                    "question": "What is the location of the Strait of Gibraltar in France?\n",
+                    "answer": "the Strait of Gibraltar",
+                    "explanation": "The Strait of Gibraltar is located in France."
+                },
+                {
+                    "question": "What is the location of France?",
+                    "answer": "Western Europe",
+                    "explanation": "France is a country with territory in Western Europe and several overseas regions and territories."
+                },
+                {
+                    "question": "What is the name of the body of water that France borders?",
+                    "answer": "the Mediterranean Sea",
+                    "explanation": "France borders the Mediterranean Sea."
+                }
+            ],
+            "hops": [
+                "Seurat",
+                "France"
+            ]
+        },
+        "Paul Signac": {
+            "term": "Paul Signac",
+            "passage": "The Paul Signac Foundation (in French: Fondation Paul Signac) was established in 1932 in Neuilly-sur-Seine, Hauts-de-Seine (France) by Paul Signac's widow, Marthe de Signac-Signac, and his daughter, Yvonne Signac, to promote the work and research of Paul Signac.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the person who established Paul Signac foundation?\n",
+                    "answer": "Marthe de Signac-Signac",
+                    "explanation": "The Paul Signac Foundation was established in 1932 in Neuilly-sur-Seine, Hauts-de-Seine (France) by Marthe de Signac-Signac and her daughter, Yvonne Signac, to promote the work and research of Paul Signac."
+                },
+                {
+                    "question": "Where is the Paul Signac Foundation located?",
+                    "answer": "Hauts-de-Seine",
+                    "explanation": "The Paul Signac Foundation (in French: Fondation Paul Signac) was established in 1932 in Neuilly-sur-Seine, Hauts-de-Seine (France) by Paul Signac's widow, Marthe de Signac-Signac, and his daughter, Yvonne Signac, to promote the work and research of Paul Signac."
+                },
+                {
+                    "question": "What year was the foundation of the Paul Signac Foundation?",
+                    "answer": "1932",
+                    "explanation": "The Paul Signac Foundation was established in 1932 in Neuilly-sur-Seine, Hauts-de-Seine (France) by Paul Signac's widow, Marthe de Signac-Signac, and his daughter, Yvonne Signac, to promote the work and research of Paul Signac."
+                }
+            ],
+            "hops": [
+                "Seurat",
+                "Paul Signac"
+            ]
+        }
+    }
+}

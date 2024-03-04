@@ -1,0 +1,761 @@
+{
+    "first_hops": {
+        "Mozart's Symphony No.": {
+            "term": "Mozart's Symphony No.",
+            "passage": "Mozart's Symphony No. 40 in G minor, K. 550, is a symphony in four movements composed by Wolfgang Amadeus Mozart in 1788. It is the last of Mozart's symphonies and is generally considered one of his greatest works. The symphony is notable for its use of thematic material that is introduced in the opening movement and then developed throughout the work. The second movement is a slow and expressive andante, while the third movement is a minuet and trio. The final movement is a presto, marked by its energetic and virtuosic writing for the orchestra. The symphony was premiered in a private performance in Vienna in late 1788 and was not published until after Mozart's death. It has since become one of the most widely performed and recorded symphonies in the classical repertoire.",
+            "qae_pairs": [
+                {
+                    "question": "Who composed Mozart's Symphony No. 40 in G minor, K. 550?",
+                    "answer": "Wolfgang Amadeus Mozart",
+                    "explanation": "The symphony is notable for its use of thematic material that is introduced in the opening movement and then developed throughout the work. The symphony was premiered in a private performance in Vienna in late 1788 and was not published until after Mozart's death. It has since become one of the most widely performed and recorded symphonies in the classical repertoire."
+                },
+                {
+                    "question": "What is the capital of Austria?",
+                    "answer": "Vienna",
+                    "explanation": "Mozart's Symphony No. 40 in G minor, K. 550, is a symphony in four movements composed by Wolfgang Amadeus Mozart in 1788. It is the last of Mozart's symphonies and is generally considered one of his greatest works. The symphony is notable for its use of thematic material that is introduced in the opening movement and then developed throughout the work. The second movement is a slow and expressive andante, while the third movement is a minuet and trio."
+                }
+            ],
+            "hops": [
+                "Mozart's Symphony No."
+            ]
+        },
+        "Beethoven's Symphony No.": {
+            "term": "Beethoven's Symphony No.",
+            "passage": "Beethoven's Symphony No. 9 in D minor, Op. 125, also known as the Choral Symphony, is a musical composition by Ludwig van Beethoven, composed between 1822 and 1824. It is the final complete symphony that Beethoven wrote, and one of his most famous works. The symphony is scored for a large orchestra, including a chorus in the final movement. The symphony is in four movements, with the fourth movement being the famous \"Ode to Joy\" which sets Friedrich Schiller's poem \"An die Freude\" to music. The \"Ode to Joy\" movement is widely considered to be one of the greatest musical compositions of all time, and is often performed on its own as a standalone piece. The first movement, marked \"Allegro ma non troppo, un poco maestoso\" (Lively but not too much, a little majestic), begins with a slow introduction in the cellos and basses, followed by a fast-paced main theme played by the full orchestra. The movement is in sonata form, with a development section that includes a fugato section. The second movement, marked \"Scherzo: Molto vivace – Presto\" (Very lively – Very fast), is a scherzo and trio in D minor. The trio section is in D major, and features a beautiful melody played by the clarinets and bassoons.",
+            "qae_pairs": [
+                {
+                    "question": "What is Beethoven's Symphony No. 9 in D minor, Op. 125, also known as?",
+                    "answer": "the Choral Symphony",
+                    "explanation": "The symphony is scored for a large orchestra, including a chorus in the final movement."
+                }
+            ],
+            "hops": [
+                "Beethoven's Symphony No."
+            ]
+        },
+        "Bach's Brandenburg Concerto No.": {
+            "term": "Bach's Brandenburg Concerto No.",
+            "passage": "Bach's Brandenburg Concerto No. 3 in G major, BWV 1048, is a concerto for violino piccolo, flute, oboe, violin, viola, and continuo. It is one of the six Brandenburg Concertos, composed by Johann Sebastian Bach in 1721 and dedicated to Christian Ludwig, Margrave of Brandenburg. The concerto is scored for a small ensemble of solo instruments and continuo, and is one of the most popular and frequently performed of all Baroque instrumental works. The concerto is in three movements: 1. Allegro 2. Adagio 3. Presto The first movement, in sonata form, is notable for its use of the violino piccolo, a small, high-pitched violin that was a popular instrument in the Baroque era. The movement is characterized by its lively and energetic melodies, and features a prominent role for the violino piccolo. The second movement, in the key of G major, is a slow and expressive adagio. It features a beautiful and melodic oboe solo, accompanied by a delicate and expressive accompaniment from the other instruments. The final movement, in presto tempo, is a fast and energetic dance movement. It features a lively and playful melody, and is characterized by its virtuosic solo passages for the various instruments. Overall, Bach's Brandenburg Concerto No. 3 is a masterpiece of Baroque music, and is widely regarded as one of the greatest instrumental works of all time.",
+            "qae_pairs": [
+                {
+                    "question": "Who did Bach dedicate the Brandenburg Concerto No. 3 to?",
+                    "answer": "Christian Ludwig",
+                    "explanation": "The concerto is scored for a small ensemble of solo instruments and continuo, and is one of the most popular and frequently performed of all Baroque instrumental works."
+                },
+                {
+                    "question": "What is the name of the composer of the Brandenburg Concerto No. 3? 2. Which of the following instruments is NOT featured in Bach's Brandenburg Concerto No. 3? a) Flute b) Violin c) Viola d) Harp Answer",
+                    "answer": "Johann Sebastian Bach",
+                    "explanation": "The concerto is scored for a small ensemble of solo instruments and continuo, and is one of the most popular and frequently performed of all Baroque instrumental works. This sentence is an evidence sentence because it provides information about the Brandenburg Concerto No. 3, specifically its scoring and popularity. It is relevant to the question because it answers what the Brandenburg Concerto No. 3 is and why it is important."
+                },
+                {
+                    "question": "What is the name of the style of music that was popular in Europe during the 17th and 18th centuries?",
+                    "answer": "Baroque",
+                    "explanation": "The concerto is scored for a small ensemble of solo instruments and continuo, and is one of the most popular and frequently performed of all Baroque instrumental works. Evidence sentence: The concerto is scored for a small ensemble of solo instruments and continuo."
+                },
+                {
+                    "question": "What is the name of the six concertos that Johann Sebastian Bach composed in 1721 and dedicated to Christian Ludwig, Margrave of Brandenburg?",
+                    "answer": "Brandenburg Concertos",
+                    "explanation": "The concerto is scored for a small ensemble of solo instruments and continuo, and is one of the most popular and frequently performed of all Baroque instrumental works."
+                },
+                {
+                    "question": "What is the name of the concerto for violino piccolo, flute, oboe, violin, viola, and continuo composed by Johann Sebastian Bach in 1721 and dedicated to Christian Ludwig, Margrave of Brandenburg?",
+                    "answer": "Brandenburg Concerto No",
+                    "explanation": "The concerto is scored for a small ensemble of solo instruments and continuo, and is one of the most popular and frequently performed of all Baroque instrumental works. Answer: The concerto is scored for a small ensemble of solo instruments and continuo, and is one of the most popular and frequently performed of all Baroque instrumental works."
+                },
+                {
+                    "question": "'What year was Bach's Brandenburg Concerto No. 3 composed?'",
+                    "answer": "1721",
+                    "explanation": "The concerto is scored for a small ensemble of solo instruments and continuo, and is one of the most popular and frequently performed of all Baroque instrumental works. Rationale: The passage mentions that the Brandenburg Concerto No. 3 is scored for a small ensemble of solo instruments and continuo, and is one of the most popular and frequently performed of all Baroque instrumental works. This information provides evidence for the question about the composition year of the concerto."
+                }
+            ],
+            "hops": [
+                "Bach's Brandenburg Concerto No."
+            ]
+        },
+        "Handel's Water Music Suite": {
+            "term": "Handel's Water Music Suite",
+            "passage": "Handel's Water Music Suite is a collection of orchestral movements composed by George Frideric Handel. It was composed for King George I of Great Britain and was performed on a barge on the River Thames in London on July 17, 1717. The suite is one of Handel's most famous works and is considered a masterpiece of Baroque music. The Water Music Suite consists of four movements:  1. Ouverture: This movement is in the key of G major and is marked \"Alla Hornpipe.\" It features a lively, upbeat melody and is often used as a theme for television and film. 2. Air: This movement is in the key of D major and is marked \"Larghetto.\" It is a slower, more contemplative piece that features a beautiful melody played by the oboes and bassoons. 3. Sarabande: This movement is in the key of G minor and is marked \"Lento.\" It is a stately dance that features a slow, mournful melody played by the cellos and basses. 4. Bourrée: This movement is in the key of D major and is marked \"Allemande.\" It is a lively dance that features a fast, upbeat melody played by the violins and trumpets. The Water Music Suite is known for its lively and energetic melodies, as well as its use of contrasting tempos and moods. It is a popular choice for orchestral performances and is often used in film and television.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the period of music history that produced the Water Music Suite?",
+                    "answer": "Baroque",
+                    "explanation": "The Water Music Suite is one of Handel's most famous works and is considered a masterpiece of Baroque music. Explanation: This sentence explains that the Water Music Suite is a masterpiece of Baroque music, which is a period of music history that produced the suite."
+                },
+                {
+                    "question": "\"What is the capital city of England?\"",
+                    "answer": "London",
+                    "explanation": "The Water Music Suite is known for its lively and energetic melodies, as well as its use of contrasting tempos and moods. It is a popular choice for orchestral performances and is often used in film and television."
+                },
+                {
+                    "question": "Which river is the Water Music Suite associated with? 번역결과   Handel의 Water Music Suite는 세 번의 악송과 함께 오케스트라에 의해",
+                    "answer": "the River Thames",
+                    "explanation": "The Water Music Suite is one of Handel's most famous works and is considered a masterpiece of Baroque music. 번역결과    Water Music Suite는 바로코드 음악의 건축물이자 유명한 작품 중 하나이며 고유한 음악 건축물로 간주됩니다."
+                },
+                {
+                    "question": "Who composed Handel's Water Music Suite?",
+                    "answer": "George Frideric Handel",
+                    "explanation": "The Water Music Suite is known for its lively and energetic melodies, as well as its use of contrasting tempos and moods. Answer: The Water Music Suite is known for its lively and energetic melodies, as well as its use of contrasting tempos and moods."
+                }
+            ],
+            "hops": [
+                "Handel's Water Music Suite"
+            ]
+        },
+        "Tchaikovsky's Symphony No.": {
+            "term": "Tchaikovsky's Symphony No.",
+            "passage": "Tchaikovsky's Symphony No. 6 in B minor, Op. 74, popularly known as the Pathétique, was composed in 1893 and premiered in St. Petersburg on October 28 (October 16 O.S. ), 1893, less than a month before the composer's death. The symphony is one of Tchaikovsky's most popular works and is considered one of his finest compositions. The Pathétique is scored for an orchestra consisting of flutes, oboes, clarinets, bassoons, horns, trumpets, trombones, timpani, and strings. The work is in four movements: 1. Andante lamentoso – Allegro non troppo 2. Allegro con anima 3. Andante maestoso – Allegro vivo 4. Adagio lamentoso – Andante – Adagio lamentoso – Andante – Adagio non troppo – Allegro con spirito The first movement is marked by a melancholic and introspective mood, with a melody that is both haunting and memorable. The second movement is a lively and energetic scherzo, while the third movement is a grand and majestic march. The final movement is a complex and emotional work, with a melody that is both mournful and triumphant. Tchaikovsky himself described the symphony as \"a work of deep and sincere emotion, expressing both grief and consolation.\" The composer's own personal struggles with depression and anxiety are believed to have influenced the melancholic and introspective nature of the work.",
+            "qae_pairs": [
+                {
+                    "question": "'What year was Tchaikovsky's Symphony No. 6 in B minor, Op. 74, popularly known as the Pathétique, premiered?' Passage about Tchaikovsky's Symphony No.: Tchaikovsky's Symphony",
+                    "answer": "1893",
+                    "explanation": "The symphony is one of Tchaikovsky's most popular works and is considered one of his finest compositions. Evidence sentence: The Pathétique is scored for an orchestra consisting of flutes, oboes, clarinets, bassoons, horns, trumpets, trombones, timpani, and strings. The work is in four movements: 1. Andante lamentoso – Allegro non troppo 2. Allegro con anima 3. Andante maestoso – Allegro vivo 4."
+                },
+                {
+                    "question": "\"What is the title of the fourth movement of Tchaikovsky's Symphony No. 6?\"",
+                    "answer": "Adagio",
+                    "explanation": "The first movement is marked by a melancholic and introspective mood, with a melody that is both haunting and memorable."
+                },
+                {
+                    "question": "What is the title of a popular Russian composer of the Romantic era?",
+                    "answer": "Tchaikovsky",
+                    "explanation": "The Pathétique is scored for an orchestra consisting of flutes, oboes, clarinets, bassoons, horns, trumpets, trombones, timpani, and strings. This sentence is an evidence sentence because it provides specific information about the composition of the orchestra for Tchaikovsky's Symphony No. 6 in B minor, Op. 74, also known as the Pathétique."
+                },
+                {
+                    "question": "\"In which city did Tchaikovsky's Symphony No. 6 in B minor, Op. 74, premiered?\"",
+                    "answer": "St. Petersburg",
+                    "explanation": "The symphony is in four movements: 1. Andante lamentoso – Allegro non troppo 2. Allegro con anima 3. Andante maestoso – Allegro vivo 4. Adagio lamentoso – Andante – Adagio lamentoso – Andante – Adagio non troppo – Allegro con spirito This sentence is an evidence sentence because it provides specific details about the structure of Tchaikovsky's Symphony No. 6 in B minor, Op."
+                },
+                {
+                    "question": "",
+                    "answer": "Pathétique",
+                    "explanation": "The Pathétique is scored for an orchestra consisting of flutes, oboes, clarinets, bassoons, horns, trumpets, trombones, timpani, and strings."
+                },
+                {
+                    "question": "In which year was Tchaikovsky's Symphony No. 6 in B minor, Op. 74, premiered?",
+                    "answer": "October 28",
+                    "explanation": "The Pathétique is scored for an orchestra consisting of flutes, oboes, clarinets, bassoons, horns, trumpets, trombones, timpani, and strings. This sentence provides evidence that the symphony was composed for a standard orchestra with the mentioned instruments."
+                },
+                {
+                    "question": "'What is the tempo marking of the first movement of Tchaikovsky's Symphony No. 6?'",
+                    "answer": "Allegro",
+                    "explanation": "The first movement of Tchaikovsky's Symphony No. 6 is marked by a melancholic and introspective mood, with a melody that is both haunting and memorable."
+                }
+            ],
+            "hops": [
+                "Tchaikovsky's Symphony No."
+            ]
+        },
+        "Vivaldi's The Four Seasons": {
+            "term": "Vivaldi's The Four Seasons",
+            "passage": "Vivaldi's The Four Seasons, Op. 8, RV 297, is a set of four violin concertos, each of which gives a musical expression to a season of the year. The concerto is scored for solo violin, strings, and basso continuo and is usually titled after its opening movement, which depicts winter. The work was published in 1725 and is considered one of Vivaldi's greatest works and one of the greatest examples of Baroque music. The Four Seasons is a staple of the violin repertoire and has been widely recorded and transcribed for various instruments. The work consists of four concerti, each containing three movements. The first concerto, \"Winter,\" depicts a group of peasants warming themselves by a fire and the violent storm that follows. The second concerto, \"Spring,\" depicts a group of country folk enjoying the new season and the joy of love. The third concerto, \"Summer,\" depicts the heat and humidity of summer, with its depiction of the barking of dogs and the buzzing of flies. The final concerto, \"Autumn,\" depicts the harvest and the hunt, with its depiction of the sound of the wind and the rustling of leaves. The Four Seasons has been widely influential and has been adapted for use in various forms of media, including films, television shows, and video games. The work has also been used as a source of inspiration for various artists, including painters and poets. The Four Seasons is considered one of the greatest works of Baroque music and is a staple of the classical music repertoire.",
+            "qae_pairs": [
+                {
+                    "question": "'What is the fourth movement of Vivaldi's The Four Seasons called?' Passage about the history of the piano: The piano is a musical instrument that was invented in the early 18th century. It is a keyboard instrument that is played by pressing keys that cause hammers",
+                    "answer": "Autumn",
+                    "explanation": "The Four Seasons is considered one of the greatest works of Baroque music and is a staple of the classical music repertoire. Explanation: The given evidence sentence is extracted from the passage and serves as an explanation of the significance of Vivaldi's The Four Seasons in the classical music repertoire. It provides a summary of the work's status as one of the greatest examples of Baroque music and its importance in the classical music canon."
+                },
+                {
+                    "question": "What is the name of the fourth movement of Vivaldi's The Four Seasons?",
+                    "answer": "Summer",
+                    "explanation": "The Four Seasons is a staple of the violin repertoire and has been widely recorded and transcribed for various instruments. Evidence sentence: The Four Seasons is a staple of the violin repertoire and has been widely recorded and transcribed for various instruments. Explanation: This evidence sentence explains that The Four Seasons is a well-known and frequently performed piece of music, especially on the violin, and has been recorded and adapted for use on various instruments."
+                },
+                {
+                    "question": "What year was Vivaldi's The Four Seasons published?",
+                    "answer": "1725",
+                    "explanation": "The Four Seasons, Op. 8, RV 297, is a set of four violin concertos, each of which gives a musical expression to a season of the year."
+                },
+                {
+                    "question": "What is the period of classical music that is characterized by ornate and elaborate music and art?",
+                    "answer": "Baroque",
+                    "explanation": "The Four Seasons is considered one of the greatest works of Baroque music and is a staple of the classical music repertoire."
+                },
+                {
+                    "question": "Which of Vivaldi's works is a set of four violin concertos, each of which gives a musical expression to a season of the year?",
+                    "answer": "The Four Seasons",
+                    "explanation": "The Four Seasons is a set of four violin concertos, each of which gives a musical expression to a season of the year."
+                },
+                {
+                    "question": "What is the title of the work that Vivaldi's The Four Seasons is a part of?",
+                    "answer": "Op. 8",
+                    "explanation": "The work was published in 1725 and is considered one of Vivaldi's greatest works and one of the greatest examples of Baroque music."
+                },
+                {
+                    "question": "What is the title of the first movement of Vivaldi's The Four Seasons?",
+                    "answer": "winter",
+                    "explanation": "The concerto is scored for solo violin, strings, and basso continuo and is usually titled after its opening movement, which depicts winter."
+                },
+                {
+                    "question": "Who composed The Four Seasons?",
+                    "answer": "Vivaldi",
+                    "explanation": "Vivaldi's The Four Seasons, Op. 8, RV 297, is a set of four violin concertos, each of which gives a musical expression to a season of the year."
+                }
+            ],
+            "hops": [
+                "Vivaldi's The Four Seasons"
+            ]
+        },
+        "Schubert's \"Ave Maria\"": {
+            "term": "Schubert's \"Ave Maria\"",
+            "passage": "Schubert's \"Ave Maria\" is a popular and much-recorded setting of the Latin text \"Ave Maria\" for soprano voice and piano, composed by Franz Schubert in 1825 as part of his Op. 52 song cycle \"Winterreise\". The song's melody has been used as a basis for many variations and arrangements, and it has been recorded by numerous singers and instrumentalists. The song's lyrics are a prayer to the Virgin Mary, asking for her intercession and protection. The melody is simple and beautiful, with a haunting quality that has made it a favorite of audiences and performers alike. The song is often performed in a slow and contemplative manner, with the singer using expressive phrasing and dynamic contrasts to convey the emotional depth of the text. The song has been arranged for a wide variety of instruments and ensembles, including orchestra, guitar, and harp. It has also been used in many films and television shows, and has become a staple of classical music concerts and recitals. Despite its popularity, \"Ave Maria\" has been the subject of controversy and debate. Some critics have argued that Schubert's setting is not truly a setting of the \"Ave Maria\" prayer, as it omits some of the traditional text and adds new words of Schubert's own. Others have objected to the song's use in secular contexts, arguing that it is a sacred text that should be treated with respect and not used for commercial or entertainment purposes.",
+            "qae_pairs": [
+                {
+                    "question": "What year was Schubert's \"Ave Maria\" composed?",
+                    "answer": "1825",
+                    "explanation": "Schubert's Ave Maria is a popular and much-recorded setting of the Latin text Ave Maria for soprano voice and piano, composed by Franz Schubert in 1825 as part of his Op. 52 song cycle Winterreise."
+                },
+                {
+                    "question": "Who composed Schubert's \"Ave Maria\"?",
+                    "answer": "Franz Schubert",
+                    "explanation": "The song's melody has been used as a basis for many variations and arrangements, and it has been recorded by numerous singers and instrumentalists. The evidence sentence explains that Schubert's Ave Maria is a popular and much-recorded setting of the Latin text Ave Maria for soprano voice and piano, composed by Franz Schubert in 1825 as part of his Op. 52 song cycle Winterreise."
+                }
+            ],
+            "hops": [
+                "Schubert's \"Ave Maria\""
+            ]
+        },
+        "Chopin's Piano Concerto No.": {
+            "term": "Chopin's Piano Concerto No.",
+            "passage": "Chopin's Piano Concerto No. 1 in E minor, Op. 11, was composed between 1830 and 1835, and was first performed in Warsaw in 1830. It is considered one of Chopin's most important works and a cornerstone of Romantic piano concertos. The concerto is in three movements and is scored for solo piano, two flutes, two oboes, two clarinets, two bassoons, two horns, two trumpets, timpani, and strings. The first movement, marked Allegro ma non troppo, opens with a solo piano introduction that is followed by the orchestra. The movement is in sonata form and features a melodic second theme that is played by the clarinets. The development section features a series of virtuosic passages for the soloist, including a cadenza. The movement ends with a coda that features a descending chromatic scale in the solo piano. The second movement, marked Larghetto, is a melancholic and expressive slow movement. It is in A-B-A form and features a lyrical melody that is played by the solo piano. The movement is marked by a series of expressive modulations and harmonic shifts. The third movement, marked Allegro ma non troppo, is a lively and energetic rondo. It is in sonata form and features a series of contrasting themes. The movement is marked by a series of virtuosic passages for the soloist, including a cadenza. The movement ends with a coda that features a series of rapid arpeggios in the solo piano.",
+            "qae_pairs": [
+                {
+                    "question": "'What is the tempo of the first movement of Chopin's Piano Concerto No. 1 in E minor, Op. 11?'",
+                    "answer": "Allegro",
+                    "explanation": "The first movement, marked Allegro ma non troppo, opens with a solo piano introduction that is followed by the orchestra. The movement is in sonata form and features a melodic second theme that is played by the clarinets. This sentence explains that the first movement of Chopin's Piano Concerto No. 1 in E minor, Op. 11, is marked Allegro ma non troppo, and it opens with a solo piano introduction that is followed by the orchestra."
+                },
+                {
+                    "question": "'What is the second movement of Chopin's Piano Concerto No. 1 in E minor, Op. 11, called?'",
+                    "answer": "Larghetto",
+                    "explanation": "The second movement, marked Larghetto, is a melancholic and expressive slow movement."
+                },
+                {
+                    "question": "a. Which city was Chopin born in?     b. In which year was Chopin's Piano Concerto No. 1 composed?     c. In which key is Chopin's Piano Concerto No. 1 scored?     d",
+                    "answer": "Warsaw",
+                    "explanation": "The first movement, marked Allegro ma non troppo, opens with a solo piano introduction that is followed by the orchestra."
+                }
+            ],
+            "hops": [
+                "Chopin's Piano Concerto No."
+            ]
+        },
+        "Schubert's Ave Maria": {
+            "term": "Schubert's Ave Maria",
+            "passage": "Schubert's Ave Maria is a popular song based on the Latin text Ave Maria. It was composed by Franz Schubert in 1825 as a setting of the prayer Ave Maria for four voices with accompaniment by piano or guitar. The melody is known as one of the most beautiful and famous melodies in Western classical music. The song has been recorded by many artists and has been used in various films, television shows, and advertisements. The song has also been translated into many languages and is sung in churches and by choirs around the world. The song has been arranged for various instruments and ensembles, including orchestras, and has been used in many different genres of music. The song has been covered by many artists, including Luciano Pavarotti, Andrea Bocelli, and Celine Dion. The song has also been used in many films, including The Sound of Music and The Lady in the Van. The song has been praised for its beauty and simplicity and is considered a masterpiece of Western classical music.",
+            "qae_pairs": [
+                {
+                    "question": "Schubert's Ave Maria is a popular song based on the Latin text Ave Maria. It was composed by Franz Schubert in which year?",
+                    "answer": "1825",
+                    "explanation": "The song has been arranged for various instruments and ensembles, including orchestras, and has been used in many different genres of music."
+                },
+                {
+                    "question": "Who has covered Schubert's Ave Maria?",
+                    "answer": "Celine Dion",
+                    "explanation": "The song has been covered by many artists, including Luciano Pavarotti, Andrea Bocelli, and Celine Dion."
+                },
+                {
+                    "question": "Who has recorded Schubert's Ave Maria?",
+                    "answer": "Luciano Pavarotti",
+                    "explanation": "Luciano Pavarotti, Andrea Bocelli, and Celine Dion have recorded Schubert's Ave Maria, which is considered a masterpiece of Western classical music."
+                }
+            ],
+            "hops": [
+                "Schubert's Ave Maria"
+            ]
+        },
+        "Vivaldi's Four Seasons": {
+            "term": "Vivaldi's Four Seasons",
+            "passage": "Vivaldi's Four Seasons, also known as The Four Seasons, is a set of four violin concertos, each of which gives a musical expression to a season of the year. The concertos were written around 1720 and were published in 1725 as part of a collection entitled Il cimento dell'armonia e dell'inventione (The Contest between Harmony and Invention). The work is considered to be one of the greatest examples of Baroque music. The Four Seasons is a staple of the classical music repertoire and has been widely recorded and performed. Each concerto is composed of three movements, with the first movement typically being an allegro, the second movement an adagio, and the third movement a presto or a moderato. The concertos are each named after a season of the year, with the first concerto being named \"Winter\", the second \"Spring\", the third \"Summer\", and the fourth \"Autumn\". Each concerto is written for solo violin, strings, and basso continuo, with the solo violin part being highly virtuosic and expressive. The concertos are known for their vivid and evocative descriptions of the natural world, with each concerto depicting the sights and sounds of its respective season. For example, in the \"Winter\" concerto, the solo violin imitates the sound of a barking dog, while in the \"Summer\" concerto, the solo violin imitates the sound of a bird singing. The Four Seasons has been widely influential in the history of classical music, and has been cited as an inspiration for many later composers, including Mozart and Beethoven.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the set of four violin concertos written by Antonio Vivaldi around 1720, each of which gives a musical expression to a season of the year?",
+                    "answer": "Four Seasons",
+                    "explanation": "The Four Seasons is a staple of the classical music repertoire and has been widely recorded and performed."
+                },
+                {
+                    "question": "What year were Vivaldi's Four Seasons published?",
+                    "answer": "1725",
+                    "explanation": "The concertos were written around 1720 and were published in 1725 as part of a collection entitled Il cimento dell'armonia e dell'inventione (The Contest between Harmony and Invention)."
+                },
+                {
+                    "question": "What year were Vivaldi's Four Seasons written?",
+                    "answer": "1720",
+                    "explanation": "The concertos were written around 1720 and were published in 1725 as part of a collection entitled Il cimento dell'armonia e dell'inventione (The Contest between Harmony and Invention)."
+                },
+                {
+                    "question": "Who composed the Four Seasons?",
+                    "answer": "Vivaldi",
+                    "explanation": "The Four Seasons is a staple of the classical music repertoire and has been widely recorded and performed."
+                },
+                {
+                    "question": "Who was the composer of the famous 'Fur Elise'?",
+                    "answer": "Beethoven",
+                    "explanation": "The Four Seasons is a staple of the classical music repertoire and has been widely recorded and performed. Each concerto is composed of three movements, with the first movement typically being an allegro, the second movement an adagio, and the third movement a presto or a moderato. The concertos are each named after a season of the year, with the first concerto being named Winter, the second Spring, the third Summer, and the fourth Autumn."
+                },
+                {
+                    "question": "What is the name of the style of music that was popular in Europe from the early 17th to the mid-18th century?",
+                    "answer": "Baroque",
+                    "explanation": "The Four Seasons is a staple of the classical music repertoire and has been widely recorded and performed. This sentence is an evidence sentence because it provides information about the popularity and enduring legacy of Vivaldi's Four Seasons, which is one of the greatest examples of Baroque music."
+                }
+            ],
+            "hops": [
+                "Vivaldi's Four Seasons"
+            ]
+        }
+    },
+    "second_hops": {
+        "Wolfgang Amadeus Mozart": {
+            "term": "Wolfgang Amadeus Mozart",
+            "passage": "Mozart was a prolific and influential composer of the Classical era, born in Salzburg, Austria, in 1756. He showed remarkable ability from an early age, composing his first piece of music, a minuet, when he was just five years old. Throughout his life, Mozart composed hundreds of works, including operas, symphonies, concertos, and chamber music. His compositions are known for their beauty, complexity, and emotional depth, and they continue to be performed and celebrated today. Mozart's life was cut short by his death at the age of 35, but his legacy as one of the greatest composers of all time endures.",
+            "qae_pairs": [
+                {
+                    "question": "What is the birthplace of Wolfgang Amadeus Mozart?",
+                    "answer": "Salzburg",
+                    "explanation": "Mozart was born in Salzburg, Austria, in 1756."
+                }
+            ],
+            "hops": [
+                "Mozart's Symphony No.",
+                "Wolfgang Amadeus Mozart"
+            ]
+        },
+        "Vienna": {
+            "term": "Vienna",
+            "passage": "1. Vienna is the capital and largest city of Austria, and one of the nine states of Austria. 2. It is located in the eastern part of Austria and is home to 1.8 million people, or about a quarter of the country's population. 3. Vienna is widely considered to be one of the most livable cities in the world, and has been ranked as the world's most livable city by the Economist Intelligence Unit's Global Liveability Ranking for ten consecutive years. 4. The city is known for its rich history, culture, and architecture, and is home to numerous museums, theaters, and music venues. 5. Vienna is also known for its coffeehouse culture, which dates back to the 17th century and is an integral part of the city's social and cultural life. 6. The city is home to many famous landmarks, including St. Stephen's Cathedral, the Hofburg Palace, and the Vienna State Opera. 7. Vienna is also known for its musical heritage, and is the birthplace of many famous composers, including Mozart, Beethoven, and Strauss. 8. The city is a major center for international politics and diplomacy, and is home to numerous international organizations, including the United Nations Office at Vienna and the International Atomic Energy Agency. 9. Vienna is also a major center for business and finance, and is home to many multinational corporations and banks. 10. The city is known for its high quality of life, and is consistently ranked as one of the most livable cities in the world.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the famous composer who was born in Vienna and is known for his contributions to classical music?",
+                    "answer": "Mozart",
+                    "explanation": "Vienna is widely considered to be one of the most livable cities in the world, and has been ranked as the world's most livable city by the Economist Intelligence Unit's Global Liveability Ranking for ten consecutive years. Evidence sentence: Vienna is widely considered to be one of the most livable cities in the world."
+                },
+                {
+                    "question": "What is the name of the cathedral located in Vienna?",
+                    "answer": "St. Stephen's",
+                    "explanation": "Vienna is widely considered to be one of the most livable cities in the world, and has been ranked as the world's most livable city by the Economist Intelligence Unit's Global Liveability Ranking for ten consecutive years. Answer: Vienna is widely considered to be one of the most livable cities in the world."
+                }
+            ],
+            "hops": [
+                "Mozart's Symphony No.",
+                "Vienna"
+            ]
+        },
+        "Christian Ludwig": {
+            "term": "Christian Ludwig",
+            "passage": "Christian Ludwig was a German composer and organist of the Baroque era. He was born in 1663 in the town of Quedlinburg, which was then part of the Holy Roman Empire. Ludwig was a child prodigy and began composing music at a young age. He studied music at the University of Leipzig and later became the organist at the St. Thomas Church in Leipzig. Ludwig was known for his virtuosic organ playing and his ability to improvise. He was also a prolific composer, writing music for the organ, voice, and various instrumental ensembles. His works were highly regarded by his contemporaries and have been performed and recorded by musicians ever since. Despite his success, Ludwig's personal life was marked by tragedy. He lost his wife and several children to illness, and he himself suffered from poor health in his later years. He died in 1734 in Leipzig, leaving behind a legacy as one of the most important composers and organists of his time.",
+            "qae_pairs": [
+                {
+                    "question": "What university did Christian Ludwig attend to study music?",
+                    "answer": "the University of Leipzig",
+                    "explanation": "He studied music at the University of Leipzig and later became the organist at the St. Thomas Church in Leipzig. Rationale: The evidence sentence clearly states that Christian Ludwig studied music at the University of Leipzig and later became the organist at the St. Thomas Church in Leipzig. This provides a clear explanation of his education and career as a musician. Question: What was Christian Ludwig known for? Answer: Christian Ludwig was known for his virtuosic organ playing and his ability to improvise."
+                },
+                {
+                    "question": "4. The question should be in the form of a complete sentence. What was the name of the church where Christian Ludwig served as an organist?",
+                    "answer": "the St. Thomas Church",
+                    "explanation": "He studied music at the University of Leipzig and later became the organist at the St. Thomas Church in Leipzig. Answer: Ludwig studied music at the University of Leipzig and later became the organist at the St. Thomas Church in Leipzig."
+                }
+            ],
+            "hops": [
+                "Bach's Brandenburg Concerto No.",
+                "Christian Ludwig"
+            ]
+        },
+        "Johann Sebastian Bach": {
+            "term": "Johann Sebastian Bach",
+            "passage": "Johann Sebastian Bach was a German composer and musician of the Baroque period. He is known for his contributions to the development of music, including the use of counterpoint, harmony, and improvisation. Bach's compositions include hundreds of cantatas, oratorios, and instrumental concertos, as well as vocal and choral music. He is widely considered one of the greatest composers in the history of Western classical music. Bach was born in Eisenach, Saxe-Eisenach, in 1685, and died in Leipzig, Saxony, in 1750.",
+            "qae_pairs": [
+                {
+                    "question": "What year did Johann Sebastian Bach die?",
+                    "answer": "1750",
+                    "explanation": "Bach's compositions include hundreds of cantatas, oratorios, and instrumental concertos, as well as vocal and choral music."
+                },
+                {
+                    "question": "What was the state where Johann Sebastian Bach died?",
+                    "answer": "Saxony",
+                    "explanation": "Bach's compositions include hundreds of cantatas, oratorios, and instrumental concertos, as well as vocal and choral music. Answer: Bach's compositions include hundreds of cantatas, oratorios, and instrumental concertos, as well as vocal and choral music."
+                }
+            ],
+            "hops": [
+                "Bach's Brandenburg Concerto No.",
+                "Johann Sebastian Bach"
+            ]
+        },
+        "Baroque": {
+            "term": "Baroque",
+            "passage": "Baroque is a style of art, architecture, and music that originated in Europe in the early 17th century and lasted until the mid-18th century. It is characterized by ornate and theatrical forms, often with dramatic use of light and shadow, and a tendency towards grandeur and exaggeration. Baroque art and architecture often featured intricate and ornate detail, and were often designed to impress and awe viewers. Baroque music was characterized by complex and elaborate melodies, often with multiple layers of instrumentation and vocal harmonies. The Baroque period was a time of great artistic and cultural achievement, and many of the works produced during this time are still celebrated and admired today.",
+            "qae_pairs": [
+                {
+                    "question": "What was the geographical location of the Baroque period in Europe?",
+                    "answer": "Europe",
+                    "explanation": "Baroque is a style of art, architecture, and music that originated in Europe in the early 17th century and lasted until the mid-18th century. This sentence explains that the Baroque period was a time of artistic and cultural achievement that originated in Europe and lasted for about 150 years."
+                }
+            ],
+            "hops": [
+                "Vivaldi's Four Seasons",
+                "Baroque"
+            ]
+        },
+        "Brandenburg Concertos": {
+            "term": "Brandenburg Concertos",
+            "passage": "The Brandenburg Concertos are a collection of six instrumental works composed by Johann Sebastian Bach. They were composed for a musical ensemble that consisted of strings, recorders, and horns. The concertos were named after Christian Ludwig, Margrave of Brandenburg, who was a patron of the arts. The concertos were composed between 1719 and 1721, and were dedicated to the Margrave. The Brandenburg Concertos are considered to be some of Bach's most famous works, and are widely regarded as some of the greatest works of classical music. They are known for their complex and intricate melodies, as well as their use of counterpoint. The concertos are also notable for their use of different instruments, including the violin, flute, and harpsichord. The Brandenburg Concertos have been performed and recorded by many different musicians and orchestras over the years, and continue to be a popular choice for classical music lovers.",
+            "qae_pairs": [
+                {
+                    "question": "Who composed the Brandenburg Concertos?",
+                    "answer": "Johann Sebastian Bach",
+                    "explanation": "The Brandenburg Concertos are considered to be some of Bach's most famous works, and are widely regarded as some of the greatest works of classical music."
+                }
+            ],
+            "hops": [
+                "Bach's Brandenburg Concerto No.",
+                "Brandenburg Concertos"
+            ]
+        },
+        "the River Thames": {
+            "term": "the River Thames",
+            "passage": "The River Thames is a river that flows through southern England, including London. It is the longest river in England and the second longest in the United Kingdom, after the River Severn. The Thames rises in the Cotswold Hills in Gloucestershire, and flows for 215 miles (346 km) through Oxfordshire, Buckinghamshire, and London, before emptying into the North Sea at the Thames Estuary. The river has been a major source of inspiration for writers and artists throughout history, and has played a significant role in the development of London as a major city. The Thames is also an important transport route, with many bridges and tunnels crossing the river to facilitate traffic and transportation. The river is home to a diverse range of wildlife, including fish, birds, and mammals such as the otter and the European polecat. The Thames is also a popular destination for recreational activities such as boating, fishing, and swimming.",
+            "qae_pairs": [
+                {
+                    "question": "What is the source of the River Thames?",
+                    "answer": "the Cotswold Hills",
+                    "explanation": "The Thames rises in the Cotswold Hills in Gloucestershire."
+                },
+                {
+                    "question": "What county is the River Thames located in before it flows through London?",
+                    "answer": "Oxfordshire",
+                    "explanation": "The Thames rises in the Cotswold Hills in Gloucestershire, and flows for 215 miles (346 km) through Oxfordshire, Buckinghamshire, and London, before emptying into the North Sea at the Thames Estuary. This sentence explains that the River Thames starts in Gloucestershire and flows through Oxfordshire, Buckinghamshire, and London before emptying into the North Sea at the Thames Estuary."
+                },
+                {
+                    "question": "What is the capital city of the River Thames?",
+                    "answer": "London",
+                    "explanation": "The Thames rises in the Cotswold Hills in Gloucestershire, and flows for 215 miles (346 km) through Oxfordshire, Buckinghamshire, and London, before emptying into the North Sea at the Thames Estuary."
+                }
+            ],
+            "hops": [
+                "Handel's Water Music Suite",
+                "the River Thames"
+            ]
+        },
+        "George Frideric Handel": {
+            "term": "George Frideric Handel",
+            "passage": "George Frideric Handel was a German-British Baroque composer who is famous for his operas, oratorios, and instrumental music. Born in 1685 in Halle, Germany, Handel showed a remarkable talent for music from an early age. He received his first musical education from his father, who was a barber-surgeon and a self-taught musician. Handel went on to study music in Germany and Italy, where he was exposed to the works of many great composers of the time. In 1710, Handel moved to England, where he quickly established himself as a leading composer. He became a naturalized British subject in 1727 and spent the rest of his life in England. Handel's most famous works include the operas \"Rinaldo\" and \"Tamerlano,\" the oratorios \"Messiah\" and \"Samson,\" and the Water Music and Music for the Royal Fireworks. Handel's music was characterized by its dramatic and emotional intensity, and he was known for his ability to create powerful and memorable melodies. He was also a skilled orchestrator, and his use of the orchestra was innovative and influential. Handel's music had a profound impact on the development of classical music in Europe, and he is widely regarded as one of the greatest composers of all time.",
+            "qae_pairs": [
+                {
+                    "question": "What country did George Frideric Handel visit before he moved to England?",
+                    "answer": "Italy",
+                    "explanation": "Handel went on to study music in Germany and Italy, where he was exposed to the works of many great composers of the time. Rationale: The evidence sentence explains that Handel studied music in Germany and Italy, where he was exposed to the works of many great composers of the time. This information is relevant to the question because it shows that Handel had experience with different musical styles and traditions before he moved to England. Answer: Handel studied music in Germany and Italy before he moved to England."
+                },
+                {
+                    "question": "What year did George Frideric Handel move to England?",
+                    "answer": "1710",
+                    "explanation": "In 1710, Handel moved to England, where he quickly established himself as a leading composer."
+                },
+                {
+                    "question": "What year did George Frideric Handel become a naturalized British subject?",
+                    "answer": "1727",
+                    "explanation": "Handel went on to study music in Germany and Italy, where he was exposed to the works of many great composers of the time."
+                }
+            ],
+            "hops": [
+                "Handel's Water Music Suite",
+                "George Frideric Handel"
+            ]
+        },
+        "Adagio": {
+            "term": "Adagio",
+            "passage": "Adagio is a term derived from the Italian language and refers to a slow and stately musical composition. It is typically used in the context of classical music, particularly in the Baroque era, and is often associated with the dance suite. The term adagio is also used in other forms of music, such as jazz and contemporary music. In classical music, the adagio is often used as a contrast to faster-paced movements, such as the allegro or presto. It is also used to create a sense of drama or tension, particularly in the context of a larger work, such as a symphony or concerto. The adagio is often characterized by its slow tempo, rich harmonies, and expressive melodies. It is a versatile form that can be used to convey a wide range of emotions, from melancholy to joy.",
+            "qae_pairs": [
+                {
+                    "question": "What is the origin of the term 'Adagio' in the context of classical music?",
+                    "answer": "Baroque",
+                    "explanation": "It is typically used in the context of classical music, particularly in the Baroque era, and is often associated with the dance suite. The origin of the term 'Adagio' in the context of classical music is the Baroque era."
+                }
+            ],
+            "hops": [
+                "Tchaikovsky's Symphony No.",
+                "Adagio"
+            ]
+        },
+        "Tchaikovsky": {
+            "term": "Tchaikovsky",
+            "passage": "Tchaikovsky was a Russian composer of the Romantic era. His music has been performed and recorded more than any other Russian composer. He is considered one of the greatest composers in history and was the first Russian composer whose music made a lasting impression internationally. Tchaikovsky's most famous works include the ballets Swan Lake, The Nutcracker, and Sleeping Beauty, as well as his symphonies, concertos, operas, and chamber music. He was born in Votkinsk, a small town in the Ural Mountains, and his family moved to Saint Petersburg when he was 10 years old. Tchaikovsky's music was influenced by Russian folk music and the classical music of Mozart and Beethoven. He was openly gay, which was considered scandalous at the time, and he struggled with his sexuality throughout his life. Tchaikovsky died of cholera in 1893 at the age of 53.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the town where Tchaikovsky was born?",
+                    "answer": "Votkinsk",
+                    "explanation": "Tchaikovsky was born in Votkinsk, a small town in the Ural Mountains."
+                },
+                {
+                    "question": "What was Tchaikovsky's age when he moved to Saint Petersburg?",
+                    "answer": "10 years old",
+                    "explanation": "Tchaikovsky's family moved to Saint Petersburg when he was 10 years old."
+                }
+            ],
+            "hops": [
+                "Tchaikovsky's Symphony No.",
+                "Tchaikovsky"
+            ]
+        },
+        "St. Petersburg": {
+            "term": "St. Petersburg",
+            "passage": "St. Petersburg is a city in Russia located on the Neva River at the head of the Gulf of Finland on the Baltic Sea. The city was founded by Tsar Peter the Great on May 27, 1703. It is Russia's second-largest city after Moscow, with five million inhabitants in 2021, and an important cultural center. The Historic Centre of Saint Petersburg and Related Groups of Monuments in Saint Petersburg and Leningrad Oblast is a UNESCO World Heritage Site. The city is home to many museums, including the Hermitage Museum, the Russian Museum, and the St. Petersburg State Museum of History. Saint Petersburg is also known for its theater, music, and dance, and is home to the Mariinsky Theatre and the Saint Petersburg Philharmonic Orchestra. The city is served by Pulkovo Airport, and is a major transport hub, with several railway stations and a metro system.",
+            "qae_pairs": [
+                {
+                    "question": "What body of water is St. Petersburg located on?",
+                    "answer": "the Baltic Sea",
+                    "explanation": "St. Petersburg is a city in Russia located on the Neva River at the head of the Gulf of Finland on the Baltic Sea."
+                },
+                {
+                    "question": "What is the name of the museum located in St. Petersburg that is home to over three million works of art and artifacts?",
+                    "answer": "the Hermitage Museum",
+                    "explanation": "The city is home to many museums, including the Hermitage Museum, the Russian Museum, and the St. Petersburg State Museum of History."
+                }
+            ],
+            "hops": [
+                "Tchaikovsky's Symphony No.",
+                "St. Petersburg"
+            ]
+        },
+        "Pathétique": {
+            "term": "Pathétique",
+            "passage": "The Pathétique is a symphony composed by Ludwig van Beethoven, and is the last of his nine symphonies. It is notable for its intense and emotional character, and is considered by many to be one of Beethoven's greatest works. The symphony was composed in 1807, and was dedicated to Prince Franz Joseph von Lobkowitz. The premiere performance took place on April 2, 1808, and was conducted by Beethoven himself. The Pathétique is scored for a large orchestra, and is divided into four movements. The first movement is marked \"Adagio, molto cantabile e soprano solo,\" and is characterized by its slow and mournful melody. The second movement is a scherzo, and is marked \"Allegro vivace.\" The third movement is a slow and emotional adagio, and is marked \"Adagio cantabile e piano, con affetto.\" The final movement is a triumphant and energetic finale, and is marked \"Allegro ma non troppo, un poco maestoso.\" The Pathétique is considered to be one of the greatest works of classical music, and is widely performed and recorded by orchestras and conductors around the world.",
+            "qae_pairs": [
+                {
+                    "question": "What was the name of the person who commissioned Ludwig van Beethoven to compose the Pathétique symphony?",
+                    "answer": "Franz Joseph von Lobkowitz",
+                    "explanation": "The Pathétique is a symphony composed by Ludwig van Beethoven, and is the last of his nine symphonies. It is notable for its intense and emotional character, and is considered by many to be one of Beethoven's greatest works. The symphony was composed in 1807, and was dedicated to Prince Franz Joseph von Lobkowitz."
+                },
+                {
+                    "question": "What is the name of the composer who composed the Pathétique symphony?",
+                    "answer": "Ludwig van Beethoven",
+                    "explanation": "The Pathétique is a symphony composed by Ludwig van Beethoven, and is the last of his nine symphonies."
+                }
+            ],
+            "hops": [
+                "Tchaikovsky's Symphony No.",
+                "Pathétique"
+            ]
+        },
+        "Allegro": {
+            "term": "Allegro",
+            "passage": "Allegro is a programming language that is designed to be a modern, high-level programming language that is both efficient and easy to use. It is a statically typed language that is based on C and C++, and it is designed to be fast and efficient, while also being easy to read and write. Allegro is often used for developing high-performance applications, such as video games, scientific simulations, and other demanding applications. It is also used for developing embedded systems, such as those found in cars and other devices. Allegro is known for its strong type checking, which helps to prevent errors and improve the reliability of the code. It also has a large standard library, which provides a wide range of useful functions and classes that can be used in the development of applications. Allegro is open source and is available under the MIT license, which allows it to be used and distributed freely.",
+            "qae_pairs": [
+                {
+                    "question": "What license does Allegro use?",
+                    "answer": "MIT",
+                    "explanation": "Allegro is open source and is available under the MIT license, which allows it to be used and distributed freely."
+                },
+                {
+                    "question": "What programming language is Allegro based on?",
+                    "answer": "C",
+                    "explanation": "Allegro is a programming language that is designed to be a modern, high-level programming language that is both efficient and easy to use. It is a statically typed language that is based on C and C++, and it is designed to be fast and efficient, while also being easy to read and write."
+                }
+            ],
+            "hops": [
+                "Chopin's Piano Concerto No.",
+                "Allegro"
+            ]
+        },
+        "The Four Seasons": {
+            "term": "The Four Seasons",
+            "passage": "The Four Seasons is a 1725 collection of four violin concertos by Antonio Vivaldi. Composed while Vivaldi was employed as a violin teacher at the Ospedale della Pietà in Venice, the concertos were published as part of a set of twelve concerti grossi, each of which contained twelve concertos, each for a different instrument. The Four Seasons is considered one of the greatest works of the Baroque era and is among Vivaldi's best-known compositions. Each of the four concertos is titled after a season of the year and features a programmatic description of the accompanying music. The first concerto, \"Spring,\" depicts a bird singing, flowing streams, and the sound of a barking dog. The second concerto, \"Summer,\" features a thunderstorm, a barking dog, and the sound of a distant peasant dance. The third concerto, \"Autumn,\" depicts the hunt, with a horn call and the sound of a pack of hounds. The fourth concerto, \"Winter,\" features a snowstorm, bells, and the sound of people shivering. The Four Seasons has been widely performed and recorded, and has been adapted for use in a variety of media, including ballet, film, and television.",
+            "qae_pairs": [
+                {
+                    "question": "In what city was The Four Seasons composed by Antonio Vivaldi while he was employed as a violin teacher at the Ospedale della Pietà?",
+                    "answer": "Venice",
+                    "explanation": "The Four Seasons is considered one of the greatest works of the Baroque era and is among Vivaldi's best-known compositions. Evidence sentence: The Four Seasons is considered one of the greatest works of the Baroque era and is among Vivaldi's best-known compositions."
+                }
+            ],
+            "hops": [
+                "Vivaldi's The Four Seasons",
+                "The Four Seasons"
+            ]
+        },
+        "Op. 8": {
+            "term": "Op. 8",
+            "passage": "Op. 8 is a collection of pieces for solo piano by Ludwig van Beethoven. It was published in 1797 and is dedicated to Joseph Haydn. The collection consists of six sonatas, each containing three movements. The sonatas are known for their technical difficulty and emotional depth. The first movement of the first sonata, in particular, is considered a masterpiece of Beethoven's early style. The collection was well-received upon its publication and helped establish Beethoven's reputation as a composer.",
+            "qae_pairs": [
+                {
+                    "question": "What year was Ludwig van Beethoven's Op. 8 collection of solo piano pieces published?",
+                    "answer": "1797",
+                    "explanation": "The collection is dedicated to Joseph Haydn and consists of six sonatas, each containing three movements."
+                },
+                {
+                    "question": "What is the name of the composer to whom Op. 8 is dedicated?",
+                    "answer": "Joseph Haydn",
+                    "explanation": "Op. 8 is a collection of pieces for solo piano by Ludwig van Beethoven. It was published in 1797 and is dedicated to Joseph Haydn. This evidence sentence explains that Op. 8 is a collection of pieces for solo piano by Beethoven and that it was published in 1797 and dedicated to Joseph Haydn."
+                },
+                {
+                    "question": "What is the name of the composer who dedicated Op. 8 to Joseph Haydn?",
+                    "answer": "Ludwig van Beethoven",
+                    "explanation": "The collection consists of six sonatas, each containing three movements."
+                }
+            ],
+            "hops": [
+                "Vivaldi's The Four Seasons",
+                "Op. 8"
+            ]
+        },
+        "winter": {
+            "term": "winter",
+            "passage": "Winter is the coldest season of the year in polar and temperate climates, between autumn and spring. Winter is caused by the axis of the Earth in that hemisphere being oriented away from the Sun. Different cultures define different dates as the start of winter, and some use a calendar based on astronomical observations to determine the start of the season. Winter weather conditions vary depending on the region and the season's severity. In general, they are colder and have shorter days and longer nights than the other seasons. Snow and ice are common in many areas, and in some regions, heavy snowfall can block roads and disrupt transportation. Blizzards, which are snowstorms with high winds, can also occur. In areas with severe winters, people often have to deal with freezing temperatures, icy roads, and wind chill. Winter also has its own unique beauty. Snow-covered landscapes can be breathtaking, and winter sports such as skiing, snowboarding, and ice skating are popular activities. Many people enjoy winter activities such as sledding, snowshoeing, and building snowmen. In some parts of the world, winter is a time for celebration and festivities. Christmas, Hanukkah, and Kwanzaa are all winter holidays that are celebrated around the world. In many cultures, winter is associated with gift-giving, feasting, and spending time with loved ones.",
+            "qae_pairs": [
+                {
+                    "question": "What is the reason for the colder weather conditions during winter?",
+                    "answer": "Sun",
+                    "explanation": "Winter is caused by the axis of the Earth in that hemisphere being oriented away from the Sun."
+                }
+            ],
+            "hops": [
+                "Vivaldi's The Four Seasons",
+                "winter"
+            ]
+        },
+        "Vivaldi": {
+            "term": "Vivaldi",
+            "passage": "Vivaldi was an Italian composer, violinist, and priest who lived from 1678 to 1741. He is known for his operas, concertos, and sacred music. Vivaldi was born in Venice and began his musical training as a chorister at the Pieta, a religious institution for orphaned girls. He later studied violin with the famous composer and teacher, Giovanni Legrenzi. Vivaldi's most famous work is his series of violin concertos, known as \"The Four Seasons.\" These concertos are characterized by their vivid descriptions of the changing seasons, and their popularity has made them some of the most well-known pieces in the classical repertoire. Vivaldi's music was influential in the development of the concerto form, and he is considered one of the most important composers of the Baroque period.",
+            "qae_pairs": [
+                {
+                    "question": "In which city did Vivaldi begin his musical training as a chorister?",
+                    "answer": "Venice",
+                    "explanation": "Vivaldi was born in Venice and began his musical training as a chorister at the Pieta, a religious institution for orphaned girls."
+                },
+                {
+                    "question": "What year did Vivaldi pass away?",
+                    "answer": "1741",
+                    "explanation": "Vivaldi passed away in 1741."
+                }
+            ],
+            "hops": [
+                "Vivaldi's Four Seasons",
+                "Vivaldi"
+            ]
+        },
+        "Franz Schubert": {
+            "term": "Franz Schubert",
+            "passage": "Franz Schubert was an Austrian composer. He was born in Himmelpfortgrund, Vienna, in 1797. Schubert's father was a schoolteacher, and his mother was a homemaker. He showed an early aptitude for music, and his father gave him his first music lessons. Schubert went on to study music at the Stadtkonvikt school, where he was taught by Antonio Salieri. Schubert's compositions were largely ignored during his lifetime, but he is now considered one of the greatest composers of the 19th century. He wrote over 600 lieder, or art songs, as well as symphonies, chamber music, and sacred music. His most famous works include the \"Trout\" Quintet, the \"Winterreise\" song cycle, and the \"Unfinished\" Symphony. Schubert's health was fragile, and he died at the age of 31 from syphilis. Despite his short life, he left a lasting impact on the world of music. His works continue to be performed and recorded today, and he remains a beloved figure in the world of classical music.",
+            "qae_pairs": [
+                {
+                    "question": "What year was Franz Schubert born?",
+                    "answer": "1797",
+                    "explanation": "Franz Schubert was born in Himmelpfortgrund, Vienna, in 1797."
+                },
+                {
+                    "question": "What was the cause of Franz Schubert's death?",
+                    "answer": "syphilis",
+                    "explanation": "Schubert's health was fragile, and he died at the age of 31 from syphilis."
+                },
+                {
+                    "question": "What century did Franz Schubert live in?",
+                    "answer": "the 19th century",
+                    "explanation": "Schubert's compositions were largely ignored during his lifetime, but he is now considered one of the greatest composers of the 19th century. This sentence explains that Schubert's works were not recognized during his lifetime, but now he is considered one of the greatest composers of the 19th century."
+                }
+            ],
+            "hops": [
+                "Schubert's \"Ave Maria\"",
+                "Franz Schubert"
+            ]
+        },
+        "Larghetto": {
+            "term": "Larghetto",
+            "passage": "Larghetto is a tempo indication in music, meaning \"broadly\" or \"slowly\". It is usually written as a moderate tempo, slower than andante but faster than adagio. The term is derived from the Italian word largo, meaning \"broad\" or \"spacious\". In the Baroque era, the term was used to indicate a slow tempo, but in the Classical era, it became a moderate tempo. The term is often used in string quartets, symphonies, and other classical music forms.",
+            "qae_pairs": [
+                {
+                    "question": "In which Baroque era composition is the term 'Larghetto' used to indicate a slow tempo?",
+                    "answer": "Baroque",
+                    "explanation": "In the Baroque era, the term was used to indicate a slow tempo."
+                }
+            ],
+            "hops": [
+                "Chopin's Piano Concerto No.",
+                "Larghetto"
+            ]
+        },
+        "Warsaw": {
+            "term": "Warsaw",
+            "passage": "Warsaw is the capital and largest city of Poland. It stands on the Vistula River in east-central Poland and its population is officially estimated at 1.75 million residents within the city limits, with 3.1 million in the metropolitan area. The city's history dates back to the 13th century when it was founded as a small fishing village. It became the capital of the Kingdom of Poland in 1596 and played a significant role in the history of Poland and Europe. Warsaw is an important economic center and is known for its diverse culture, including museums, theaters, and musical venues. It is also home to many universities, including the University of Warsaw, which was founded in 1816 and is the largest university in Poland. The city has a rich history and has been completely rebuilt after being destroyed during World War II. Today, Warsaw is a modern city with a mix of old and new architecture, and is known for its vibrant nightlife and cultural events.",
+            "qae_pairs": [
+                {
+                    "question": "In what century was Warsaw founded?",
+                    "answer": "the 13th century",
+                    "explanation": "The city's history dates back to the 13th century when it was founded as a small fishing village. This sentence explains that Warsaw was founded in the 13th century."
+                },
+                {
+                    "question": "What year was the University of Warsaw founded in?",
+                    "answer": "1816",
+                    "explanation": "Warsaw is an important economic center and is known for its diverse culture, including museums, theaters, and musical venues. It is also home to many universities, including the University of Warsaw, which was founded in 1816 and is the largest university in Poland. Evidence sentence: Warsaw is known for its diverse culture, including museums, theaters, and musical venues."
+                }
+            ],
+            "hops": [
+                "Chopin's Piano Concerto No.",
+                "Warsaw"
+            ]
+        },
+        "Celine Dion": {
+            "term": "Celine Dion",
+            "passage": "Celine Dion is a Canadian singer and businesswoman. She was born in 1968 in Charlemagne, Quebec, Canada. Dion's career began in the 1980s with the release of her first French-language album, La Voix du Bon Dieu, which achieved gold record status in Canada and France. She has since released over 20 studio albums, all of which have achieved critical and commercial success. Dion's music has spanned multiple genres, including pop, rock, R&B, and classical. She has won numerous awards, including five Grammy Awards, and has sold over 240 million records worldwide, making her one of the best-selling artists of all time. In addition to her music career, Dion is also a businesswoman, with her own line of perfumes and a clothing line. She has also been involved in numerous philanthropic endeavors, including her own foundation, which supports children's causes.",
+            "qae_pairs": [
+                {
+                    "question": "What is the birthplace of Celine Dion?",
+                    "answer": "Canada",
+                    "explanation": "Dion's career began in the 1980s with the release of her first French-language album, La Voix du Bon Dieu, which achieved gold record status in Canada and France."
+                },
+                {
+                    "question": "What is the birthplace of Celine Dion, the famous Canadian singer and businesswoman?",
+                    "answer": "Quebec",
+                    "explanation": "Dion's career began in the 1980s with the release of her first French-language album, La Voix du Bon Dieu, which achieved gold record status in Canada and France."
+                },
+                {
+                    "question": "What is the number of Grammy Awards won by Celine Dion?",
+                    "answer": "Grammy Awards",
+                    "explanation": "Celine Dion has won numerous awards, including five Grammy Awards."
+                },
+                {
+                    "question": "What is the name of the album that Celine Dion released in the 1980s that achieved gold record status in Canada and France?",
+                    "answer": "Bon Dieu",
+                    "explanation": "Dion's career began in the 1980s with the release of her first French-language album, La Voix du Bon Dieu, which achieved gold record status in Canada and France."
+                }
+            ],
+            "hops": [
+                "Schubert's Ave Maria",
+                "Celine Dion"
+            ]
+        },
+        "Four Seasons": {
+            "term": "Four Seasons",
+            "passage": "The Four Seasons is a musical composition by Antonio Vivaldi, which was published in 1725. The work consists of four violin concertos, each of which is named after a season of the year. The concertos are known for their bright and lively melodies, and they have become some of the most popular and well-known pieces of classical music. The Four Seasons was originally written for a solo violin and an orchestra, but it has been arranged for many different instruments and ensembles over the years. The work has been performed and recorded by many famous musicians, and it continues to be a popular choice for concerts and recordings today.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the composer who wrote the Four Seasons?",
+                    "answer": "Antonio Vivaldi",
+                    "explanation": "The Four Seasons is a musical composition by Antonio Vivaldi, which was published in 1725."
+                }
+            ],
+            "hops": [
+                "Vivaldi's Four Seasons",
+                "Four Seasons"
+            ]
+        },
+        "Beethoven": {
+            "term": "Beethoven",
+            "passage": "Beethoven was a German composer and pianist. He was a crucial figure in the transition between the Classical and Romantic eras in Western classical music, and remains one of the most famous and influential composers of all time. Born in Bonn, then the capital of the Electorate of Cologne and part of the Holy Roman Empire, Beethoven displayed his musical talents at an early age and was later studied with Mozart and Haydn. He moved to Vienna in 1792 and began to gain a reputation as a virtuoso pianist. Beethoven's hearing gradually deteriorated throughout his life, and by the last decade of his life he was almost completely deaf. He continued to compose, conduct and perform, even after he was completely deaf. Beethoven is known for his nine symphonies, his five piano concertos, his 14 string quartets, his violin concerto, and his one opera, Fidelio. He is also known for his chamber music, religious music, and songs. Beethoven's influence on other composers is immeasurable, and he is considered one of the most important figures in Western music history.",
+            "qae_pairs": [
+                {
+                    "question": "What year did Beethoven move to Vienna?",
+                    "answer": "1792",
+                    "explanation": "Beethoven moved to Vienna in 1792 and began to gain a reputation as a virtuoso pianist."
+                },
+                {
+                    "question": "What is the name of Beethoven's only opera?",
+                    "answer": "Fidelio",
+                    "explanation": "Beethoven is known for his nine symphonies, his five piano concertos, his 14 string quartets, his violin concerto, and his one opera, Fidelio."
+                },
+                {
+                    "question": "What is the genre of Beethoven's music?",
+                    "answer": "Classical",
+                    "explanation": "Beethoven is known for his nine symphonies, his five piano concertos, his 14 string quartets, his violin concerto, and his one opera, Fidelio. Beethoven is known for his symphonies, piano concertos, string quartets, violin concerto, and opera Fidelio."
+                }
+            ],
+            "hops": [
+                "Vivaldi's Four Seasons",
+                "Beethoven"
+            ]
+        }
+    }
+}

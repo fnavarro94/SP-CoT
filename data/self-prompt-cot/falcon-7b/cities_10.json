@@ -1,0 +1,584 @@
+{
+    "first_hops": {
+        "New York": {
+            "term": "New York",
+            "passage": "The Empire State Building is an American Art Deco landmark located in Midtown Manhattan. It was built during the Great Depression between 1930 and 1931, and is now owned and managed by the Empire State Realty Trust. At 1,454 feet (437 m) tall, it is one of the world's tallest buildings and is the 10th-most-tall structure in the city. Construction began in 1930, a year after the Wall Street Crash in 1929, which resulted in the collapse of many banks and businesses. The Empire State Building's height was not an especially unusual feature during this period, as it was only about half a foot taller than the other skyscrapers at the time. The building is characterized by a bronze eagle statue atop its pinnacle. The eagle's head, wings and feet are depicted in relief, which are gilded in copper with a gold lustre and standing atop an oval plaque with the inscription \"This is a land of opportunity\". The building's main entrance is located on the east side and is flanked by two grand marble staircases. The facade of the building is constructed of Indiana limestone, and is covered in terra cotta tiles. The Empire State Building is one of New York City's most recognizable landmarks, and is now a cultural center, with restaurants, retail shops, offices, hotels, and residential apartments.",
+            "qae_pairs": [
+                {
+                    "question": "What year did the Wall Street Crash occur?",
+                    "answer": "1929",
+                    "explanation": "- The Wall Street Crash occurred on October 29, 1929."
+                },
+                {
+                    "question": "What is the style of the Empire State Building?",
+                    "answer": "Art Deco",
+                    "explanation": "Art Deco is a style of architecture that was popular in the 1920s and 1930s. It is characterized by a combination of geometric shapes, bold lines, and metallic accents. The Empire State Building is a great example of this style, with its bronze eagle statue, metallic accents, and geometric shapes."
+                },
+                {
+                    "question": "Who owns the Empire State Building?",
+                    "answer": "the Empire State Realty Trust",
+                    "explanation": "- The Empire State Building is owned by the Empire State Realty Trust (ESRT), which is a New York-based real estate investment trust. The trust was created in 1930 to hold the Empire State Building and other properties."
+                }
+            ],
+            "hops": [
+                "New York"
+            ]
+        },
+        "London": {
+            "term": "London",
+            "passage": "(London, England), the capital and largest city of the United Kingdom, situated on the River Thames, in the South East of England. It is the centre of a metropolitan area with a population of more than 8.6 million, making it one of the world's most populated cities. London is a unique combination of history and culture, with a long recorded history that is thousands of years old. The Romans and Celtic tribes were the first to live in London, and they were replaced by the Vikings in the ninth century. London is now an international city and financial centre. London is home to several important institutions, such as the British Library, Tate Modern, Imperial College London, London Business School, The British Museum, and many others. It is also home to many theatres, museums, and iconic landmarks such as Big Ben and the London Eye. The city is often known as the Big Smoke due to its large number of smoky chimneys. London is situated on the River Thames. The area that is now London was originally inhabited by various Celtic tribes. The Romans built London in AD 50 and called it Londinium, meaning \"the place where the Romans have been.\" The city was renamed Londinium later, and the name has evolved since then, being referred to as \"Londinum,\" \"Londinium,\" and \"London.\" London has a long recorded history, with a recorded history of thousands of years old.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the famous art gallery in London?",
+                    "answer": "Tate Modern",
+                    "explanation": "Tate Modern is the name of the famous art gallery in London."
+                },
+                {
+                    "question": "What is the name of the largest library in the world?",
+                    "answer": "the British Library",
+                    "explanation": "The name of the largest library in the world is the British Library. It is located in London, England and is the largest library in the world with over 7 million books and manuscripts. The library was founded in 1850 and has since grown to become a major cultural and educational centre, with over 1.7 billion items in its collection."
+                },
+                {
+                    "question": "What is the name of the museum in London that houses the Rosetta Stone?",
+                    "answer": "The British Museum",
+                    "explanation": "The Rosetta Stone is a famous artifact discovered in 1799 by French soldier Pierre-Francois Bouchard during Napoleon Bonapartes campaign in Egypt. The stone contains inscriptions in three different scripts, including Ancient Greek, Demotic, and Coptic. The British Museum in London is home to the Rosetta Stone, which is one of the most famous artifacts in the world. The stone contains inscriptions in three different scripts, including Ancient Greek, Demotic, and Coptic."
+                },
+                {
+                    "question": "What is the name of the country that London is in?",
+                    "answer": "the United Kingdom",
+                    "explanation": "London is a city located in the country of the United Kingdom."
+                },
+                {
+                    "question": "What is the name of the river that runs through London?",
+                    "answer": "the River Thames",
+                    "explanation": "London is derived from Londinium, which is Latin for place of the Romans. The name is believed to have been derived from the Celtic word Londinium, which means the place where the Romans have been. The name has evolved over time, and it is now known as the River Thames."
+                }
+            ],
+            "hops": [
+                "Sydney",
+                "London"
+            ]
+        },
+        "Tokyo": {
+            "term": "Tokyo",
+            "passage": "(Note that this is an older version and has now been updated. You can find the newer one here: )\nTokyo (東京 \"Tokyo\"; Japanese 京都 [kyoan] ) is the capital and largest city of Japan, located in Tokyo Bay in the Kanto region. Tokyo's population exceeds 13.5 million, making it the most populous city in the world, though it has recently passed Istanbul for the title of the most populous metropolitan area in Europe. The Tokyo metropolitan area is the largest metropolitan area in the world by population and area, with a population of over 37 million, including over 23 million in Tokyo. Tokyo is home to the world's busiest station, Tokyo Station, located in Shinjuku, Tokyo, and serves over 1.2 billion passengers per year. Tokyo is Japan's most urbanized city. Tokyo's metropolitan area has 37.7 million people, the largest population of any metropolitan area in the world. Tokyo has three major rail networks: the Tokyo Metro (the main subway system), JR East (a long-distance railway company) and Toei (a light rail network). Tokyo is the most populous city in the world, with an estimated population of 13.5 million in 2005.",
+            "qae_pairs": [
+                {
+                    "question": "What year did Tokyo become the most populous city in the world?",
+                    "answer": "2005",
+                    "explanation": "(Note that Tokyo has been the most populous city in the world since 2005, but the population has been growing since then)"
+                },
+                {
+                    "question": "Where is Tokyo located?",
+                    "answer": "Japan",
+                    "explanation": "(Tokyo is located in Japan)"
+                },
+                {
+                    "question": "What is the name of the main rail company in Tokyo?",
+                    "answer": "JR East",
+                    "explanation": "JR East is the name of the main rail company in Tokyo."
+                },
+                {
+                    "question": "What is the name of the Tokyo Metro?",
+                    "answer": "Toei",
+                    "explanation": "Toei is the name of the Tokyo Metro."
+                }
+            ],
+            "hops": [
+                "Osaka",
+                "Tokyo"
+            ]
+        },
+        "Paris": {
+            "term": "Paris",
+            "passage": "\"A large number of the most notable French works of architecture have their origins in Paris. This includes the most famous French architectural works, such as the Eiffel Tower and the Pont des Arts, as well as some of the finest and most grandiose public spaces and monuments in the world, such as the Louvre and the Champs-ÉlysÉES. The City of Paris, or \"Ville de Paris\", (in English, \"Paris\") is a city in north central France, its most famous buildings are located on the banks of the river Seine. Architecture in Paris can be seen from various vantage points, but the most noticeable structures are the city's most famous monuments and famous buildings. Many of these are on the Champs-ÉlysÉES, including the most famous Parisian architecture, including the Arc de Triomphe. In addition, the Eiffel Tower was built for the 1889 Exposition, and stands 324m (1,063ft) tall. It is arguably the most recognizable monument in France, or at least the most recognisable one in the world. The Pont des Arts, also on the Champs-ÉlysÉES, is also notable for its shape, being the only remaining bridge in Paris that is wider than it is tall. A notable part of the architecture of the city is the vast number of fine sculptures and statues that adorn its streets and public spaces.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the famous avenue in Paris?",
+                    "answer": "Champs",
+                    "explanation": "The Champs-ÉlysÉES is a famous avenue in Paris, France. It is the most famous avenue in the world, and is located in the 8th arrondissement of Paris. It is named after the Champs-ÉlysÉES, a river in the Parisian region. The avenue is lined with many famous monuments, including the Arc de Triomphe, the Louvre, the Eiffel Tower, and the Champs-ÉlysÉES itself. It is also home to many luxury shops, and is a major tourist attraction in the city. The avenue is also home to many of the"
+                }
+            ],
+            "hops": [
+                "Paris"
+            ]
+        },
+        "Sydney": {
+            "term": "Sydney",
+            "passage": "'The population of Sydney grew rapidly during the 19th century with the boom of the wool industry, aided by the influx of convict immigrants. Sydney's population reached a peak of over 75,000 in the 1820s. The city had an important role in the early Australian economy, and became an important hub of trade in the 19th century, leading to a wave of European immigration. After the decline in the wool industry, Sydney was transformed by the arrival of waves of Chinese and European immigrants. The city's population of European descent grew rapidly as a result, and in the 1850s it became the third largest settlement in the British Empire after London and Manchester.' In 1821, it was settled by Captain James Cook in what is now Sydney Cove. The population of Sydney grew rapidly during the 19th century\nwith the boom of the wool industry, aided by the influx of convict\nimmigrants. Sydney's population reached a peak of over 75,000\nin the 1820s. The city had an important role in the early Australian\neconomy, and became an important hub of trade in the 19th century, leading\nto a wave of European immigration. After the decline in the wool industry,\nSydney was transformed by the arrival of waves of Chinese and European\nimmigrants.",
+            "qae_pairs": [
+                {
+                    "question": "When was Sydney founded?",
+                    "answer": "1821",
+                    "explanation": "Sydney was founded in 1821 by Captain James Cook, who landed on the shores of the bay in January. The city was originally named New South Wales by the British, but was later changed to Sydney in 1788. The city was founded on the shores of the bay by Captain James Cook in 1821. It was originally named New South Wales by the British, but was later changed to Sydney in 1788."
+                },
+                {
+                    "question": "Which city is the capital of the United Kingdom?",
+                    "answer": "London",
+                    "explanation": "London is the capital of the United Kingdom. It is located on the River Thames, in the southeastern part of England. The city is home to the British government, the British monarchy, and many of the countrys most famous landmarks, including Buckingham Palace, the Tower of London, and the London Eye. The city is home to a population of over 8 million people, making it one of the most populous cities in the world. It is also one of the oldest cities in the world, with a history dating back to Roman times. The city has been the center of English culture and politics for centuries, and is home"
+                },
+                {
+                    "question": "Who first settled in Sydney?",
+                    "answer": "James Cook",
+                    "explanation": "Captain James Cook, an English explorer, was the first European to visit the area in 1770. He was looking for a route to the East Indies, but instead found the continent of Australia. He named the area New South Wales in 1788, and it was later changed to New South Wales. The city of Sydney was founded in 1788, and was named in 1790. The population of Sydney grew rapidly during the 19th century with the boom of the wool industry, aided by the influx of convict immigrants. Sydneys population reached a peak of over 75,000 in"
+                }
+            ],
+            "hops": [
+                "Sydney"
+            ]
+        },
+        "San Francisco": {
+            "term": "San Francisco",
+            "passage": "“San Francisco was founded on February 23, 1769, by Spanish soldiers and colonists, Spanish Governor Juan Bautista de Anza, and Franciscan friar Junipero Serra. This makes San Francisco the only city in California founded by colonists. After 1776, it served as the capital of the Spanish colony. After California was taken over by the United States, San Francisco became the most important center for trade and commerce in the new country. The American Civil War started in the area in 1862 with the siege of Fort Point. The first permanent settlement in the area was made at the southern end of the Golden Gate Bay, where Spanish colonists built their city. Today, it is the 49ers Stadium. The San Francisco Bay area was also a major port during the Gold Rush and was also home to many of the country’s first Chinese communities. As San Francisco expanded, it became a major center of Asian culture in the area. During the Industrial Revolution, San Francisco served as a center for the production of goods in the region. It is today one of the most important centers of manufacturing in the country.”\nThe name of San Francisco comes from the Latin word, which was Latinized by the Romans into the Latin name “Sebastopolis.”\nI had my own San Francisco dream. It was to live in this city which was so rich in history and diversity.",
+            "qae_pairs": [
+                {
+                    "question": "When was San Francisco founded?",
+                    "answer": "February 23, 1769",
+                    "explanation": "“San Francisco was founded on February 23, 1769, by Spanish soldiers and colonists, Spanish Governor Juan Bautista de Anza, and Franciscan friar Junipero Serra. This makes San Francisco the only city in California founded by colonists. After 1776, it served as the capital of the Spanish colony. After California was taken over by the United States, San Francisco became the most important center for trade and commerce in the new country. The American Civil War started in the area in 1862 with the siege of Fort Point. The first permanent settlement in the area was made at the"
+                },
+                {
+                    "question": "What is the date of the American Revolution?",
+                    "answer": "1776",
+                    "explanation": "“The American Revolution was a period of time in which the thirteen American colonies declared their independence from British rule. The Revolution began on July 4, 1776, when the Second Continental Congress adopted the Declaration of Independence. The Revolution ended on September 3, 1783, when the Treaty of Paris was signed. The Revolution was fought between the British and the colonists. The Revolution was a major event in the history of the United States. It was the first time that the colonists fought for their independence. The Revolution was a major event in the history of the United States. It was the first time that the colonists"
+                },
+                {
+                    "question": "Who founded San Francisco?",
+                    "answer": "Juan Bautista de Anza",
+                    "explanation": "“The city was founded on February 23, 1769, by Spanish soldiers and colonists, Spanish Governor Juan Bautista de Anza, and Franciscan friar Junipero Serra. The city was founded by the Spanish colonists and was named “San Francisco” by the Spanish. The name was Latinized from the Latin word “Sebastopolis.” The city was founded by the Spanish colonists and was named “San Francisco” by the Spanish. The name was Latinized from the Latin word “Sebastopolis.” The city was founded by the Spanish colonists and was"
+                },
+                {
+                    "question": "What is the most beautiful state in the US?",
+                    "answer": "California",
+                    "explanation": "“California is a state in the West of the United States. It is the most populous state in the country, with a population of over 39 million people. It is the second most populous state in the country, after New York. California is the most populous state in the country. It is the most populous state in the country. It is the most populous state in the country. It is the most populous state in the country. It is the most populous state in the country. It is the most populous state in the country. It is the most populous state in the country. It"
+                }
+            ],
+            "hops": [
+                "San Francisco"
+            ]
+        },
+        "Beijing": {
+            "term": "Beijing",
+            "passage": "\"In July 2015, Beijing passed an order to relocate all schools, in a bid to improve the air quality of the city by 30% in 10 years. This included relocating up to 1.1 million students from the city. On 10 August 2015, all high schools were closed in the city, with students being forced to take an extra year of classes at secondary schools, and students at middle schools continuing their education at high schools. A separate set of middle schools were also closed, which in turn had affected over 2 million students. However, according to the Beijing Education Bureau, students at over 1,000 schools have been offered free air purifiers and air filters to reduce the air pollution from the Olympic sites in the city, including the National Stadium and the Bird's Nest.\" You are welcome. User Is Beijing the only Chinese city with an air quality problem? Mini No, in fact, many Chinese cities suffer from poor air quality due to heavy industry and vehicle emissions. Some cities have implemented strict regulations to reduce pollution, such as limiting vehicle exhaust emissions, imposing emissions standards for factories, and encouraging clean energy use. User How do people in Beijing cope with the bad air quality? Mini There are many ways people in Beijing can help reduce pollution, such as avoiding outdoor physical activities during high-pollution days, using public transportation, wearing a mask, and staying indoors with air conditioning.",
+            "qae_pairs": [
+                {
+                    "question": "When did Beijing order the relocation of all schools to improve air quality?",
+                    "answer": "10 August 2015",
+                    "explanation": "In July 2015, Beijing passed an order to relocate all schools, in a bid to improve the air quality of the city by 30% in 10 years. This included relocating up to 1.1 million students from the city. On 10 August 2015, all high schools were closed in the city, with students being forced to take an extra year of classes at secondary schools, and students at middle schools continuing their education at high schools. A separate set of middle schools were also closed, which in turn had affected over 2 million students."
+                },
+                {
+                    "question": "How long will it take for Beijing to improve its air quality by 30%?",
+                    "answer": "10 years",
+                    "explanation": "In July 2015, Beijing passed an order to relocate all schools, in a bid to improve the air quality of the city by 30% in 10 years. This included relocating up to 1.1 million students from the city. On 10 August 2015, all high schools were closed in the city, with students being forced to take an extra year of classes at secondary schools, and students at middle schools continuing their education at high schools. A separate set of middle schools were also closed, which in turn had affected over 2 million students. However, according to the Beijing Education Bureau, students at over"
+                },
+                {
+                    "question": "What is the main stadium in Beijing?",
+                    "answer": "the National Stadium",
+                    "explanation": "The National Stadium is a multi-purpose stadium located in Beijing, China. It is primarily used for sports events, such as soccer matches, basketball games, and other events. It is also used for concerts and other events. The stadium is located in the Fengtai district of Beijing and is adjacent to the Olympic Green Park. It was built in 2008 and is the main stadium for the 2008 Beijing Summer Olympic Games."
+                },
+                {
+                    "question": "What is the name of the main stadium in Beijing?",
+                    "answer": "Bird",
+                    "explanation": "The Birds Nest is the name of the main stadium in Beijing. It was built for the 2008 Beijing Olympic Games and is also known as the National Stadium. The stadium is located in the north of Beijing and is the largest stadium in the world, with a capacity of over 1 million spectators. It is also known as the Birds Nest because of its unique design, which resembles a birds nest."
+                }
+            ],
+            "hops": [
+                "Beijing"
+            ]
+        },
+        "Berlin": {
+            "term": "Berlin",
+            "passage": "I thought this was a really interesting read and thought it was worth posting it to my blog. The last part of the entry has a map on it - I’m planning to write a separate post about that and why it is of such interest to me to travel that particular road. I’ve never been to the centre, but it seems like I might go there in the future. There are many different sights I’d like to see and many other roads to explore. One of the places I’d like to go to is the Zoo. It looks really pretty on Google Earth and I’d love to see some animal pictures. I’m guessing it would be easy to get to by public transport. The website says it’s 1 stop from the main train station, but that sounds like there are probably more stops. I’ll definitely be visiting it this summer, especially if I can go during the school holidays. Another place I’d like to go to is the Berlin Wall. That really brings back memories. I’m thinking that this trip I will try and go to the East Side Gallery first. I’d love to go again, but have not made it there since I moved back to London. I’d like to see how it has changed over the last few years. I’ve heard that there is an English speaking tour guide available to take you there - sounds like that would be a great idea.",
+            "qae_pairs": [
+                {
+                    "question": "What is the Berlin Wall?",
+                    "answer": "the East Side Gallery",
+                    "explanation": "(from Wikipedia) The Berlin Wall was a physical barrier constructed in 1961 to separate East and West Berlin, the capital of West Germany and East Germany. It was 155 km (96 miles) long, 2.5 m (8 ft) high and 1.8 m (6 ft) thick. The Wall was constructed to prevent East Germans from leaving the country, while West Germans were allowed to leave. The Wall was constructed in 13 sections, with 4 main gates. The Wall was dismantled on November 9, 1989, 20 years after the fall of the Wall"
+                }
+            ],
+            "hops": [
+                "Berlin"
+            ]
+        },
+        "Osaka": {
+            "term": "Osaka",
+            "passage": "Osaka is the capital of the Kinki region in Japan and is the second largest metropolitan area in Japan. It is the country’s second-largest city in terms of economic and population size, with a population of over 2.7 million. It is part of the Greater Osaka Area, the third-largest metropolitan area in the world by population, and has been one of the top 10 Japanese cities in terms of GDP. Osaka is one of the two special prefectures in Japan, the other being Tokyo. It is also considered to be the home of J-Pop, due to its many music labels and music stores.",
+            "qae_pairs": [
+                {
+                    "question": "What is the capital of Japan?",
+                    "answer": "Tokyo",
+                    "explanation": "Tokyo is the capital of Japan. It is located in the Kinki region of Japan and is the second largest metropolitan area in Japan. It is part of the Greater Tokyo Area, the third-largest metropolitan area in the world by population, and has been one of the top 10 Japanese cities in terms of GDP."
+                },
+                {
+                    "question": "What is the name of the region that Osaka is in?",
+                    "answer": "Kinki",
+                    "explanation": "Kinki is the name of the region that Osaka is in. It is located in the southern part of the main island of Honshu, in the Kinki region. The region is also known as the Kinki region or Kinki area."
+                }
+            ],
+            "hops": [
+                "Osaka"
+            ]
+        }
+    },
+    "second_hops": {
+        "the Empire State Realty Trust": {
+            "term": "the Empire State Realty Trust",
+            "passage": "The Empire State Realty Trust (NYSE: ESRT) is a New York-based real estate investment trust. It is the largest owner of commercial real estate in the Empire State Building in New York City. The company is a subsidiary of the Empire State Development Corporation, a New York State agency. The company is the largest owner of commercial real estate in the Empire State Building in New York City. The Empire State Realty Trust is a New York-based real estate investment trust that owns the Empire State Building. It is the largest owner of commercial real estate in the Empire State Building.",
+            "qae_pairs": [
+                {
+                    "question": "Question: What is the Empire State Realty Trusts largest property in New York City?",
+                    "answer": "the Empire State Building",
+                    "explanation": "The Empire State Building is the largest commercial building in New York City. It is located in the Midtown Manhattan neighborhood of New York City. The Empire State Building is the largest owner of commercial real estate in the Empire State Building in New York City."
+                },
+                {
+                    "question": "\nQuestion: What is the largest owner of commercial real estate in the Empire State Building? Answer: The Empire State Realty Trust (ESRT).",
+                    "answer": "ESRT",
+                    "explanation": "The Empire State Realty Trust (ESRT) is a New York-based real estate investment trust that owns the Empire State Building. It is the largest owner of commercial real estate in the Empire State Building."
+                }
+            ],
+            "hops": [
+                "New York",
+                "the Empire State Realty Trust"
+            ]
+        },
+        "The British Museum": {
+            "term": "The British Museum",
+            "passage": "The British Museum, the world's oldest art museum, is a department of the British Museum. The museum was established in 1753, in a meeting house off the British Museum in London, with the purpose of becoming a place for the British royal family and aristocracy to meet and engage in the exchange of ideas, art and science. The Museum was moved to a dedicated new building in 1818 and is still in use today, the building containing the museum's entrance is known as the Great Court. The building is situated in the heart of London, close to the British Museum's other buildings and institutions, including the Natural History Museum, the Zoological Society, and the British Library. The museum is free to enter and has the most extensive and comprehensive collections in the world of 500,000+ items. The most popular are the paintings, maps, and objects in the Egyptian collection. The \"T.Rex\" dinosaurs are also one of the main attractions for visitors to come and observe. And my daughter's favorite is the natural history part, where we can go up to a mammoth tusk and touch it (not as hard as it sounds).",
+            "qae_pairs": [
+                {
+                    "question": "\nWhat is the name of the natural history museum located at the entrance of The British Museum in London?",
+                    "answer": "the Natural History Museum",
+                    "explanation": "The natural history museum is located at the entrance of The British Museum in London."
+                },
+                {
+                    "question": "\nWhat is the name of the building containing the British Museum today?",
+                    "answer": "today",
+                    "explanation": "The building containing the British Museum today is called the Great Court."
+                },
+                {
+                    "question": "What year was the British Museum established?",
+                    "answer": "1753",
+                    "explanation": "1753"
+                },
+                {
+                    "question": "What is the name of the building that houses the British Museum?",
+                    "answer": "the Great Court",
+                    "explanation": "The Great Court is a large courtyard in the middle of the British Museums Great Court. It is the largest courtyard in London and is the central feature of the Great Court building."
+                }
+            ],
+            "hops": [
+                "London",
+                "The British Museum"
+            ]
+        },
+        "the United Kingdom": {
+            "term": "the United Kingdom",
+            "passage": "“The United Kingdom (UK) is a sovereign state located in the northern part of the world. It is one of the 28 countries which make up the European Union. The UK is a unitary state with a single administrative structure and one legislative body. It is divided into England, Scotland and Wales and is home to 663 metropolitan areas and 1,376 non-metropolitan areas, with an overall population of 66,378,026 people. England is the largest constituent country of the UK, accounting for 90% of the population. The United Kingdom is a constitutional monarchy which operates under the principles of the British constitution, an unwritten constitution. English is the official language and is spoken by a majority of the population. … The official religion of the UK is the Church of England, however the UK is also a secular state and religion is not normally taught or practiced in schools. England is home to the world’s most famous English-speaking population, a large number of people from other ethnic groups including Irish, Scottish, French and Indian. … The UK has a mixed economy with significant public services and financial services. Its economy was the world’s second largest in 2006, but has been growing since, with the 2010 general election giving the Conservative and Liberal Democrat coalition an overall majority of 65 seats, the smallest majority of any government since 1970.",
+            "qae_pairs": [
+                {
+                    "question": "Question: Which is the largest country in the United Kingdom?",
+                    "answer": "Wales",
+                    "explanation": "“Wales is the largest constituent country of the United Kingdom, accounting for 25% of the population. It is the only country in the UK that has its own assembly and government. The Welsh language is the official language of Wales, and it is also the only country in the UK that has its own flag. The Welsh flag is a red dragon on a green background, while the English flag is a red, white and blue flag. The Welsh flag is also used in the Welsh town of Aberystwyth, which is the only town in the UK to have a Welsh flag flying over it. The Welsh flag is also used"
+                },
+                {
+                    "question": "What is the name of the country that the United Kingdom is a part of?",
+                    "answer": "the European Union",
+                    "explanation": "“The United Kingdom is a sovereign state located in the northern part of the world. It is one of the 28 countries which make up the European Union.”"
+                },
+                {
+                    "question": "What is the name of the official religion of the United Kingdom?",
+                    "answer": "the Church of England",
+                    "explanation": "“The Church of England is the established state religion in the United Kingdom. It is the only state religion in the country, and is the official religion of the UK. The Church of England is a member of the Anglican Communion, which is the second-largest denomination in the world. … The Church of England is the largest of the established religions in the UK, with the Roman Catholic Church and the Methodist Church also being established in the country. … The Church of England is not the only state religion in the UK, as there are other religions that are also represented in the country. … The UK is a secular state,"
+                },
+                {
+                    "question": "Which political party currently holds the majority of seats in the United Kingdoms parliament?",
+                    "answer": "Conservative",
+                    "explanation": "“The Conservative Party is the largest of the three main political parties in the United Kingdom. The party is led by David Cameron, who has been in office since 2010. The Conservatives are traditionally a center-right party, and have traditionally been associated with the traditional values of the British establishment. The party has traditionally been associated with the British Union flag, and is the only major party in the UK to hold a Union Jack on its logo. The party is currently the largest party in the United Kingdom, holding 305 seats in the 2010 general election. The party has a majority of 65 seats in the current parliament,"
+                }
+            ],
+            "hops": [
+                "London",
+                "the United Kingdom"
+            ]
+        },
+        "the River Thames": {
+            "term": "the River Thames",
+            "passage": "The Thames has been the natural boundary of London since the Norman Conquest in 1066. The river has been a source of potable water for Londoners for centuries, although the river is polluted by sewage. You know the river, and you can see where the different parts of the city are located on the river. Today, Londoners and visitors alike have begun to find the Thames boring, no matter where it is located on the map. The reason is that, as they move around the city in the future, the river becomes smaller and smaller. You have a much better chance of finding good fishing in the ponds and lakes that you can get to by taking the Tube. If you have a boat in London, you could be forgiven for thinking that the Thames was an absolute paradise for boaters. However, if you are a regular boater, then you could have a problem in London. There is a huge number of people around who are using small sailboats or kayaks to get around London, and they are causing a problem. If you are a boaters, London is the place to be. It is not, however, the Thames.",
+            "qae_pairs": [
+                {
+                    "question": "\nThe River Thames is a major transportation and recreational waterway located in London. If you are a regular boaters in London, then you would want to know the best way to get around. However, if you are looking for the best way to get around in London, then you will be hard pressed to find a",
+                    "answer": "Tube",
+                    "explanation": "The London Underground, also known as the Tube, is a rapid transit system located in London. It is the most popular way to get around in London, and it is the best way to get around in London. The Tube is a great way to get around in London, and it is the best way to get around in London."
+                },
+                {
+                    "question": "\nWhat is the largest body of water in London? (answer: the River Thames)",
+                    "answer": "Thames",
+                    "explanation": "The Thames is the largest body of water in London. It is the largest river in the world, and is the largest body of water in the world. It is the largest body of water in London, and is the largest body of water in the world. It is the largest body of water in London, and is the largest body of water in the world. It is the largest body of water in London, and is the largest body of water in the world. It is the largest body of water in London, and is the largest body of water in the world. It is the largest body of water in London, and is"
+                },
+                {
+                    "question": "\nWhich year did the Normans invade England and establish the town of London on the River Thames?",
+                    "answer": "1066",
+                    "explanation": "The Normans invaded England in 1066 and established the town of London on the River Thames."
+                }
+            ],
+            "hops": [
+                "London",
+                "the River Thames"
+            ]
+        },
+        "Japan": {
+            "term": "Japan",
+            "passage": "JR East (JR-East) is a Japanese national railway operator that operates the East Japan Railway Company (JR East). The current head office of JR East is located in the town of Chiba, Chiba, Japan. JR East has its main railway station located in Tokyo. JR East, however, is different from the Japan Railways Group and they are two separate companies.",
+            "qae_pairs": [
+                {
+                    "question": "\nQuestion: Which company is responsible for operating the East Japan Railway Company?",
+                    "answer": "JR East",
+                    "explanation": "JR East is a Japanese national railway operator that operates the East Japan Railway Company."
+                },
+                {
+                    "question": "\nWhich Japanese national railway operator is different from the Japan Railways Group and has its main station in Tokyo?",
+                    "answer": "JR-East",
+                    "explanation": "JR-East is a Japanese national railway operator that operates the East Japan Railway Company (JR East). The current head office of JR East is located in the town of Chiba, Chiba, Japan. JR East has its main railway station located in Tokyo. JR East, however, is different from the Japan Railways Group and they are two separate companies."
+                },
+                {
+                    "question": "What is the name of the city in Japan where JR Easts head office is located?",
+                    "answer": "Chiba",
+                    "explanation": "The head office of JR East is located in the town of Chiba, Chiba, Japan."
+                }
+            ],
+            "hops": [
+                "Tokyo",
+                "Japan"
+            ]
+        },
+        "JR East": {
+            "term": "JR East",
+            "passage": "In the 1980s, JR East started developing a high-speed railway to connect eastern Japan with the Tokyo-Kanto region. The name 'Kosoku', meaning \"high-speed train\", was chosen as the project's name. In February 1984, the first of the Koseikan (Koseikan East) trainsets made their test run, running between Narita and the Koseikan East base in Yokosuka. The first Koseikan train (Koseikan No. 5) started running on December 16, 1984, from Yokohama to Koshigoe (Nagoya) via Atami and Odaizumi. The trainset was followed by 11 more, all of which started running between Tokyo and the Yokosuka and Nagoya base in March 1987, and by the end of that year, 4 trains had started connecting Osaka and Omiya (Yamagata) via at-then-current Nankai Electric Railway's Yamagata East line. On March 23, 1987, the Koseikan No. 5 (then the Koseikan No. 3) No. 21 trainset became the 2,000th in service by JR East. The following day, March 24, 1987, the Koseikan No.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the high-speed railway line developed by JR East in the 1980s?",
+                    "answer": "Koseikan East",
+                    "explanation": "Koseikan means high-speed train in Japanese."
+                },
+                {
+                    "question": "What is the name of the city that JR East connects with in the 1980s?",
+                    "answer": "Nagoya",
+                    "explanation": "Koseikan (Koseikan East) is the name of the high-speed railway project developed by JR East to connect eastern Japan with the Tokyo-Kanto region. The city that JR East connects with in the 1980s is Nagoya."
+                },
+                {
+                    "question": "\nWhat is JR East's major railway station located in Osaka?",
+                    "answer": "Osaka",
+                    "explanation": "Osaka is the capital of the Japanese prefecture of Osaka. It is located in the Kinki region of Japan, and is the second-largest city in Japan after Tokyo. Osaka is home to the Osaka Station, which is the major railway station in the city. It is the busiest station in Japan, and is the second busiest station in the world. It is also the main hub for the Koseikan East high-speed railway, which connects Osaka with Tokyo."
+                },
+                {
+                    "question": "\nWhat is the major station in Atami that JR East operates trains to?",
+                    "answer": "Atami",
+                    "explanation": "JR East operates trains to and from Atami, which is located in Shizuoka Prefecture, on the eastern side of the Tokyo Bay. The station is located on the eastern side of the city, and is served by the JR East Tokaido Shinkansen line."
+                }
+            ],
+            "hops": [
+                "Tokyo",
+                "JR East"
+            ]
+        },
+        "Toei": {
+            "term": "Toei",
+            "passage": "The Toei Studio that originated in 1954 is currently affiliated with Toei Animation Co. Ltd. and the company has now produced over 1,000 animated television series and over 300 feature films. They were responsible for some of the most famous Japanese animations, such as \"Manga Ga Zensho\" (Manga: A New Legend) and \"Urusei Yatsura\" (Bara Yatsura), a series that was based on the manga by Fujiko Aoki. In 1959, the first episode of \"Manga Ga Zensho\" was broadcast, and this became a new type of animated television series. The anime production had begun in the middle of the 1950s, when anime was born. When \"Manga Ga Zensho\" aired, it was a new form of animation that was still developing in a new way. That time is called the golden age of Japanese animation. In 1970, Japanese anime was revived, and the \"Golden age\" continued through the 1980s. It is a good time to look at a series of posts from the \"Manga Ga Zensho\" era of anime, and see how much it has influenced our Japanese animation. In 2016, there is a series of exhibitions at the Japanese animation museum in Tokyo, that is celebrating the 60th anniversary of Toei animation studios.",
+            "qae_pairs": [
+                {
+                    "question": "What year did Toei animation studios begin?",
+                    "answer": "1954",
+                    "explanation": "1954 is the year that Toei animation studios were founded."
+                },
+                {
+                    "question": "Question: What was the first anime series produced by Toei Animation Co?",
+                    "answer": "the \"Manga Ga Zensho",
+                    "explanation": "Manga Ga Zensho (Manga: A New Legend) is a Japanese animated television series that was produced by Toei Animation Co. in 1959. The anime was based on the manga by Fujiko Aoki, and it is a very popular series. It is one of the most popular animated series in Japan, and it is still a popular series today. The anime was broadcasted in 1959, and it was a new type of animated television series. The anime production was initiated in the middle of the 1950s, and it is still a popular form of animation in Japan. In"
+                }
+            ],
+            "hops": [
+                "Tokyo",
+                "Toei"
+            ]
+        },
+        "Champs": {
+            "term": "Champs",
+            "passage": "\"The first Champs event was held in London in 1865. The event was organized by a man named Mr. Henry Lee and took place on July 15, 1865. Lee organized the event with the help of his friends, whom he referred to as his \"champions\", and they all got on to the stage in the order that was to be used for the future event in 1928. On July 20, 1865, he organized the first (official) world champion's event, the first such event ever to be held.",
+            "qae_pairs": [
+                {
+                    "question": "\nQuestion: When did the first Champs event take place? Answer: '1928'.",
+                    "answer": "1928",
+                    "explanation": "The first Champs event was held in London in 1865. The event was organized by a man named Mr. Henry Lee and took place on July 15, 1865. Lee organized the event with the help of his friends, whom he referred to as his champions, and they all got on to the stage in the order that was to be used for the future event in 1928. On July 20, 1865, he organized the first (official) world champions event, the first such event ever to be held."
+                },
+                {
+                    "question": "What city did the first Champs event take place in?",
+                    "answer": "London",
+                    "explanation": "The first Champs event was held in London in 1865. The event was organized by a man named Mr. Henry Lee and took place on July 15, 1865. Lee organized the event with the help of his friends, whom he referred to as his champions, and they all got on to the stage in the order that was to be used for the future event in 1928. On July 20, 1865, he organized the first (official) world champions event, the first such event ever to be held."
+                },
+                {
+                    "question": "\nWhen was the first Champs event held? Answer: July 15, 1865.\"",
+                    "answer": "July 15, 1865",
+                    "explanation": "The first Champs event was held in London in 1865. The event was organized by a man named Mr. Henry Lee and took place on July 15, 1865. Lee organized the event with the help of his friends, whom he referred to as his champions, and they all got on to the stage in the order that was to be used for the future event in 1928. On July 20, 1865, he organized the first (official) world champions event, the first such event ever to be held."
+                }
+            ],
+            "hops": [
+                "Paris",
+                "Champs"
+            ]
+        },
+        "London": {
+            "term": "London",
+            "passage": "(London, England), the capital and largest city of the United Kingdom, situated on the River Thames, in the South East of England. It is the centre of a metropolitan area with a population of more than 8.6 million, making it one of the world's most populated cities. London is a unique combination of history and culture, with a long recorded history that is thousands of years old. The Romans and Celtic tribes were the first to live in London, and they were replaced by the Vikings in the ninth century. London is now an international city and financial centre. London is home to several important institutions, such as the British Library, Tate Modern, Imperial College London, London Business School, The British Museum, and many others. It is also home to many theatres, museums, and iconic landmarks such as Big Ben and the London Eye. The city is often known as the Big Smoke due to its large number of smoky chimneys. London is situated on the River Thames. The area that is now London was originally inhabited by various Celtic tribes. The Romans built London in AD 50 and called it Londinium, meaning \"the place where the Romans have been.\" The city was renamed Londinium later, and the name has evolved since then, being referred to as \"Londinum,\" \"Londinium,\" and \"London.\" London has a long recorded history, with a recorded history of thousands of years old.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the famous art gallery in London?",
+                    "answer": "Tate Modern",
+                    "explanation": "Tate Modern is the name of the famous art gallery in London."
+                },
+                {
+                    "question": "What is the name of the largest library in the world?",
+                    "answer": "the British Library",
+                    "explanation": "The name of the largest library in the world is the British Library. It is located in London, England and is the largest library in the world with over 7 million books and manuscripts. The library was founded in 1850 and has since grown to become a major cultural and educational centre, with over 1.7 billion items in its collection."
+                },
+                {
+                    "question": "What is the name of the museum in London that houses the Rosetta Stone?",
+                    "answer": "The British Museum",
+                    "explanation": "The Rosetta Stone is a famous artifact discovered in 1799 by French soldier Pierre-Francois Bouchard during Napoleon Bonapartes campaign in Egypt. The stone contains inscriptions in three different scripts, including Ancient Greek, Demotic, and Coptic. The British Museum in London is home to the Rosetta Stone, which is one of the most famous artifacts in the world. The stone contains inscriptions in three different scripts, including Ancient Greek, Demotic, and Coptic."
+                },
+                {
+                    "question": "What is the name of the country that London is in?",
+                    "answer": "the United Kingdom",
+                    "explanation": "London is a city located in the country of the United Kingdom."
+                },
+                {
+                    "question": "What is the name of the river that runs through London?",
+                    "answer": "the River Thames",
+                    "explanation": "London is derived from Londinium, which is Latin for place of the Romans. The name is believed to have been derived from the Celtic word Londinium, which means the place where the Romans have been. The name has evolved over time, and it is now known as the River Thames."
+                }
+            ],
+            "hops": [
+                "Sydney",
+                "London"
+            ]
+        },
+        "James Cook": {
+            "term": "James Cook",
+            "passage": "\"For more than a decade of his working life he was an expert navigator, he was a very competent and a very very brave and skilful navigator, he was a great navigator.\" It is interesting to note that James Cook was one of the greatest navigators in history. I wish I could say the same about some of the people that I know, particularly one of them who I just recently met. Today's 'ditty' is one that I have heard from time to time over the last 20 years or so. For those who do not know, the 'ditty' is a musical instrument - a simple one made from a cardboard box. (I'm not joking.) The purpose of the 'ditty' is to teach you how to tune it. However, it's a lot of fun to play and it's also good for your hearing. The 'ditty' in today's photo is one that I made myself from one of the cardboard boxes that I use to store my supplies in my work area. In the background of the 'ditty' is one of the cardboard 'boxes' that I use to store the supplies in my work area. It is called a 'workbox'. The one I'm using here has all sorts of goodies in it, and I use it to keep all my scrapbooking supplies organized.",
+            "qae_pairs": [
+                {
+                    "question": "Question: What happened on this day in history, 2/23/2010, that James Cook would have been proud of?",
+                    "answer": "Today",
+                    "explanation": "Today is the 23rd day of the 2nd month of the year 2010. James Cook was born on this day in 1728. He was an English explorer and navigator who was killed in Hawaii in 1779. He is credited with discovering the Hawaiian Islands and he was also the first European to discover the east coast of Australia. He also made several other significant discoveries during his lifetime. Today, we can be proud of his accomplishments and his bravery. He was a great navigator and he was also a great explorer. He was also a great explorer and he was also a great navigator. He"
+                },
+                {
+                    "question": "Question: How many years did James Cook work as a navigator?",
+                    "answer": "more than a decade",
+                    "explanation": "(James Cook) was born in 1729 in Bristol, England. He was a sailor and navigator who was employed by the British East India Company. He died in 1779 in Hawaii. He was only 48 years old when he died. Question: (How many years did James Cook work as a navigator?) Answer: more than a decade Explanation: (James Cook) was born in 1729 in Bristol, England. He was a sailor and navigator who was employed by the British East India Company. He died in 1779 in Hawaii. He was only 48 years"
+                }
+            ],
+            "hops": [
+                "Sydney",
+                "James Cook"
+            ]
+        },
+        "Juan Bautista de Anza": {
+            "term": "Juan Bautista de Anza",
+            "passage": "\"On May 18, 1782, General Bautista was shot dead by Colonel Francisco de la Bodega at the height of the Sonoran Desert. The governor of Arizona Territory, Richard W. Ewell, ordered his execution as he considered Anza a \"desert rat\" during the New World colonization. Some historians believe that the governor ordered the execution to save the governor his own job in the event of a possible uprising in the city.\" That's pretty interesting stuff, as far as Spanish-speaking history goes. One more thing: I've added some items to the Google maps I created for this project and here's the latest map:\nView Larger Map\nAlso, I've done a map that includes Anza's final march and burial place on the Camino Real. 1 comment:\nInteresting...and the map is neat.",
+            "qae_pairs": [
+                {
+                    "question": "What was the name of the governor of Arizona Territory who ordered the execution of Juan Bautista de Anza?",
+                    "answer": "Richard W. Ewell",
+                    "explanation": "The governor of Arizona Territory, Richard W. Ewell, ordered the execution of Juan Bautista de Anza on May 18, 1782. The governor believed that Anza was a desert rat during the New World colonization and that his execution would save his own job in the event of a possible uprising in the city. The governor was later replaced by John C. Fremont, who was the first governor of Arizona Territory."
+                },
+                {
+                    "question": "Question: What was the date of Juan Bautista de Anzas execution?",
+                    "answer": "May 18, 1782",
+                    "explanation": "On May 18, 1782, General Bautista was shot dead by Colonel Francisco de la Bodega at the height of the Sonoran Desert."
+                },
+                {
+                    "question": "Question: What is the location of Juan Bautista de Anzas final march and burial place on the Camino Real?",
+                    "answer": "the Sonoran Desert",
+                    "explanation": "On May 18, 1782, General Bautista was shot dead by Colonel Francisco de la Bodega at the height of the Sonoran Desert. The governor of Arizona Territory, Richard W. Ewell, ordered his execution as he considered Anza a desert rat during the New World colonization. Some historians believe that the governor ordered the execution to save the governor his own job in the event of a possible uprising in the city."
+                }
+            ],
+            "hops": [
+                "San Francisco",
+                "Juan Bautista de Anza"
+            ]
+        },
+        "California": {
+            "term": "California",
+            "passage": "\"California, officially the State of California (Californie or the State of Californie), is a state located on the West Coast of the United States of America. California is the most populous state in the country, and is also home to the second-most populous metropolitan area in the world. The state's population of 39.25 million makes it the third-most populous in the nation. It is the only state in the contiguous United States where the population exceeds 4 million. California is the most diverse state in the country, with more than 100 languages spoken there. The state is also home to the world's largest economy, the California economy. California is the 12th-largest in the world, with a GDP of US$1.4 trillion in 2006. California is home to more Fortune 500 companies than any other state, 6 of which are located in Silicon Valley. The San Francisco Bay Area, which includes the cities of San Francisco, San Jose and Oakland, is home to 12 Fortune 500 companies. The Golden State is home to the world's third-largest entertainment industry and is the birthplace of Hollywood, the largest film production center in the world. In addition, California has the world's second-most populous port in Long Beach.",
+            "qae_pairs": [
+                {
+                    "question": "\nQuestion: What is the name of the world's second-largest film production center located in Long Beach, California?",
+                    "answer": "Long Beach",
+                    "explanation": "The worlds second-largest film production center is located in Long Beach, California."
+                }
+            ],
+            "hops": [
+                "San Francisco",
+                "California"
+            ]
+        },
+        "the National Stadium": {
+            "term": "the National Stadium",
+            "passage": "The National Stadium, also known as the National Athletic Stadium, was a multi-purpose stadium located in Karachi, Pakistan. It is currently home to the Karachi Kings, a cricket team. The stadium was opened on February 27, 1999, during the 1999 Pakistan Super League, and is also used to host various events, including religious and cultural events. The capacity of the stadium was 55,000 people.",
+            "qae_pairs": [
+                {
+                    "question": "Question: Which city is home to the National Stadium?",
+                    "answer": "Karachi",
+                    "explanation": "The National Stadium is located in Karachi, Pakistan."
+                }
+            ],
+            "hops": [
+                "Beijing",
+                "the National Stadium"
+            ]
+        },
+        "the East Side Gallery": {
+            "term": "the East Side Gallery",
+            "passage": "The East Side Gallery, is a wall along the Berlin Wall that is painted with murals by various international artists depicting events of the Cold War. It is located in Berlin, Germany, on the eastern side of the former Wall, and was declared a UNESCO World Heritage Site in 2004. My daughter, who is a history student, was studying this wall the other day. Her class had watched a video about it and she brought home a pamphlet about it. The wall is 1.6 km long and stands at 9.1 metres high. The wall was built in 1961 and is no longer a deterrent for people leaving East Germany. The wall, and all that was on it, was ripped down a few months before the fall of the Berlin Wall in 1989. This was my first photo I have used of the East Side Gallery and I'm impressed.",
+            "qae_pairs": [
+                {
+                    "question": "Question: When was the East Side Gallery constructed?",
+                    "answer": "1961",
+                    "explanation": "- The East Side Gallery was constructed in 1961."
+                }
+            ],
+            "hops": [
+                "Berlin",
+                "the East Side Gallery"
+            ]
+        },
+        "Tokyo": {
+            "term": "Tokyo",
+            "passage": "(Note that this is an older version and has now been updated. You can find the newer one here: )\nTokyo (東京 \"Tokyo\"; Japanese 京都 [kyoan] ) is the capital and largest city of Japan, located in Tokyo Bay in the Kanto region. Tokyo's population exceeds 13.5 million, making it the most populous city in the world, though it has recently passed Istanbul for the title of the most populous metropolitan area in Europe. The Tokyo metropolitan area is the largest metropolitan area in the world by population and area, with a population of over 37 million, including over 23 million in Tokyo. Tokyo is home to the world's busiest station, Tokyo Station, located in Shinjuku, Tokyo, and serves over 1.2 billion passengers per year. Tokyo is Japan's most urbanized city. Tokyo's metropolitan area has 37.7 million people, the largest population of any metropolitan area in the world. Tokyo has three major rail networks: the Tokyo Metro (the main subway system), JR East (a long-distance railway company) and Toei (a light rail network). Tokyo is the most populous city in the world, with an estimated population of 13.5 million in 2005.",
+            "qae_pairs": [
+                {
+                    "question": "What year did Tokyo become the most populous city in the world?",
+                    "answer": "2005",
+                    "explanation": "(Note that Tokyo has been the most populous city in the world since 2005, but the population has been growing since then)"
+                },
+                {
+                    "question": "Where is Tokyo located?",
+                    "answer": "Japan",
+                    "explanation": "(Tokyo is located in Japan)"
+                },
+                {
+                    "question": "What is the name of the main rail company in Tokyo?",
+                    "answer": "JR East",
+                    "explanation": "JR East is the name of the main rail company in Tokyo."
+                },
+                {
+                    "question": "What is the name of the Tokyo Metro?",
+                    "answer": "Toei",
+                    "explanation": "Toei is the name of the Tokyo Metro."
+                }
+            ],
+            "hops": [
+                "Osaka",
+                "Tokyo"
+            ]
+        }
+    }
+}

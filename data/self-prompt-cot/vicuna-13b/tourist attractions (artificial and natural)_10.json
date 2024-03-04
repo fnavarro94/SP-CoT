@@ -1,0 +1,1491 @@
+{
+    "first_hops": {
+        "The Eiffel Tower": {
+            "term": "The Eiffel Tower",
+            "passage": "The Eiffel Tower is a wrought-iron lattice tower on the Champ de Mars in Paris, France. It is named after the engineer Gustave Eiffel, whose company designed and built the tower. Constructed in 1889 as the entrance arch to the World's Fair, it was initially met with controversy and criticism, but has since become one of the most recognizable landmarks in the world, and one of the most popular tourist attractions in Paris. The tower is 324 meters (1,063 feet) tall, including its antenna. Its base is 125 meters (410 feet) long and 10 meters (33 feet) wide. The tower is made of wrought iron, with a total weight of 10,100 tons. The tower has three levels for visitors, with restaurants and souvenir shops on the first and second levels. The top level offers a 360-degree view of Paris, including the Arc de Triomphe, the Palace of Versailles, and the Sacré-Cœur Basilica. The tower has been the site of several notable events, including the filming of the movie Iron Man 3, and the lighting of the Olympic flame for the 1924 Summer Olympics. The Eiffel Tower is a symbol of France and its engineering prowess, and has been featured in countless films, books, and works of art. It remains a popular tourist destination, attracting millions of visitors each year.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the engineer who designed and built the Eiffel Tower?",
+                    "answer": "Gustave Eiffel",
+                    "explanation": "The engineer who designed and built the Eiffel Tower is Gustave Eiffel."
+                },
+                {
+                    "question": "What was the year that the Eiffel Tower was first lit for the Olympic flame?",
+                    "answer": "1924",
+                    "explanation": "The Eiffel Tower was first lit for the Olympic flame in 1924."
+                },
+                {
+                    "question": "What was the year the Eiffel Tower was constructed?",
+                    "answer": "1889",
+                    "explanation": "The Eiffel Tower was constructed in 1889."
+                }
+            ],
+            "hops": [
+                "The Eiffel Tower"
+            ]
+        },
+        "The Great Wall of China": {
+            "term": "The Great Wall of China",
+            "passage": "The Great Wall of China is a series of fortifications made of stone, brick, tamped earth, wood, and other materials, generally built along an east-to-west line across the historical northern borders of China to protect against various nomadic groups from the Eurasian Steppe. The wall was constructed from the 7th century BC onwards, with many different states building walls at their own borders. However, most of the existing wall was built during the Ming dynasty (1368–1644). The Great Wall stretches for over 13,000 miles (21,000 km), from the eastern coast of China to the western desert. It is the longest wall in the world, and is visible from space. The wall was built to protect China from invaders from the north, including the Mongols, Manchus, and other nomadic tribes. The wall was also used to regulate trade and immigration, and to prevent the spread of disease. The construction of the Great Wall was a massive undertaking, involving millions of workers over centuries. The wall was built using a variety of materials, depending on the location and the resources available. In some areas, the wall was built using stones brought from nearby quarries, while in others, it was built using earth and other natural materials. The wall was also fortified with watchtowers, forts, and other defensive structures. Today, the Great Wall of China is one of the most famous landmarks in the world, attracting millions of visitors each year. It is also a symbol of Chinese strength and resilience, and a testament to the ingenuity and determination of the Chinese people.",
+            "qae_pairs": [
+                {
+                    "question": "What is the longest wall in the world, according to the passage, and where is it located?",
+                    "answer": "China",
+                    "explanation": "According to the passage, the longest wall in the world is the Great Wall of China, which stretches for over 13,000 miles (21,000 km) from the eastern coast of China to the western desert."
+                }
+            ],
+            "hops": [
+                "The Great Wall of China"
+            ]
+        },
+        "The Colosseum": {
+            "term": "The Colosseum",
+            "passage": "The Colosseum is an oval amphitheatre in the center of the city of Rome, Italy. Originally known as the Flavian Amphitheatre, it was completed in 80 AD. The Colosseum is situated just east of the Roman Forum. It was used for gladiatorial contests and public spectacles such as animal hunts, mock sea battles, and executions. The building was used for approximately 400 years, until the 6th century. The Colosseum is considered one of the greatest works of Roman architecture and engineering. It is composed of sandstone blocks and concrete, and is estimated to have held between 50,000 and 80,000 spectators. The Colosseum has undergone several changes over the centuries, including the addition of the fourth floor in the 12th century, and the removal of the wooden upper tiers of seating in the 18th century. The Colosseum is now an iconic symbol of Rome and is one of the most popular tourist attractions in the world, with millions of visitors each year. It has also been used as a filming location for numerous movies, including the popular Gladiator, directed by Ridley Scott.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the director who directed the movie Gladiator, which was filmed at the Colosseum?",
+                    "answer": "Ridley Scott",
+                    "explanation": "The director who directed the movie Gladiator, which was filmed at the Colosseum is Ridley Scott."
+                },
+                {
+                    "question": "What was the year in which the Colosseum was completed?",
+                    "answer": "80 AD",
+                    "explanation": "The Colosseum was completed in 80 AD."
+                },
+                {
+                    "question": "What was the approximate duration of the Colosseum's use?",
+                    "answer": "the 6th century",
+                    "explanation": "The Colosseum was used for approximately 400 years, from its completion in 80 AD until the 6th century."
+                },
+                {
+                    "question": "What is the year in which the Colosseum underwent significant changes, including the addition of the fourth floor and the removal of the wooden upper tiers of seating?",
+                    "answer": "the 12th century",
+                    "explanation": "The Colosseum underwent significant changes in the 12th century, including the addition of the fourth floor and the removal of the wooden upper tiers of seating."
+                },
+                {
+                    "question": "What is the original name of the Colosseum?",
+                    "answer": "the Flavian Amphitheatre",
+                    "explanation": "The original name of the Colosseum was the Flavian Amphitheatre. It was completed in 80 AD and was used for gladiatorial contests and public spectacles such as animal hunts, mock sea battles, and executions. The building was used for approximately 400 years, until the 6th century. The Colosseum is considered one of the greatest works of Roman architecture and engineering."
+                },
+                {
+                    "question": "What is the approximate length of time that the Colosseum was used for gladiatorial contests and public spectacles?",
+                    "answer": "approximately 400 years",
+                    "explanation": "The Colosseum was used for approximately 400 years, from its completion in 80 AD until the 6th century. During this time, it was primarily used for gladiatorial contests and public spectacles such as animal hunts, mock sea battles, and executions."
+                }
+            ],
+            "hops": [
+                "The Colosseum"
+            ]
+        },
+        "The Taj Mahal": {
+            "term": "The Taj Mahal",
+            "passage": "The Taj Mahal is an ivory-white marble mausoleum on the right bank of the Yamuna river in the Indian city of Agra. It was commissioned in 1632 by the Mughal emperor, Shah Jahan, to house the tomb of his favorite wife, Mumtaz Mahal, who died giving birth to their 14th child. The Taj Mahal is widely recognized as one of the most beautiful buildings in the world and is considered a masterpiece of Mughal architecture. It is also considered a symbol of love and romance, as it was built by a grieving husband to honor his deceased wife. The Taj Mahal complex is spread over 42 acres (17 ha) and includes a mosque, a guest house, and a main gateway. The tomb is surrounded by a large, symmetrical garden, which is divided into four main parts, each with a distinct flower bed, fountain, and pathway. The Taj Mahal is made primarily of white marble, which was transported from the nearby town of Makrana. Other materials used in its construction include red sandstone, turquoise, and jade. The intricate decorations and calligraphy on the walls of the mausoleum are also made of semi-precious stones. The Taj Mahal is visited by millions of tourists each year, making it one of the most popular tourist destinations in India. It is also a UNESCO World Heritage Site and was declared one of the Seven Wonders of the World in 2007.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the Mughal emperor who commissioned the Taj Mahal?",
+                    "answer": "Shah Jahan",
+                    "explanation": "The Mughal emperor who commissioned the Taj Mahal was Shah Jahan."
+                },
+                {
+                    "question": "What is the name of the river on which the Taj Mahal is located?",
+                    "answer": "Yamuna",
+                    "explanation": "The Taj Mahal is located on the right bank of the Yamuna river in the Indian city of Agra."
+                },
+                {
+                    "question": "What is the location of the Taj Mahal?",
+                    "answer": "India",
+                    "explanation": "The Taj Mahal is located in the Indian city of Agra, on the right bank of the Yamuna river."
+                },
+                {
+                    "question": "What is the name of the Indian city where the Taj Mahal is located?",
+                    "answer": "Agra",
+                    "explanation": "The Taj Mahal is located in the Indian city of Agra."
+                },
+                {
+                    "question": "What is the year in which the Taj Mahal was declared one of the Seven Wonders of the World?",
+                    "answer": "2007",
+                    "explanation": "The Taj Mahal was declared one of the Seven Wonders of the World in 2007."
+                },
+                {
+                    "question": "What is the name of the town from which white marble was transported for the construction of the Taj Mahal?",
+                    "answer": "Makrana",
+                    "explanation": "The town from which white marble was transported for the construction of the Taj Mahal is Makrana."
+                },
+                {
+                    "question": "What is the year in which the Taj Mahal was commissioned?",
+                    "answer": "1632",
+                    "explanation": "The Taj Mahal was commissioned in 1632 by the Mughal emperor, Shah Jahan, to house the tomb of his favorite wife, Mumtaz Mahal, who died giving birth to their 14th child."
+                }
+            ],
+            "hops": [
+                "The Taj Mahal"
+            ]
+        },
+        "The Grand Canyon": {
+            "term": "The Grand Canyon",
+            "passage": "The Grand Canyon is a steep-sided canyon carved by the Colorado River in Arizona, United States. It is considered one of the seven natural wonders of the world and is visited by millions of tourists each year. The canyon stretches for 277 miles (446 km), ranges in width from 4 to 18 miles (6 to 29 km), and has a depth of over a mile (1.6 km) at its deepest point. The Grand Canyon was formed over millions of years by the erosive power of the Colorado River, which cut through layer upon layer of rock and sediment. The canyon is located in northern Arizona and is managed by the National Park Service. It is divided into two main sections: the South Rim, which is the most popular and accessible area, and the North Rim, which is more remote and rugged. The Grand Canyon is home to a diverse range of plant and animal life, including several endangered species. Visitors to the canyon can enjoy hiking, camping, rafting, and helicopter tours, among other activities. The canyon is also a popular destination for scientists and researchers, who study the geology and ecology of the area. The Grand Canyon has a rich cultural history, with evidence of human habitation dating back over 10,000 years. The canyon was also a major transportation route for Native American tribes, and later became a popular destination for tourists and adventurers. Today, the Grand Canyon remains an important symbol of the natural beauty and ruggedness of the American West.",
+            "qae_pairs": [
+                {
+                    "question": "What is the location of the Grand Canyon?",
+                    "answer": "United States",
+                    "explanation": "The Grand Canyon is located in Arizona, United States."
+                },
+                {
+                    "question": "What organization manages The Grand Canyon?",
+                    "answer": "the National Park Service",
+                    "explanation": "The National Park Service manages The Grand Canyon."
+                },
+                {
+                    "question": "What is the name of the river that carved the Grand Canyon over millions of years?",
+                    "answer": "the Colorado River",
+                    "explanation": "The river that carved the Grand Canyon over millions of years is the Colorado River."
+                }
+            ],
+            "hops": [
+                "The Grand Canyon"
+            ]
+        },
+        "The Sydney Opera House": {
+            "term": "The Sydney Opera House",
+            "passage": "The Sydney Opera House is a multi-purpose performing arts center in Sydney, New South Wales, Australia. It is one of the most recognizable buildings in the world and a symbol of Australia. The building was designed by Danish architect Jørn Utzon and opened in 1973. It is situated on Bennelong Point in Sydney Harbour, close to the Sydney Harbour Bridge. The Sydney Opera House is a series of interlocking shells, which were inspired by the sails of ships and the forms of the natural world. The building is made up of six main performance venues, which include the Opera Theatre, the Concert Hall, the Drama Theatre, the Playhouse, the Studio and the Forecourt. The Opera House also contains a number of restaurants, cafes, bars, and shops. The Sydney Opera House is home to a variety of performances throughout the year, including opera, ballet, dance, music, and theater. It is also a popular tourist attraction, with over 8 million visitors since it opened. The Opera House is also used for other events such as conferences, exhibitions, and festivals. The Sydney Opera House has become an iconic symbol of Australia and is recognized as a UNESCO World Heritage Site. It has also been featured in numerous films, television shows, and advertisements. The Opera House is seen as a representation of Australia's cultural identity and its commitment to the arts.",
+            "qae_pairs": [
+                {
+                    "question": "What year was the Sydney Opera House opened to the public?",
+                    "answer": "1973",
+                    "explanation": "The Sydney Opera House was opened to the public in 1973."
+                },
+                {
+                    "question": "What is the name of the Danish architect who designed the Sydney Opera House?",
+                    "answer": "Jørn Utzon",
+                    "explanation": "The Danish architect who designed the Sydney Opera House is Jørn Utzon."
+                },
+                {
+                    "question": "What is the name of one of the main performance venues in the Sydney Opera House?",
+                    "answer": "the Opera Theatre",
+                    "explanation": "The Opera Theatre is one of the main performance venues in the Sydney Opera House."
+                },
+                {
+                    "question": "What is the location of the Sydney Opera House?",
+                    "answer": "Bennelong Point",
+                    "explanation": "The Sydney Opera House is located on Bennelong Point in Sydney, New South Wales, Australia."
+                }
+            ],
+            "hops": [
+                "The Sydney Opera House"
+            ]
+        },
+        "The Pyramids of Giza": {
+            "term": "The Pyramids of Giza",
+            "passage": "The Pyramids of Giza are an iconic symbol of ancient Egypt and one of the most recognizable structures in the world. Located on the outskirts of the city of Cairo, the pyramids are the tombs of the pharaohs Khufu, Khafre, and Menkaure, who ruled Egypt during the Old and Middle Kingdom periods. The Great Pyramid of Giza, also known as the Pyramid of Khufu, is the largest of the three pyramids and is the only one of the Seven Wonders of the Ancient World that still exists. It was built around 2560 BC and was originally 146 meters (481 feet) tall, making it the tallest man-made structure in the world for over 3,800 years. Today, the pyramid stands at 138.8 meters (455 feet) tall, due to erosion and the removal of the outer smooth layer of limestone blocks. The Pyramid of Khafre, also known as the Pyramid of Chephren, is the second-largest of the three pyramids and is slightly smaller than the Great Pyramid. It was built around 2520 BC and was originally 143.5 meters (468 feet) tall, making it the tallest man-made structure in the world for over 1,500 years. Today, the pyramid stands at 136.4 meters (447 feet) tall. The Pyramid of Menkaure, also known as the Pyramid of Mykerinos, is the smallest of the three pyramids and was built around 2490 BC.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the pyramid that was built around 2560 BC and is the largest of the three pyramids?",
+                    "answer": "Giza",
+                    "explanation": "The name of the pyramid that was built around 2560 BC and is the largest of the three pyramids is the Great Pyramid of Giza."
+                },
+                {
+                    "question": "What is the age of the Great Pyramid of Giza?",
+                    "answer": "BC",
+                    "explanation": "The Great Pyramid of Giza was built around 2560 BC."
+                },
+                {
+                    "question": "What is the name of the smallest pyramid in the passage and which pharaoh is buried there?",
+                    "answer": "The Pyramid of Menkaure",
+                    "explanation": "The Pyramid of Menkaure, also known as the Pyramid of Mykerinos, is the smallest of the three pyramids and was built around 2490 BC."
+                },
+                {
+                    "question": "What is the time period during which the pharaohs Khufu, Khafre, and Menkaure ruled Egypt?",
+                    "answer": "Middle Kingdom",
+                    "explanation": "The pharaohs Khufu, Khafre, and Menkaure ruled Egypt during the Middle Kingdom period."
+                },
+                {
+                    "question": "What is the location of the Pyramids of Giza?",
+                    "answer": "Cairo",
+                    "explanation": "The Pyramids of Giza are located on the outskirts of the city of Cairo."
+                },
+                {
+                    "question": "What is the name of the pharaoh whose tomb is located in the Great Pyramid of Giza?",
+                    "answer": "Khufu",
+                    "explanation": "The pharaoh whose tomb is located in the Great Pyramid of Giza is Khufu."
+                }
+            ],
+            "hops": [
+                "The Pyramids of Giza"
+            ]
+        },
+        "The Statue of Liberty": {
+            "term": "The Statue of Liberty",
+            "passage": "The Statue of Liberty is a colossal neoclassical sculpture on Liberty Island in New York Harbor in New York City, in the United States. The statue, designed by Frédéric Auguste Bartholdi, was a gift from the people of France to the United States to celebrate the centennial of American independence in 1876. However, it was not until October 28, 1886, that the statue was dedicated as a symbol of freedom and democracy. The statue is of a woman who holds a torch and a tablet inscribed with July 4, 1776, the date of the American Declaration of Independence. The statue is an icon of freedom and has welcomed millions of immigrants to the United States through its port of New York City. It is also a popular tourist destination in New York City. The statue is made of copper sheets, which have oxidized to a green patina over time. It stands at a height of 151 feet (46 meters) from the ground to the tip of its torch. The statue weighs 225 tons and is located on Liberty Island, which is accessible by ferry. The statue is an important cultural icon in the United States and is often associated with the country's ideals of freedom and democracy. It has been featured in numerous works of art, literature, and popular culture, and is considered one of the most recognizable landmarks in the world.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the island where the Statue of Liberty is located?",
+                    "answer": "Liberty Island",
+                    "explanation": "The island where the Statue of Liberty is located is called Liberty Island."
+                },
+                {
+                    "question": "What is the location of The Statue of Liberty?",
+                    "answer": "the United States",
+                    "explanation": "The Statue of Liberty is located in the United States."
+                },
+                {
+                    "question": "What is the date inscribed on the tablet held by the Statue of Liberty?",
+                    "answer": "July 4, 1776",
+                    "explanation": "The date inscribed on the tablet held by the Statue of Liberty is July 4, 1776. This is the date when the American Declaration of Independence was signed, which declared the thirteen American colonies as a new nation, independent of Great Britain. The Statue of Liberty was a gift from the people of France to the United States to celebrate the centennial of American independence in 1876, but it was not until October 28, 1886, that the statue was dedicated as a symbol of freedom and democracy."
+                },
+                {
+                    "question": "What is the name of the person who designed The Statue of Liberty?",
+                    "answer": "Frédéric Auguste Bartholdi",
+                    "explanation": "Frédéric Auguste Bartholdi is the name of the person who designed The Statue of Liberty."
+                },
+                {
+                    "question": "What is the date on which The Statue of Liberty was dedicated as a symbol of freedom and democracy?",
+                    "answer": "October 28, 1886",
+                    "explanation": "The Statue of Liberty was dedicated as a symbol of freedom and democracy on October 28, 1886."
+                },
+                {
+                    "question": "What was the year in which the Statue of Liberty was gifted by the people of France to the United States?",
+                    "answer": "1876",
+                    "explanation": "The Statue of Liberty was gifted by the people of France to the United States in 1876."
+                },
+                {
+                    "question": "What is the name of the country that gifted the Statue of Liberty to the United States?",
+                    "answer": "France",
+                    "explanation": "The country that gifted the Statue of Liberty to the United States is France."
+                }
+            ],
+            "hops": [
+                "The Statue of Liberty"
+            ]
+        },
+        "The Golden Gate Bridge": {
+            "term": "The Golden Gate Bridge",
+            "passage": "The Golden Gate Bridge is a suspension bridge spanning the Golden Gate strait, the one-mile-wide (1.6 km), three-mile-long (4.8 km) channel between San Francisco Bay and the Pacific Ocean. The structure links the American city of San Francisco, California, to Marin County, carrying both U.S. Route 101 and California State Route 1 across the strait. The bridge’s span length was previously the longest in the world, and it has been called one of the Wonders of the Modern World by the American Society of Civil Engineers. The idea for a bridge across the Golden Gate Strait was first proposed in 1917 by a San Francisco Bulletin journalist named James Wilkins. He wrote an article titled “The Most Beautiful Bridge in the World Will Be Built in San Francisco Bay,” which helped to popularize the idea. However, it was not until 1930 that construction began on the bridge, which was designed by Joseph Strauss, a civil engineer who had previously worked on the construction of the Bay Bridge in Oakland, California. The bridge was built by the American Bridge Company, which employed thousands of workers during its construction. The project was completed on April 19, 1937, and the bridge was opened to pedestrian traffic on the following day. Vehicular traffic was allowed to cross the bridge on the morning of April 20, 1937. The Golden Gate Bridge is a popular tourist destination, with millions of visitors each year. It is also a symbol of San Francisco and the surrounding Bay Area, and has been featured in numerous films, television shows, and other forms of media. In addition to its aesthetic and cultural significance, the Golden Gate Bridge is also an important transportation link between San Francisco and the surrounding region.",
+            "qae_pairs": [
+                {
+                    "question": "What company built the Golden Gate Bridge?",
+                    "answer": "the American Bridge Company",
+                    "explanation": "The American Bridge Company built the Golden Gate Bridge."
+                },
+                {
+                    "question": "What was the date when the construction of the Golden Gate Bridge was completed?",
+                    "answer": "April 19, 1937",
+                    "explanation": "The construction of the Golden Gate Bridge was completed on April 19, 1937."
+                },
+                {
+                    "question": "What was the year when construction began on the Golden Gate Bridge, according to the passage?",
+                    "answer": "1930",
+                    "explanation": "According to the passage, construction began on the Golden Gate Bridge in 1930."
+                },
+                {
+                    "question": "What is the name of the civil engineer who designed the Golden Gate Bridge?",
+                    "answer": "Joseph Strauss",
+                    "explanation": "Joseph Strauss was the civil engineer who designed the Golden Gate Bridge."
+                },
+                {
+                    "question": "What was the year that the idea for a bridge across the Golden Gate Strait was first proposed?",
+                    "answer": "1917",
+                    "explanation": "The idea for a bridge across the Golden Gate Strait was first proposed in 1917 by a San Francisco Bulletin journalist named James Wilkins."
+                },
+                {
+                    "question": "What was the date on which the Golden Gate Bridge was opened to pedestrian traffic?",
+                    "answer": "April 20, 1937",
+                    "explanation": "The Golden Gate Bridge was opened to pedestrian traffic on April 20, 1937."
+                },
+                {
+                    "question": "What organization designated the Golden Gate Bridge as one of the Wonders of the Modern World?",
+                    "answer": "the American Society of Civil Engineers",
+                    "explanation": "The American Society of Civil Engineers designated the Golden Gate Bridge as one of the Wonders of the Modern World."
+                },
+                {
+                    "question": "What was the name of the journalist who first proposed the idea for the Golden Gate Bridge in an article in 1917?",
+                    "answer": "James Wilkins",
+                    "explanation": "James Wilkins was the journalist who first proposed the idea for the Golden Gate Bridge in an article titled “The Most Beautiful Bridge in the World Will Be Built in San Francisco Bay” in 1917."
+                }
+            ],
+            "hops": [
+                "The Golden Gate Bridge"
+            ]
+        },
+        "The Northern Lights": {
+            "term": "The Northern Lights",
+            "passage": "The Northern Lights, also known as Aurora Borealis, is a natural light display that occurs in the polar regions of the Earth. It is caused by the collision of charged particles from the sun with atoms in the Earth's atmosphere. The Northern Lights are most commonly seen in countries located near the Arctic Circle, such as Norway, Sweden, Finland, and Canada. The Northern Lights are typically seen in the late evening or early morning hours, and are most active during periods of high solar wind. The colors of the Northern Lights can range from green, pink, purple, and blue, and can sometimes be seen as far south as the United States and the United Kingdom. The Northern Lights have been a source of inspiration for artists and writers throughout history. In many cultures, the Northern Lights are associated with myths and legends, and are often seen as a symbol of hope, renewal, and the beauty of nature. Scientists continue to study the Northern Lights in order to better understand the Earth's atmosphere and the effects of solar wind on our planet. Despite their beauty, the Northern Lights also serve an important role in scientific research and the study of space weather.",
+            "qae_pairs": [
+                {
+                    "question": "What is the location where the Northern Lights, also known as Aurora Borealis, are most commonly seen?",
+                    "answer": "the Arctic Circle",
+                    "explanation": "The Northern Lights, also known as Aurora Borealis, are most commonly seen in countries located near the Arctic Circle, such as Norway, Sweden, Finland, and Canada."
+                },
+                {
+                    "question": "What is the natural light display caused by in the polar regions of the Earth, according to the passage?",
+                    "answer": "Aurora Borealis",
+                    "explanation": "The Northern Lights, also known as Aurora Borealis, is a natural light display caused by the collision of charged particles from the sun with atoms in the Earth's atmosphere."
+                },
+                {
+                    "question": "Which country is known for being the most common location to view the Northern Lights, also known as Aurora Borealis?",
+                    "answer": "Norway",
+                    "explanation": "Norway is known for being the most common location to view the Northern Lights, also known as Aurora Borealis."
+                }
+            ],
+            "hops": [
+                "The Northern Lights"
+            ]
+        }
+    },
+    "second_hops": {
+        "Gustave Eiffel": {
+            "term": "Gustave Eiffel",
+            "passage": "Gustave Eiffel was a French civil engineer and architect whose most famous work is the Eiffel Tower, a wrought-iron lattice tower on the Champ de Mars in Paris, France. He was born in Dijon, France, in 1832, and he died in Paris in 1923, at the age of 91. Eiffel was also known for his work on the Statue of Liberty and the internal structure of the Panama Canal. He was a pioneer of bridge-building, and his company, Eiffel et Cie, designed and built many notable bridges, including the Garabit viaduct in southern France and the Pont de la Tournelle in Paris. Eiffel was a member of several scientific and engineering societies, and he was awarded numerous honors for his contributions to the fields of engineering and architecture.",
+            "qae_pairs": [
+                {
+                    "question": "What was the name of the company that Gustave Eiffel founded?",
+                    "answer": "Eiffel et Cie",
+                    "explanation": "Eiffel et Cie."
+                },
+                {
+                    "question": "What is the name of the bridge that Gustave Eiffel designed and built in Paris?",
+                    "answer": "the Pont de la Tournelle",
+                    "explanation": "The name of the bridge that Gustave Eiffel designed and built in Paris is the Pont de la Tournelle."
+                },
+                {
+                    "question": "What country did Gustave Eiffel build the Eiffel Tower in?",
+                    "answer": "France",
+                    "explanation": "Gustave Eiffel built the Eiffel Tower in France."
+                },
+                {
+                    "question": "What is the name of the city where Gustave Eiffel was born, as mentioned in the passage?",
+                    "answer": "Dijon",
+                    "explanation": "The name of the city where Gustave Eiffel was born, as mentioned in the passage, is Dijon."
+                },
+                {
+                    "question": "What is Gustave Eiffel known for, in addition to designing the Eiffel Tower, that earned him a place in the history of engineering?",
+                    "answer": "the Panama Canal",
+                    "explanation": "Gustave Eiffel is known for his work on the internal structure of the Panama Canal, in addition to designing the Eiffel Tower and the Statue of Liberty. He was a pioneer of bridge-building, and his company, Eiffel et Cie, designed and built many notable bridges, including the Garabit viaduct in southern France and the Pont de la Tournelle in Paris. Eiffel was a member of several scientific and engineering societies, and he was awarded numerous honors for his contributions to the fields of engineering and architecture."
+                },
+                {
+                    "question": "What was the year Gustave Eiffel was born, according to the passage?",
+                    "answer": "1832",
+                    "explanation": "According to the passage, Gustave Eiffel was born in Dijon, France, in 1832."
+                },
+                {
+                    "question": "What was the age of Gustave Eiffel when he passed away?",
+                    "answer": "the age of 91",
+                    "explanation": "Gustave Eiffel passed away at the age of 91."
+                },
+                {
+                    "question": "What year did Gustave Eiffel die, according to the passage?",
+                    "answer": "1923",
+                    "explanation": "According to the passage, Gustave Eiffel died in Paris in 1923, at the age of 91."
+                },
+                {
+                    "question": "What is the name of the city where Gustave Eiffel's most famous work, the Eiffel Tower, is located?",
+                    "answer": "Paris",
+                    "explanation": "The name of the city where Gustave Eiffel's most famous work, the Eiffel Tower, is located is Paris."
+                }
+            ],
+            "hops": [
+                "The Eiffel Tower",
+                "Gustave Eiffel"
+            ]
+        },
+        "China": {
+            "term": "China",
+            "passage": "China is a country in East Asia with a population of over 1.4 billion people. Its capital city is Beijing, and its largest city is Shanghai. China has a diverse landscape, ranging from mountains and plateaus to deserts and grasslands. The country has a rich history, with a civilization that dates back more than 4,000 years. China is known for its ancient architecture, art, literature, and philosophy, as well as its modern contributions to technology and innovation. Today, China is the world's second-largest economy and a major player in international trade and diplomacy.",
+            "qae_pairs": [
+                {
+                    "question": "What is the region where China is located according to the passage?",
+                    "answer": "East Asia",
+                    "explanation": "According to the passage, China is a country located in East Asia."
+                },
+                {
+                    "question": "What is the capital city of China?",
+                    "answer": "Beijing",
+                    "explanation": "The capital city of China is Beijing."
+                },
+                {
+                    "question": "What is the largest city in China, as mentioned in the passage?",
+                    "answer": "Shanghai",
+                    "explanation": "The largest city in China, as mentioned in the passage, is Shanghai."
+                }
+            ],
+            "hops": [
+                "The Great Wall of China",
+                "China"
+            ]
+        },
+        "Ridley Scott": {
+            "term": "Ridley Scott",
+            "passage": "Ridley Scott is an English film director and producer. He is known for his visually distinctive style, often utilizing a muted color palette and dark lighting. Scott is the second-oldest of three brothers, all of whom are filmmakers. His older brother, Tony, is also a film director, while his younger brother, Frank, is a film producer. Scott's early career was marked by his work as a set designer and art director on various films, including the 1968 film \"The Dock Brief\" and the 1970 film \"Kes\". He made his feature film directorial debut with the 1977 film \"The Duelists\", which received critical acclaim. However, it was his 1982 film \"Blade Runner\" that cemented his status as a major filmmaker, and it has since become a cult classic. Scott has since directed a wide range of films, including the 1985 film \"Legend\", the 1991 film \"Thelma & Louise\", the 1995 film \"Alien\", the 2000 film \"Gladiator\", and the 2006 film \"The Departed\". He has also produced a number of films, including the 2007 film \"American Gangster\" and the 2013 film \"The Counselor\". Scott has received numerous accolades for his work, including an Honorary César in 2018 and the BAFTA Fellowship in 2019. He has also been nominated for three Academy Awards, winning the Best Director award for \"Gladiator\" in 2001.",
+            "qae_pairs": [
+                {
+                    "question": "What year did Ridley Scott direct the film \"The Departed\"?",
+                    "answer": "2006",
+                    "explanation": "The correct answer is 2006. Ridley Scott directed the film \"The Departed\" in that year."
+                },
+                {
+                    "question": "What is the name of the award that Ridley Scott received from the French Academy of Cinema in 2018?",
+                    "answer": "Honorary César",
+                    "explanation": "The name of the award that Ridley Scott received from the French Academy of Cinema in 2018 is Honorary César."
+                },
+                {
+                    "question": "What year did Ridley Scott's film \"Blade Runner\" release, according to the passage?",
+                    "answer": "1982",
+                    "explanation": "According to the passage, Ridley Scott's film \"Blade Runner\" released in 1982."
+                },
+                {
+                    "question": "What year did Ridley Scott direct the film \"Thelma & Louise\"?",
+                    "answer": "1991",
+                    "explanation": "Ridley Scott directed the film \"Thelma & Louise\" in 1991."
+                },
+                {
+                    "question": "What is the name of Ridley Scott's older brother who is also a film director?",
+                    "answer": "Tony",
+                    "explanation": "Tony is the name of Ridley Scott's older brother who is also a film director."
+                },
+                {
+                    "question": "What year did Ridley Scott direct the film \"Legend\"?",
+                    "answer": "1985",
+                    "explanation": "Ridley Scott directed the film \"Legend\" in 1985."
+                },
+                {
+                    "question": "What year did Ridley Scott direct the film 'Gladiator', which won him the Academy Award for Best Director?",
+                    "answer": "2000",
+                    "explanation": "Ridley Scott directed the film 'Gladiator' in the year 2000, which won him the Academy Award for Best Director."
+                },
+                {
+                    "question": "What year did Ridley Scott direct the film 'Alien'?",
+                    "answer": "1995",
+                    "explanation": "The correct answer is 1995. Ridley Scott directed the film 'Alien' in 1995."
+                },
+                {
+                    "question": "What year did Ridley Scott win the Academy Award for Best Director?",
+                    "answer": "2001",
+                    "explanation": "Ridley Scott won the Academy Award for Best Director in 2001 for his work on the film \"Gladiator\"."
+                },
+                {
+                    "question": "What year did Ridley Scott direct the film \"The Counselor\"?",
+                    "answer": "2013",
+                    "explanation": "Ridley Scott directed the film \"The Counselor\" in 2013."
+                },
+                {
+                    "question": "What is the name of Ridley Scott's younger brother who is a film producer?",
+                    "answer": "Frank",
+                    "explanation": "The name of Ridley Scott's younger brother who is a film producer is Frank."
+                }
+            ],
+            "hops": [
+                "The Colosseum",
+                "Ridley Scott"
+            ]
+        },
+        "the Flavian Amphitheatre": {
+            "term": "the Flavian Amphitheatre",
+            "passage": "Flavian Amphitheatre (Italian: Anfiteatro Flavio; Latin: Amphitheatrum Flavium) is an ancient structure in Rome, Italy, that was used for gladiatorial contests and other public spectacles such as animal hunts, mock sea battles, and executions. It was completed in 80 AD under the emperor Titus and is named after the Flavian dynasty. The amphitheatre is situated just east of the Roman Forum and is the largest amphitheatre in the world, with a capacity of 50,000 spectators. It is also the only remaining ancient amphitheatre in Rome. The Flavian Amphitheatre is widely considered to be one of the greatest works of Roman architecture and engineering.",
+            "qae_pairs": [
+                {
+                    "question": "What was the name of the dynasty that the Flavian Amphitheatre was named after?",
+                    "answer": "the Flavian dynasty",
+                    "explanation": "The Flavian dynasty was the name of the dynasty that the Flavian Amphitheatre was named after. The amphitheatre was completed in 80 AD under the emperor Titus and is the largest amphitheatre in the world with a capacity of 50,000 spectators. It is also the only remaining ancient amphitheatre in Rome and is widely considered to be one of the greatest works of Roman architecture and engineering."
+                },
+                {
+                    "question": "What is the name of the city where the Flavian Amphitheatre is located?",
+                    "answer": "Rome",
+                    "explanation": "The Flavian Amphitheatre is located in Rome, Italy."
+                },
+                {
+                    "question": "What is the name of the country where the Flavian Amphitheatre is located?",
+                    "answer": "Italy",
+                    "explanation": "The Flavian Amphitheatre is located in Italy."
+                },
+                {
+                    "question": "What was the year in which the Flavian Amphitheatre was completed?",
+                    "answer": "80 AD",
+                    "explanation": "The Flavian Amphitheatre was completed in 80 AD."
+                }
+            ],
+            "hops": [
+                "The Colosseum",
+                "the Flavian Amphitheatre"
+            ]
+        },
+        "Shah Jahan": {
+            "term": "Shah Jahan",
+            "passage": "Shah Jahan was the fifth Mughal Emperor, who ruled from 1628 to 1658. He was the second son of Mughal Emperor Jahangir and was born in Lahore, Punjab, India. He was known for his military campaigns, architectural achievements, and religious tolerance. During his reign, he built the Taj Mahal, the Red Fort, and several other monuments in Delhi. He also expanded the Mughal Empire into new territories, including Kashmir, Persia, and parts of Central Asia. However, his reign was also marked by political instability, economic decline, and a series of wars with regional powers. He was succeeded by his son Aurangzeb.",
+            "qae_pairs": [
+                {
+                    "question": "What region did Shah Jahan expand the Mughal Empire into during his reign, as stated in the passage?",
+                    "answer": "Central Asia",
+                    "explanation": "Shah Jahan expanded the Mughal Empire into new territories, including Kashmir, Persia, and parts of Central Asia during his reign, as stated in the passage."
+                },
+                {
+                    "question": "What was the time period of Shah Jahan's reign according to the passage?",
+                    "answer": "1628 to 1658",
+                    "explanation": "According to the passage, Shah Jahan's reign lasted from 1628 to 1658."
+                },
+                {
+                    "question": "What city was Shah Jahan born in and where did he build the Taj Mahal?",
+                    "answer": "Lahore",
+                    "explanation": "Shah Jahan was born in Lahore, Punjab, India. He is known for building the Taj Mahal, which is located in Agra, Uttar Pradesh, India."
+                },
+                {
+                    "question": "What is the name of the region where Shah Jahan was born and where he built the Taj Mahal and other monuments during his reign as the Mughal Emperor?",
+                    "answer": "Punjab",
+                    "explanation": "Shah Jahan was born in Lahore, which is located in Punjab, India. During his reign as the Mughal Emperor, he built the Taj Mahal, the Red Fort, and several other monuments in Delhi. However, he also expanded the Mughal Empire into new territories, including Kashmir, Persia, and parts of Central Asia. Despite his military campaigns and architectural achievements, his reign was also marked by political instability, economic decline, and a series of wars with regional powers."
+                },
+                {
+                    "question": "What is the name of the territory that Shah Jahan expanded the Mughal Empire into during his reign, which is known for its architectural achievements, including the Taj Mahal and Red Fort, and religious tolerance?",
+                    "answer": "Kashmir",
+                    "explanation": "Shah Jahan expanded the Mughal Empire into Kashmir during his reign, which is known for its architectural achievements, including the Taj Mahal and Red Fort, and religious tolerance."
+                },
+                {
+                    "question": "What was the name of Shah Jahan's successor who succeeded him as the Mughal Emperor?",
+                    "answer": "Aurangzeb",
+                    "explanation": "The name of Shah Jahan's successor who succeeded him as the Mughal Emperor was Aurangzeb."
+                },
+                {
+                    "question": "What is the name of the city where Shah Jahan built the Taj Mahal, the Red Fort, and several other monuments during his reign?",
+                    "answer": "Delhi",
+                    "explanation": "The name of the city where Shah Jahan built the Taj Mahal, the Red Fort, and several other monuments during his reign is Delhi."
+                }
+            ],
+            "hops": [
+                "The Taj Mahal",
+                "Shah Jahan"
+            ]
+        },
+        "Yamuna": {
+            "term": "Yamuna",
+            "passage": "Yamuna is a river in northern India and Bangladesh. It is a tributary of the Ganges River and is 1,376 km (858 mi) long. The river is considered sacred by Hindus and is believed to be the sister of Lord Krishna. It is also known as Yamuna Maharani (Queen Yamuna) and Yamuna Devi. The river originates from the Yamunotri Glacier in the Himalayas and flows through the states of Uttarakhand, Uttar Pradesh, Haryana, and Delhi before emptying into the Ganges River in Allahabad. The river is prone to flooding and has been the subject of environmental concerns due to pollution from industrial and agricultural runoff.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the city where the Yamuna river empties into the Ganges River, according to the passage?",
+                    "answer": "Allahabad",
+                    "explanation": "According to the passage, the Yamuna river empties into the Ganges River in Allahabad."
+                },
+                {
+                    "question": "What is the answer to the question about the country where Yamuna flows into?",
+                    "answer": "Bangladesh",
+                    "explanation": "The answer to the question about the country where Yamuna flows into is Bangladesh."
+                },
+                {
+                    "question": "What is the name of the river that the Yamuna is a tributary of, and what is the answer?",
+                    "answer": "the Ganges River",
+                    "explanation": "The Yamuna is a tributary of the Ganges River."
+                },
+                {
+                    "question": "What is the name of the glacier from which the Yamuna river originates?",
+                    "answer": "the Yamunotri Glacier",
+                    "explanation": "The Yamuna river originates from the Yamunotri Glacier in the Himalayas."
+                },
+                {
+                    "question": "What is the name of the state in which Yamuna originates from the Yamunotri Glacier in the Himalayas?",
+                    "answer": "Uttarakhand",
+                    "explanation": "The name of the state in which Yamuna originates from the Yamunotri Glacier in the Himalayas is Uttarakhand."
+                }
+            ],
+            "hops": [
+                "The Taj Mahal",
+                "Yamuna"
+            ]
+        },
+        "India": {
+            "term": "India",
+            "passage": "India is a country in South Asia. It is the seventh-largest country by area and with more than 1.3 billion people, it is the second-most populous country in the world. India's capital is New Delhi, and its largest city is Mumbai. India's border countries are Pakistan to the northwest, China and Nepal to the north, Bhutan to the northeast, and Bangladesh and Myanmar to the east. India has a diverse geography, with Himalayan mountain ranges in the north, a fertile plain in the northwest, a desert in the west, and an island chain in the southeast. India has a rich history dating back to the Indus Valley Civilization, and has been shaped by various cultures and religions, including Hinduism, Islam, Christianity, and Sikhism. India is a federal parliamentary democratic republic and is a member of the United Nations, the World Trade Organization, and the Commonwealth of Nations. India is known for its diverse culture, traditions, and cuisine, and is home to many iconic landmarks, including the Taj Mahal, the beaches of Goa, and the backwaters of Kerala.",
+            "qae_pairs": [
+                {
+                    "question": "What organization is India a member of that also includes the United States and Canada?",
+                    "answer": "the Commonwealth of Nations",
+                    "explanation": "India is a member of the Commonwealth of Nations, which also includes the United States and Canada. The Commonwealth of Nations is an intergovernmental organization that was founded in 1931 and is headquartered in London, United Kingdom. It is made up of 54 member states, most of which are former territories of the British Empire. The organization aims to promote democracy, human rights, economic development, and cultural understanding among its members."
+                },
+                {
+                    "question": "What is the country that borders India to the north and is also located between India and China?",
+                    "answer": "Nepal",
+                    "explanation": "Nepal is the country that borders India to the north and is also located between India and China."
+                },
+                {
+                    "question": "What is the country that borders India to the east and is also known as Burma?",
+                    "answer": "Myanmar",
+                    "explanation": "Myanmar is the country that borders India to the east and is also known as Burma."
+                },
+                {
+                    "question": "What country is located to the northeast of India and has a border with China and Nepal?",
+                    "answer": "Bhutan",
+                    "explanation": "Bhutan is the country located to the northeast of India and has a border with China and Nepal."
+                },
+                {
+                    "question": "What is the capital of India, which is the second-most populous country in the world, and where is it located?",
+                    "answer": "New Delhi",
+                    "explanation": "New Delhi is the capital of India, which is the second-most populous country in the world."
+                },
+                {
+                    "question": "What is the country that borders India to the east and has a diverse geography with Himalayan mountain ranges in the north, a fertile plain in the northwest, a desert in the west, and an island chain in the southeast?",
+                    "answer": "Bangladesh",
+                    "explanation": "Bangladesh is the country that borders India to the east and has a diverse geography with Himalayan mountain ranges in the north, a fertile plain in the northwest, a desert in the west, and an island chain in the southeast."
+                },
+                {
+                    "question": "What country borders India to the north and has a desert in the west?",
+                    "answer": "China",
+                    "explanation": "China borders India to the north and has a desert in the west."
+                },
+                {
+                    "question": "What is the name of India's largest city?",
+                    "answer": "Mumbai",
+                    "explanation": "Mumbai."
+                },
+                {
+                    "question": "What was the name of the civilization that existed in India before the Maurya Empire?",
+                    "answer": "the Indus Valley Civilization",
+                    "explanation": "The Indus Valley Civilization was the name of the civilization that existed in India before the Maurya Empire."
+                },
+                {
+                    "question": "What is the region where India is located?",
+                    "answer": "South Asia",
+                    "explanation": "India is a country located in South Asia."
+                },
+                {
+                    "question": "What is the country that borders India to the northwest and has a territorial dispute over the region of Kashmir?",
+                    "answer": "Pakistan",
+                    "explanation": "Pakistan is the country that borders India to the northwest and has a territorial dispute over the region of Kashmir."
+                }
+            ],
+            "hops": [
+                "The Taj Mahal",
+                "India"
+            ]
+        },
+        "Agra": {
+            "term": "Agra",
+            "passage": "Agra is a city in the northern Indian state of Uttar Pradesh. It is 378 miles (609 kilometers) southeast of New Delhi, 126 miles (203 kilometers) southwest of Lucknow, and 58 miles (93 kilometers) northeast of Jhansi. Agra is one of three cities in the Golden Triangle of tourist destinations in India, along with Delhi and Jaipur. Agra is also a major tourist destination because of its many Mughal-era buildings, most notably the Taj Mahal, which is considered one of the greatest examples of Mughal architecture. The city is also home to the RSS-owned newspaper Panchajanya, and the Rashtriya Swayamsevak Sangh (RSS) has a strong presence in the city.",
+            "qae_pairs": [
+                {
+                    "question": "What is the capital of India located near Agra?",
+                    "answer": "New Delhi",
+                    "explanation": "New Delhi is the capital of India and it is located near Agra."
+                },
+                {
+                    "question": "What organization has a strong presence in Agra, as indicated in the passage?",
+                    "answer": "the Rashtriya Swayamsevak Sangh",
+                    "explanation": "The passage mentions that the Rashtriya Swayamsevak Sangh (RSS) has a strong presence in Agra."
+                },
+                {
+                    "question": "What is the capital city of Rajasthan?     Answer: Jaipur.     Explanation: The passage does not contain the term 'Agra' and the answer to the question is 'Jaipur'.",
+                    "answer": "Jaipur",
+                    "explanation": "The capital city of Rajasthan is Jaipur."
+                }
+            ],
+            "hops": [
+                "The Taj Mahal",
+                "Agra"
+            ]
+        },
+        "Makrana": {
+            "term": "Makrana",
+            "passage": "Makrana is a town located in the Nagaur district of the Indian state of Rajasthan. It is situated about 60 km north-east of Nagaur and 200 km south-west of Jaipur. Makrana is known for its historical significance and is a popular tourist destination. The town is home to the famous Shri Shantadurga Temple, which is dedicated to the goddess Shantadurga, a form of the Hindu goddess Durga. The temple is known for its intricate carvings and sculptures, and is a popular attraction for tourists. Makrana is also known for its traditional art and craft, including embroidery, pottery, and stone carving. The town has a number of schools and colleges, providing education to the local population. Makrana is well connected by road and rail to other major cities in Rajasthan, making it a convenient destination for tourists.",
+            "qae_pairs": [
+                {
+                    "question": "What is the capital of Rajasthan, which is famous for its Makrana marble? Answer: Jaipur.",
+                    "answer": "Jaipur",
+                    "explanation": "The capital of Rajasthan, which is famous for its Makrana marble, is Jaipur."
+                },
+                {
+                    "question": "What is the historical significance of Makrana, and what is it known for in terms of traditional art and craft?",
+                    "answer": "Rajasthan",
+                    "explanation": "Makrana is a town located in the Nagaur district of the Indian state of Rajasthan. It is known for its historical significance and is a popular tourist destination. The town is home to the famous Shri Shantadurga Temple, which is dedicated to the goddess Shantadurga, a form of the Hindu goddess Durga. The temple is known for its intricate carvings and sculptures, and is a popular attraction for tourists."
+                }
+            ],
+            "hops": [
+                "The Taj Mahal",
+                "Makrana"
+            ]
+        },
+        "United States": {
+            "term": "United States",
+            "passage": "United States The United States of America is a country in North America. It is the world's third- or fourth-largest country by total area, and the third-most populous. The U.S. is a federal constitutional republic comprising 50 states, a federal district, and various territories. The country was first colonized by Europeans in the early 16th century, with the Spanish colonization of Florida and the French colony of Louisiana. The United States declared its independence from Great Britain in 1776, as the thirteen British colonies on the Atlantic seaboard of North America broke away from Great Britain and formed a new nation, the United States of America. The U.S. Constitution was adopted in 1787, and the country was expanded with the Louisiana Purchase in 1803, and the annexation of Texas in 1845. The American Civil War was fought from 1861 to 1865, resulting in the abolition of slavery and the preservation of the Union. The country expanded further with the acquisition of Puerto Rico, Guam, and the Philippines in the late 19th century, and Hawaii in 1898. The U.S. emerged from World War II as a superpower, and the country's post-war economic expansion was marked by a period of rapid economic growth and global economic dominance. Today, the United States is the world's largest economy by nominal GDP, and the country is a leader in many fields, including technological innovation, entertainment, and military power.",
+            "qae_pairs": [
+                {
+                    "question": "What was the significant event that led to the expansion of the United States, as mentioned in the passage?",
+                    "answer": "the Louisiana Purchase",
+                    "explanation": "The significant event that led to the expansion of the United States, as mentioned in the passage, was the Louisiana Purchase. The Louisiana Purchase was a land deal between the United States and France in 1803, in which the U.S. acquired approximately 827,000 square miles of land from France for $15 million."
+                },
+                {
+                    "question": "What state in the United States is known for being the first colony established by Europeans in North America?",
+                    "answer": "Florida",
+                    "explanation": "The state in the United States known for being the first colony established by Europeans in North America is Florida."
+                },
+                {
+                    "question": "What is the continent where the United States is located?",
+                    "answer": "North America",
+                    "explanation": "The United States is located on the continent of North America."
+                },
+                {
+                    "question": "What state in the United States is also known as the 'Aloha State' and is located in the Pacific Ocean?",
+                    "answer": "Hawaii",
+                    "explanation": "The state in the United States that is also known as the 'Aloha State' and is located in the Pacific Ocean is Hawaii."
+                },
+                {
+                    "question": "What territory of the United States is located in the Caribbean Sea?",
+                    "answer": "Puerto Rico",
+                    "explanation": "The territory of the United States located in the Caribbean Sea is Puerto Rico."
+                },
+                {
+                    "question": "What year did the United States declare its independence from Great Britain?",
+                    "answer": "1776",
+                    "explanation": "The United States declared its independence from Great Britain in 1776."
+                },
+                {
+                    "question": "What year did the United States Constitution get adopted, according to the passage?",
+                    "answer": "1787",
+                    "explanation": "According to the passage, the United States Constitution was adopted in 1787."
+                },
+                {
+                    "question": "What body of water separates the United States from Europe?",
+                    "answer": "Atlantic",
+                    "explanation": "The body of water that separates the United States from Europe is the Atlantic. The United States is located in North America, while Europe is located in a different continent called Eurasia. The Atlantic Ocean is the largest of the Earth's five oceans and separates the Americas from Eurasia and Africa. The United States has a long coastline that stretches along the Atlantic Ocean, and many of its major cities are located on or near the coast."
+                },
+                {
+                    "question": "What year did the American Civil War take place in the United States?",
+                    "answer": "1861 to 1865",
+                    "explanation": "The American Civil War took place from 1861 to 1865 in the United States."
+                },
+                {
+                    "question": "What year did the United States acquire Hawaii?",
+                    "answer": "1898",
+                    "explanation": "The United States acquired Hawaii in 1898."
+                },
+                {
+                    "question": "What was the country that the United States declared its independence from in 1776?",
+                    "answer": "Great Britain",
+                    "explanation": "The country that the United States declared its independence from in 1776 was Great Britain."
+                },
+                {
+                    "question": "What year did the United States acquire Texas?",
+                    "answer": "1845",
+                    "explanation": "The United States acquired Texas in 1845."
+                },
+                {
+                    "question": "What year did the United States acquire Louisiana through the Louisiana Purchase?",
+                    "answer": "1803",
+                    "explanation": "The United States acquired Louisiana through the Louisiana Purchase in 1803."
+                }
+            ],
+            "hops": [
+                "The Grand Canyon",
+                "United States"
+            ]
+        },
+        "the National Park Service": {
+            "term": "the National Park Service",
+            "passage": "National Park Service The National Park Service (NPS) is an agency of the United States federal government that manages all national parks, many national monuments, and other conservation and historical properties with various title designations. It was created on August 25, 1916, by President Woodrow Wilson, from a transfer of functions from the Department of the Interior. The NPS is a bureau of the United States Department of the Interior. The NPS oversees the management of 85 national parks and monuments, 19,000 employees, and over 330 million visitors per year. It has a budget of over $3 billion per year. The NPS also provides technical assistance to other countries and organizations, and helps to train park rangers and other conservation professionals from around the world. The NPS is headquartered in Washington, D.C., and is led by a director nominated by the President of the United States and confirmed by the Senate. The director is responsible for managing the agency and overseeing its various programs and activities. The NPS is also organized into several regions, each of which is responsible for managing the parks and other properties within its jurisdiction.",
+            "qae_pairs": [
+                {
+                    "question": "What is the abbreviation for 'the National Park Service' as per the passage?",
+                    "answer": "NPS",
+                    "explanation": "The abbreviation for 'the National Park Service' as per the passage is NPS."
+                },
+                {
+                    "question": "What was the name of the person who created the National Park Service, as mentioned in the passage?",
+                    "answer": "Woodrow Wilson",
+                    "explanation": "The person who created the National Park Service, as mentioned in the passage, is Woodrow Wilson."
+                },
+                {
+                    "question": "What is the location of the National Park Service headquarters?",
+                    "answer": "Washington",
+                    "explanation": "The National Park Service headquarters is located in Washington, D.C."
+                },
+                {
+                    "question": "What date was the National Park Service created?",
+                    "answer": "August 25, 1916",
+                    "explanation": "The National Park Service was created on August 25, 1916."
+                },
+                {
+                    "question": "What is the department responsible for managing the National Park Service?",
+                    "answer": "the Department of the Interior",
+                    "explanation": "The Department of the Interior is responsible for managing the National Park Service."
+                }
+            ],
+            "hops": [
+                "The Grand Canyon",
+                "the National Park Service"
+            ]
+        },
+        "the Colorado River": {
+            "term": "the Colorado River",
+            "passage": "Colorado River =============== The Colorado River is a major river in the southwestern United States and northwestern Mexico. The 1,450-mile (2,338 km) river drains parts of seven U.S. states and two Mexican states. It is regulated by the Colorado River Compact, signed in 1922, which apportions the river's water among the lower 18 states. The river's most significant feature is the Grand Canyon, a 277-mile (446 km) gorge carved by the river through the state of Arizona. The river also provides water for agriculture, industry, and domestic use in the region. The Colorado River is an important source of hydroelectric power, with dams along its length providing electricity to millions of people. The river is also a popular destination for recreational activities such as rafting, kayaking, and fishing. The river's headwaters are in the Rocky Mountains of Colorado, and it flows through or along the borders of six states before emptying into the Gulf of California in Mexico. The river has played an important role in the history and culture of the region, and its management continues to be a complex and controversial issue.",
+            "qae_pairs": [
+                {
+                    "question": "What year was the Colorado River Compact signed, which apportioned the river's water among the lower 18 states?",
+                    "answer": "1922",
+                    "explanation": "The Colorado River Compact was signed in 1922."
+                },
+                {
+                    "question": "What state is the Colorado River's most significant feature, the Grand Canyon, located in?",
+                    "answer": "Arizona",
+                    "explanation": "The Colorado River's most significant feature, the Grand Canyon, is located in the state of Arizona."
+                },
+                {
+                    "question": "What body of water does the Colorado River empty into?",
+                    "answer": "the Gulf of California",
+                    "explanation": "The Colorado River empties into the Gulf of California in Mexico."
+                }
+            ],
+            "hops": [
+                "The Grand Canyon",
+                "the Colorado River"
+            ]
+        },
+        "Jørn Utzon": {
+            "term": "Jørn Utzon",
+            "passage": "Jørn Utzon is a Danish architect, born on 20 April 1918 in Copenhagen, Denmark. He is best known for designing the Sydney Opera House, which is considered one of the greatest architectural achievements of the 20th century. Utzon was awarded the Pritzker Architecture Prize in 2003, the Royal Gold Medal in 1978, and the Aga Khan Award for Architecture in 1980, among many other awards and recognitions for his work. Utzon passed away on 29 November 2020, at the age of 102.",
+            "qae_pairs": [
+                {
+                    "question": "What award did Jørn Utzon receive in 1978?",
+                    "answer": "the Royal Gold Medal",
+                    "explanation": "Jørn Utzon received the Royal Gold Medal in 1978."
+                },
+                {
+                    "question": "What was the date of Jørn Utzon's passing, according to the passage?",
+                    "answer": "29 November 2020",
+                    "explanation": "According to the passage, Jørn Utzon passed away on 29 November 2020."
+                },
+                {
+                    "question": "What year did Jørn Utzon receive the Aga Khan Award for Architecture?",
+                    "answer": "1980",
+                    "explanation": "Jørn Utzon received the Aga Khan Award for Architecture in 1980."
+                },
+                {
+                    "question": "What is the name of the city where Jørn Utzon was born, as mentioned in the passage?",
+                    "answer": "Copenhagen",
+                    "explanation": "The city where Jørn Utzon was born, as mentioned in the passage, is Copenhagen."
+                },
+                {
+                    "question": "What award did Jørn Utzon receive in 1980 related to his work as an architect?",
+                    "answer": "the Aga Khan Award for Architecture",
+                    "explanation": "Jørn Utzon received the Aga Khan Award for Architecture in 1980, related to his work as an architect."
+                },
+                {
+                    "question": "What was the age of Jørn Utzon when he passed away?",
+                    "answer": "the age of 102",
+                    "explanation": "Jørn Utzon passed away on 29 November 2020, at the age of 102."
+                },
+                {
+                    "question": "What is the date of birth of Jørn Utzon, according to the passage?",
+                    "answer": "20 April 1918",
+                    "explanation": "According to the passage, the date of birth of Jørn Utzon is 20 April 1918."
+                },
+                {
+                    "question": "What award did Jørn Utzon receive for his work, and what is the name of the award?",
+                    "answer": "the Pritzker Architecture Prize",
+                    "explanation": "Jørn Utzon received the Pritzker Architecture Prize for his work. The Pritzker Architecture Prize is an annual international award that recognizes excellence in architecture. It was founded in 1979 by the Pritzker family and is considered one of the most prestigious awards in the field of architecture."
+                },
+                {
+                    "question": "What year did Jørn Utzon receive the Pritzker Architecture Prize?",
+                    "answer": "2003",
+                    "explanation": "Jørn Utzon received the Pritzker Architecture Prize in 2003."
+                },
+                {
+                    "question": "What country did Jørn Utzon, the Danish architect best known for designing the Sydney Opera House, hail from?",
+                    "answer": "Denmark",
+                    "explanation": "Jørn Utzon, the Danish architect best known for designing the Sydney Opera House, hails from Denmark."
+                },
+                {
+                    "question": "What was the century in which Jørn Utzon was recognized for his architectural achievements?",
+                    "answer": "the 20th century",
+                    "explanation": "Jørn Utzon was recognized for his architectural achievements in the 20th century."
+                }
+            ],
+            "hops": [
+                "The Sydney Opera House",
+                "Jørn Utzon"
+            ]
+        },
+        "the Opera Theatre": {
+            "term": "the Opera Theatre",
+            "passage": "The Opera Theatre is a performing arts venue located in the city of New York. It was founded in 1967 and is known for its innovative productions of classical and contemporary operas. The theatre has a seating capacity of 1,200 and is home to the Opera Theatre of Saint Louis, which produces a wide range of operatic works throughout the year. The Opera Theatre is also known for its education and outreach programs, which include workshops, master classes, and performances for young people. The theatre has been praised for its acoustics and intimate atmosphere, which allows audiences to experience the beauty of opera in a unique and personal way.",
+            "qae_pairs": [
+                {
+                    "question": "What year was the Opera Theatre founded, according to the passage?",
+                    "answer": "1967",
+                    "explanation": "According to the passage, the Opera Theatre was founded in 1967."
+                }
+            ],
+            "hops": [
+                "The Sydney Opera House",
+                "the Opera Theatre"
+            ]
+        },
+        "Bennelong Point": {
+            "term": "Bennelong Point",
+            "passage": "Bennelong Point is a promontory in Sydney, New South Wales, Australia. It is located in the southern part of the Sydney central business district, and is bounded by the waters of Sydney Cove to the east and the Harbour to the west. The point is named after Bennelong, an Aboriginal man who was brought to England in 1793 by Governor Arthur Phillip, the first Governor of New South Wales. Bennelong Point is home to several major landmarks, including the Sydney Opera House and the Sydney Harbour Bridge. The area around the point is also a popular tourist destination, with many restaurants, bars, and shops located nearby. The point has a rich history, with evidence of Aboriginal occupation dating back thousands of years. In the early colonial period, the area was used as a military base and a place of execution for convicts. Today, Bennelong Point is a vibrant and bustling part of Sydney, with a constant stream of visitors and locals enjoying its many attractions. Its unique blend of history, culture, and natural beauty make it a truly special place.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the person who was the first governor of New South Wales and was involved in the establishment of a settlement at Bennelong Point?  Answer: Arthur Phillip.",
+                    "answer": "Arthur Phillip",
+                    "explanation": "The name of the person who was the first governor of New South Wales and was involved in the establishment of a settlement at Bennelong Point is Arthur Phillip."
+                },
+                {
+                    "question": "What is the name of the state in which Bennelong Point is located, according to the passage?",
+                    "answer": "New South Wales",
+                    "explanation": "According to the passage, Bennelong Point is located in the state of New South Wales, Australia."
+                },
+                {
+                    "question": "What is the estimated time period for Aboriginal occupation at Bennelong Point, according to the passage?",
+                    "answer": "thousands of years",
+                    "explanation": "According to the passage, there is evidence of Aboriginal occupation at Bennelong Point dating back thousands of years."
+                }
+            ],
+            "hops": [
+                "The Sydney Opera House",
+                "Bennelong Point"
+            ]
+        },
+        "Giza": {
+            "term": "Giza",
+            "passage": "Giza is a city in Egypt, located on the west bank of the Nile river, immediately across from the capital Cairo. It is the capital of the Giza governorate, and is part of the greater Cairo metropolitan area. The city is best known as the location of the Giza pyramids, which are one of the Seven Wonders of the Ancient World and the oldest and largest of the three pyramids in the Giza pyramid complex, the other two being the Pyramid of Djoser and the Pyramid of Khufu. The Great Sphinx of Giza is also located on the Giza plateau, facing the pyramids. Giza has a population of about 30,000 people, and is a popular tourist destination.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the river that runs alongside Giza?",
+                    "answer": "Nile",
+                    "explanation": "The river that runs alongside Giza is the Nile."
+                },
+                {
+                    "question": "What is the location of the Giza pyramids and the Great Sphinx of Giza?",
+                    "answer": "the west bank",
+                    "explanation": "The Giza pyramids and the Great Sphinx of Giza are located on the west bank of the Nile river, immediately across from the capital Cairo."
+                }
+            ],
+            "hops": [
+                "The Pyramids of Giza",
+                "Giza"
+            ]
+        },
+        "BC": {
+            "term": "BC",
+            "passage": "BC ------- BC stands for Before Christ. It is a system of dating used to indicate years that occurred before the birth of Jesus Christ. The BC system is used in conjunction with the AD system, which stands for Anno Domini and is used to indicate years that occurred after the birth of Jesus Christ. The BC system was developed by the monk Dionysius Exiguus in the 6th century. Prior to his work, there was no standardized system for dating years. Dionysius Exiguus developed the BC system as a way to count the years between the birth of Jesus Christ and the present day. The BC system is based on the traditionally accepted date of Jesus Christ's birth, which is believed to have occurred in 4 BC. However, there is some debate among scholars as to the exact date of Jesus' birth, and some believe that it may have occurred as much as several years earlier or later than 4 BC. The BC system is still widely used today, particularly in academic and historical contexts. It is often used in conjunction with other dating systems, such as the AD system and the CE/BCE system, which are used to indicate years that occurred on or after the birth of Jesus Christ.",
+            "qae_pairs": [
+                {
+                    "question": "What event marked the beginning of the BC era?  Answer: The 6th century.",
+                    "answer": "the 6th century",
+                    "explanation": "The 6th century marked the beginning of the BC era. The BC system was developed by the monk Dionysius Exiguus in the 6th century as a way to count the years between the birth of Jesus Christ and the present day. Prior to his work, there was no standardized system for dating years. The BC system is based on the traditionally accepted date of Jesus Christ's birth, which is believed to have occurred in 4 BC."
+                }
+            ],
+            "hops": [
+                "The Pyramids of Giza",
+                "BC"
+            ]
+        },
+        "The Pyramid of Menkaure": {
+            "term": "The Pyramid of Menkaure",
+            "passage": "Pyramid of Menkaure ====Pyramid of Menkaure The Pyramid of Menkaure is the smallest of the three pyramids in the Giza pyramid complex, located in Egypt. It was built during the reign of the pharaoh Menkaure, who ruled from 2490 to 2472 BC. The pyramid is thought to have been built as a tomb for Menkaure, although it is smaller than the other two pyramids in the complex, the Great Pyramid of Giza and the Pyramid of Khafre. It is also the only one of the three pyramids to have a square base. The Pyramid of Menkaure is made of limestone and rises to a height of 66.3 meters (217 feet). It has a slope of 51 degrees and a square base with sides of 100 meters (328 feet). The pyramid was originally covered in smooth white limestone, but much of this has since been removed or eroded away. Despite its smaller size, the Pyramid of Menkaure is still an impressive structure and is a popular tourist attraction. Visitors can climb to the top of the pyramid and enjoy panoramic views of the surrounding area.",
+            "qae_pairs": [
+                {
+                    "question": "What country is The Pyramid of Menkaure located in?",
+                    "answer": "Egypt",
+                    "explanation": "The Pyramid of Menkaure is located in Egypt."
+                }
+            ],
+            "hops": [
+                "The Pyramids of Giza",
+                "The Pyramid of Menkaure"
+            ]
+        },
+        "Middle Kingdom": {
+            "term": "Middle Kingdom",
+            "passage": "1. The Middle Kingdom is a period in the history of ancient Egypt, which lasted from the 11th to the 13th dynasty. 2. It is characterized by the rise of Theban power and the decline of the power of the pharaohs. 3. The Middle Kingdom is considered a period of renewal and rejuvenation in ancient Egyptian history, as it saw the emergence of new artistic and architectural styles, as well as the development of new technologies. 4. The Middle Kingdom was marked by a series of successful military campaigns, which expanded Egypt's territory and influence in the region. 5. The period was also characterized by significant advances in literature, with the emergence of new forms of writing and the development of new genres of literature. 6. The Middle Kingdom was a time of great cultural and intellectual achievement, with the development of new religious beliefs and the emergence of new schools of thought. 7. The period was marked by the rise of powerful pharaohs, such as Sesostris III and Amenemhat III, who ruled over a prosperous and stable Egypt. 8. The Middle Kingdom came to an end with the emergence of the Hyksos dynasty, who invaded Egypt and established their own rule over the country.",
+            "qae_pairs": [
+                {
+                    "question": "What was the Middle Kingdom? Answer: The 13th dynasty.",
+                    "answer": "the 13th dynasty",
+                    "explanation": "The Middle Kingdom is a period in the history of ancient Egypt that lasted from the 11th to the 13th dynasty. It is characterized by the rise of Theban power and the decline of the power of the pharaohs. The period is considered a time of renewal and rejuvenation in ancient Egyptian history, as it saw the emergence of new artistic and architectural styles, as well as the development of new technologies. The Middle Kingdom was marked by a series of successful military campaigns, which expanded Egypt's territory and influence in the region."
+                },
+                {
+                    "question": "What pharaoh ruled over a prosperous and stable Egypt during the Middle Kingdom period, and what was the term used to describe this period in ancient Egyptian history?",
+                    "answer": "Sesostris III",
+                    "explanation": "The pharaoh who ruled over a prosperous and stable Egypt during the Middle Kingdom period was Sesostris III. The term used to describe this period in ancient Egyptian history is the Middle Kingdom."
+                }
+            ],
+            "hops": [
+                "The Pyramids of Giza",
+                "Middle Kingdom"
+            ]
+        },
+        "Cairo": {
+            "term": "Cairo",
+            "passage": "Cairo is the capital city of Egypt and the largest city in the Middle East and Africa. Located on the Nile River, Cairo has a population of over 19 million people, with an area of 451 square kilometers. The city is known for its rich history and culture, which dates back to ancient times. Cairo is home to many famous landmarks, including the Great Pyramids of Giza, the Sphinx, the Egyptian Museum, and the Al-Azhar Park. The city is also a major economic and cultural center in the region, with a diverse range of industries and a vibrant arts scene. Cairo is served by two international airports, Cairo International Airport and Al-Mansoura International Airport, and is a major transportation hub for the Middle East and Africa.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the river that runs through Cairo and is the answer to the question?",
+                    "answer": "the Nile River",
+                    "explanation": "The name of the river that runs through Cairo is the Nile River."
+                },
+                {
+                    "question": "What continent is Cairo located in, according to the passage?",
+                    "answer": "Africa",
+                    "explanation": "According to the passage, Cairo is located in Africa. The passage states that Cairo is the capital city of Egypt, which is located in Africa, and also mentions that it is the largest city in the Middle East and Africa."
+                },
+                {
+                    "question": "What is the name of the second international airport in Cairo that serves the city?",
+                    "answer": "Al-Mansoura International Airport",
+                    "explanation": "Al-Mansoura International Airport is the second international airport in Cairo that serves the city."
+                },
+                {
+                    "question": "What is the name of the museum located in Cairo that is known for its collection of ancient Egyptian artifacts?",
+                    "answer": "the Egyptian Museum",
+                    "explanation": "The Egyptian Museum."
+                }
+            ],
+            "hops": [
+                "The Pyramids of Giza",
+                "Cairo"
+            ]
+        },
+        "Liberty Island": {
+            "term": "Liberty Island",
+            "passage": "Liberty Island is an island located in the Upper New York Bay, within the borough of Manhattan, in New York City. The island has a length of about 1,600 feet (490 m) and a maximum width of about 800 feet (240 m). It is home to the Statue of Liberty, which is one of the most recognizable landmarks in the world. The island was previously known as Bedloe's Island, and was the site of Fort Wood, which was built to defend the city against attack by the British during the American Revolutionary War. The island is now a national monument and is visited by millions of people each year.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the bay where Liberty Island is located?",
+                    "answer": "New York Bay",
+                    "explanation": "The name of the bay where Liberty Island is located is New York Bay."
+                },
+                {
+                    "question": "What was the previous name of Liberty Island before it was renamed as Liberty Island?",
+                    "answer": "Bedloe's Island",
+                    "explanation": "The previous name of Liberty Island before it was renamed as Liberty Island was Bedloe's Island."
+                },
+                {
+                    "question": "What is the location of Liberty Island, and what is the name of the island before it was known as Liberty Island?",
+                    "answer": "Manhattan",
+                    "explanation": "The location of Liberty Island is in the Upper New York Bay, within the borough of Manhattan, in New York City. The island was previously known as Bedloe's Island, but it is now known as Liberty Island."
+                },
+                {
+                    "question": "What is the location of Liberty Island?",
+                    "answer": "New York City",
+                    "explanation": "The location of Liberty Island is New York City."
+                },
+                {
+                    "question": "What number of visitors does Liberty Island receive per year?",
+                    "answer": "each year",
+                    "explanation": "According to the passage, Liberty Island is visited by millions of people each year. Therefore, the number of visitors per year is millions."
+                }
+            ],
+            "hops": [
+                "The Statue of Liberty",
+                "Liberty Island"
+            ]
+        },
+        "the United States": {
+            "term": "the United States",
+            "passage": "United States The United States of America (commonly referred to as the United States or America) is a country of 50 states, a federal district, and various territories. It is located primarily in central North America, where its 48 contiguous states and Washington, D.C., the capital district, are situated. The United States also has five major territories, including Puerto Rico and the U.S. Virgin Islands in the Caribbean, and American Samoa, Guam, and the Northern Mariana Islands in the Pacific. The country's fourth of July 2021 population was estimated to be 332,915,073. The United States is the world's third- or fourth-largest country by total area, and the third-most populous. The United States is a federal presidential constitutional republic consisting of 50 states, a federal district, and several territories. The United States has a capitalist mixed economy which is fueled by abundant natural resources, a well-developed infrastructure, and high productivity. The United States is the world's largest economy by nominal GDP and the second-largest economy by PPP as of 2021. The United States is a member of the United Nations, World Trade Organization, G7, G20, and NATO. The United States is a developed country and a leading military power, with the world's largest defense budget. The United States is a founding member of the United Nations, and has been a member of the Security Council since its inception. The United States has been a global leader in science, technology, and innovation for much of the 20th century, and is home to many of the world's largest and most influential corporations.",
+            "qae_pairs": [
+                {
+                    "question": "What body of water is located to the west of the United States?",
+                    "answer": "Pacific",
+                    "explanation": "The body of water located to the west of the United States is the Pacific."
+                },
+                {
+                    "question": "What territories of the United States are located in the Pacific, and what is their capital?",
+                    "answer": "the Northern Mariana Islands",
+                    "explanation": "The territories of the United States located in the Pacific are American Samoa, Guam, and the Northern Mariana Islands. The capital of the Northern Mariana Islands is Saipan."
+                },
+                {
+                    "question": "What territory of the United States is located in the Pacific?",
+                    "answer": "Guam",
+                    "explanation": "The territory of the United States that is located in the Pacific is Guam."
+                },
+                {
+                    "question": "What is the capital district of the United States?",
+                    "answer": "D.C",
+                    "explanation": "The capital district of the United States is Washington, D.C."
+                },
+                {
+                    "question": "What is the location of the United States?",
+                    "answer": "North America",
+                    "explanation": "The United States is located primarily in central North America, where its 48 contiguous states and Washington, D.C., the capital district, are situated."
+                },
+                {
+                    "question": "What organization does the United States belong to according to the passage?",
+                    "answer": "NATO",
+                    "explanation": "According to the passage, the United States is a member of the United Nations, World Trade Organization, G7, G20, and NATO."
+                },
+                {
+                    "question": "What are the territories of the United States located in the Caribbean?",
+                    "answer": "the U.S. Virgin Islands",
+                    "explanation": "The United States has five major territories located in the Caribbean, including the U.S. Virgin Islands."
+                },
+                {
+                    "question": "What organization does the passage suggest that the United States is a member of, and what is the term used to describe this organization in the passage?",
+                    "answer": "the United Nations",
+                    "explanation": "The passage suggests that the United States is a member of the United Nations."
+                },
+                {
+                    "question": "What organization is the United States a member of that is responsible for promoting free trade and reducing trade barriers among its members?",
+                    "answer": "World Trade Organization",
+                    "explanation": "The United States is a member of the World Trade Organization (WTO), which is responsible for promoting free trade and reducing trade barriers among its members. The WTO was established in 1995 as a successor to the General Agreement on Tariffs and Trade (GATT), and has 164 member countries as of 2021. The organization's headquarters are located in Geneva, Switzerland, and it is governed by a Ministerial Conference, which meets every two years to review the organization's work and negotiate new trade agreements."
+                }
+            ],
+            "hops": [
+                "The Statue of Liberty",
+                "the United States"
+            ]
+        },
+        "Frédéric Auguste Bartholdi": {
+            "term": "Frédéric Auguste Bartholdi",
+            "passage": "Frédéric Auguste Bartholdi was a French sculptor who is best known for designing the Statue of Liberty. He was born in Colmar, France, in 1834, and died in Paris in 1904. Bartholdi was trained as a sculptor in Paris and Rome, and he became known for his large-scale public monuments. In addition to the Statue of Liberty, he also designed the Lion of Belfort, a massive sculpture commemorating the Franco-Prussian War, and the Peace Statue in Paris. Bartholdi was a member of the French Academy of Fine Arts and was awarded numerous honors for his work.",
+            "qae_pairs": [
+                {
+                    "question": "What organization did Frédéric Auguste Bartholdi join after he was known for his large-scale public monuments?",
+                    "answer": "the French Academy of Fine Arts",
+                    "explanation": "Frédéric Auguste Bartholdi joined the French Academy of Fine Arts after he was known for his large-scale public monuments."
+                },
+                {
+                    "question": "What is the name of the city where Frédéric Auguste Bartholdi died?",
+                    "answer": "Paris",
+                    "explanation": "Paris."
+                },
+                {
+                    "question": "What city was Frédéric Auguste Bartholdi born in?",
+                    "answer": "Colmar",
+                    "explanation": "Frédéric Auguste Bartholdi was born in Colmar, France."
+                },
+                {
+                    "question": "What year did Frédéric Auguste Bartholdi die, according to the passage?",
+                    "answer": "1904",
+                    "explanation": "According to the passage, Frédéric Auguste Bartholdi died in Paris in 1904."
+                },
+                {
+                    "question": "What city did Frédéric Auguste Bartholdi visit for his sculptor training?",
+                    "answer": "Rome",
+                    "explanation": "According to the passage, Frédéric Auguste Bartholdi was trained as a sculptor in Paris and Rome. Therefore, he visited Rome for his sculptor training."
+                },
+                {
+                    "question": "What year was Frédéric Auguste Bartholdi born, according to the passage?",
+                    "answer": "1834",
+                    "explanation": "According to the passage, Frédéric Auguste Bartholdi was born in 1834."
+                }
+            ],
+            "hops": [
+                "The Statue of Liberty",
+                "Frédéric Auguste Bartholdi"
+            ]
+        },
+        "France": {
+            "term": "France",
+            "passage": "France is a country in Western Europe with a population of approximately 67 million people. It is the largest country in the European Union and the third-largest in Europe after Russia and Ukraine. France is bordered by Belgium and Luxembourg to the northeast, Switzerland and Italy to the southeast, Spain to the southwest, and the Atlantic Ocean to the west. Its capital and largest city is Paris, which is renowned for its art, culture, fashion, and cuisine. Over the course of several centuries, France has grown into a major global power, with significant influence in matters of culture, education, politics, and economics.",
+            "qae_pairs": [
+                {
+                    "question": "What country is located to the southwest of France and is the answer to the question?",
+                    "answer": "Spain",
+                    "explanation": "The country located to the southwest of France is Spain."
+                },
+                {
+                    "question": "What body of water borders France to the west?",
+                    "answer": "the Atlantic Ocean",
+                    "explanation": "The body of water that borders France to the west is the Atlantic Ocean."
+                },
+                {
+                    "question": "What country borders France to the northeast, and what is the name of the capital and largest city of that country?",
+                    "answer": "Luxembourg",
+                    "explanation": "The country that borders France to the northeast is Luxembourg, and the capital and largest city of Luxembourg is Luxembourg City."
+                },
+                {
+                    "question": "What country borders France to the southeast and is also known for its cuisine?",
+                    "answer": "Italy",
+                    "explanation": "Italy borders France to the southeast and is also known for its cuisine."
+                },
+                {
+                    "question": "What is the term used in the passage to describe the location of France in Europe?",
+                    "answer": "Western Europe",
+                    "explanation": ""
+                },
+                {
+                    "question": "What is the capital city of France that is renowned for its art, culture, fashion, and cuisine?",
+                    "answer": "Paris",
+                    "explanation": "Paris is the capital city of France that is renowned for its art, culture, fashion, and cuisine."
+                },
+                {
+                    "question": "What country borders France to the northeast and is located between France and Luxembourg?",
+                    "answer": "Belgium",
+                    "explanation": "The country that borders France to the northeast and is located between France and Luxembourg is Belgium."
+                },
+                {
+                    "question": "What country is located between France and Italy, and what is the capital of that country?",
+                    "answer": "Switzerland",
+                    "explanation": "Switzerland is the country located between France and Italy. The capital of Switzerland is Bern."
+                }
+            ],
+            "hops": [
+                "The Statue of Liberty",
+                "France"
+            ]
+        },
+        "the American Bridge Company": {
+            "term": "the American Bridge Company",
+            "passage": "American Bridge Company The American Bridge Company is a construction company based in the United States. It was founded in 1901 and is headquartered in Fort Lauderdale, Florida. The company specializes in the construction of bridges, highways, and other infrastructure projects. The American Bridge Company has completed numerous projects throughout the United States, including the Golden Gate Bridge in San Francisco, California, and the Verrazzano-Narrows Bridge in New York City. The company has also worked on several projects for the United States Department of Transportation, including the reconstruction of the New Jersey Turnpike and the replacement of the Tappan Zee Bridge in New York. The company has a fleet of cranes, trucks, and other heavy equipment that it uses to complete its projects. It also employs a team of engineers, architects, and other professionals who work to design and plan its projects. The American Bridge Company is known for its commitment to safety and quality. The company has received numerous awards and recognitions for its work, including the Outstanding Civil Engineering Achievement Award from the American Society of Civil Engineers.",
+            "qae_pairs": [
+                {
+                    "question": "What was the main project completed by the American Bridge Company for the United States Department of Transportation?",
+                    "answer": "the New Jersey Turnpike",
+                    "explanation": "The main project completed by the American Bridge Company for the United States Department of Transportation was the reconstruction of the New Jersey Turnpike."
+                },
+                {
+                    "question": "What is the name of the bridge that the American Bridge Company helped replace in New York?",
+                    "answer": "the Tappan Zee Bridge",
+                    "explanation": "The American Bridge Company helped replace the Tappan Zee Bridge in New York."
+                },
+                {
+                    "question": "What award did the American Bridge Company receive from the American Society of Civil Engineers?",
+                    "answer": "the Outstanding Civil Engineering Achievement Award",
+                    "explanation": "The American Bridge Company received the Outstanding Civil Engineering Achievement Award from the American Society of Civil Engineers."
+                },
+                {
+                    "question": "What city did the American Bridge Company construct the Verrazzano-Narrows Bridge in?",
+                    "answer": "New York City",
+                    "explanation": "The American Bridge Company constructed the Verrazzano-Narrows Bridge in New York City."
+                },
+                {
+                    "question": "What state is the Golden Gate Bridge located in, according to the passage about the American Bridge Company?",
+                    "answer": "California",
+                    "explanation": "According to the passage about the American Bridge Company, the Golden Gate Bridge is located in California."
+                },
+                {
+                    "question": "What city is the headquarters of the American Bridge Company?",
+                    "answer": "Fort Lauderdale",
+                    "explanation": "The American Bridge Company is based in Fort Lauderdale, Florida."
+                },
+                {
+                    "question": "What year was the American Bridge Company founded?",
+                    "answer": "1901",
+                    "explanation": "The American Bridge Company was founded in 1901."
+                },
+                {
+                    "question": "What is the location of the American Bridge Company's headquarters?",
+                    "answer": "Florida",
+                    "explanation": "The American Bridge Company's headquarters is located in Fort Lauderdale, Florida."
+                },
+                {
+                    "question": "What agency has the American Bridge Company completed numerous projects for, including the reconstruction of the New Jersey Turnpike and the replacement of the Tappan Zee Bridge in New York?",
+                    "answer": "the United States Department of Transportation",
+                    "explanation": "The American Bridge Company has completed numerous projects for the United States Department of Transportation, including the reconstruction of the New Jersey Turnpike and the replacement of the Tappan Zee Bridge in New York."
+                },
+                {
+                    "question": "What is the name of the bridge that the American Bridge Company completed in New York City?",
+                    "answer": "the Verrazzano-Narrows Bridge",
+                    "explanation": "The American Bridge Company completed the Verrazzano-Narrows Bridge in New York City."
+                }
+            ],
+            "hops": [
+                "The Golden Gate Bridge",
+                "the American Bridge Company"
+            ]
+        },
+        "Joseph Strauss": {
+            "term": "Joseph Strauss",
+            "passage": "Joseph Strauss was an American composer, born in New York City in 1827. He is best known for his work as a composer of light music, particularly his waltzes, which were popular in the United States during the mid-19th century. Strauss was a prolific composer, and his works were widely performed and published during his lifetime. He was also a conductor and pianist, and he founded the New York Philharmonic Orchestra in 1842. Strauss died in New York City in 1870 at the age of 43.",
+            "qae_pairs": [
+                {
+                    "question": "What was the age of Joseph Strauss when he died?",
+                    "answer": "the age of 43",
+                    "explanation": "Joseph Strauss was an American composer who was born in New York City in 1827. He is best known for his work as a composer of light music, particularly his waltzes, which were popular in the United States during the mid-19th century. Strauss was a prolific composer and his works were widely performed and published during his lifetime. He was also a conductor and pianist, and he founded the New York Philharmonic Orchestra in 1842. Unfortunately, Joseph Strauss passed away at the age of 43 in New York City."
+                },
+                {
+                    "question": "What is the name of the orchestra that Joseph Strauss founded in New York City in 1842?",
+                    "answer": "the New York Philharmonic Orchestra",
+                    "explanation": "The orchestra that Joseph Strauss founded in New York City in 1842 is the New York Philharmonic Orchestra."
+                },
+                {
+                    "question": "What was the year of birth of Joseph Strauss, according to the passage?",
+                    "answer": "1827",
+                    "explanation": "According to the passage, Joseph Strauss was born in New York City in 1827."
+                },
+                {
+                    "question": "What is the name of the city where Joseph Strauss was born and where he founded the New York Philharmonic Orchestra?",
+                    "answer": "New York City",
+                    "explanation": "Joseph Strauss was born in New York City and founded the New York Philharmonic Orchestra in the same city."
+                },
+                {
+                    "question": "What was the year that Joseph Strauss founded the New York Philharmonic Orchestra, according to the passage?",
+                    "answer": "1842",
+                    "explanation": "According to the passage, Joseph Strauss founded the New York Philharmonic Orchestra in 1842."
+                },
+                {
+                    "question": "What was the year of Joseph Strauss's death as mentioned in the passage?",
+                    "answer": "1870",
+                    "explanation": "The year of Joseph Strauss's death as mentioned in the passage is 1870."
+                }
+            ],
+            "hops": [
+                "The Golden Gate Bridge",
+                "Joseph Strauss"
+            ]
+        },
+        "the American Society of Civil Engineers": {
+            "term": "the American Society of Civil Engineers",
+            "passage": "Language model: English Passage: The American Society of Civil Engineers (ASCE) is a professional organization that was founded in 1852. Its mission is to enhance the public's understanding of civil engineering issues and to promote the advancement of the civil engineering profession. The ASCE is headquartered in Reston, Virginia, and has over 150,000 members worldwide. The ASCE is responsible for establishing and maintaining standards for civil engineering practices, as well as providing education and training opportunities for its members. It also conducts research and publishes reports on various engineering topics, including infrastructure and sustainability. The ASCE is divided into 17 different technical divisions, each of which focuses on a specific area of civil engineering. These divisions cover topics such as structures, geotechnical engineering, transportation, and water resources. The ASCE also sponsors various events and conferences throughout the year, including the annual ASCE Convention, which brings together engineers, scientists, and policymakers to discuss the latest developments in the field. Overall, the American Society of Civil Engineers plays a vital role in promoting the advancement of the civil engineering profession and ensuring that the public's infrastructure is safe and reliable.",
+            "qae_pairs": [
+                {
+                    "question": "What state is the headquarters of the American Society of Civil Engineers?",
+                    "answer": "Virginia",
+                    "explanation": "The American Society of Civil Engineers is headquartered in Reston, Virginia."
+                },
+                {
+                    "question": "What year was the American Society of Civil Engineers founded?",
+                    "answer": "1852",
+                    "explanation": "The American Society of Civil Engineers (ASCE) was founded in 1852."
+                },
+                {
+                    "question": "What is the name of the city where the American Society of Civil Engineers is headquartered?",
+                    "answer": "Reston",
+                    "explanation": "The American Society of Civil Engineers is headquartered in Reston, Virginia."
+                }
+            ],
+            "hops": [
+                "The Golden Gate Bridge",
+                "the American Society of Civil Engineers"
+            ]
+        },
+        "James Wilkins": {
+            "term": "James Wilkins",
+            "passage": "James Wilkins was an American football player who played for the Green Bay Packers in the National Football League (NFL). He was born on August 25, 1985, in Mobile, Alabama. Wilkins played college football at the University of Alabama, where he was a member of the Crimson Tide football team from 2004 to 2008. He was signed by the Packers as an undrafted free agent in 2009. Wilkins played in 14 games for the Packers during the 2009 season, primarily as a special teams player. He recorded 11 special teams tackles, which ranked him second on the team. He also played in one game for the Packers in 2010, but did not record any statistics. After his NFL career, Wilkins returned to Alabama and worked as a high school football coach. He was the defensive coordinator at Vigor High School in Prichard, Alabama, from 2011 to 2014, and was the defensive coordinator at Theodore High School in Theodore, Alabama, from 2015 to 2018. He is currently the defensive coordinator at St. Paul's Episcopal School in Mobile, Alabama.",
+            "qae_pairs": [
+                {
+                    "question": "What school did James Wilkins become the defensive coordinator after his NFL career?",
+                    "answer": "Episcopal School",
+                    "explanation": "James Wilkins became the defensive coordinator at St. Paul's Episcopal School in Mobile, Alabama, after his NFL career."
+                },
+                {
+                    "question": "What was the date of birth of James Wilkins, as mentioned in the passage?",
+                    "answer": "August 25, 1985",
+                    "explanation": "The date of birth of James Wilkins, as mentioned in the passage, is August 25, 1985."
+                },
+                {
+                    "question": "What is the name of the high school where James Wilkins is currently working as a defensive coordinator?",
+                    "answer": "St. Paul's",
+                    "explanation": "According to the passage, James Wilkins is currently working as a defensive coordinator at St. Paul's Episcopal School in Mobile, Alabama."
+                },
+                {
+                    "question": "What team did James Wilkins play for in the National Football League (NFL)?",
+                    "answer": "the Green Bay Packers",
+                    "explanation": "James Wilkins played for the Green Bay Packers in the National Football League (NFL)."
+                },
+                {
+                    "question": "What university did James Wilkins attend before playing for the Green Bay Packers in the NFL?",
+                    "answer": "the University of Alabama",
+                    "explanation": "James Wilkins attended the University of Alabama before playing for the Green Bay Packers in the National Football League (NFL)."
+                },
+                {
+                    "question": "What is the hometown of James Wilkins, as mentioned in the passage?",
+                    "answer": "Mobile",
+                    "explanation": "The hometown of James Wilkins, as mentioned in the passage, is Mobile."
+                },
+                {
+                    "question": "What year did James Wilkins play college football at the University of Alabama?",
+                    "answer": "2004 to 2008",
+                    "explanation": "James Wilkins played college football at the University of Alabama from 2004 to 2008."
+                }
+            ],
+            "hops": [
+                "The Golden Gate Bridge",
+                "James Wilkins"
+            ]
+        },
+        "the Arctic Circle": {
+            "term": "the Arctic Circle",
+            "passage": "Arctic Circle The Arctic Circle is one of the five major circles of latitude that are used to define the geographical regions of the Earth. It is located at approximately 66.56 degrees north of the Equator, and it passes through eight countries: Canada, the United States, Russia, Norway, Sweden, Finland, Iceland, and Greenland. The region encompassed by the Arctic Circle is known for its harsh, cold climate, with long, dark winters and short, cool summers. The Arctic Circle is also home to many unique species of plants and animals that have adapted to survive in this extreme environment. Despite the challenges posed by the region's climate and terrain, the Arctic Circle remains an important location for scientific research, natural resource extraction, and transportation.",
+            "qae_pairs": [
+                {
+                    "question": "What country is located at approximately 66.56 degrees north of the Equator, and is also home to many unique species of plants and animals that have adapted to survive in the extreme environment of the Arctic Circle?",
+                    "answer": "Iceland",
+                    "explanation": "Iceland is the country that is located at approximately 66.56 degrees north of the Equator, and is also home to many unique species of plants and animals that have adapted to survive in the extreme environment of the Arctic Circle."
+                },
+                {
+                    "question": "What country is located entirely within the Arctic Circle, as described in the passage?",
+                    "answer": "Canada",
+                    "explanation": "The country that is located entirely within the Arctic Circle, as described in the passage, is Canada."
+                },
+                {
+                    "question": "What country is located at approximately 66.56 degrees north of the Equator and is home to many unique species of plants and animals that have adapted to survive in the extreme environment of the Arctic Circle?",
+                    "answer": "Finland",
+                    "explanation": "The country located at approximately 66.56 degrees north of the Equator and is home to many unique species of plants and animals that have adapted to survive in the extreme environment of the Arctic Circle is Finland."
+                },
+                {
+                    "question": "What is the answer to the question that asks about the extreme climate in the region encompassed by the Arctic Circle, specifically in winter?",
+                    "answer": "winters",
+                    "explanation": "The answer to the question about the extreme climate in the region encompassed by the Arctic Circle, specifically in winter, is \"winters.\" The passage states that the Arctic Circle is known for its harsh, cold climate, with long, dark winters and short, cool summers."
+                }
+            ],
+            "hops": [
+                "The Northern Lights",
+                "the Arctic Circle"
+            ]
+        },
+        "Aurora Borealis": {
+            "term": "Aurora Borealis",
+            "passage": "Aurora Borealis, also known as the Northern Lights, is a natural light display that occurs in the polar regions. It is caused by the collision of charged particles from the sun with atoms in the Earth's atmosphere. The resulting energy creates a vibrant display of colors in the sky, most commonly seen in shades of green, pink, purple, and blue. Aurora Borealis can be seen best on clear, dark nights during the winter months, when the air is cold and dry. The best places to view the Northern Lights are in countries located near the Arctic Circle, such as Norway, Iceland, and Canada. Aurora Borealis has been a source of inspiration for artists and poets throughout history, and it remains a popular attraction for tourists seeking a unique and unforgettable experience.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the natural phenomenon that is also known as the Aurora Borealis and occurs on Earth? Answer: Earth.",
+                    "answer": "Earth",
+                    "explanation": "The natural phenomenon that is also known as the Aurora Borealis and occurs on Earth is called Earth."
+                },
+                {
+                    "question": "What is the name of the phenomenon that occurs in the Arctic Circle and is also known as the Aurora Borealis?",
+                    "answer": "the Arctic Circle",
+                    "explanation": "The name of the phenomenon that occurs in the Arctic Circle and is also known as the Aurora Borealis is the Aurora Borealis."
+                },
+                {
+                    "question": "What country is the best place to view the Aurora Borealis during the winter months, where the air is cold and dry?",
+                    "answer": "Iceland",
+                    "explanation": "Iceland is the best place to view the Aurora Borealis during the winter months, where the air is cold and dry. The country is located near the Arctic Circle, which makes it an ideal location to view the Northern Lights. Iceland is known for its clear, dark nights during the winter months, which provide the perfect conditions for viewing the Aurora Borealis. Additionally, Iceland has become a popular destination for tourists seeking a unique and unforgettable experience."
+                },
+                {
+                    "question": "What country is known for being one of the best places to view the Aurora Borealis, also known as the Northern Lights, during the winter months, where the air is cold and dry, and where the Aurora Borealis has been a popular attraction for tourists seeking a unique and un",
+                    "answer": "Norway",
+                    "explanation": "Norway is known for being one of the best places to view the Aurora Borealis, also known as the Northern Lights, during the winter months, where the air is cold and dry, and where the Aurora Borealis has been a popular attraction for tourists seeking a unique and unforgettable experience."
+                },
+                {
+                    "question": "What is the best time of year to view the Aurora Borealis, according to the passage?",
+                    "answer": "the winter months",
+                    "explanation": "According to the passage, the best time of year to view the Aurora Borealis is during the winter months. This is because the Northern Lights can be seen best on clear, dark nights when the air is cold and dry. The passage also notes that the Northern Lights can be seen in countries located near the Arctic Circle, such as Norway, Iceland, and Canada."
+                }
+            ],
+            "hops": [
+                "The Northern Lights",
+                "Aurora Borealis"
+            ]
+        },
+        "Norway": {
+            "term": "Norway",
+            "passage": "Language: English Paragraph: Norway is a Nordic country in Northern Europe, bordered by Sweden to the west and Finland to the north. Norway has a total area of 323,802 square kilometers and a population of around 5.8 million. The country has a high standard of living, and its citizens enjoy universal health care, free education, and an efficient public transportation system. Norway is a constitutional monarchy and is divided into four administrative regions: Nordland, Trøndelag, Møre og Romsdal, and Western Norway. The capital city is Oslo, which is also the largest city in Norway. The country is known for its stunning natural beauty, including fjords, mountains, and forests. Norway is a member of the European Economic Area, the WTO, and the UN. The official language is Norwegian, and the currency is the Norwegian krone.",
+            "qae_pairs": [
+                {
+                    "question": "What country is located to the north of Norway and is the answer to the question about the country that borders Sweden to the west?",
+                    "answer": "Finland",
+                    "explanation": "The country that is located to the north of Norway and borders Sweden to the west is Finland."
+                },
+                {
+                    "question": "What is the capital city of Norway?",
+                    "answer": "Oslo",
+                    "explanation": "The capital city of Norway is Oslo."
+                },
+                {
+                    "question": "What organization is Norway a member of, according to the passage?",
+                    "answer": "UN",
+                    "explanation": "According to the passage, Norway is a member of the United Nations (UN)."
+                },
+                {
+                    "question": "What is the term that describes the country of Norway in the passage?",
+                    "answer": "Nordic",
+                    "explanation": ""
+                },
+                {
+                    "question": "What country borders Norway to the west and has a higher population than Norway?",
+                    "answer": "Sweden",
+                    "explanation": "Sweden borders Norway to the west and has a higher population than Norway."
+                }
+            ],
+            "hops": [
+                "The Northern Lights",
+                "Norway"
+            ]
+        }
+    }
+}

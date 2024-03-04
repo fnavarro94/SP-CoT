@@ -1,0 +1,537 @@
+{
+    "first_hops": {
+        "The Starry Night by Vincent Van Gogh": {
+            "term": "The Starry Night by Vincent Van Gogh",
+            "passage": "'The Starry Night', also known as 'Starry Night over the Rhone' in French, is a painting by Dutch post-Impressionist artist Vincent Van Gogh. It is one of his most recognizable works. The painting, which he began in 1889 in Arles and ended in Saint-Rémy-de-Provence in 18810 was first shown publicly by the Dutch post-Impressionist artist Paul Gauguin at the 1904 Exposition Post-Impressioniste in Paris, where it received universal acclaim. The painting, which depicts the town of Saint-Rémy-de-Provence, was sold in 1986 at auction for $504 million, making it the third-highest sold artwork in the history of art, the highest price for any Van Gogh painting, and one of the most expensive of any artwork overall.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the river in the painting?",
+                    "answer": "Rhone",
+                    "explanation": "The Starry Night is a painting of the Rhone river in Arles, France. The river is depicted in the background of the painting, which is a view of the town of Saint-Rémy-de-Provence. The name of the river is not mentioned in the painting, but it is believed to be the Rhone river."
+                },
+                {
+                    "question": "What year did Van Gogh paint The Starry Night?",
+                    "answer": "1889",
+                    "explanation": "The Starry Night was painted by Dutch post-Impressionist artist Vincent Van Gogh in 1889."
+                },
+                {
+                    "question": "What year did the painting The Starry Night by Vincent Van Gogh first appear in public?",
+                    "answer": "1904",
+                    "explanation": "The Starry Night was first shown publicly by the Dutch post-Impressionist artist Paul Gauguin at the 1904 Exposition Post-Impressioniste in Paris, where it received universal acclaim."
+                },
+                {
+                    "question": "What is the name of the artist who painted The Starry Night?",
+                    "answer": "Vincent Van Gogh",
+                    "explanation": "The Starry Night is a painting by Dutch post-Impressionist artist Vincent Van Gogh."
+                }
+            ],
+            "hops": [
+                "The Starry Night by Vincent Van Gogh"
+            ]
+        },
+        "The Scream by Edvard Munch": {
+            "term": "The Scream by Edvard Munch",
+            "passage": "“The Scream is an iconic 1916 painted by Norwegian artist Edvard Munch. The painting is now considered to be the world’s most recognizable painting, the most recognizable icon in art history. It is also one of the world’s best-known paintings and it is often used to illustrate the horror genre. The painting is one of the most widely painted artworks. In more than fifty paintings, it has been referenced or been the subject of more than forty-five prints. A large number of artists have adapted it in different styles, including Andy Warhol, a cartoonist’s rendering, a manga-styled image, a stained-glass window, a movie poster, a photograph, and a film poster. More than four million people have been reported to have seen the painting in public. The work is Munch’s most famous painting, a defining feature of the Post-Impressionist movement, and is known for its striking and dream-like imagery. It depicts a ghostly figure emerging from the background. The face and the figure have been interpreted in a number of different manners, from a figure standing on one foot and screaming to one that is the same size as the background.",
+            "qae_pairs": [
+                {
+                    "question": "What is the most recognizable painting in the world?",
+                    "answer": "Edvard Munch",
+                    "explanation": "“The Scream” is a painting by Norwegian artist Edvard Munch, painted in 1916. It is considered to be the world’s most recognizable painting, the most recognizable icon in art history. It is often used to illustrate the horror genre. The painting is one of the most widely painted artworks. In more than fifty paintings, it has been referenced or been the subject of more than forty-five prints. A large number of artists have adapted it in different styles, including Andy Warhol, a cartoonist’s rendering, a manga-styled image, a stained-glass window, a movie poster, a photograph"
+                }
+            ],
+            "hops": [
+                "The Scream by Edvard Munch"
+            ]
+        },
+        "Mona Lisa by Leonardo da Vinci": {
+            "term": "Mona Lisa by Leonardo da Vinci",
+            "passage": "\"Mona Lisa (Monalisa) was an oil painting painted by Leonardo da Vinci between 1503 and 1506. It is the most well-known painting of the Italian Renaissance, painted in oil paint on a poplar wood panel, and is among the best-known images in the world.\" It's been the inspiration of many artists including artists I admire like Vincent Van Gogh. It's a masterpiece which would be the most iconic painting in my opinion. I want to share this with you here as there is too much detail to have on the wikipedia page. I want to focus on the painting and the history and the technique and the colors etc. I wish I could have the resources in hand to show you these images from different parts of the world that I've collected over the years. The history and the technique and the materials used and the paintings and their inspirations in the Renaissance... I would like to write a paper on it for my Italian Renaissance Art class in college. I wish I could write on more about it here in this entry. Instead I'll just show the images from the wikipedia entry and a few from the web:\nHere's a link to this entry:\nMona Lisa by Leonardo da Vinci\n.",
+            "qae_pairs": [
+                {
+                    "question": "What is the best period in history for the arts?",
+                    "answer": "Renaissance",
+                    "explanation": "The Renaissance was a period of great artistic and intellectual achievement in Europe that lasted from the 14th to the 17th century. It was characterized by a revival of classical art, literature, and science, and is considered to be the most influential period in the history of Western art and culture. During this period, artists and writers produced works that were highly influential in their time and continue to be influential today. The Renaissance was a period of great change in Europe, and it saw the rise of great artists such as Leonardo da Vinci, Michelangelo, and Raphael. It was a time of great change in Europe, and it saw"
+                },
+                {
+                    "question": "how long does it take to paint a painting?",
+                    "answer": "the years",
+                    "explanation": "the years is the answer because the painting is an artwork that takes time to create. The painting is a masterpiece and it takes time to create it. Leonardo da Vinci spent years on it and it is a masterpiece that is still inspiring artists today. The painting is still one of the most iconic paintings in the world. The painting is a masterpiece that has been around for centuries and its still a masterpiece. The painting is still a masterpiece that is still inspiring artists today. The painting is still one of the most iconic paintings in the world. The painting is a masterpiece that has been around for centuries and its still"
+                },
+                {
+                    "question": "When was the painting created?",
+                    "answer": "between 1503 and 1506",
+                    "explanation": "Mona Lisa (Monalisa) was an oil painting painted by Leonardo da Vinci between 1503 and 1506. It is the most well-known painting of the Italian Renaissance, painted in oil paint on a poplar wood panel, and is among the best-known images in the world."
+                },
+                {
+                    "question": "What is the most iconic painting in the world?",
+                    "answer": "Mona Lisa",
+                    "explanation": "Mona Lisa is a painting by Leonardo da Vinci, painted between 1503 and 1506. It is one of the most iconic paintings in the world, and is known for its mysterious expression and its use of light and dark colors. The painting is a portrait of a woman, and is believed to be a portrait of Lisa Gherardini, the wife of a Florentine merchant. The painting is known for its use of light and dark colors, and its mysterious expression. It is one of the most famous paintings in the world, and is considered to be a masterpiece of the Renaissance."
+                },
+                {
+                    "question": "Who is the most famous artist in the world?",
+                    "answer": "Leonardo da Vinci",
+                    "explanation": "Leonardo da Vinci is considered one of the most famous artists in the world. He is known for his paintings, sculptures, architecture, and engineering. He is also known for his inventions, such as the helicopter, the tank, and the airplane. He is also known for his scientific works, such as the Vitruvian Man, the Last Supper, and the Mona Lisa. Leonardo da Vinci is considered one of the most influential artists in the world."
+                }
+            ],
+            "hops": [
+                "Mona Lisa by Leonardo da Vinci"
+            ]
+        },
+        "The Persistence of Memory by Salvador Dal": {
+            "term": "The Persistence of Memory by Salvador Dal",
+            "passage": "… … Wikipedia\nAlfred, Lord Tennyson — Alfred, Lord Tennyson (Lord Althorp, 1838 23 February 1910 6 February 1912), “Tennyson, The Poet”, The Poet and Poetess by Alfred Lord Tennyson (1969). The poet’s surname is generally written as Tennyson with a single … Wikipedia\nAlfred Tennyson — Tennyson s work is an English poet with an intense and lyrical style. Contents 1. Childhood 2 3. Poetry 3 4. The Poet 4 5. Other works 5 6 … Wikipedia\nAlfred, Lord Tennyson — (Alfred Lord Tennyson Tennyson) ( 1838 23 February 1912 6 February 1912), was the poet laureate of Great Britain and Ireland from 1901 to 1912. He was born in Somers Town, London, and grew up in the house of his father, the Reverend Charles … Wikipedia\nAlfred Lord Tennyson — Tennyson, The Poet (Lord Althorp, 1838 23 February 1912 6 February 1912), is the most respected of the many Victorian poets.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the town in which Alfred Tennyson was born?",
+                    "answer": "Somers Town",
+                    "explanation": "… Alfred Tennyson — (Alfred Lord Tennyson Tennyson) ( 1838 23 February 1912 6 February 1912), was the poet laureate of Great Britain and Ireland from 1901 to 1912. He was born in Somers Town, London, and grew up in the house of his father, the Reverend Charles… … Wikipedia Alfred Tennyson — (Alfred Lord Tennyson Tennyson) ( 1838 23 February 1912 6 February 1912), was the poet laureate of Great Britain and Ireland from"
+                },
+                {
+                    "question": "What is the date of Alfred, Lord Tennysons death?",
+                    "answer": "6 February 1912",
+                    "explanation": "… Alfred Tennyson — Tennyson, The Poet (Lord Althorp, 1838 23 February 1912 6 February 1912), is the most respected of the many Victorian poets. Alfred Tennyson — Tennyson, The Poet (Lord Althorp, 1838 23 February 1912 6 February 1912), is the most respected of the many Victorian poets. Alfred Tennyson — Tennyson, The Poet (Lord Althorp, 1838 23 February 1912 6 February 1912), is the"
+                },
+                {
+                    "question": "What is the capital of England?",
+                    "answer": "London",
+                    "explanation": "… Alfred Tennyson — (Alfred Lord Tennyson Tennyson) ( 1838 23 February 1912 6 February 1912), was the poet laureate of Great Britain and Ireland from 1901 to 1912. He was born in Somers Town, London, and grew up in the house of his father, the Reverend Charles… … Wikipedia Alfred Tennyson — (Alfred Lord Tennyson Tennyson) ( 1838 23 February 1912 6 February 1912), was the poet laureate of Great Britain and Ireland from"
+                }
+            ],
+            "hops": [
+                "The Persistence of Memory by Salvador Dal"
+            ]
+        },
+        "The Birth of Venus by Sandro Botticelli": {
+            "term": "The Birth of Venus by Sandro Botticelli",
+            "passage": "This beautiful painting is one of the most famous paintings in Western art. The \"Birth of Venus\" has been the subject of many great painters, such as Leonardo Da Vinci, Titian and Renoir. As this painting was originally painted by the Italian artist Sandro Botticelli in 1486, it is a timeless artwork. The painting is very realistic and its images are very lifelike. The painting also depicts a lot of intricate details, as the characters in the painting are in a world that is very realistic. This painting is also very detailed and well planned. The painting \"The Birth of Venus\" was also a painting that was inspired by the Italian renaissance. When the painting was first released, it was an instant success. The painting's popularity continues to grow throughout the years. The painting was the first artwork that was done by the Renaissance artist Sandro Botticelli. The painting also was inspired by the classical Greek painting. The painting depicts the birth of Venus as a goddess of the sea, as she is born out of the half shell of an animal. She is also seated on a cushion, which has a beautiful painting on it. This painting was one of the first artworks to use the color red in art, which was seen in the painting's background. The painting was well received and had a big impact on the renaissance movement.",
+            "qae_pairs": [
+                {
+                    "question": "When was the painting The Birth of Venus created by Sandro Botticelli?",
+                    "answer": "1486",
+                    "explanation": "1486"
+                },
+                {
+                    "question": "how old are you?",
+                    "answer": "the years",
+                    "explanation": "How old are you? is a question that is often used to find out someones age. The phrase the years is a common phrase used to refer to the passage of time and the aging process."
+                },
+                {
+                    "question": "Who is the most famous artist in the world?",
+                    "answer": "Leonardo Da Vinci",
+                    "explanation": "The Birth of Venus is one of the most famous paintings in Western art. Leonardo Da Vinci was a famous artist in the Renaissance period. Leonardo Da Vinci was a famous artist in the Renaissance period. Leonardo Da Vinci was a famous artist in the Renaissance period. Leonardo Da Vinci was a famous artist in the Renaissance period. Leonardo Da Vinci was a famous artist in the Renaissance period. Leonardo Da Vinci was a famous artist in the Renaissance period. Leonardo Da Vinci was a famous artist in the Renaissance period. Leonardo Da Vinci was a famous artist in the Renaissance period. Leonardo Da Vinci was a famous artist in the Renaissance period. Leonardo Da Vinci"
+                },
+                {
+                    "question": "Who is the artist of the painting The Birth of Venus?",
+                    "answer": "Sandro Botticelli",
+                    "explanation": "The Birth of Venus is a painting by the Italian artist Sandro Botticelli."
+                },
+                {
+                    "question": "What is the most famous painting in Western art?",
+                    "answer": "Venus",
+                    "explanation": "The Birth of Venus is a painting by Sandro Botticelli, which is one of the most famous paintings in Western art. The painting depicts the birth of the goddess of love, Venus, as she is born out of a shell. The painting is very realistic and its images are very lifelike. The painting is also very detailed and well planned. The paintings popularity continues to grow throughout the years."
+                }
+            ],
+            "hops": [
+                "The Birth of Venus by Sandro Botticelli"
+            ]
+        },
+        "The Last Supper by Leonardo da Vinci": {
+            "term": "The Last Supper by Leonardo da Vinci",
+            "passage": "The Last Supper, painting by Leonardo da Vinci, c. 1498 (right panel). It is one of his most famous works. The painting, which is also known as The Last Supper of Jesus, is an 8.9 x 4.5 ft (2.7 m x 1.3 m) painting on a single panel. Painted at the end of Leonardo's life, it portrays the moment when Jesus declares \"This is my body\" during the meal, and the apostles drink his wine and eat his bread (Luke 22:19), a depiction which is the basis of all subsequent Christian depictions of the Last Supper. The painting is one of the most iconic images in the world. It was painted during Leonardo's time at the court of the Florentine government, as a commission for an altarpiece to commemorate the Fifth Lateran Council in 1518. Leonardo's painting of the Last Supper was made in oil on a large wooden panel. He painted Jesus as a young man sitting in a high-backed chair with a napkin at his feet and with his feet crossed. He appears to be saying something to the others around him, possibly his farewell words or the words of the other apostles. Behind him is a landscape painted in fresco and finished with light tones of blue and a bright yellow sky. His painting of the Last Supper is generally accepted as the earliest depiction of the Last Supper in Western art.",
+            "qae_pairs": [
+                {
+                    "question": "What is the most famous painting in the world?",
+                    "answer": "Last Supper",
+                    "explanation": "The Last Supper is a painting by Leonardo da Vinci, painted in 1498. It is one of the most famous paintings in the world."
+                },
+                {
+                    "question": "Who is the Last Supper for?",
+                    "answer": "Jesus",
+                    "explanation": "The Last Supper is a painting by Leonardo da Vinci, painted in 1498. It is one of his most famous works. The painting, also known as The Last Supper of Jesus, is an 8.9 x 4.5 ft (2.7 m x 1.3 m) painting on a single panel. It portrays the moment when Jesus declares This is my body during the meal, and the apostles drink his wine and eat his bread (Luke 22:19). The painting is one of the most iconic images in the world. It was painted during Leonardo"
+                },
+                {
+                    "question": "What is the Last Supper?",
+                    "answer": "Leonardo da Vinci",
+                    "explanation": "The Last Supper is a painting by Leonardo da Vinci, painted in 1498. It is one of his most famous works. It is also known as The Last Supper of Jesus. The painting portrays the moment when Jesus declares This is my body during the meal, and the apostles drink his wine and eat his bread. It is one of the most iconic images in the world."
+                }
+            ],
+            "hops": [
+                "The Last Supper by Leonardo da Vinci"
+            ]
+        },
+        "The Great Wave Off Kanagawa by Hokusai": {
+            "term": "The Great Wave Off Kanagawa by Hokusai",
+            "passage": "“Katsushiro Okami (also known as Katsushiro Shijima), a 15th-century member of the Nami clan, who served as a boatman in the Inkyo-cho district of Edo and died in 1689, is depicted in this scroll.",
+            "qae_pairs": [
+                {
+                    "question": "Who is the person in the painting?",
+                    "answer": "Katsushiro Okami",
+                    "explanation": "“Katsushiro Okami (also known as Katsushiro Shijima), a 15th-century member of the Nami clan, who served as a boatman in the Inkyo-cho district of Edo and died in 1689, is depicted in this scroll. The painting is a depiction of the Great Wave Off Kanagawa, a famous Japanese woodblock print by Hokusai. The painting is a depiction of the Great Wave Off Kanagawa, a famous Japanese woodblock print by Hokusai. The painting is a depiction of the Great Wave Off Kanagawa, a"
+                },
+                {
+                    "question": "What year did Katsushiro Okami die?",
+                    "answer": "1689",
+                    "explanation": "“Katsushiro Okami (also known as Katsushiro Shijima), a 15th-century member of the Nami clan, who served as a boatman in the Inkyo-cho district of Edo and died in 1689, is depicted in this scroll. The scroll is a depiction of the Great Wave Off Kanagawa, a famous painting by the Japanese artist Hokusai. The painting depicts a wave cresting in the foreground, with Mount Fuji in the background. The painting is believed to be a representation of the wave cresting in the Inkyo-cho district of"
+                },
+                {
+                    "question": "What is the name of the district where the Great Wave Off Kanagawa was painted?",
+                    "answer": "Inkyo",
+                    "explanation": "“Inkyo” means “black wave” in Japanese."
+                },
+                {
+                    "question": "Who is the man in the painting?",
+                    "answer": "Katsushiro Shijima",
+                    "explanation": "“Katsushiro Shijima is depicted in the painting as a boatman in the Inkyo-cho district of Edo. He is wearing a red and white striped shirt, which is a traditional garment worn by boatmen in the area. The painting is a depiction of the Great Wave Off Kanagawa, which is a famous Japanese painting by Hokusai. The painting depicts a wave that is about to crash into the shore, and the boatman is standing in the middle of the wave. The painting is a representation of the famous Japanese legend of the Great Wave Off Kanagawa, which is a story about"
+                }
+            ],
+            "hops": [
+                "The Great Wave Off Kanagawa by Hokusai"
+            ]
+        },
+        "The Kiss by Gustav Klimt": {
+            "term": "The Kiss by Gustav Klimt",
+            "passage": "\"The Kiss\" is a painting by Gustav Klimt painted in 1908. It depicts two lovers, lying in a comfortable embrace, their faces turned to each other and kissing. The painting is considered a landmark in modernism and a key work in the 'art of feeling'. Klimt's works with its sensuous and sensual characters, decorative and decorative elements have strongly influenced subsequent art. Klimt created at least two versions of The Kiss, one of which he showed to his friend and model (one of his models was later in a nude pose with a crown-like head). Klimt completed two works that included 'A Kiss' in a series of drawings (the other one is a painting of \"The Kiss\". They are both part of the same \"kissing\" scene). The painting was completed in May 1908. In November 1908 Gustav Klimt received the Gold Medal at the Society of Painters. The painting is today in the Kunsthistorisches Museum Vienna. -- [This entry was originally posted on the 27th of February, 2006.] This text has been marked for revision in order to improve it. The revision is based on a document from the Bibliotheque des Arts (Paris) on Gustav Klimt.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the painter who created The Kiss?",
+                    "answer": "Gustav Klimt",
+                    "explanation": "The Kiss is a painting by Gustav Klimt."
+                },
+                {
+                    "question": "When did Gustav Klimt paint the painting The Kiss?",
+                    "answer": "the 27th of February, 2006",
+                    "explanation": "The Kiss is a painting by Gustav Klimt painted in 1908. It depicts two lovers, lying in a comfortable embrace, their faces turned to each other and kissing."
+                },
+                {
+                    "question": "What is the most beautiful city in the world?",
+                    "answer": "Paris",
+                    "explanation": "The most beautiful city in the world is a subjective statement, but many people would agree with the French. Paris is a city that has been the center of art and culture for centuries, and is home to some of the worlds most famous monuments, such as the Eiffel Tower. It is also home to some of the worlds most famous museums, such as the Louvre, and is home to some of the worlds most famous artists, such as Claude Monet. Paris is also home to some of the worlds most famous cafes, such as the Cafe de la Paix, and is home to"
+                }
+            ],
+            "hops": [
+                "The Kiss by Gustav Klimt"
+            ]
+        },
+        "The Three Graces by Sandro Botticelli": {
+            "term": "The Three Graces by Sandro Botticelli",
+            "passage": "(with some of my own additions and embellishments)\n(From wikipedia:)\nThe Three Graces are three feminine characters commonly found in art and literature, which are often depicted holding fruit or flowers, typically in pairs. The three graces of art are the Graces of the French baroque, who are portrayed holding fruits or flowers, such as the three graces at the left-hand side of Sandro Botticelli's painting of the Adoration of the Magi. In his painting The Adoration of the Shepherds, Botticelli shows three angels as the three graces (see the right-hand side of the painting): two of them are standing with an infant and one is sitting. Botticelli also painted a similar group of angels in the Adoration of the Kings painting.",
+            "qae_pairs": [
+                {
+                    "question": "What is the meaning of life?",
+                    "answer": "The Three Graces",
+                    "explanation": "(with some of my own additions and embellishments) The Three Graces are three feminine characters commonly found in art and literature, which are often depicted holding fruit or flowers, typically in pairs. The three graces of art are the Graces of the French baroque, who are portrayed holding fruits or flowers, such as the three graces at the left-hand side of Sandro Botticellis painting of the Adoration of the Magi. In his painting The Adoration of the Shepherds, Botticelli shows three angels as the three graces (see the right-hand side of the painting):"
+                }
+            ],
+            "hops": [
+                "The Three Graces by Sandro Botticelli"
+            ]
+        }
+    },
+    "second_hops": {
+        "Rhone": {
+            "term": "Rhone",
+            "passage": "\"In the Rhone Valley, the city of Avignon is situated on the south bank. To the east of Avignon, the Mont Ventoux mountain overlooks the city. As a result of the Rhône valley being a centre of gravity for the Mediterranean in Europe, it is of great importance to the French government as a strategic asset. Many European capitals are along the banks of the Rhone. Avignon lies on the Rhône about 600km (370mi) south of Paris, and 100km (62mi) west of the Mediterranean Sea. It is a centre of the region, and is located along the banks of the Rhone, but is not directly situated on the river. The city centre is served by the main railway station and airport.\" I know that the 6th of September is in France an important celebration of something. However, when I was looking in the Wikipedia it didn't say anything about that. I'm assuming it has to do with something to do with the Church, but I'm not entirely sure. Can you tell me more about the 6th of September celebration? In the Avignon region, the 6th of September is celebrated with religious observances and a town festival. The city is known for the festival of the Patron Saint, Saint John the Baptist, and his vigil in the church. The 6th of September is also celebrated as a national holiday in France.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the city situated on the banks of the Rhone river?",
+                    "answer": "Avignon",
+                    "explanation": "In the Rhone Valley, the city of Avignon is situated on the south bank. To the east of Avignon, the Mont Ventoux mountain overlooks the city. As a result of the Rhone valley being a centre of gravity for the Mediterranean in Europe, it is of great importance to the French government as a strategic asset. Many European capitals are along the banks of the Rhone. Avignon lies on the Rhone about 600km (370mi) south of Paris, and 100km (62mi) west of the Mediterranean Sea. It is a centre of the region, and is located along"
+                },
+                {
+                    "question": "\nWhich famous artist painted a painting featuring the Rhone River in France?",
+                    "answer": "France",
+                    "explanation": "The Rhone River is a famous landmark in France, and many famous artists have painted paintings featuring the river. One of the most famous artists is Claude Monet, who painted a series of paintings of the Rhone River in the 19th century. The most famous of these paintings is The Rhone at Avignon, which is currently on display in the Louvre Museum in Paris."
+                },
+                {
+                    "question": "What is the name of the mountain in the Rhone valley that is often mentioned in the painting The Starry Night by Vincent Van Gogh?",
+                    "answer": "Mont Ventoux",
+                    "explanation": "The mountain in the Rhone valley that is often mentioned in the painting The Starry Night by Vincent Van Gogh is Mont Ventoux. The painting is a view of the city of Avignon, and the mountain is often seen in the background. The painting is a view of the city of Avignon, and the mountain is often seen in the background. The painting is a view of the city of Avignon, and the mountain is often seen in the background."
+                }
+            ],
+            "hops": [
+                "The Starry Night by Vincent Van Gogh",
+                "Rhone"
+            ]
+        },
+        "Edvard Munch": {
+            "term": "Edvard Munch",
+            "passage": "\"Edvard Munch (1863-1944) was a Norwegian painter, printmaker, and sculptor. He is best known for his paintings, which are characterized by their dark, somber themes. Munch was born in Oslo, Norway, on December 12, 1863, and died in Oslo on September 23, 1944. He is considered one of the most important artists of the 19th century, and is known for his work in the Expressionist style. Munch's work is characterized by its dark, somber themes, and his paintings are often described as \"grotesque\" and \"nightmarish\". Munch's work has been the subject of numerous exhibitions, and his work is still popular today.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the city where Edvard Munch was born?",
+                    "answer": "Oslo",
+                    "explanation": "Edvard Munch was born in Oslo, Norway."
+                },
+                {
+                    "question": "\nQuestion: Who is the Norwegian artist Edvard Munch known for his paintings with dark, somber themes?",
+                    "answer": "Munch",
+                    "explanation": "Edvard Munch is known for his paintings with dark, somber themes."
+                }
+            ],
+            "hops": [
+                "The Scream by Edvard Munch",
+                "Edvard Munch"
+            ]
+        },
+        "Renaissance": {
+            "term": "Renaissance",
+            "passage": "From Wikipedia:\nRenaissance is the Western European period between the 14th and 17th centuries when a renewed emphasis on learning, individualism, and reason became widely expressed in Europe. The period is defined by a renewed and widespread pursuit of knowledge and learning by artists, scientists, scholars, and tradespeople, as opposed to the preceding Dark Ages and Middle Ages. Renaissance artists and writers made use of Latin and classical themes to depict ancient Greek and Roman culture in the style of medieval humanism. Renaissance ideas and inventions influenced the arts, sciences, and humanities throughout the 17th century and beyond, with the influence remaining present in the works of modern scholars, artists, and writers.",
+            "qae_pairs": [
+                {
+                    "question": "What were the main characteristics of the Renaissance period?",
+                    "answer": "Europe",
+                    "explanation": "1. The Renaissance was a period of great change in Europe. 2. It was characterized by a renewed emphasis on learning, individualism, and reason. 3. It was a period of widespread pursuit of knowledge and learning by artists, scientists, scholars, and tradespeople. 4. Renaissance artists and writers made use of Latin and classical themes to depict ancient Greek and Roman culture in the style of medieval humanism. 5. Renaissance ideas and inventions influenced the arts, sciences, and humanities throughout the 17th century and beyond."
+                }
+            ],
+            "hops": [
+                "Mona Lisa by Leonardo da Vinci",
+                "Renaissance"
+            ]
+        },
+        "Mona Lisa": {
+            "term": "Mona Lisa",
+            "passage": "The painting has two copies, both of which are believed to be the portrait of Lisa Gherardini, the wife of a Florentine merchant named Leonardo da Vinci. The painting, painted on a canvas on panel, is a portrait of a woman, believed to be Lisa Gherardini. The painting is a large portrait, the most famous painting, \"La Gioconda\", by Leonardo da Vinci and is 127 cm high (3 ft 7 in) and 92 cm wide (3 ft). [5] [6] [7] [8]\nThe painting was rediscovered, by chance, in 1503, in the home of a painter and is said to be a \"painted portrait of a woman\". [9] It is speculated to be a self-portrait, and it is also thought that it might be a portrait of Lisa Gherardini, which is the most common theory. [10] [11] [12] [13] [14] [15] [16]\nThe painting is painted with a blue, in the same color as the woman's cloak, which can be seen on her face.",
+            "qae_pairs": [
+                {
+                    "question": "\nWhat year did Leonardo da Vinci paint the 'Mona Lisa'? 1503",
+                    "answer": "1503",
+                    "explanation": "The painting was rediscovered, by chance, in 1503, in the home of a painter and is said to be a painted portrait of a woman. [9] It is speculated to be a self-portrait, and it is also thought that it might be a portrait of Lisa Gherardini, which is the most common theory. [10] [11] [12] [13] [14] [15] [16]"
+                }
+            ],
+            "hops": [
+                "Mona Lisa by Leonardo da Vinci",
+                "Mona Lisa"
+            ]
+        },
+        "Leonardo da Vinci": {
+            "term": "Leonardo da Vinci",
+            "passage": "\"Leonardo da Vinci may have been the most famous person of the Renaissance. His works span a variety of fields, from engineering to painting to sculpting, and he is also considered the most versatile and creative person in the history of art.\" To the extent that Leonardo da Vinci was known for anything other than being an artist, that was for his engineering feats. It was this engineering and other areas of knowledge that were put to work by Leonardo in his most famous inventions. The \"Da Vinci Code\" was a hit, with sales that surpassed a million copies after being released in May 2003, and sales that are now in the ten millions of copies sold. Leonardo da Vinci would have been proud. As a Leonardo da Vinci fan, I always like to find out about him from new angles. In today's modern world, his area of expertise would be computer graphics. With the advancement of computer technology, Leonardo da Vinci would have had the technology in his day to be able to do the following:\n- Computer Graphics\n- Web Design\n- Computer Animation\n- Digital Media Arts\n- Programming\n- Computer Applications\n- Computer Hardware\n- Computer Software\n- Computer System Administration\nWith the advent of digital media, which has been growing in popularity, the computer graphic skills and design knowledge of Leonardo da Vinci, including the knowledge of digital media, would be incredibly in demand in the computer and digital graphics industries.",
+            "qae_pairs": [
+                {
+                    "question": "What would Leonardo da Vinci have thought about the modern computer graphics industry?",
+                    "answer": "today",
+                    "explanation": "Leonardo da Vinci would have been amazed by the advancements in computer graphics, especially the advent of digital media. He would have been in awe of the technology and the advancements that have been made in computer graphics, and would have been fascinated by the new opportunities and possibilities that are available to artists and designers today. He would have been proud to see that his work and his knowledge is still being used today, even in the digital age, and would have been happy to see that the computer graphics industry has grown and evolved over time."
+                },
+                {
+                    "question": "What other works of Leonardo da Vinci would you like to learn about?",
+                    "answer": "Renaissance",
+                    "explanation": "The Renaissance was a period of great change in Europe, beginning in the 14th century and lasting until the 17th century. It was a period of great change in art, science, and philosophy. The Renaissance was a period of great change in art, science, and philosophy. It was a period of great change in art, science, and philosophy. It was a period of great change in art, science, and philosophy. It was a period of great change in art, science, and philosophy. It was a period of great change in art, science, and philosophy. It was a period of great change in art"
+                }
+            ],
+            "hops": [
+                "The Last Supper by Leonardo da Vinci",
+                "Leonardo da Vinci"
+            ]
+        },
+        "Somers Town": {
+            "term": "Somers Town",
+            "passage": "Somers Town is the setting of several films including, but not limited to, the 2004 movie \"Somers Town\". The film was directed by Sylvain Chomet and was filmed entirely in English, using actors who were from Quebec.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the town where the movie Somers Town was filmed?",
+                    "answer": "Quebec",
+                    "explanation": "Somers Town was filmed in Quebec, Canada."
+                },
+                {
+                    "question": "Who directed the 2004 movie Somers Town?",
+                    "answer": "Sylvain Chomet",
+                    "explanation": "Somers Town was directed by Sylvain Chomet."
+                }
+            ],
+            "hops": [
+                "The Persistence of Memory by Salvador Dal",
+                "Somers Town"
+            ]
+        },
+        "London": {
+            "term": "London",
+            "passage": "\"London is the capital and most populous city of the United Kingdom. It is located on the River Thames and in the London Boroughs of Newham, Southwark, and Wandsworth. The city is the most visited city in the world, with over 8 million tourists visiting each year. London is considered the most famous city in the world. There are two other cities in the UK which are also considered to be the most popular in Europe, they are Edinburgh and Dublin.\" What do you think of London's status as the most popular city in Europe?",
+            "qae_pairs": [
+                {
+                    "question": "\nHow does London compare to other cities in Europe?",
+                    "answer": "Europe",
+                    "explanation": "London is considered the most visited city in the world, with over 8 million tourists visiting each year. It is also one of the most popular cities in Europe. In terms of population, London is the capital and most populous city of the United Kingdom. It is located on the River Thames and in the London Boroughs of Newham, Southwark, and Wandsworth. The city is the most visited city in the world, with over 8 million tourists visiting each year. It is considered the most famous city in the world. There are two other cities in the UK which are also considered to be the most popular"
+                },
+                {
+                    "question": "What is the most popular city in Europe besides London?",
+                    "answer": "Edinburgh",
+                    "explanation": "Edinburgh is the capital and most populous city of Scotland. It is located on the Forth River and is the second-largest city in the United Kingdom, with a population of over 1 million. Edinburgh is known for its historic architecture, cultural events, and festivals, including the Edinburgh Fringe Festival. It is also home to the famous Arthurs Seat, which offers spectacular views of the city and surrounding countryside."
+                },
+                {
+                    "question": "\nHow many tourists visit London each year?",
+                    "answer": "each year",
+                    "explanation": "The passage states that London is the most visited city in the world, with over 8 million tourists visiting each year."
+                }
+            ],
+            "hops": [
+                "The Persistence of Memory by Salvador Dal",
+                "London"
+            ]
+        },
+        "Leonardo Da Vinci": {
+            "term": "Leonardo Da Vinci",
+            "passage": "\"Da Vinci was the model for Michelangelo’s David and the subject for the painting by Jan van Eyck called The Last Supper. Da Vinci's Last Supper - YouTube.com\nyoutube.com\n--\nA famous passage attributed to Leonardo Da Vinci is:\n“I do not fear computers. I fear the lack of them.”\n--\nThis is what I do not understand. Why does Leonardo Da Vinci fear the lack of computers? I do not understand that either. The Leonardo Da Vinci was an artist, scientist and engineer. His work was famous at the time, but the computers weren’t even invented when he lived. Perhaps there was a fear in his time of being unable to do the things with computers in later times that we can do now. He lived in a time that had limited technology, and he could only do so much with the knowledge he had at the time. Maybe he understood computers as just a tool to enhance the arts and the creativity of the work he was doing, rather than as a complete substitute for his tools.",
+            "qae_pairs": [
+                {
+                    "question": "What was the name of the painting by Sandro Botticelli that Leonardo Da Vinci was not allowed to paint?",
+                    "answer": "Michelangelo",
+                    "explanation": "Da Vinci was the model for Michelangelos David and the subject for the painting by Jan van Eyck called The Last Supper. Da Vincis Last Supper - YouTube.com"
+                }
+            ],
+            "hops": [
+                "The Birth of Venus by Sandro Botticelli",
+                "Leonardo Da Vinci"
+            ]
+        },
+        "Sandro Botticelli": {
+            "term": "Sandro Botticelli",
+            "passage": "“Sandro Botticelli (1445–1510) was an Italian painter of the Italian Renaissance. A contemporary of Leonardo da Vinci and Michelangelo, he is best known for his paintings of religious, mythological, and erotic subjects.”\nIf you look at that passage in a mirror, you will see a ‘Sandro’ in your own reflection. In 2010, I decided to paint a portrait of Sandro Botticelli’s “Last Supper” as a way to understand what the true meaning of this famous painting is. After my second day painting, I realized how the painting of this man had a similarity with the portrait of the man in the “Last Supper”. They are both man on the table with the woman to the left. The difference between the two is that Botticelli’s is in his 30’s whereas the “Last Supper” is in his mid-50’s. The “Last Supper” is of Jesus and his disciples in the 12th century in the Roman town of Leonardo da Vinci. They are seated around a table, which is common in the Middle Ages, with a dish of fish in the middle of the table. At the top, Jesus is in the center with a scarf around his head. The disciples have their hands on their heads and are looking down at Jesus.",
+            "qae_pairs": [
+                {
+                    "question": "\nWhat is the most famous painting of the Italian Renaissance painter Sandro Botticelli?",
+                    "answer": "Michelangelo",
+                    "explanation": "Sandro Botticelli painted the famous painting of the “Last Supper” in the 15th century. Michelangelo painted the most famous painting of the Italian Renaissance in the 16th century."
+                },
+                {
+                    "question": "\nWho was Sandro Botticelli's contemporary?",
+                    "answer": "Leonardo da Vinci",
+                    "explanation": "Sandro Botticelli was a contemporary of Leonardo da Vinci. Leonardo da Vinci was a famous Italian artist, scientist, and engineer. He was born in 1452 and died in 1519. Leonardo da Vinci was a man of many talents. He was a scientist, an engineer, an artist, and a writer. He was a man of many talents. He was a man of many talents. He was a man of many talents. He was a man of many talents. He was a man of many talents. He was a man of many talents. He was a man of many talents. He was a man of"
+                },
+                {
+                    "question": "What is the meaning of the painting The Last Supper by Sandro Botticelli?",
+                    "answer": "Jesus",
+                    "explanation": "“The Last Supper” is a painting of Jesus and his disciples. Jesus is in the center of the painting with a scarf around his head. The disciples are looking down at Jesus. The painting is a representation of the Last Supper, which is a meal that Jesus had with his disciples before his death. The painting is a representation of Jesus’ sacrifice for the sins of humanity. The painting is a representation of Jesus’ sacrifice for the sins of humanity. The painting is a representation of Jesus’ sacrifice for the sins of humanity. The painting is a representation of Jesus’ sacrifice for the sins of humanity. The painting is a representation of Jesus"
+                }
+            ],
+            "hops": [
+                "The Birth of Venus by Sandro Botticelli",
+                "Sandro Botticelli"
+            ]
+        },
+        "Venus": {
+            "term": "Venus",
+            "passage": "The Roman goddess of love, Venus, is often depicted as a symbol of all things sensual and pleasurable. There are many references to her in Shakespeare's Sonnets, and many of the verses focus on the pleasures of the body. The passage is discussing Venus, a Roman goddess of love, in relation to Sonnets by William Shakespeare, a famous poet in England during the 17th century. Venus is commonly associated with physical pleasure and sensual indulgence, which is a theme explored in Sonnets.",
+            "qae_pairs": [
+                {
+                    "question": "\nWhat sonnets did William Shakespeare write about Venus?",
+                    "answer": "Sonnets",
+                    "explanation": "William Shakespeare wrote a series of sonnets about Venus, a Roman goddess of love. Sonnets are a type of poem that was popular during the Renaissance period in England. Sonnets are typically structured around a central theme, in this case, Venus, and often contain a rhyme scheme and meter. Sonnets are known for their elaborate language and intricate structure, and Sonnets by William Shakespeare are no exception."
+                },
+                {
+                    "question": "\nQuestion: Who is depicted as the Roman goddess of love in Sonnets by William Shakespeare? Answer: Venus.",
+                    "answer": "William Shakespeare",
+                    "explanation": "In Sonnets, Venus is often depicted as a symbol of all things sensual and pleasurable. The passage is discussing Venus, a Roman goddess of love, in relation to Sonnets by William Shakespeare, a famous poet in England during the 17th century. Venus is commonly associated with physical pleasure and sensual indulgence, which is a theme explored in Sonnets."
+                }
+            ],
+            "hops": [
+                "The Birth of Venus by Sandro Botticelli",
+                "Venus"
+            ]
+        },
+        "Last Supper": {
+            "term": "Last Supper",
+            "passage": "The Last Supper is the central act in the Passion of Jesus Christ, when Jesus, according to the New Testament, held the Last Supper with his disciples, the twelve apostles, in the Upper Room of an house in Jerusalem. The story is based on a Christian tradition that Jesus Christ organized his disciples for the first Last Supper, before his death. So, according to my research, it is true that Jesus Christ organized the Last Supper for the twelve apostles.",
+            "qae_pairs": [
+                {
+                    "question": "What city did Jesus Christ organize the Last Supper for the twelve apostles?",
+                    "answer": "Jerusalem",
+                    "explanation": "And they brought the Last Supper to Jesus in Jerusalem. (Mark 14:12)"
+                },
+                {
+                    "question": "Who organized the Last Supper for the twelve apostles?",
+                    "answer": "Jesus Christ",
+                    "explanation": "According to the New Testament, Jesus Christ organized the Last Supper for the twelve apostles. The Last Supper is a central act in the Passion of Jesus Christ, when Jesus, according to the New Testament, held the Last Supper with his disciples, the twelve apostles, in the Upper Room of an house in Jerusalem. Jesus Christ organized the Last Supper for the twelve apostles, before his death."
+                }
+            ],
+            "hops": [
+                "The Last Supper by Leonardo da Vinci",
+                "Last Supper"
+            ]
+        },
+        "Jesus": {
+            "term": "Jesus",
+            "passage": "“The exact cause of Jesus' death is still a subject of some dispute among scholars, with the general consensus being that Jesus died a crucified death by Roman nails and/or by a nail driven through his left wrist. The precise age of his death is also uncertain, with the consensus being that he died in his mid-30s or late thirties. The Roman Empire was at its wane, and many of its troops and garrisons were being withdrawn to meet the growing threats posed by barbarian tribes in Europe, the most famous of which, the Goths, were under the command of an army at the gates of Rome in AD 537. Thus it is likely that Jesus' death was a natural result of the empire's disintegration and barbarian invasion. The Romans also knew of Jesus' existence in his lifetime, as is proven by the references to him in several ancient Jewish and Roman documents.”[\nYes, Jesus is said to have died from crucification. I did not get a chance to look up the exact age he died at, but he was said to be 33 years old, so it is likely he died in his mid-30s.",
+            "qae_pairs": [
+                {
+                    "question": "\nThe question could be: \"What happened to Jesus in Rome?\". The answer, of course, is that he was crucified and died there. The Last Supper would not be an appropriate answer for this question, as it refers to an event that occurred before Jesus' death, and there is no information in",
+                    "answer": "Rome",
+                    "explanation": "The Roman Empire was in decline, and the empire was facing a number of threats from barbarian tribes in Europe. The Goths were a barbarian tribe that invaded Rome in AD 537, and the Romans were under siege. Jesus was likely crucified in the same city as the Last Supper, which was likely in Jerusalem, and the Roman Empire was in disarray. Jesus death was a natural result of the empires disintegration and barbarian invasion. The Romans knew of Jesus existence in his lifetime, as is proven by the references to him in several ancient Jewish and Roman documents."
+                },
+                {
+                    "question": "What was the age of Jesus when he died?",
+                    "answer": "33 years old",
+                    "explanation": "Jesus died on the cross at the age of 33. He was born in Bethlehem in 4 BC and died in Jerusalem in 30 AD. Jesus age at his death was 33 years old. Jesus was crucified on Friday and died on Sunday."
+                }
+            ],
+            "hops": [
+                "The Last Supper by Leonardo da Vinci",
+                "Jesus"
+            ]
+        },
+        "Katsushiro Okami": {
+            "term": "Katsushiro Okami",
+            "passage": "Born 27 March 1982 at Shizuoka, Japan, Katsushiro Okami was a Japanese professional jiu-jitsu practitioner who is widely regarded as the most successful competitor in the history of the sport. He trained under Yoshokawa Yoshinori, whom he defeated in several competitions. He was the first person to use the technique of \"Katsushiro Okami\" jiu-jitsu to win a championship in 2006, when he took gold at the 2006 European Open in Paris, France. In this article a video is shown of Okami's win over Tanihiro.",
+            "qae_pairs": [
+                {
+                    "question": " 4. the answer should not contain any text with \"is\" or \"an\".\nKatsushiro Okami Yoshokawa Yoshinori The Great Wave Off Kanagawa Hokusai\n",
+                    "answer": "Yoshokawa Yoshinori",
+                    "explanation": "Katsushiro Okami Yoshokawa Yoshinori is a Japanese professional jiu-jitsu practitioner. He is widely regarded as the most successful competitor in the history of the sport. He trained under Yoshokawa Yoshinori, whom he defeated in several competitions. He was the first person to use the technique of Katsushiro Okami jiu-jitsu to win a championship in 2006, when he took gold at the 2006 European Open in Paris, France."
+                },
+                {
+                    "question": "What is the date of Katsushiro Okamis birth?",
+                    "answer": "27 March 1982",
+                    "explanation": "27 March 1982 is the date of Katsushiro Okamis birth."
+                },
+                {
+                    "question": "What is the name of the city where Katsushiro Okami won the 2006 European Open?",
+                    "answer": "Paris",
+                    "explanation": "Katsushiro Okami is a Japanese professional jiu-jitsu practitioner who is widely regarded as the most successful competitor in the history of the sport. He trained under Yoshokawa Yoshinori, whom he defeated in several competitions. He was the first person to use the technique of Katsushiro Okami jiu-jitsu to win a championship in 2006, when he took gold at the 2006 European Open in Paris, France."
+                },
+                {
+                    "question": "\nQuestion: Who is the greatest Japanese jiu-jitsu practitioner of all time? Answer: Katsushiro Okami.",
+                    "answer": "jiu-jitsu",
+                    "explanation": "Katsushiro Okami is a Japanese professional jiu-jitsu practitioner who is widely regarded as the most successful competitor in the history of the sport. He trained under Yoshokawa Yoshinori, whom he defeated in several competitions. He was the first person to use the technique of Katsushiro Okami jiu-jitsu to win a championship in 2006, when he took gold at the 2006 European Open in Paris, France. In this article a video is shown of Okamis win over Tanihiro."
+                },
+                {
+                    "question": "Who is the person in the video that Katsushiro Okami defeated to win the 2006 European Open?",
+                    "answer": "Tanihiro",
+                    "explanation": "Tanihiro is the name of the person in the video that Katsushiro Okami defeated to win the 2006 European Open."
+                }
+            ],
+            "hops": [
+                "The Great Wave Off Kanagawa by Hokusai",
+                "Katsushiro Okami"
+            ]
+        },
+        "Gustav Klimt": {
+            "term": "Gustav Klimt",
+            "passage": "“For more than a century, Gustav Klimt has been a well-known figure of Vienna, Austria, and perhaps the most famous artist of the Post-Impressionist movement. Klimt created a unique style that has become recognizable to viewers today. Although his style has often been referred to as ‘flamboyant’ or ‘over-the-top’ the most important characteristic of Gustav Klimt’s works are their distinct quality and originality. There are approximately 1,800 known paintings of Gustav Klimt’s artwork with most of them being oil paintings. Some of the most recognizable paintings are his works on canvas and his frescoes. Gustav Klimt’s work has been very popular in the United States and the United Kingdom. With many works in collections throughout Europe, many art museums have sought to acquire Klimt’s art. Among his most popular and sought-after works are ‘The Kiss’ and ‘Self-Portrait.’”\nI’ve been thinking of Gustav Klimt a lot lately. I know his art is “unique” in terms of style and technique, and I can appreciate it. Yet, his work (and I mean “his” in a different light) never captures me. What do you think? I’ve never really been a Gustav Klimt fan, although his work is always interesting to me.",
+            "qae_pairs": [
+                {
+                    "question": "What other works of Gustav Klimts are well-known besides The Kiss and Self-Portrait?",
+                    "answer": "Vienna",
+                    "explanation": "“Vienna is a city in Austria that is well-known for its art. Gustav Klimt was born in Vienna and spent his entire life there. He was a prominent figure in the city’s art scene, and his work is very much associated with the city. Some of his most well-known works include ‘The Kiss’ and ‘Self-Portrait’, which are both located in the city’s museums. Other notable works of Gustav Klimt include ‘The Three Ages of Man’, ‘The Weeping Woman’, ‘The Kiss’, and ‘The Nude Maja’. Klimt’s"
+                }
+            ],
+            "hops": [
+                "The Kiss by Gustav Klimt",
+                "Gustav Klimt"
+            ]
+        },
+        "Paris": {
+            "term": "Paris",
+            "passage": "The Latin name for the place was originally \"Alesia\" (or \"Alis,\" from the Celtic word \"Alise\" which means \"to burn\"), though it was later Latinized as \"Paris\" (or \"Aparitium\"). The city was named after the Gaulish Paris (\"Alis\" or \"Alise\") from which it derived its name in Gaul, and which also gave its name to the city in the Middle Ages and Renaissance.",
+            "qae_pairs": [
+                {
+                    "question": "\nWhat is the name of the city known as 'Paris' in Celtic times?",
+                    "answer": "Celtic",
+                    "explanation": "The name of the city known as Paris in Celtic times is Alesia (or Alis)."
+                }
+            ],
+            "hops": [
+                "The Kiss by Gustav Klimt",
+                "Paris"
+            ]
+        }
+    }
+}

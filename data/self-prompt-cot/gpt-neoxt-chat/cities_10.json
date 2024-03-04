@@ -1,0 +1,996 @@
+{
+    "first_hops": {
+        "Abidjan": {
+            "term": "Abidjan",
+            "passage": "Abidjan (French pronunciation: ​[a.biˌdʒi.ɲ]; Wolof: Ibadjīn) is the economic capital and largest city of Côte d'Ivoire, as well as the economic capital of West Africa, the most populous city in the country, and the largest city on the African mainland. It is the seat of government of the Côte d'Ivoire, as well as the seat of the African Union. The city is the economic center of the francophone African community and the home of the West Africa Monetary Institute (which is also located in the city). Abidjan was originally founded as a colonial outpost in 1843. The city grew in prominence as a port and trading center in the mid-20th century. The city was occupied by French troops during the First and Second Ivorian Civil Wars, and was the site of the United Nations Operation in Côte d'Ivoire from 2004 to 2006, which was intended to restore peace and democracy to the country.",
+            "qae_pairs": [
+                {
+                    "question": "What year was Abidjan founded as a colonial outpost?",
+                    "answer": "1843",
+                    "explanation": "Abidjan was founded as a colonial outpost in 1843."
+                },
+                {
+                    "question": "What was the year of the United Nations Operation in Côte d'Ivoire?",
+                    "answer": "2004 to 2006",
+                    "explanation": "The United Nations Operation in Côte d'Ivoire, also known as Operation Unicorn, was a military intervention of the United Nations in Côte d'Ivoire from 2004 to 2006."
+                }
+            ],
+            "hops": [
+                "Abidjan"
+            ]
+        },
+        "Accra": {
+            "term": "Accra",
+            "passage": "Accra (/ækrɑː/; Akan: ɑkʹkreɪ, Twi: ɛ̃tɔkɛ) is the capital and largest city of Ghana. The municipality is located on the southern bank of the Volta River, and is the centre of Ghana's political, economic, and cultural activities. The city proper has a population of 2,145,000 inhabitants, while the Greater Accra Region, which includes Accra and its surrounding municipalities, has a population of 5,945,000 inhabitants (as of 2020). Accra was founded in 1875 as a colonial trading post on the coast, and was originally known as Fort Jamesburg. In 1877, the British built a fort and named it Accra. The name Accra means \"fortress\" or \"place of refuge\" in the Akan language. Accra's economy was traditionally based on agriculture, fishing, and small-scale trade. In recent years, the city has experienced significant growth in commerce, finance, and technology. The Greater Accra region is Ghana's economic and administrative center, and the city of Accra serves as its political and cultural capital. The city has a mild humid tropical savanna climate with two seasons, a wet season and a dry season.",
+            "qae_pairs": [
+                {
+                    "question": "How many seasons does Accra have?",
+                    "answer": "two seasons",
+                    "explanation": "Accra has two seasons, a wet season and a dry season."
+                },
+                {
+                    "question": "What is the season that has two seasons?",
+                    "answer": "a wet season",
+                    "explanation": "Accra has a mild humid tropical savanna climate with two seasons, a wet season and a dry season."
+                },
+                {
+                    "question": "What year was Accra founded?",
+                    "answer": "1875",
+                    "explanation": "Accra was founded in 1875 as a colonial trading post on the coast, and was originally known as Fort Jamesburg."
+                },
+                {
+                    "question": "What is the name of the river that runs through the city of Accra?",
+                    "answer": "the Volta River",
+                    "explanation": "The city of Accra is located on the southern bank of the Volta River."
+                },
+                {
+                    "question": "What was the original name of the city that was founded in 1875?",
+                    "answer": "Fort Jamesburg",
+                    "explanation": "The city was founded in 1875 as a colonial trading post on the coast, and was originally known as Fort Jamesburg."
+                },
+                {
+                    "question": "What year was the city of Accra founded?",
+                    "answer": "1877",
+                    "explanation": "The city of Accra was founded in 1877."
+                }
+            ],
+            "hops": [
+                "Accra"
+            ]
+        },
+        "Addis Ababa": {
+            "term": "Addis Ababa",
+            "passage": "Addis Ababa (Amharic: አዳሚ አባሰ; Oromo: Ato Addis; Afan Oromo: Ato Addi) is the capital city of Ethiopia, and is the largest city in the African Great Lakes region. Located in a semi-arid, sub-humid zone on the eastern edge of the Ethiopian Highlands, Addis Ababa is at an altitude of 2,400 metres (8,000 ft). The city is named after Emperor Menelik II, who ruled from 1889 until 1913, when he was deposed by a military coup. The city was founded as a fortress by Emperor Yohannes IV in the 16th century, and was originally named Finfinne. In the 18th century it was renamed Addis Ababa, meaning \\\"new flower\\\" in Ge'ez. The name Addis Ababa was given to the entire province, and the city became the capital of the empire in 1887. The city is the seat of the Addis Ababa City Administration, which oversees the city of Addis Ababa, and of the Addis Ababa University, the largest university in the country.",
+            "qae_pairs": [
+                {
+                    "question": "When was the city of Addis Ababa founded?",
+                    "answer": "the 16th century",
+                    "explanation": "Addis Ababa was founded in the 16th century."
+                },
+                {
+                    "question": "Who was the emperor of Ethiopia from 1889 to 1913?",
+                    "answer": "Menelik II",
+                    "explanation": "Menelik II was the emperor of Ethiopia from 1889 to 1913."
+                },
+                {
+                    "question": "What year did Menelik II rule Addis Ababa?",
+                    "answer": "1913",
+                    "explanation": "Menelik II ruled Addis Ababa from 1889 until 1913."
+                },
+                {
+                    "question": "What is the name of the city that was renamed Addis Ababa?",
+                    "answer": "Finfinne",
+                    "explanation": "Addis Ababa was renamed Finfinne in the 16th century, and was renamed Addis Ababa in the 18th century."
+                },
+                {
+                    "question": "What is the language of the city that is the capital of the African Great Lakes region?",
+                    "answer": "Ge'ez",
+                    "explanation": "Addis Ababa is the capital of Ethiopia. Ethiopia is located in a sub-humid zone on the eastern edge of the Ethiopian Highlands. The city is named after Emperor Menelik II, who ruled from 1889 until 1913. The city was founded as a fortress by Emperor Yohannes IV in the 16th century. It was originally named Finfinne. In the 18th century it was renamed Addis Ababa, meaning \\new flower\\ in Ge'ez. The name Addis Ababa was given to the entire province, and the city became the capital"
+                }
+            ],
+            "hops": [
+                "Addis Ababa"
+            ]
+        },
+        "Algiers": {
+            "term": "Algiers",
+            "passage": "Algiers (Arabic: الجزائر‎ aṣ-jazzār, Berber: ⵜⴰⴳⴷⵉⵏⴰⵔⵉⵏ, romanized: Al-Jazā'er, Berber: ⵜⵎⵖⵔⵉⵏⴰⵔⴰⵉ) is the capital and largest city of Algeria. With an estimated population of 4.5 million as of 2020, it is the fifth-most populous city in Africa and the Arab world, the largest city on the Mediterranean Sea, and the second-largest city on the African continent. The city was founded by the French in 1830 as a military outpost and later named after the Algiers Province. It was the capital of Algeria until the country's independence in 1962. The city is located on the northern coast of the country, near the mouth of the Bouches derhins (literally, \\\"Mouths of the Skins\\\"), where the sea is approximately 400 meters (1,300 ft) deep.",
+            "qae_pairs": [
+                {
+                    "question": "What year was the city of Algiers founded?",
+                    "answer": "1830",
+                    "explanation": "The city of Algiers was founded by the French in 1830."
+                },
+                {
+                    "question": "What year was the capital of Algeria renamed?",
+                    "answer": "1962",
+                    "explanation": "In 1962, the capital of Algeria was renamed from Algiers to Annaba."
+                },
+                {
+                    "question": "What is the name of the body of water that Algiers is located on?",
+                    "answer": "the Mediterranean Sea",
+                    "explanation": "Algiers is located on the Mediterranean Sea."
+                },
+                {
+                    "question": "What continent is Algiers located on?",
+                    "answer": "Africa",
+                    "explanation": "Algiers is located on the continent of Africa."
+                },
+                {
+                    "question": "What language is spoken in Algiers?",
+                    "answer": "Berber",
+                    "explanation": "The Berber language is spoken in Algiers."
+                }
+            ],
+            "hops": [
+                "Algiers"
+            ]
+        },
+        "Antananarivo": {
+            "term": "Antananarivo",
+            "passage": "In the early 19th century, the Kingdom of Imerina controlled a large area of the island of Madagascar, including the entire island of Nosy Be. In 1810, a French expedition under the command of Captain Louis Brun established a settlement at the site that came to be named Fort Dauphin. The French did not control Madagascar, however, and their settlement at Fort Dauphin was abandoned in 1817. In 1828, the Kingdom of Imerina conquered the entirety of the island, including Fort Dauphin. In 1861, Antananarivo became the capital of the Kingdom of Madagascar. In 1896, the French invaded Madagascar, and Antananarivo was occupied on March 31. The French colonial government built a fort, which became known as Fort-Dauphin. In 1897, the Kingdom of Madagascar was proclaimed independent, and in 1898 Antananarivo became the nation's capital. In 1960, the city was renamed Antananarivo.",
+            "qae_pairs": [
+                {
+                    "question": "When did the French occupation of Fort Dauphin end?",
+                    "answer": "1817",
+                    "explanation": "The French occupation of Fort Dauphin ended in 1817."
+                },
+                {
+                    "question": "What is the name of the settlement that was established by the French in 1810?",
+                    "answer": "Fort Dauphin",
+                    "explanation": "In 1810, a French expedition under the command of Captain Louis Brun established a settlement at the site that came to be named Fort Dauphin."
+                },
+                {
+                    "question": "When was the French settlement at Fort Dauphin established?",
+                    "answer": "1810",
+                    "explanation": "In 1810, a French expedition under the command of Captain Louis Brun established a settlement at the site that came to be named Fort Dauphin."
+                },
+                {
+                    "question": "What is the name of the country that controlled the island of Madagascar in the early 19th century?",
+                    "answer": "the Kingdom of Imerina",
+                    "explanation": "In the early 19th century, the Kingdom of Imerina controlled a large area of the island of Madagascar, including the entire island of Nosy Be."
+                },
+                {
+                    "question": "What country was the capital of the country that was the home of the capital city that was renamed in 1960?",
+                    "answer": "the Kingdom of Madagascar",
+                    "explanation": "In 1828, the Kingdom of Imerina conquered the entirety of the island, including Fort Dauphin. In 1861, Antananarivo became the capital of the Kingdom of Madagascar. In 1896, the French invaded Madagascar, and Antananarivo was occupied on March 31. The French colonial government built a fort, which became known as Fort-Dauphin. In 1897, the Kingdom of Madagascar was proclaimed independent, and in 1898 Antananarivo became the nation's capital. In 1960, the city was renamed Antananarivo."
+                },
+                {
+                    "question": "When did the city of Antananarivo become the capital of the Kingdom of Madagascar?",
+                    "answer": "1896",
+                    "explanation": "In 1896, the French invaded Madagascar, and Antananarivo was occupied on March 31. The French colonial government built a fort, which became known as Fort-Dauphin. In 1897, the Kingdom of Madagascar was proclaimed independent, and in 1898 Antananarivo became the nation's capital. In 1960, the city was renamed Antananarivo."
+                },
+                {
+                    "question": "When was the city renamed?",
+                    "answer": "1960",
+                    "explanation": "The city was renamed in 1960."
+                },
+                {
+                    "question": "Who was the leader of the French expedition that established a settlement at the site that came to be named Fort Dauphin?",
+                    "answer": "Louis Brun",
+                    "explanation": "Louis Brun was the leader of the French expedition that established a settlement at the site that came to be named Fort Dauphin."
+                },
+                {
+                    "question": "What date did the French occupy Fort-Dauphin?",
+                    "answer": "March 31",
+                    "explanation": "The French invaded Madagascar on March 31, 1896."
+                }
+            ],
+            "hops": [
+                "Antananarivo"
+            ]
+        },
+        "Asmara": {
+            "term": "Asmara",
+            "passage": "Asmara is a city in Eritrea with a population of around 200,000 people, located on an island in the Danakil Depression, a vast desert depression in the Horn of Africa. The city was the capital of Italian Eritrea from 1890 until it was ceded to Ethiopia in 1952. Asmara (Eritrean: አሞራ, Amharic: አሞያ, romanized: ʾAmharu) is the capital and largest city of Eritrea, and the third largest city in East Africa. It is located in a depression on the Red Sea coast, and has been a major port since ancient times. Asmara is the largest city in the Horn of Africa, with a population of around 200,000. It lies on a coastal plain at an elevation of around 400 metres (1,300 ft) above sea level. As of 2009[update], Asmara was the third largest city in East Africa after Nairobi and Kigali, with an estimated population of 203,000 people. The city is located in the Danakil Depression in the Horn of Africa, a vast desert depression in the north of Eritrea and the east of Ethiopia.",
+            "qae_pairs": [
+                {
+                    "question": "Which sea is located in the Danakil Depression?",
+                    "answer": "the Red Sea",
+                    "explanation": "Asmara is located in a depression on the Red Sea coast."
+                },
+                {
+                    "question": "Which country is the capital of Eritrea?",
+                    "answer": "Ethiopia",
+                    "explanation": "The city was the capital of Italian Eritrea from 1890 until it was ceded to Ethiopia in 1952."
+                },
+                {
+                    "question": "What year was the capital of Italian Eritrea ceded to Ethiopia?",
+                    "answer": "1952",
+                    "explanation": "Asmara was the capital of Italian Eritrea from 1890 until it was ceded to Ethiopia in 1952."
+                },
+                {
+                    "question": "Which country is the capital of Asmara?",
+                    "answer": "Eritrea",
+                    "explanation": "Asmara is the capital of Eritrea."
+                },
+                {
+                    "question": "How many years after the city was founded did the city become the capital of Italian Eritrea?",
+                    "answer": "1890",
+                    "explanation": "Asmara was founded in 1890 and became the capital of Italian Eritrea in 1890."
+                }
+            ],
+            "hops": [
+                "Asmara"
+            ]
+        },
+        "Bamako": {
+            "term": "Bamako",
+            "passage": "Bamako is the capital of Mali, and the largest city in the West African country. It is located in central Mali, and is home to the Mali National Museum, the National Library of Mali, the National Archives of Mali and the National School of Administration. Bamako is located in a large valley surrounded by the Bamako Hills to the west, the Tinkisso Hills to the north, the Fouta Djalon Highlands to the east, and to the south, the Niger River. The climate is tropical with a rainy season that lasts from four to six months, from May to October. The average temperature is 22.5°C (72.5°F), but can vary between 15.5°C (60°F) and 32°C (90°F). The population of Bamako was estimated in 2013 to be 2,747,000. The city is home to a large population of Tuaregs, who have been a constant source of conflict in the region. The Malian government has been accused of marginalizing the Tuaregs and other ethnic groups. The city has been the site of several military coups. The last coup was in 2012, and resulted in the resignation of President Amadou Toumani Toure.",
+            "qae_pairs": [
+                {
+                    "question": "Which river is located to the south of the city of Bamako?",
+                    "answer": "the Niger River",
+                    "explanation": "Bamako is located in a large valley surrounded by the Bamako Hills to the west, the Tinkisso Hills to the north, the Fouta Djalon Highlands to the east, and to the south, the Niger River."
+                },
+                {
+                    "question": "Where is the largest city in the West African country located?",
+                    "answer": "the National Library of Mali",
+                    "explanation": "Bamako is the capital of Mali, and the largest city in the West African country. It is located in central Mali, and is home to the Mali National Museum, the National Library of Mali, the National Archives of Mali and the National School of Administration."
+                },
+                {
+                    "question": "What is the ethnicity of the people who live in the city of Bamako?",
+                    "answer": "Tuaregs",
+                    "explanation": "The city of Bamako is home to a large population of Tuaregs, who have been a constant source of conflict in the region."
+                },
+                {
+                    "question": "What is the name of the school in the city that is the capital of Mali?",
+                    "answer": "the National School of Administration",
+                    "explanation": "The National School of Administration is a school in the city that is the capital of Mali."
+                },
+                {
+                    "question": "Which president resigned in 2012?",
+                    "answer": "Amadou Toumani",
+                    "explanation": "Amadou Toumani Toure resigned in 2012."
+                },
+                {
+                    "question": "What year was the population of Bamako estimated to be?",
+                    "answer": "2013",
+                    "explanation": "The population of Bamako was estimated in 2013 to be 2,747,000."
+                },
+                {
+                    "question": "How many months does the rainy season last in Bamako?",
+                    "answer": "four to six months",
+                    "explanation": "The rainy season lasts from four to six months, from May to October."
+                },
+                {
+                    "question": "What is the name of the season that lasts from four to six months?",
+                    "answer": "May to October",
+                    "explanation": "The rainy season in Bamako lasts from May to October."
+                },
+                {
+                    "question": "What is the name of the museum in the capital of Mali?",
+                    "answer": "the Mali National Museum",
+                    "explanation": "Bamako is the capital of Mali, and the largest city in the West African country. It is located in central Mali, and is home to the Mali National Museum, the National Library of Mali, the National Archives of Mali and the National School of Administration. Bamako is located in a large valley surrounded by the Bamako Hills to the west, the Tinkisso Hills to the north, the Fouta Djalon Highlands to the east, and to the south, the Niger River. The climate is tropical with a rainy season that lasts from four to six months, from May"
+                },
+                {
+                    "question": "Which year did the last coup occur in?",
+                    "answer": "2012",
+                    "explanation": "The last coup occurred in 2012."
+                }
+            ],
+            "hops": [
+                "Bamako"
+            ]
+        },
+        "Bangui": {
+            "term": "Bangui",
+            "passage": "Bangui (Arabic: بنغوي‎, [bɑŋɡwjɪ]) is the capital of Central African Republic, the largest city in the country and a major economic center. It is also one of the country's fourteen administrative regions, and it houses the country's largest seaport. The city is located in the south-east of the country, on the Bay of Bangui. Bangui has a population of about 760,000 inhabitants and an area of about. It is the largest city of Central African Republic, the second largest in the country after the capital of Bria. The population of the city is mostly Muslim, with a significant Christian minority. The city was founded in 1879 by French colonialists, who named it after the nearby Bangweulu swamps. The name was changed to \"Bangui\" in 1960. The city was the site of the Battle of Bangui in 2014, which was the first major battle in the Central African Republic Civil War. Bangui is home to several universities and institutions, including the University of Bangui, the Bangui Institute of Technology, the University of Bangui II, and the Bangui School of Pharmacy. The city also hosts a branch of France's prestigious National School of Medicine and Pharmacy. The city has a number of important markets, including the Marché de Gaïté.",
+            "qae_pairs": [
+                {
+                    "question": "Which market is located in the city that is the capital of the Central African Republic?",
+                    "answer": "the Marché de Gaïté",
+                    "explanation": "The city of Bangui, the capital of the Central African Republic, is home to the Marché de Gaïté, one of the largest markets in the country."
+                },
+                {
+                    "question": "What year was the city's name changed to \"Bangui\"?",
+                    "answer": "1960",
+                    "explanation": "The city was renamed from Bangweulu to Bangui in 1960."
+                },
+                {
+                    "question": "Which war was the first major battle in the Central African Republic?",
+                    "answer": "the Central African Republic Civil War",
+                    "explanation": "The Battle of Bangui was the first major battle in the Central African Republic Civil War."
+                },
+                {
+                    "question": "What year was the city of Bangui founded?",
+                    "answer": "1879",
+                    "explanation": "Bangui was founded in 1879 by French colonialists, who named it after the nearby Bangweulu swamps. The name was changed to Bangui in 1960."
+                }
+            ],
+            "hops": [
+                "Bangui"
+            ]
+        },
+        "Beirut": {
+            "term": "Beirut",
+            "passage": "Beirut (; also spelled Beyrout, Bayrut, Biyar or Bayrūt, Arabic: بيروت‎ ‎, Lebanese pronunciation: [bɛjˈʁut], lit. \"the white\") is the capital and largest city of Lebanon, as well as its economic and cultural centre, with an estimated population of around 1.8 million people. Beirut is situated on the eastern side of the Lebanese coastal mountain range, at an average altitude of 200 m (660 ft), and overlooks the Mediterranean Sea. It is one of the oldest cities in the world, and is known for its rich heritage and cultural diversity. The city has been described as a \"geographical hybrid\" due to its location on the shore of the sea and the mountains. Beirut is a cosmopolitan city, with a wide range of architectural styles. It has been described as a \"melting pot of the Levant\", and is home to many religious and ethnic communities including Maronite Christians, Sunni Muslims, Shia Muslims, Druze, Armenians, Greeks and Italians, as well as a large community of foreign workers and expatriates. The city has a humid subtropical climate (Köppen climate classification Cfa) with hot, humid, and rainy winters and mild, wet, and humid summers.",
+            "qae_pairs": [
+                {
+                    "question": "what is the climate classification of the city that is the capital of lebanon?",
+                    "answer": "Cfa",
+                    "explanation": "The climate classification of the city that is the capital of lebanon is Cfa."
+                },
+                {
+                    "question": "What is the name of the body of water that is located in Beirut?",
+                    "answer": "the Mediterranean Sea",
+                    "explanation": "Beirut is located on the eastern side of the Lebanese coastal mountain range, at an average altitude of 200 m (660 ft), and overlooks the Mediterranean Sea."
+                },
+                {
+                    "question": "What is the capital of the country where Beirut is located?",
+                    "answer": "Lebanon",
+                    "explanation": "Beirut is the capital and largest city of Lebanon."
+                }
+            ],
+            "hops": [
+                "Beirut"
+            ]
+        },
+        "Brazzaville": {
+            "term": "Brazzaville",
+            "passage": "Brazzaville (French: ) is the capital and largest city of the Republic of the Congo. It is located on the Congo River. The city is the country's largest economic centre and a transport hub. It has a population of over 800,000 inhabitants. The city is home to a number of universities, including the National University of Congo, the University for Peace, and the University of the Francophone World. The city is also the seat of political and administrative institutions of the Republic of the Congo. The city is served by the Léopole International Airport. The city was founded in 1879 by King Léopold II of Belgium as the capital of the Congo Free State. It was originally known as Brazza, in honour of the Italian explorer Giacomo de Belgiojoso. It was renamed to Léopoldville in the 1950s, and to Brazzaville in the early 1960s. The city's current name is a French transliteration of the local Lingala name for the Congo River, \\\"Ngiri Ngiri\\\".",
+            "qae_pairs": [
+                {
+                    "question": "Which country is the capital of the country that is home to the city that was founded in 1879 by King Léopold II of Belgium?",
+                    "answer": "the Republic of the Congo",
+                    "explanation": "The capital of the Republic of the Congo is Brazzaville."
+                },
+                {
+                    "question": "What is the name of the language spoken in the country where Brazzaville is located?",
+                    "answer": "Lingala",
+                    "explanation": "Lingala is the language spoken in the country where Brazzaville is located."
+                },
+                {
+                    "question": "What is the name of the river that flows through the city of Brazzaville?",
+                    "answer": "the Congo River",
+                    "explanation": "The city is located on the Congo River."
+                },
+                {
+                    "question": "Who was the first person to live in the city that was founded in 1879?",
+                    "answer": "Giacomo de Belgiojoso",
+                    "explanation": "Giacomo de Belgiojoso was the first person to live in the city that was founded in 1879."
+                },
+                {
+                    "question": "What year was the city of Brazzaville founded?",
+                    "answer": "1879",
+                    "explanation": "The city of Brazzaville was founded in 1879 by King Léopold II of Belgium as the capital of the Congo Free State."
+                },
+                {
+                    "question": "What is the name of the airport that serves the city that was founded in 1879 by King Léopold II of Belgium?",
+                    "answer": "the Léopole International Airport",
+                    "explanation": "The city is served by the Léopole International Airport."
+                },
+                {
+                    "question": "Which university is located in the city that was founded in 1879 by King Léopold II of Belgium?",
+                    "answer": "the University for Peace",
+                    "explanation": "The University for Peace is located in the city that was founded in 1879 by King Léopold II of Belgium."
+                },
+                {
+                    "question": "Which university is in the city that is the capital of the Republic of the Congo?",
+                    "answer": "the National University of Congo",
+                    "explanation": "The National University of Congo is located in Brazzaville, the capital and largest city of the Republic of the Congo."
+                },
+                {
+                    "question": "Who founded the city of Brazzaville?",
+                    "answer": "King Léopold II",
+                    "explanation": "The city of Brazzaville was founded in 1879 by King Léopold II of Belgium as the capital of the Congo Free State."
+                }
+            ],
+            "hops": [
+                "Brazzaville"
+            ]
+        }
+    },
+    "second_hops": {
+        "the Volta River": {
+            "term": "the Volta River",
+            "passage": "The Volta River (French: \"Rivière du Volta\") is a river in West Africa. It is the principal river of the Volta basin in Ghana and Ivory Coast. The Volta flows into the Gulf of Guinea in the Akosombo Dam.",
+            "qae_pairs": [
+                {
+                    "question": "Which country is the Volta River located in?",
+                    "answer": "Ghana",
+                    "explanation": "The Volta River is located in Ghana."
+                }
+            ],
+            "hops": [
+                "Accra",
+                "the Volta River"
+            ]
+        },
+        "Fort Jamesburg": {
+            "term": "Fort Jamesburg",
+            "passage": "Fort Jamesburg was an 18th-century military outpost located in what is now James City County on the Virginia Peninsula in the Colony of Virginia. The fort's location was at the confluence of the James and Appomattox Rivers.",
+            "qae_pairs": [
+                {
+                    "question": "What is the location of Fort Jamesburg?",
+                    "answer": "the Virginia Peninsula",
+                    "explanation": "Fort Jamesburg was located on the Virginia Peninsula."
+                },
+                {
+                    "question": "What is the date of Fort Jamesburg?",
+                    "answer": "18th-century",
+                    "explanation": "Fort Jamesburg was an 18th-century military outpost located in what is now James City County on the Virginia Peninsula in the Colony of Virginia. The fort's location was at the confluence of the James and Appomattox Rivers."
+                }
+            ],
+            "hops": [
+                "Accra",
+                "Fort Jamesburg"
+            ]
+        },
+        "Menelik II": {
+            "term": "Menelik II",
+            "passage": "Menelik II (Amharic: መኒሎቲ አንድ; Ge'ez: መነጋሐ አንድ; c. 1844 – 1 June 1913) was the Emperor of Ethiopia (r. 1889–1913). He was a member of the Solomonic dynasty and a member of the Walashma dynasty, which claimed descent from the ancient Solomonic line.",
+            "qae_pairs": [
+                {
+                    "question": "What is the birth date of Menelik II?",
+                    "answer": "1 June 1913",
+                    "explanation": "Menelik II was born on 1 June 1913."
+                },
+                {
+                    "question": "What is the name of the dynasty that ruled Ethiopia from Menelik II?",
+                    "answer": "the Solomonic dynasty",
+                    "explanation": "Menelik II was the Emperor of Ethiopia from 1889 to 1913. He was a member of the Solomonic dynasty and a member of the Walashma dynasty, which claimed descent from the ancient Solomonic line."
+                },
+                {
+                    "question": "What was Menelik II's date of birth?\n",
+                    "answer": "c. 1844",
+                    "explanation": "Menelik II was born around 1844."
+                }
+            ],
+            "hops": [
+                "Addis Ababa",
+                "Menelik II"
+            ]
+        },
+        "Finfinne": {
+            "term": "Finfinne",
+            "passage": "Finfinne (pronounced [ˈfinne]) is an island in the River Liffey in Ireland. It is located in the city of Dublin and is part of the city's Northside area. The island is connected to the north bank of the river by a footbridge and to the south bank by a road bridge. It is the location of Dublin Castle. The area was first settled in the Mesolithic period, and was later occupied in the Neolithic, Bronze and Iron Ages. It became a monastic site in the 7th century, and a Norse settlement in the 11th and 12th centuries. It was granted to the Knights Hospitaller in the 13th century, and to the Knights Templar in the 14th century. The island was granted to the city of Dublin in 1655 and is now managed by Dublin City Council. It is a major tourist attraction, with the Dublinia museum, a Viking longship, a medieval fair and gardens on the island.",
+            "qae_pairs": [
+                {
+                    "question": "How many years passed between the time when Dublin Castle was built and Finfinne became a monastic site?\n",
+                    "answer": "the 7th century",
+                    "explanation": "The island was first settled in the Mesolithic period, and was later occupied in the Neolithic, Bronze and Iron Ages. It became a monastic site in the 7th century."
+                },
+                {
+                    "question": "How many years after the city of Dublin was granted to the city of Dublin did the island of Finfinne become a monastic site?",
+                    "answer": "the 14th century",
+                    "explanation": "The island of Finfinne was first settled in the Mesolithic period, and was later occupied in the Neolithic, Bronze and Iron Ages. It became a monastic site in the 7th century, and a Norse settlement in the 11th and 12th centuries. It was granted to the Knights Hospitaller in the 13th century, and to the Knights Templar in the 14th century. The island was granted to the city of Dublin in 1655 and is now managed by Dublin City Council. It is a major tourist attraction, with the Dublinia museum, a Viking longship, a medieval fair and gardens"
+                }
+            ],
+            "hops": [
+                "Addis Ababa",
+                "Finfinne"
+            ]
+        },
+        "Ge'ez": {
+            "term": "Ge'ez",
+            "passage": "Ge'ez (also known as Ethiopic or Amharic) is a Semitic language that was once the lingua franca of the Christian community in the Horn of Africa and the Middle East. It is still spoken by the Ge'ez people of Ethiopia and Eritrea, and by the Beta Israel of Israel, who are the descendants of the ancient Ethiopian Jews.",
+            "qae_pairs": [
+                {
+                    "question": "Which of the following is not a country where the Ge'ez language is spoken?\n\nA. Ethiopia\nB. Eritrea\nC. Israel\n\nThe Ge'ez language is a Semitic language that is the lingua franca of what region in the Horn of Africa and the Middle East?",
+                    "answer": "Semitic",
+                    "explanation": "The Ge'ez language is a Semitic language that is the lingua franca of the Christian community in the Horn of Africa and the Middle East."
+                }
+            ],
+            "hops": [
+                "Addis Ababa",
+                "Ge'ez"
+            ]
+        },
+        "the Mediterranean Sea": {
+            "term": "the Mediterranean Sea",
+            "passage": "The Mediterranean Sea is a sea connected to the Atlantic Ocean, surrounded by the Mediterranean Basin, a large geographical region that covers much of Southeastern Europe, North Africa and Southwest Asia. The sea is located between latitudes 30° and 46° N and longitudes 6° W and 36° E.",
+            "qae_pairs": [
+                {
+                    "question": "How many degrees are there between the Mediterranean Sea and Algiers?",
+                    "answer": "46",
+                    "explanation": "The Mediterranean Sea is located between latitudes 30° and 46° N and longitudes 6° W and 36° E."
+                },
+                {
+                    "question": "What is the location of the Mediterranean Sea?",
+                    "answer": "Southeastern Europe",
+                    "explanation": "The Mediterranean Sea is a sea connected to the Atlantic Ocean, surrounded by the Mediterranean Basin, a large geographical region that covers much of Southeastern Europe, North Africa and Southwest Asia. The sea is located between latitudes 30° and 46° N and longitudes 6° W and 36° E."
+                }
+            ],
+            "hops": [
+                "Algiers",
+                "the Mediterranean Sea"
+            ]
+        },
+        "Africa": {
+            "term": "Africa",
+            "passage": "Africa (from Classical Arabic: ʿAfriqah \"land of the Afriq\", from ʿAfrīq \"African\") is the second-largest and second-most-populous continent of Earth, after Asia. At about 30.8 million square kilometers (11.7 million square miles) including adjacent islands, it covers 6% of Earth's total surface area and 20.4 % of its total land area. With 1.2 billion people as of 2013, it accounts for approximately 20% of the world's population, and contains 55 wholly or partly recognized sovereign states (countries) and nine territories. The continent is surrounded by the Mediterranean Sea to the south, the Indian Ocean to the southwest, the Red Sea to the southeast, and the Atlantic Ocean to the north and east.",
+            "qae_pairs": [
+                {
+                    "question": "Which African country is known as ʿAfriqah?\n",
+                    "answer": "ʿAfriqah",
+                    "explanation": "ʿAfriqah"
+                },
+                {
+                    "question": "Which ocean is located to the north of Africa?",
+                    "answer": "the Atlantic Ocean",
+                    "explanation": "The Atlantic Ocean is located to the north of Africa."
+                },
+                {
+                    "question": "Africa is located on the continent of which sea?\n",
+                    "answer": "the Mediterranean Sea",
+                    "explanation": "Africa is located on the continent of the Mediterranean Sea."
+                }
+            ],
+            "hops": [
+                "Algiers",
+                "Africa"
+            ]
+        },
+        "Berber": {
+            "term": "Berber",
+            "passage": "Berber (Berber: ⵜⵓⵔⵉⵏⵓⵜ, romanized: ⵜⵓⵔⵉⵏⵓⵜ, Arabic: ⵜⵓⵔⵉⵏⵓⵜ, Amazigh: ⵜⵓⵔⵉⵏⵓⵜ, Tamaziɣt) is a collection of related Afro-Asiatic language varieties spoken by Berbers, a traditionally nomadic people of North Africa. Berber languages are spoken by over 40 million people, primarily in Morocco, Algeria, Tunisia, and Libya.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the place where Berber is spoken?",
+                    "answer": "North Africa",
+                    "explanation": "Berber is a collection of related Afro-Asiatic language varieties spoken by Berbers, a traditionally nomadic people of North Africa."
+                },
+                {
+                    "question": "What are the languages spoken by Berbers?\n",
+                    "answer": "Afro-Asiatic",
+                    "explanation": "Berber languages are a collection of related Afro-Asiatic language varieties spoken by Berbers, a traditionally nomadic people of North Africa."
+                },
+                {
+                    "question": "What is the name of the country where the Berber language is spoken?",
+                    "answer": "Tunisia",
+                    "explanation": "Berber is a collection of related Afro-Asiatic language varieties spoken by Berbers, a traditionally nomadic people of North Africa. Berber languages are spoken by over 40 million people, primarily in Morocco, Algeria, Tunisia, and Libya."
+                }
+            ],
+            "hops": [
+                "Algiers",
+                "Berber"
+            ]
+        },
+        "Fort Dauphin": {
+            "term": "Fort Dauphin",
+            "passage": "Fort Dauphin is an island fort in the River Gambia, between the towns of Farafenni and Banjul. It is located about 10 km (6 mi) upstream from the mouth of the river, and about 5 km (3.1 mi) downstream from Banjul. It is the largest island fort in West Africa. It was constructed in 1779 by the British to guard the mouth of the river, and to prevent slavers from entering the river and attacking the British fort of James Island (now called Old James Island). The fort was named Fort James after the British king, and was garrisoned by a detachment of the 96th Regiment of Foot (later the Royal Irish Rifles). The fort was abandoned in the 19th century, and was largely demolished in the 20th century. It has been reconstructed in the 21st century. It was the site of the first British military base in what is now The Gambia. The fort is located in the town of Farafenni. It was named Fort James after the British king, and was garrisoned by a detachment of the 96th Regiment of Foot (later the Royal Irish Rifles).",
+            "qae_pairs": [
+                {
+                    "question": "Question: What city in the country of The Gambia is home to Fort Dauphin?\n",
+                    "answer": "Farafenni",
+                    "explanation": "Fort Dauphin is an island fort in the River Gambia, between the towns of Farafenni and Banjul."
+                }
+            ],
+            "hops": [
+                "Antananarivo",
+                "Fort Dauphin"
+            ]
+        },
+        "the Kingdom of Imerina": {
+            "term": "the Kingdom of Imerina",
+            "passage": "Kingdom of Imerina (Koymerina, Koryma) was a state in central-western Madagascar from the 18th to 20th centuries. It was founded in 1610 by Queen Ranavalona I, who was the first monarch of the Sakalava people, and was named after the Imerina plateau in which it was located. The kingdom reached its peak during the reign of Queen Ranavalona II, who ruled from 1828 to 1863. The capital was Ambohimanga, a hilltop surrounded by a large enclosure, which was the residence of the queen, the royal palace, and a symbol of the power of the kingdom. The Kingdom of Imerina was a monarchy, but was not an absolute monarchy like the other kingdoms of Madagascar. The Sakalava were the largest ethnic group in the highlands of Madagascar. They were the traditional rulers of the highlands, and the first king of the Sakalava people was crowned in 1620.",
+            "qae_pairs": [
+                {
+                    "question": "What year was the capital of the Kingdom of Imerina founded?",
+                    "answer": "1610",
+                    "explanation": "The Kingdom of Imerina was founded in 1610 by Queen Ranavalona I, who was the first monarch of the Sakalava people."
+                },
+                {
+                    "question": "What is the capital of the Kingdom of Imerina?",
+                    "answer": "Ambohimanga",
+                    "explanation": "The capital of the Kingdom of Imerina was Ambohimanga, a hilltop surrounded by a large enclosure, which was the residence of the queen, the royal palace, and a symbol of the power of the kingdom."
+                }
+            ],
+            "hops": [
+                "Antananarivo",
+                "the Kingdom of Imerina"
+            ]
+        },
+        "the Kingdom of Madagascar": {
+            "term": "the Kingdom of Madagascar",
+            "passage": "Madagascar, officially the Republic of Madagascar, is an island country in the Indian Ocean, off the coast of East Africa. It lies mostly south of the Equator, with the Indian Ocean to the east and west and the Mozambique Channel to the north. The capital is Antananarivo. Madagascar is the fourth-largest island in Africa and, at, is the world's fourth-largest island. It is about three times the size of Hawaii. The island was first settled about 2 million years ago, and was uninhabited until the arrival of the first Austronesian peoples around 3,000 years ago. The island was called Ikongo (meaning \"great island\" or \"big island\") by its earliest settlers. The name \"Madagascar\" comes from the Malagasy language, and means \"land of the great kings\" (from the words mada, \"king\" and iko, \"land\"). In the 16th century, the island was colonized by the Portuguese, who established a permanent settlement in the northern port of Sofala. The island was later colonized by the East India Company and became part of the British Empire. The island gained independence from France in 1960, and was ruled by a series of autocratic governments until a series of successful, if controversial, elections in 1992.",
+            "qae_pairs": [
+                {
+                    "question": "What year did the Kingdom of Madagascar become a republic?",
+                    "answer": "1992",
+                    "explanation": "In 1992, Madagascar became a republic."
+                },
+                {
+                    "question": "What is the capital of the Kingdom of Madagascar?",
+                    "answer": "the Republic of Madagascar",
+                    "explanation": "The Republic of Madagascar is the capital of the Kingdom of Madagascar."
+                },
+                {
+                    "question": "What year did the Kingdom of Madagascar become independent from France?",
+                    "answer": "1960",
+                    "explanation": "In 1960, the Kingdom of Madagascar became independent from France."
+                },
+                {
+                    "question": "How old is the Kingdom of Madagascar?",
+                    "answer": "about 2 million years ago",
+                    "explanation": "The Kingdom of Madagascar was founded about 2 million years ago."
+                }
+            ],
+            "hops": [
+                "Antananarivo",
+                "the Kingdom of Madagascar"
+            ]
+        },
+        "Eritrea": {
+            "term": "Eritrea",
+            "passage": "Eritrea (or /ˈiːrɪtrəˌ/ (listen)), officially the State of Eritrea (Arabic:دولة عري تورا‎ Dawlat ʿĪrāṭiyah, also known as \"Eritrea\" or \"ER\"), is a country located in the Horn of Africa. It shares land borders with Ethiopia to the west and Sudan to the south. The capital and largest city is Asmara.",
+            "qae_pairs": [
+                {
+                    "question": "How many countries does Eritrea share a border with?",
+                    "answer": "Sudan",
+                    "explanation": "Eritrea shares land borders with Ethiopia to the west and Sudan to the south."
+                }
+            ],
+            "hops": [
+                "Asmara",
+                "Eritrea"
+            ]
+        },
+        "the Niger River": {
+            "term": "the Niger River",
+            "passage": "The Niger River (French: \"River Niger\" or simply \"Niger\") is the world's sixth largest river in terms of discharge and the second largest in terms of drainage basin area, after the Amazon River. It is the world's longest river system, at approximately. The majority of its waters flow in the wet season from June to October. The river's flow is highly variable from year to year. It is sometimes considered a mega-drainage system, since its watershed covers an area larger than that of many countries, including the US and China. The river has its origins in Guinea, where it is fed by many smaller rivers and streams. It flows through Mali, where it is joined by many of its tributaries. From here it flows into Nigeria, where it is joined by the Bénoué River, before emptying into the Gulf of Guinea in the Atlantic Ocean. The river's drainage basin is home to about 400 million people and covers an area of some. The Niger River is the longest river system in the world. The river is the world's second largest drainage basin. The river is sometimes considered the world's largest drainage basin. The majority of its waters flow in the wet season. The river's flow is highly variable. The river has its origins in Guinea, where it is fed by many rivers. The river flows through Mali, where it is joined by many of its tributaries.",
+            "qae_pairs": [
+                {
+                    "question": "What season is the Niger River in?",
+                    "answer": "the wet season",
+                    "explanation": "The Niger River is in the wet season from June to October."
+                },
+                {
+                    "question": "What is the Niger River joined by in Nigeria?",
+                    "answer": "the Bénoué River",
+                    "explanation": "The Niger River is the longest river system in the world. The river is the world's second largest drainage basin. The river is sometimes considered the world's largest drainage basin. The majority of its waters flow in the wet season. The river's flow is highly variable. The river has its origins in Guinea, where it is fed by many rivers. The river flows through Mali, where it is joined by many of its tributaries. From here it flows into Nigeria, where it is joined by the Bénoué River, before emptying into the Gulf of Guinea in the Atlantic Ocean."
+                },
+                {
+                    "question": "Which country is the Niger River in?",
+                    "answer": "Mali",
+                    "explanation": "The Niger River is in Mali."
+                }
+            ],
+            "hops": [
+                "Bamako",
+                "the Niger River"
+            ]
+        },
+        "the National Library of Mali": {
+            "term": "the National Library of Mali",
+            "passage": "The National Library of Mali is located in Bamako, Mali. The library was founded in 1959. It was previously located at the Palais de la Mariée in Bamako, Mali, before it moved to a new facility at the end of 2012.",
+            "qae_pairs": [
+                {
+                    "question": "What year was the National Library of Mali founded?",
+                    "answer": "1959",
+                    "explanation": "The National Library of Mali was founded in 1959."
+                },
+                {
+                    "question": "What happened in 2012 to the National Library of Mali?",
+                    "answer": "the end of 2012",
+                    "explanation": "The National Library of Mali was founded in 1959. It was previously located at the Palais de la Mariée in Bamako, Mali, before it moved to a new facility at the end of 2012."
+                }
+            ],
+            "hops": [
+                "Bamako",
+                "the National Library of Mali"
+            ]
+        },
+        "Tuaregs": {
+            "term": "Tuaregs",
+            "passage": "The Tuareg (Berber: \"ⵜⴰⵔⴱ\", romanized Tuareg; French: \"Tuareg\" or \"Touareg\") are a Berber ethnic group inhabiting the arid Sahara Desert of northern Africa. They are known for their distinctive dress and culture and for their fierce resistance to foreign domination. The Tuareg traditionally live as nomadic herders, but increasingly since the 1970s have been forced into an urban-centered way of life due to drought and desertification of the Sahara.",
+            "qae_pairs": [
+                {
+                    "question": "How many years after the Tuaregs were forced into an urban-centered way of life due to drought and desertification of the Sahara did they start to settle in cities?",
+                    "answer": "the 1970s",
+                    "explanation": "The Tuaregs traditionally live as nomadic herders, but increasingly since the 1970s have been forced into an urban-centered way of life due to drought and desertification of the Sahara."
+                }
+            ],
+            "hops": [
+                "Bamako",
+                "Tuaregs"
+            ]
+        },
+        "the National School of Administration": {
+            "term": "the National School of Administration",
+            "passage": "The National School of Administration (Russian: Национальная школа администрации, Natsional'naya shkola administratsii), also translated as \"Imperial School of Administration\", \"Imperial Academy of Administration\" or \"Imperial School of the Ministry of Internal Affairs\", was an institution of higher learning founded in 1718 in Russia, which provided training for the civil service of the Tsardom of Russia and later the Russian Empire.",
+            "qae_pairs": [
+                {
+                    "question": "What is the National School of Administration?",
+                    "answer": "Imperial School of Administration",
+                    "explanation": "The National School of Administration was an institution of higher learning founded in 1718 in Russia, which provided training for the civil service of the Tsardom of Russia and later the Russian Empire."
+                },
+                {
+                    "question": "How many years after the founding of the National School of Administration was the city of Bamako founded?",
+                    "answer": "1718",
+                    "explanation": "The city of Bamako was founded in 1718."
+                }
+            ],
+            "hops": [
+                "Bamako",
+                "the National School of Administration"
+            ]
+        },
+        "Amadou Toumani": {
+            "term": "Amadou Toumani",
+            "passage": "Amadou Toumani Touré (also known as Toumani Touré; born 19 January 1955) is a Malian politician who has been President of Mali since 2013. A member of the Alliance for the Republic (APR), he was previously Prime Minister from 2002 to 2007 and President of the National Assembly from 2007 to 2012. Touré was elected as President of Mali on 22 April 2013 in a second-round runoff election, receiving 55.3% of the vote.",
+            "qae_pairs": [
+                {
+                    "question": "What is the date of birth of Amadou Toumani?",
+                    "answer": "19 January 1955",
+                    "explanation": "Amadou Toumani Touré was born on 19 January 1955."
+                },
+                {
+                    "question": "Which political organization does Amadou Toumani lead?\n",
+                    "answer": "the Alliance for the Republic (APR",
+                    "explanation": "Amadou Toumani Touré is a Malian politician who has been President of Mali since 2013. A member of the Alliance for the Republic (APR), he was previously Prime Minister from 2002 to 2007 and President of the National Assembly from 2007 to 2012. Touré was elected as President of Mali on 22 April 2013 in a second-round runoff election, receiving 55.3% of the vote."
+                },
+                {
+                    "question": "What year was Amadou Toumani Touré Prime Minister?",
+                    "answer": "2002",
+                    "explanation": "Amadou Toumani Touré was Prime Minister of Mali from 2002 to 2007. He was elected as President of Mali on 22 April 2013 in a second-round runoff election, receiving 55.3% of the vote."
+                },
+                {
+                    "question": "What is the date of the election that saw Amadou Toumani Touré elected as President of Mali?",
+                    "answer": "22 April 2013",
+                    "explanation": "Amadou Toumani Touré was elected as President of Mali on 22 April 2013 in a second-round runoff election, receiving 55.3% of the vote."
+                },
+                {
+                    "question": "How many years was Amadou Toumani Touré the president of Mali?",
+                    "answer": "2012",
+                    "explanation": "Amadou Toumani Touré was the president of Mali from 2012 to 2013."
+                }
+            ],
+            "hops": [
+                "Bamako",
+                "Amadou Toumani"
+            ]
+        },
+        "May to October": {
+            "term": "May to October",
+            "passage": "The period of May to October is known as summer in the northern hemisphere and winter in the southern hemisphere. The seasons are reversed in the southern hemisphere, with summer occurring in what is winter in the northern hemisphere, and winter in what is summer in the northern hemisphere. The northern spring is also known as meteorological spring. The northern hemisphere spring is usually considered to be the period from the vernal equinox to the summer solstice; in the southern hemisphere, the southern spring is considered to be the period from the summer solstice to the autumnal equinox. The northern hemisphere autumn is the period from the autumnal equinox to the winter solstice; in the southern hemisphere, the southern autumn is considered to be the period from the winter solstice to the vernal equinox.",
+            "qae_pairs": [
+                {
+                    "question": "What season is the period of May to October known as in the northern hemisphere?\n",
+                    "answer": "winter",
+                    "explanation": "The period of May to October is known as summer in the northern hemisphere and winter in the southern hemisphere."
+                },
+                {
+                    "question": "Which season occurs in the period of May to October?",
+                    "answer": "summer",
+                    "explanation": "The period of May to October is known as summer in the northern hemisphere and winter in the southern hemisphere."
+                }
+            ],
+            "hops": [
+                "Bamako",
+                "May to October"
+            ]
+        },
+        "the Mali National Museum": {
+            "term": "the Mali National Museum",
+            "passage": "The Mali National Museum is a national museum in Bamako, Mali. It was founded in 1958. The museum was originally located in the Palais de la Nation, which was built in the 1930s. The museum was moved to its current location in the 1990s.",
+            "qae_pairs": [
+                {
+                    "question": "What year was the Mali National Museum founded?",
+                    "answer": "1958",
+                    "explanation": "The Mali National Museum was founded in 1958."
+                }
+            ],
+            "hops": [
+                "Bamako",
+                "the Mali National Museum"
+            ]
+        },
+        "the Marché de Gaïté": {
+            "term": "the Marché de Gaïté",
+            "passage": "The Marché de Gaîté (English: Market of Joy) is a covered shopping and entertainment complex in Paris, France, designed by the French architect Jean-Marie Duthilleul. It was inaugurated in 1982 and is located in the neighborhood of Montmartre.",
+            "qae_pairs": [
+                {
+                    "question": "What is the location of the Marché de Gaîté?",
+                    "answer": "France",
+                    "explanation": "The Marché de Gaîté is located in France."
+                },
+                {
+                    "question": "What is the name of the architect of the Marché de Gaîté?",
+                    "answer": "Jean-Marie Duthilleul",
+                    "explanation": "The Marché de Gaîté is a covered shopping and entertainment complex in Paris, France, designed by the French architect Jean-Marie Duthilleul. It was inaugurated in 1982 and is located in the neighborhood of Montmartre."
+                },
+                {
+                    "question": "What is the year of the Marché de Gaîté?",
+                    "answer": "1982",
+                    "explanation": "The Marché de Gaîté is a covered shopping and entertainment complex in Paris, France, designed by the French architect Jean-Marie Duthilleul. It was inaugurated in 1982 and is located in the neighborhood of Montmartre."
+                }
+            ],
+            "hops": [
+                "Bangui",
+                "the Marché de Gaïté"
+            ]
+        },
+        "the Central African Republic Civil War": {
+            "term": "the Central African Republic Civil War",
+            "passage": "The Central African Republic Civil War (2012–13), also known as the War of the Dictatorship, was a conflict between the government and the opposition in the Central African Republic (CAR). The conflict started in December 2012, and was caused by the government's attempt to amend the constitution to allow President Francois Bozizé to run for a third term, which led to a popular uprising.",
+            "qae_pairs": [
+                {
+                    "question": "How long did the Central African Republic Civil War last?",
+                    "answer": "December 2012",
+                    "explanation": "The Central African Republic Civil War lasted from December 2012 to January 2013."
+                }
+            ],
+            "hops": [
+                "Bangui",
+                "the Central African Republic Civil War"
+            ]
+        },
+        "Cfa": {
+            "term": "Cfa",
+            "passage": "Cfa is a subtype of the climate map of North America, which uses a common classification system for describing climates. The map was developed by the National Oceanic and Atmospheric Administration (NOAA). The map uses a common classification system for describing climates.",
+            "qae_pairs": [
+                {
+                    "question": "Is Cfa a common classification system for describing climates?\n",
+                    "answer": "NOAA",
+                    "explanation": "The National Oceanic and Atmospheric Administration (NOAA) developed the Cfa subtype of the climate map of North America, which uses a common classification system for describing climates."
+                },
+                {
+                    "question": "What is the Cfa climate?",
+                    "answer": "North America",
+                    "explanation": "The Cfa climate is a subtype of the climate map of North America, which uses a common classification system for describing climates."
+                }
+            ],
+            "hops": [
+                "Beirut",
+                "Cfa"
+            ]
+        },
+        "the Republic of the Congo": {
+            "term": "the Republic of the Congo",
+            "passage": "The Republic of the Congo, officially the Republic of Congo, is a country in central Africa. It is bordered to the north by Gabon, to the east by Cameroon, to the south by the Democratic Republic of the Congo, and to the southwest by Angola. The country is also considered to be bordered by the Atlantic Ocean and the Gulf of Guinea to the southwest. It is the third-largest country in Africa and is sometimes referred to as Central Africa.",
+            "qae_pairs": [
+                {
+                    "question": "Which country is bordered by the Republic of the Congo and Gabon?",
+                    "answer": "Cameroon",
+                    "explanation": "The Republic of the Congo is bordered to the north by Gabon, to the east by Cameroon, to the south by the Democratic Republic of the Congo, and to the southwest by Angola."
+                },
+                {
+                    "question": "What is the Republic of the Congo bordered by?",
+                    "answer": "the Atlantic Ocean",
+                    "explanation": "The Republic of the Congo is bordered by the Atlantic Ocean and the Gulf of Guinea to the southwest."
+                }
+            ],
+            "hops": [
+                "Brazzaville",
+                "the Republic of the Congo"
+            ]
+        },
+        "Lingala": {
+            "term": "Lingala",
+            "passage": "Lingala (French: langaal, [ˈlaŋɔˀaɬa]) is a Bantu language spoken by about 20 million people in the Democratic Republic of the Congo, and by an additional 2.5 million people in Angola and the Central African Republic.",
+            "qae_pairs": [
+                {
+                    "question": "What is Lingala spoken in?",
+                    "answer": "the Central African Republic",
+                    "explanation": "Lingala is a Bantu language spoken by about 20 million people in the Democratic Republic of the Congo, and by an additional 2.5 million people in Angola and the Central African Republic."
+                },
+                {
+                    "question": "What is Lingala?",
+                    "answer": "Bantu",
+                    "explanation": "Lingala is a Bantu language spoken by about 20 million people in the Democratic Republic of the Congo, and by an additional 2.5 million people in Angola and the Central African Republic."
+                }
+            ],
+            "hops": [
+                "Brazzaville",
+                "Lingala"
+            ]
+        },
+        "the Congo River": {
+            "term": "the Congo River",
+            "passage": "The Congo River is the second longest river in Africa, after the Nile. It is the world's 11th longest river, at 4,857 kilometres (3,109 mi), and the world's deepest river, with an average depth of over 200 metres (660 ft). The Congo River is the second largest drainage system in the world by discharge volume, after the Amazon River.",
+            "qae_pairs": [
+                {
+                    "question": "Which of the following is true about the Congo River?",
+                    "answer": "Nile",
+                    "explanation": "The Congo River is the second longest river in Africa, after the Nile."
+                },
+                {
+                    "question": "Which of the following is true of the Congo River?",
+                    "answer": "the Amazon River",
+                    "explanation": "The Congo River is not the largest drainage system in the world by discharge volume, but the Amazon River."
+                }
+            ],
+            "hops": [
+                "Brazzaville",
+                "the Congo River"
+            ]
+        },
+        "Giacomo de Belgiojoso": {
+            "term": "Giacomo de Belgiojoso",
+            "passage": "Giacomo de Belgiojoso (died 1445) was an Italian condottiero, active in Lombardy and Emilia. He was the son of the condottiero Giovanni I de' Medici, and brother of Giovanni II de' Medici.",
+            "qae_pairs": [
+                {
+                    "question": "What year did Giacomo de Belgiojoso die?",
+                    "answer": "1445",
+                    "explanation": "Giacomo de Belgiojoso died in 1445."
+                }
+            ],
+            "hops": [
+                "Brazzaville",
+                "Giacomo de Belgiojoso"
+            ]
+        },
+        "the Léopole International Airport": {
+            "term": "the Léopole International Airport",
+            "passage": "Léopole International Airport (ICAO: LPO, IATA: LPO, ), also known as Léopole Airport, is an international airport located in Léopole, France. It is located approximately 20 km (12 mi) north of Toulouse. The airport serves Toulouse and is operated by Aeroport de Toulouse-Blagnac (ATB), which is a joint-stock company.",
+            "qae_pairs": [
+                {
+                    "question": "What is the ICAO code of the Léopole International Airport?\n",
+                    "answer": "LPO",
+                    "explanation": "Léopole International Airport (ICAO: LPO, IATA: LPO, ) is an international airport located in Léopole, France."
+                }
+            ],
+            "hops": [
+                "Brazzaville",
+                "the Léopole International Airport"
+            ]
+        },
+        "the University for Peace": {
+            "term": "the University for Peace",
+            "passage": "The University for Peace (UPEACE) is a private, independent, non-profit university in Costa Rica. It was founded in 1991 by President José María Figueres, who was also the founder of the Costa Rican Institute of Technology (ITCR).",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the founder of the University for Peace?",
+                    "answer": "José María Figueres",
+                    "explanation": "The University for Peace was founded in 1991 by President José María Figueres, who was also the founder of the Costa Rican Institute of Technology (ITCR)."
+                },
+                {
+                    "question": "What year was the University for Peace founded?",
+                    "answer": "1991",
+                    "explanation": "The University for Peace was founded in 1991."
+                }
+            ],
+            "hops": [
+                "Brazzaville",
+                "the University for Peace"
+            ]
+        },
+        "the National University of Congo": {
+            "term": "the National University of Congo",
+            "passage": "The National University of Congo is a university in Brazzaville, Republic of the Congo. It is one of the largest universities in the country. The University is divided into five faculties and one institute: the Faculty of Science and Technology, the Faculty of Law and Political Science, the Faculty of Economics and Management, the Faculty of Medicine and Pharmacy, the Faculty of Arts and Human Sciences, and the Institute of Social Sciences. The University also includes a number of other institutions: The National School of Administration and Magistrateship, The National School of Engineering, The Institute of Political Studies, The Institute of Geography and Regional Studies, The Institute of African and Oceanian Studies, The Centre of Research in Human and Social Sciences, etc. The University of Congo is a public institution and its current rector is Dr. Moussa Ndala.",
+            "qae_pairs": [
+                {
+                    "question": "What is the current rector of the National University of Congo?",
+                    "answer": "Moussa Ndala",
+                    "explanation": "The current rector of the National University of Congo is Moussa Ndala."
+                },
+                {
+                    "question": "What is the name of the faculty that is part of the National University of Congo?",
+                    "answer": "the Faculty of Medicine and Pharmacy",
+                    "explanation": "The National University of Congo is a university in Brazzaville, Republic of the Congo. It is one of the largest universities in the country. The University is divided into five faculties and one institute: the Faculty of Science and Technology, the Faculty of Law and Political Science, the Faculty of Economics and Management, the Faculty of Medicine and Pharmacy, the Faculty of Arts and Human Sciences, and the Institute of Social Sciences. The University also includes a number of other institutions: The National School of Administration and Magistrateship, The National School of Engineering, The Institute of Political Studies, The Institute of Geography and Regional Studies"
+                },
+                {
+                    "question": "What is the location of the National University of Congo?",
+                    "answer": "Republic of the Congo",
+                    "explanation": "The National University of Congo is a university in Brazzaville, Republic of the Congo."
+                },
+                {
+                    "question": "What is the National University of Congo's largest faculty?",
+                    "answer": "the Faculty of Science and Technology",
+                    "explanation": "The National University of Congo is a university in Brazzaville, Republic of the Congo. It is one of the largest universities in the country. The University is divided into five faculties and one institute: the Faculty of Science and Technology, the Faculty of Law and Political Science, the Faculty of Economics and Management, the Faculty of Medicine and Pharmacy, the Faculty of Arts and Human Sciences, and the Institute of Social Sciences. The University also includes a number of other institutions: The National School of Administration and Magistrateship, The National School of Engineering, The Institute of Political Studies, The Institute of Geography and Regional Studies"
+                }
+            ],
+            "hops": [
+                "Brazzaville",
+                "the National University of Congo"
+            ]
+        },
+        "King Léopold II": {
+            "term": "King Léopold II",
+            "passage": "The Belgian Congo, or Congo Free State (French: \"Congo-Belge\", Dutch: \"Kongo Belge\" or \"Kongos België\") was a state established on the Congo River in Central Africa, by the Kingdom of Belgium in 1885. The colony existed until 1960.",
+            "qae_pairs": [
+                {
+                    "question": "What is King Léopold II known for?\n",
+                    "answer": "The Belgian Congo",
+                    "explanation": "The Belgian Congo was a state established on the Congo River in Central Africa, by the Kingdom of Belgium in 1885. The colony existed until 1960."
+                }
+            ],
+            "hops": [
+                "Brazzaville",
+                "King Léopold II"
+            ]
+        }
+    }
+}

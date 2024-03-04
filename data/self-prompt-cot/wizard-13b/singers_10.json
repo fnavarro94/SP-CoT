@@ -1,0 +1,776 @@
+{
+    "first_hops": {
+        "Beyonc": {
+            "term": "Beyonc",
+            "passage": "Beyoncé Giselle Knowles-Carter (/biːˈjɒnseɪ/; born September 4, 1981) is an American singer, songwriter, actress, and record producer. Born and raised in Houston, Texas, Beyoncé performed in various singing and dancing competitions as a child. She rose to fame in the late 1990s as lead singer of the R&B girl-group Destiny's Child, one of the best-selling girl groups in history. Beyoncé's debut solo album, Dangerously in Love (2003), spawned the number-one singles \"Crazy in Love\" and \"Baby Boy\" and earned her five Grammy Awards. Her second solo album, B'Day (2006), contained the top-ten singles \"Deja Vu\", \"Irreplaceable\", and \"Beautiful Liar\". Beyoncé's third solo album, I Am... Sasha Fierce (2008), saw the release of the successful singles \"If I Were a Boy\", \"Single Ladies (Put a Ring on It)\", and \"Halo\", and earned her six Grammy Awards. Following the release of her fourth solo album, 4 (2011), Beyoncé became the first female artist to have four consecutive number-one albums on the US Billboard 200 chart. Beyoncé's fifth solo album, Beyoncé (2013), was a critical and commercial success. It was distinguished by its experimental production and exploration of darker themes, and its release was accompanied by a surprise self-titled visual album.",
+            "qae_pairs": [
+                {
+                    "question": "What is Beyoncé's genre of music?",
+                    "answer": "R&B",
+                    "explanation": "Beyoncé's debut solo album, Dangerously in Love (2003), spawned the number-one singles Crazy in Love and Baby Boy and earned her five Grammy Awards. Explanation: This passage suggests that Beyoncé's genre of music is R&B."
+                },
+                {
+                    "question": "'What is the title of Beyoncé's second solo album?'",
+                    "answer": "B'Day",
+                    "explanation": "Beyoncé's second solo album, B'Day (2006), contained the top-ten singles Deja Vu, Irreplaceable, and Beautiful Liar."
+                },
+                {
+                    "question": "Who is Beyoncé?",
+                    "answer": "Houston",
+                    "explanation": "Beyoncé performed in various singing and dancing competitions as a child."
+                },
+                {
+                    "question": "What year did Beyoncé become the first female artist to have four consecutive number-one albums on the US Billboard 200 chart?",
+                    "answer": "2011",
+                    "explanation": "Beyoncé's fourth solo album, 4 (2011), became the first female artist to have four consecutive number-one albums on the US Billboard 200 chart."
+                },
+                {
+                    "question": "What year did Beyoncé release her self-titled visual album?",
+                    "answer": "2013",
+                    "explanation": "Beyoncé's fifth solo album, Beyoncé (2013), was a critical and commercial success. It was distinguished by its experimental production and exploration of darker themes, and its release was accompanied by a surprise self-titled visual album."
+                },
+                {
+                    "question": "What is Beyoncé's place of birth?",
+                    "answer": "Texas",
+                    "explanation": "Born and raised in Houston, Texas, Beyoncé performed in various singing and dancing competitions as a child."
+                },
+                {
+                    "question": "What year did Beyoncé release her second solo album, B'Day?",
+                    "answer": "2006",
+                    "explanation": "Beyoncé's second solo album, B'Day (2006), contained the top-ten singles Deja Vu, Irreplaceable, and Beautiful Liar."
+                }
+            ],
+            "hops": [
+                "Beyonc"
+            ]
+        },
+        "Ariana Grande": {
+            "term": "Ariana Grande",
+            "passage": "Ariana Grande-Butera (born June 26, 1993) is an American singer, songwriter, and actress. She began her career in 2008 in the Broadway musical 13, before playing the role of Cat Valentine in the Nickelodeon television series Victorious (2010–2013) and in the spinoff Sam & Cat (2013–2014). She has received numerous accolades, including three American Music Awards, three MTV Europe Music Awards, and four Grammy Award nominations. Grande's music career began with the soundtrack Music from Victorious (2011). She released her first studio album, Yours Truly, in 2013, which debuted atop the US Billboard 200. The album's lead single, \"The Way\", debuted in the top 10 of the Billboard Hot 100, and was followed by the release of the successful singles \"Baby I\" and \"Right There\". Her second studio album, My Everything (2014), continued the commercial success of its predecessor, and spawned the hit singles \"Problem\", \"Break Free\", and \"Bang Bang\". In 2016, she released her third studio album, Dangerous Woman, which produced the hit singles \"Dangerous Woman\", \"Into You\", and \"Side to Side\". Grande has also ventured into acting, starring in the 2015 film adaptation of the musical comedy-drama, Grease Live, and in the 2018 film, The Lego Movie 2: The Second Part. She has also contributed to various charitable organizations and has a large following on social media.",
+            "qae_pairs": [
+                {
+                    "question": "\"What year did Ariana Grande's music career begin?\"",
+                    "answer": "2011",
+                    "explanation": "Grande's music career began with the soundtrack Music from Victorious (2011)."
+                },
+                {
+                    "question": "'What is the year Ariana Grande starred in the film adaptation of the musical comedy-drama, Grease Live?'",
+                    "answer": "2015",
+                    "explanation": "She has received numerous accolades, including three American Music Awards, three MTV Europe Music Awards, and four Grammy Award nominations."
+                },
+                {
+                    "question": "What year did Ariana Grande release her first studio album, Yours Truly?",
+                    "answer": "2013",
+                    "explanation": "Ariana Grande-Butera (born June 26, 1993) is an American singer, songwriter, and actress. She began her career in 2008 in the Broadway musical 13, before playing the role of Cat Valentine in the Nickelodeon television series Victorious (2010–2013) and in the spinoff Sam & Cat (2013–2014). She has received numerous accolades, including three American Music Awards, three MTV Europe Music Awards, and four Grammy Award nominations."
+                },
+                {
+                    "question": "What is the name of Ariana Grande's third studio album?",
+                    "answer": "Dangerous Woman",
+                    "explanation": "Ariana Grande's music career began with the soundtrack Music from Victorious (2011)."
+                },
+                {
+                    "question": "What is Ariana Grande's most famous role in a television series?",
+                    "answer": "Cat Valentine",
+                    "explanation": "Ariana Grande began her career in 2008 in the Broadway musical 13, before playing the role of Cat Valentine in the Nickelodeon television series Victorious (2010–2013) and in the spinoff Sam & Cat (2013–2014)."
+                }
+            ],
+            "hops": [
+                "Ariana Grande"
+            ]
+        },
+        "Taylor Swift": {
+            "term": "Taylor Swift",
+            "passage": "Taylor Alison Swift (born December 13, 1989) is an American singer-songwriter, musician, and actress. She was born in Reading, Pennsylvania, and later moved to Nashville, Tennessee, at the age of 14 to pursue a career in country music. Swift's first album, Taylor Swift (2006), was a commercial success and produced four hit singles. Her second album, Fearless (2008), became the best-selling album of 2009 and won four Grammy Awards. Swift's third album, Speak Now (2010), was also a commercial success and spawned several hit singles, including \"Mine\" and \"Back to December\". Swift's fourth album, Red (2012), marked a departure from her country roots and included more pop and rock elements. The album spawned several hit singles, including \"We Are Never Ever Getting Back Together\" and \"I Knew You Were Trouble\". Swift's fifth album, 1989 (2014), was a critical and commercial success and marked a complete departure from her country roots. The album spawned several hit singles, including \"Shake It Off\" and \"Blank Space\". Swift's sixth album, Reputation (2017), was also a commercial success and spawned several hit singles, including \"Look What You Made Me Do\" and \"Delicate\". Swift's seventh album, Lover (2019), was a critical and commercial success and included the hit singles \"You Need to Calm Down\" and \"Lover\". Swift has won numerous awards, including ten Grammy Awards, five American Music Awards, and five Guinness World Records.",
+            "qae_pairs": [
+                {
+                    "question": "'What is the state where Taylor Swift was born?' 'What is the state where Taylor Swift moved to at the age of 14 to pursue a career in country music?' 'What is the state where Taylor Swift's first album, Taylor Swift, was a commercial success?'",
+                    "answer": "Pennsylvania",
+                    "explanation": "Swift's first album, Taylor Swift (2006), was a commercial success and produced four hit singles."
+                },
+                {
+                    "question": "What are some of the awards that Taylor Swift has won?",
+                    "answer": "Grammy Awards",
+                    "explanation": "Swift's seventh album, Lover (2019), was a critical and commercial success and included the hit singles You Need to Calm Down and Lover. Swift has won numerous awards, including ten Grammy Awards, five American Music Awards, and five Guinness World Records. Answer: Swift has won numerous awards, including ten Grammy Awards, five American Music Awards, and five Guinness World Records."
+                },
+                {
+                    "question": "\"What year did Taylor Swift's album 'Fearless' become the best-selling album of?\"",
+                    "answer": "2009",
+                    "explanation": "Swift's second album, Fearless (2008), became the best-selling album of 2009 and won four Grammy Awards."
+                },
+                {
+                    "question": "What is the title of the book that lists the world's records and achievements?",
+                    "answer": "Guinness World Records",
+                    "explanation": "Swift's seventh album, Lover (2019), was a critical and commercial success and included the hit singles You Need to Calm Down and Lover. Swift has won numerous awards, including ten Grammy Awards, five American Music Awards, and five Guinness World Records. Explanation: The evidence sentence is Swift has won numerous awards, including ten Grammy Awards, five American Music Awards, and five Guinness World Records."
+                },
+                {
+                    "question": "What year did Taylor Swift release her first album?",
+                    "answer": "2006",
+                    "explanation": "Swift's first album, Taylor Swift (2006), was a commercial success and produced four hit singles."
+                }
+            ],
+            "hops": [
+                "Taylor Swift"
+            ]
+        },
+        "Ed Sheeran": {
+            "term": "Ed Sheeran",
+            "passage": "Edward Christopher Sheeran, born 17 February 1991, is an English singer, songwriter, guitarist, and record producer. In early 2011, Sheeran independently released the extended play, No. 5 Collaborations Project, which caught the attention of both Elton John and Jamie Foxx, who invited him to perform on their respective shows. He then signed with Asylum Records. Sheeran's debut studio album, + (pronounced \"plus\"), was released in September 2011 and has since been certified seven-times platinum in the UK. The album contains his hit single \"The A Team\", which earned him the Ivor Novello Award for Best Song Musically and Lyrically. In 2012, Sheeran won the Brit Awards for Best British Male Solo Artist and British Breakthrough Act. Sheeran's second studio album, x (pronounced \"multiply\"), was released in June 2014 and has since been certified four-times platinum in the UK. The album includes his hit singles \"Sing\" and \"Thinking Out Loud\", which won him two Grammy Awards for Song of the Year and Best Pop Solo Performance. In 2015, Sheeran released his third studio album, ÷ (pronounced \"divide\"), which debuted at number one in the UK and the US. The album includes his hit singles \"Shape of You\" and \"Castle on the Hill\", which broke records in the UK by debuting at numbers one and two respectively. Sheeran also became the first artist to have two songs debut in the US top 10 in the same week.",
+            "qae_pairs": [
+                {
+                    "question": "In which year did Ed Sheeran release his third studio album, ÷ (pronounced \"divide\")?",
+                    "answer": "2015",
+                    "explanation": "Ed Sheeran's third studio album, ÷ (pronounced divide), was released in 2015."
+                },
+                {
+                    "question": "What is the name of the award that Ed Sheeran won for his hit single \"The A Team\"?",
+                    "answer": "the Ivor Novello Award",
+                    "explanation": "In 2012, Sheeran won the Brit Awards for Best British Male Solo Artist and British Breakthrough Act. This evidence sentence explains that Ed Sheeran won two awards at the Brit Awards in 2012, namely Best British Male Solo Artist and British Breakthrough Act."
+                },
+                {
+                    "question": "\"Which year did Ed Sheeran win the Brit Awards for Best British Male Solo Artist and British Breakthrough Act?\"",
+                    "answer": "2012",
+                    "explanation": "In 2012, Sheeran won the Brit Awards for Best British Male Solo Artist and British Breakthrough Act."
+                },
+                {
+                    "question": "\"Which record label did Ed Sheeran sign with after independently releasing his debut extended play?\"",
+                    "answer": "Asylum Records",
+                    "explanation": "Ed Sheeran signed with Asylum Records after independently releasing his debut extended play, No. 5 Collaborations Project, which caught the attention of both Elton John and Jamie Foxx, who invited him to perform on their respective shows."
+                },
+                {
+                    "question": "Which awards ceremony honors outstanding achievements in British music?",
+                    "answer": "the Brit Awards",
+                    "explanation": "In 2012, Sheeran won the Brit Awards for Best British Male Solo Artist and British Breakthrough Act."
+                },
+                {
+                    "question": "What is the release date of Ed Sheeran's second studio album, x?",
+                    "answer": "June 2014",
+                    "explanation": "Ed Sheeran's second studio album, x (pronounced multiply), was released in June 2014 and has since been certified four-times platinum in the UK."
+                },
+                {
+                    "question": "What is the name of the award that Ed Sheeran won at the Brit Awards in 2012?",
+                    "answer": "British Breakthrough Act",
+                    "explanation": "Ed Sheeran won the Brit Awards for Best British Male Solo Artist and British Breakthrough Act in 2012."
+                }
+            ],
+            "hops": [
+                "Ed Sheeran"
+            ]
+        },
+        "Adele": {
+            "term": "Adele",
+            "passage": "Adele Laurie Blue Adkins, born on May 5, 1988, is a British singer-songwriter. She is known for her soulful voice and her ability to write heartfelt lyrics that resonate with her listeners. Adele was raised in Tottenham, North London, and began singing at a young age. She was influenced by artists such as Etta James, Ella Fitzgerald, and Aretha Franklin. Adele's debut album, \"19,\" was released in 2008 and received critical acclaim. The album featured hits such as \"Chasing Pavements\" and \"Hometown Glory.\" Her second album, \"21,\" was released in 2011 and became an international success. The album included the hit single \"Rolling in the Deep\" and won multiple Grammy Awards. Adele's third album, \"25,\" was released in 2015 and broke multiple records upon its release. The album sold over 3 million copies in its first week and became the best-selling album of the 21st century in the United States. The album featured hits such as \"Hello\" and \"When We Were Young.\" Adele has won numerous awards throughout her career, including 15 Grammy Awards, an Academy Award, and a Golden Globe Award. She has also been named one of Time Magazine's 100 most influential people in the world. Adele is known for her powerful and emotional performances, and her ability to connect with her audience. She has been praised for her authenticity and her willingness to be vulnerable in her music. Despite her success, Adele has remained grounded and has spoken openly about her struggles with anxiety and depression.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the century in which Adele's album '25' broke multiple records upon its release?",
+                    "answer": "the 21st century",
+                    "explanation": "Adele's third album, 25, was released in 2015 and broke multiple records upon its release. The album sold over 3 million copies in its first week and became the best-selling album of the 21st century in the United States."
+                },
+                {
+                    "question": "What year was Adele's second album, \"21,\" released?",
+                    "answer": "2011",
+                    "explanation": "Adele's second album, 21, was released in 2011 and became an international success. The album included the hit single Rolling in the Deep and won multiple Grammy Awards."
+                },
+                {
+                    "question": "What year was Adele's debut album, \"19,\" released?",
+                    "answer": "2008",
+                    "explanation": "Adele's debut album, 19, was released in 2008 and received critical acclaim."
+                },
+                {
+                    "question": "A. What is Adele's hometown? B. What is the name of Adele's debut album? C. What is the name of Adele's second album? D. What is the name of Adele's third album? A",
+                    "answer": "Tottenham",
+                    "explanation": "Adele was raised in Tottenham, North London, and began singing at a young age."
+                },
+                {
+                    "question": "What is Adele's birthday?",
+                    "answer": "May 5, 1988",
+                    "explanation": "Adele's debut album, 19, was released in 2008 and received critical acclaim."
+                }
+            ],
+            "hops": [
+                "Adele"
+            ]
+        },
+        "Bruno Mars": {
+            "term": "Bruno Mars",
+            "passage": "Bruno Mars (born Peter Gene Hernandez; October 8, 1985) is an American singer, songwriter, record producer, and dancer. Born and raised in Honolulu, Hawaii, Mars moved to Los Angeles in 2003 to pursue a musical career. After being dropped by Motown Records, Mars signed a recording contract with Atlantic Records in 2009. Mars' debut studio album, Doo-Wops & Hooligans (2010), included the international hit singles \"Just the Way You Are\" and \"Grenade\". The album was a commercial success, peaking at number three on the US Billboard 200 and being certified diamond by the Recording Industry Association of America (RIAA). Mars' second studio album, Unorthodox Jukebox (2012), peaked at number one on the US Billboard 200 and featured the singles \"Locked Out of Heaven\" and \"When I Was Your Man\". Mars' third studio album, 24K Magic (2016), earned him his first number one on the US Billboard 200 and featured the title track \"24K Magic\" and the singles \"That's What I Like\" and \"Versace on the Floor\". Mars' music is known for its combination of rock, R&B, soul, funk, and hip hop influences, as well as his retro-inspired style and stage performances. Mars has won 11 Grammy Awards, including Album of the Year for 24K Magic, and has sold over 200 million records worldwide. He has also been named one of Time magazine's 100 most influential people in the world.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of Bruno Mars' second studio album?",
+                    "answer": "Unorthodox Jukebox",
+                    "explanation": "Mars' second studio album, Unorthodox Jukebox (2012), peaked at number one on the US Billboard 200 and featured the singles Locked Out of Heaven and When I Was Your Man. Mars' music is known for its combination of rock, R&B, soul, funk, and hip hop influences, as well as his retro-inspired style and stage performances."
+                },
+                {
+                    "question": "What is the name of the record label that signed Bruno Mars in 2009?",
+                    "answer": "Atlantic Records",
+                    "explanation": "After being dropped by Motown Records, Mars signed a recording contract with Atlantic Records in 2009."
+                },
+                {
+                    "question": "What year did Bruno Mars move to Los Angeles to pursue a musical career?",
+                    "answer": "2003",
+                    "explanation": "Bruno Mars moved to Los Angeles in 2003 to pursue a musical career."
+                },
+                {
+                    "question": "What is Bruno Mars' birthday?",
+                    "answer": "October 8, 1985",
+                    "explanation": "Mars moved to Los Angeles in 2003 to pursue a musical career."
+                },
+                {
+                    "question": "What year did Bruno Mars sign a recording contract with Atlantic Records?",
+                    "answer": "2009",
+                    "explanation": "After being dropped by Motown Records, Mars signed a recording contract with Atlantic Records in 2009."
+                },
+                {
+                    "question": "What record label did Bruno Mars sign with before signing with Atlantic Records?",
+                    "answer": "Motown Records",
+                    "explanation": "Bruno Mars moved to Los Angeles in 2003 to pursue a musical career."
+                },
+                {
+                    "question": "What is the abbreviation for the Recording Industry Association of America?",
+                    "answer": "RIAA",
+                    "explanation": "Mars' debut studio album, Doo-Wops & Hooligans (2010), included the international hit singles Just the Way You Are and Grenade. The album was a commercial success, peaking at number three on the US Billboard 200 and being certified diamond by the Recording Industry Association of America (RIAA)."
+                }
+            ],
+            "hops": [
+                "Bruno Mars"
+            ]
+        },
+        "Rihanna": {
+            "term": "Rihanna",
+            "passage": "Rihanna is a Barbadian singer, songwriter, actress, and entrepreneur. Born in Saint Michael and raised in Bridgetown, she first entered the music industry by recording demo tapes under the guidance of record producer Evan Rogers in 2003. She subsequently signed a recording contract with Def Jam Recordings after auditioning for its then-president, hip-hop producer and rapper Jay-Z. Rihanna's debut studio album, Music of the Sun (2005), peaked within the top ten in Canada and the United States, and features the hit single \"Pon de Replay\". Her second studio album, A Girl Like Me (2006), peaked within the top-five in the United States, and produced the successful singles \"SOS\" and \"Unfaithful\". Rihanna's third studio album, Good Girl Gone Bad (2007), marked a departure from her previous music style and incorporated more elements of dance-pop and R&B. It was a commercial success, peaking at number two on the US Billboard 200, and produced the international hit singles \"Umbrella\", \"Don't Stop the Music\", and \"Take a Bow\". Rihanna's fourth studio album, Rated R (2009), was a departure from her previous music style and incorporated more elements of rock and R&B. It peaked at number four on the US Billboard 200 and produced the hit singles \"Russian Roulette\" and \"Rude Boy\". Her fifth studio album, Loud (2010), peaked at number three on the US Billboard 200 and produced the hit singles \"Only Girl (In the World)\", \"What's My Name? \", and \"S&M\".",
+            "qae_pairs": [
+                {
+                    "question": "What year did Rihanna first enter the music industry?",
+                    "answer": "2003",
+                    "explanation": "Rihanna first entered the music industry by recording demo tapes under the guidance of record producer Evan Rogers in 2003."
+                },
+                {
+                    "question": "What year did Rihanna release her third studio album, Good Girl Gone Bad?",
+                    "answer": "2007",
+                    "explanation": "Rihanna's third studio album, Good Girl Gone Bad (2007), marked a departure from her previous music style and incorporated more elements of dance-pop and R&B."
+                },
+                {
+                    "question": "Rihanna's fifth studio album, which peaked at number three on the US Billboard 200 and produced the hit singles \"Only Girl (In the World)\", \"What's My Name? \", and \"S&M\".",
+                    "answer": "Loud",
+                    "explanation": "Rihanna's fifth studio album, Loud, peaked at number three on the US Billboard 200 and produced the hit singles Only Girl (In the World), What's My Name? , and S&M."
+                },
+                {
+                    "question": "What is the name of the record producer who discovered Rihanna and helped her enter the music industry?",
+                    "answer": "Evan Rogers",
+                    "explanation": "Rihanna's debut studio album, Music of the Sun (2005), peaked within the top ten in Canada and the United States, and features the hit single Pon de Replay."
+                },
+                {
+                    "question": "\"Where did Rihanna's debut studio album, Music of the Sun, peak?\"",
+                    "answer": "the United States",
+                    "explanation": "Rihanna's debut studio album, Music of the Sun, peaked within the top ten in Canada and the United States, and features the hit single Pon de Replay."
+                },
+                {
+                    "question": "What is the year in which Rihanna's second studio album, A Girl Like Me, was released?",
+                    "answer": "2006",
+                    "explanation": "Rihanna's second studio album, A Girl Like Me, peaked within the top five in the United States, and produced the successful singles SOS and Unfaithful."
+                }
+            ],
+            "hops": [
+                "Rihanna"
+            ]
+        },
+        "Justin Bieber": {
+            "term": "Justin Bieber",
+            "passage": "Justin Bieber is a Canadian singer, songwriter, and actor. Bieber was discovered in 2008 by Scooter Braun, who happened to come across Bieber's videos on YouTube and later became his manager. Braun arranged for him to meet with Usher and his then-label, Island Records. Bieber's debut single, \"One Time\", was released in 2009 and peaked at number 12 on the US Billboard Hot 100. His debut album, My World, followed later that same year. It was a commercial success, debuting at number one in several countries, including Canada and the United States. Bieber released his second album, My World 2.0, in 2010. It debuted at number one in several countries, and was preceded by the single \"Baby\", which became his most successful song to date, reaching number one in several countries and setting a record for the most views in a 24-hour period on Vevo. Bieber has won numerous awards throughout his career, including a Grammy Award for Best Dance Recording for the song \"Where Are Ü Now\" at the 2016 ceremony. He has been listed as one of Time magazine's most influential people in the world, and has been considered a teen idol and a cultural icon. Bieber has been involved in several controversies, including being arrested for vandalism in 2014 and being accused of assault in 2020. He has also been criticized for his behavior, including his use of racist language and his controversial comments on social media. Despite this, Bieber remains a popular and influential figure in the entertainment industry.",
+            "qae_pairs": [
+                {
+                    "question": "What is Justin Bieber's debut single?",
+                    "answer": "Time",
+                    "explanation": "Justin Bieber's debut single, One Time, was released in 2009 and peaked at number 12 on the US Billboard Hot 100."
+                },
+                {
+                    "question": "What is the name of the record label that signed Justin Bieber in 2009?",
+                    "answer": "Island Records",
+                    "explanation": "Bieber's debut single, One Time, was released in 2009 and peaked at number 12 on the US Billboard Hot 100. Evidence sentence: Bieber's debut single, One Time, was released in 2009 and peaked at number 12 on the US Billboard Hot 100."
+                },
+                {
+                    "question": "What is the name of the music chart that Justin Bieber's debut single, \"One Time\", peaked at number 12 on?",
+                    "answer": "the US Billboard",
+                    "explanation": "Justin Bieber's debut single, One Time, was released in 2009 and peaked at number 12 on the US Billboard Hot 100."
+                },
+                {
+                    "question": "Who is Justin Bieber's manager?",
+                    "answer": "Scooter Braun",
+                    "explanation": "Scooter Braun happened to come across Bieber's videos on YouTube and later became his manager."
+                },
+                {
+                    "question": "The question is \"What is the title of Justin Bieber's debut album?\"",
+                    "answer": "My World",
+                    "explanation": "Bieber's debut album, My World, followed later that same year."
+                },
+                {
+                    "question": "What is the name of the video-sharing website where people can upload and watch videos?",
+                    "answer": "YouTube",
+                    "explanation": "Bieber's debut single, One Time, was released in 2009 and peaked at number 12 on the US Billboard Hot 100. Answer: Bieber's debut single, One Time, was released in 2009 and peaked at number 12 on the US Billboard Hot 100."
+                },
+                {
+                    "question": "What year did Justin Bieber release his second album, My World 2.0?",
+                    "answer": "2010",
+                    "explanation": "Justin Bieber released his second album, My World 2.0, in 2010. It debuted at number one in several countries, and was preceded by the single Baby, which became his most successful song to date, reaching number one in several countries and setting a record for the most views in a 24-hour period on Vevo."
+                },
+                {
+                    "question": "What year was Justin Bieber discovered by Scooter Braun?",
+                    "answer": "2008",
+                    "explanation": "Bieber's debut single, One Time, was released in 2009 and peaked at number 12 on the US Billboard Hot 100. This sentence provides evidence that Justin Bieber was discovered in 2008, as it mentions that his debut single was released in 2009, which means that he must have been signed to a record label and started releasing music within a year of being discovered."
+                }
+            ],
+            "hops": [
+                "Justin Bieber"
+            ]
+        },
+        "Lady Gaga": {
+            "term": "Lady Gaga",
+            "passage": "Lady Gaga, born Stefani Joanne Angelina Germanotta, is an American singer, songwriter, actress, and activist. She was born on March 28, 1986, in New York City, New York, to Cynthia Louise (Bissett) and Joseph Anthony Germanotta, Jr. Gaga rose to fame with her debut album, The Fame, released in 2008, which was a critical and commercial success and included the hit songs \"Just Dance\" and \"Poker Face\". She followed this with the similarly successful albums The Fame Monster (2009) and Born This Way (2011), which explored themes of sexuality, individuality, and empowerment. Gaga has won numerous awards, including six Grammy Awards, three Brit Awards, and two Guinness World Records. She has sold an estimated 30 million albums and 150 million singles worldwide, making her one of the best-selling music artists in history. In addition to her music career, Gaga is known for her philanthropic work and activism, particularly in the LGBTQ+ community. She has been a vocal advocate for LGBTQ+ rights and has used her platform to raise awareness and funds for various causes, including HIV/AIDS and mental health. Gaga has also acted in several films, including the 2018 remake of A Star Is Born, for which she received critical acclaim and won several awards, including a Golden Globe and an Academy Award for Best Original Song. She has also made headlines for her fashion and avant-garde style, often wearing elaborate and provocative outfits on stage and in public.",
+            "qae_pairs": [
+                {
+                    "question": "What is Lady Gaga's birthday?",
+                    "answer": "March 28, 1986",
+                    "explanation": "Gaga has won numerous awards, including six Grammy Awards, three Brit Awards, and two Guinness World Records."
+                },
+                {
+                    "question": "\"What is the title of Lady Gaga's second studio album?\"",
+                    "answer": "The Fame Monster",
+                    "explanation": "She followed this with the similarly successful albums The Fame Monster (2009) and Born This Way (2011), which explored themes of sexuality, individuality, and empowerment. This sentence explains that Lady Gaga released two more successful albums after her debut album, The Fame, which explored similar themes of sexuality, individuality, and empowerment."
+                },
+                {
+                    "question": "Who is Lady Gaga's father?",
+                    "answer": "Joseph Anthony Germanotta",
+                    "explanation": "Lady Gaga rose to fame with her debut album, The Fame, released in 2008, which was a critical and commercial success and included the hit songs Just Dance and Poker Face."
+                },
+                {
+                    "question": "A) What is Lady Gaga's birthplace? B) What is the name of Lady Gaga's debut album? C) What is the title of Lady Gaga's 2018 film? D) In which year was Lady Gaga born?",
+                    "answer": "New York City",
+                    "explanation": "Gaga has won numerous awards, including six Grammy Awards, three Brit Awards, and two Guinness World Records. This sentence explains that Lady Gaga has won a significant number of awards in her career, including six Grammy Awards, three Brit Awards, and two Guinness World Records."
+                },
+                {
+                    "question": "What is the title of the book that lists the world's records and achievements?",
+                    "answer": "Guinness World Records",
+                    "explanation": "Gaga has won numerous awards, including six Grammy Awards, three Brit Awards, and two Guinness World Records. Explanation: The evidence sentence states that Lady Gaga has won six Grammy Awards, three Brit Awards, and two Guinness World Records. This provides evidence that Gaga is a highly successful and accomplished music artist who has received recognition for her achievements."
+                },
+                {
+                    "question": "What are the awards that Lady Gaga has won?",
+                    "answer": "Grammy Awards",
+                    "explanation": "Lady Gaga has won numerous awards, including six Grammy Awards, three Brit Awards, and two Guinness World Records."
+                },
+                {
+                    "question": "What is Lady Gaga's real name?",
+                    "answer": "Stefani Joanne Angelina Germanotta",
+                    "explanation": "Lady Gaga, born Stefani Joanne Angelina Germanotta, is an American singer, songwriter, actress, and activist."
+                },
+                {
+                    "question": "What is Lady Gaga's mother's maiden name?",
+                    "answer": "Bissett",
+                    "explanation": "Gaga rose to fame with her debut album, The Fame, released in 2008, which was a critical and commercial success and included the hit songs Just Dance and Poker Face."
+                }
+            ],
+            "hops": [
+                "Lady Gaga"
+            ]
+        },
+        "Shawn Mendes": {
+            "term": "Shawn Mendes",
+            "passage": "Shawn Mendes (born Shawn Peter Raul Mendes; August 8, 1998) is a Canadian singer, songwriter, and model. He gained a following in 2013, when he began posting cover versions of popular songs to Vine. The following year, he caught the attention of Island Records and his debut single, \"Life of the Party\", was released in June 2014. His self-titled debut album was released in 2015, and included the single \"Stitches\", which reached the top 10 in the US and Canada. Mendes' second album, Illuminate, was released in 2016, and included the single \"Treat You Better\". He has since released three more albums, including his most recent, \"Shawn Mendes: The Album\", which was released in 2018. Mendes has won several awards throughout his career, including eight MTV Europe Music Awards, three Juno Awards, and two American Music Awards. In addition to his music career, Mendes has also modeled for brands such as Calvin Klein and H&M. He has been involved in several philanthropic endeavors, including his own charity, Shawn Mendes Foundation, which supports various causes such as education, healthcare, and the environment. Mendes has also been involved in campaigns for organizations such as Do Something and the Malala Fund. Mendes has been open about his struggles with anxiety and depression, and has used his platform to raise awareness about mental health. He has also been vocal about his support for the LGBTQ+ community, and has been recognized for his efforts in promoting equality and acceptance.",
+            "qae_pairs": [
+                {
+                    "question": "What year did Shawn Mendes release his most recent album, \"Shawn Mendes: The Album\"?",
+                    "answer": "2018",
+                    "explanation": "Shawn Mendes has released four studio albums, including his most recent, Shawn Mendes: The Album, which was released in 2018."
+                },
+                {
+                    "question": "What is the name of the record label that signed Shawn Mendes in 2014?",
+                    "answer": "Island Records",
+                    "explanation": "Shawn Mendes caught the attention of Island Records and his debut single, Life of the Party, was released in June 2014."
+                },
+                {
+                    "question": "What year did Shawn Mendes release his second album, 'Illuminate'?",
+                    "answer": "2016",
+                    "explanation": "Shawn Mendes has been open about his struggles with anxiety and depression, and has used his platform to raise awareness about mental health."
+                },
+                {
+                    "question": "What year did Shawn Mendes release his self-titled debut album?",
+                    "answer": "2015",
+                    "explanation": "Shawn Mendes' self-titled debut album was released in 2015, and included the single Stitches, which reached the top 10 in the US and Canada."
+                },
+                {
+                    "question": "What was the month and year that Shawn Mendes' debut single, \"Life of the Party\", was released?",
+                    "answer": "June 2014",
+                    "explanation": "Shawn Mendes' debut single, Life of the Party, was released in June 2014."
+                },
+                {
+                    "question": "What is the title of Shawn Mendes' second album?",
+                    "answer": "Illuminate",
+                    "explanation": "Shawn Mendes' second album, Illuminate, was released in 2016, and included the single Treat You Better."
+                },
+                {
+                    "question": "What is the name of the organization that Shawn Mendes has been involved in campaigns for?",
+                    "answer": "the Malala Fund",
+                    "explanation": "Shawn Mendes has been involved in campaigns for organizations such as Do Something and the Malala Fund."
+                },
+                {
+                    "question": "What is the name of the social media platform where Shawn Mendes gained a following by posting cover versions of popular songs?",
+                    "answer": "Vine",
+                    "explanation": "Shawn Mendes gained a following in 2013, when he began posting cover versions of popular songs to Vine."
+                }
+            ],
+            "hops": [
+                "Shawn Mendes"
+            ]
+        }
+    },
+    "second_hops": {
+        "Dangerous Woman": {
+            "term": "Dangerous Woman",
+            "passage": "Dangerous Woman is the fourth studio album by American singer Ariana Grande. It was released on May 20, 2016, by Republic Records. The album features production from a variety of producers, including Max Martin, Ilya, and Savan Kotecha, among others. The album's title track, \"Dangerous Woman\", was released as the album's lead single on March 11, 2016. The album debuted at number two on the US Billboard 200 chart, selling 165,000 copies in its first week. It also debuted at number one in the United Kingdom, Australia, and Canada. The album received generally positive reviews from critics, who praised Grande's vocal abilities and the album's production. The album has since been certified double platinum by the Recording Industry Association of America (RIAA) and has sold over 1.5 million copies in the United States.",
+            "qae_pairs": [
+                {
+                    "question": "What is the release date of Ariana Grande's album 'Dangerous Woman'?",
+                    "answer": "May 20, 2016",
+                    "explanation": "The album's title track, Dangerous Woman, was released as the album's lead single on March 11, 2016. Evidence sentence: The album's title track, Dangerous Woman, was released as the album's lead single on March 11, 2016."
+                },
+                {
+                    "question": "What label did Ariana Grande's album 'Dangerous Woman' release under?",
+                    "answer": "Republic Records",
+                    "explanation": "Ariana Grande's album 'Dangerous Woman' was released on May 20, 2016, by Republic Records."
+                },
+                {
+                    "question": "What is the release date of the lead single from Dangerous Woman?",
+                    "answer": "March 11, 2016",
+                    "explanation": "The album's title track, Dangerous Woman, was released as the album's lead single on March 11, 2016."
+                }
+            ],
+            "hops": [
+                "Ariana Grande",
+                "Dangerous Woman"
+            ]
+        },
+        "Cat Valentine": {
+            "term": "Cat Valentine",
+            "passage": "Cat Valentine is a fictional character from the Nickelodeon television series Victorious and its spin-off, Sam & Cat. She is portrayed by Ariana Grande. Cat is known for her quirky and energetic personality, as well as her love for cats and her unique fashion sense. She is a talented singer and dancer, and is a member of the school's cheerleading squad. Cat is also known for her on-again, off-again relationship with her longtime friend and love interest, Jade West. Despite their frequent arguments and disagreements, Cat and Jade have a deep connection and are often seen together throughout the series. Cat is also close friends with the other main characters, particularly Tori Vega and Beck Oliver.",
+            "qae_pairs": [
+                {
+                    "question": "What was the name of the spin-off series featuring Cat Valentine and Sam Puckett?",
+                    "answer": "Sam & Cat",
+                    "explanation": "Cat Valentine is a fictional character from the Nickelodeon television series Victorious and its spin-off, Sam & Cat."
+                }
+            ],
+            "hops": [
+                "Ariana Grande",
+                "Cat Valentine"
+            ]
+        },
+        "Pennsylvania": {
+            "term": "Pennsylvania",
+            "passage": "Pennsylvania is a state located in the northeastern and Mid-Atlantic regions of the United States. The Appalachian Mountains run through its middle. The state is home to the cities of Philadelphia, Pittsburgh, Allentown, and Erie. Pennsylvania is the 33rd-largest, the 6th-most populous, and the 9th-most densely populated of the 50 United States. Pennsylvania's two most populous cities, Philadelphia and Pittsburgh, have been ranked among the nation's \"most livable\" cities by The Economist and Forbes magazines. The state is also home to the first zoo in the United States, the Philadelphia Zoo. Pennsylvania has a diverse range of climates, from the cold and snowy winters in the northern areas to the hot and humid summers in the southern areas. The state's four seasons are distinct, and the state has a relatively humid continental climate.",
+            "qae_pairs": [
+                {
+                    "question": "What is the climate like in Pennsylvania, and how many seasons does it have?",
+                    "answer": "four seasons",
+                    "explanation": "Pennsylvania has a diverse range of climates, from the cold and snowy winters in the northern areas to the hot and humid summers in the southern areas. The state's four seasons are distinct, and the state has a relatively humid continental climate."
+                }
+            ],
+            "hops": [
+                "Taylor Swift",
+                "Pennsylvania"
+            ]
+        },
+        "Grammy Awards": {
+            "term": "Grammy Awards",
+            "passage": "The Grammy Awards are presented annually by The Recording Academy of the United States to recognize achievements in the music industry. The awards were established in 1958, and originally called the Gramophone Awards, named after the gramophone record player. The first award ceremony was held in 1959, and since then, the Grammy Awards have become one of the most prestigious awards in the music industry. The awards are presented in a variety of categories, including Best New Artist, Record of the Year, Song of the Year, Album of the Year, and Best Pop Vocal Album. The Grammy Awards are televised live on CBS, and are watched by millions of viewers around the world. The awards are also known for their high-profile performances, which have included artists such as Beyoncé, Lady Gaga, and Adele. The Grammy Awards are a celebration of the music industry, and are a testament to the hard work and dedication of the artists, producers, and engineers who create the music that we love.",
+            "qae_pairs": [
+                {
+                    "question": "What network does the Grammy Awards air on?",
+                    "answer": "CBS",
+                    "explanation": "The Grammy Awards are presented annually by The Recording Academy of the United States to recognize achievements in the music industry. The awards were established in 1958, and originally called the Gramophone Awards, named after the gramophone record player."
+                },
+                {
+                    "question": "What artist has won the most Grammy Awards for a female artist?",
+                    "answer": "Adele",
+                    "explanation": "The Grammy Awards are presented annually by The Recording Academy of the United States to recognize achievements in the music industry."
+                },
+                {
+                    "question": "What was the original name of the Grammy Awards before it was changed to the Grammy Awards?",
+                    "answer": "the Gramophone Awards",
+                    "explanation": "The Grammy Awards were established in 1958 and originally called the Gramophone Awards, named after the gramophone record player."
+                },
+                {
+                    "question": "What is the frequency of the Grammy Awards being held annually?",
+                    "answer": "annually",
+                    "explanation": "The Grammy Awards are presented annually by The Recording Academy of the United States to recognize achievements in the music industry."
+                }
+            ],
+            "hops": [
+                "Lady Gaga",
+                "Grammy Awards"
+            ]
+        },
+        "Guinness World Records": {
+            "term": "Guinness World Records",
+            "passage": "Guinness World Records, known from its inception in 1955 until 2000 as The Guinness Book of Records and in previous U.S. editions as The Guinness Book of World Records, is a reference book published annually, containing a collection of world records, both human achievements and the extremes of the natural world. The book itself holds a world record, as the best-selling copyrighted book of all time. It is also one of the most frequently stolen from libraries. The book itself is divided into categories such as \"longest\", \"tallest\", \"shortest\", \"heaviest\", and \"fastest\". It also has a section for the most valuable and rarest items in the world. The book also features a section on the world's greatest feats, which includes things like the first person to reach the summit of Mount Everest, the first person to swim the English Channel, and the first person to run a mile in under four minutes. The Guinness World Records also has an online version that is updated regularly with new records. The website features a record-breaking video section, where people can watch record-breaking attempts and achievements. The website also features a record-breaking forum, where people can discuss and share their own record-breaking experiences. The Guinness World Records is also known for its annual live events, where record-breakers attempt to break world records in front of a live audience. These events are often televised and can attract millions of viewers. Overall, the Guinness World Records is a fascinating and informative book that showcases the amazing achievements of humans and the natural world. It is a must-read for anyone who is interested in records and achievements.",
+            "qae_pairs": [
+                {
+                    "question": "What is the frequency of publishing the Guinness World Records annually?",
+                    "answer": "annually",
+                    "explanation": "The book itself holds a world record, as the best-selling copyrighted book of all time. Evidence sentence: The Guinness World Records is a reference book published annually, containing a collection of world records, both human achievements and the extremes of the natural world."
+                }
+            ],
+            "hops": [
+                "Lady Gaga",
+                "Guinness World Records"
+            ]
+        },
+        "the Ivor Novello Award": {
+            "term": "the Ivor Novello Award",
+            "passage": "The Ivor Novello Awards, named after the Welsh composer and songwriter Ivor Novello, are awards for songwriting and composing in the United Kingdom. They are presented annually by the British Academy of Songwriters, Composers and Authors (BASCA) and are considered one of the highest accolades for British music creators. The awards were first presented in 1956 and are named after Novello, who was a leading figure in British music in the early 20th century. The awards are presented in several categories, including songwriting, composition, and music production. Notable winners include Adele, Ed Sheeran, and Sam Smith. The awards are widely regarded as a prestigious event in the British music industry and are attended by many of the biggest names in music.",
+            "qae_pairs": [
+                {
+                    "question": "What is the frequency of the Ivor Novello Award ceremony held annually?",
+                    "answer": "annually",
+                    "explanation": "The Ivor Novello Awards, named after the Welsh composer and songwriter Ivor Novello, are awards for songwriting and composing in the United Kingdom. They are presented annually by the British Academy of Songwriters, Composers and Authors (BASCA) and are considered one of the highest accolades for British music creators."
+                }
+            ],
+            "hops": [
+                "Ed Sheeran",
+                "the Ivor Novello Award"
+            ]
+        },
+        "Asylum Records": {
+            "term": "Asylum Records",
+            "passage": "Asylum Records is an American record label founded in 1971 by David Geffen, Elliot Roberts, and Bert Schneider. The label was initially distributed by Atlantic Records before moving to Warner Music Group in 1972. Asylum Records is known for its eclectic roster of artists, including Jackson Browne, the Eagles, Tom Waits, Linda Ronstadt, and Joni Mitchell. The label has also released albums by more recent artists such as Ryan Adams, Father John Misty, and Alison Moyet. Asylum Records has been home to several successful albums, including the Eagles' Hotel California, Jackson Browne's Running on Empty, and Tom Waits' Rain Dogs. The label has won numerous Grammy Awards over the years, including Album of the Year for the Eagles' Their Greatest Hits (1971–1975) and Tom Waits' Rain Dogs. Asylum Records continues to be an important player in the music industry, with a diverse roster of artists and a legacy of groundbreaking albums.",
+            "qae_pairs": [
+                {
+                    "question": "What was the location of Asylum Records when it was founded in 1971?",
+                    "answer": "California",
+                    "explanation": "Asylum Records is known for its eclectic roster of artists, including Jackson Browne, the Eagles, Tom Waits, Linda Ronstadt, and Joni Mitchell."
+                }
+            ],
+            "hops": [
+                "Ed Sheeran",
+                "Asylum Records"
+            ]
+        },
+        "the Brit Awards": {
+            "term": "the Brit Awards",
+            "passage": "The Brit Awards are the British Phonographic Industry's annual awards ceremony. The name \"Brit\" is an acronym for British. The awards were first presented in 1977 and are now held annually in February or March. The awards are voted for by members of the BPI and also by a panel of music industry experts. The Brit Awards have a reputation for being one of the most prestigious music awards in the UK, with many of the world's biggest music stars winning awards. The ceremony features live performances from some of the biggest names in music, and is broadcast on television and radio. The Brit Awards have been held at various venues over the years, including the Royal Albert Hall and the O2 Arena. The most prestigious award at the Brit Awards is the Brit Award for Best British Album, which has been won by many of the UK's most successful artists, including Adele, Coldplay, and Oasis.",
+            "qae_pairs": [
+                {
+                    "question": "What is the frequency of the Brit Awards ceremony held annually?",
+                    "answer": "annually",
+                    "explanation": "The Brit Awards are the British Phonographic Industry's annual awards ceremony."
+                },
+                {
+                    "question": "What year did the Brit Awards first take place?",
+                    "answer": "1977",
+                    "explanation": "The Brit Awards are the British Phonographic Industry's annual awards ceremony. The name Brit is an acronym for British. The awards were first presented in 1977 and are now held annually in February or March."
+                }
+            ],
+            "hops": [
+                "Ed Sheeran",
+                "the Brit Awards"
+            ]
+        },
+        "Tottenham": {
+            "term": "Tottenham",
+            "passage": "Tottenham is a district in north London, England, in the London Borough of Haringey. It is located 8.2 miles (13.2 km) north of Charing Cross. The area is identified in the London Plan as one of 35 major centres in Greater London. Tottenham has a long history as a settlement, with evidence of a Saxon settlement existing in the area. The name Tottenham is believed to have originated from the Old English personal name Tota and ham, meaning \"homestead or settlement of Tota's family\". In the Middle Ages, Tottenham was a rural village, with market gardens supplying food to London. The opening of the Lea Bridge in 1742 allowed easier transportation of goods to and from the area, leading to the growth of industry in Tottenham. The construction of the railway in the mid-19th century allowed for further expansion and development of the area. Tottenham has a diverse population, with a significant number of people of African, Caribbean, and Asian descent. The area has a strong cultural identity, with a range of festivals and events celebrating its diverse heritage. Tottenham has a number of notable landmarks and attractions, including White Hart Lane, the home of Tottenham Hotspur Football Club, and Bruce Castle, a 16th-century mansion that is now a museum. The area is also home to a number of parks and open spaces, including Tottenham Marshes and Lordship Recreation Ground. In recent years, Tottenham has undergone significant regeneration, with a number of new developments and infrastructure projects being completed.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the London Borough that Tottenham is located in?",
+                    "answer": "Haringey",
+                    "explanation": "The area is identified in the London Plan as one of 35 major centres in Greater London. Answer: Tottenham is a district in north London, England, in the London Borough of Haringey."
+                },
+                {
+                    "question": "1. What was the age of Bruce Castle when it was built in Tottenham?",
+                    "answer": "16th-century",
+                    "explanation": "The name Tottenham is believed to have originated from the Old English personal name Tota and ham, meaning homestead or settlement of Tota's family."
+                }
+            ],
+            "hops": [
+                "Adele",
+                "Tottenham"
+            ]
+        },
+        "Unorthodox Jukebox": {
+            "term": "Unorthodox Jukebox",
+            "passage": "Unorthodox Jukebox is the second studio album by American singer and songwriter Bruno Mars. It was released on December 11, 2012, by Atlantic Records. The album features collaborations with producers and writers such as Mark Ronson, Jeff Bhasker, and Emile Haynie, as well as guest appearances from artists such as Miguel and Damian Marley. The album's sound incorporates elements of funk, soul, reggae, and hip hop, and features Mars' signature style of retro-inspired pop. The album received generally positive reviews from critics, who praised Mars' vocal abilities and the album's production. It was a commercial success, peaking at number one on the US Billboard 200 chart and reaching the top ten in several other countries. The album has been certified 6× Platinum by the Recording Industry Association of America (RIAA) and has sold over 6 million copies in the United States alone.",
+            "qae_pairs": [
+                {
+                    "question": "What producer did Bruno Mars collaborate with on his album Unorthodox Jukebox?",
+                    "answer": "Jeff Bhasker",
+                    "explanation": "Bruno Mars collaborated with producers and writers such as Mark Ronson, Jeff Bhasker, and Emile Haynie, as well as guest appearances from artists such as Miguel and Damian Marley."
+                }
+            ],
+            "hops": [
+                "Bruno Mars",
+                "Unorthodox Jukebox"
+            ]
+        },
+        "Evan Rogers": {
+            "term": "Evan Rogers",
+            "passage": "Evan Rogers is an American music executive, talent scout, and record producer. He is best known for discovering and launching the careers of several notable musicians, including Rihanna, Shontelle, and Carly Rae Jepsen. Rogers was born in Providence, Rhode Island, and began his career in the music industry in the 1980s as a DJ and promoter. He later became a talent scout for various record labels, including Def Jam Recordings and Universal Music Group. Rogers has also produced several albums and singles for various artists, including Rihanna's debut album, Music of the Sun. He has been credited with helping to shape the careers of many successful musicians, and has been recognized with several industry awards for his contributions to the music industry.",
+            "qae_pairs": [
+                {
+                    "question": "Who is the birthplace of Evan Rogers, the American music executive, talent scout, and record producer?",
+                    "answer": "Providence",
+                    "explanation": "Evan Rogers was born in Providence, Rhode Island."
+                }
+            ],
+            "hops": [
+                "Rihanna",
+                "Evan Rogers"
+            ]
+        },
+        "Scooter Braun": {
+            "term": "Scooter Braun",
+            "passage": "Scooter Braun is an American talent manager and entrepreneur. He is the founder of SB Projects, a entertainment and media company, and co-founder of the non-profit organization, Righteous Pictures. Braun has managed some of the biggest names in the music industry, including Justin Bieber, Ariana Grande, and Kanye West. He has also produced and executive produced numerous films and television shows, including the documentary film, \"Justin Bieber: Never Say Never\" and the television series, \"The West Wing\". Braun is known for his philanthropic work, and has been recognized for his contributions to various charitable organizations.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the entertainment and media company founded by Scooter Braun?",
+                    "answer": "SB Projects",
+                    "explanation": "Scooter Braun is the founder of SB Projects, an entertainment and media company that he established in 2007."
+                }
+            ],
+            "hops": [
+                "Justin Bieber",
+                "Scooter Braun"
+            ]
+        },
+        "My World": {
+            "term": "My World",
+            "passage": "My World is the debut studio album by Canadian singer Justin Bieber. It was released on November 17, 2009, by Island Records. The album features collaborations with artists such as Ludacris, Usher, and Sean Kingston. The album was a commercial success, debuting at number one on the US Billboard 200 and Canadian Albums Chart. It has since been certified platinum in several countries, including the United States and Canada. The album's lead single, \"One Time\", was released on July 12, 2009, and became a top ten hit in several countries. The album's second single, \"One Less Lonely Girl\", was released on October 13, 2009, and also became a top ten hit in several countries. The album's third single, \"Love Me\", was released on January 26, 2010, and became a top twenty hit in several countries. The album's fourth single, \"Favorite Girl\", was released on April 20, 2010, and became a top forty hit in several countries. The album's fifth and final single, \"Never Let You Go\", was released on June 28, 2010, and became a top forty hit in several countries.",
+            "qae_pairs": [
+                {
+                    "question": "What country was My World the number one album in?",
+                    "answer": "the United States",
+                    "explanation": "The album was a commercial success, debuting at number one on the US Billboard 200 and Canadian Albums Chart. It has since been certified platinum in several countries, including the United States and Canada."
+                }
+            ],
+            "hops": [
+                "Justin Bieber",
+                "My World"
+            ]
+        },
+        "The Fame Monster": {
+            "term": "The Fame Monster",
+            "passage": "The Fame Monster is the fourth studio album by American singer Lady Gaga, released on November 18, 2009. The album was a follow-up to her successful debut album, The Fame, and was inspired by the pop culture and artistry of fame. The album features collaborations with several producers and guest artists, including Beyoncé, Justin Timberlake, and Space Cowboy. The album's lead single, \"Bad Romance,\" became a global hit and won several awards, including the Grammy Award for Best Female Pop Vocal Performance. The Fame Monster received critical acclaim for its darker and more experimental sound, and was named one of the best albums of 2009 by several publications. The album has sold over 14 million copies worldwide and has been certified double platinum in several countries.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the guest artist who collaborated with Lady Gaga on the track \"Bad Romance\" from The Fame Monster?",
+                    "answer": "Space Cowboy",
+                    "explanation": "The album features collaborations with several producers and guest artists, including Beyoncé, Justin Timberlake, and Space Cowboy."
+                }
+            ],
+            "hops": [
+                "Lady Gaga",
+                "The Fame Monster"
+            ]
+        },
+        "New York City": {
+            "term": "New York City",
+            "passage": "New York City is the most populous city in the United States, with an estimated 8,336,817 residents as of 2020. It is located in the northeastern part of the country, in the state of New York, on the Atlantic coast. The city is known for its iconic skyline, which includes the Empire State Building, the Statue of Liberty, and the One World Trade Center. It is also home to many cultural institutions, such as the Metropolitan Museum of Art, the Museum of Modern Art, and the Guggenheim Museum. New York City is a global center of commerce, finance, media, art, fashion, research, and entertainment. It is one of the world's most important financial centers, and is home to the New York Stock Exchange, the world's largest stock exchange by total market capitalization. The city is also home to many professional sports teams, including the Yankees, Mets, Giants, and Jets. New York City is a major transportation hub, with the largest subway system in the world, and is served by three major airports: John F. Kennedy International Airport, LaGuardia Airport, and Newark Liberty International Airport.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the professional baseball team based in New York City?",
+                    "answer": "Yankees",
+                    "explanation": "New York City is home to many professional sports teams, including the Yankees, Mets, Giants, and Jets."
+                },
+                {
+                    "question": "What is the name of the airport that serves New York City?",
+                    "answer": "John F. Kennedy International Airport",
+                    "explanation": "New York City is a global center of commerce, finance, media, art, fashion, research, and entertainment. Evidence sentence: New York City is a global center of commerce, finance, media, art, fashion, research, and entertainment."
+                }
+            ],
+            "hops": [
+                "Lady Gaga",
+                "New York City"
+            ]
+        },
+        "Stefani Joanne Angelina Germanotta": {
+            "term": "Stefani Joanne Angelina Germanotta",
+            "passage": "Stefani Joanne Angelina Germanotta, known professionally as Lady Gaga, is an American singer, songwriter, and actress. Born and raised in New York City, she primarily studied at the Convent of the Sacred Heart and briefly attended New York University's Tisch School of the Arts before withdrawing to focus on her musical career. She began performing in the rock music scene of Manhattan's Lower East Side, and by the early 2000s, was signed to Streamline Records, an imprint of Interscope Records. After a series of successful singles, including \"Just Dance\" and \"Poker Face,\" Gaga released her debut album, The Fame, in 2008, which was a critical and commercial success and earned her several awards.",
+            "qae_pairs": [
+                {
+                    "question": "What year did Stefani Joanne Angelina Germanotta, known professionally as Lady Gaga, release her debut album, The Fame?",
+                    "answer": "2008",
+                    "explanation": "After a series of successful singles, including Just Dance and Poker Face, Gaga released her debut album, The Fame, in 2008, which was a critical and commercial success and earned her several awards."
+                },
+                {
+                    "question": "What is the name of the debut album released by Stefani Joanne Angelina Germanotta in 2008?",
+                    "answer": "Fame",
+                    "explanation": "After a series of successful singles, including Just Dance and Poker Face, Gaga released her debut album, The Fame, in 2008, which was a critical and commercial success and earned her several awards."
+                }
+            ],
+            "hops": [
+                "Lady Gaga",
+                "Stefani Joanne Angelina Germanotta"
+            ]
+        },
+        "Bissett": {
+            "term": "Bissett",
+            "passage": "Bissett is a small village in the province of Saskatchewan, Canada. It is located in the Rural Municipality of Britannia No. 506, approximately 100 km northwest of Saskatoon. The village has a population of approximately 100 people. Bissett was founded in 1905 and was named after John Bissett, a local farmer who donated land for the village's establishment. The village's economy is primarily based on agriculture, with many of the residents working in the surrounding farms and ranches. Bissett has a small business district, which includes a convenience store, a post office, and a community hall. The village is also home to a volunteer fire department and a community library. Bissett is known for its annual Bissett Fall Fair, which takes place in September and features a parade, live music, and various agricultural exhibits.",
+            "qae_pairs": [
+                {
+                    "question": "What year was Bissett founded?",
+                    "answer": "1905",
+                    "explanation": "Bissett was founded in 1905 and was named after John Bissett, a local farmer who donated land for the village's establishment."
+                },
+                {
+                    "question": "What is the distance between Saskatoon and Bissett?",
+                    "answer": "Saskatoon",
+                    "explanation": "Saskatoon is approximately 100 km northwest of Bissett."
+                },
+                {
+                    "question": "What is the province where Bissett is located?",
+                    "answer": "Saskatchewan",
+                    "explanation": "Bissett was founded in 1905 and was named after John Bissett, a local farmer who donated land for the village's establishment."
+                }
+            ],
+            "hops": [
+                "Lady Gaga",
+                "Bissett"
+            ]
+        },
+        "Island Records": {
+            "term": "Island Records",
+            "passage": "Island Records is a major record label that was founded in Jamaica in 1959 by Chris Blackwell. It has been home to many famous artists such as Bob Marley, U2, and The Cure. The label has also been involved in the distribution of many other notable artists such as Grace Jones, Sinead O'Connor, and Tom Waits. Island Records has had a significant impact on the music industry and has been credited with helping to popularize reggae music around the world. The label has also been involved in the production of many successful compilations and box sets, including the \"Ultimate Bob Marley\" collection. Island Records has won numerous awards over the years, including several Grammy Awards. Today, the label is owned by Universal Music Group and continues to be an important player in the music industry.",
+            "qae_pairs": [
+                {
+                    "question": "What is the current owner of Island Records?",
+                    "answer": "Universal Music Group",
+                    "explanation": "Island Records has won numerous awards over the years, including several Grammy Awards. Question: What is an evidence sentence from the passage about Island Records winning Grammy Awards? Answer: Island Records has won numerous awards over the years, including several Grammy Awards."
+                }
+            ],
+            "hops": [
+                "Shawn Mendes",
+                "Island Records"
+            ]
+        },
+        "Vine": {
+            "term": "Vine",
+            "passage": "Vine (/vaɪn/; stylized as vine) was a short-form video sharing service where users could create and share six-second-long looping video clips. The service was founded in June 2012 and was headquartered in San Francisco, California. Vine was founded by Dom Hofmann, Rus Yusupov, and Colin Kroll, who all worked as developers at HQ Trivia. The app quickly gained popularity, with over 200 million active users as of December 2015. In October 2016, Twitter acquired Vine and integrated it into its platform. However, in October 2017, Twitter announced that it would discontinue the Vine app, citing low usage among users. Despite this, Vine's legacy lives on through its influence on social media and the internet culture it helped create.",
+            "qae_pairs": [
+                {
+                    "question": "What was the month when Vine, the short-form video sharing service, was founded?",
+                    "answer": "June 2012",
+                    "explanation": "Vine was founded in June 2012 by Dom Hofmann, Rus Yusupov, and Colin Kroll, who all worked as developers at HQ Trivia."
+                },
+                {
+                    "question": "What was the name of the founder of Vine who was also a developer at HQ Trivia?",
+                    "answer": "Dom Hofmann",
+                    "explanation": "Vine was founded by Dom Hofmann, Rus Yusupov, and Colin Kroll, who all worked as developers at HQ Trivia."
+                },
+                {
+                    "question": "What was the month when Twitter acquired Vine?",
+                    "answer": "October 2016",
+                    "explanation": "Twitter acquired Vine in October 2016."
+                }
+            ],
+            "hops": [
+                "Shawn Mendes",
+                "Vine"
+            ]
+        }
+    }
+}

@@ -1,0 +1,73 @@
+{
+    "first_hops": {
+        "Biomolecules": {
+            "term": "Biomolecules",
+            "passage": "Biomolecules are molecules that are essential to life, found in living organisms. They include nucleic acids, such as DNA and RNA, which store genetic information; proteins, which are the building blocks of cells and perform various functions; carbohydrates, which serve as energy sources and structural components; and lipids, which are essential for cell structure and function. These biomolecules interact with each other, forming complex networks that carry out essential life processes.",
+            "qae_pairs": [
+                {
+                    "question": "What are the two main types of biomolecules?",
+                    "answer": "RNA",
+                    "explanation": "RNA is a type of nucleic acid, which is a biomolecule essential to life. Nucleic acids store genetic information, while proteins are the building blocks of cells and perform various functions."
+                }
+            ],
+            "hops": [
+                "Biomolecules"
+            ]
+        },
+        "Cellular respiration": {
+            "term": "Cellular respiration",
+            "passage": "Cellular respiration is the process by which cells generate energy from nutrients, typically glucose. It occurs in three stages: glycolysis, the Krebs cycle, and the electron transport chain. Glycolysis takes place in the cell's cytoplasm and breaks down glucose into two molecules of pyruvate, generating a small amount of energy in the form of ATP. The pyruvate then enters the mitochondria, where the Krebs cycle occurs. This cycle further breaks down the pyruvate, releasing electrons and producing more ATP. Finally, the electron transport chain in the inner mitochondrial membrane uses the released electrons to generate a large amount of ATP through a process called oxidative phosphorylation. The energy produced is then used to carry out various cellular functions.",
+            "qae_pairs": [
+                {
+                    "question": "What is the primary energy source produced during cellular respiration?",
+                    "answer": "ATP",
+                    "explanation": "Cellular respiration is the process by which cells generate energy from nutrients, typically glucose. It occurs in three stages: glycolysis, the Krebs cycle, and the electron transport chain. Glycolysis takes place in the cell's cytoplasm and breaks down glucose into two molecules of pyruvate, generating a small amount of energy in the form of ATP. The pyruvate then enters the mitochondria, where the Krebs cycle occurs. This cycle further breaks down the pyruvate, releasing electrons and producing more ATP."
+                },
+                {
+                    "question": "What is the first stage of cellular respiration, during which glucose is broken down into two molecules of pyruvate, generating ATP?",
+                    "answer": "Glycolysis",
+                    "explanation": "Glycolysis is the first stage of cellular respiration, where glucose is broken down into two molecules of pyruvate, generating ATP. This stage occurs in the cell's cytoplasm."
+                }
+            ],
+            "hops": [
+                "Cellular respiration"
+            ]
+        },
+        "Enzymes": {
+            "term": "Enzymes",
+            "passage": "Enzymes are a class of molecules that catalyze biochemical reactions, allowing chemical processes to occur at a faster rate than they would otherwise. They are vital for life, as they enable organisms to carry out necessary chemical reactions at optimal rates. Enzymes are highly specific, meaning they catalyze only one or a few related reactions. Their catalytic power comes from their unique three-dimensional structure, which allows them to bind with the substrates and catalyze the reactions. Enzymes can be found in all living organisms, from bacteria to humans. They are often proteins, but can also be RNA molecules or even RNA-protein complexes. In humans, enzymes are produced by genes and are typically synthesized in the cell's ribosomes. Once synthesized, they are transported to the appropriate location within the cell, where they catalyze the necessary chemical reactions. Enzymes play a crucial role in metabolism, the process by which organisms break down and synthesize molecules. They are essential for processes such as digestion, where enzymes like amylase break down complex carbohydrates into simpler sugars. They also play a vital role in cellular respiration, where enzymes like those in the citric acid cycle break down molecules like glucose, releasing energy in the form of ATP. The study of enzymes is an important field within biochemistry, as understanding their structure, function, and regulation can provide insights into various biological processes and potential areas for therapeutic intervention.",
+            "qae_pairs": [
+                {
+                    "question": "What molecule is responsible for providing the energy required for biochemical reactions and cellular respiration?",
+                    "answer": "ATP",
+                    "explanation": "The molecule responsible for providing the energy required for biochemical reactions and cellular respiration is ATP (adenosine triphosphate). ATP is a nucleotide that stores chemical energy in the form of a high-energy bond between its phosphate groups. This energy is released during cellular respiration and other biochemical reactions, allowing the reactions to occur at optimal rates."
+                }
+            ],
+            "hops": [
+                "Enzymes"
+            ]
+        }
+    },
+    "second_hops": {
+        "Glycolysis": {
+            "term": "Glycolysis",
+            "passage": "Glycolysis is the process by which glucose is broken down into two molecules of pyruvate, with the release of two molecules of ATP and two molecules of NADH. This process occurs in the cell's cytoplasm, and it is the first step in the breakdown of glucose for energy. In humans, glycolysis primarily occurs in the liver and the kidneys, and it plays a crucial role in maintaining blood sugar levels and producing energy for cellular processes.",
+            "qae_pairs": [
+                {
+                    "question": "What is the primary role of Glycolysis in humans, and what are the key products of this process?",
+                    "answer": "NADH",
+                    "explanation": "The primary role of Glycolysis in humans is to produce energy by breaking down glucose into pyruvate. The key products of this process are two molecules of ATP and two molecules of NADH."
+                },
+                {
+                    "question": "What is the primary purpose of Glycolysis, and what are the main products of this process?",
+                    "answer": "ATP",
+                    "explanation": "The primary purpose of Glycolysis is to produce ATP through the breakdown of glucose. The main products of this process are two molecules of pyruvate, two molecules of ATP, and two molecules of NADH."
+                }
+            ],
+            "hops": [
+                "Cellular respiration",
+                "Glycolysis"
+            ]
+        }
+    }
+}

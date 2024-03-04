@@ -1,0 +1,911 @@
+{
+    "first_hops": {
+        "The Mona Lisa by Leonardo da Vinci": {
+            "term": "The Mona Lisa by Leonardo da Vinci",
+            "passage": "The Mona Lisa, also known as La Gioconda, is a half-length portrait painting by the Italian artist Leonardo da Vinci. The painting is a portrait of a woman, believed to be Lisa Gherardini, the wife of Francesco del Giocondo. It is a portrait painting, and is renowned for its enigmatic smile and has been described as \"the best known, the most visited, the most written about, the most sung about, the most parodied work of art in the world.\" The painting is a masterpiece of Renaissance art and is considered to be one of the greatest artistic achievements in Western art history. The painting is housed in the Louvre Museum in Paris, France.",
+            "qae_pairs": [
+                {
+                    "question": "Which museum is the Mona Lisa, a half-length portrait painting by Leonardo da Vinci, housed in? 'Leonardo da Vinci' is the answer to which question: Who painted the Mona Lisa, a half-length portrait painting of a woman believed to be Lisa Gherard",
+                    "answer": "the Louvre Museum",
+                    "explanation": "It is a portrait painting Explanation: The given question is asking for the museum where the Mona Lisa is housed, which is mentioned in the passage as The painting is housed in the Louvre Museum in Paris, France. However, the evidence sentence that explains that the Mona Lisa is a portrait painting is The Mona Lisa, also known as La Gioconda, is a half-length portrait painting by the Italian artist Leonardo da Vinci. This sentence provides the necessary information to answer the question about the painting's genre."
+                },
+                {
+                    "question": "What is the artistic and cultural movement that began in Italy in the 14th century and spread throughout Europe in the 15th and 16th centuries, characterized by a humanistic focus on classical culture, a strong belief in the individual and a great deal of interest in the natural world?",
+                    "answer": "Renaissance",
+                    "explanation": "The Mona Lisa is a half-length portrait painting by the Italian artist Leonardo da Vinci, and is a masterpiece of Renaissance art."
+                },
+                {
+                    "question": "What is the name of the artist who painted the Mona Lisa?",
+                    "answer": "Leonardo da Vinci",
+                    "explanation": "The Mona Lisa, also known as La Gioconda, is a half-length portrait painting by the Italian artist Leonardo da Vinci. This sentence serves as an evidence sentence as it explicitly states that the Mona Lisa is a painting by Leonardo da Vinci, the Italian artist."
+                },
+                {
+                    "question": "Which city is the painting The Mona Lisa housed in?",
+                    "answer": "Paris",
+                    "explanation": "The painting is housed in the Louvre Museum in Paris, France."
+                },
+                {
+                    "question": "The Mona Lisa is a portrait painting of which woman?",
+                    "answer": "Lisa Gherardini",
+                    "explanation": "The painting is a portrait of a woman, believed to be Lisa Gherardini, the wife of Francesco del Giocondo."
+                }
+            ],
+            "hops": [
+                "The Mona Lisa by Leonardo da Vinci"
+            ]
+        },
+        "The Starry Night by Vincent van Gogh": {
+            "term": "The Starry Night by Vincent van Gogh",
+            "passage": "The Starry Night is an oil on canvas painting by the Dutch post-impressionist artist Vincent van Gogh. Painted in June 1889, it depicts the view outside his asylum room window at Saint-Paul-de-Mausole in southern France, at night. The painting is widely considered one of van Gogh's masterpieces and one of the most recognizable paintings in modern history. It is also one of the most expensive paintings in the world, having been sold for $71.5 million in 1998. The painting's prominent use of swirling, curving lines and bright, contrasting colors has made it a symbol of expressionism and a defining work of the late 19th century. The painting has been the subject of numerous interpretations and analyses, with many art historians and critics suggesting that it reflects van Gogh's mental state and emotional turmoil at the time of its creation.",
+            "qae_pairs": [
+                {
+                    "question": "What month and year was The Starry Night painted by Vincent van Gogh?",
+                    "answer": "June 1889",
+                    "explanation": "Painted in June 1889, it depicts the view outside his asylum room window at Saint-Paul-de-Mausole in southern France, at night. Evidence sentence: Painted in June 1889."
+                },
+                {
+                    "question": "Vincent van Gogh painted The Starry Night in which country?",
+                    "answer": "France",
+                    "explanation": "Painted in June 1889, it depicts the view outside his asylum room window at Saint-Paul-de-Mausole in southern France, at night."
+                },
+                {
+                    "question": "Who is the artist behind The Starry Night painting?",
+                    "answer": "Vincent van Gogh",
+                    "explanation": "The painting is widely considered one of van Gogh's masterpieces and one of the most recognizable paintings in modern history."
+                },
+                {
+                    "question": "What year was The Starry Night sold for $71.5 million?",
+                    "answer": "1998",
+                    "explanation": "The painting's prominent use of swirling, curving lines and bright, contrasting colors has made it a symbol of expressionism and a defining work of the late 19th century. This sentence explains the significance of The Starry Night as a symbol of expressionism and a defining work of the late 19th century."
+                }
+            ],
+            "hops": [
+                "The Starry Night by Vincent van Gogh"
+            ]
+        },
+        "The Persistence of Memory by Salvador Dali": {
+            "term": "The Persistence of Memory by Salvador Dali",
+            "passage": "Salvador Dali's \"The Persistence of Memory\" is one of the most famous and recognizable paintings of the 20th century. It was created in 1931 and is currently housed in the Museum of Modern Art in New York City. The painting depicts a barren landscape with a distorted clock hanging from a tree branch. The clock's hands are either melting or drooping, and the overall effect is one of time being stretched or distorted. The painting is often interpreted as a commentary on the fluidity of time and the way that memories can linger in our minds long after they should have faded away. The painting is also notable for its use of surrealist techniques, including the juxtaposition of objects and the distortion of reality. Overall, \"The Persistence of Memory\" is a powerful and thought-provoking work of art that continues to captivate viewers today.",
+            "qae_pairs": [
+                {
+                    "question": "What year was Salvador Dali's \"The Persistence of Memory\" created?",
+                    "answer": "1931",
+                    "explanation": "The painting is often interpreted as a commentary on the fluidity of time and the way that memories can linger in our minds long after they should have faded away."
+                },
+                {
+                    "question": "What is the current location of Salvador Dali's \"The Persistence of Memory\" painting?",
+                    "answer": "the Museum of Modern Art",
+                    "explanation": "The painting is often interpreted as a commentary on the fluidity of time and the way that memories can linger in our minds long after they should have faded away."
+                },
+                {
+                    "question": "What is the century in which Salvador Dali's \"The Persistence of Memory\" was created?",
+                    "answer": "the 20th century",
+                    "explanation": "The painting is often interpreted as a commentary on the fluidity of time and the way that memories can linger in our minds long after they should have faded away. This sentence is the evidence sentence from the passage as it explains one of the interpretations of the painting and how it is often viewed by viewers and art critics."
+                },
+                {
+                    "question": "What is the city where the Museum of Modern Art is located?",
+                    "answer": "New York City",
+                    "explanation": "The painting is often interpreted as a commentary on the fluidity of time and the way that memories can linger in our minds long after they should have faded away. Question: What is the painting The Persistence of Memory interpreted as? Answer: A commentary on the fluidity of time and the way that memories can linger in our minds long after they should have faded away."
+                }
+            ],
+            "hops": [
+                "The Persistence of Memory by Salvador Dali"
+            ]
+        },
+        "The Scream by Edvard Munch": {
+            "term": "The Scream by Edvard Munch",
+            "passage": "Edvard Munch's The Scream is an iconic painting that depicts a figure with an agonized expression, holding its head and opening its mouth in a scream. The painting is widely considered to be one of the most recognizable works of art in the world, and has been the subject of much analysis and interpretation. The Scream was created by Munch in 1893, and is one of several versions of the same theme that the artist produced over the course of several years. The painting is notable for its use of vivid colors and bold, angular brushstrokes, which give the image a sense of intensity and urgency. The figure in the painting has been variously interpreted as representing the human condition, or as a symbol of anxiety, alienation, or existential despair. Some critics have suggested that the figure's scream is a metaphor for the anguish of modern life, while others have seen it as a more personal expression of Munch's own emotional struggles. Despite its fame, The Scream has also been the subject of controversy and criticism. Some have argued that the painting is too simplistic or overly emotional, while others have criticized its use of color and composition. Nevertheless, The Scream remains one of the most influential and widely recognized works of art of the late 19th and early 20th centuries.",
+            "qae_pairs": [
+                {
+                    "question": "What year was The Scream painted by Edvard Munch?",
+                    "answer": "1893",
+                    "explanation": "The painting is widely considered to be one of the most recognizable works of art in the world, and has been the subject of much analysis and interpretation."
+                },
+                {
+                    "question": "Who painted The Scream?",
+                    "answer": "Edvard Munch's",
+                    "explanation": "The painting is widely considered to be one of the most recognizable works of art in the world, and has been the subject of much analysis and interpretation."
+                },
+                {
+                    "question": "What is the time period in which Edvard Munch created The Scream?",
+                    "answer": "the late 19th",
+                    "explanation": "The painting is widely considered to be one of the most recognizable works of art in the world, and has been the subject of much analysis and interpretation. This sentence serves as an explanation for the fact that The Scream is one of the most recognizable works of art in the world. It suggests that the painting's fame and recognition are not just a matter of personal opinion or taste, but are widely acknowledged by art experts and scholars."
+                }
+            ],
+            "hops": [
+                "The Scream by Edvard Munch"
+            ]
+        },
+        "The Birth of Venus by Sandro Botticelli": {
+            "term": "The Birth of Venus by Sandro Botticelli",
+            "passage": "The Birth of Venus is a painting by the Italian artist Sandro Botticelli, painted between 1482 and 1485. It depicts the goddess Venus, having emerged from the sea as a fully grown woman, arriving at the sea-shore. The painting is on display at the Uffizi Gallery in Florence, Italy. The painting is one of Botticelli's best-known works and one of the most iconic examples of Renaissance art. It is a representation of the classical myth of Venus's birth, which originated in ancient Greek mythology and was popularized by the Roman poet Ovid. The painting is notable for its use of linear perspective, which creates a sense of depth and three-dimensionality. The composition is also carefully balanced, with Venus at the center of the painting and the other figures arranged symmetrically around her. The painting is also notable for its use of color and light. Venus is depicted as a radiant figure, with a glowing aura and a golden hairband. The other figures are also painted in bright, vivid colors, which create a sense of harmony and balance. The painting has been interpreted in a variety of ways over the years. Some have seen it as a celebration of female beauty and sensuality, while others have interpreted it as a representation of the power of love and the triumph of the human spirit over adversity. Overall, The Birth of Venus is a masterpiece of Renaissance art, a testament to the skill and creativity of Sandro Botticelli and a reminder of the enduring power of classical mythology.",
+            "qae_pairs": [
+                {
+                    "question": "Who is the Roman poet who popularized the myth of Venus's birth?",
+                    "answer": "Ovid",
+                    "explanation": "The painting is one of Botticelli's best-known works and one of the most iconic examples of Renaissance art. It is a representation of the classical myth of Venus's birth, which originated in ancient Greek mythology and was popularized by the Roman poet Ovid."
+                },
+                {
+                    "question": "What is the name of the painting by Sandro Botticelli that depicts the goddess Venus, having emerged from the sea as a fully grown woman, arriving at the sea-shore?",
+                    "answer": "The Birth of Venus",
+                    "explanation": "The painting is one of Botticelli's best-known works and one of the most iconic examples of Renaissance art. The evidence sentence is The painting is one of Botticelli's best-known works and one of the most iconic examples of Renaissance art. It explains that The Birth of Venus is a well-known and important work of art from the Renaissance period, and it is considered to be one of the most representative examples of this artistic movement."
+                },
+                {
+                    "question": "What is the city where the Uffizi Gallery is located?",
+                    "answer": "Florence",
+                    "explanation": "The painting is on display at the Uffizi Gallery in Florence, Italy."
+                },
+                {
+                    "question": "What is the painting known for?",
+                    "answer": "linear",
+                    "explanation": "The painting is notable for its use of linear perspective, which creates a sense of depth and three-dimensionality."
+                },
+                {
+                    "question": "What is the name of the country where the Uffizi Gallery is located?",
+                    "answer": "Italy",
+                    "explanation": "The painting is on display at the Uffizi Gallery in Florence, Italy."
+                },
+                {
+                    "question": "What is the name of the period of European history that saw a revival of classical learning and the arts?",
+                    "answer": "Renaissance",
+                    "explanation": "The painting is one of Botticelli's best-known works and one of the most iconic examples of Renaissance art."
+                },
+                {
+                    "question": "Who painted The Birth of Venus?",
+                    "answer": "Sandro Botticelli",
+                    "explanation": "The painting is one of Botticelli's best-known works and one of the most iconic examples of Renaissance art. This sentence is an explanation of who painted The Birth of Venus, Sandro Botticelli."
+                },
+                {
+                    "question": "What is the name of the museum where The Birth of Venus is on display?",
+                    "answer": "the Uffizi Gallery",
+                    "explanation": "The painting is on display at the Uffizi Gallery in Florence, Italy."
+                }
+            ],
+            "hops": [
+                "The Birth of Venus by Sandro Botticelli"
+            ]
+        },
+        "Guernica by Pablo Picasso": {
+            "term": "Guernica by Pablo Picasso",
+            "passage": "Pablo Picasso's Guernica is a mural-sized oil painting on canvas, which was created in response to the bombing of Guernica, a Basque Country village in northern Spain, by German and Italian warplanes at the request of the Spanish Nationalist forces during the Spanish Civil War. The painting is a powerful political statement and a symbol of peace. It is one of the most famous works of art of the 20th century and is considered one of the most important anti-war paintings in history. The painting is a black and white depiction of the suffering and chaos caused by the bombing. It shows various scenes of destruction and death, including a horse in agony, a woman screaming, and a figure falling from a window. The painting is divided into three parts, with the center section showing the most destruction and chaos. The painting is also notable for its use of symbolism, with the bull representing the Spanish people, the horse representing the working class, and the figure falling from the window representing the innocent civilians who were killed in the bombing. Picasso created Guernica in 1937 and it was first exhibited in Paris in 1937. The painting was created for the Spanish Republican government, who had commissioned Picasso to create a work of art for the Spanish Pavilion at the 1937 World's Fair in Paris. The painting was intended to be a protest against the bombing of Guernica and a call for peace. Guernica has been exhibited in many museums around the world and has become an icon of the 20th century. It is considered a masterpiece of modern art and a symbol of peace and resistance against war and violence.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the famous painting by Pablo Picasso that is a symbol of peace and resistance against war and violence?",
+                    "answer": "Guernica",
+                    "explanation": "Guernica is a black and white depiction of the suffering and chaos caused by the bombing. It shows various scenes of destruction and death, including a horse in agony, a woman screaming, and a figure falling from a window."
+                },
+                {
+                    "question": "What is the capital of France?",
+                    "answer": "Paris",
+                    "explanation": "The painting was created for the Spanish Republican government, who had commissioned Picasso to create a work of art for the Spanish Pavilion at the 1937 World's Fair in Paris. This sentence explains that Guernica was created specifically for the Spanish Republican government, who had commissioned Picasso to create a work of art for the Spanish Pavilion at the 1937 World's Fair in Paris."
+                },
+                {
+                    "question": "Who painted Guernica?",
+                    "answer": "Picasso",
+                    "explanation": "The painting is a powerful political statement and a symbol of peace. It is one of the most famous works of art of the 20th century and is considered one of the most important anti-war paintings in history. The painting is a black and white depiction of the suffering and chaos caused by the bombing. It shows various scenes of destruction and death, including a horse in agony, a woman screaming, and a figure falling from a window. The painting is divided into three parts, with the center section showing the most destruction and chaos."
+                },
+                {
+                    "question": "What year was Guernica painted by Pablo Picasso?",
+                    "answer": "1937",
+                    "explanation": "The painting is a powerful political statement and a symbol of peace. It is one of the most famous works of art of the 20th century and is considered one of the most important anti-war paintings in history. The painting is a black and white depiction of the suffering and chaos caused by the bombing. It shows various scenes of destruction and death, including a horse in agony, a woman screaming, and a figure falling from a window. The painting is divided into three parts, with the center section showing the most destruction and chaos."
+                }
+            ],
+            "hops": [
+                "Guernica by Pablo Picasso"
+            ]
+        },
+        "The Last Supper by Leonardo da Vinci": {
+            "term": "The Last Supper by Leonardo da Vinci",
+            "passage": "The Last Supper is a mural painting by Leonardo da Vinci housed by the refectory of the Convent of Santa Maria delle Grazie in Milan, Italy. It is one of the most famous paintings in the world and is considered a masterpiece of Renaissance art. The painting depicts the last supper of Jesus with his twelve apostles, as described in the Bible. The painting is 460 cm (15 ft) wide and 880 cm (29 ft) tall. The painting is renowned for its use of perspective and its realistic portrayal of the human form. The figures are depicted in a three-dimensional space, with Jesus and the apostles arranged in a way that creates a sense of depth and movement. The painting also features a number of symbolic elements, such as the salt and pepper shakers, which represent the betrayal of Judas, and the bread and wine, which represent the body and blood of Christ. The painting was completed by Leonardo da Vinci between 1495 and 1498. It was commissioned by Ludovico Sforza, the Duke of Milan, as part of a larger project to renovate the convent. The painting was originally painted on a dry wall, but over time, the paint began to flake and peel. In the 16th century, the painting was restored and repainted, and it has undergone several restorations since then. Today, The Last Supper is one of the most popular tourist attractions in Milan, and it is considered one of the greatest works of art in the world. It is a testament to the skill and vision of Leonardo da Vinci, and it continues to inspire artists and art lovers around the world.",
+            "qae_pairs": [
+                {
+                    "question": "Who painted The Last Supper?",
+                    "answer": "Leonardo da Vinci",
+                    "explanation": "The painting is renowned for its use of perspective and its realistic portrayal of the human form."
+                },
+                {
+                    "question": "What is the name of the building where The Last Supper is housed?",
+                    "answer": "the Convent",
+                    "explanation": "The painting depicts the last supper of Jesus with his twelve apostles, as described in the Bible."
+                },
+                {
+                    "question": "What is the name given to the cultural and artistic movement that began in Italy in the 14th century and lasted until the 17th century, characterized by a renewed interest in classical learning and humanism, and by the development of new techniques in art, literature, and science?",
+                    "answer": "Renaissance",
+                    "explanation": "The painting was completed by Leonardo da Vinci between 1495 and 1498. It was commissioned by Ludovico Sforza, the Duke of Milan, as part of a larger project to renovate the convent. The painting was originally painted on a dry wall, but over time, the paint began to flake and peel. In the 16th century, the painting was restored and repainted, and it has undergone several restorations since then."
+                },
+                {
+                    "question": "Who commissioned The Last Supper by Leonardo da Vinci?",
+                    "answer": "Ludovico Sforza",
+                    "explanation": "The painting was completed by Leonardo da Vinci between 1495 and 1498. It was commissioned by Ludovico Sforza, the Duke of Milan, as part of a larger project to renovate the convent."
+                },
+                {
+                    "question": "Which of the twelve apostles betrayed Jesus and sold him out to the Roman authorities? 'Renaissance' is the answer to which question: What was the cultural and artistic movement that took place in Europe from the 14th to the 17th century, characterized by a renewed",
+                    "answer": "Judas",
+                    "explanation": "The painting is 460 cm (15 ft) wide and 880 cm (29 ft) tall. The painting features a number of symbolic elements, such as the salt and pepper shakers, which represent the betrayal of Judas, and the bread and wine, which represent the body and blood of Christ."
+                }
+            ],
+            "hops": [
+                "The Last Supper by Leonardo da Vinci"
+            ]
+        },
+        "American Gothic by Grant Wood": {
+            "term": "American Gothic by Grant Wood",
+            "passage": "American Gothic is a painting by Grant Wood in the collection of the Art Institute of Chicago. It is one of the most familiar and iconic images in American art. The painting shows a farmer standing beside his daughter, who is holding a pitchfork. They are both dressed in clothing from the 19th century and are standing in front of a Gothic-style house. The painting is a representation of the American Midwest and its rural life. The figures are depicted with a strong sense of solidity and strength, and the painting has been interpreted as a celebration of the virtues of rural life. The painting has been widely reproduced and has become an icon of American art.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the painting by Grant Wood that is one of the most familiar and iconic images in American art?",
+                    "answer": "American Gothic",
+                    "explanation": "The painting shows a farmer standing beside his daughter, who is holding a pitchfork. They are both dressed in clothing from the 19th century and are standing in front of a Gothic-style house. Explanation: The painting American Gothic by Grant Wood is one of the most familiar and iconic images in American art. It shows a farmer standing beside his daughter, who is holding a pitchfork. The figures are dressed in clothing from the 19th century and are standing in front of a Gothic-style house."
+                },
+                {
+                    "question": "What are the figures dressed in?",
+                    "answer": "the 19th century",
+                    "explanation": "The painting shows a farmer standing beside his daughter, who is holding a pitchfork. They are both dressed in clothing from the 19th century and are standing in front of a Gothic-style house."
+                },
+                {
+                    "question": "What is the name of the museum where American Gothic is located?",
+                    "answer": "the Art Institute of Chicago",
+                    "explanation": "The painting is a representation of the American Midwest and its rural life."
+                },
+                {
+                    "question": "Who painted American Gothic?",
+                    "answer": "Grant Wood",
+                    "explanation": "American Gothic is a painting by Grant Wood in the collection of the Art Institute of Chicago."
+                },
+                {
+                    "question": "What is the American Gothic painting by Grant Wood about?",
+                    "answer": "Midwest",
+                    "explanation": "The painting is a representation of the American Midwest and its rural life."
+                }
+            ],
+            "hops": [
+                "American Gothic by Grant Wood"
+            ]
+        },
+        "The Night Watch by Rembrandt van Rijn": {
+            "term": "The Night Watch by Rembrandt van Rijn",
+            "passage": "The Night Watch (Dutch: De Nachtwacht) is a 17th-century painting by Rembrandt van Rijn. It is prominently displayed in the Rijksmuseum in Amsterdam, the Netherlands. The painting depicts a company of Dutch militia men moving out, led by Captain Frans Banninck Cocq and his lieutenant, Willem van Ruytenburch. It is a remarkable example of Rembrandt's use of light and shadow, and his ability to convey a sense of movement and energy in a static painting. The painting is renowned for its dramatic use of chiaroscuro, the contrast between light and dark, and for its innovative composition, which departs from the traditional group portrait. The Night Watch is considered one of Rembrandt's greatest masterpieces and a defining work of the Dutch Golden Age.",
+            "qae_pairs": [
+                {
+                    "question": "What is the term used to describe the period of Dutch history from the late 16th century to the end of the 17th century during which the Dutch Republic was one of the most prosperous nations in Europe, and Dutch art and science reached their peak?",
+                    "answer": "the Dutch Golden Age",
+                    "explanation": "The Night Watch is considered one of Rembrandt's greatest masterpieces and a defining work of the Dutch Golden Age."
+                },
+                {
+                    "question": "What is the name of the lieutenant in The Night Watch by Rembrandt van Rijn?",
+                    "answer": "Willem van Ruytenburch",
+                    "explanation": "The painting depicts a company of Dutch militia men moving out, led by Captain Frans Banninck Cocq and his lieutenant, Willem van Ruytenburch."
+                },
+                {
+                    "question": "What is the capital city of the Netherlands?",
+                    "answer": "Amsterdam",
+                    "explanation": "Passage: The Night Watch is a 17th-century painting by Rembrandt van Rijn. It is prominently displayed in the Rijksmuseum in Amsterdam, the Netherlands. Evidence sentence: The Night Watch is prominently displayed in the Rijksmuseum in Amsterdam, the Netherlands."
+                },
+                {
+                    "question": "What is the name of the museum where The Night Watch by Rembrandt van Rijn is displayed?",
+                    "answer": "Rijksmuseum",
+                    "explanation": "The Night Watch (Dutch: De Nachtwacht) is a 17th-century painting by Rembrandt van Rijn. It is prominently displayed in the Rijksmuseum in Amsterdam, the Netherlands."
+                },
+                {
+                    "question": "\"Which country is home to the Rijksmuseum and The Night Watch by Rembrandt van Rijn?\"",
+                    "answer": "Netherlands",
+                    "explanation": "The painting is renowned for its dramatic use of chiaroscuro, the contrast between light and dark, and for its innovative composition, which departs from the traditional group portrait."
+                },
+                {
+                    "question": "Who painted The Night Watch?",
+                    "answer": "Rembrandt van Rijn",
+                    "explanation": "The Night Watch is a 17th-century painting by Rembrandt van Rijn."
+                }
+            ],
+            "hops": [
+                "The Night Watch by Rembrandt van Rijn"
+            ]
+        },
+        "The Creation of Adam by Michelangelo": {
+            "term": "The Creation of Adam by Michelangelo",
+            "passage": "Michelangelo's masterpiece, the Sistine Chapel ceiling, is one of the most iconic works of art in the world. The painting depicts the story of creation from the Book of Genesis, and is considered one of the greatest achievements of the Renaissance. The centerpiece of the ceiling is the famous image of the creation of Adam, which portrays the moment when God creates the first man. The painting is a masterclass in composition, anatomy, and perspective, and is widely regarded as one of the greatest artistic achievements of all time. The painting is also notable for its use of light and shadow, which gives the figures a sense of depth and dimensionality. The creation of Adam is a powerful and evocative image that has inspired countless artists and art lovers throughout history.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the period of European cultural and artistic rebirth that began in Italy in the 14th century and lasted until the 17th century?",
+                    "answer": "Renaissance",
+                    "explanation": "The painting is a masterclass in composition, anatomy, and perspective, and is widely regarded as one of the greatest artistic achievements of all time. This sentence explains that the painting of the creation of Adam is a masterpiece that is widely regarded as one of the greatest artistic achievements of all time. It showcases the artist's mastery of composition, anatomy, and perspective, which are key elements of Renaissance art."
+                },
+                {
+                    "question": "What is the story of creation from?",
+                    "answer": "the Book of Genesis",
+                    "explanation": "The painting depicts the story of creation from the Book of Genesis."
+                }
+            ],
+            "hops": [
+                "The Creation of Adam by Michelangelo"
+            ]
+        }
+    },
+    "second_hops": {
+        "the Louvre Museum": {
+            "term": "the Louvre Museum",
+            "passage": "The Louvre Museum is the world's largest art museum and a historic monument in Paris, France. It is located on the Right Bank of the Seine in the 1st arrondissement. The museum has over 38,000 works of art, including the Mona Lisa, Venus de Milo, and Winged Victory of Samothrace. The Louvre was originally a fortress built in the late 12th century by King Philip II. It was converted into a royal palace in the 14th century and later into a museum during the French Revolution. The museum is divided into eight departments: Egyptian Antiquities, Near Eastern Antiquities, Greek, Etruscan, and Roman Antiquities, Islamic Art, Sculpture, Decorative Arts, Paintings, and Prints and Drawings. The Louvre is one of the most visited museums in the world, with over 10 million visitors annually.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the department in the Louvre Museum that displays decorative arts?",
+                    "answer": "Decorative Arts",
+                    "explanation": "The Louvre Museum is divided into eight departments: Egyptian Antiquities, Near Eastern Antiquities, Greek, Etruscan, and Roman Antiquities, Islamic Art, Sculpture, Decorative Arts, Paintings, and Prints and Drawings."
+                },
+                {
+                    "question": "What department in the Louvre Museum is dedicated to Roman Antiquities?",
+                    "answer": "Roman Antiquities",
+                    "explanation": "The Louvre Museum is the world's largest art museum and a historic monument in Paris, France. It is located on the Right Bank of the Seine in the 1st arrondissement. The museum has over 38,000 works of art, including the Mona Lisa, Venus de Milo, and Winged Victory of Samothrace. The Louvre was originally a fortress built in the late 12th century by King Philip II. It was converted into a royal palace in the 14th century and later into a museum during the French Revolution."
+                }
+            ],
+            "hops": [
+                "The Mona Lisa by Leonardo da Vinci",
+                "the Louvre Museum"
+            ]
+        },
+        "Renaissance": {
+            "term": "Renaissance",
+            "passage": "The Renaissance was a period of European history, from the 14th to the 17th century, that marked the transition from the Middle Ages to modern times. It began in Italy in the late 13th century and spread to the rest of Europe in the following centuries. The Renaissance was characterized by a renewed interest in the classical civilizations of Greece and Rome, and by a flowering of the arts and sciences. It was a time of great cultural, social, and economic change, and it had a profound impact on the development of Western civilization. During the Renaissance, there was a renewed interest in humanism, which emphasized the importance of human beings and their achievements. This led to a revival of classical learning, and to the development of new fields of study such as anatomy, astronomy, and mathematics. The Renaissance also saw the emergence of new artistic styles, such as the use of perspective in painting and the development of the sonnet form in poetry. The period was marked by the rise of powerful city-states, such as Florence and Venice, and by the growth of trade and commerce. The Renaissance had a profound impact on the development of Western civilization, and it is often seen as a time of great cultural and intellectual achievement.",
+            "qae_pairs": [
+                {
+                    "question": "What was the impact of the Renaissance on the classical civilization of Greece?",
+                    "answer": "Greece",
+                    "explanation": "The Renaissance was characterized by a renewed interest in the classical civilizations of Greece and Rome, and by a flowering of the arts and sciences. Explanation: The passage explains that the Renaissance was characterized by a renewed interest in the classical civilizations of Greece and Rome, which had a significant impact on the development of Western civilization."
+                },
+                {
+                    "question": "What period of European history did the Renaissance mark the transition from?",
+                    "answer": "the Middle Ages",
+                    "explanation": "The Renaissance was a period of European history, from the 14th to the 17th century, that marked the transition from the Middle Ages to modern times."
+                },
+                {
+                    "question": "What was the birthplace of the Renaissance?",
+                    "answer": "Italy",
+                    "explanation": "The Renaissance began in Italy in the late 13th century and spread to the rest of Europe in the following centuries."
+                }
+            ],
+            "hops": [
+                "The Creation of Adam by Michelangelo",
+                "Renaissance"
+            ]
+        },
+        "Paris": {
+            "term": "Paris",
+            "passage": "Paris is the capital and most populous city of France, with an estimated population of 2,148,271 residents in 2021 within its administrative limits. The city is a major center of commerce, art, fashion, gastronomy, and culture. Its influence in politics, education, entertainment, media, science, and the arts all contribute to its status as one of the world's major global cities. Paris is home to many iconic landmarks such as the Eiffel Tower, the Louvre Museum, Notre-Dame Cathedral, and the Arc de Triomphe. The city is also known for its romantic atmosphere, its fashion, and its gastronomy. Paris is one of the most popular tourist destinations in the world, attracting millions of visitors every year.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the famous monument located in Paris that is a symbol of the French victory in the Napoleonic Wars?",
+                    "answer": "the Arc de Triomphe",
+                    "explanation": "Paris is home to many iconic landmarks such as the Eiffel Tower, the Louvre Museum, Notre-Dame Cathedral, and the Arc de Triomphe."
+                }
+            ],
+            "hops": [
+                "Guernica by Pablo Picasso",
+                "Paris"
+            ]
+        },
+        "Lisa Gherardini": {
+            "term": "Lisa Gherardini",
+            "passage": "Lisa Gherardini, also known as Mona Lisa or La Gioconda, is a 16th-century portrait painted by Leonardo da Vinci. The painting is a half-length portrait and is believed to have been painted between 1503 and 1506. It is a portrait of a woman with a slight smile, and her facial expression has been the subject of much speculation and interpretation over the years. The painting is housed in the Louvre Museum in Paris, France. It is considered one of the most famous paintings in the world and is widely recognized as a masterpiece of Renaissance art.",
+            "qae_pairs": [
+                {
+                    "question": "What country is Lisa Gherardini's portrait, also known as Mona Lisa or La Gioconda, housed in?",
+                    "answer": "France",
+                    "explanation": "The painting is housed in the Louvre Museum in Paris, France."
+                },
+                {
+                    "question": "What is the artistic movement associated with Lisa Gherardini's portrait?",
+                    "answer": "Renaissance",
+                    "explanation": "It is a portrait of a woman with a slight smile, and her facial expression has been the subject of much speculation and interpretation over the years. This sentence explains that Lisa Gherardini's portrait is a product of the Renaissance art movement, which emphasized realism, humanism, and individualism. The painting's subject, a woman with a slight smile, is a representation of the human form and individuality, which were highly valued during the Renaissance period."
+                }
+            ],
+            "hops": [
+                "The Mona Lisa by Leonardo da Vinci",
+                "Lisa Gherardini"
+            ]
+        },
+        "France": {
+            "term": "France",
+            "passage": "1. France is a country located in Western Europe. 2. It is the third-largest country in Europe, after Russia and Ukraine. 3. France has a population of over 67 million people. 4. It is a unitary semi-presidential republic with its capital in Paris. 5. France is a developed country with the world's seventh-largest economy by nominal GDP. 6. It is a member of the United Nations, the European Union, the Eurozone, the World Trade Organization, and the G7. 7. France is known for its rich culture, including its cuisine, fashion, and art. 8. It is also famous for its wines and champagnes, which are exported all over the world. 9. France has a long history that dates back to the Roman Empire. 10. It has been a major center of Western civilization, including the Renaissance and the Enlightenment. 11. France is also famous for its landmarks, such as the Eiffel Tower, the Louvre Museum, and the Palace of Versailles. 12. The country is home to many famous artists, writers, and philosophers, including Voltaire, Victor Hugo, and Jean-Paul Sartre. 13. France is a popular tourist destination, attracting millions of visitors each year. 14. It is also a member of the Schengen Area, which allows for free movement between many European countries. 15. France has a mixed economy that is dominated by the service sector. 16. It has a high standard of living and a high level of social welfare. 17. France is a founding member of the United Nations, NATO, and the Council of Europe. 18.",
+            "qae_pairs": [
+                {
+                    "question": "What was the name of the cultural movement that took place in France during the 16th century, which is known for its advancements in art, science, and literature?",
+                    "answer": "Renaissance",
+                    "explanation": "France is a developed country with the world's seventh-largest economy by nominal GDP."
+                },
+                {
+                    "question": "What is the capital of France?",
+                    "answer": "Paris",
+                    "explanation": "France is a unitary semi-presidential republic with its capital in Paris."
+                },
+                {
+                    "question": "What organization is France a member of that promotes free trade and helps to resolve trade disputes among its members?",
+                    "answer": "the World Trade Organization",
+                    "explanation": "France is a member of the United Nations, the European Union, the Eurozone, the World Trade Organization, and the G7. This sentence is an evidence that France is a member of the World Trade Organization, which promotes free trade and helps to resolve trade disputes among its members."
+                }
+            ],
+            "hops": [
+                "The Starry Night by Vincent van Gogh",
+                "France"
+            ]
+        },
+        "the Museum of Modern Art": {
+            "term": "the Museum of Modern Art",
+            "passage": "The Museum of Modern Art (MoMA) is an art museum located in Midtown Manhattan in New York City, on 53rd Street between Fifth and Sixth Avenues. It has been important in developing and collecting modernist art, and is often identified as the most influential museum of modern art in the world. The museum's collection offers an overview of modern and contemporary art, including works by artists such as Vincent van Gogh, Pablo Picasso, Jackson Pollock, and Andy Warhol. The museum also hosts special exhibitions throughout the year. In addition to its collection, the museum offers educational programs, guided tours, and activities for children and families. The museum's architecture, designed by Yoshio Taniguchi, has been praised for its use of natural light and open spaces. The Museum of Modern Art has a total of 150,000 square feet of exhibition space, and attracts millions of visitors each year.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the artist who created the famous painting \"Les Demoiselles d'Avignon\" at the Museum of Modern Art?",
+                    "answer": "Picasso",
+                    "explanation": "The museum's collection offers an overview of modern and contemporary art, including works by artists such as Vincent van Gogh, Pablo Picasso, Jackson Pollock, and Andy Warhol. This sentence is an evidence sentence because it provides information about the collection of the Museum of Modern Art, specifically that it includes works by famous artists such as Vincent van Gogh, Pablo Picasso, Jackson Pollock, and Andy Warhol."
+                },
+                {
+                    "question": "What is the location of the Museum of Modern Art?",
+                    "answer": "New York City",
+                    "explanation": "The Museum of Modern Art is located in Midtown Manhattan in New York City, on 53rd Street between Fifth and Sixth Avenues."
+                },
+                {
+                    "question": "What was the name of the artist who created the famous drip paintings at the Museum of Modern Art?",
+                    "answer": "Jackson Pollock",
+                    "explanation": "The museum's collection offers an overview of modern and contemporary art, including works by artists such as Vincent van Gogh, Pablo Picasso, Jackson Pollock, and Andy Warhol. This sentence explains that the Museum of Modern Art has a collection of modern and contemporary art that includes works by famous artists such as Vincent van Gogh, Pablo Picasso, Jackson Pollock, and Andy Warhol."
+                }
+            ],
+            "hops": [
+                "The Persistence of Memory by Salvador Dali",
+                "the Museum of Modern Art"
+            ]
+        },
+        "New York City": {
+            "term": "New York City",
+            "passage": "New York City is the most populous city in the United States, with an estimated 8,336,817 residents as of 2020. It is located in the northeastern region of the country, in the state of New York, on one of the world's largest natural harbors. The city consists of five boroughs, each of which is a separate county: the Bronx, Brooklyn, Manhattan, Queens, and Staten Island. The city's land area is 468.9 square miles (1,214 km²). New York City was founded as a commercial trading post by the Dutch in 1624. The city served as the capital of the United States from 1785 until 1790. It has been the center of the United States' economy and culture for much of its history, and is home to the New York Stock Exchange, the world's largest stock exchange by total market capitalization. New York City is home to many world-renowned landmarks, including the Statue of Liberty, Central Park, and the Empire State Building. The city is also known for its diverse population, with more than 800 languages spoken in the city. It is a global hub of international business and commerce, and is home to the headquarters of the United Nations. New York City is a major center for media, culture, food, fashion, and entertainment. It is home to the largest subway system in the world, and is served by three major airports: John F. Kennedy International Airport, LaGuardia Airport, and Newark Liberty International Airport. The city is also home to many museums, galleries, and theaters, including the Metropolitan Museum of Art, the Museum of Modern Art, and Broadway theaters.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the world's largest stock exchange by total market capitalization located in New York City?",
+                    "answer": "the New York Stock Exchange",
+                    "explanation": "New York City is home to the New York Stock Exchange, the world's largest stock exchange by total market capitalization."
+                },
+                {
+                    "question": "What is the name of the borough in New York City that is home to the Brooklyn Bridge?",
+                    "answer": "Brooklyn",
+                    "explanation": "New York City is home to many world-renowned landmarks, including the Statue of Liberty, Central Park, and the Empire State Building."
+                }
+            ],
+            "hops": [
+                "The Persistence of Memory by Salvador Dali",
+                "New York City"
+            ]
+        },
+        "Edvard Munch's": {
+            "term": "Edvard Munch's",
+            "passage": "Edvard Munch was a Norwegian painter and printmaker whose intensely emotional and symbolic images were influential in the development of German Expressionism in the early 20th century. His best-known works include \"The Scream\" and \"Madonna\". Munch's early works were mostly naturalistic, but he gradually moved towards a more symbolic and expressive style. His paintings often featured themes of sickness, death, and love, and he was known for his use of vibrant colors and bold brushstrokes. Munch's personal life was marked by tragedy and mental illness, which influenced his artistic output. He suffered from anxiety and depression throughout his life, and was hospitalized several times for mental illness. Despite this, Munch continued to produce art until his death in 1944. Today, he is widely regarded as one of the most important and influential artists of the 20th century.",
+            "qae_pairs": [
+                {
+                    "question": "What is the title of Edvard Munch's painting that features a mother and child?",
+                    "answer": "Madonna",
+                    "explanation": "Edvard Munch's personal life was marked by tragedy and mental illness, which influenced his artistic output. He suffered from anxiety and depression throughout his life, and was hospitalized several times for mental illness. Despite this, Munch continued to produce art until his death in 1944."
+                }
+            ],
+            "hops": [
+                "The Scream by Edvard Munch",
+                "Edvard Munch's"
+            ]
+        },
+        "Ovid": {
+            "term": "Ovid",
+            "passage": "Ovid (/ˈɒvɪd/; Latin: Publius Ovidius Naso; 20 March 43 BC – 17/18 AD) was an ancient Roman poet who is best known as the author of the Metamorphoses, a 15-book epic poem that describes the myths and legends of the ancient world. Ovid was born in Sulmona, in an area of Italy that was then part of the Roman Empire. He was educated in Rome, where he became a poet and a member of the Roman literary circle. Ovid's poetry was widely read and admired in ancient Rome, and he was considered one of the greatest poets of his time. However, in 8 AD, Ovid was exiled to Tomis, a remote city on the Black Sea coast, for reasons that are not entirely clear. He remained in exile for the rest of his life, and died in Tomis at the age of 62. Despite his exile, Ovid's poetry continued to be read and admired in Rome, and he remained one of the most influential poets of the ancient world.",
+            "qae_pairs": [
+                {
+                    "question": "What was the capital of the Roman Empire during Ovid's time?",
+                    "answer": "the Roman Empire",
+                    "explanation": "Ovid was born in Sulmona, in an area of Italy that was then part of the Roman Empire. This sentence is an evidence sentence because it provides information about Ovid's birthplace, which is relevant to understanding his background and context as a poet in ancient Rome."
+                },
+                {
+                    "question": "What year did Ovid get exiled?",
+                    "answer": "8 AD",
+                    "explanation": "In 8 AD, Ovid was exiled to Tomis, a remote city on the Black Sea coast, for reasons that are not entirely clear."
+                }
+            ],
+            "hops": [
+                "The Birth of Venus by Sandro Botticelli",
+                "Ovid"
+            ]
+        },
+        "Florence": {
+            "term": "Florence",
+            "passage": "Florence is a city in central Italy that is known for its rich history and culture. It is the capital city of the Tuscany region and is located on the Arno River. The city is home to many famous landmarks, including the Cathedral of Santa Maria del Fiore, the Uffizi Gallery, and the Ponte Vecchio bridge. Florence is also known for its contributions to the Renaissance period, with famous artists such as Leonardo da Vinci and Michelangelo hailing from the city. Today, Florence is a popular tourist destination and is known for its fashion, art, and cuisine.",
+            "qae_pairs": [
+                {
+                    "question": "What river flows through Florence?",
+                    "answer": "the Arno River",
+                    "explanation": "Florence is a city in central Italy that is known for its rich history and culture. It is the capital city of the Tuscany region and is located on the Arno River. This sentence is an evidence sentence because it provides information about the location of Florence and its capital city status in the Tuscany region."
+                },
+                {
+                    "question": "What was the name of the famous artist who was born in Florence and is known for his works such as the Mona Lisa and The Last Supper?",
+                    "answer": "Leonardo da Vinci",
+                    "explanation": "Leonardo da Vinci, who was born in Florence, is known for his famous works such as the Mona Lisa and The Last Supper."
+                },
+                {
+                    "question": "What is the name of the famous cathedral located in Florence?",
+                    "answer": "the Cathedral of Santa Maria del Fiore",
+                    "explanation": "The city is home to many famous landmarks, including the Cathedral of Santa Maria del Fiore, the Uffizi Gallery, and the Ponte Vecchio bridge."
+                },
+                {
+                    "question": "What was the cultural movement that took place in Florence during the Renaissance period?",
+                    "answer": "Renaissance",
+                    "explanation": "Florence is a city in central Italy that is known for its rich history and culture. This sentence explains that Florence is a city that is known for its rich history and culture, which is an evidence of the Renaissance period that took place in the city."
+                }
+            ],
+            "hops": [
+                "The Birth of Venus by Sandro Botticelli",
+                "Florence"
+            ]
+        },
+        "Italy": {
+            "term": "Italy",
+            "passage": "Italy, officially the Italian Republic, is a country in Southern Europe. Located in the heart of the Mediterranean Sea, Italy shares open land borders with France, Switzerland, Austria, Slovenia, San Marino and Vatican City. Italy covers an area of 301,338 km² (116,347 sq mi) and has a largely temperate climate; due to its shape, it is often referred to as a boot. With 61 million inhabitants, it is the 4th most populous EU member state. Italy's capital, Rome, serves as the capital of the country and of the Catholic Church.",
+            "qae_pairs": [
+                {
+                    "question": "What country does Italy share an open land border with, that is not Switzerland, France, San Marino, or Vatican City?",
+                    "answer": "Austria",
+                    "explanation": "Italy shares open land borders with France, Switzerland, Austria, Slovenia, San Marino and Vatican City."
+                },
+                {
+                    "question": "What is the capital of Vatican City, which is an independent city-state surrounded by the city of Rome, Italy?",
+                    "answer": "Vatican City",
+                    "explanation": "Italy shares open land borders with France, Switzerland, Austria, Slovenia, San Marino and Vatican City."
+                },
+                {
+                    "question": "What is the body of water that borders Italy to the south?",
+                    "answer": "the Mediterranean Sea",
+                    "explanation": "Italy is located in the heart of the Mediterranean Sea, which is the body of water that borders it to the south."
+                }
+            ],
+            "hops": [
+                "The Birth of Venus by Sandro Botticelli",
+                "Italy"
+            ]
+        },
+        "Sandro Botticelli": {
+            "term": "Sandro Botticelli",
+            "passage": "Sandro Botticelli (1445-1510) was an Italian painter of the Florentine school during the Early Renaissance. He was known for his mastery in painting detailed and intricate scenes from mythology and religious themes. His most famous works include \"The Birth of Venus\" and \"Primavera\". Botticelli was also known for his unique style, which was characterized by a graceful and flowing line, and a delicate use of color. He was a prolific artist, producing many works throughout his career, and his influence can be seen in the works of later artists such as Raphael and Titian. Despite his fame during his lifetime, Botticelli's work fell out of favor in the 17th and 18th centuries, and it was not until the 19th century that his work was rediscovered and appreciated once again. Today, Botticelli is considered one of the greatest painters of the Renaissance, and his works are highly sought after by collectors and museums around the world.",
+            "qae_pairs": [
+                {
+                    "question": "What was the artistic movement that Sandro Botticelli was associated with during his lifetime?",
+                    "answer": "Renaissance",
+                    "explanation": "He was known for his mastery in painting detailed and intricate scenes from mythology and religious themes. This sentence explains that Sandro Botticelli was associated with the Renaissance movement during his lifetime because he was known for his mastery in painting detailed and intricate scenes from mythology and religious themes, which were the main themes of the Renaissance art."
+                }
+            ],
+            "hops": [
+                "The Birth of Venus by Sandro Botticelli",
+                "Sandro Botticelli"
+            ]
+        },
+        "the Uffizi Gallery": {
+            "term": "the Uffizi Gallery",
+            "passage": "The Uffizi Gallery is a museum in Florence, Italy, that is one of the most famous and visited art museums in the world. It is located in a palace that was originally built by the Medici family in the 16th century. The Uffizi Gallery has a vast collection of Renaissance art, including works by Botticelli, Leonardo da Vinci, Michelangelo, Raphael, Titian, and Caravaggio. The gallery's collection includes over 2,000 paintings, 1,000 sculptures, and 10,000 drawings and prints. The Uffizi Gallery is also known for its collection of ancient Greek and Roman art, as well as its collection of medieval art. The museum is open every day except for New Year's Day, May 1, and Christmas Day.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the artist who created the famous sculpture of David in the Uffizi Gallery?",
+                    "answer": "Michelangelo",
+                    "explanation": "The Uffizi Gallery has a vast collection of Renaissance art, including works by Botticelli, Leonardo da Vinci, Michelangelo, Raphael, Titian, and Caravaggio."
+                },
+                {
+                    "question": "What is the location of the Uffizi Gallery?",
+                    "answer": "Florence",
+                    "explanation": "The Uffizi Gallery is a museum in Florence, Italy, that is one of the most famous and visited art museums in the world."
+                },
+                {
+                    "question": "What was the name of the family that built the palace that now houses the Uffizi Gallery?",
+                    "answer": "Medici",
+                    "explanation": "The Uffizi Gallery is a museum in Florence, Italy, that is one of the most famous and visited art museums in the world. It is located in a palace that was originally built by the Medici family in the 16th century."
+                }
+            ],
+            "hops": [
+                "The Birth of Venus by Sandro Botticelli",
+                "the Uffizi Gallery"
+            ]
+        },
+        "Guernica": {
+            "term": "Guernica",
+            "passage": "Guernica is a painting by the Spanish artist Pablo Picasso. It is one of the most famous works of art from the 20th century, and it is a powerful political statement about the bombing of Guernica, Spain by German and Italian warplanes at the behest of the Spanish Nationalist forces during the Spanish Civil War. The painting shows the suffering and chaos of the bombing, and it is a symbol of peace and resistance against war and violence. The painting is now housed in the Museo Reina Sofia in Madrid, Spain.",
+            "qae_pairs": [
+                {
+                    "question": "What museum in Madrid is home to the painting that depicts the bombing of Guernica, Spain?",
+                    "answer": "the Museo Reina Sofia",
+                    "explanation": "The painting is now housed in the Museo Reina Sofia in Madrid, Spain."
+                }
+            ],
+            "hops": [
+                "Guernica by Pablo Picasso",
+                "Guernica"
+            ]
+        },
+        "Leonardo da Vinci": {
+            "term": "Leonardo da Vinci",
+            "passage": "Leonardo da Vinci was an Italian polymath, who is widely considered one of the greatest painters of all time and a leading light of the Italian Renaissance. Born in the small town of Vinci in the region of Tuscany in 1452, he was the illegitimate son of a wealthy notary and a peasant woman. Despite his humble beginnings, he went on to become one of the most influential figures of the Renaissance, with interests ranging from art and science to engineering and philosophy. Da Vinci's artistic works include the Mona Lisa, The Last Supper, and The Vitruvian Man, which are now considered some of the most iconic paintings in history. He was also a skilled draftsman and inventor, with designs for flying machines, war machines, and other innovative ideas that were centuries ahead of their time. In addition to his artistic and scientific pursuits, da Vinci was also a prolific writer and philosopher. He kept detailed notebooks throughout his life, in which he recorded his observations, ideas, and inventions. These notebooks are now considered some of the most important sources of information about the Renaissance period. Despite his many accomplishments, da Vinci's personal life was marked by tragedy and loss. He had no children and few close relationships, and his later years were plagued by illness and financial difficulties. He died in 1519 at the age of 67, leaving behind a legacy that continues to inspire and fascinate people around the world.",
+            "qae_pairs": [
+                {
+                    "question": "What was the period in which Leonardo da Vinci lived and worked, and what was the cultural and intellectual movement that characterized this period?",
+                    "answer": "Renaissance",
+                    "explanation": "Leonardo da Vinci was an Italian polymath, who is widely considered one of the greatest painters of all time and a leading light of the Italian Renaissance."
+                }
+            ],
+            "hops": [
+                "The Last Supper by Leonardo da Vinci",
+                "Leonardo da Vinci"
+            ]
+        },
+        "the Convent": {
+            "term": "the Convent",
+            "passage": "The Convent is a religious building used by members of a religious order, such as a monastery or nunnery, or by a group of monks or nuns. It may be a house or a building specially built to accommodate such a community. The term originated in the Middle Ages and is still used in modern times. Convents are often associated with the Catholic Church, but they can also be found in other Christian denominations, as well as in other religions such as Buddhism and Hinduism. In Catholicism, a convent typically houses a community of nuns who live a cloistered or apostolic life. The abbess or prioress is the leader of the community, and the nuns follow a rule of life that includes prayer, work, and study. Convents may also provide education, healthcare, and other services to the community.",
+            "qae_pairs": [
+                {
+                    "question": "4. not too obvious. 5. not a riddle.  Example of an acceptable question: What is the main religious affiliation of the community that typically lives in The Convent?",
+                    "answer": "the Catholic Church",
+                    "explanation": "Convents are often associated with the Catholic Church, but they can also be found in other Christian denominations, as well as in other religions such as Buddhism and Hinduism. In Catholicism, a convent typically houses a community of nuns who live a cloistered or apostolic life. The abbess or prioress is the leader of the community, and the nuns follow a rule of life that includes prayer, work, and study."
+                },
+                {
+                    "question": "What kind of healthcare services does The Convent provide?",
+                    "answer": "healthcare",
+                    "explanation": "In Catholicism, a convent typically houses a community of nuns who live a cloistered or apostolic life. The abbess or prioress is the leader of the community, and the nuns follow a rule of life that includes prayer, work, and study."
+                }
+            ],
+            "hops": [
+                "The Last Supper by Leonardo da Vinci",
+                "the Convent"
+            ]
+        },
+        "Ludovico Sforza": {
+            "term": "Ludovico Sforza",
+            "passage": "Ludovico Sforza, also known as Ludovico il Moro, was a Duke of Milan from 1479 until his death. He was born in 1452 in Milan, which was then part of the Duchy of Milan. He was the third son of Francesco Sforza and Bianca Maria Visconti. Ludovico was known for his patronage of the arts and his support of Leonardo da Vinci. He was also a military leader and a diplomat. He was married to Beatrice d'Este in 1475, but the marriage was not successful. Ludovico was assassinated in 1499 by the French army while he was in captivity.",
+            "qae_pairs": [
+                {
+                    "question": "What was the capital of the Duchy of Milan during the reign of Ludovico Sforza?",
+                    "answer": "the Duchy of Milan",
+                    "explanation": "Ludovico Sforza was born in Milan in 1452, which was then part of the Duchy of Milan."
+                },
+                {
+                    "question": "What year did Ludovico Sforza become the Duke of Milan?",
+                    "answer": "1479",
+                    "explanation": "Ludovico Sforza was born in 1452 in Milan, which was then part of the Duchy of Milan."
+                },
+                {
+                    "question": "What was the name of Ludovico Sforza's father?",
+                    "answer": "Francesco Sforza",
+                    "explanation": "Ludovico Sforza, also known as Ludovico il Moro, was a Duke of Milan from 1479 until his death. He was born in 1452 in Milan, which was then part of the Duchy of Milan. He was the third son of Francesco Sforza and Bianca Maria Visconti."
+                },
+                {
+                    "question": "What was the name of Ludovico Sforza's wife?",
+                    "answer": "Beatrice",
+                    "explanation": "He was married to Beatrice d'Este in 1475, but the marriage was not successful."
+                }
+            ],
+            "hops": [
+                "The Last Supper by Leonardo da Vinci",
+                "Ludovico Sforza"
+            ]
+        },
+        "American Gothic": {
+            "term": "American Gothic",
+            "passage": "American Gothic is a painting by Grant Wood in the collection of the Art Institute of Chicago. The painting shows a farmer standing beside his daughter, who is holding a pitchfork. The two are dressed in clothing that is typical of the American Midwest in the early 20th century. The painting is one of the most famous works of American art and is an iconic image of the American Gothic style. The painting has been parodied and imitated many times, and has been used as a symbol of American culture and values. The painting has also been interpreted as a commentary on the changing social and economic conditions of rural America in the early 20th century.",
+            "qae_pairs": [
+                {
+                    "question": "What is the location of the American Gothic painting?",
+                    "answer": "the Art Institute of Chicago",
+                    "explanation": "The painting is one of the most famous works of American art and is an iconic image of the American Gothic style."
+                }
+            ],
+            "hops": [
+                "American Gothic by Grant Wood",
+                "American Gothic"
+            ]
+        },
+        "the Art Institute of Chicago": {
+            "term": "the Art Institute of Chicago",
+            "passage": "The Art Institute of Chicago is a fine art museum located in Chicago, Illinois. It features a collection of Impressionist and Post-Impressionist art, including famous works such as Georges Seurat's \"A Sunday Afternoon on the Island of La Grande Jatte\" and Vincent van Gogh's \"The Bedroom\". The museum also houses a collection of American art, including works by Grant Wood and Edward Hopper. The Art Institute of Chicago is one of the oldest and largest art museums in the United States, with a collection of over 300,000 works of art. The museum is known for its comprehensive collection of Asian art, as well as its collection of European decorative arts. The Art Institute of Chicago is also home to the Ryerson and Burnham Libraries, which contain over 300,000 books and periodicals related to art and architecture.",
+            "qae_pairs": [
+                {
+                    "question": "What state is the Art Institute of Chicago located in?",
+                    "answer": "Illinois",
+                    "explanation": "The Art Institute of Chicago is one of the oldest and largest art museums in the United States, with a collection of over 300,000 works of art."
+                },
+                {
+                    "question": "What is the name of the library at the Art Institute of Chicago that contains over 300,000 books and periodicals related to art and architecture?",
+                    "answer": "Ryerson",
+                    "explanation": "The Art Institute of Chicago is one of the oldest and largest art museums in the United States, with a collection of over 300,000 works of art. Explanation:  The Art Institute of Chicago is one of the oldest and largest art museums in the United States, with a collection of over 300,000 works of art. (Source: Passage)  The museum is known for its comprehensive collection of Asian art, as well as its collection of European decorative arts."
+                }
+            ],
+            "hops": [
+                "American Gothic by Grant Wood",
+                "the Art Institute of Chicago"
+            ]
+        },
+        "Grant Wood": {
+            "term": "Grant Wood",
+            "passage": "Grant DeVolson Wood (February 13, 1891 – February 12, 1942) was an American painter best known for his paintings depicting the rural American Midwest, particularly American Gothic, which has become an iconic symbol of the Great Depression. Wood was born in Anamosa, Iowa, and raised on a farm. He began painting in high school, and later studied at the Art Institute of Chicago and the Académie Julian in Paris. Wood's work often reflected his interest in the rural American landscape, as well as his concern for the plight of farmers during the Great Depression. He was a member of the Regionalist art movement, which sought to depict the American experience in a realistic and sympathetic way. Wood's work was widely exhibited and praised during his lifetime, and he was awarded numerous honors, including a Guggenheim Fellowship in 1931. He died in 1942 in Iowa City, Iowa, at the age of 50.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the city where Grant Wood died?",
+                    "answer": "Iowa City",
+                    "explanation": "Grant DeVolson Wood (February 13, 1891 – February 12, 1942) was an American painter best known for his paintings depicting the rural American Midwest, particularly American Gothic, which has become an iconic symbol of the Great Depression. Wood was born in Anamosa, Iowa, and raised on a farm. He began painting in high school, and later studied at the Art Institute of Chicago and the Académie Julian in Paris."
+                },
+                {
+                    "question": "What was Grant Wood's artistic movement?",
+                    "answer": "Regionalist",
+                    "explanation": "Grant Wood was a member of the Regionalist art movement, which sought to depict the American experience in a realistic and sympathetic way."
+                },
+                {
+                    "question": "What was the name of the art institute where Grant Wood studied?",
+                    "answer": "the Art Institute of Chicago",
+                    "explanation": "Wood was born in Anamosa, Iowa, and raised on a farm. He began painting in high school, and later studied at the Art Institute of Chicago and the Académie Julian in Paris. This evidence sentence explains that Grant Wood was born in Anamosa, Iowa, and raised on a farm. He began painting in high school and later studied at the Art Institute of Chicago and the Académie Julian in Paris."
+                }
+            ],
+            "hops": [
+                "American Gothic by Grant Wood",
+                "Grant Wood"
+            ]
+        },
+        "Midwest": {
+            "term": "Midwest",
+            "passage": "The Midwest is a region in the United States that extends from the Great Lakes westward to the Mississippi River. It is characterized by its flat landscape and its agricultural productivity, with crops such as corn, soybeans, and wheat being grown in large quantities. The region is also known for its friendly and welcoming people, who are often associated with the \"Midwestern values\" of hard work, honesty, and hospitality. The Midwest is home to several major cities, including Chicago, Detroit, and St. Louis, which are known for their cultural and economic significance. The region is also known for its contributions to American music, with artists such as Bob Dylan, Neil Young, and Bruce Springsteen hailing from the Midwest. Despite its reputation for being a quiet and conservative region, the Midwest has been at the forefront of many social and political movements, including the Civil Rights Movement and the environmental movement.",
+            "qae_pairs": [
+                {
+                    "question": "What is the largest city in the Midwest?",
+                    "answer": "Chicago",
+                    "explanation": "The Midwest is home to several major cities, including Chicago, Detroit, and St. Louis, which are known for their cultural and economic significance."
+                },
+                {
+                    "question": "What is the name of the river that serves as the eastern border of the Midwest region in the United States?",
+                    "answer": "the Mississippi River",
+                    "explanation": "The Midwest is a region in the United States that extends from the Great Lakes westward to the Mississippi River. This sentence explains that the Mississippi River serves as the eastern border of the Midwest region in the United States."
+                }
+            ],
+            "hops": [
+                "American Gothic by Grant Wood",
+                "Midwest"
+            ]
+        },
+        "the Dutch Golden Age": {
+            "term": "the Dutch Golden Age",
+            "passage": "The Dutch Golden Age was a period in Dutch history, roughly spanning the 17th century, during and after the reign of King William I, during which Dutch trade, science, military, and art were among the most acclaimed in the world. The first half is characterized by the Dutch Republic's rise to become one of the world's greatest economic and military powers, with pioneering advancements in trade, industry, and the arts. The second half is characterized by the decline of the Dutch Republic as a major power, but the continued cultural and artistic achievements of the Dutch. The period is often seen as a time of great wealth, both for the merchant class and for the state, which invested heavily in the arts and sciences. The Dutch Golden Age is often cited as one of the most successful periods in Dutch history, and has left a lasting legacy in the arts, sciences, and culture.",
+            "qae_pairs": [
+                {
+                    "question": "What was the time period during which the Dutch Golden Age took place?",
+                    "answer": "the 17th century",
+                    "explanation": "The Dutch Golden Age was a period in Dutch history, roughly spanning the 17th century, during and after the reign of King William I, during which Dutch trade, science, military, and art were among the most acclaimed in the world. This sentence provides a clear and concise explanation of the time period during which the Dutch Golden Age took place, which is the 17th century."
+                },
+                {
+                    "question": "What was the Dutch Republic's contribution to the Dutch Golden Age?",
+                    "answer": "the Dutch Republic's",
+                    "explanation": "The Dutch Republic's rise to become one of the world's greatest economic and military powers, with pioneering advancements in trade, industry, and the arts. Evidence sentence: The Dutch Republic's rise to become one of the world's greatest economic and military powers, with pioneering advancements in trade, industry, and the arts."
+                }
+            ],
+            "hops": [
+                "The Night Watch by Rembrandt van Rijn",
+                "the Dutch Golden Age"
+            ]
+        },
+        "Willem van Ruytenburch": {
+            "term": "Willem van Ruytenburch",
+            "passage": "Willem van Ruytenburch (c. 1250 – c. 1318) was a Dutch merchant and diplomat. He was born in the city of Utrecht and became a member of the city's merchant guild. In 1285, he was appointed as the city's envoy to the court of King Edward I of England. He was also involved in the negotiations that led to the Treaty of Amiens in 1285, which ended the conflict between England and France. Van Ruytenburch was a skilled negotiator and was often sent on diplomatic missions to other countries. He was also involved in the negotiations that led to the Treaty of Bruges in 1278, which ended the conflict between England and the County of Flanders. In addition to his diplomatic work, Van Ruytenburch was also a successful merchant. He owned several ships and traded in goods such as wool, grain, and salt. He was also involved in the development of the Dutch wool trade, which became an important industry in the region. Van Ruytenburch was married and had several children. He died in 1318 and was buried in the Church of St. Martin in Utrecht. His legacy as a diplomat and merchant has been remembered in the Netherlands, and he is considered an important figure in the country's history.",
+            "qae_pairs": [
+                {
+                    "question": "What year did Willem van Ruytenburch participate in the negotiations that led to the Treaty of Bruges?",
+                    "answer": "1278",
+                    "explanation": "Van Ruytenburch was also involved in the negotiations that led to the Treaty of Bruges in 1278, which ended the conflict between England and the County of Flanders."
+                }
+            ],
+            "hops": [
+                "The Night Watch by Rembrandt van Rijn",
+                "Willem van Ruytenburch"
+            ]
+        },
+        "Amsterdam": {
+            "term": "Amsterdam",
+            "passage": "Amsterdam is the capital and most populous city of the Netherlands. Its status as the capital is mandated by the Constitution of the Netherlands. Amsterdam has a population of 851,373 within the city proper, 1,351,585 in the urban area, and 2,410,960 in the Amsterdam metropolitan area. The city is located in the province of North Holland in the west of the country. The metropolitan area comprises much of the northern part of the Randstad, one of the largest conurbations in Europe, with a population of approximately 7 million. Amsterdam's name is derived from Amstelredamme, indicative of the city's origin: a dam in the river Amstel. Settled as a small fishing village in the late 12th century, Amsterdam became one of the most important ports in the world during the Dutch Golden Age (17th century), a result of its innovative developments in trade. During this time, the city was the leading centre for finance and trade. The city is the cultural capital of the Netherlands and is home to numerous national and international cultural institutions, many of which are focused on art, history, and science. The city is known for its elaborate system of canals, which are located throughout the city and serve as major thoroughfares for both cars and boats. The canals have been an important part of Amsterdam's history and culture, and have contributed to its status as a UNESCO World Heritage Site. In the 17th century, Amsterdam was the world's most important art market, and it remains a cultural hub in the Netherlands. The city is home to numerous museums, including the Rijksmuseum, the Van Gogh Museum, and the Stedelijk Museum.",
+            "qae_pairs": [
+                {
+                    "question": "What province is Amsterdam located in?",
+                    "answer": "North Holland",
+                    "explanation": "The city is located in the province of North Holland in the west of the country."
+                },
+                {
+                    "question": "What is the name of the museum in Amsterdam that is dedicated to modern and contemporary art?",
+                    "answer": "the Stedelijk Museum",
+                    "explanation": "Amsterdam is known for its elaborate system of canals, which are located throughout the city and serve as major thoroughfares for both cars and boats. The canals have been an important part of Amsterdam's history and culture, and have contributed to its status as a UNESCO World Heritage Site."
+                },
+                {
+                    "question": "What was the date that Amsterdam was first settled as a small fishing village?",
+                    "answer": "the late 12th century",
+                    "explanation": "Amsterdam became one of the most important ports in the world during the Dutch Golden Age (17th century), a result of its innovative developments in trade."
+                }
+            ],
+            "hops": [
+                "The Night Watch by Rembrandt van Rijn",
+                "Amsterdam"
+            ]
+        },
+        "Rijksmuseum": {
+            "term": "Rijksmuseum",
+            "passage": "The Rijksmuseum is a Dutch national museum in Amsterdam, located on the Museumplein. The museum is dedicated to art, crafts, and history of the Netherlands. It has a collection of nearly one million objects, including paintings by Rembrandt, Vermeer, and Frans Hals, and Delftware from the 17th century. The museum was founded in 1800 and was originally located in the Royal Palace before moving to its current location in 1885. The current building was designed by architect Pierre Cuypers and was completed in 1885. The museum was closed for a ten-year renovation and reopened in 2013. The Rijksmuseum is one of the most visited museums in the Netherlands, with over 2.2 million visitors annually.",
+            "qae_pairs": [
+                {
+                    "question": "What was the original location of the Rijksmuseum before it moved to its current location in 1885?",
+                    "answer": "the Royal Palace",
+                    "explanation": "The museum was founded in 1800 and was originally located in the Royal Palace before moving to its current location in 1885."
+                },
+                {
+                    "question": "What year did the Rijksmuseum reopen after a ten-year renovation?",
+                    "answer": "2013",
+                    "explanation": "The Rijksmuseum was closed for a ten-year renovation and reopened in 2013."
+                },
+                {
+                    "question": "What is the location of the Rijksmuseum in Amsterdam?",
+                    "answer": "Amsterdam",
+                    "explanation": "The Rijksmuseum is a Dutch national museum in Amsterdam, located on the Museumplein."
+                }
+            ],
+            "hops": [
+                "The Night Watch by Rembrandt van Rijn",
+                "Rijksmuseum"
+            ]
+        },
+        "Netherlands": {
+            "term": "Netherlands",
+            "passage": "The Netherlands, also known as Holland, is a country located in Western Europe. It is bordered by the North Sea to the north and west, Belgium to the south, and Germany to the east. The Netherlands is a densely populated country with a population of approximately 17 million people. The country is known for its flat landscape, canals, tulips, windmills, and cycling culture. Amsterdam, the capital city of the Netherlands, is known for its museums, nightlife, and cannabis coffee shops. The Netherlands is also known for its liberal policies on drugs, prostitution, and euthanasia. The country has a developed economy and is known for its agriculture, fishing, and manufacturing industries. The Netherlands is a member of the European Union and has a high standard of living.",
+            "qae_pairs": [
+                {
+                    "question": "What country is located to the east of the Netherlands?",
+                    "answer": "Germany",
+                    "explanation": "The Netherlands is a densely populated country with a population of approximately 17 million people."
+                },
+                {
+                    "question": "What is the country that the Netherlands is a member of?",
+                    "answer": "the European Union",
+                    "explanation": "The Netherlands is a densely populated country with a population of approximately 17 million people."
+                },
+                {
+                    "question": "What is the capital city of the Netherlands known for its museums, nightlife, and cannabis coffee shops?",
+                    "answer": "Amsterdam",
+                    "explanation": "The capital city of the Netherlands, Amsterdam, is known for its museums, nightlife, and cannabis coffee shops."
+                },
+                {
+                    "question": "What country is located to the south of the Netherlands?",
+                    "answer": "Belgium",
+                    "explanation": "The Netherlands is a densely populated country with a population of approximately 17 million people. Evidence sentence: The Netherlands is a densely populated country."
+                }
+            ],
+            "hops": [
+                "The Night Watch by Rembrandt van Rijn",
+                "Netherlands"
+            ]
+        },
+        "Rembrandt van Rijn": {
+            "term": "Rembrandt van Rijn",
+            "passage": "Rembrandt van Rijn (1606-1669) was a Dutch painter and etcher. He is generally considered one of the greatest painters and printmakers in European art history and the most important in Dutch history. His contributions to art came in a period that historians call the Dutch Golden Age. Rembrandt's portraits of his contemporaries were characterized by a profound psychological insight and a subtle use of light and shadow. His landscapes were also notable for their poetic quality. Rembrandt's paintings were not popular during his lifetime, but he was a master of the art of etching and produced many prints that were widely circulated. He was a prolific artist who produced over 600 paintings, 2,000 drawings, and 300 etchings in his lifetime. Rembrandt's personal life was marked by tragedy. He lost four of his children in infancy and his wife Saskia died after only 11 years of marriage. He also suffered financial difficulties and was declared bankrupt in 1656. Despite these setbacks, Rembrandt continued to produce great works of art until his death in 1669. His legacy as an artist and a teacher was significant, and his influence on the development of Western art was profound. Today, his paintings and etchings are highly prized and are found in many of the world's greatest museums.",
+            "qae_pairs": [
+                {
+                    "question": "What was the length of Rembrandt van Rijn's wife Saskia's marriage?",
+                    "answer": "only 11 years",
+                    "explanation": "Rembrandt's personal life was marked by tragedy. He lost four of his children in infancy and his wife Saskia died after only 11 years of marriage."
+                }
+            ],
+            "hops": [
+                "The Night Watch by Rembrandt van Rijn",
+                "Rembrandt van Rijn"
+            ]
+        },
+        "the Book of Genesis": {
+            "term": "the Book of Genesis",
+            "passage": "The Book of Genesis is the first book of the Hebrew Bible and the Christian Old Testament. It is considered the first book of the Jewish Torah, the five books that are the foundational texts of Judaism. The book is an account of the creation of the world and the history of the Israelites, from the creation of the world to the death of Joseph. It is divided into two main sections: the stories of the patriarchs, and the story of the Israelites' enslavement in Egypt and their eventual liberation. The book is believed to have been written by Moses, although this is a matter of debate among scholars. The Book of Genesis has had a significant influence on Western culture and literature, and its stories and themes have been retold in countless works of art and literature.",
+            "qae_pairs": [
+                {
+                    "question": "What is the Christian Old Testament's name for the Book of Genesis?",
+                    "answer": "the Christian Old Testament",
+                    "explanation": "The Book of Genesis is the first book of the Hebrew Bible and the Christian Old Testament."
+                }
+            ],
+            "hops": [
+                "The Creation of Adam by Michelangelo",
+                "the Book of Genesis"
+            ]
+        }
+    }
+}

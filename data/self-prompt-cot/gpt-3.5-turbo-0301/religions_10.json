@@ -1,0 +1,925 @@
+{
+    "first_hops": {
+        "Christianity": {
+            "term": "Christianity",
+            "passage": "Christianity is a monotheistic religion based on the life and teachings of Jesus Christ. It is the world's largest religion, with over 2.4 billion followers, or about one-third of the world's population. Christianity is based on the belief that Jesus Christ is the Son of God and the savior of humanity. Christians believe that Jesus was born of a virgin, lived a sinless life, was crucified, died, and was buried, and then rose from the dead on the third day. The teachings of Christianity are based on the Bible, which is divided into two main parts: the Old Testament and the New Testament. The Old Testament contains the Jewish scriptures, which were written before the birth of Jesus Christ. The New Testament contains the teachings of Jesus and his followers, as well as letters written by early Christian leaders. Christianity has many different denominations, or branches, each with its own beliefs and practices. The three main branches of Christianity are Catholicism, Protestantism, and Orthodox Christianity. Catholicism is the largest branch of Christianity, with over 1.3 billion followers. Protestantism is the second-largest branch, with over 900 million followers. Orthodox Christianity is the third-largest branch, with over 250 million followers. Christianity has had a profound impact on the world, influencing art, literature, music, and philosophy. It has also played a significant role in shaping Western civilization. Christianity has been a force for both good and bad throughout history, with some Christians using their faith to justify acts of violence and oppression, while others have used it to promote peace and justice. Despite its many divisions and controversies, Christianity remains a powerful force in the world today, with millions of people finding comfort, guidance, and inspiration in its teachings.",
+            "qae_pairs": [
+                {
+                    "context": "Christianity is based on the belief that Jesus Christ is the Son of God and the savior of humanity. Christians believe that Jesus was born of a virgin, lived a sinless life, was crucified, died, and was buried, and then rose from the dead on the third day.",
+                    "question": "Who is believed to be the Son of God and the savior of humanity in Christianity?",
+                    "answer": "Jesus Christ.",
+                    "explanation": "In Christianity, the Son of God and the savior of humanity is believed to be Jesus Christ, who was born of a virgin, lived a sinless life, was crucified, died, and was buried, and then rose from the dead on the third day."
+                },
+                {
+                    "context": "The New Testament contains the teachings of Jesus and his followers, as well as letters written by early Christian leaders. Christianity has many different denominations, or branches, each with its own beliefs and practices.",
+                    "question": "Who is the central figure in Christianity whose teachings are recorded in the New Testament?",
+                    "answer": "Jesus.",
+                    "explanation": "The central figure in Christianity whose teachings are recorded in the New Testament is Jesus, as stated in the passage."
+                }
+            ],
+            "hops": [
+                "Christianity"
+            ]
+        },
+        "Islam": {
+            "term": "Islam",
+            "passage": "Islam is a monotheistic religion founded in the 7th century by the prophet Muhammad. It is the second-largest religion in the world, with over 1.8 billion followers, and is the fastest-growing major religion. Muslims believe in one God, Allah, and follow the teachings of the Quran, which they believe to be the word of God as revealed to Muhammad. The Five Pillars of Islam are the foundation of Muslim faith and practice. These include the declaration of faith (shahada), prayer (salat), charity (zakat), fasting during the month of Ramadan (sawm), and pilgrimage to Mecca (hajj) at least once in a lifetime for those who are able. Islam has a rich history and culture, with contributions to art, science, and philosophy. Islamic art is known for its intricate geometric patterns and calligraphy, while Islamic scholars made significant advancements in fields such as mathematics, astronomy, and medicine. Islam has also had a significant impact on politics and society. The Islamic empire, which began with the caliphate of Abu Bakr in 632 CE, spread across much of the Middle East, North Africa, and parts of Europe and Asia. Islamic law, or sharia, has influenced legal systems in many Muslim-majority countries. Islam has faced challenges and controversies throughout its history, including sectarian divisions, conflicts with other religions, and accusations of terrorism. However, many Muslims have worked to promote peace and understanding, and the religion continues to be an important part of the lives of millions of people around the world.",
+            "qae_pairs": [
+                {
+                    "context": "Islam is a monotheistic religion founded in the 7th century by the prophet Muhammad. It is the second-largest religion in the world, with over 1.8 billion followers, and is the fastest-growing major religion.",
+                    "question": "Who is the prophet that founded Islam in the 7h century?",
+                    "answer": "Muhammad.",
+                    "explanation": "The prophet who founded Islam in the 7h century is Muhammad, as stated in the passage."
+                },
+                {
+                    "context": "Islam is a monotheistic religion founded in the 7th century by the prophet Muhammad. It is the second-largest religion in the world, with over 1.8 billion followers, and is the fastest-growing major religion.",
+                    "question": "In which century was Islam founded by the prophet Muhammad?",
+                    "answer": "7th century.",
+                    "explanation": "The prophet Muhammad founded Islam in the 7 century, as stated in the passage."
+                },
+                {
+                    "context": "These include the declaration of faith (shahada), prayer (salat), charity (zakat), fasting during the month of Ramadan (sawm), and pilgrimage to Mecca (hajj) at least once in a lifetime for those who are able. Islam has a rich history and culture, with contributions to art, science, and philosophy.",
+                    "question": "What is the destination of the pilgrimage required in Islam?",
+                    "answer": "Mecca.",
+                    "explanation": "The required pilgrimage in Islam must be made to Mecca."
+                },
+                {
+                    "context": "The Islamic empire, which began with the caliphate of Abu Bakr in 632 CE, spread across much of the Middle East, North Africa, and parts of Europe and Asia. Islamic law, or sharia, has influenced legal systems in many Muslim-majority countries.",
+                    "question": "When did the Islamic empire begin with the caliphate of Abu Bakr?",
+                    "answer": "632 CE.",
+                    "explanation": "The Islamic empire started with the caliphate of Abu Bakr in the year 632 CE, as stated in the passage."
+                },
+                {
+                    "context": "The Islamic empire, which began with the caliphate of Abu Bakr in 632 CE, spread across much of the Middle East, North Africa, and parts of Europe and Asia. Islamic law, or sharia, has influenced legal systems in many Muslim-majority countries.",
+                    "question": "Who was the first caliph of the Islamic empire?",
+                    "answer": "Abu Bakr.",
+                    "explanation": "The first caliph of the Islamic empire was Abu Bakr, as stated in the passage."
+                }
+            ],
+            "hops": [
+                "Islam"
+            ]
+        },
+        "Hinduism": {
+            "term": "Hinduism",
+            "passage": "Hinduism is a major world religion, with over 1 billion followers. It is the third largest religion in the world, after Christianity and Islam. Hinduism is a complex and diverse religion, with a rich history and many different beliefs and practices. The origins of Hinduism can be traced back to the ancient Indus Valley civilization, which flourished in what is now modern-day India and Pakistan around 2500 BCE. The religion evolved over time, incorporating elements of other religions and philosophies, such as Buddhism and Jainism. One of the key beliefs in Hinduism is the concept of karma, which holds that every action has consequences, both in this life and in future lives. Hindus also believe in reincarnation, the idea that the soul is reborn after death into a new body. The ultimate goal of Hinduism is to achieve moksha, or liberation from the cycle of birth and death. Hinduism is a polytheistic religion, with many different gods and goddesses. The most important of these are Brahma, Vishnu, and Shiva, who are known as the Trimurti. Other important deities include Ganesha, the elephant-headed god of wisdom and good fortune, and Hanuman, the monkey god who is a symbol of devotion and strength. Hinduism has a rich tradition of literature, including the Vedas, the Upanishads, and the Bhagavad Gita. These texts contain teachings on a wide range of topics, including philosophy, ethics, and spirituality. Hinduism has also had a significant impact on Indian culture and society. It has influenced art, music, literature, and architecture, and has played a role in shaping the country's political and social structures. Despite its long history and rich traditions, Hinduism has faced challenges in the modern era. It has been criticized for its treatment of women and lower castes, and has been the subject of controversy over issues such as animal sacrifice and the caste system. Despite these challenges, Hinduism remains a vibrant and important religion, with a rich history and a diverse set of beliefs and practices. Its influence can be seen not only in India, but around the world, as Hinduism has spread to other parts of Asia, as well as to Europe and North America.",
+            "qae_pairs": [
+                {
+                    "context": "Hinduism is a polytheistic religion, with many different gods and goddesses. The most important of these are Brahma, Vishnu, and Shiva, who are known as the Trimurti.",
+                    "question": "Who is one of the three most important gods in Hinduism, known as the Trimurti?",
+                    "answer": "Shiva.",
+                    "explanation": "One of the three most important gods in Hinduism, known as the Trimurti, is Shiva."
+                },
+                {
+                    "context": "Other important deities include Ganesha, the elephant-headed god of wisdom and good fortune, and Hanuman, the monkey god who is a symbol of devotion and strength. Hinduism has a rich tradition of literature, including the Vedas, the Upanishads, and the Bhagavad Gita.",
+                    "question": "Who is the elephant-headed god of wisdom and good fortune in Hinduism?",
+                    "answer": "Ganesha.",
+                    "explanation": "The elephant-headed god of wisdom and good fortune in Hinduism is Ganesha, as mentioned in the passage."
+                },
+                {
+                    "context": "Other important deities include Ganesha, the elephant-headed god of wisdom and good fortune, and Hanuman, the monkey god who is a symbol of devotion and strength. Hinduism has a rich tradition of literature, including the Vedas, the Upanishads, and the Bhagavad Gita.",
+                    "question": "Who is the monkey god in Hinduism that symbolizes devotion and strength?",
+                    "answer": "Hanuman.",
+                    "explanation": "The monkey god in Hinduism who symbolizes devotion and strength is Hanuman, as stated in the passage."
+                },
+                {
+                    "context": "It has influenced art, music, literature, and architecture, and has played a role in shaping the country's political and social structures. Despite its long history and rich traditions, Hinduism has faced challenges in the modern era.",
+                    "question": "What era has presented challenges to Hinduism despite its long history and rich traditions?",
+                    "answer": "Modern era.",
+                    "explanation": "The modern era has posed difficulties for Hinduism, despite its extensive history and cultural heritage, as stated in the passage."
+                },
+                {
+                    "context": "Its influence can be seen not only in India, but around the world, as Hinduism has spread to other parts of Asia, as well as to Europe and North America. Its influence can be seen not only in India, but around the world, as Hinduism has spread to other parts of Asia, as well as to Europe and North America.",
+                    "question": "To which continent has Hinduism spread besides Asia and Europe?",
+                    "answer": "North America.",
+                    "explanation": "The passage states that Hinduism has spread to other parts of Asia, Europe, and North America, indicating that it has reached all three continents."
+                },
+                {
+                    "context": "Its influence can be seen not only in India, but around the world, as Hinduism has spread to other parts of Asia, as well as to Europe and North America. Its influence can be seen not only in India, but around the world, as Hinduism has spread to other parts of Asia, as well as to Europe and North America.",
+                    "question": "To which continent has Hinduism spread besides Asia and North America?",
+                    "answer": "Europe.",
+                    "explanation": "The passage states that Hinduism has spread to other parts of Asia, North America, and Europe."
+                }
+            ],
+            "hops": [
+                "Hinduism"
+            ]
+        },
+        "Buddhism": {
+            "term": "Buddhism",
+            "passage": "Buddhism is a religion and philosophy that originated in ancient India around the 5th century BCE. It is based on the teachings of Siddhartha Gautama, who is also known as the Buddha or the \"Enlightened One.\" The core teachings of Buddhism revolve around the Four Noble Truths and the Eightfold Path, which provide a framework for understanding the nature of suffering and the path to liberation from it. Buddhism is a non-theistic religion, meaning that it does not rely on the existence of a supreme being or creator. Instead, it emphasizes the importance of personal responsibility and self-awareness in achieving enlightenment. The ultimate goal of Buddhism is to reach a state of Nirvana, which is a state of complete liberation from suffering and the cycle of rebirth. Buddhism has spread throughout Asia and the world, with different schools and traditions developing over time. Some of the major schools of Buddhism include Theravada, Mahayana, and Vajrayana. Each of these schools has its own unique practices and beliefs, but they all share a common emphasis on the importance of meditation, mindfulness, and compassion. One of the key teachings of Buddhism is the concept of impermanence, which holds that all things are constantly changing and that attachment to things that are impermanent leads to suffering. This idea is closely related to the Buddhist concept of non-attachment, which emphasizes the importance of letting go of desires and attachments in order to achieve inner peace and enlightenment. Buddhism has had a profound impact on the world, influencing art, literature, philosophy, and culture. It has also played a significant role in shaping the spiritual and religious landscape of Asia and beyond. Today, Buddhism continues to be practiced by millions of people around the world, with a growing number of Westerners embracing its teachings and practices.",
+            "qae_pairs": [
+                {
+                    "context": "Buddhism is a religion and philosophy that originated in ancient India around the 5th century BCE. It is based on the teachings of Siddhartha Gautama, who is also known as the Buddha or the \"Enlightened One.\"",
+                    "question": "Who is the founder of Buddhism?",
+                    "answer": "Siddhartha Gautama.",
+                    "explanation": "The founder of Buddhism is Siddhartha Gautama, also known as the Buddha or the \"Enlightened One,\" as stated in the passage."
+                },
+                {
+                    "context": "Buddhism is a religion and philosophy that originated in ancient India around the 5th century BCE. It is based on the teachings of Siddhartha Gautama, who is also known as the Buddha or the \"Enlightened One.\"",
+                    "question": "In which century did Buddhism originate in ancient India?",
+                    "answer": "5th century BCE.",
+                    "explanation": "Buddhism originated in ancient India in the 5h century BCE, based on the teachings of Siddhartha Gautama, also known as the Buddha or the \"Enlightened One.\""
+                },
+                {
+                    "context": "Buddhism has spread throughout Asia and the world, with different schools and traditions developing over time. Some of the major schools of Buddhism include Theravada, Mahayana, and Vajrayana.",
+                    "question": "What is one of the major schools of Buddhism?",
+                    "answer": "Theravada.",
+                    "explanation": "The major school of Buddhism mentioned in the passage is Theravada."
+                },
+                {
+                    "context": "It has also played a significant role in shaping the spiritual and religious landscape of Asia and beyond. Today, Buddhism continues to be practiced by millions of people around the world, with a growing number of Westerners embracing its teachings and practices.",
+                    "question": "When is Buddhism still being practiced by millions of people around the world?",
+                    "answer": "Today.",
+                    "explanation": "The passage states that Buddhism is still being practiced by millions of people around the world today."
+                }
+            ],
+            "hops": [
+                "Buddhism"
+            ]
+        },
+        "Judaism": {
+            "term": "Judaism",
+            "passage": "Judaism is an Abrahamic religion that originated in the Middle East over 3,500 years ago. It is one of the oldest monotheistic religions in the world, and its followers are known as Jews. Judaism is based on the belief in one God who created the universe and continues to be involved in the world. The Jewish holy book is the Torah, which contains the first five books of the Hebrew Bible. Judaism is a religion that places great emphasis on the study of the Torah and the Talmud, which are the central texts of Jewish law and tradition. Jews believe that the Torah was given to Moses by God on Mount Sinai, and that it contains the laws and teachings that guide Jewish life. The Talmud is a collection of commentaries and discussions on the Torah, and it is considered to be the most important text in Jewish tradition after the Torah itself. Judaism has a rich history and culture that has been shaped by its interactions with other religions and cultures over the centuries. Jews have lived in many different parts of the world, and their experiences have been shaped by the societies in which they have lived. Despite this diversity, there are certain core beliefs and practices that are shared by Jews around the world. One of the most important beliefs in Judaism is the idea of covenant, which is the special relationship between God and the Jewish people. Jews believe that God chose them to be his special people, and that they have a responsibility to follow his laws and teachings. This covenant is symbolized by the practice of circumcision, which is performed on Jewish boys when they are eight days old. Judaism also places great emphasis on the importance of community and family. Jews gather together in synagogues to pray and study, and they celebrate holidays and festivals together as a community. Family is also very important in Jewish tradition, and many of the rituals and practices of Judaism are centered around the family. Judaism has had a profound impact on the world, and its teachings have influenced many other religions and cultures. The Jewish concept of monotheism, for example, has been adopted by Christianity and Islam, and the Jewish emphasis on social justice has inspired many movements for social change. Today, there are approximately 14 million Jews around the world, and Judaism continues to be a vibrant and dynamic religion that is constantly evolving and adapting to new challenges and opportunities.",
+            "qae_pairs": [
+                {
+                    "context": "Judaism is a religion that places great emphasis on the study of the Torah and the Talmud, which are the central texts of Jewish law and tradition. Jews believe that the Torah was given to Moses by God on Mount Sinai, and that it contains the laws and teachings that guide Jewish life.",
+                    "question": "Who is believed to have received the Torah from God on Mount Sinai in Judaism?",
+                    "answer": "Moses.",
+                    "explanation": "In Judaism, the person who is believed to have received the Torah from God on Mount Sinai is Moses."
+                },
+                {
+                    "context": "Judaism is a religion that places great emphasis on the study of the Torah and the Talmud, which are the central texts of Jewish law and tradition. Jews believe that the Torah was given to Moses by God on Mount Sinai, and that it contains the laws and teachings that guide Jewish life.",
+                    "question": "What is the central text of Jewish law and tradition, alongside the Torah?",
+                    "answer": "The Talmud.",
+                    "explanation": "The central text of Jewish law and tradition, alongside the Torah, is the Talmud, which is emphasized greatly in Judaism."
+                },
+                {
+                    "context": "Judaism is a religion that places great emphasis on the study of the Torah and the Talmud, which are the central texts of Jewish law and tradition. Jews believe that the Torah was given to Moses by God on Mount Sinai, and that it contains the laws and teachings that guide Jewish life.",
+                    "question": "Where did Jews believe that God gave the Torah to Moses?",
+                    "answer": "Mount Sinai.",
+                    "explanation": "Jews believed that God gave the Torah to Moses on Mount Sinai."
+                }
+            ],
+            "hops": [
+                "Judaism"
+            ]
+        },
+        "Sikhism": {
+            "term": "Sikhism",
+            "passage": "Sikhism is a monotheistic religion that originated in the Punjab region of India during the 15th century. It was founded by Guru Nanak, who was born in 1469 and spent his life teaching the principles of Sikhism. The religion is based on the belief in one God, who is the creator of the universe and all living beings. Sikhism is a unique religion that combines elements of Hinduism and Islam, as well as its own distinct beliefs and practices. The religion emphasizes the importance of living a moral and ethical life, and it teaches that all people are equal in the eyes of God. One of the most important aspects of Sikhism is the concept of the Guru. The word \"guru\" means \"teacher,\" and in Sikhism, the Guru is seen as a spiritual guide who can help individuals achieve enlightenment and connect with God. There have been ten Gurus in Sikhism, with Guru Nanak being the first and Guru Gobind Singh being the last. Sikhism also places a strong emphasis on the importance of community and service. Sikhs are encouraged to serve others and to work towards the betterment of society. This is reflected in the practice of langar, which is a free community meal that is served in Sikh temples to anyone who wishes to partake. Another important aspect of Sikhism is the practice of meditation and prayer. Sikhs are encouraged to meditate on the name of God and to recite prayers from the Sikh holy book, the Guru Granth Sahib. The religion also places a strong emphasis on the importance of living a simple and humble life, and on the need to avoid materialism and greed. Sikhism has faced many challenges throughout its history, including persecution and discrimination. However, the religion has continued to thrive and grow, with millions of followers around the world. Today, Sikhism is recognized as one of the world's major religions, and it continues to inspire people with its message of love, compassion, and service.",
+            "qae_pairs": [
+                {
+                    "context": "Sikhism is a monotheistic religion that originated in the Punjab region of India during the 15th century. It was founded by Guru Nanak, who was born in 1469 and spent his life teaching the principles of Sikhism.",
+                    "question": "During which century did Sikhism originate in the Punjab region of India?",
+                    "answer": "15th century.",
+                    "explanation": "Sikhism originated in the Punjab region of India during the 15 century, as stated in the passage."
+                },
+                {
+                    "context": "The word \"guru\" means \"teacher,\" and in Sikhism, the Guru is seen as a spiritual guide who can help individuals achieve enlightenment and connect with God. There have been ten Gurus in Sikhism, with Guru Nanak being the first and Guru Gobind Singh being the last.",
+                    "question": "Who was the first Guru in Sikhism?",
+                    "answer": "Guru Nanak.",
+                    "explanation": "The first Guru in Sikhism was Guru Nanak, as stated in the passage which explains that there have been ten Gurus in Sikhism, with Guru Nanak being the first."
+                },
+                {
+                    "context": "This is reflected in the practice of langar, which is a free community meal that is served in Sikh temples to anyone who wishes to partake. Another important aspect of Sikhism is the practice of meditation and prayer.",
+                    "question": "What is the name of the free community meal served in Sikh temples to anyone who wishes to partake?",
+                    "answer": "Langar.",
+                    "explanation": "The free community meal served in Sikh temples to anyone who wishes to partake is called Langar, as reflected in the practice of Sikhism."
+                }
+            ],
+            "hops": [
+                "Sikhism"
+            ]
+        },
+        "Taoism": {
+            "term": "Taoism",
+            "passage": "Taoism, also known as Daoism, is a philosophical and religious tradition that originated in China around the 4th century BCE. It is based on the teachings of Laozi, an ancient Chinese philosopher, and the Tao Te Ching, a text that is considered to be the central scripture of Taoism. Taoism emphasizes the importance of living in harmony with the Tao, which is often translated as \"the way\" or \"the path.\" The Tao is seen as the natural order of the universe, and Taoist teachings emphasize the importance of following this natural order rather than trying to impose one's own will on the world. One of the key concepts in Taoism is wu wei, which can be translated as \"non-action\" or \"effortless action.\" This concept emphasizes the importance of letting things happen naturally, rather than trying to force them to happen. Taoists believe that by following the Tao and practicing wu wei, individuals can achieve a state of harmony and balance in their lives. Taoism also emphasizes the importance of simplicity, humility, and compassion. Taoist teachings encourage individuals to live a simple and humble life, and to treat others with kindness and compassion. In addition to its philosophical teachings, Taoism also includes a number of religious practices and rituals. These practices include meditation, qigong (a form of exercise that combines movement and breathing), and the use of talismans and other objects to ward off evil spirits. Taoism has had a significant influence on Chinese culture and society, and it continues to be an important spiritual tradition in China and around the world. Today, there are an estimated 20 million Taoists worldwide, with the majority living in China and Taiwan.",
+            "qae_pairs": [
+                {
+                    "context": "Taoism, also known as Daoism, is a philosophical and religious tradition that originated in China around the 4th century BCE. It is based on the teachings of Laozi, an ancient Chinese philosopher, and the Tao Te Ching, a text that is considered to be the central scripture of Taoism.",
+                    "question": "Who is the ancient Chinese philosopher on whose teachings Taoism is based?",
+                    "answer": "Laozi.",
+                    "explanation": "Taoism is based on the teachings of an ancient Chinese philosopher named Laozi."
+                }
+            ],
+            "hops": [
+                "Taoism"
+            ]
+        },
+        "Confucianism": {
+            "term": "Confucianism",
+            "passage": "Confucianism is a philosophical and ethical system that originated in China during the Spring and Autumn period (771–476 BCE) and developed into a major religion during the Han dynasty (206 BCE – 220 CE). It is centered on the teachings of Confucius, a Chinese philosopher and politician who lived from 551 to 479 BCE. Confucianism emphasizes the importance of personal and governmental morality, justice, sincerity, and the cultivation of knowledge and virtue. Confucianism also places a strong emphasis on ancestor worship and filial piety, which is the respect and reverence for one's parents and ancestors. The core values of Confucianism are known as the \"Five Virtues,\" which include benevolence, righteousness, propriety, wisdom, and faithfulness. These virtues are seen as essential for creating a harmonious society and promoting the well-being of individuals. Confucianism has had a profound impact on Chinese culture and society, and has also influenced the development of other East Asian cultures, including those of Korea, Japan, and Vietnam. Confucianism has been a major force in shaping Chinese political and social institutions, and has played a significant role in the development of Chinese literature, art, and philosophy. Despite its influence, Confucianism has also faced criticism and opposition throughout its history. During the Cultural Revolution in China, Confucianism was attacked as a symbol of the old order and was suppressed by the government. However, in recent years, there has been a renewed interest in Confucianism, both in China and around the world, as a source of wisdom and guidance for individuals and societies facing complex challenges.",
+            "qae_pairs": [
+                {
+                    "context": "Confucianism is a philosophical and ethical system that originated in China during the Spring and Autumn period (771–476 BCE) and developed into a major religion during the Han dynasty (206 BCE – 220 CE). It is centered on the teachings of Confucius, a Chinese philosopher and politician who lived from 551 to 479 BCE.",
+                    "question": "Who is the Chinese philosopher and politician that the teachings of Confucianism are centered on?",
+                    "answer": "Confucius.",
+                    "explanation": "The teachings of Confucianism are centered on a Chinese philosopher and politician who lived from 551 to 479 BCE, named Confucius."
+                },
+                {
+                    "context": "Confucianism has had a profound impact on Chinese culture and society, and has also influenced the development of other East Asian cultures, including those of Korea, Japan, and Vietnam. Confucianism has been a major force in shaping Chinese political and social institutions, and has played a significant role in the development of Chinese literature, art, and philosophy.",
+                    "question": "Which East Asian culture has been influenced by Confucianism, along with China, Korea, and Japan?",
+                    "answer": "Vietnam.",
+                    "explanation": "The passage states that Confucianism has influenced the development of other East Asian cultures, including those of Korea, Japan, and Vietnam, in addition to its profound impact on Chinese culture and society. Therefore, Vietnam has been influenced by Confucianism."
+                },
+                {
+                    "context": "However, in recent years, there has been a renewed interest in Confucianism, both in China and around the world, as a source of wisdom and guidance for individuals and societies facing complex challenges. However, in recent years, there has been a renewed interest in Confucianism, both in China and around the world, as a source of wisdom and guidance for individuals and societies facing complex challenges.",
+                    "question": "What period of time has seen a renewed interest in Confucianism both in China and around the world?",
+                    "answer": "Recent years.",
+                    "explanation": "Confucianism has experienced a renewed interest in recent years, both in China and globally."
+                }
+            ],
+            "hops": [
+                "Confucianism"
+            ]
+        },
+        "Shintoism": {
+            "term": "Shintoism",
+            "passage": "Shintoism, also known as Shinto, is a traditional religion of Japan that focuses on the worship of spirits or kami. It is one of the oldest religions in the world, with its roots dating back to prehistoric times. The word \"Shinto\" means \"the way of the gods\" in Japanese. Shintoism is a polytheistic religion, meaning that it recognizes the existence of many gods and goddesses. These deities are believed to inhabit natural objects and phenomena, such as mountains, rivers, trees, and animals. They are also associated with human qualities and emotions, such as love, courage, and wisdom. The central belief of Shintoism is that everything in the world is imbued with kami, or divine energy. This includes not only natural objects and phenomena, but also human beings and man-made objects. Shintoists believe that by living in harmony with the kami, they can achieve a state of spiritual purity and enlightenment. Shintoism has no formal scripture or religious text, but instead relies on oral tradition and ritual practices. These practices include purification rituals, offerings to the kami, and festivals and ceremonies that celebrate the changing of the seasons and other important events. Shintoism has had a significant impact on Japanese culture and society. It has influenced art, literature, and architecture, and has played a role in shaping the country's political and social institutions. Today, Shintoism is still practiced by millions of people in Japan and around the world, and continues to be an important part of Japanese identity and culture.",
+            "qae_pairs": [
+                {
+                    "context": "Shintoism, also known as Shinto, is a traditional religion of Japan that focuses on the worship of spirits or kami. It is one of the oldest religions in the world, with its roots dating back to prehistoric times.",
+                    "question": "What country is the traditional home of Shintoism?",
+                    "answer": "Japan.",
+                    "explanation": "The traditional religion of Japan that worships spirits or kami is known as Shintoism, making Japan its home country."
+                },
+                {
+                    "context": "Shintoists believe that by living in harmony with the kami, they can achieve a state of spiritual purity and enlightenment. Shintoism has no formal scripture or religious text, but instead relies on oral tradition and ritual practices.",
+                    "question": "Who believes that by living in harmony with the kami, they can achieve a state of spiritual purity and enlightenment?",
+                    "answer": "Shintoists.",
+                    "explanation": "The belief that living in harmony with the kami leads to spiritual purity and enlightenment is held by followers of Shintoism."
+                },
+                {
+                    "context": "It has influenced art, literature, and architecture, and has played a role in shaping the country's political and social institutions. Today, Shintoism is still practiced by millions of people in Japan and around the world, and continues to be an important part of Japanese identity and culture.",
+                    "question": "When is Shintoism still practiced by millions of people in Japan and around the world?",
+                    "answer": "Today.",
+                    "explanation": "Shintoism is currently practiced by millions of people in Japan and around the world."
+                }
+            ],
+            "hops": [
+                "Shintoism"
+            ]
+        }
+    },
+    "second_hops": {
+        "Jesus Christ.": {
+            "term": "Jesus Christ.",
+            "passage": "Jesus Christ, also known as Jesus of Nazareth or simply Jesus, is the central figure of Christianity and one of the most important figures in world history. According to the Christian faith, Jesus was born to the Virgin Mary in Bethlehem around 4 BC. He grew up in Nazareth and began his public ministry around the age of 30, preaching and performing miracles throughout the region of Galilee. Jesus' teachings emphasized love, compassion, and forgiveness, and he attracted a large following of disciples and supporters. However, his message also challenged the religious and political authorities of his time, and he was eventually arrested, tried, and sentenced to death by crucifixion. According to Christian belief, Jesus' death and resurrection were a pivotal moment in human history, offering salvation and eternal life to all who believe in him. His teachings and example continue to inspire millions of people around the world, and his life and legacy have had a profound impact on art, literature, philosophy, and culture.",
+            "qae_pairs": [
+                {
+                    "context": "Jesus Christ, also known as Jesus of Nazareth or simply Jesus, is the central figure of Christianity and one of the most important figures in world history. According to the Christian faith, Jesus was born to the Virgin Mary in Bethlehem around 4 BC.",
+                    "question": "In which city was Jesus Christ born according to historical records?",
+                    "answer": "Bethlehem.",
+                    "explanation": "Jesus Christ was born in Bethlehem according to the information provided in the passage."
+                },
+                {
+                    "context": "Jesus Christ, also known as Jesus of Nazareth or simply Jesus, is the central figure of Christianity and one of the most important figures in world history. According to the Christian faith, Jesus was born to the Virgin Mary in Bethlehem around 4 BC.",
+                    "question": "Who was Jesus Christ's mother?",
+                    "answer": "Virgin Mary.",
+                    "explanation": "Jesus Christ's mother was the Virgin Mary."
+                },
+                {
+                    "context": "He grew up in Nazareth and began his public ministry around the age of 30, preaching and performing miracles throughout the region of Galilee. Jesus' teachings emphasized love, compassion, and forgiveness, and he attracted a large following of disciples and supporters.",
+                    "question": "In which region did Jesus Christ perform miracles and preach during his public ministry?",
+                    "answer": "Galilee.",
+                    "explanation": "Jesus Christ performed miracles and preached in the region of Galilee during his public ministry."
+                }
+            ],
+            "hops": [
+                "Christianity",
+                "Jesus Christ."
+            ]
+        },
+        "Jesus.": {
+            "term": "Jesus.",
+            "passage": "Jesus, also known as Jesus of Nazareth or Jesus Christ, is the central figure of Christianity and is widely regarded as one of the most important figures in human history. He is believed by Christians to be the Son of God and the savior of humanity. According to the New Testament, Jesus was born in Bethlehem to Mary and Joseph, and was baptized by John the Baptist. He began his public ministry at the age of 30, preaching and performing miracles throughout the region of Galilee. Jesus' teachings emphasized love, forgiveness, and compassion, and he often spoke in parables to illustrate his points. He also challenged the religious authorities of his time and was eventually arrested, tried, and sentenced to death by crucifixion. Christians believe that Jesus rose from the dead three days after his crucifixion, and that his resurrection is proof of his divinity and his power over death. Jesus' life and teachings have had a profound impact on Western civilization, and his message of love and redemption continues to inspire millions of people around the world.",
+            "qae_pairs": [
+                {
+                    "context": "Jesus, also known as Jesus of Nazareth or Jesus Christ, is the central figure of Christianity and is widely regarded as one of the most important figures in human history. He is believed by Christians to be the Son of God and the savior of humanity.",
+                    "question": "In which town was Jesus of Nazareth born?",
+                    "answer": "Nazareth.",
+                    "explanation": "Jesus of Nazareth was born in the town of Nazareth."
+                },
+                {
+                    "context": "According to the New Testament, Jesus was born in Bethlehem to Mary and Joseph, and was baptized by John the Baptist. He began his public ministry at the age of 30, preaching and performing miracles throughout the region of Galilee.",
+                    "question": "Who was the earthly father of Jesus?",
+                    "answer": "Joseph.",
+                    "explanation": "The earthly father of Jesus was Joseph, as stated in the New Testament."
+                },
+                {
+                    "context": "Christians believe that Jesus rose from the dead three days after his crucifixion, and that his resurrection is proof of his divinity and his power over death. Jesus' life and teachings have had a profound impact on Western civilization, and his message of love and redemption continues to inspire millions of people around the world.",
+                    "question": "How long after his crucifixion did Jesus rise from the dead?",
+                    "answer": "Three days.",
+                    "explanation": "Jesus rose from the dead three days after his crucifixion, as believed by Christians."
+                }
+            ],
+            "hops": [
+                "Christianity",
+                "Jesus."
+            ]
+        },
+        "Muhammad.": {
+            "term": "Muhammad.",
+            "passage": "Muhammad was an Arab religious, social, and political leader and the founder of Islam. According to Islamic doctrine, he was a prophet, sent to preach and confirm the monotheistic teachings of Adam, Abraham, Moses, Jesus, and other prophets. He is believed by Muslims to be the final prophet of God in all the main branches of Islam, though some modern denominations diverge from this belief. Muhammad united Arabia into a single Muslim polity, with the Quran as well as his teachings and practices forming the basis of Islamic religious belief. He is referred to as the \"Messenger of God\" or the \"Prophet\" by Muslims, and was also known by non-Muslims for his political and military leadership. Muhammad successfully led battles against the Meccan forces, and later conquered Mecca in 630 CE. He died in 632 CE, and his teachings continued to spread through his followers, who compiled his revelations into the Quran. Today, Muhammad is widely regarded as one of the most influential figures in human history, and his teachings continue to shape the beliefs and practices of over a billion Muslims worldwide.",
+            "qae_pairs": [
+                {
+                    "context": "He is referred to as the \"Messenger of God\" or the \"Prophet\" by Muslims, and was also known by non-Muslims for his political and military leadership. Muhammad successfully led battles against the Meccan forces, and later conquered Mecca in 630 CE.",
+                    "question": "What city did Muhammad conquer in 630 CE?",
+                    "answer": "Mecca.",
+                    "explanation": "Muhammad conquered Mecca in 630 CE, as stated in the passage."
+                },
+                {
+                    "context": "He died in 632 CE, and his teachings continued to spread through his followers, who compiled his revelations into the Quran. Today, Muhammad is widely regarded as one of the most influential figures in human history, and his teachings continue to shape the beliefs and practices of over a billion Muslims worldwide.",
+                    "question": "In what year did Muhammad pass away?",
+                    "answer": "632 CE.",
+                    "explanation": "Muhammad died in the year 632 CE, as stated in the passage."
+                }
+            ],
+            "hops": [
+                "Islam",
+                "Muhammad."
+            ]
+        },
+        "Mecca.": {
+            "term": "Mecca.",
+            "passage": "Mecca is a city in the Hejazi region of Saudi Arabia. It is the holiest city in Islam and a pilgrimage site for millions of Muslims every year. The city is located in a valley surrounded by mountains and is home to the Kaaba, a cube-shaped structure that is the most sacred site in Islam. Muslims believe that the Kaaba was built by the prophet Ibrahim and his son Ismail as a house of worship for God. The city is also home to the Masjid al-Haram, the largest mosque in the world, which surrounds the Kaaba. The mosque can accommodate up to four million worshippers during the annual Hajj pilgrimage. Mecca is also a commercial and cultural center, with a bustling market and a rich history dating back to ancient times. Despite its importance to Islam, non-Muslims are not allowed to enter the city.",
+            "qae_pairs": [
+                {
+                    "context": "Mecca is a city in the Hejazi region of Saudi Arabia. It is the holiest city in Islam and a pilgrimage site for millions of Muslims every year.",
+                    "question": "In which country is the city of Mecca located?",
+                    "answer": "Saudi Arabia.",
+                    "explanation": "The city of Mecca is located in Saudi Arabia, as stated in the passage which describes it as a city in the Hejazi region of the country and the holiest city in Islam."
+                },
+                {
+                    "context": "The city is located in a valley surrounded by mountains and is home to the Kaaba, a cube-shaped structure that is the most sacred site in Islam. Muslims believe that the Kaaba was built by the prophet Ibrahim and his son Ismail as a house of worship for God.",
+                    "question": "What is the cube-shaped structure that is considered the most sacred site in Mecca?",
+                    "answer": "The Kaaba.",
+                    "explanation": "The cube-shaped structure that is considered the most sacred site in Mecca is called the Kaaba, which was built by the prophet Ibrahim and his son Ismail as a house of worship for God."
+                }
+            ],
+            "hops": [
+                "Islam",
+                "Mecca."
+            ]
+        },
+        "Shiva.": {
+            "term": "Shiva.",
+            "passage": "Shiva is one of the principal deities of Hinduism. He is the supreme god within Shaivism, one of the three most influential denominations in contemporary Hinduism. He is one of the five primary forms of God in the Smarta tradition, and \"the Destroyer\" or \"the Transformer\" among the Trimurti, the Hindu Trinity of the primary aspects of the divine. At the highest level, Shiva is regarded as formless, limitless, transcendent, and unchanging absolute Brahman, and the primal Atman (soul, self) of the universe. Shiva has many benevolent and fearsome depictions. In benevolent aspects, he is depicted as an omniscient Yogi who lives an ascetic life on Mount Kailash, as well as a householder with wife Parvati and his two children, Ganesha and Kartikeya. In his fierce aspects, he is often depicted slaying demons. Shiva is also known as Adiyogi Shiva, regarded as the patron god of yoga, meditation, and arts.",
+            "qae_pairs": [
+                {
+                    "context": "He is one of the five primary forms of God in the Smarta tradition, and \"the Destroyer\" or \"the Transformer\" among the Trimurti, the Hindu Trinity of the primary aspects of the divine. At the highest level, Shiva is regarded as formless, limitless, transcendent, and unchanging absolute Brahman, and the primal Atman (soul, self) of the universe.",
+                    "question": "What is the name of the Hindu Trinity that includes Shiva as \"the Destroyer\" or \"the Transformer\"?",
+                    "answer": "Trimurti.",
+                    "explanation": "The Hindu Trinity that includes Shiva as \"the Destroyer\" or \"the Transformer\" is called Trimurti, as stated in the passage."
+                }
+            ],
+            "hops": [
+                "Hinduism",
+                "Shiva."
+            ]
+        },
+        "Ganesha.": {
+            "term": "Ganesha.",
+            "passage": "Ganesha is one of the best-known and most worshipped deities in the Hindu pantheon. His image is found throughout India, Sri Lanka, Thailand, and Nepal. Hindu sects worship him regardless of affiliations. Devotion to Ganesha is widely diffused and extends to Jains and Buddhists. Although he is known by many attributes, Ganesha's elephant head makes him easy to identify. Ganesha is widely revered as the remover of obstacles, the patron of arts and sciences and the deva of intellect and wisdom. As the god of beginnings, he is honoured at the start of rites and ceremonies. Ganesha is also invoked as patron of letters and learning during writing sessions. Several texts relate mythological anecdotes associated with his birth and exploits and explain his distinct iconography. Ganesha emerged as a distinct deity in the 4th and 5th centuries CE, during the Gupta period, although he inherited traits from Vedic and pre-Vedic precursors. He was formally included among the five primary deities of Smartism (a Hindu denomination) in the 9th century. A sect of devotees called the Ganapatya arose, who identified Ganesha as the supreme deity. The principal scriptures dedicated to Ganesha are the Ganesha Purana, the Mudgala Purana, and the Ganapati Atharvashirsa.",
+            "qae_pairs": [
+                {
+                    "context": "He was formally included among the five primary deities of Smartism (a Hindu denomination) in the 9th century. A sect of devotees called the Ganapatya arose, who identified Ganesha as the supreme deity.",
+                    "question": "In what century was Ganesha formally included among the five primary deities of Smartism?",
+                    "answer": "9th century.",
+                    "explanation": "Ganesha was included among the five primary deities of Smartism in the 9h century, as stated in the passage."
+                },
+                {
+                    "context": "He was formally included among the five primary deities of Smartism (a Hindu denomination) in the 9th century. A sect of devotees called the Ganapatya arose, who identified Ganesha as the supreme deity.",
+                    "question": "What is the name of the sect of devotees who consider Ganesha as the supreme deity?",
+                    "answer": "Ganapatya.",
+                    "explanation": "The sect of devotees who identify Ganesha as the supreme deity is called Ganapatya, as mentioned in the passage."
+                }
+            ],
+            "hops": [
+                "Hinduism",
+                "Ganesha."
+            ]
+        },
+        "Hanuman.": {
+            "term": "Hanuman.",
+            "passage": "Hanuman is a Hindu god and a central figure in the Indian epic Ramayana. He is depicted as a monkey-like humanoid with incredible strength and agility. Hanuman is known for his unwavering devotion to Lord Rama, the hero of the Ramayana, and is considered a symbol of loyalty, courage, and selflessness. According to Hindu mythology, Hanuman was born to Anjana, a female monkey, and Kesari, a male monkey. He was blessed with divine powers by various gods, including Lord Shiva and Lord Vishnu. Hanuman played a crucial role in the Ramayana, helping Lord Rama rescue his wife Sita from the demon king Ravana. He is also believed to have played a key role in the Mahabharata, another important Hindu epic. Hanuman is worshipped by millions of Hindus around the world, and his image can be found in temples, homes, and public spaces throughout India.",
+            "qae_pairs": [
+                {
+                    "context": "Hanuman is a Hindu god and a central figure in the Indian epic Ramayana. He is depicted as a monkey-like humanoid with incredible strength and agility.",
+                    "question": "In which Indian epic is Hanuman depicted as a monkey-like humanoid with incredible strength and agility?",
+                    "answer": "Ramayana.",
+                    "explanation": "Hanuman is depicted as a monkey-like humanoid with incredible strength and agility in the Indian epic Ramayana."
+                },
+                {
+                    "context": "Hanuman is known for his unwavering devotion to Lord Rama, the hero of the Ramayana, and is considered a symbol of loyalty, courage, and selflessness. According to Hindu mythology, Hanuman was born to Anjana, a female monkey, and Kesari, a male monkey.",
+                    "question": "Who is the father of Hanuman?",
+                    "answer": "Kesari.",
+                    "explanation": "Hanuman's father is Kesari, as stated in the passage about his birth."
+                },
+                {
+                    "context": "He was blessed with divine powers by various gods, including Lord Shiva and Lord Vishnu. Hanuman played a crucial role in the Ramayana, helping Lord Rama rescue his wife Sita from the demon king Ravana.",
+                    "question": "Who did Hanuman help Lord Rama rescue his wife Sita from?",
+                    "answer": "Ravana.",
+                    "explanation": "Hanuman played a crucial role in helping Lord Rama rescue his wife Sita from the demon king Ravana, as mentioned in the passage. Therefore, the answer is Ravana."
+                },
+                {
+                    "context": "He is also believed to have played a key role in the Mahabharata, another important Hindu epic. Hanuman is worshipped by millions of Hindus around the world, and his image can be found in temples, homes, and public spaces throughout India.",
+                    "question": "In which country can Hanuman's image be found in temples, homes, and public spaces?",
+                    "answer": "India.",
+                    "explanation": "Hanuman's image can be found in temples, homes, and public spaces throughout India."
+                },
+                {
+                    "context": "He is also believed to have played a key role in the Mahabharata, another important Hindu epic. Hanuman is worshipped by millions of Hindus around the world, and his image can be found in temples, homes, and public spaces throughout India.",
+                    "question": "In which important Hindu epic did Hanuman play a key role?",
+                    "answer": "Mahabharata.",
+                    "explanation": "Hanuman played a key role in the Mahabharata, an important Hindu epic."
+                }
+            ],
+            "hops": [
+                "Hinduism",
+                "Hanuman."
+            ]
+        },
+        "Modern era.": {
+            "term": "Modern era.",
+            "passage": "The Modern era, sometimes referred to as the Modern period or Modernity, is the period of history that began in the late 18th century and continues to the present day. It is characterized by a shift in thinking and cultural values, as well as significant technological advancements and social changes. The Modern era is often associated with the Enlightenment, a philosophical movement that emphasized reason, individualism, and progress. This period saw the rise of industrialization, urbanization, and globalization, as well as the emergence of new political ideologies such as liberalism, socialism, and nationalism. The Modern era has also been marked by significant cultural movements, including Romanticism, Realism, and Modernism, which have had a profound impact on art, literature, and music. Today, the Modern era continues to shape our world, as we grapple with issues such as climate change, globalization, and the impact of technology on society.",
+            "qae_pairs": [
+                {
+                    "context": "The Modern era, sometimes referred to as the Modern period or Modernity, is the period of history that began in the late 18th century and continues to the present day. It is characterized by a shift in thinking and cultural values, as well as significant technological advancements and social changes.",
+                    "question": "In what century did the Modern era begin?",
+                    "answer": "Late 18th century.",
+                    "explanation": "The Modern era began in the late 18 century, as stated in the passage."
+                }
+            ],
+            "hops": [
+                "Hinduism",
+                "Modern era."
+            ]
+        },
+        "North America.": {
+            "term": "North America.",
+            "passage": "North America is a continent entirely within the Northern Hemisphere and almost all within the Western Hemisphere. It can also be described as a northern subcontinent of the Americas, or America, in models that use fewer than seven continents. It is bordered to the north by the Arctic Ocean, to the east by the Atlantic Ocean, to the southeast by South America and the Caribbean Sea, and to the west and south by the Pacific Ocean. Because it is on the North American Tectonic Plate, Greenland is included as part of North America geographically.",
+            "qae_pairs": [
+                {
+                    "context": "It is bordered to the north by the Arctic Ocean, to the east by the Atlantic Ocean, to the southeast by South America and the Caribbean Sea, and to the west and south by the Pacific Ocean. Because it is on the North American Tectonic Plate, Greenland is included as part of North America geographically.",
+                    "question": "What body of water borders North America to the west and south?",
+                    "answer": "The Pacific Ocean.",
+                    "explanation": "North America is bordered to the west and south by the Pacific Ocean."
+                },
+                {
+                    "context": "It is bordered to the north by the Arctic Ocean, to the east by the Atlantic Ocean, to the southeast by South America and the Caribbean Sea, and to the west and south by the Pacific Ocean. Because it is on the North American Tectonic Plate, Greenland is included as part of North America geographically.",
+                    "question": "What country is included as part of North America geographically due to its location on the North American Tectonic Plate?",
+                    "answer": "Greenland.",
+                    "explanation": "The country that is considered part of North America geographically is due to its location on the North American Tectonic Plate, and that country is Greenland."
+                },
+                {
+                    "context": "It is bordered to the north by the Arctic Ocean, to the east by the Atlantic Ocean, to the southeast by South America and the Caribbean Sea, and to the west and south by the Pacific Ocean. Because it is on the North American Tectonic Plate, Greenland is included as part of North America geographically.",
+                    "question": "What body of water borders North America to the north?",
+                    "answer": "Arctic Ocean.",
+                    "explanation": "North America is bordered to the north by the Arctic Ocean."
+                }
+            ],
+            "hops": [
+                "Hinduism",
+                "North America."
+            ]
+        },
+        "Europe.": {
+            "term": "Europe.",
+            "passage": "Europe is a continent located entirely in the Northern Hemisphere and mostly in the Eastern Hemisphere. It is bordered by the Arctic Ocean to the north, the Atlantic Ocean to the west, and the Mediterranean Sea to the south. It comprises the westernmost part of Eurasia. Since around 1850, Europe is most commonly considered to be separated from Asia by the watershed divides of the Ural and Caucasus Mountains, the Ural River, the Caspian and Black Seas, and the waterways of the Turkish Straits. Although the term \"continent\" implies physical geography, the land border is somewhat arbitrary and has been redefined several times since its first conception in classical antiquity. The division of Eurasia into two continents reflects East-West cultural, linguistic, and ethnic differences, some of which vary on a spectrum rather than with a sharp dividing line. The border does not follow political boundaries, with Turkey, Russia, and Kazakhstan being transcontinental countries. Europe covers about 10,180,000 square kilometres (3,930,000 sq mi), or 2% of the Earth's surface (6.8% of land area), making it the second smallest continent (using the seven-continent model). Politically, Europe is divided into about fifty sovereign states of which the Russian Federation is the largest and most populous, spanning 39% of the continent and comprising 15% of its population. Europe had a total population of about 741 million (about 11% of the world population) as of 2018.",
+            "qae_pairs": [
+                {
+                    "context": "Europe is a continent located entirely in the Northern Hemisphere and mostly in the Eastern Hemisphere. It is bordered by the Arctic Ocean to the north, the Atlantic Ocean to the west, and the Mediterranean Sea to the south.",
+                    "question": "What body of water borders Europe to the south?",
+                    "answer": "Mediterranean Sea.",
+                    "explanation": "Europe is situated in the Northern and Eastern Hemispheres and is surrounded by the Arctic Ocean to the north, the Atlantic Ocean to the west, and the Mediterranean Sea to the south. Therefore, the body of water that borders Europe to the south is the Mediterranean Sea."
+                },
+                {
+                    "context": "Europe is a continent located entirely in the Northern Hemisphere and mostly in the Eastern Hemisphere. It is bordered by the Arctic Ocean to the north, the Atlantic Ocean to the west, and the Mediterranean Sea to the south.",
+                    "question": "What body of water borders Europe to the west?",
+                    "answer": "Atlantic Ocean.",
+                    "explanation": "Europe is situated adjacent to the Atlantic Ocean on its western side."
+                },
+                {
+                    "context": "The border does not follow political boundaries, with Turkey, Russia, and Kazakhstan being transcontinental countries. Europe covers about 10,180,000 square kilometres (3,930,000 sq mi), or 2% of the Earth's surface (6.8% of land area), making it the second smallest continent (using the seven-continent model).",
+                    "question": "Which transcontinental country is located in both Europe and Asia?",
+                    "answer": "Turkey.",
+                    "explanation": "The country that is located in both Europe and Asia is known as a transcontinental country, and it is mentioned in the passage as being Turkey."
+                },
+                {
+                    "context": "Politically, Europe is divided into about fifty sovereign states of which the Russian Federation is the largest and most populous, spanning 39% of the continent and comprising 15% of its population. Europe had a total population of about 741 million (about 11% of the world population) as of 2018.",
+                    "question": "What year was the total population of Europe approximately 741 million?",
+                    "answer": "2018.",
+                    "explanation": "The total population of Europe was approximately 741 million in 2o18, as stated in the passage."
+                }
+            ],
+            "hops": [
+                "Hinduism",
+                "Europe."
+            ]
+        },
+        "Siddhartha Gautama.": {
+            "term": "Siddhartha Gautama.",
+            "passage": "Siddhartha Gautama, also known as the Buddha, was a spiritual leader and founder of Buddhism. He was born in the 5th century BCE in Lumbini, Nepal, and was raised in a wealthy family. Despite his privileged upbringing, Siddhartha was deeply troubled by the suffering he saw in the world, and at the age of 29, he left his comfortable life to seek enlightenment. For six years, Siddhartha practiced various forms of asceticism and meditation, but he was unable to find the answers he was seeking. Finally, he sat down under a Bodhi tree and vowed not to rise until he had achieved enlightenment. After several days of intense meditation, Siddhartha experienced a profound realization and became the Buddha, or \"enlightened one.\" For the rest of his life, the Buddha traveled throughout India, teaching his philosophy of the Four Noble Truths and the Eightfold Path. He emphasized the importance of compassion, mindfulness, and non-attachment, and his teachings continue to inspire millions of people around the world today.",
+            "qae_pairs": [
+                {
+                    "context": "Siddhartha Gautama, also known as the Buddha, was a spiritual leader and founder of Buddhism. He was born in the 5th century BCE in Lumbini, Nepal, and was raised in a wealthy family.",
+                    "question": "In what century was Siddhartha Gautama born?",
+                    "answer": "5th century BCE.",
+                    "explanation": "Siddhartha Gautama was born in the 5h century BCE, as stated in the passage about him."
+                },
+                {
+                    "context": "Despite his privileged upbringing, Siddhartha was deeply troubled by the suffering he saw in the world, and at the age of 29, he left his comfortable life to seek enlightenment. For six years, Siddhartha practiced various forms of asceticism and meditation, but he was unable to find the answers he was seeking.",
+                    "question": "How long did Siddhartha Gautama practice various forms of asceticism and meditation before he was able to find the answers he was seeking?",
+                    "answer": "Six years.",
+                    "explanation": "Siddhartha Gautama practiced various forms of asceticism and meditation for six years before he found the answers he was seeking."
+                },
+                {
+                    "context": "Finally, he sat down under a Bodhi tree and vowed not to rise until he had achieved enlightenment. After several days of intense meditation, Siddhartha experienced a profound realization and became the Buddha, or \"enlightened one.\"",
+                    "question": "How long did Siddhartha Gautama meditate before achieving enlightenment?",
+                    "answer": "Several days.",
+                    "explanation": "Siddhartha Gautama meditated for several days before achieving enlightenment, as stated in the passage."
+                },
+                {
+                    "context": "For the rest of his life, the Buddha traveled throughout India, teaching his philosophy of the Four Noble Truths and the Eightfold Path. He emphasized the importance of compassion, mindfulness, and non-attachment, and his teachings continue to inspire millions of people around the world today.",
+                    "question": "In which country did Siddhartha Gautama travel throughout to teach his philosophy of the Four Noble Truths and the Eightfold Path?",
+                    "answer": "India.",
+                    "explanation": "Siddhartha Gautama traveled throughout India to teach his philosophy of the Four Noble Truths and the Eightfold Path."
+                }
+            ],
+            "hops": [
+                "Buddhism",
+                "Siddhartha Gautama."
+            ]
+        },
+        "Theravada.": {
+            "term": "Theravada.",
+            "passage": "Theravada is one of the oldest surviving Buddhist schools, and is widely considered to be the most conservative and orthodox of the Buddhist schools. It is the dominant form of Buddhism in Sri Lanka, Myanmar, Thailand, Cambodia, and Laos. Theravada emphasizes the importance of personal insight and understanding of the Buddha's teachings, and places great emphasis on the monastic life. The ultimate goal of Theravada Buddhism is to achieve enlightenment and liberation from the cycle of rebirth, known as samsara. The path to enlightenment involves the cultivation of wisdom, ethical conduct, and mental discipline, and is achieved through the practice of meditation and the study of Buddhist scriptures. Theravada Buddhism has had a significant impact on the development of Buddhism in Southeast Asia, and has also influenced the development of other Buddhist schools, such as Zen and Tibetan Buddhism.",
+            "qae_pairs": [
+                {
+                    "context": "Theravada is one of the oldest surviving Buddhist schools, and is widely considered to be the most conservative and orthodox of the Buddhist schools. It is the dominant form of Buddhism in Sri Lanka, Myanmar, Thailand, Cambodia, and Laos.",
+                    "question": "What country is Theravada the dominant form of Buddhism in besides Sri Lanka, Thailand, Cambodia, and Laos?",
+                    "answer": "Myanmar.",
+                    "explanation": "Theravada is the dominant form of Buddhism in Myanmar, in addition to Sri Lanka, Thailand, Cambodia, and Laos."
+                },
+                {
+                    "context": "Theravada emphasizes the importance of personal insight and understanding of the Buddha's teachings, and places great emphasis on the monastic life. The ultimate goal of Theravada Buddhism is to achieve enlightenment and liberation from the cycle of rebirth, known as samsara.",
+                    "question": "What is the cycle of rebirth known as in Theravada?",
+                    "answer": "Samsara.",
+                    "explanation": "The cycle of rebirth in Theravada is referred to as samsara, as stated in the passage that explains the ultimate goal of Theravada Buddhism is to achieve enlightenment and liberation from samsara."
+                },
+                {
+                    "context": "Theravada emphasizes the importance of personal insight and understanding of the Buddha's teachings, and places great emphasis on the monastic life. The ultimate goal of Theravada Buddhism is to achieve enlightenment and liberation from the cycle of rebirth, known as samsara.",
+                    "question": "Who is the central figure in Theravada?",
+                    "answer": "The Buddha.",
+                    "explanation": "The central figure in Theravada is emphasized as the importance of personal insight and understanding of the Buddha's teachings, with the ultimate goal being to achieve enlightenment and liberation from the cycle of rebirth."
+                },
+                {
+                    "context": "The path to enlightenment involves the cultivation of wisdom, ethical conduct, and mental discipline, and is achieved through the practice of meditation and the study of Buddhist scriptures. Theravada Buddhism has had a significant impact on the development of Buddhism in Southeast Asia, and has also influenced the development of other Buddhist schools, such as Zen and Tibetan Buddhism.",
+                    "question": "In which region has Theravada Buddhism had a significant impact on its development?",
+                    "answer": "Southeast Asia.",
+                    "explanation": "Theravada Buddhism has had a significant impact on the development of Buddhism in Southeast Asia, as stated in the passage."
+                }
+            ],
+            "hops": [
+                "Buddhism",
+                "Theravada."
+            ]
+        },
+        "Moses.": {
+            "term": "Moses.",
+            "passage": "Moses was a prophet and leader of the Israelites during their journey from slavery in Egypt to freedom in the Promised Land. According to the Hebrew Bible, he was born in Egypt to a Hebrew mother who hid him from the Pharaoh's decree to kill all male Hebrew babies. He was found and adopted by the Pharaoh's daughter and raised in the royal court. As an adult, Moses fled Egypt after killing an Egyptian who was mistreating a Hebrew slave. He then spent 40 years in the wilderness, where he married and had children. One day, Moses encountered a burning bush that was not consumed by the flames. From the bush, God spoke to Moses and commanded him to return to Egypt and lead the Israelites out of slavery. Moses initially resisted, but eventually agreed to God's plan. He confronted the Pharaoh and demanded that he release the Israelites, but the Pharaoh refused. God then sent ten plagues upon Egypt, culminating in the death of the firstborn sons, which finally convinced the Pharaoh to let the Israelites go. Moses led the Israelites out of Egypt and into the wilderness, where they wandered for 40 years. During this time, Moses received the Ten Commandments from God on Mount Sinai and established the laws and rituals that would govern the Israelites' religious and social life. Despite his leadership, Moses was not without his flaws. He struggled with anger and impatience, and at times doubted God's plan. Moses died before the Israelites reached the Promised Land, but his legacy lived on. He is revered as a prophet and leader in Judaism, Christianity, and Islam, and his story has inspired countless works of art and literature.",
+            "qae_pairs": [
+                {
+                    "context": "Moses was a prophet and leader of the Israelites during their journey from slavery in Egypt to freedom in the Promised Land. According to the Hebrew Bible, he was born in Egypt to a Hebrew mother who hid him from the Pharaoh's decree to kill all male Hebrew babies.",
+                    "question": "In which country was Moses born according to the Hebrew Bible?",
+                    "answer": "Egypt.",
+                    "explanation": "Moses was born in Egypt, as stated in the Hebrew Bible."
+                },
+                {
+                    "context": "He then spent 40 years in the wilderness, where he married and had children. One day, Moses encountered a burning bush that was not consumed by the flames.",
+                    "question": "How long did Moses spend in the wilderness before encountering the burning bush?",
+                    "answer": "40 years.",
+                    "explanation": "Moses spent a period of 40 years in the wilderness before he came across the burning bush."
+                },
+                {
+                    "context": "Moses led the Israelites out of Egypt and into the wilderness, where they wandered for 40 years. During this time, Moses received the Ten Commandments from God on Mount Sinai and established the laws and rituals that would govern the Israelites' religious and social life.",
+                    "question": "Where did Moses receive the Ten Commandments from God?",
+                    "answer": "Mount Sinai.",
+                    "explanation": "Moses received the Ten Commandments from God on Mount Sinai during the time when he led the Israelites out of Egypt and into the wilderness."
+                }
+            ],
+            "hops": [
+                "Judaism",
+                "Moses."
+            ]
+        },
+        "The Talmud.": {
+            "term": "The Talmud.",
+            "passage": "The Talmud is a central text of Rabbinic Judaism, considered second to the Torah. It is a compilation of teachings, discussions, and commentary on Jewish law, ethics, customs, and history. The Talmud consists of two parts: the Mishnah, a collection of legal opinions and teachings compiled in the 2nd century CE, and the Gemara, a commentary on the Mishnah written in Aramaic and Hebrew. The Talmud is studied by Jews worldwide and is considered a source of guidance and inspiration for Jewish life and practice. It is also a subject of academic study and has influenced Jewish and non-Jewish thought and culture. The Talmud is a complex and multifaceted text, with layers of interpretation and meaning that have been explored and debated for centuries. Its teachings have shaped Jewish law and tradition and continue to inspire and challenge Jews today.",
+            "qae_pairs": [
+                {
+                    "context": "The Talmud consists of two parts: the Mishnah, a collection of legal opinions and teachings compiled in the 2nd century CE, and the Gemara, a commentary on the Mishnah written in Aramaic and Hebrew. The Talmud is studied by Jews worldwide and is considered a source of guidance and inspiration for Jewish life and practice.",
+                    "question": "What is the name of the collection of legal opinions and teachings compiled in the 2nd century CE that makes up one part of The Talmud?",
+                    "answer": "The Mishnah.",
+                    "explanation": "The collection of legal opinions and teachings compiled in the 2nd century CE that makes up one part of The Talmud is called the Mishnah."
+                }
+            ],
+            "hops": [
+                "Judaism",
+                "The Talmud."
+            ]
+        },
+        "Mount Sinai.": {
+            "term": "Mount Sinai.",
+            "passage": "Mount Sinai, also known as Mount Horeb, is a mountain in the Sinai Peninsula of Egypt that is sacred to the Abrahamic religions. According to the biblical account, it was on this mountain that Moses received the Ten Commandments from God. The mountain is also mentioned in the Quran, where it is referred to as \"Tur Sinai\". Mount Sinai is approximately 2,285 meters (7,497 feet) tall and is located in the southern part of the Sinai Peninsula. It is surrounded by rugged terrain and is accessible only by foot or camel. The mountain is a popular destination for pilgrims and tourists, who come to visit the monastery of Saint Catherine, which is located at the foot of the mountain. The monastery of Saint Catherine is one of the oldest Christian monasteries in the world and is a UNESCO World Heritage Site. It was built in the 6th century and is home to a collection of ancient manuscripts and icons. The monastery is also famous for its library, which contains over 3,000 manuscripts, including some of the oldest known copies of the Bible. In addition to its religious significance, Mount Sinai is also known for its stunning natural beauty. The mountain is surrounded by a desert landscape that is home to a variety of wildlife, including ibex, hyrax, and foxes. The mountain itself is made up of granite and is known for its distinctive red and pink hues. Overall, Mount Sinai is a place of great historical, religious, and natural significance. It continues to attract visitors from all over the world who come to experience its beauty and to connect with its rich spiritual heritage.",
+            "qae_pairs": [
+                {
+                    "context": "Mount Sinai, also known as Mount Horeb, is a mountain in the Sinai Peninsula of Egypt that is sacred to the Abrahamic religions. According to the biblical account, it was on this mountain that Moses received the Ten Commandments from God.",
+                    "question": "In which country is Mount Sinai located?",
+                    "answer": "Egypt.",
+                    "explanation": "Mount Sinai is located in the Sinai Peninsula of Egypt, as stated in the passage."
+                },
+                {
+                    "context": "Mount Sinai, also known as Mount Horeb, is a mountain in the Sinai Peninsula of Egypt that is sacred to the Abrahamic religions. According to the biblical account, it was on this mountain that Moses received the Ten Commandments from God.",
+                    "question": "What is another name for Mount Sinai that is mentioned in the Bible?",
+                    "answer": "Mount Horeb.",
+                    "explanation": "The biblical account mentions that Mount Sinai is also known as Mount Horeb."
+                },
+                {
+                    "context": "Mount Sinai, also known as Mount Horeb, is a mountain in the Sinai Peninsula of Egypt that is sacred to the Abrahamic religions. According to the biblical account, it was on this mountain that Moses received the Ten Commandments from God.",
+                    "question": "Who received the Ten Commandments on Mount Sinai according to the biblical account?",
+                    "answer": "Moses.",
+                    "explanation": "The biblical account states that the person who received the Ten Commandments on Mount Sinai was Moses."
+                },
+                {
+                    "context": "The mountain is also mentioned in the Quran, where it is referred to as \"Tur Sinai\". Mount Sinai is approximately 2,285 meters (7,497 feet) tall and is located in the southern part of the Sinai Peninsula.",
+                    "question": "What is the name of Mount Sinai in the Quran?",
+                    "answer": "\"Tur Sinai.\"",
+                    "explanation": "The name of Mount Sinai in the Quran is \"Tur Sinai,\" as mentioned in the passage."
+                },
+                {
+                    "context": "The monastery of Saint Catherine is one of the oldest Christian monasteries in the world and is a UNESCO World Heritage Site. It was built in the 6th century and is home to a collection of ancient manuscripts and icons.",
+                    "question": "In what century was the monastery of Saint Catherine, located at the foot of Mount Sinai, built?",
+                    "answer": "6th century.",
+                    "explanation": "The monastery of Saint Catherine, situated at the base of Mount Sinai, was constructed during the 6h century."
+                }
+            ],
+            "hops": [
+                "Judaism",
+                "Mount Sinai."
+            ]
+        },
+        "Guru Nanak.": {
+            "term": "Guru Nanak.",
+            "passage": "Guru Nanak (1469-1539) was the founder of Sikhism and the first of the ten Sikh Gurus. He was born in the village of Talwandi, now known as Nankana Sahib, in present-day Pakistan. From a young age, he showed a deep interest in spirituality and spent much of his time meditating and contemplating the nature of God. As he grew older, Guru Nanak began to travel extensively, spreading his message of love, equality, and devotion to God. He believed that all people, regardless of their caste, religion, or social status, were equal in the eyes of God and should be treated as such. He also emphasized the importance of living a moral and ethical life, and encouraged his followers to work hard, be honest, and help those in need. Guru Nanak's teachings were revolutionary for their time, and he faced opposition from both the Hindu and Muslim communities. However, he remained steadfast in his beliefs and continued to spread his message throughout his life. He composed many hymns and poems, which are now collected in the Guru Granth Sahib, the holy scripture of Sikhism. Today, Guru Nanak is revered as a spiritual leader and a symbol of unity and equality. His teachings continue to inspire millions of people around the world, and his legacy lives on through the Sikh community and the many institutions and organizations that bear his name.",
+            "qae_pairs": [
+                {
+                    "context": "Guru Nanak (1469-1539) was the founder of Sikhism and the first of the ten Sikh Gurus. He was born in the village of Talwandi, now known as Nankana Sahib, in present-day Pakistan.",
+                    "question": "In which present-day country was Guru Nanak born?",
+                    "answer": "Pakistan.",
+                    "explanation": "Guru Nanak was born in a village called Talwandi, which is now known as Nankana Sahib, in present-day Pakistan."
+                },
+                {
+                    "context": "He composed many hymns and poems, which are now collected in the Guru Granth Sahib, the holy scripture of Sikhism. Today, Guru Nanak is revered as a spiritual leader and a symbol of unity and equality.",
+                    "question": "As of when is Guru Nanak revered as a spiritual leader and a symbol of unity and equality?",
+                    "answer": "Today.",
+                    "explanation": "The passage states that Guru Nanak is currently revered as a spiritual leader and a symbol of unity and equality. Therefore, the answer is \"As of today.\""
+                },
+                {
+                    "context": "He composed many hymns and poems, which are now collected in the Guru Granth Sahib, the holy scripture of Sikhism. Today, Guru Nanak is revered as a spiritual leader and a symbol of unity and equality.",
+                    "question": "What is the name of the holy scripture that contains the hymns and poems composed by Guru Nanak?",
+                    "answer": "Guru Granth Sahib.",
+                    "explanation": "The holy scripture that contains the hymns and poems composed by Guru Nanak is called the Guru Grantha Sahib, as mentioned in the passage."
+                }
+            ],
+            "hops": [
+                "Sikhism",
+                "Guru Nanak."
+            ]
+        },
+        "Langar.": {
+            "term": "Langar.",
+            "passage": "Langar is a term used in Sikhism for the community kitchen in a Gurdwara where a free meal is served to all the visitors, without distinction of religion, caste, gender, economic status or ethnicity. The free meal is always vegetarian and is prepared by volunteers. The practice of langar, or free kitchen, was started by the first Sikh Guru, Guru Nanak Dev Ji, in the 16th century. The idea behind langar is to promote the concept of equality and to eliminate the differences between people of different backgrounds. The langar is open to everyone, regardless of their religious beliefs, and is a symbol of the Sikh community's commitment to serving humanity. The langar is an important part of Sikh culture and is seen as a way of promoting social harmony and equality. It is also a way of expressing gratitude to the divine for the blessings that have been received. The langar is a unique feature of Sikhism and is a testament to the community's commitment to serving others.",
+            "qae_pairs": [
+                {
+                    "context": "The practice of langar, or free kitchen, was started by the first Sikh Guru, Guru Nanak Dev Ji, in the 16th century. The idea behind langar is to promote the concept of equality and to eliminate the differences between people of different backgrounds.",
+                    "question": "In what century was the practice of Langar, or free kitchen, initiated by Guru Nanak Dev Ji?",
+                    "answer": "16th century.",
+                    "explanation": "The practice of Langar, or free kitchen, was started by Guru Nanak Dev Ji in the 16 century, as mentioned in the passage."
+                },
+                {
+                    "context": "The practice of langar, or free kitchen, was started by the first Sikh Guru, Guru Nanak Dev Ji, in the 16th century. The idea behind langar is to promote the concept of equality and to eliminate the differences between people of different backgrounds.",
+                    "question": "Who started the practice of Langar in the 16 century?",
+                    "answer": "Guru Nanak Dev Ji.",
+                    "explanation": "The practice of Langar was initiated by Guru Nanak Dev Ji in the 16 century."
+                }
+            ],
+            "hops": [
+                "Sikhism",
+                "Langar."
+            ]
+        },
+        "Laozi.": {
+            "term": "Laozi.",
+            "passage": "Laozi (also known as Lao Tzu) was an ancient Chinese philosopher and writer who is believed to have lived during the 6th century BCE. He is considered to be the founder of Taoism, a philosophical and religious tradition that emphasizes living in harmony with the natural world and the Tao, or the way of the universe. Laozi is best known for his book, the Tao Te Ching, which is one of the most important texts in Taoism. The book is a collection of 81 short poems that offer guidance on how to live a meaningful and fulfilling life. Laozi's teachings emphasize the importance of simplicity, humility, and compassion, and his ideas have had a profound influence on Chinese culture and philosophy. Despite his importance, very little is known about Laozi's life, and many of the stories and legends surrounding him are likely to be apocryphal. Nevertheless, his ideas continue to inspire people around the world to this day.",
+            "qae_pairs": [
+                {
+                    "context": "Laozi (also known as Lao Tzu) was an ancient Chinese philosopher and writer who is believed to have lived during the 6th century BCE. He is considered to be the founder of Taoism, a philosophical and religious tradition that emphasizes living in harmony with the natural world and the Tao, or the way of the universe.",
+                    "question": "During which century is Laozi believed to have lived?",
+                    "answer": "6th century BCE.",
+                    "explanation": "Laozi is believed to have lived during the 6h century BCE, as stated in the passage."
+                }
+            ],
+            "hops": [
+                "Taoism",
+                "Laozi."
+            ]
+        },
+        "Confucius.": {
+            "term": "Confucius.",
+            "passage": "Confucius (551–479 BC) was a Chinese philosopher and politician of the Spring and Autumn period who was traditionally considered the paragon of Chinese sages. Confucius's teachings emphasized personal and governmental morality, correctness of social relationships, justice, kindness, and sincerity. These values gained prominence in China over other doctrines, such as Legalism (法家) or Taoism (道家), during the Han dynasty (206 BC – AD 220). Confucius's thoughts have been developed into a system of philosophy known as Confucianism (儒家). It was introduced to Europe by the Jesuit Matteo Ricci, who was the first to Latinise the name as \"Confucius\". His teachings may be found in the Analects of Confucius (論語), a collection of \"brief aphoristic fragments\", which was compiled many years after his death. For nearly 2,000 years, various schools of Confucianism have evolved and influenced Chinese culture.",
+            "qae_pairs": [
+                {
+                    "context": "These values gained prominence in China over other doctrines, such as Legalism (法家) or Taoism (道家), during the Han dynasty (206 BC – AD 220). Confucius's thoughts have been developed into a system of philosophy known as Confucianism (儒家).",
+                    "question": "What is the end year of the Han dynasty, during which Confucius's values gained prominence over other doctrines in China?",
+                    "answer": "AD 220.",
+                    "explanation": "The end year of the Han dynasty, when Confucius's values became more popular than other doctrines in China, was AD 220."
+                },
+                {
+                    "context": "These values gained prominence in China over other doctrines, such as Legalism (法家) or Taoism (道家), during the Han dynasty (206 BC – AD 220). Confucius's thoughts have been developed into a system of philosophy known as Confucianism (儒家).",
+                    "question": "In which country did Confucius's values gain prominence over other doctrines during the Han dynasty?",
+                    "answer": "China.",
+                    "explanation": "Confucius's values gained prominence over other doctrines during the Han dynasty in China."
+                },
+                {
+                    "context": "For nearly 2,000 years, various schools of Confucianism have evolved and influenced Chinese culture. For nearly 2,000 years, various schools of Confucianism have evolved and influenced Chinese culture.",
+                    "question": "How long has Confucius' teachings influenced Chinese culture?",
+                    "answer": "Nearly 2,000 years.",
+                    "explanation": "Confucius' teachings have influenced Chinese culture for almost 2,000 years, as stated in the passage."
+                }
+            ],
+            "hops": [
+                "Confucianism",
+                "Confucius."
+            ]
+        },
+        "Vietnam.": {
+            "term": "Vietnam.",
+            "passage": "Vietnam, officially the Socialist Republic of Vietnam, is a country in Southeast Asia. It is bordered by China to the north, Laos to the northwest, Cambodia to the southwest, and the South China Sea to the east. With a population of over 97 million, Vietnam is the 15th most populous country in the world. Its capital city is Hanoi, and its largest city is Ho Chi Minh City (formerly known as Saigon). Vietnam has a long and complex history, with evidence of human habitation dating back to the Paleolithic Age. The country was ruled by various dynasties until the 19th century, when it became a French colony. During World War II, Vietnam was occupied by Japan, and after the war, the country declared independence from France. However, Vietnam was divided into two parts: the communist North and the non-communist South. The Vietnam War, which lasted from 1955 to 1975, was a conflict between the communist North and the non-communist South, with the United States supporting the South. The war ended with the fall of Saigon and the reunification of Vietnam under communist rule. Since the end of the war, Vietnam has undergone significant economic and social changes. The country has transitioned from a centrally planned economy to a market-oriented one, and has experienced rapid economic growth. Vietnam is now a middle-income country and a member of the World Trade Organization. Vietnam is known for its natural beauty, including its beaches, mountains, and rice paddies. The country is also famous for its cuisine, which is characterized by fresh ingredients, bold flavors, and a balance of sweet, sour, salty, and spicy flavors. Vietnamese culture is influenced by Confucianism, Buddhism, and Taoism, and is known for its emphasis on family, community, and respect for elders.",
+            "qae_pairs": [
+                {
+                    "context": "Vietnam, officially the Socialist Republic of Vietnam, is a country in Southeast Asia. It is bordered by China to the north, Laos to the northwest, Cambodia to the southwest, and the South China Sea to the east.",
+                    "question": "In which region is Vietnam located?",
+                    "answer": "Southeast Asia.",
+                    "explanation": "Vietnam is located in Southeast Asia, as stated in the passage."
+                },
+                {
+                    "context": "Vietnam, officially the Socialist Republic of Vietnam, is a country in Southeast Asia. It is bordered by China to the north, Laos to the northwest, Cambodia to the southwest, and the South China Sea to the east.",
+                    "question": "What body of water lies to the east of Vietnam?",
+                    "answer": "South China Sea.",
+                    "explanation": "Vietnam is bordered by China, Laos, and Cambodia, and to the east lies the South China Sea."
+                },
+                {
+                    "context": "With a population of over 97 million, Vietnam is the 15th most populous country in the world. Its capital city is Hanoi, and its largest city is Ho Chi Minh City (formerly known as Saigon).",
+                    "question": "What is the largest city in Vietnam?",
+                    "answer": "Ho Chi Minh City.",
+                    "explanation": "The largest city in Vietnam is Ho Chi Minh City, which has a population larger than any other city in the country."
+                },
+                {
+                    "context": "With a population of over 97 million, Vietnam is the 15th most populous country in the world. Its capital city is Hanoi, and its largest city is Ho Chi Minh City (formerly known as Saigon).",
+                    "question": "What is the capital city of Vietnam?",
+                    "answer": "Hanoi.",
+                    "explanation": "Vietnam's capital city is Hanoi."
+                },
+                {
+                    "context": "With a population of over 97 million, Vietnam is the 15th most populous country in the world. Its capital city is Hanoi, and its largest city is Ho Chi Minh City (formerly known as Saigon).",
+                    "question": "What is the former name of Vietnam's largest city?",
+                    "answer": "Saigon.",
+                    "explanation": "The former name of Vietnam's largest city is Saigon, as stated in the passage."
+                },
+                {
+                    "context": "Vietnam has a long and complex history, with evidence of human habitation dating back to the Paleolithic Age. The country was ruled by various dynasties until the 19th century, when it became a French colony.",
+                    "question": "In what century did Vietnam become a French colony?",
+                    "answer": "19th century.",
+                    "explanation": "Vietnam became a French colony in the 1800s, specifically in the 18 hundreds."
+                },
+                {
+                    "context": "During World War II, Vietnam was occupied by Japan, and after the war, the country declared independence from France. However, Vietnam was divided into two parts: the communist North and the non-communist South.",
+                    "question": "Which country occupied Vietnam during World War II?",
+                    "answer": "Japan.",
+                    "explanation": "Vietnam was occupied by Japan during World War II."
+                },
+                {
+                    "context": "The Vietnam War, which lasted from 1955 to 1975, was a conflict between the communist North and the non-communist South, with the United States supporting the South. The war ended with the fall of Saigon and the reunification of Vietnam under communist rule.",
+                    "question": "Which country supported the non-communist South during the Vietnam War?",
+                    "answer": "The United States.",
+                    "explanation": "The United States supported the non-communist South during the Vietnam War, which lasted from 1955 to 1975."
+                },
+                {
+                    "context": "Vietnam is now a middle-income country and a member of the World Trade Organization. Vietnam is known for its natural beauty, including its beaches, mountains, and rice paddies.",
+                    "question": "What international organization is Vietnam a member of?",
+                    "answer": "World Trade Organization.",
+                    "explanation": "Vietnam is a member of the World Trade Organization, as stated in the passage."
+                }
+            ],
+            "hops": [
+                "Confucianism",
+                "Vietnam."
+            ]
+        },
+        "Japan.": {
+            "term": "Japan.",
+            "passage": "Japan is an island country in East Asia, located in the northwest Pacific Ocean. It is bordered by the Sea of Japan to the west and the Pacific Ocean to the east, and spans a total of 377,915 square kilometers (145,937 sq mi). Japan has a population of approximately 126 million people, making it the world's eleventh-most populous country. The capital and largest city is Tokyo, with other major cities including Yokohama, Osaka, and Nagoya. Japan is a constitutional monarchy with a parliamentary system of government, and its Emperor is Naruhito. Japan is renowned for its unique culture, which has been shaped by its long history and isolation from the rest of the world. The country has a rich artistic and cultural heritage, with traditional arts such as calligraphy, ikebana (flower arrangement), and tea ceremony still widely practiced today. Japan is also known for its cuisine, which includes dishes such as sushi, ramen, and tempura. In addition to its cultural contributions, Japan is a major economic power and a leader in technology and innovation. The country is home to some of the world's largest and most influential companies, including Toyota, Sony, and Nintendo. Japan is also a major exporter of automobiles, electronics, and machinery. Despite its many achievements, Japan faces a number of challenges, including an aging population, a declining birth rate, and a struggling economy. The country has also been affected by natural disasters, including earthquakes, tsunamis, and typhoons. Nevertheless, Japan remains a vibrant and dynamic society, with a rich cultural heritage and a bright future ahead.",
+            "qae_pairs": [
+                {
+                    "context": "Japan is an island country in East Asia, located in the northwest Pacific Ocean. It is bordered by the Sea of Japan to the west and the Pacific Ocean to the east, and spans a total of 377,915 square kilometers (145,937 sq mi).",
+                    "question": "What body of water borders Japan to the west?",
+                    "answer": "Sea of Japan.",
+                    "explanation": "Japan is bordered by the Sea of Japan to the west."
+                },
+                {
+                    "context": "Japan is an island country in East Asia, located in the northwest Pacific Ocean. It is bordered by the Sea of Japan to the west and the Pacific Ocean to the east, and spans a total of 377,915 square kilometers (145,937 sq mi).",
+                    "question": "What body of water borders Japan to the east?",
+                    "answer": "Pacific Ocean.",
+                    "explanation": "The Pacific Ocean borders Japan to the east, as stated in the passage."
+                },
+                {
+                    "context": "Japan is an island country in East Asia, located in the northwest Pacific Ocean. It is bordered by the Sea of Japan to the west and the Pacific Ocean to the east, and spans a total of 377,915 square kilometers (145,937 sq mi).",
+                    "question": "In which region is Japan located?",
+                    "answer": "East Asia.",
+                    "explanation": "Japan is situated in East Asia, as stated in the passage."
+                },
+                {
+                    "context": "Japan has a population of approximately 126 million people, making it the world's eleventh-most populous country. The capital and largest city is Tokyo, with other major cities including Yokohama, Osaka, and Nagoya.",
+                    "question": "What is the capital and largest city of Japan?",
+                    "answer": "Tokyo.",
+                    "explanation": "The capital and largest city of Japan is Tokyo, which has a population of approximately 126 million people."
+                },
+                {
+                    "context": "Japan is a constitutional monarchy with a parliamentary system of government, and its Emperor is Naruhito. Japan is renowned for its unique culture, which has been shaped by its long history and isolation from the rest of the world.",
+                    "question": "Who is the current Emperor of Japan?",
+                    "answer": "Naruhito.",
+                    "explanation": "The current Emperor of Japan is Naruhito, as stated in the passage which describes Japan as a constitutional monarchy with Naruhito as its Emperor."
+                },
+                {
+                    "context": "The country has a rich artistic and cultural heritage, with traditional arts such as calligraphy, ikebana (flower arrangement), and tea ceremony still widely practiced today. Japan is also known for its cuisine, which includes dishes such as sushi, ramen, and tempura.",
+                    "question": "What is a popular Japanese dish that includes battered and deep-fried seafood or vegetables?",
+                    "answer": "Tempura.",
+                    "explanation": "The popular Japanese dish that includes battered and deep-fried seafood or vegetables is called tempura."
+                },
+                {
+                    "context": "The country has a rich artistic and cultural heritage, with traditional arts such as calligraphy, ikebana (flower arrangement), and tea ceremony still widely practiced today. Japan is also known for its cuisine, which includes dishes such as sushi, ramen, and tempura.",
+                    "question": "What is a traditional art form still widely practiced in Japan that involves flower arrangement?",
+                    "answer": "Ikebana.",
+                    "explanation": "The traditional art form of flower arrangement that is still widely practiced in Japan is called ikebana."
+                },
+                {
+                    "context": "In addition to its cultural contributions, Japan is a major economic power and a leader in technology and innovation. The country is home to some of the world's largest and most influential companies, including Toyota, Sony, and Nintendo.",
+                    "question": "Which major company in Japan is known for producing popular video game consoles such as the Nintendo Switch?",
+                    "answer": "Nintendo.",
+                    "explanation": "The major company in Japan known for producing popular video game consoles such as the Nintendo Switch is Nintendo, as mentioned in the passage."
+                },
+                {
+                    "context": "In addition to its cultural contributions, Japan is a major economic power and a leader in technology and innovation. The country is home to some of the world's largest and most influential companies, including Toyota, Sony, and Nintendo.",
+                    "question": "Which company is one of Japan's largest and most influential, known for producing cars such as the Camry and Corolla?",
+                    "answer": "Toyota.",
+                    "explanation": "The largest and most influential company in Japan, known for producing cars such as the Camry and Corolla, is Toyota."
+                },
+                {
+                    "context": "In addition to its cultural contributions, Japan is a major economic power and a leader in technology and innovation. The country is home to some of the world's largest and most influential companies, including Toyota, Sony, and Nintendo.",
+                    "question": "Which major company in Japan is known for producing electronics such as televisions, smartphones, and gaming consoles?",
+                    "answer": "Sony.",
+                    "explanation": "The passage states that Japan is home to some of the world's largest and most influential companies, including Toyota, Sony, and Nintendo. Sony is known for producing electronics such as televisions, smartphones, and gaming consoles. Therefore, Sony is the major company in Japan known for producing these products."
+                }
+            ],
+            "hops": [
+                "Shintoism",
+                "Japan."
+            ]
+        },
+        "Shintoists.": {
+            "term": "Shintoists.",
+            "passage": "Shintoists are followers of Shinto, a traditional Japanese religion that emphasizes the worship of ancestors and nature spirits. Shintoists believe that everything in the world, including rocks, trees, and animals, has a spirit or kami that should be respected and honored. They also believe in the importance of purity and cleanliness, and often perform rituals to purify themselves and their surroundings. Shintoism has been practiced in Japan for thousands of years, and has had a significant influence on Japanese culture and society. Many Japanese people still practice Shintoism today, and it is often combined with other religions such as Buddhism. Shintoists often visit shrines and perform rituals to honor their ancestors and the kami. They may also participate in festivals and ceremonies throughout the year, such as the New Year's Day festival and the Obon festival, which honors the spirits of the dead. Despite its long history and cultural significance, Shintoism has faced challenges in modern times. Some critics have accused it of promoting nationalism and exclusionary attitudes towards non-Japanese people. However, many Shintoists continue to practice their faith and celebrate its traditions and values.",
+            "qae_pairs": [
+                {
+                    "context": "They also believe in the importance of purity and cleanliness, and often perform rituals to purify themselves and their surroundings. Shintoism has been practiced in Japan for thousands of years, and has had a significant influence on Japanese culture and society.",
+                    "question": "Where is the traditional religion of Shintoists primarily practiced?",
+                    "answer": "Japan.",
+                    "explanation": "The traditional religion of Shintoists has been practiced in Japan for thousands of years, as stated in the passage. Therefore, Japan is the primary location where Shintoism is practiced."
+                },
+                {
+                    "context": "They may also participate in festivals and ceremonies throughout the year, such as the New Year's Day festival and the Obon festival, which honors the spirits of the dead. Despite its long history and cultural significance, Shintoism has faced challenges in modern times.",
+                    "question": "What festival do Shintoists participate in to celebrate the beginning of the year?",
+                    "answer": "New Year's Day festival.",
+                    "explanation": "Shintoists celebrate the beginning of the year by participating in the New Year's Day festival."
+                }
+            ],
+            "hops": [
+                "Shintoism",
+                "Shintoists."
+            ]
+        }
+    }
+}

@@ -1,0 +1,773 @@
+{
+    "first_hops": {
+        "The Godfather": {
+            "term": "The Godfather",
+            "passage": "\"The Godfather is a 1972 American crime film directed by Francis Ford Coppola and produced by Albert S. Ruddy. It stars Marlon Brando, Al Pacino, and James Caan. The film is based on Mario Puzo's novel of the same name. The film was nominated for 11 Academy Awards, winning three, including Best Picture. It was also nominated for 12 other Academy Awards, winning 11. The film grossed $1,025,000 on its opening weekend and grossed $1,025,000,000 worldwide. It is considered one of the greatest films of all time and is considered a masterpiece of modern cinema. It is the highest-grossing film of the 1970s and the second highest-grossing film of all time, behind only Avatar. The film was also the first film to be nominated for Best Picture in the 1970s. It was also the first film to be nominated for Best Supporting Actor and Best Supporting Actress. It was also the first film to be nominated for Best Adapted Screenplay. It was also the first film to be nominated for Best Art Direction. It was also the first film to be nominated for Best Cinematography. It was also the first film to be nominated for Best Film Editing. It was also the first film to be nominated for Best Original Score. It was also the first film to be nominated for Best Sound.",
+            "qae_pairs": [
+                {
+                    "question": "Who directed the Godfather?",
+                    "answer": "Albert S. Ruddy",
+                    "explanation": "Albert S. Ruddy directed the Godfather."
+                },
+                {
+                    "question": "Who played the role of Michael Corleone in the movie The Godfather?",
+                    "answer": "Al Pacino",
+                    "explanation": "Al Pacino played the role of Michael Corleone in the movie The Godfather."
+                },
+                {
+                    "question": "What decade was the godfather released in?",
+                    "answer": "the 1970s",
+                    "explanation": "The Godfather was released in 1972, which was the 1970s."
+                }
+            ],
+            "hops": [
+                "The Godfather"
+            ]
+        },
+        "Star Wars": {
+            "term": "Star Wars",
+            "passage": "[link]\nThe Jedi Temple, the \"Tower of the Jedi,\" was built on Yavin's moon. It was an immense structure made of living stone, constructed by the Jedi to maintain the high standard of Jedi order and to serve as a hub for all Jedi activities on the planet. The central structure was a massive temple, the home of the Jedi high council and other important offices. In 13 BBY, the Jedi Temple was being constructed by Jedi Knight Obi-Wan Kenobi. While visiting the construction site with Jedi Padawan Anakin Skywalker, Kenobi was contacted by Jedi Master Sifo-Dyas. Kenobi learned from Skywalker that Jedi Padawan Anakin Skywalker was destined to become the most powerful Jedi in the galaxy and his Master had instructed him to complete his training at the Jedi Temple. The construction of the Temple was completed in 5 BBY, with a main spire reaching 12,000 feet in height. The main temple was split into multiple levels, and the various chambers and alcoves were constructed at different heights along the spire. At the height of 3,500 feet, there were several balconies, which were connected by a series of lift shafts, spiral stairs, and catwalks. The Jedi Order and the Jedi Temple remained in the Jedi Order's control until the Jedi were eventually defeated in the Great Jedi War.",
+            "qae_pairs": [
+                {
+                    "question": "What is the most important structure in the Star Wars universe?",
+                    "answer": "the Jedi Temple",
+                    "explanation": "The Jedi Temple is the most important structure in the Star Wars universe as it is the center of all Jedi activities. It is constructed by the Jedi to maintain their high standard of Jedi order and to serve as a hub for all Jedi activities on the planet. It is also the home of the Jedi high council and other important offices. The central structure is a massive temple, the home of the Jedi high council and other important offices. In 13 BBY, the Jedi Temple was being constructed by Jedi Knight Obi-Wan Kenobi. While visiting the construction site with Jedi Padawan Anakin Skywalker, Kenobi was contacted by"
+                }
+            ],
+            "hops": [
+                "Star Wars"
+            ]
+        },
+        "The Dark Knight": {
+            "term": "The Dark Knight",
+            "passage": "-- Dark Knight\nThe Dark Knight is a superhero vigilante working to maintain law and order in Gotham City, the largest city in the United States. His secret identity is the vigilante Batman, whose real name is Bruce Wayne. Wayne and his friend and ally Alfred Pennyworth are on a quest to rid the city of crime. A key antagonist in the movie is the Joker, who is the main antagonist in the comics. The Dark Knight is a 2008 superhero film based on the character created by Bob Kane and Frank Miller. It was directed by Christopher Nolan, with Christian Bale as the Dark Knight and Morgan Freeman as the voice of the Oracle. The film stars Bale as the Dark Knight, alongside Heath Ledger as the Joker.",
+            "qae_pairs": [
+                {
+                    "question": "What is the year of the movie The Dark Knight?",
+                    "answer": "2008",
+                    "explanation": "2008"
+                },
+                {
+                    "question": "Which country is Gotham City located in?",
+                    "answer": "the United States",
+                    "explanation": "Gotham City is located in the United States."
+                },
+                {
+                    "question": "What is the name of the city in the Dark Knight movie?",
+                    "answer": "Gotham City",
+                    "explanation": "Gotham City is the name of the city in the Dark Knight movie. It is the largest city in the United States and is located in the state of New Jersey. The city is located in the New York metropolitan area and is home to a population of over 8 million people. The city is home to a variety of ethnic groups, including the Italian-American, Irish-American, and Jewish-American populations. The city is also home to a variety of cultural institutions, including the Gotham City Police Department, the Gotham City Stock Exchange, and the Gotham City Zoo."
+                },
+                {
+                    "question": "Who created the Dark Knight?",
+                    "answer": "Bob Kane",
+                    "explanation": "The Dark Knight was created by Bob Kane, who first introduced the character in Batman #1 in 1940."
+                },
+                {
+                    "question": "Who directed the Dark Knight?",
+                    "answer": "Christopher Nolan",
+                    "explanation": "The Dark Knight was directed by Christopher Nolan."
+                }
+            ],
+            "hops": [
+                "The Dark Knight"
+            ]
+        },
+        "The Lord of the Rings": {
+            "term": "The Lord of the Rings",
+            "passage": "\"The Lord of the Rings is a 12-volume series of fantasy novels by J. R. R. Tolkien. It is a sequel to his earlier series The Hobbit, and is the second most popular series of all his works. The books are considered Tolkien's greatest literary achievement, and are renowned for their rich mythology, complex characters, and vivid description of Middle-earth. The Lord of the Rings trilogy is widely regarded as the greatest film series of all time, with The Return of the King winning Best Picture at the 1998 Academy Awards.",
+            "qae_pairs": [
+                {
+                    "question": "Where did the Lord of the Rings take place?",
+                    "answer": "Middle-earth",
+                    "explanation": "Middle-earth is the fictional world created by J. R. R. Tolkien in his books and films. It is a world of many different races and cultures, and is divided into three main regions: the Shire, the North, and the South. The Lord of the Rings takes place primarily in the North and the South, with the main events occurring in the North."
+                },
+                {
+                    "question": "What is the best book series of all time?",
+                    "answer": "Rings",
+                    "explanation": "The Lord of the Rings is widely regarded as the greatest book series of all time, with its intricate mythology, complex characters, and vivid description of Middle-earth. The trilogy has been adapted into a highly successful film series, and is considered one of the greatest film trilogies of all time."
+                },
+                {
+                    "question": "What is the name of the award given out for the best film of the year?",
+                    "answer": "Academy Awards",
+                    "explanation": "The Academy Awards is the official name of the award given out for the best film of the year."
+                },
+                {
+                    "question": "What is the name of the author of The Lord of the Rings?",
+                    "answer": "J. R. R. Tolkien",
+                    "explanation": "The Lord of the Rings is a series of fantasy novels by J. R. R. Tolkien."
+                }
+            ],
+            "hops": [
+                "The Lord of the Rings"
+            ]
+        },
+        "The Matrix": {
+            "term": "The Matrix",
+            "passage": "\"The Matrix is a 1999 science fiction action film written and directed by Lana and Lilly Wachowski. The film stars Keanu Reeves as Thomas Anderson, a computer hacker who is contacted by a mysterious group of rebels led by the enigmatic Morpheus (played by Laurence Fishburne) to help them fight against the machines. The film was produced by the Wachowski siblings, who co-wrote the screenplay with the Wachowskis. The Matrix was released on March 13, 1999, and grossed over $1 billion worldwide. It was nominated for 11 Academy Awards, winning 5, including Best Picture. It is widely considered one of the most influential films of the 1990s and has been cited as an influence on the superhero film genre. The film has been praised for its groundbreaking special effects, its philosophical themes, and its performances by the cast.",
+            "qae_pairs": [
+                {
+                    "question": "Who is the main character in The Matrix?",
+                    "answer": "Keanu Reeves",
+                    "explanation": "The Matrix is a science fiction film that stars Keanu Reeves as Thomas Anderson, a computer hacker who is contacted by a mysterious group of rebels led by the enigmatic Morpheus (played by Laurence Fishburne) to help them fight against the machines. Therefore, Keanu Reeves is the main character of the movie."
+                },
+                {
+                    "question": "What is the Matrix?",
+                    "answer": "Morpheus",
+                    "explanation": "The Matrix refers to the simulated reality that humans are living in, created by machines to distract them while they are harvested for their energy. Morpheus is a rebel leader who leads the resistance against this system."
+                }
+            ],
+            "hops": [
+                "The Matrix"
+            ]
+        },
+        "Harry Potter and the Deathly Hallows": {
+            "term": "Harry Potter and the Deathly Hallows",
+            "passage": "\"Deathly Hallows: The Art and History\"\nHarry Potter and the Deathly Hallows: The Art and History is a two-part episode of the British documentary series The Beatles Anthology. It aired on BBC One and BBC America on 1 and 3 February 2010. The programme was directed by Richard Whalley and produced by John Battsek. In the United States, it aired on PBS as part of a series of seven episodes titled \"The Beatles Anthology\". The documentary series aired 13 episodes in total, and the segment on the Deathly Hallows was the only one to be released outside the US on DVD, in an \"Art and History\" package. It is a segment from the third episode of the series, \"The Beatles Anthology 3\". In the first part, the Beatles' first release, \"Love Me Do\", is a re-enactment. John Lennon sings the song for the first time. Also in this part, The Beatles are shown filming their first video, \"A Hard Day's Night\". At the end, Lennon sings a song about the war of 1939-45, \"Why? Why? Why?\".",
+            "qae_pairs": [
+                {
+                    "question": "Who is the most famous person in the world?",
+                    "answer": "John Lennon",
+                    "explanation": "The Beatles Anthology 3 is a segment from the third episode of the series, The Beatles Anthology 3. In this part, the Beatles first release, Love Me Do, is a re-enactment. John Lennon sings the song for the first time. Also in this part, The Beatles are shown filming their first video, A Hard Days Night. At the end, Lennon sings a song about the war of 1939-45, Why? Why? Why?."
+                },
+                {
+                    "question": "Who is the director of the Beatles Anthology?",
+                    "answer": "John Battsek",
+                    "explanation": "The Beatles Anthology was directed by John Battsek."
+                },
+                {
+                    "question": "What is the answer?",
+                    "answer": "Beatles",
+                    "explanation": "Why? Why? Why? is a song by The Beatles that was written by Lennon and McCartney. It was released on the album Beatles for Sale in 1964."
+                },
+                {
+                    "question": "What is the meaning of life?",
+                    "answer": "Harry Potter",
+                    "explanation": "Deathly Hallows: The Art and History is a segment of the documentary series The Beatles Anthology. It is the third episode of the series, and is titled The Beatles Anthology 3. The segment is about the meaning of life, and the meaning of life is Harry Potter. The segment is a re-enactment of the Beatles first release, Love Me Do, which is sung by John Lennon. The segment is also about the filming of their first video, A Hard Days Night, and Lennon singing a song about the war. The meaning of"
+                }
+            ],
+            "hops": [
+                "Harry Potter and the Deathly Hallows"
+            ]
+        },
+        "Jurassic Park": {
+            "term": "Jurassic Park",
+            "passage": "'During production on the film, the filmmakers were forced to create a character whose purpose was to die in the beginning of the film. Initially, the character they created was a character called Lex who was killed during the chaos of the island's power failure. However, due to the plot of the film being that Lex was a child, they could not go through with the character's death. Therefore, they created an new character, Alan Grant, and gave him the same first name as Lex to make the character's death more acceptable. Lex was then given an alias, Lex Murphy, so that his death could be explained in the story and so that the audience could relate to his character more. The character was also changed to a \"tourist\", so that the audience could relate to him more as well. The character's name was finally changed to Alan Grant, who played the role of Lex in the film.",
+            "qae_pairs": [
+                {
+                    "question": "Who is the character whose purpose is to die in the beginning of the film?",
+                    "answer": "Lex Murphy",
+                    "explanation": "During production on the film, the filmmakers were forced to create a character whose purpose was to die in the beginning of the film. Initially, the character they created was a character named Lex who was killed during the chaos of the islands power failure. However, due to the plot of the film being that Lex was a child, they could not go through with the characters death. Therefore, they created an new character, Alan Grant, and gave him the same first name as Lex to make the characters death more acceptable. Lex was then given an alias, Lex Murphy, so that his death could be explained in"
+                }
+            ],
+            "hops": [
+                "Jurassic Park"
+            ]
+        },
+        "Titanic": {
+            "term": "Titanic",
+            "passage": "\"Titanic was a British passenger and cargo ship that sank in the North Atlantic Ocean in the early morning of April 15, 1912, after striking an iceberg during its maiden voyage from Southampton to New York City. Of the 2,229 passengers and crew, 1,523 perished, and a further 1,026 perished later. Titanic was a symbol of the new era in aviation and marine engineering, and the event has since come to be regarded as a defining event of the 20th century. The Titanic's story, from its first conception to the moment of its demise, is the subject of several well-documented books by authors such as E.A. Smith, John Rettman, Thomas Andrews, Richard Frost, and Stephen D. Clark. The 1956 film Titanic was directed by James Cameron and starred Leonardo DiCaprio. Many songs and other media such as television series and video games are also based on the story. Titanic has been the subject of various documentaries and re-enactments, and the wreckage of the ship has been the focus of a number of expeditions over the years. Titanic became a lasting icon for the era in which it was lost, and its story has captured the imagination of generations. The Titanic was a British passenger liner and maritime disaster that sank in the North Atlantic Ocean in the early morning of April 15, 1912.",
+            "qae_pairs": [
+                {
+                    "question": "Who is the most famous actor in Titanic?",
+                    "answer": "Leonardo DiCaprio",
+                    "explanation": "Leonardo DiCaprio is a well-known actor who has starred in many movies, including Titanic. He is known for his roles in Titanic, Titanic: The Legend Goes On... and The Wolf of Wall Street."
+                },
+                {
+                    "question": "Which ocean is the Titanic in?",
+                    "answer": "the North Atlantic Ocean",
+                    "explanation": "Titanic is a British passenger and cargo ship that sank in the North Atlantic Ocean in the early morning of April 15, 1912, after striking an iceberg during its maiden voyage from Southampton to New York City."
+                },
+                {
+                    "question": "Who wrote the book Titanic?",
+                    "answer": "E.A. Smith",
+                    "explanation": "Titanic was written by E.A. Smith, a British journalist and author."
+                },
+                {
+                    "question": "What date did the Titanic sink?",
+                    "answer": "April 15, 1912",
+                    "explanation": "1. The Titanic sank on the morning of April 15, 1912, after striking an iceberg. 2. The ship was scheduled to set sail from Southampton, England, to New York City on April 15, 1912. 3. The Titanic sank at 2:20 a.m. (or 2:20 p.m. depending on the time zone). 4. The Titanic sank on its maiden voyage from Southampton to New York City. 5. The Titanic sank in the North Atlantic Ocean, approximately 300 miles (500 kilometers) off the coast of Newfoundland, Canada."
+                },
+                {
+                    "question": "Who directed Titanic?",
+                    "answer": "James Cameron",
+                    "explanation": "Titanic was directed by James Cameron, who is also known for his work on Avatar and Titanic 2."
+                },
+                {
+                    "question": "Who is the author of the book Titanic?",
+                    "answer": "Stephen D. Clark",
+                    "explanation": "Titanic is a book written by Stephen D. Clark."
+                },
+                {
+                    "question": "What is the name of the city where the Titanic was built?",
+                    "answer": "Southampton",
+                    "explanation": "Titanic was built in Southampton, England."
+                }
+            ],
+            "hops": [
+                "Titanic"
+            ]
+        }
+    },
+    "second_hops": {
+        "Albert S. Ruddy": {
+            "term": "Albert S. Ruddy",
+            "passage": "In 1955, he began to work at the Central Intelligence Agency (CIA) for three years. He then spent one year at CIA HQ in Washington DC. Ruddy held his most famous job at the CIA for 30 years, being a senior member of President Reagan's staff. He is described as one of the most prominent and influential \"CIA spymasters\" by Mark Palmer's The Art of Intelligence. Ruddy died on May 13, 2006. He was 81 years old at the time of his death. He was born on October 29, 1924. Ruddy also headed the CIA's Counter-intelligence division during the Cold War. This is the quote on Ruddy from the Wiktionary page on Ruddy:\n\"Ruddy\" is a common surname in the United States. The word \"ruddy\" means red-haired or reddish-haired. In 1955, Ruddy became a senior member of President Dwight D. Eisenhower's staff at the White House, where he developed the nickname \"Ruddy.\" Ruddy's nickname has been applied to a few other people, but this usage has been generally confined to the one from Eisenhower's staff.",
+            "qae_pairs": [
+                {
+                    "question": "\nHow many years was Albert S. Ruddy a member of President Dwight D. Eisenhower's staff at the White House?",
+                    "answer": "one year",
+                    "explanation": "Albert S. Ruddy was a senior member of President Dwight D. Eisenhowers staff at the White House for one year."
+                },
+                {
+                    "question": "\nWhen did Albert S. Ruddy die?\nAlbert S. Ruddy passed away on May 13, 2006, at the age of 81.",
+                    "answer": "May 13, 2006",
+                    "explanation": "Albert S. Ruddy, a former CIA spymaster, died on May 13, 2006, at the age of 81. He was born on October 29, 1924."
+                },
+                {
+                    "question": "\nWho was Albert S. Ruddy?",
+                    "answer": "Dwight D. Eisenhower's",
+                    "explanation": "Albert S. Ruddy was an American intelligence officer who served as a senior member of President Dwight D. Eisenhowers staff at the White House. He is known for his work in the counterintelligence division. Ruddys nickname was Ruddy and he was born on October 29, 1924."
+                },
+                {
+                    "question": "\nHow many years did Albert S. Ruddy work for the CIA? ",
+                    "answer": "30 years",
+                    "explanation": "Albert S. Ruddy worked for the CIA for 30 years."
+                },
+                {
+                    "question": "\nWhat was Albert S. Ruddy's birthdate?",
+                    "answer": "October 29, 1924",
+                    "explanation": "Albert S. Ruddy was born on October 29, 1924."
+                },
+                {
+                    "question": "\nHow long was Albert S. Ruddy a CIA agent?",
+                    "answer": "CIA",
+                    "explanation": "Albert S. Ruddy was a CIA agent for 30 years."
+                },
+                {
+                    "question": "\nWhat position did Albert S. Ruddy hold in the Central Intelligence Agency during his years of service?",
+                    "answer": "the Central Intelligence Agency",
+                    "explanation": "Albert S. Ruddy worked at the Central Intelligence Agency for three years and then spent one year at CIA HQ in Washington DC. He held his most famous job at the CIA for 30 years, being a senior member of President Reagans staff."
+                },
+                {
+                    "question": "\nWhat is Albert S. Ruddy's age?",
+                    "answer": "81 years old",
+                    "explanation": "Albert S. Ruddy died on May 13, 2006. He was 81 years old at the time of his death."
+                },
+                {
+                    "question": "\nWhat famous nickname did Albert S. Ruddy, a prominent CIA spymaster, gain while working for President Dwight D. Eisenhower during the Cold War?",
+                    "answer": "Ruddy",
+                    "explanation": "Albert S. Ruddy, a prominent CIA spymaster, gained the nickname Ruddy while working for President Dwight D. Eisenhower during the Cold War."
+                }
+            ],
+            "hops": [
+                "The Godfather",
+                "Albert S. Ruddy"
+            ]
+        },
+        "Al Pacino": {
+            "term": "Al Pacino",
+            "passage": "\"Al Pacino (Anthony Lombardi Jr., September 25, 1940) is an American film and stage actor. He received numerous Academy Award nominations for Best Actor. He also won a Golden Globe Award for Best Supporting Actor in 2011 for his work in \"The Social Network\". He has been nominated for more than 110 other Academy Award nominations and has won six. He has won over 60 awards and received two Lifetime Achievement Awards from the Screen Actors Guild. He was the youngest actor to win an Oscar at the age of 11. He won an Emmy Award for Outstanding Supporting Actor in a Musical, and an Emmy Award for Outstanding Supporting Actor in a Motion Picture and a TV series. He received the Lifetime Achievement Award in Acting at the 75th Golden Globe Awards ceremony on January 11, 2013. He was honored with the Academy Award for Best Supporting Actor in 1970 and an Oscar nomination in the Best Actor category in 1983. He has been nominated five times for the Academy Award for Best Actor, the most of any actor, after fellow nominee and 14-time nominee James Stewart.",
+            "qae_pairs": [
+                {
+                    "question": "What is Al Pacinos birthdate?",
+                    "answer": "September 25, 1940",
+                    "explanation": "Al Pacino (Anthony Lombardi Jr., September 25, 1940) is an American film and stage actor. He received numerous Academy Award nominations for Best Actor. He also won a Golden Globe Award for Best Supporting Actor in 2011 for his work in The Social Network. He has been nominated for more than 110 other Academy Award nominations and has won over 60 awards and received two Lifetime Achievement Awards from the Screen Actors Guild. He was the youngest actor to win an Oscar at the age of 11. He won an Emmy Award for Outstanding Supporting Actor in a Musical, and an Emmy Award for"
+                },
+                {
+                    "question": "\nWhich prestigious acting guild did Al Pacino win his two lifetime achievement awards?",
+                    "answer": "the Screen Actors Guild",
+                    "explanation": "Al Pacino won his two Lifetime Achievement Awards from the Screen Actors Guild."
+                },
+                {
+                    "question": "What year did Al Pacino win his first Academy Award?",
+                    "answer": "1970",
+                    "explanation": "The Godfather was released in 1972, so Al Pacino did not win his first Academy Award until 1970."
+                }
+            ],
+            "hops": [
+                "The Godfather",
+                "Al Pacino"
+            ]
+        },
+        "the 1970s": {
+            "term": "the 1970s",
+            "passage": "\"In the 1970s, it was a very different kind of decade than what had come before. In the aftermath of the Civil Rights movement and the Vietnam War, the country was more introspective. The era saw the rise of a new cultural icon in punk rock; the fall of the 'Greatest Generation', as Americans who had lived through the Depression and WWII saw themselves; and the rise of the new wealth, as middle-class America came of age. Meanwhile, the women's liberation movement began to grow and gain momentum. All of these factors contributed to the 1970s as a decade of radical change.\" It has been awhile since I have been reading books, so I am not really sure what has happened in the years since 2006 (my last year of university) but I am sure a lot has happened since 2007. This decade has been an \"era of radical change\", but I have noticed a trend. While the previous decades have been marked by wars, economic recession and political changes, the years following 2006 (2007-2011) have been marked by environmental challenges and a slow recovery from the economic recession. In a way, I see a shift in the focus of these challenges from the world of work and income to the world of ecology and green living.",
+            "qae_pairs": [
+                {
+                    "question": "What were some of the major environmental challenges and changes that occurred during the 1970s?",
+                    "answer": "America",
+                    "explanation": "The 1970s saw a number of environmental challenges and changes in America. The country was facing a number of environmental challenges, including air and water pollution, as well as a growing awareness of the effects of industrialization on the environment. The 1970s saw a number of environmental challenges, including air and water pollution, as well as a growing awareness of the effects of industrialization on the environment. The decade also saw the rise of the environmental movement, which was largely focused on the protection of the environment and the conservation of natural resources. In 1970, the Clean Air Act was passed, which established the Environmental Protection"
+                }
+            ],
+            "hops": [
+                "The Godfather",
+                "the 1970s"
+            ]
+        },
+        "the Jedi Temple": {
+            "term": "the Jedi Temple",
+            "passage": "The Jedi Temple of Onderon was an ancient temple which stood on the banks of the river Nenrin. It was the site of several important events of the war between the Jedi and the Sith. During the construction of the Death Star, the Jedi of the Jedi Order performed ceremonies and rituals on the riverbanks of Nenrin and the Jedi Temple of Onderon to prepare their Jedi apprentices for battle. The Jedi Temple was also used to host the Jedi Council for meetings. The Temple was eventually destroyed during the Battle of Onderon by the Sith in 3655 BBY.",
+            "qae_pairs": [
+                {
+                    "question": "Where was the Jedi Temple of Onderon located?",
+                    "answer": "Nenrin",
+                    "explanation": "The Jedi Temple of Onderon was located on the banks of the river Nenrin."
+                },
+                {
+                    "question": "Who destroyed the Jedi Temple of Onderon during the Battle of Onderon?",
+                    "answer": "Sith",
+                    "explanation": "The Jedi Temple of Onderon was destroyed by the Sith during the Battle of Onderon. The Sith were led by the Sith Lord Darth Sidious, who was in control of the Sith army. The Sith army was made up of the Sith Lords apprentices and other Sith who were loyal to him. The Sith army was made up of a large number of Sith troopers, who were made up of Sith warriors and Sith Inquisitors. The Sith army was made up of a large number of Sith troopers, who were made up of Sith"
+                },
+                {
+                    "question": "What year did the Jedi Temple of Onderon on the banks of the river Nenrin fall to the Sith during the Battle of Onderon?",
+                    "answer": "3655",
+                    "explanation": "3655 BBY"
+                },
+                {
+                    "question": "When was the Jedi Temple of Onderon destroyed?",
+                    "answer": "BBY",
+                    "explanation": "3655 BBY"
+                }
+            ],
+            "hops": [
+                "Star Wars",
+                "the Jedi Temple"
+            ]
+        },
+        "Gotham City": {
+            "term": "Gotham City",
+            "passage": "The city's population was 9,531,079 at the 2000 census, and 8,765,231 in the 2010 census. It is the most populous of the five boroughs, and the second-most populous city in North America. Its population is about evenly split between its ethnic Chinese and Hispanic populations, which is about 3% of the total population. New York City is known as Gotham and, as mentioned in Batman, the city is run by a crime syndicate, which means that many of the city's villains, including the Joker, reside in Gotham. This is one of the main characters. One of the many characters in Gotham. One of the crime syndicates in Gotham. Another character from Gotham. A female character in the Gotham series. Gotham is, of course, an evil city. Gotham is a city in the DC Universe. Gotham is also the name of a TV series. There are many people in Gotham City. There are a lot of them. They have a lot of crime. And their city has a lot of crime too. I didn't know there was a TV show called Gotham until I started to get into The New 52. It was one of those newish TV shows that nobody seemed to be watching.",
+            "qae_pairs": [
+                {
+                    "question": " Answer: Gotham City.",
+                    "answer": "New York City",
+                    "explanation": "Gotham is a city in the DC Universe. It is the most populous of the five boroughs in New York City, and the second-most populous city in North America. It is also known as Gotham, and is known as a city run by a crime syndicate. The TV series Gotham is set in this city."
+                },
+                {
+                    "question": "What year did Gotham Citys population reach its peak of 8,765,231?",
+                    "answer": "2010",
+                    "explanation": "8,765,231 is the population of Gotham City in the year 2010."
+                },
+                {
+                    "question": "Question: Who is the main character in Gotham City?",
+                    "answer": "Joker",
+                    "explanation": "The Joker is the main character in Gotham City. He is a villain in the DC Universe. He is a criminal mastermind who is known for his twisted sense of humor. He is a psychopath who is known for his twisted sense of humor. He is a criminal mastermind who is known for his twisted sense of humor. He is a criminal mastermind who is known for his twisted sense of humor. He is a criminal mastermind who is known for his twisted sense of humor. He is a criminal mastermind who is known for his twisted sense of humor. He is a criminal mastermind who is known for his twisted sense"
+                }
+            ],
+            "hops": [
+                "The Dark Knight",
+                "Gotham City"
+            ]
+        },
+        "Bob Kane": {
+            "term": "Bob Kane",
+            "passage": "\"Born Robert Alan Kane in 1942, Bob Kane was born in Cleveland, Ohio. While growing up, his parents would take him to places like Coney Island in New York, where he witnessed the Brooklyn Bridge being built. He became a fan of the New York Giants, and his favorite player was his childhood hero, Bob Gibson. He attended Brooklyn Technical High School, and later, the University of Chicago. After college, he began to work for newspapers, and began writing comics. In the 1960s, he co-created Batman with Bill Finger, whom he met at a party in New York City. He created numerous other characters during his tenure as the writer and artist on the Detective comics series, such as Nightwing, Robin, the Joker and more. He was also featured on the classic 1970s animated series Super Friends. While creating the Batman comics, he also contributed to other comics such as Amazing Adult Superheroes, Batman: The Comic Book, and Detective Comics, in addition to many other titles. He also helped to design the Batmobile in the 1960s. During the late 1970s, he began to move into other mediums such as television, movies and television. He has contributed to numerous films and animated series. Kane has received numerous awards for his work, including a Lifetime Achievement Award from the Academy of Motion Picture Arts and Sciences. He currently lives in Los Angeles, California.",
+            "qae_pairs": [
+                {
+                    "question": "\nWhich Batman villain did Bob Kane create?",
+                    "answer": "Joker",
+                    "explanation": "Bob Kane co-created the Joker with Bill Finger. The character was first introduced in Detective Comics #27 in 1939."
+                },
+                {
+                    "question": "Where is Bob Kane currently living?",
+                    "answer": "California",
+                    "explanation": "Bob Kane currently lives in California."
+                },
+                {
+                    "question": "Who co-created Batman with Bob Kane?",
+                    "answer": "Bill Finger",
+                    "explanation": "Bill Finger is an American comic book artist and writer. He co-created Batman with Bob Kane, and the two collaborated on the creation of many other characters in the Batman universe."
+                },
+                {
+                    "question": "What city did Bob Kane, the creator of Batman, grow up in?",
+                    "answer": "Cleveland",
+                    "explanation": "Born Robert Alan Kane in 1942, Bob Kane was born in Cleveland, Ohio. While growing up, his parents would take him to places like Coney Island in New York, where he witnessed the Brooklyn Bridge being built. He became a fan of the New York Giants, and his favorite player was his childhood hero, Bob Gibson. He attended Brooklyn Technical High School, and later, the University of Chicago. After college, he began to work for newspapers, and began writing comics. In the 1960s, he co-created Batman with Bill Finger, whom he met at a party in New York City. He created"
+                },
+                {
+                    "question": "\nQuestion: What was the name of Bob Kane's favorite New York Giants player?",
+                    "answer": "the New York Giants",
+                    "explanation": "Bob Kane, the co-creator of Batman, was born Robert Alan Kane in 1942 in Cleveland, Ohio. He was a fan of the New York Giants, and his favorite player was Bob Gibson."
+                },
+                {
+                    "question": "What was Bob Kanes alma mater?",
+                    "answer": "the University of Chicago",
+                    "explanation": "Born Robert Alan Kane in 1942, Bob Kane was born in Cleveland, Ohio. While growing up, his parents would take him to places like Coney Island in New York, where he witnessed the Brooklyn Bridge being built. He became a fan of the New York Giants, and his favorite player was his childhood hero, Bob Gibson. He attended Brooklyn Technical High School, and later, the University of Chicago. While attending the University of Chicago, Kane studied literature, philosophy, and psychology. He graduated from the University of Chicago in 1964."
+                },
+                {
+                    "question": "Question: What state did Bob Kane, the creator of Batman, grow up in?",
+                    "answer": "Ohio",
+                    "explanation": "Bob Kane, the creator of Batman, was born in Cleveland, Ohio."
+                },
+                {
+                    "question": "What is the alma mater of Bob Kane, the creator of Batman?",
+                    "answer": "Brooklyn Technical High School",
+                    "explanation": "Born Robert Alan Kane in 1942, Bob Kane was born in Cleveland, Ohio. While growing up, his parents would take him to places like Coney Island in New York, where he witnessed the Brooklyn Bridge being built. He became a fan of the New York Giants, and his favorite player was his childhood hero, Bob Gibson. He attended Brooklyn Technical High School, and later, the University of Chicago. After college, he began to work for newspapers, and began writing comics. In the 1960s, he co-created Batman with Bill Finger, whom he met at a party in New York City. He created"
+                },
+                {
+                    "question": "\nWhich legendary baseball player was a fan of Bob Kane, and how did that influence the creation of the Batman character?",
+                    "answer": "Bob Gibson",
+                    "explanation": "Bob Gibson was a legendary baseball player during the 1960s, and was a fan of the Batman character. This influence is believed to have been a major factor in the creation of the character, as it was a way to create a new type of hero that was both a vigilante and a sports hero. The character was created by Bob Kane, who was inspired by the baseball players style of play."
+                },
+                {
+                    "question": "What year was Bob Kane born?",
+                    "answer": "1942",
+                    "explanation": "Bob Kane is a character in the Batman comics. He was born in 1942."
+                },
+                {
+                    "question": "\nQuestion: Who is the character created by Bob Kane that wears the Nightwing costume?",
+                    "answer": "Nightwing",
+                    "explanation": "Nightwing is a fictional character created by Bob Kane, who first appeared in Detective Comics #27 in 1959. He is a former Robin, who was trained by Batman to become a vigilante in Gotham City. Nightwing is known for his black and red costume, which is similar to the Batman costume. He is a member of the Teen Titans, and has been featured in numerous animated series and movies."
+                },
+                {
+                    "question": "What is the name of the beach in Brooklyn where Bob Kane witnessed the construction of the Brooklyn Bridge?",
+                    "answer": "Coney Island",
+                    "explanation": "Coney Island is a beach located in Brooklyn, New York. It is known for its amusement park, roller coasters, and other attractions. It is also where Bob Kane witnessed the construction of the Brooklyn Bridge."
+                }
+            ],
+            "hops": [
+                "The Dark Knight",
+                "Bob Kane"
+            ]
+        },
+        "Middle-earth": {
+            "term": "Middle-earth",
+            "passage": "“Middle-earth is an ancient world of Europe that is the setting for J. R. R. Tolkien's highly influential series of fantasy novels, The Hobbit and The Lord of the Rings. The world was first introduced to Western Europe in Tolkien's The Silmarillion. It is known in the Tolkien lexicon as 'Middle-earth', in the Old English of the time as 'Middëarth', and the German Middle Earth.”\nHere is a beautiful, if perhaps not completely convincing, video of a medieval inspired band performing an album track titled “Middle Earth” in the middle of the woods. Perhaps this is a reference to a time or a land in which elves and other creatures existed and people still lived in close harmony with their environment. Certainly the Middle Earth of Tolkien's books is more fantastical than real, and has a more fantastical history than the one we find in the Middle East. We're glad to have come across this video today, as we are in the process of designing our own website, and are wondering how to include such a musical element in it. It looks like the band is playing a mix of medieval and modern, so this is what's possible for people today, perhaps not exactly in the woods of the Middle Earth of Tolkien's books, but certainly on the same musical road.",
+            "qae_pairs": [
+                {
+                    "question": "\nWhat is the history and musical traditions of Middle-Earth?",
+                    "answer": "Middle Earth",
+                    "explanation": "Middle Earth is a fictional world created by J. R. R. Tolkien in his books The Hobbit and The Lord of the Rings. The world is a mixture of medieval and modern elements, and is set in a time when the Middle Ages were still alive in Europe. The music of Middle Earth is a mix of medieval and modern elements, and is often used in the books to evoke a sense of ancient and otherworldly magic. The music of Middle Earth is often performed by a variety of instruments, including harps, flutes, and other medieval instruments. The music of Middle Earth is often used to evoke a sense of"
+                },
+                {
+                    "question": "\nWhat creatures and places exist in Middle-earth beyond the borders of The Hobbit?",
+                    "answer": "The Hobbit",
+                    "explanation": "The Hobbit is a fictional character in J. R. R. Tolkiens Middle-earth series. He is a hobbit, a small creature that is part of the race of hobbits. The hobbit is a small creature that is part of the race of hobbits. They are known for their small size, their love of food, and their ability to live in holes in the ground. The hobbit is a fictional character in J. R. R. Tolkiens Middle-earth series. He is a hobbit, a small creature that is part of the race of hobbits. They"
+                },
+                {
+                    "question": " Answer:\nWhat is the name of the musical passage that contains the term 'Middle-earth' in its name?",
+                    "answer": "Rings",
+                    "explanation": "The musical passage is called Rings, which is the name of the musical group that performs it. The group is a medieval inspired band that performs a mix of medieval and modern music. The song is called Middle Earth, and the video is set in the woods."
+                }
+            ],
+            "hops": [
+                "The Lord of the Rings",
+                "Middle-earth"
+            ]
+        },
+        "Academy Awards": {
+            "term": "Academy Awards",
+            "passage": "There is a long history of racial controversy at the Academy Awards. The very first black person to win an Oscar, for best supporting actor, was the late, great Sidney Poitier, whose performance in 1951 was the first in a long line of many to follow that would prove that Hollywood is a very, very racist industry. Poitier's award was controversial because he had been nominated by his white co-star in a movie that could only be described as a race movie. The \"controversy\" was that Poitier, as a black man, should be in a white person's movie. Of course, the \"controversy\" is no longer controversial because Poitier is long gone and there is now...\n... black people, including a former nominee for Best Supporting Actor in a Motion Picture who has no connection with the movie, getting nominated for a Motion Picture. The \"controversy\" now is \"who should win Best Picture?\"... ... to the former black co-star's white co-star. The black guy gets a movie award because he's a black guy, and he's nominated because he's a black guy. And it's only because he's a black guy that a black guy is going to be nominated.",
+            "qae_pairs": [
+                {
+                    "question": "What are the major controversies surrounding the Academy Awards?",
+                    "answer": "Hollywood",
+                    "explanation": "1) The controversy surrounding the Academy Awards is that the Oscars are a very, very racist industry. 2) The controversy surrounding the Oscars is that the Academy Awards are a very, very racist institution. 3) The controversy surrounding the Oscars is that the Academy Awards are a very, very racist institution. 4) The controversy surrounding the Oscars is that the Academy Awards are a very, very racist institution. 5) The controversy surrounding the Oscars is that the Academy Awards are a very, very racist institution"
+                }
+            ],
+            "hops": [
+                "The Lord of the Rings",
+                "Academy Awards"
+            ]
+        },
+        "J. R. R. Tolkien": {
+            "term": "J. R. R. Tolkien",
+            "passage": "J. R. R. Tolkien (January 10, 1892 – September 2, 1973) was a British academic and writer. He wrote the immensely popular \"The Lord of the Rings\" series (1937–79) as well as the novel \"The Silmarillion\" (1982) and the poem \"Misty Mountain\". The books are best-sellers, and are highly regarded by scholars and readers alike. Tolkien was an Oxford scholar whose work was highly influential on other fantasy writers.",
+            "qae_pairs": [
+                {
+                    "question": "\nWhen was the book 'The Silmarillion' written by J. R. R. Tolkien?",
+                    "answer": "1982",
+                    "explanation": "The Silmarillion was written by J. R. R. Tolkien in 1982."
+                }
+            ],
+            "hops": [
+                "The Lord of the Rings",
+                "J. R. R. Tolkien"
+            ]
+        },
+        "Keanu Reeves": {
+            "term": "Keanu Reeves",
+            "passage": "He is the son of a Canadian-born teacher who adopted him after his parents divorced. While growing up, he attended French Immersion school in Vancouver, British Columbia. After the success of his first feature film, \"The Prince of Wyoming\", he left the Canadian city to become an American film actor. He is known for playing the leading roles in many Hollywood action and drama films. He has since been featured in various Hollywood movies.",
+            "qae_pairs": [
+                {
+                    "question": "What city did Keanu Reeves attend French Immersion school in?",
+                    "answer": "Vancouver",
+                    "explanation": "The Prince of Wyoming was a Canadian-American co-production, and Keanu Reeves was born in Vancouver, British Columbia."
+                },
+                {
+                    "question": "What type of school did Keanu Reeves attend as a child?",
+                    "answer": "French Immersion school",
+                    "explanation": "The Prince of Wyoming is a Canadian-born film, and it is not clear where Keanu Reeves attended school in Canada. However, it is known that he attended French Immersion school in Vancouver, British Columbia."
+                },
+                {
+                    "question": "Where was Keanu Reeves born?",
+                    "answer": "British Columbia",
+                    "explanation": "Keanu Reeves is the name of a famous Canadian-born actor. He was born in a city in British Columbia."
+                }
+            ],
+            "hops": [
+                "The Matrix",
+                "Keanu Reeves"
+            ]
+        },
+        "John Lennon": {
+            "term": "John Lennon",
+            "passage": "John Winston Lennon (9 October 1940 – 8 December 1980),[2] usually referred to simply as Lennon, was a Scottish singer-songwriter. He is widely regarded as one of the most influential musicians of popular music history. He is best known as the former member of the Beatles and as an outspoken critic of the band's break-up. Although Lennon's music style had more influence on pop music of the 60s, he is often quoted to have been a very shy person, that he preferred to stay away from the spotlight. [1]\nI see many parallels in these two passages. Although the two are completely different, both have been written to show that they are the most important person to you.",
+            "qae_pairs": [
+                {
+                    "question": "What is the birthdate of John Lennon?",
+                    "answer": "9 October 1940",
+                    "explanation": "(John Lennon) John Winston Lennon was born on 9 October 1940 in Liverpool, England. He was born to a working-class family. His father was a merchant seaman and his mother was a housewife. He was the youngest of four children. Question: Who is John Lennons father? Answer: John Winston Lennon Explanation: (John Lennon) John Lennons father was a merchant seaman. He was a very strict man. He was a very strict man. He was a very strict man. He was a very strict man. He was a very strict man."
+                },
+                {
+                    "question": "\nWhat song did the Beatles write for John Lennon in 1968?",
+                    "answer": "Beatles",
+                    "explanation": "The Beatles were a British rock band that was formed in Liverpool in 1960. They were one of the most influential bands in the history of popular music. They were the first band to have a number one hit in the United States, and they had a number of other hits in the UK. They were also one of the most popular bands in the world. The Beatles were a band that was formed in 1960 in Liverpool, England. They were one of the most influential bands in the history of popular music. They had a number of hits in the UK and the United States. They were also one of the most"
+                },
+                {
+                    "question": "\nWhat is John Lennon's real name?",
+                    "answer": "John Winston Lennon",
+                    "explanation": "John Lennons real name is John Winston Lennon. He was born on October 9th, 1940 in Liverpool, England. He was a singer-songwriter, and was a member of the Beatles. He was a very shy person, and preferred to stay away from the spotlight."
+                },
+                {
+                    "question": "What is the date of John Lennons death?",
+                    "answer": "8 December",
+                    "explanation": "8 December 1980"
+                }
+            ],
+            "hops": [
+                "Harry Potter and the Deathly Hallows",
+                "John Lennon"
+            ]
+        },
+        "John Battsek": {
+            "term": "John Battsek",
+            "passage": "\"After a period working for a small cinema in the town, Battsek was given a job as a manager of a video store. In 1990, he went to Edinburgh to manage a video store there. After a few months, he went back to Germany, where he started working as a video editor. He founded his own production company, and his first feature, \"A Swedish film\", was released in 2005. He then founded his production company, Cinema Kompetenz, and produced a number of his own films, such as \"A New Way to Die in Old China\", \"The Black Prince\" and \"Strosk\", as well as films directed by a number of other directors, and he won several awards for his films. He is known for his work on documentaries and documentaries about cinema. Since 2012, he is a member of the European Film Academy and a member of the Academy since 2014. \" I was reading the article, and I couldn't help but feel amazed about what he does. And it all starts with: \"Battsek and two colleagues set up a video rental store in the town, in 1990, and after a year or so, he was given a job as a manager at a video store in Edinburgh, Scotland. \"",
+            "qae_pairs": [
+                {
+                    "question": "What year did John Battsek direct his first feature film?",
+                    "answer": "2005",
+                    "explanation": "A Swedish film was released in 2005."
+                },
+                {
+                    "question": "What is the birthplace of John Battsek?",
+                    "answer": "Germany",
+                    "explanation": "Battsek was born in Leipzig, East Germany, on 14th December 1966. He is the son of a German father and a Czechoslovakian mother."
+                },
+                {
+                    "question": "What is the name of the organization that John Battsek is a member of?",
+                    "answer": "the European Film Academy",
+                    "explanation": "The European Film Academy is an organization that was founded in 1957 and is based in Strasbourg, France. It is a non-profit organization that is dedicated to the promotion of European cinema and the recognition of European films. It is made up of film professionals and artists from all over Europe, and it is the largest organization of its kind in the world."
+                },
+                {
+                    "question": "What year did John Battsek establish his own production company?",
+                    "answer": "1990",
+                    "explanation": "Battsek and two colleagues set up a video rental store in the town, in 1990, and after a year or so, he was given a job as a manager at a video store in Edinburgh, Scotland."
+                },
+                {
+                    "question": "What is the name of the Chinese film that John Battsek directed?",
+                    "answer": "China",
+                    "explanation": "A New Way to Die in Old China is a documentary about the Chinese film industry."
+                },
+                {
+                    "question": "What is the name of the production company that John Battsek founded?",
+                    "answer": "Cinema Kompetenz",
+                    "explanation": "Cinema Kompetenz is a German production company founded by John Battsek."
+                }
+            ],
+            "hops": [
+                "Harry Potter and the Deathly Hallows",
+                "John Battsek"
+            ]
+        },
+        "Beatles": {
+            "term": "Beatles",
+            "passage": "The Beatles, in a 1957 photo taken in Hamburg, Germany: John Lennon (left) and Paul McCartney (center) with their bandmate George Harrison, at the British Army Regiments in Germany. (Photo by Robert John Thornton / Wikimedia Commons)\nThis is what I have to say about it:\nIn a very short way, I would define this passage as a very precise definition of the origins of the band, who they were, where they played, what the music was and what their future is (as seen by a history buff) - all these are well-represented in this brief text that tells us a bit about the band and the way they came into existence. Now, why is the band called Beatles? Who were these guys that got the name? Well, the name, as we know it now, was adopted from a phrase that was coined from the surname of Lennon's mother. John Lennon changed the spelling of his surname, adding the \"s\" because, according to the Welsh, it doesn't sound the same as the Greek name. The Beatles were formed in the mid 1950s by John Lennon and Paul McCartney. As it stands, Lennon is the band's only permanent member.",
+            "qae_pairs": [
+                {
+                    "question": "Who is the only permanent member of the Beatles?",
+                    "answer": "Paul McCartney",
+                    "explanation": "(a) The Beatles were formed in the mid 1950s by John Lennon and Paul McCartney. (b) Lennon is the only permanent member of the Beatles. (c) Therefore, the only permanent member of the Beatles is John Lennon."
+                },
+                {
+                    "question": "What is the origin of the Beatles and where did they play their first gig?",
+                    "answer": "Germany",
+                    "explanation": "The Beatles were formed in Liverpool, England, in 1960. The band was formed by John Lennon and Paul McCartney, who were both born in Liverpool. The bands first gig was in Hamburg, Germany, in 1960. The bands first gig was in Hamburg, Germany, in 1960. The bands first gig was in Hamburg, Germany, in 1960. The bands first gig was in Hamburg, Germany, in 1960. The bands first gig was in Hamburg, Germany, in 1960. The bands first gig was in Hamburg"
+                },
+                {
+                    "question": "What year did the Beatles form?",
+                    "answer": "1957",
+                    "explanation": "1957 is the year that the Beatles were formed."
+                }
+            ],
+            "hops": [
+                "Harry Potter and the Deathly Hallows",
+                "Beatles"
+            ]
+        },
+        "Harry Potter": {
+            "term": "Harry Potter",
+            "passage": "Harry Potter (Tom Cruise) finds that he is the one destined to save the world. This marks the beginning of his quest and an unlikely friendship between him and Ron (James McAvoy) and Hermione (Emma Watson) is formed. The Harry Potter and the Philosopher's Stone characters are copyright Warner Bros. Pictures.",
+            "qae_pairs": [
+                {
+                    "question": "Who is the actor who plays Harry Potter in the movies?",
+                    "answer": "Tom Cruise",
+                    "explanation": "Tom Cruise is an American actor who has starred in many movies, including the Harry Potter movies. He played the character of Harry Potter in the first two movies of the series."
+                },
+                {
+                    "question": "What studio produced the Harry Potter movies?",
+                    "answer": "Warner Bros. Pictures",
+                    "explanation": "The Harry Potter movies were produced by Warner Bros. Pictures."
+                }
+            ],
+            "hops": [
+                "Harry Potter and the Deathly Hallows",
+                "Harry Potter"
+            ]
+        },
+        "Lex Murphy": {
+            "term": "Lex Murphy",
+            "passage": "Born and raised in West Virginia, Lex graduated from the University of Pittsburgh at age 18, with a degree in sociology. She is now the author of two books, the first of which is \"A Long Way Off: Poems.\" She resides in the rural North Yorkshire area in England, and has lived there since the age of 20. Lex is a member of \"The Poets Laureate Association.\" So...how does Lex Murphy write? A lot of poets write the same way: some, like me, work and work and work and write, to see if I can make the words mean something. I think of my work as being like that of artists painting on canvas. Here's a poem I wrote a while back that I really like. It's kind of short and I'm not sure what to say about it. So, let's just keep it simple.",
+            "qae_pairs": [
+                {
+                    "question": "Question: What is Lex Murphys favorite poem?",
+                    "answer": "The Poets Laureate Association",
+                    "explanation": "The Poets Laureate Association is a poem that was written by Lex Murphy in 2005. It is a poem that is about the poet laureate of England, and the poet laureate of the United States. The poem is a kind of tribute to the poet laureate of the United States, and it is a poem that is meant to be a kind of tribute to the poet laureate of England. The poem is a kind of poem that is meant to be a kind of tribute to the poet laureate of the United States. The poem is a kind of poem that is meant to be a kind of tribute to"
+                },
+                {
+                    "question": "What is Lex Murphys alma mater?",
+                    "answer": "the University of Pittsburgh",
+                    "explanation": "I graduated from the University of Pittsburgh at age 18, with a degree in sociology."
+                },
+                {
+                    "question": "What is Lex Murphys birthplace?",
+                    "answer": "West Virginia",
+                    "explanation": "A Long Way Off: Poems by Lex Murphy is a collection of poems that was published in 2002. The book is dedicated to the poets mother, who died from cancer in 1999. The poems in the book are about Lexs mother, and the area of West Virginia where she grew up. Lex was born in West Virginia, and she now lives in England."
+                }
+            ],
+            "hops": [
+                "Jurassic Park",
+                "Lex Murphy"
+            ]
+        },
+        "Leonardo DiCaprio": {
+            "term": "Leonardo DiCaprio",
+            "passage": "“DiCaprio’s role in The Wolf of Wall Street (2013) was praised by some critics as “the best thing he has done onscreen in quite some time.” He won the 2016 Academy Award for Best Actor for his role as Leonardo DiCaprio in The Revenant, making him one of only 14 actors to win an Oscar for playing the same character. He has been nominated for 10 Academy Awards, a record for a male actor in a leading role. The year of DiCaprio’s most nominations was 2008, when he was nominated for five different acting categories.”\nLeonardo DiCaprio has been nominated for more than 10 Academy Awards, the most for any actor in a leading role. He is the first male actor to be nominated for a leading role 10 times.",
+            "qae_pairs": [
+                {
+                    "question": "What was Leonardo DiCaprios most recent film to be nominated for an Academy Award?",
+                    "answer": "2016",
+                    "explanation": "“DiCaprio won the Academy Award for Best Actor in 2016 for his role in The Revenant. He was nominated for 10 Academy Awards, a record for a male actor in a leading role. The year of DiCaprios most nominations was 2008, when he was nominated for five different acting categories.”"
+                }
+            ],
+            "hops": [
+                "Titanic",
+                "Leonardo DiCaprio"
+            ]
+        },
+        "the North Atlantic Ocean": {
+            "term": "the North Atlantic Ocean",
+            "passage": "\"It is also the ocean of the largest species of animal in the world - the blue whale. The ocean is an important area for a variety of oceanic research, including a focus on marine ecology and conservation. It is home to the world's most famous marine mammals, such as the sperm whale, beluga whale, and sea otter. It is the largest of Earth's five oceans and is known for its massive tides, as well as for the large areas of oceanic dead-zones.\" The North Atlantic Ocean has some unique animal life such as the sperm whale, beluga whale, and sea otter. In the dead of winter, the sea otters come to the river and the bay near us to wait out the tough times for them.",
+            "qae_pairs": [
+                {
+                    "question": "Question: What is the North Atlantic Ocean like?",
+                    "answer": "us",
+                    "explanation": "The North Atlantic Ocean is a large ocean that lies between Europe, Africa, and North America. It is the worlds fifth-largest ocean, covering an area of about 1.2 million square miles. It is characterized by its deep blue color, which is caused by the absorption of sunlight by the oceans phytoplankton. It is home to a variety of marine life, including a diverse array of fish species, such as herring, mackerel, and cod. It is also the home of the worlds largest species of animal - the blue whale. The ocean is an important area for a"
+                }
+            ],
+            "hops": [
+                "Titanic",
+                "the North Atlantic Ocean"
+            ]
+        },
+        "E.A. Smith": {
+            "term": "E.A. Smith",
+            "passage": "Edwin Aron Smith (1887 – July 22, 1939) was a British writer and poet, whose works include the novels The Black Prince, and The Way. He was born Edwin Arthur Smith in Bexhill, Sussex, and wrote his first novel at the age of twelve. During his lifetime he wrote 35 other books and over 300 poems. Edwin Aron Smith's works are considered to be the result of a highly developed imagination, as well as his profound personal struggles. Though most of his novels were written during the first world war, his works are characterized as pre-Tennessee Williams, post-Gothic, and in the spirit of Dostoevski. Smith's works include novels, poems, essays, and plays. The Way, in particular, has been noted for its use of the modernist and surrealist narrative techniques, and its themes of loss, death, and a descent into insanity. He is regarded as a significant poet of the twentieth century. The Way is a book by E.A. Smith which is a collection of 21 short stories which are written in a post-Gothic manner. It is mainly made up of tales of the death of a man and his journey through a dream world. The Black Prince is a collection of seven short stories written by E.A. Smith.",
+            "qae_pairs": [
+                {
+                    "question": "\nWhat is the writing style of E.A. Smith?",
+                    "answer": "post-Gothic",
+                    "explanation": "E.A. Smiths writing style is characterized as post-Gothic. This means that his works are set in a world that is separate from the world of everyday life, and that the supernatural and the macabre are often present. His works are also characterized by their use of modernist and surrealist narrative techniques, as well as their themes of loss, death, and a descent into insanity."
+                },
+                {
+                    "question": "\nWhat is the name of E.A. Smith's birthplace?",
+                    "answer": "Bexhill",
+                    "explanation": "E.A. Smith was born in Bexhill, Sussex, England."
+                },
+                {
+                    "question": "\nWhat connection exists between E.A. Smith's work and the life and works of Dostoevski?",
+                    "answer": "Dostoevski",
+                    "explanation": "Dostoevskis works are characterized by their use of the modernist and surrealist narrative techniques, and their themes of loss, death, and a descent into insanity. E.A. Smiths works are also characterized by these narrative techniques, and his works are also made up of tales of the death of a man and his journey through a dream world."
+                },
+                {
+                    "question": "\nWhat age did E.A. Smith write his first novel, The Black Prince?",
+                    "answer": "the age of twelve",
+                    "explanation": "E.A. Smith wrote his first novel, The Black Prince, at the age of twelve."
+                },
+                {
+                    "question": "\nWhat is the name of E.A. Smith's collection of short stories?",
+                    "answer": "The Black Prince",
+                    "explanation": "The Black Prince is a collection of seven short stories written by E.A. Smith."
+                }
+            ],
+            "hops": [
+                "Titanic",
+                "E.A. Smith"
+            ]
+        },
+        "James Cameron": {
+            "term": "James Cameron",
+            "passage": "\"James Cameron is an American film director, screenwriter and producer. He is best known for his films Titanic, Avatar, and Terminator 2: Judgment Day, for which he won an Academy Award for Best Original Screenplay. He received a star on the Hollywood Walk of Fame in 2009. He is currently preparing to direct Avatar 2 for release on December 14, 2018. He also is set to direct the upcoming movie Avatar 3, which will be released in 2019. Cameron's films have been noted for their elaborate special effects, as well as his creative approach to storytelling. His films have been noted for their environmental themes and his use of nature as an integral element in his films. In 2009, Cameron was awarded an Academy Award for Best Original Screenplay for the movie Avatar.\" In an interview with Cameron for Titanic, the director was talking about the famous 'I'll never let go' scene. The scene that was described like this was about 'how do you prepare yourself for letting go?' When Cameron saw Titanic, he went, 'I could do that - if you can do that, I'm sure I can do it too.' So, this scene was about getting on the boat in the first place. And what is Cameron going to do, when he sees Titanic? He's going to be holding that little kid.",
+            "qae_pairs": [
+                {
+                    "question": "What Academy Award did James Cameron receive for Titanic?",
+                    "answer": "an Academy Award for Best Original Screenplay",
+                    "explanation": "I could do that - if you can do that, Im sure I can do it too. James Camerons original screenplay for Titanic won an Academy Award for Best Original Screenplay."
+                },
+                {
+                    "question": "\nIn 2019, when will James Cameron's next movie be released?",
+                    "answer": "2019",
+                    "explanation": "James Camerons next movie will be released in 2019."
+                },
+                {
+                    "question": "What year did James Cameron win an Academy Award for Best Original Screenplay?",
+                    "answer": "2009",
+                    "explanation": "Avatar was released in 2009."
+                }
+            ],
+            "hops": [
+                "Titanic",
+                "James Cameron"
+            ]
+        },
+        "Stephen D. Clark": {
+            "term": "Stephen D. Clark",
+            "passage": "The character is a 'black hat hacker' (a name given to people who engage in computer-based crime). He has been accused of being the person who hacked into the Pentagon computers on July 4, 1989. Stephen D. Clark\n\"I'm gonna hack into that thing\"\n\"I'm gonna hack into that thing\"\nThis entry was posted on Wednesday, October 7, 2008. You can follow the comments through the RSS 2.0 feed. I'm surprised I didn't hear this on NPR -- the last thing I heard from NPR was that a bunch of people in my neighborhood were complaining about the \"free\" Wi-Fi that we could get in our homes.",
+            "qae_pairs": [
+                {
+                    "question": "\nQ: What was the first thing that came to mind when Stephen D. Clark said he was gonna hack into the Pentagon's computer system?",
+                    "answer": "Pentagon",
+                    "explanation": "The character is a black hat hacker (a name given to people who engage in computer-based crime). He has been accused of being the person who hacked into the Pentagon computers on July 4, 1989. Stephen D. Clark"
+                }
+            ],
+            "hops": [
+                "Titanic",
+                "Stephen D. Clark"
+            ]
+        },
+        "Southampton": {
+            "term": "Southampton",
+            "passage": "\"Southampton (\n/ˈsɒnth(ə)p(ə)l/ (help · listen)\n) is a port city on the south coast of England. It has the fourth-largest economy in the country after the three London-based financial centres. History\nThe area has been populated for thousands of years. The harbour was established by the Romans in the 1st century AD. The city name originates from the name of the Celtic-speaking Roman settlement built near the River Thames called \"Hampton\". During the Middle Ages, the city was the centre of the Roman Catholic Church in England, which made it a centre of shipbuilding and maritime trade. Southampton also became the centre of cloth trade and, as such, Southampton became known as \"Soton\" (or \"Southend\") and the largest seaport in the world. During the Industrial Revolution the city became the world's biggest centre for trade in Southampton-manufactured goods. Southampton's prosperity was helped by its location on the South Coast near the Isle of Wight. After the Industrial Revolution the city was established as a centre for the production of shipbuilding materials such as rope. Southampton's prosperity was further enhanced by the discovery in 1798 of oil and natural gas at the nearby oil fields and the establishment of a number of refineries to extract the resources.",
+            "qae_pairs": [
+                {
+                    "question": "\nWhat are the ships that sank on the voyage from Southampton to the Isle of Wight in 1912?",
+                    "answer": "the Isle of Wight",
+                    "explanation": "The ships that sank on the voyage from Southampton to the Isle of Wight in 1912 were the SS Titanic and the SS Olympic."
+                }
+            ],
+            "hops": [
+                "Titanic",
+                "Southampton"
+            ]
+        }
+    }
+}

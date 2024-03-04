@@ -1,0 +1,98 @@
+[
+    {
+        "demo_id": 0,
+        "question": "When was the institute that owned The Collegian founded?",
+        "answer": "1960",
+        "cot": [
+            "Step 1: The Collegian is the bi-weekly official student publication of Houston Baptist University in Houston, Texas.",
+            "Step 2: Houston Baptist University was founded in 1960 and is located in the Sharpstown area in Southwest Houston."
+        ],
+        "type": "bridge",
+        "hops": 2
+    },
+    {
+        "demo_id": 1,
+        "question": "Do musicians Robert Fleischman and Jimmy Barnes have the same nationality?",
+        "answer": "No",
+        "cot": [
+            "Step 1: Robert Fleischman (born March 11, 1953) is an American musician, songwriter, and record producer.",
+            "Step 2: James Dixon Swan (born 28 April 1956), better known as Jimmy Barnes, is a Scottish-Australian rock singer-songwriter."
+        ],
+        "type": "comparison",
+        "hops": 2
+    },
+    {
+        "demo_id": 2,
+        "question": "Who was born first George Marshall or Allan Dwan?",
+        "answer": "Allan Dwan",
+        "cot": [
+            "Step 1: George Marshall (December 29, 1891 – February 17, 1975) was an American actor, screenwriter, producer, film and television director.",
+            "Step 2: Allan Dwan (April 3, 1885 – December 28, 1981) was a pioneering Canadian-born American motion picture director, producer and screenwriter."
+        ],
+        "type": "comparison",
+        "hops": 2
+    },
+    {
+        "demo_id": 3,
+        "question": "What American country music singer-songwriter, born in May of 1942, sang a duet with her ex-husband the same year that he released the song \"The Battle?\"",
+        "answer": "Tammy Wynette",
+        "cot": [
+            "Step 1: \"The Battle\" is a song by American country music artist George Jones.",
+            "Step 2: At the same year, George Jones sang a duet called \"Golden Ring\" with his ex-wife Tammy Wynette.",
+            "Step 3: Tammy Wynette was born on May 5, 1942, and was an American country music singer-songwriter."
+        ],
+        "type": "bridge",
+        "hops": 3
+
+    },
+    {
+        "demo_id": 4,
+        "question": "What's the citizen country of the actor who plays John, in the movie where the title requests a meeting, in the city where James Cuno was born?",
+        "answer": "America",
+        "cot": [
+            "Step 1: The place of birth pf James Cuno is St. Louis, Missouri.",
+            "Step 2: The actor who plays John in the movie meet me in st louis is Tom Drake.",
+            "Step 3: Tom Drake is a citizen of America."
+        ],
+        "type": "bridge",
+        "hops": 3
+    },
+    {
+        "demo_id": 5,
+        "question": "When did the civil war start in the country that, along with Arabia and the nation where Gololcha is found, has songs that sound like those of Somalia?",
+        "answer": "5 June 1983",
+        "cot": [
+            "Step 1: Gololcha is one of the woredas in the Oromia Region of Ethiopia.",
+            "Step 2: Along with Arabia and Ethiopia, the land that has songs that sound like those of Somalia is Sudan.",
+            "Step 3: The civil war in Sudan started on 5 June 1983."
+        ],
+        "type": "bridge",
+        "hops": 3
+    },
+    {
+        "demo_id": 6,
+        "question": "The Tyras Vallis is the same type of geographical feature as the one of Ten Thousand Smokes in the state purchased from Russia. Which military branch did the president who purchased that state serve in?",
+        "answer": "Union Army",
+        "cot": [
+            "Step 1: Tyras Vallis is an ancient river valley in the Lunae Palus quadrangle of Mars.",
+            "Step 2: Vally of Ten Thousand Smokes is a valley within the Katmai National Park and Preserve in Alaska.",
+            "Step 3: The man who signed the treaty to purchase Alaska from Russia was Andrew Johnson.",
+            "Step 4: Andrew Johnson served in the Union Army."
+        ],
+        "type": "bridge",
+        "hops": 4
+    },
+    {
+        "demo_id": 7,
+        "question": "When did Italy fight in the same conflict as did Albert I of the country hosting the 1920 Summer Olympics, where the country that won women's gold curling participated in?",
+        "answer": "1915",
+        "cot": [
+            "Step 1: The country that won women's gold curling in the 1920 Summer Olympics is Sweden.",
+            "Step 2: The country hosting the 1920 Summer Olympics is Belgium.",
+            "Step 3: The conflict that Albert I of Belgium fought in with Italy is World War I.",
+            "Step 4: Italy fought in World War I in 1915."
+        ],
+        "type": "bridge",
+        "hops": 4
+    }
+]

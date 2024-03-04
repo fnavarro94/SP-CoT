@@ -1,0 +1,1171 @@
+{
+    "first_hops": {
+        "Super Mario Bros.": {
+            "term": "Super Mario Bros.",
+            "passage": "Super Mario Bros. is a 1985 platform video game developed and published by Nintendo for the Nintendo Entertainment System (NES). It is the first of the Super Mario series of games and introduced the player character Mario and his brother Luigi, as well as the fictional world of the Mushroom Kingdom. The game follows Mario and Luigi as they travel through the Mushroom Kingdom to rescue Princess Toadstool from the antagonist Bowser. The game introduced many elements that have become staples of the Mario franchise, such as power-ups that grant Mario special abilities, and levels designed around specific themes. The game's popularity and success led to it being ported to multiple platforms and spawned a series of sequels, spin-offs, and related media. Super Mario Bros. was a commercial and critical success, and is often considered one of the greatest video games of all time. It has sold over 40 million copies worldwide, making it one of the best-selling video games of all time. The game's success led to the creation of the Mario franchise, which has since become one of the most successful and recognizable video game franchises in the world.",
+            "qae_pairs": [
+                {
+                    "question": "In Super Mario Bros., who is Mario's brother?",
+                    "answer": "Luigi",
+                    "explanation": "It is the first of the Super Mario series of games and introduced the player character Mario and his brother Luigi, as well as the fictional world of the Mushroom Kingdom."
+                },
+                {
+                    "question": "'What is the name of the character that Mario and Luigi are trying to rescue in Super Mario Bros.?'",
+                    "answer": "Princess Toadstool",
+                    "explanation": "The game follows Mario and Luigi as they travel through the Mushroom Kingdom to rescue Princess Toadstool from the antagonist Bowser."
+                },
+                {
+                    "question": "What is the name of the video game console on which Super Mario Bros. was first released?",
+                    "answer": "NES",
+                    "explanation": "Super Mario Bros. is a 1985 platform video game developed and published by Nintendo for the Nintendo Entertainment System (NES)."
+                },
+                {
+                    "question": "\"What is the name of the fictional world where Super Mario Bros. takes place?\"",
+                    "answer": "the Mushroom Kingdom",
+                    "explanation": "The game follows Mario and Luigi as they travel through the Mushroom Kingdom to rescue Princess Toadstool from the antagonist Bowser."
+                }
+            ],
+            "hops": [
+                "Super Mario Bros."
+            ]
+        },
+        "The Legend of Zelda": {
+            "term": "The Legend of Zelda",
+            "passage": "The Legend of Zelda is a high fantasy action-adventure video game series created by Shigeru Miyamoto and developed and published by Nintendo. The series is primarily centered on the adventures of the protagonist Link, and his efforts to save Hyrule and the multiverse from evil forces. The first game in the series, The Legend of Zelda, was released in 1986 for the Nintendo Entertainment System (NES). The game introduced many of the series' core elements, such as the open-ended world, the recurring character of Ganon, and the use of magical items and weapons to defeat enemies. Since then, the series has expanded to include numerous sequels, spin-offs, and re-imaginings across various consoles and handheld devices. The series has also been adapted into other media, such as manga, novels, and a television series. The games in the series have been praised for their innovative gameplay, expansive worlds, and immersive storytelling, and have become some of the most iconic and beloved video games of all time. The series has also been noted for its use of themes and motifs, such as the Triforce, a powerful artifact that represents the three elements of power, wisdom, and courage, and the recurring motif of light and darkness. The series has also explored themes of heroism, sacrifice, and the struggle between good and evil. The series has also been praised for its music, with many of the games' soundtracks becoming iconic in their own right. The series' music has been composed by a variety of musicians, including Koji Kondo, who has composed the music for nearly every game in the series.",
+            "qae_pairs": [
+                {
+                    "question": "What year was the first game in the Legend of Zelda series released?",
+                    "answer": "1986",
+                    "explanation": "The first game in the series, The Legend of Zelda, was released in 1986 for the Nintendo Entertainment System (NES)."
+                },
+                {
+                    "question": "How was the first game in the series, The Legend of Zelda, released? 'Shigeru Miyamoto' is the answer to which question: Who created the series and developed and published it?",
+                    "answer": "the Nintendo Entertainment System",
+                    "explanation": "The first game in the series, The Legend of Zelda, was released in 1986 for the Nintendo Entertainment System (NES)."
+                },
+                {
+                    "question": "Which place is the setting of the series?",
+                    "answer": "Hyrule",
+                    "explanation": "The first game in the series, The Legend of Zelda, was released in 1986 for the Nintendo Entertainment System (NES)."
+                },
+                {
+                    "question": "What is the name of the console on which the first game in the Legend of Zelda series was released?",
+                    "answer": "NES",
+                    "explanation": "The first game in the series, The Legend of Zelda, was released in 1986 for the Nintendo Entertainment System (NES)."
+                },
+                {
+                    "question": "Q: Who is the composer of the music for nearly every game in the Legend of Zelda series?",
+                    "answer": "Koji Kondo",
+                    "explanation": "The series has also been praised for its music, with many of the games' soundtracks becoming iconic in their own right. The series' music has been composed by a variety of musicians, including Koji Kondo, who has composed the music for nearly every game in the series. Evidence sentence: The series' music has been composed by a variety of musicians, including Koji Kondo, who has composed the music for nearly every game in the series."
+                },
+                {
+                    "question": "What is the name of the main antagonist in The Legend of Zelda series?",
+                    "answer": "Ganon",
+                    "explanation": "The first game in the series, The Legend of Zelda, was released in 1986 for the Nintendo Entertainment System (NES)."
+                },
+                {
+                    "question": "What is the name of the powerful artifact that represents the three elements of power, wisdom, and courage in The Legend of Zelda series?",
+                    "answer": "Triforce",
+                    "explanation": "The series has also been noted for its use of themes and motifs, such as the Triforce, a powerful artifact that represents the three elements of power, wisdom, and courage, and the recurring motif of light and darkness."
+                },
+                {
+                    "question": "What is the name of the creator of the Legend of Zelda video game series?",
+                    "answer": "Shigeru Miyamoto",
+                    "explanation": "The first game in the series, The Legend of Zelda, was released in 1986 for the Nintendo Entertainment System (NES)."
+                }
+            ],
+            "hops": [
+                "The Legend of Zelda"
+            ]
+        },
+        "Grand Theft Auto V": {
+            "term": "Grand Theft Auto V",
+            "passage": "Grand Theft Auto V is an action-adventure video game developed by Rockstar North and published by Rockstar Games. It was released on September 17, 2013, for the PlayStation 3 and Xbox 360, on November 18, 2014, for the PlayStation 4 and Xbox One, and on April 14, 2015, for Microsoft Windows. The game is the first main entry in the Grand Theft Auto series since 2008's Grand Theft Auto IV. Set within the fictional state of San Andreas, based on Southern California, the single-player story follows three criminals and their efforts to commit heists while under pressure from a government agency. The open world design lets players freely roam San Andreas's open countryside and the fictional city of Los Santos, based on Los Angeles. The game's story is told through multiple interconnected narratives, and players control the three lead protagonists throughout the single-player mode. The story's plot centers around the heist sequences, and additional missions involve a diverse range of activities, such as shooting and driving. The game also features numerous recurring characters, who return from previous games in the series. The game's world is populated with a variety of people, including pedestrians, who may react to the player's actions in different ways. The game also features a dynamic weather system, which affects the gameplay and environment. Grand Theft Auto V received critical acclaim, with praise directed at its multiple protagonist design, open world, and gameplay. It became the fastest-selling video game in history, selling over 11 million copies in its first day of release.",
+            "qae_pairs": [
+                {
+                    "question": "What is the operating system that Grand Theft Auto V was released for? What is the name of the game that was released for the PlayStation 3 and Xbox 360 in 2013? What is the name of the game that was released for the Play",
+                    "answer": "Microsoft Windows",
+                    "explanation": "Grand Theft Auto V was released on September 17, 2013, for the PlayStation 3 and Xbox 360, on November 18, 2014, for the PlayStation 4 and Xbox One, and on April 14, 2015, for Microsoft Windows. Explanation: The passage mentions the release dates of Grand Theft Auto V for different gaming platforms."
+                },
+                {
+                    "question": "What is the name of the video game development company that developed and published Grand Theft Auto V?",
+                    "answer": "Rockstar North",
+                    "explanation": "The game is the first main entry in the Grand Theft Auto series since 2008's Grand Theft Auto IV. Explanation: The sentence is extracted as an evidence of the fact that Grand Theft Auto V is the first main entry in the Grand Theft Auto series since 2008's Grand Theft Auto IV."
+                },
+                {
+                    "question": "What is the name of the company that developed and published Grand Theft Auto V?",
+                    "answer": "Rockstar Games",
+                    "explanation": "Grand Theft Auto V is an action-adventure video game developed by Rockstar North and published by Rockstar Games. Explanation: The passage mentions that Rockstar North developed the game, while Rockstar Games published it. Therefore, the evidence sentence Grand Theft Auto V is an action-adventure video game developed by Rockstar North and published by Rockstar Games explains that the game was developed by Rockstar North and published by Rockstar Games."
+                },
+                {
+                    "question": "What is the name of the video game console developed by Sony Interactive Entertainment and released in November 2013?",
+                    "answer": "the PlayStation 4",
+                    "explanation": "Grand Theft Auto V is an action-adventure video game developed by Rockstar North and published by Rockstar Games. It was released on September 17, 2013, for the PlayStation 3 and Xbox 360, on November 18, 2014, for the PlayStation 4 and Xbox One, and on April 14, 2015, for Microsoft Windows. Explanation: The evidence sentence explains the release dates of the video game Grand Theft Auto V for different video game consoles."
+                },
+                {
+                    "question": "What is the year that Grand Theft Auto IV was released?",
+                    "answer": "2008",
+                    "explanation": "The game is the first main entry in the Grand Theft Auto series since 2008's Grand Theft Auto IV."
+                },
+                {
+                    "question": "The question is \"What is the name of the fictional state in Grand Theft Auto V?\"",
+                    "answer": "San Andreas's",
+                    "explanation": "Set within the fictional state of San Andreas, based on Southern California, the single-player story follows three criminals and their efforts to commit heists while under pressure from a government agency. Explanation: The passage states that the game is set in the fictional state of San Andreas, which is based on Southern California. The game's story follows three criminals who commit heists while being under pressure from a government agency."
+                },
+                {
+                    "question": "\"When was Grand Theft Auto V released for the PlayStation 4 and Xbox One?\"",
+                    "answer": "November 18, 2014",
+                    "explanation": "Set within the fictional state of San Andreas, based on Southern California, the single-player story follows three criminals and their efforts to commit heists while under pressure from a government agency."
+                },
+                {
+                    "question": "The question is \"What is the fictional city in Grand Theft Auto V based on?\"",
+                    "answer": "Los Angeles",
+                    "explanation": "The game's story is told through multiple interconnected narratives, and players control the three lead protagonists throughout the single-player mode. The story's plot centers around the heist sequences, and additional missions involve a diverse range of activities, such as shooting and driving."
+                }
+            ],
+            "hops": [
+                "Grand Theft Auto V"
+            ]
+        },
+        "Minecraft": {
+            "term": "Minecraft",
+            "passage": "Minecraft is a sandbox video game created by Swedish game developer Markus \"Notch\" Persson and later developed by Mojang. The game was first released on May 17, 2009, as a PC game, and was later ported to various other platforms, including Android, iOS, Xbox 360, Xbox One, PlayStation 3, PlayStation 4, Vita, Nintendo Switch, and Wii U. The game allows players to build with a variety of different blocks in a 3D procedurally generated world, requiring creativity from players. Other activities in the game include exploration, resource gathering, crafting, and combat. Minecraft has been praised for its replay value, sandbox-style gameplay, and its ability to allow players to create anything they can imagine. The game has also been criticized for its learning curve and its lack of direction. Minecraft has sold over 200 million copies worldwide, making it one of the best-selling video games of all time. The game has also spawned a large community of players who create their own mods, skins, and other content for the game. In 2014, Minecraft was awarded the Golden Joystick Award for Best Independent Game, and in 2015, it was awarded the BAFTA Award for Best Family Game. In 2019, Minecraft was inducted into the World Video Game Hall of Fame.",
+            "qae_pairs": [
+                {
+                    "question": "A. What is the date when Minecraft was inducted into the World Video Game Hall of Fame? B. When was Minecraft first released as a PC game? C. What year was Minecraft awarded the BAFTA Award for Best Family Game? D. What is the platform Minecraft was",
+                    "answer": "2015",
+                    "explanation": "The game has also been criticized for its learning curve and its lack of direction."
+                },
+                {
+                    "question": "\"What is the name of the eighth generation video game console developed by Nintendo, which was released in 2012 and was discontinued in 2017?\" 'What is the name of the eighth generation video game console developed by Nintendo, which was released in",
+                    "answer": "Wii U",
+                    "explanation": "The game was first released on May 17, 2009, as a PC game, and was later ported to various other platforms, including Android, iOS, Xbox 360, Xbox One, PlayStation 3, PlayStation 4, Vita, Nintendo Switch, and Wii U. This sentence explains that Minecraft was first released as a PC game in 2009 and was later ported to various other platforms, including the Wii U, which was developed by Nintendo and was discontinued in 2017."
+                },
+                {
+                    "question": "What is the name of the award that Minecraft won in 2015?",
+                    "answer": "the BAFTA Award",
+                    "explanation": "Minecraft has been praised for its replay value, sandbox-style gameplay, and its ability to allow players to create anything they can imagine. The passage suggests that Minecraft is a popular video game that has won several awards, including the Golden Joystick Award for Best Independent Game in 2014 and the BAFTA Award for Best Family Game in 2015. It also notes that the game has been praised for its replay value, sandbox-style gameplay, and its ability to allow players to create anything they can imagine."
+                },
+                {
+                    "question": "A. What is the release date of Minecraft? B. What is the name of the game developer who created Minecraft? C. What platforms has Minecraft been ported to? D. What is the name of the award Minecraft won in 2014? E.",
+                    "answer": "May 17, 2009",
+                    "explanation": "The game was first released on May 17, 2009, as a PC game, and was later ported to various other platforms, including Android, iOS, Xbox 360, Xbox One, PlayStation 3, PlayStation 4, Vita, Nintendo Switch, and Wii U. Passage about Minecraft: Minecraft is a sandbox video game created by Swedish game developer Markus Notch Persson and later developed by Mojang."
+                },
+                {
+                    "question": "\"Who created Minecraft?\"",
+                    "answer": "Markus \"Notch\" Persson",
+                    "explanation": "Minecraft is a sandbox video game created by Swedish game developer Markus Notch Persson and later developed by Mojang. Question: What is Minecraft? Answer: Minecraft is a sandbox video game that allows players to build with a variety of different blocks in a 3D procedurally generated world, requiring creativity from players. Other activities in the game include exploration, resource gathering, crafting, and combat."
+                },
+                {
+                    "question": "A. What is the year Minecraft was first released? B. What is the year Minecraft was awarded the Golden Joystick Award for Best Independent Game? C. What is the year Minecraft was awarded the BAFTA Award for Best Family Game? D. What is the year Mine",
+                    "answer": "2014",
+                    "explanation": "Minecraft has been praised for its replay value, sandbox-style gameplay, and its ability to allow players to create anything they can imagine."
+                }
+            ],
+            "hops": [
+                "Minecraft"
+            ]
+        },
+        "Call of Duty": {
+            "term": "Call of Duty",
+            "passage": "Call of Duty is a first-person shooter video game franchise created by Infinity Ward and published by Activision. The series is based on various wars, with each game featuring different historical settings and geographical locations. The series has been successful, selling over 300 million copies as of 2021, and is one of the best-selling video game franchises in history. The first game in the series, Call of Duty, was released in 2003 and was set during World War II. It was followed by Call of Duty: United Offensive in 2004, which was an expansion pack for the first game. The series then shifted its focus to modern warfare with Call of Duty 2 in 2005, which was set in various locations throughout Europe. The series continued with Call of Duty 3 in 2006, which was set during the Normandy landings on D-Day. In 2007, Call of Duty: Modern Warfare was released, which is considered by many to be one of the best first-person shooter games of all time. The game was set in modern times and featured a storyline that focused on the conflict between the United States and Russia. The game was followed by Call of Duty: Modern Warfare: Mobilized in 2007, which was a top-down shooter game for the Nintendo DS. In 2008, Call of Duty: World at War was released, which was set during World War II and featured a co-op campaign mode.",
+            "qae_pairs": [
+                {
+                    "question": "* What is the name of the game mode in Call of Duty: Modern Warfare? * What is the name of the famous World War II invasion of Normandy? * What is the name of the expansion pack for the first Call of Duty game? * What is the",
+                    "answer": "D-Day",
+                    "explanation": "Call of Duty: Modern Warfare is considered by many to be one of the best first-person shooter games of all time. This sentence is an evidence sentence because it provides information about the popularity and quality of the game Call of Duty: Modern Warfare."
+                },
+                {
+                    "question": "* What year was Call of Duty 3 released? * What year was Call of Duty: Modern Warfare released? * What year was Call of Duty: Modern Warfare: Mobilized released? * What year was Call of Duty: World at",
+                    "answer": "2006",
+                    "explanation": "Call of Duty 3 was released in 2006 and was set during the Normandy landings on D-Day."
+                },
+                {
+                    "question": "* What is the name of the continent where Call of Duty 2 is set? * What is the name of the continent where Call of Duty: Modern Warfare is set? * What is the name of the continent where Call of Duty: World at War is set",
+                    "answer": "Europe",
+                    "explanation": "The series shifted its focus to modern warfare with Call of Duty 2 in 2005, which was set in various locations throughout Europe."
+                },
+                {
+                    "question": "What is the year that Call of Duty: Modern Warfare was released?",
+                    "answer": "2007",
+                    "explanation": "Call of Duty: Modern Warfare is considered by many to be one of the best first-person shooter games of all time."
+                },
+                {
+                    "question": "\"What is the year that the series shifted its focus to modern warfare?\"",
+                    "answer": "2005",
+                    "explanation": "The series then shifted its focus to modern warfare with Call of Duty 2 in 2005, which was set in various locations throughout Europe."
+                },
+                {
+                    "question": "What year was the first Call of Duty game released?",
+                    "answer": "2003",
+                    "explanation": "The first game in the series, Call of Duty, was released in 2003 and was set during World War II."
+                },
+                {
+                    "question": "What year was Call of Duty: World at War released?",
+                    "answer": "2008",
+                    "explanation": "Call of Duty: World at War was released in 2008."
+                },
+                {
+                    "question": "Which video game development company is responsible for creating the Call of Duty franchise?",
+                    "answer": "Infinity Ward",
+                    "explanation": "The series is based on various wars, with each game featuring different historical settings and geographical locations."
+                }
+            ],
+            "hops": [
+                "Call of Duty"
+            ]
+        },
+        "Fortnite": {
+            "term": "Fortnite",
+            "passage": "Fortnite is a co-op sandbox survival game developed by Epic Games and People Can Fly and published by Epic Games. The game was released as a paid-for early access title for Microsoft Windows, macOS, PlayStation 4, and Xbox One in July 2017, with a full free-to-play release in 2018 for the same platforms. The game features cross-platform play, allowing players on all supported platforms to play together. The game is set in a fictional world where various events have occurred, including a sudden disappearance of over 98% of the world's population, and a subsequent rise of the \"Darkness\". The player takes on the role of a survivor who is tasked with helping to gather resources, build shelters, and defend against the \"Darkness\" and other enemies. The game features a construction system that allows players to build structures out of various materials found in the game world, which can be used for defense or as a base of operations. The game features a Battle Pass system, which rewards players with in-game items and cosmetic changes for completing challenges and leveling up. The Battle Pass is updated regularly, with new challenges and rewards added each season. The game also features a Battle Royale mode, which was added in September 2017. In this mode, up to 100 players are dropped onto an island and must fight to be the last person or team standing. The game has become a cultural phenomenon, with millions of players worldwide and a significant impact on popular culture.",
+            "qae_pairs": [
+                {
+                    "question": "What is the operating system for the Macintosh computer?",
+                    "answer": "macOS",
+                    "explanation": "macOS is the operating system for the Macintosh computer."
+                },
+                {
+                    "question": "What year did Fortnite release a full free-to-play version for all supported platforms?",
+                    "answer": "2018",
+                    "explanation": "The game is set in a fictional world where various events have occurred, including a sudden disappearance of over 98% of the world's population, and a subsequent rise of the Darkness. The player takes on the role of a survivor who is tasked with helping to gather resources, build shelters, and defend against the Darkness and other enemies."
+                },
+                {
+                    "question": "What is the name of the company that developed and published Fortnite? What is the name of the game mode in Fortnite where players fight to be the last person or team standing? What is the name of the game mode in Fortnite where players gather resources, build sh",
+                    "answer": "Epic Games",
+                    "explanation": "The game is set in a fictional world where various events have occurred, including a sudden disappearance of over 98% of the world's population, and a subsequent rise of the Darkness."
+                },
+                {
+                    "question": "What is the release date for Fortnite's Battle Royale mode?",
+                    "answer": "September 2017",
+                    "explanation": "The game features cross-platform play, allowing players on all supported platforms to play together."
+                },
+                {
+                    "question": "What is the system in Fortnite that rewards players with in-game items and cosmetic changes for completing challenges and leveling up?",
+                    "answer": "Battle Pass",
+                    "explanation": "The game features a Battle Pass system, which rewards players with in-game items and cosmetic changes for completing challenges and leveling up."
+                },
+                {
+                    "question": "What is the release date of Fortnite?",
+                    "answer": "July 2017",
+                    "explanation": "The game was released as a paid-for early access title for Microsoft Windows, macOS, PlayStation 4, and Xbox One in July 2017."
+                }
+            ],
+            "hops": [
+                "Fortnite"
+            ]
+        },
+        "World of Warcraft": {
+            "term": "World of Warcraft",
+            "passage": "World of Warcraft (WoW) is a massively multiplayer online role-playing game (MMORPG) released in 2004 by Blizzard Entertainment. It is the fourth game set in the fantasy Warcraft universe, which was first introduced by Warcraft: Orcs & Humans in 1994. World of Warcraft takes place within the world of Azeroth, a land of diverse terrain and inhabited by various races. The game features a vast, immersive world with a rich history and lore, and allows players to create and customize their own characters, known as avatars, and embark on quests and adventures to explore the world and battle enemies. The game's core gameplay revolves around completing quests and engaging in combat with various monsters and other players. Players can choose from a variety of classes, each with their own unique abilities and playstyles, and can specialize further by choosing a specific talent specialization. The game also features a robust crafting system, allowing players to create their own weapons, armor, and other items using materials gathered from the world. World of Warcraft has a large and active player community, with millions of players worldwide. The game has undergone several expansions over the years, each adding new content and features to the game. The most recent expansion, Battle for Azeroth, was released in 2018 and introduced new zones, races, and gameplay mechanics. In addition to the core gameplay, World of Warcraft also features a robust social aspect, with players able to form guilds, chat with each other, and participate in group activities. The game also features a robust economy, with players able to buy and sell items both within the game and on external markets.",
+            "qae_pairs": [
+                {
+                    "question": "What year was World of Warcraft released?",
+                    "answer": "2004",
+                    "explanation": "World of Warcraft is a massively multiplayer online role-playing game (MMORPG) released in 2004 by Blizzard Entertainment."
+                },
+                {
+                    "question": "Which is the name of the world in World of Warcraft?",
+                    "answer": "Azeroth",
+                    "explanation": "World of Warcraft takes place within the world of Azeroth, a land of diverse terrain and inhabited by various races."
+                },
+                {
+                    "question": "'Which year was Warcraft: Orcs & Humans released?'",
+                    "answer": "1994",
+                    "explanation": "World of Warcraft is a massively multiplayer online role-playing game (MMORPG) released in 2004 by Blizzard Entertainment."
+                },
+                {
+                    "question": "What company developed World of Warcraft?     What is the name of the fantasy universe in which World of Warcraft takes place?     What is the name of the game's main antagonist?     What is the name of the game's expansion released in 201",
+                    "answer": "Blizzard Entertainment",
+                    "explanation": "Blizzard Entertainment is the company that developed World of Warcraft, which is a massively multiplayer online role-playing game (MMORPG) released in 2004."
+                },
+                {
+                    "question": "What is the year in which the most recent expansion of World of Warcraft, Battle for Azeroth, was released?",
+                    "answer": "2018",
+                    "explanation": "World of Warcraft takes place within the world of Azeroth, a land of diverse terrain and inhabited by various races. This sentence explains that the game is set in the world of Azeroth, which is inhabited by various races and has diverse terrain."
+                }
+            ],
+            "hops": [
+                "World of Warcraft"
+            ]
+        },
+        "Assassin's Creed": {
+            "term": "Assassin's Creed",
+            "passage": "Assassin's Creed is a historical fiction action-adventure open world video game series that chronicles the centuries-old struggle between the Assassins, who fight for peace with free will, and the Templars, who desire peace through control of humanity. The series features a combination of real-world historical events and fictional characters, interwoven with the game's plot. The series began in 2007 with the release of the first game, Assassin's Creed, which was set in the Third Crusade and followed the protagonist Altaïr ibn La-Ahad during his quest to stop the Templars from gaining control of a powerful artifact known as the Apple of Eden. The game featured a unique control scheme that allowed players to climb and jump across buildings and structures, as well as engage in combat with a variety of weapons. The series has since expanded to include multiple sequels and spin-offs, each set in a different time period and featuring a new protagonist. These include Assassin's Creed II, set in the Renaissance era and featuring the character Ezio Auditore da Firenze; Assassin's Creed: Brotherhood, set in Rome during the Borgia papacy and featuring Ezio's brother, Federico Auditore; and Assassin's Creed: Revelations, set in Constantinople during the Ottoman era and featuring Ezio's apprentice, Desmond Miles.",
+            "qae_pairs": [
+                {
+                    "question": "What year did the first game in the Assassin's Creed series, Assassin's Creed, release?",
+                    "answer": "2007",
+                    "explanation": "The series began in 2007 with the release of the first game, Assassin's Creed, which was set in the Third Crusade and followed the protagonist Altaïr ibn La-Ahad during his quest to stop the Templars from gaining control of a powerful artifact known as the Apple of Eden."
+                },
+                {
+                    "question": "Who is the protagonist of Assassin's Creed II?",
+                    "answer": "Ezio Auditore da Firenze",
+                    "explanation": "The series has since expanded to include multiple sequels and spin-offs, each set in a different time period and featuring a new protagonist. These include Assassin's Creed II, set in the Renaissance era and featuring the character Ezio Auditore da Firenze."
+                },
+                {
+                    "question": "1. What is the name of the period in Italian history that is also the name of the sequel to the first Assassin's Creed game? 2. What is the name of the city in Italy that is the setting of Assassin's Creed II and Assassin'",
+                    "answer": "Renaissance",
+                    "explanation": "The game featured a unique control scheme that allowed players to climb and jump across buildings and structures, as well as engage in combat with a variety of weapons."
+                },
+                {
+                    "question": "What is the name of the protagonist in the first Assassin's Creed game?",
+                    "answer": "Altaïr ibn La-Ahad",
+                    "explanation": "The game featured a unique control scheme that allowed players to climb and jump across buildings and structures, as well as engage in combat with a variety of weapons. This sentence explains the gameplay mechanics of the first Assassin's Creed game, specifically the control scheme that allowed players to climb and jump across buildings and structures, as well as engage in combat with a variety of weapons."
+                }
+            ],
+            "hops": [
+                "Assassin's Creed"
+            ]
+        },
+        "The Elder Scrolls V": {
+            "term": "The Elder Scrolls V",
+            "passage": "The Elder Scrolls V: Skyrim is an action role-playing open world video game developed by Bethesda Game Studios and published by Bethesda Softworks. It is the fifth installment in the Elder Scrolls series, following The Elder Scrolls IV: Oblivion. Skyrim was released on November 11, 2011 for Microsoft Windows, PlayStation 3, and Xbox 360. The game's main story takes place on the fictional continent of Tamriel, in the province of Skyrim. The game's main character is the Dragonborn, a hero who is prophesied to defeat Alduin, a dragon who is prophesied to destroy the world. The game features a new game engine called Creation Engine, which allows for more detailed graphics and a more immersive gameplay experience. Skyrim also features a new combat system, which allows for more dynamic and realistic combat. The game also features a new Radiant AI system, which allows for more dynamic and realistic NPC behavior. Skyrim was a commercial and critical success, selling over 30 million copies worldwide and receiving numerous awards and accolades. The game has also been ported to other platforms, including PlayStation 4, Xbox One, and Nintendo Switch.",
+            "qae_pairs": [
+                {
+                    "question": "What is the main story of The Elder Scrolls V: Skyrim?",
+                    "answer": "Dragonborn",
+                    "explanation": "The game's main story takes place on the fictional continent of Tamriel, in the province of Skyrim. Question: What is the main story of The Elder Scrolls V: Skyrim? Answer: The main story of The Elder Scrolls V: Skyrim is about the Dragonborn, a hero who is prophesied to defeat Alduin, a dragon who is prophesied to destroy the world. The game takes place on the fictional continent of Tamriel, in the province of Skyrim."
+                },
+                {
+                    "question": "What is the name of the game development studio that developed The Elder Scrolls V: Skyrim?",
+                    "answer": "Bethesda Game Studios",
+                    "explanation": "Skyrim was released on November 11, 2011 for Microsoft Windows, PlayStation 3, and Xbox 360."
+                },
+                {
+                    "question": "What is the release date of The Elder Scrolls V: Skyrim? What is the name of the main character in The Elder Scrolls V: Skyrim? What is the name of the province in which The Elder Scrolls V: Skyrim takes place? What is the name",
+                    "answer": "November 11, 2011",
+                    "explanation": "Skyrim was released on November 11, 2011 for Microsoft Windows, PlayStation 3, and Xbox 360."
+                },
+                {
+                    "question": "A) What is the name of the dragon that the main character is prophesied to defeat in Skyrim? B) What is the name of the province in which the main story of Skyrim takes place? C) What is the name of the game engine used in Skyrim?",
+                    "answer": "Alduin",
+                    "explanation": "The game's main character is the Dragonborn, a hero who is prophesied to defeat Alduin, a dragon who is prophesied to destroy the world."
+                },
+                {
+                    "question": "What is the operating system that Skyrim was released on? What is the name of the game engine used in Skyrim? What is the name of the province in which the main story of Skyrim takes place? What is the name of the main character in Skyrim?",
+                    "answer": "Microsoft Windows",
+                    "explanation": "Skyrim was released on November 11, 2011 for Microsoft Windows, PlayStation 3, and Xbox 360. This sentence explains the release date of the game and the platforms on which it was released."
+                },
+                {
+                    "question": "What is the name of the game engine used in The Elder Scrolls V: Skyrim?",
+                    "answer": "Creation Engine",
+                    "explanation": "Skyrim features a new game engine called Creation Engine, which allows for more detailed graphics and a more immersive gameplay experience."
+                },
+                {
+                    "question": "'Which is the console that was ported to?'",
+                    "answer": "Nintendo Switch",
+                    "explanation": "Skyrim was released on November 11, 2011 for Microsoft Windows, PlayStation 3, and Xbox 360."
+                },
+                {
+                    "question": "What is the name of the company that developed and published The Elder Scrolls V: Skyrim?",
+                    "answer": "Bethesda Softworks",
+                    "explanation": "Skyrim was released on November 11, 2011 for Microsoft Windows, PlayStation 3, and Xbox 360. The evidence sentence explains when the game was released and on which platforms."
+                },
+                {
+                    "question": "'What is the fictional continent in which The Elder Scrolls V: Skyrim takes place?'",
+                    "answer": "Tamriel",
+                    "explanation": "The game's main story takes place on the fictional continent of Tamriel, in the province of Skyrim."
+                }
+            ],
+            "hops": [
+                "The Elder Scrolls V"
+            ]
+        },
+        "Portal": {
+            "term": "Portal",
+            "passage": "Portal is a first-person puzzle-platform video game developed by Valve Corporation. The game was released in a bundle package called The Orange Box for Microsoft Windows, Xbox 360, and PlayStation 3 in 2007. Portal was later released as a standalone title for these platforms in 2008. The game is set in the Half-Life universe and follows the story of Chell, a woman who is subjected to cerebral stimulation experiments by an artificial intelligence named GLaDOS. The player uses a handheld device called the \"Aperture Science Handheld Portal Device\" (portal gun) to create portals between two surfaces, allowing them to navigate through the game's puzzles. The game's narrative and gameplay have been praised for their unique and innovative approach to the first-person shooter genre.",
+            "qae_pairs": [
+                {
+                    "question": "What is the platform on which Portal was released in a bundle package called The Orange Box in 2007?",
+                    "answer": "Microsoft Windows",
+                    "explanation": "The game was released in a bundle package called The Orange Box for Microsoft Windows, Xbox 360, and PlayStation 3 in 2007."
+                },
+                {
+                    "question": "\"What is a bundle package that includes Portal and several other games developed by Valve Corporation?\"",
+                    "answer": "The Orange Box",
+                    "explanation": "The game was released in a bundle package called The Orange Box for Microsoft Windows, Xbox 360, and PlayStation 3 in 2007. Explanation: This sentence explains that Portal was released in a bundle package called The Orange Box, which includes several other games developed by Valve Corporation."
+                },
+                {
+                    "question": "What year was Portal released?",
+                    "answer": "2007",
+                    "explanation": "Portal was released in a bundle package called The Orange Box for Microsoft Windows, Xbox 360, and PlayStation 3 in 2007."
+                },
+                {
+                    "question": "What year was Portal released as a standalone title for Microsoft Windows, Xbox 360, and PlayStation 3?",
+                    "answer": "2008",
+                    "explanation": "Portal was later released as a standalone title for these platforms in 2008."
+                }
+            ],
+            "hops": [
+                "Portal"
+            ]
+        }
+    },
+    "second_hops": {
+        "Luigi": {
+            "term": "Luigi",
+            "passage": "Luigi is a fictional character in the Mario series of video games, created by Shigeru Miyamoto and introduced in the 1983 arcade game Mario Bros. He is the younger, taller, and more athletic twin brother of Mario, and serves as a sidekick and wingman to him in their adventures. Luigi is often portrayed as being more timid and cowardly than Mario, but also more sensitive and empathetic. He is known for his distinctive green color scheme, his ability to become invisible by becoming \"Super Luigi,\" and his love for horror movies.",
+            "qae_pairs": [
+                {
+                    "question": "What video game did Luigi first appear in?",
+                    "answer": "Mario Bros",
+                    "explanation": "Luigi is the younger, taller, and more athletic twin brother of Mario, and serves as a sidekick and wingman to him in their adventures."
+                },
+                {
+                    "question": "What year did Luigi first appear in the Mario series of video games?",
+                    "answer": "1983",
+                    "explanation": "Luigi is a fictional character in the Mario series of video games, created by Shigeru Miyamoto and introduced in the 1983 arcade game Mario Bros."
+                },
+                {
+                    "question": "What is the name of the creator of Luigi in the Mario series of video games?",
+                    "answer": "Shigeru Miyamoto",
+                    "explanation": "Luigi is a fictional character in the Mario series of video games, created by Shigeru Miyamoto and introduced in the 1983 arcade game Mario Bros."
+                }
+            ],
+            "hops": [
+                "Super Mario Bros.",
+                "Luigi"
+            ]
+        },
+        "Princess Toadstool": {
+            "term": "Princess Toadstool",
+            "passage": "Princess Toadstool, also known as Peach, is a character in the Mario franchise. She is the ruler of the Mushroom Kingdom and is known for her beauty, intelligence, and kindness. She first appeared in the 1985 video game Super Mario Bros. as the damsel in distress, but has since become a playable character in many of the series' games. In addition to her role as a princess, she is also a skilled musician and athlete. Despite her royal status, she is often kidnapped by the series' main antagonist, Bowser, and must be rescued by Mario. Outside of the video games, she has appeared in various forms of media, including comics, television shows, and movies.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the character who kidnaps Princess Toadstool in the Mario franchise?",
+                    "answer": "Bowser",
+                    "explanation": "She first appeared in the 1985 video game Super Mario Bros. as the damsel in distress, but has since become a playable character in many of the series' games."
+                },
+                {
+                    "question": "What is the name of the kingdom where Princess Toadstool rules?",
+                    "answer": "the Mushroom Kingdom",
+                    "explanation": "She first appeared in the 1985 video game Super Mario Bros. as the damsel in distress, but has since become a playable character in many of the series' games. The evidence sentence explains that Princess Toadstool first appeared in the 1985 video game Super Mario Bros. as a damsel in distress, but has since become a playable character in many of the series' games."
+                },
+                {
+                    "question": "What year did Princess Toadstool first appear in the Mario franchise?",
+                    "answer": "1985",
+                    "explanation": "She first appeared in the 1985 video game Super Mario Bros. as the damsel in distress, but has since become a playable character in many of the series' games."
+                }
+            ],
+            "hops": [
+                "Super Mario Bros.",
+                "Princess Toadstool"
+            ]
+        },
+        "NES": {
+            "term": "NES",
+            "passage": "The Nintendo Entertainment System (NES) is an 8-bit home video game console that was developed and manufactured by Nintendo. It was initially released in Japan as the Family Computer (Famicom) on July 15, 1983, and was later released in North America during 1985, in Europe during 1986, and in Australia in 1987. The system is known for its iconic red and white color scheme, and its library of games, which includes classics such as Super Mario Bros., The Legend of Zelda, and Metroid. The NES was also the first console to use a removable cartridge-based storage system, which allowed for easier game distribution and piracy. The NES went on to become one of the best-selling consoles of all time, with over 60 million units sold worldwide.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the NES game that features a female bounty hunter named Samus Aran, who is tasked with exterminating an alien race called the Space Pirates?",
+                    "answer": "Metroid",
+                    "explanation": "The NES was also the first console to use a removable cartridge-based storage system, which allowed for easier game distribution and piracy."
+                },
+                {
+                    "question": "What year was the NES released in North America?",
+                    "answer": "1985",
+                    "explanation": "The NES was initially released in Japan as the Family Computer (Famicom) on July 15, 1983, and was later released in North America during 1985."
+                },
+                {
+                    "question": "What was the original name of the NES before it was released in North America?",
+                    "answer": "the Family Computer (Famicom",
+                    "explanation": "The NES was initially released in Japan as the Family Computer (Famicom) on July 15, 1983."
+                }
+            ],
+            "hops": [
+                "The Legend of Zelda",
+                "NES"
+            ]
+        },
+        "the Mushroom Kingdom": {
+            "term": "the Mushroom Kingdom",
+            "passage": "The Mushroom Kingdom is a fictional place in the Mario video game series. It is a kingdom inhabited by various creatures, including mushrooms, goombas, and koopa troopas. The kingdom is ruled by Princess Peach, who is often kidnapped by the series' main antagonist, Bowser. Mario, the protagonist of the series, is tasked with rescuing Princess Peach and defeating Bowser. The Mushroom Kingdom is known for its colorful and whimsical atmosphere, with various themed levels and power-ups that grant Mario special abilities. The kingdom has been featured in numerous Mario games, including Super Mario Bros., Super Mario World, and New Super Mario Bros. U. Despite its many appearances in the series, the Mushroom Kingdom remains a mysterious and enigmatic place, with many secrets and hidden areas waiting to be discovered by intrepid players.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the main antagonist in the Mushroom Kingdom who kidnaps Princess Peach in the Mario video game series?",
+                    "answer": "Bowser",
+                    "explanation": "The Mushroom Kingdom is a fictional place in the Mario video game series."
+                },
+                {
+                    "question": "What game does the Mushroom Kingdom appear in after Super Mario Bros.? (Avoid the following entities in the question: Super Mario Bros.)",
+                    "answer": "Super Mario World",
+                    "explanation": "The Mushroom Kingdom is known for its colorful and whimsical atmosphere, with various themed levels and power-ups that grant Mario special abilities."
+                }
+            ],
+            "hops": [
+                "Super Mario Bros.",
+                "the Mushroom Kingdom"
+            ]
+        },
+        "the Nintendo Entertainment System": {
+            "term": "the Nintendo Entertainment System",
+            "passage": "The Nintendo Entertainment System (NES) is an 8-bit home video game console that was developed and manufactured by Nintendo. It was initially released in Japan as the Family Computer (Famicom) on July 15, 1983, and was later released in North America during 1985, in Europe during 1986, and in Australia in 1987. The system is known for its iconic red and white color scheme, and its library of games, which includes classics such as Super Mario Bros., The Legend of Zelda, and Metroid. The NES was a huge commercial success, selling over 60 million units worldwide, and is widely considered to be one of the most influential video game consoles of all time.",
+            "qae_pairs": [
+                {
+                    "question": "What was the release year of the Nintendo Entertainment System in Australia?",
+                    "answer": "Australia",
+                    "explanation": "The NES was a huge commercial success, selling over 60 million units worldwide, and is widely considered to be one of the most influential video game consoles of all time. This sentence is an evidence sentence because it provides information about the commercial success and influence of the NES."
+                },
+                {
+                    "question": "What year did the Nintendo Entertainment System launch in Australia?",
+                    "answer": "1987",
+                    "explanation": "The NES was initially released in Japan as the Family Computer (Famicom) on July 15, 1983, and was later released in North America during 1985, in Europe during 1986, and in Australia in 1987."
+                }
+            ],
+            "hops": [
+                "The Legend of Zelda",
+                "the Nintendo Entertainment System"
+            ]
+        },
+        "Hyrule": {
+            "term": "Hyrule",
+            "passage": "Hyrule is a fictional kingdom from the Legend of Zelda series of video games and other media. It is the primary setting of most of the games and is known for its diverse geography, including forests, mountains, and a large body of water known as the Great Sea. The kingdom is ruled by a monarchy, with the current monarch being King Rhoam Bosphoramus Hyrule. The kingdom is also home to various races, including Hylians, Gorons, Zoras, and Gerudo. The kingdom is known for its rich history and culture, including its music, art, and architecture. The kingdom is also known for its strong military, which has helped to protect it from various threats over the years.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the aquatic race that resides in the kingdom of Hyrule?",
+                    "answer": "Zoras",
+                    "explanation": "The kingdom is known for its rich history and culture, including its music, art, and architecture."
+                },
+                {
+                    "question": "What is the time period in which the kingdom of Hyrule has been ruled by its current monarch, King Rhoam Bosphoramus Hyrule?",
+                    "answer": "the years",
+                    "explanation": "The kingdom is known for its rich history and culture, including its music, art, and architecture."
+                },
+                {
+                    "question": "What is the name of the race that lives in the mountains of Hyrule?",
+                    "answer": "Gorons",
+                    "explanation": "The kingdom is known for its rich history and culture, including its music, art, and architecture."
+                },
+                {
+                    "question": "What is the name of the large body of water located in Hyrule?",
+                    "answer": "the Great Sea",
+                    "explanation": "The kingdom is known for its rich history and culture, including its music, art, and architecture."
+                }
+            ],
+            "hops": [
+                "The Legend of Zelda",
+                "Hyrule"
+            ]
+        },
+        "Koji Kondo": {
+            "term": "Koji Kondo",
+            "passage": "Koji Kondo is a Japanese video game composer, best known for his work on the various The Legend of Zelda series. He has been with Nintendo since 1984, and has composed music for over 100 video games. Kondo's music is often characterized by its use of traditional Japanese instruments, such as the shakuhachi and the taiko drum, as well as its incorporation of orchestral elements. He has won numerous awards for his work, including a Grammy Award nomination for his composition for Super Mario Galaxy 2. Kondo is also known for his work on the Super Mario series, having composed the music for Super Mario Bros., Super Mario Bros. 2, and Super Mario Bros. 3.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the video game for which Koji Kondo composed the music, and it is not The Legend of Zelda?",
+                    "answer": "Super Mario Bros. 2",
+                    "explanation": "Kondo's music is often characterized by its use of traditional Japanese instruments, such as the shakuhachi and the taiko drum, as well as its incorporation of orchestral elements."
+                },
+                {
+                    "question": "What year did Koji Kondo join Nintendo?",
+                    "answer": "1984",
+                    "explanation": "Kondo has been with Nintendo since 1984."
+                }
+            ],
+            "hops": [
+                "The Legend of Zelda",
+                "Koji Kondo"
+            ]
+        },
+        "Ganon": {
+            "term": "Ganon",
+            "passage": "Ganon, also known as Ganon (Demon King) or Ganon (Demon King) in some translations, is the primary antagonist of Nintendo's Legend of Zelda series. He is the main enemy of the series' protagonist, Link, and is often depicted as the ruler of the Dark World, a parallel dimension to Hyrule. Ganon is typically portrayed as a powerful and malevolent being with magical abilities, who seeks to conquer and rule over the land of Hyrule. He is often depicted as a large, muscular figure with horns and a tail, and is known for his ability to shapeshift and transform into various forms. Ganon is also known for his ability to possess individuals and control them as minions, such as the Gerudo King Ganondorf. Throughout the series, Ganon has been defeated by Link on multiple occasions, but he always returns, seeking to claim the Triforce and gain ultimate power.",
+            "qae_pairs": [
+                {
+                    "question": "What is the ultimate power that Ganon seeks to obtain by defeating Link in the Legend of Zelda series?",
+                    "answer": "Triforce",
+                    "explanation": "Throughout the series, Ganon has been defeated by Link on multiple occasions, but he always returns, seeking to claim the Triforce and gain ultimate power."
+                },
+                {
+                    "question": "What is the name of the protagonist who defeats Ganon in the Legend of Zelda series?",
+                    "answer": "Link",
+                    "explanation": "Ganon is typically portrayed as a powerful and malevolent being with magical abilities, who seeks to conquer and rule over the land of Hyrule."
+                },
+                {
+                    "question": "What is the name of the land that Ganon seeks to conquer in the Legend of Zelda series?",
+                    "answer": "Hyrule",
+                    "explanation": "Ganon is typically portrayed as a powerful and malevolent being with magical abilities, who seeks to conquer and rule over the land of Hyrule."
+                },
+                {
+                    "question": "What is the title of Ganon, the primary antagonist of Nintendo's Legend of Zelda series?",
+                    "answer": "Demon King",
+                    "explanation": "Ganon is typically portrayed as a powerful and malevolent being with magical abilities, who seeks to conquer and rule over the land of Hyrule."
+                }
+            ],
+            "hops": [
+                "The Legend of Zelda",
+                "Ganon"
+            ]
+        },
+        "Triforce": {
+            "term": "Triforce",
+            "passage": "The Triforce is a recurring element in the The Legend of Zelda series. It is a powerful artifact that consists of three golden triangles, each containing a different attribute: power, wisdom, and courage. The Triforce is said to grant the wishes of those who possess it, but only if they are deemed worthy by the gods. The Triforce is also associated with the three main characters in the series: Link, Princess Zelda, and Ganon. In the games, the Triforce is often the ultimate goal of the player, who must collect pieces of it throughout the game in order to defeat the final boss and save the world. The Triforce has become an iconic symbol of the Zelda series and is widely recognized as one of the most important elements of the franchise.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the final boss in The Legend of Zelda series who is associated with the Triforce?",
+                    "answer": "Ganon",
+                    "explanation": "The Triforce is often the ultimate goal of the player, who must collect pieces of it throughout the game in order to defeat the final boss and save the world."
+                }
+            ],
+            "hops": [
+                "The Legend of Zelda",
+                "Triforce"
+            ]
+        },
+        "Shigeru Miyamoto": {
+            "term": "Shigeru Miyamoto",
+            "passage": "Shigeru Miyamoto (宮本 茂, Miyamoto Shigeru, born November 16, 1952) is a Japanese video game designer and producer, currently serving as the senior managing director of Nintendo Co., Ltd. He is considered one of the most influential game designers in the history of the industry, and is best known as the creator of some of the most iconic video game franchises of all time, including Super Mario, The Legend of Zelda, and Donkey Kong. Miyamoto's work has been praised for its innovative gameplay mechanics, attention to detail, and focus on creating immersive and engaging experiences for players. He has been awarded numerous honors and accolades for his contributions to the video game industry, including induction into the Academy of Interactive Arts and Sciences' Hall of Fame in 1998, and the Japan Prize in 2005.",
+            "qae_pairs": [
+                {
+                    "question": "What award did Shigeru Miyamoto receive for his contributions to the video game industry?",
+                    "answer": "the Japan Prize",
+                    "explanation": "Miyamoto's work has been praised for its innovative gameplay mechanics, attention to detail, and focus on creating immersive and engaging experiences for players. He has been awarded numerous honors and accolades for his contributions to the video game industry, including induction into the Academy of Interactive Arts and Sciences' Hall of Fame in 1998, and the Japan Prize in 2005."
+                },
+                {
+                    "question": "What year did Shigeru Miyamoto receive the Japan Prize?",
+                    "answer": "2005",
+                    "explanation": "Miyamoto's work has been praised for its innovative gameplay mechanics, attention to detail, and focus on creating immersive and engaging experiences for players. This sentence explains Miyamoto's work and the reasons for his praise in the industry."
+                }
+            ],
+            "hops": [
+                "The Legend of Zelda",
+                "Shigeru Miyamoto"
+            ]
+        },
+        "Microsoft Windows": {
+            "term": "Microsoft Windows",
+            "passage": "Microsoft Windows is a series of operating systems produced by Microsoft Corporation. It is the most widely used operating system in the world, with over 1.5 billion users as of 2021. Windows was first released in 1985 as an operating environment for the IBM PC, and has since been adapted to run on a wide range of hardware platforms. The most recent version of Windows is Windows 10, which was released in 2015 and has been updated regularly with new features and security improvements. Windows is known for its user-friendly interface and wide range of software applications, including Microsoft Office, Internet Explorer, and Edge. It is also used by businesses and organizations for productivity and enterprise software.",
+            "qae_pairs": [
+                {
+                    "question": "What company produces Microsoft Windows?",
+                    "answer": "Microsoft Corporation",
+                    "explanation": "Windows was first released in 1985 as an operating environment for the IBM PC, and has since been adapted to run on a wide range of hardware platforms. Evidence sentence: Windows was first released in 1985 as an operating environment for the IBM PC."
+                },
+                {
+                    "question": "What year was Microsoft Windows first released?",
+                    "answer": "1985",
+                    "explanation": "Windows was first released in 1985 as an operating environment for the IBM PC, and has since been adapted to run on a wide range of hardware platforms. Evidence sentence: Windows was first released in 1985 as an operating environment for the IBM PC."
+                },
+                {
+                    "question": "What was the year that Microsoft Windows 10 was released?",
+                    "answer": "2015",
+                    "explanation": "Windows was first released in 1985 as an operating environment for the IBM PC, and has since been adapted to run on a wide range of hardware platforms. Explanation: This sentence provides evidence that Windows has been adapted to run on a wide range of hardware platforms, which is an important feature of the operating system."
+                }
+            ],
+            "hops": [
+                "Portal",
+                "Microsoft Windows"
+            ]
+        },
+        "Rockstar North": {
+            "term": "Rockstar North",
+            "passage": "Rockstar North is a video game development company based in Edinburgh, Scotland. It was founded in 1988 as DMA Design and is best known for creating the Grand Theft Auto series of open-world action-adventure games. The company was acquired by Rockstar Games in 2000 and has since been known as Rockstar North. Rockstar North is responsible for the development of all Grand Theft Auto games, starting with Grand Theft Auto (1997) and continuing with Grand Theft Auto: San Andreas (2004), Grand Theft Auto IV (2008), Grand Theft Auto V (2013), and Grand Theft Auto V (2014). The company has also developed other games, such as the Lemmings series and the Grand Theft Auto: London, 1969 expansion pack. Rockstar North is known for its attention to detail and realistic gameplay mechanics. The company's games are often praised for their immersive worlds, engaging storylines, and memorable characters. The Grand Theft Auto series has been particularly successful, selling over 200 million copies worldwide and becoming one of the most popular video game franchises of all time. In addition to its game development work, Rockstar North has also been involved in other areas of the video game industry. The company has created its own game engine, called RAGE, which has been used in many of its games. Rockstar North has also been involved in the development of video game hardware, such as the Rockstar Games Launcher and the Rockstar Editor. Overall, Rockstar North is a highly respected and influential video game development company that has made significant contributions to the industry.",
+            "qae_pairs": [
+                {
+                    "question": "What year did Rockstar North release the Grand Theft Auto: London, 1969 expansion pack?",
+                    "answer": "1969",
+                    "explanation": "Rockstar North is a video game development company based in Edinburgh, Scotland. It was founded in 1988 as DMA Design and is best known for creating the Grand Theft Auto series of open-world action-adventure games. The company was acquired by Rockstar Games in 2000 and has since been known as Rockstar North."
+                },
+                {
+                    "question": "What year did Rockstar North release Grand Theft Auto: San Andreas?",
+                    "answer": "2004",
+                    "explanation": "Rockstar North is known for its attention to detail and realistic gameplay mechanics."
+                },
+                {
+                    "question": "What year did Rockstar North establish its headquarters in Edinburgh, Scotland?",
+                    "answer": "1988",
+                    "explanation": "Rockstar North is a video game development company based in Edinburgh, Scotland. It was founded in 1988 as DMA Design and is best known for creating the Grand Theft Auto series of open-world action-adventure games. The company was acquired by Rockstar Games in 2000 and has since been known as Rockstar North."
+                }
+            ],
+            "hops": [
+                "Grand Theft Auto V",
+                "Rockstar North"
+            ]
+        },
+        "Rockstar Games": {
+            "term": "Rockstar Games",
+            "passage": "Rockstar Games is an American video game developer and publisher based in New York City. The company was founded in 1998 by Sam and Dan Houser, Terry Donovan, and Jamie King, and is a subsidiary of Take-Two Interactive. Rockstar Games is known for producing some of the most critically acclaimed and commercially successful video games of all time, including the Grand Theft Auto series, Red Dead Redemption, and the Max Payne series. The company's games are characterized by their adult-oriented themes, nonlinear gameplay, and open-world environments. Rockstar Games has won numerous awards for its games, including several BAFTA Awards and a number of Academy of Interactive Arts & Sciences awards. The company has also been recognized for its contributions to the video game industry, including being inducted into the Academy of Interactive Arts & Sciences' Hall of Fame in 2011.",
+            "qae_pairs": [
+                {
+                    "question": "What is the location of Rockstar Games' headquarters?",
+                    "answer": "New York City",
+                    "explanation": "Rockstar Games is known for producing some of the most critically acclaimed and commercially successful video games of all time, including the Grand Theft Auto series, Red Dead Redemption, and the Max Payne series."
+                }
+            ],
+            "hops": [
+                "Grand Theft Auto V",
+                "Rockstar Games"
+            ]
+        },
+        "the PlayStation 4": {
+            "term": "the PlayStation 4",
+            "passage": "The PlayStation 4 (PS4) is a home video game console developed by Sony Interactive Entertainment. It was released on November 15, 2013, in North America, and November 29, 2013, in Europe, Australia, and New Zealand. It is the successor to the PlayStation 3 and is part of the PlayStation brand of consoles. The PS4 has a sleek and modern design, with a matte finish and a slanted body that is 10% smaller than its predecessor. It has an AMD Accelerated Processing Unit (APU) with an x86-64 processor and a Radeon GPU, which allows for more powerful graphics and faster load times. The console also has an improved DualShock 4 controller with a touchpad, a share button, and a headset jack. The PS4 has a variety of exclusive games, including Uncharted 4: A Thief's End, Bloodborne, and The Last of Us Remastered. It also has a variety of online features, such as the ability to stream games to other devices and play with friends online. The PS4 has been a commercial success, selling over 70 million units worldwide as of 2018.",
+            "qae_pairs": [
+                {
+                    "question": "What is the release date of the PlayStation 4 in Europe? Answer: The release date of the PlayStation 4 in Europe was November 29, 2013.",
+                    "answer": "Europe",
+                    "explanation": "The PS4 has a variety of exclusive games, including Uncharted 4: A Thief's End, Bloodborne, and The Last of Us Remastered."
+                },
+                {
+                    "question": "What year did the PlayStation 4 sell over 70 million units worldwide?",
+                    "answer": "2018",
+                    "explanation": "The PS4 has been a commercial success, selling over 70 million units worldwide as of 2018."
+                }
+            ],
+            "hops": [
+                "Grand Theft Auto V",
+                "the PlayStation 4"
+            ]
+        },
+        "San Andreas's": {
+            "term": "San Andreas's",
+            "passage": "San Andreas Fault is a continental transform fault that extends roughly 800 miles (1,300 km) through California in the United States. It is the most well-known fault in the world due to the potential for large earthquakes. The fault is characterized by a long history of seismic activity, with numerous earthquakes occurring along its length. The most recent major earthquake on the fault was the 1906 San Francisco earthquake, which had a magnitude of 7.8. The fault is also responsible for the formation of the Sierra Nevada mountain range. The San Andreas Fault is a right-lateral strike-slip fault, meaning that the two sides of the fault move past each other horizontally. The fault is also characterized by a series of smaller faults and fractures that branch off from the main fault zone. The San Andreas Fault is closely monitored by scientists and geologists, who use a variety of techniques to study the fault and its potential for earthquakes.",
+            "qae_pairs": [
+                {
+                    "question": "What was the year of the last major earthquake on the San Andreas's fault before the 1906 San Francisco earthquake?",
+                    "answer": "1906",
+                    "explanation": "The most recent major earthquake on the fault was the 1906 San Francisco earthquake, which had a magnitude of 7.8."
+                }
+            ],
+            "hops": [
+                "Grand Theft Auto V",
+                "San Andreas's"
+            ]
+        },
+        "Los Angeles": {
+            "term": "Los Angeles",
+            "passage": "Los Angeles (/lɔːs ˈændʒələs/ (listen); Spanish: Los Ángeles) is the most populous city in California, the second most populous city in the United States, and the third most populous city in North America. Located in a large coastal basin surrounded on three sides by mountains reaching up to and over 10,000 feet (3,000 m), Los Angeles covers an area of about 469 square miles (1,210 km2). The city is the focal point of the larger Los Angeles metropolitan area, which contains 13 million people and is one of the most populous metropolitan areas in the world.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the state where Los Angeles is located?",
+                    "answer": "California",
+                    "explanation": "Los Angeles (/lɔːs ˈændʒələs/ (listen); Spanish: Los Ángeles) is the most populous city in California, the second most populous city in the United States, and the third most populous city in North America."
+                }
+            ],
+            "hops": [
+                "Grand Theft Auto V",
+                "Los Angeles"
+            ]
+        },
+        "Wii U": {
+            "term": "Wii U",
+            "passage": "The Wii U is a home video game console developed by Nintendo, and the successor to the Wii. It was released in November 2012 and was the first eighth-generation video game console to be released. The console features a high-definition graphics processor, and supports high-definition video playback. It also features a touch screen controller called the GamePad, which can be used to play games, browse the internet, and stream video from the console to the controller. The Wii U was initially successful, but sales declined over time, and the console was discontinued in 2017.",
+            "qae_pairs": [
+                {
+                    "question": "What year was the Wii U discontinued?",
+                    "answer": "2017",
+                    "explanation": "The Wii U was initially successful, but sales declined over time, and the console was discontinued in 2017."
+                },
+                {
+                    "question": "What was the name of the successor to the Wii U, which was released by Nintendo in 2017?",
+                    "answer": "Nintendo",
+                    "explanation": "The Wii U was initially successful, but sales declined over time, and the console was discontinued in 2017. This statement explains that the Wii U was initially popular, but eventually sales decreased and the console was no longer produced."
+                },
+                {
+                    "question": "What was the release date of the Wii U?",
+                    "answer": "November 2012",
+                    "explanation": "The Wii U was released in November 2012 and was the first eighth-generation video game console to be released."
+                },
+                {
+                    "question": "What was the name of the touch screen controller for the Wii U?",
+                    "answer": "GamePad",
+                    "explanation": "The Wii U was released in November 2012 and was the first eighth-generation video game console to be released."
+                }
+            ],
+            "hops": [
+                "Minecraft",
+                "Wii U"
+            ]
+        },
+        "the BAFTA Award": {
+            "term": "the BAFTA Award",
+            "passage": "The BAFTA Award is a prestigious award presented annually by the British Academy of Film and Television Arts (BAFTA) to honor outstanding achievement in film, television, and video games. The award was first presented in 1948 and has since become one of the most respected and coveted awards in the entertainment industry. The BAFTA Award is presented in a variety of categories, including Best Film, Best Actor, Best Actress, Best Supporting Actor, Best Supporting Actress, Best Director, and Best Screenplay. The award is widely regarded as a benchmark for excellence in the film and television industry, and many of the world's most talented and successful actors, directors, and producers have been honored with the BAFTA Award over the years. The BAFTA Award is a symbol of excellence and is highly sought after by those in the entertainment industry.",
+            "qae_pairs": [
+                {
+                    "question": "What year did the BAFTA Award first debut?",
+                    "answer": "1948",
+                    "explanation": "The BAFTA Award is a prestigious award presented annually by the British Academy of Film and Television Arts (BAFTA) to honor outstanding achievement in film, television, and video games."
+                },
+                {
+                    "question": "What is the frequency of the BAFTA Award presentation annually?",
+                    "answer": "annually",
+                    "explanation": "The BAFTA Award is a prestigious award presented annually by the British Academy of Film and Television Arts (BAFTA) to honor outstanding achievement in film, television, and video games. Evidence sentence: The BAFTA Award is presented annually."
+                },
+                {
+                    "question": "What is the name of the organization that presents the BAFTA Award?",
+                    "answer": "the British Academy of Film and Television Arts",
+                    "explanation": "The BAFTA Award is a symbol of excellence and is highly sought after by those in the entertainment industry."
+                }
+            ],
+            "hops": [
+                "Minecraft",
+                "the BAFTA Award"
+            ]
+        },
+        "Europe": {
+            "term": "Europe",
+            "passage": "Europe is a continent located entirely in the Northern Hemisphere and mostly in the Eastern Hemisphere. It is bordered by the Arctic Ocean to the north, the Atlantic Ocean to the west, and the Mediterranean Sea to the south. It comprises 47 countries, with Russia, Germany, France, the United Kingdom, Italy, Spain, and Poland being the largest. The population of Europe is about 741 million or about 11% of the world's population. The European climate is largely affected by the Gulf Stream and the North Atlantic Current, which make Europe's climate milder than would otherwise be expected at its latitude. The continent's highest mountain, Mount Elbrus, is located in Russia, and its largest river, the Volga, is located in Russia as well. The continent's largest lake, Lake Ladoga, is located in Russia as well. The European Union, a political and economic union of 27 member states located primarily in Europe, was established in 1993. The Schengen Agreement, which eliminates border controls among signatory countries, was implemented in 1995. The European sovereign-debt crisis, which began in 2009, affected several European countries and led to the creation of a European Stability Mechanism in 2012.",
+            "qae_pairs": [
+                {
+                    "question": "The question is: * What country in Europe is known for its delicious pierogi?",
+                    "answer": "Poland",
+                    "explanation": "The population of Europe is about 741 million or about 11% of the world's population."
+                },
+                {
+                    "question": "What year did the European Union, a political and economic union of 27 member states located primarily in Europe, come into existence?",
+                    "answer": "1993",
+                    "explanation": "The European Union, a political and economic union of 27 member states located primarily in Europe, was established in 1993."
+                },
+                {
+                    "question": "What year did the Schengen Agreement, which eliminates border controls among signatory countries, come into effect in Europe?",
+                    "answer": "1995",
+                    "explanation": "The Schengen Agreement, which eliminates border controls among signatory countries, was implemented in 1995."
+                },
+                {
+                    "question": "What year did the European Stability Mechanism (ESM) come into effect?",
+                    "answer": "2012",
+                    "explanation": "The European sovereign-debt crisis, which began in 2009, affected several European countries and led to the creation of a European Stability Mechanism in 2012."
+                }
+            ],
+            "hops": [
+                "Call of Duty",
+                "Europe"
+            ]
+        },
+        "Infinity Ward": {
+            "term": "Infinity Ward",
+            "passage": "Infinity Ward is an American video game developer founded in 2002 by veterans of the game development industry. The company is best known for creating the Call of Duty series of first-person shooter games, which have been critically acclaimed and commercially successful. Infinity Ward was founded by Grant Collier, Jason West, and Vince Zampella, who had previously worked together at Activision on the Medal of Honor series. The company's first game was Call of Duty, which was released in 2003 and became a critical and commercial success. Infinity Ward went on to create several sequels to Call of Duty, including Call of Duty 2, Call of Duty 4: Modern Warfare, and Call of Duty: Modern Warfare 2. The company has also worked on other projects, including the 2016 game Call of Duty: Infinite Warfare. Infinity Ward is based in Los Angeles, California.",
+            "qae_pairs": [
+                {
+                    "question": "What is the location of Infinity Ward, the video game developer known for creating the Call of Duty series?",
+                    "answer": "California",
+                    "explanation": "Infinity Ward was founded by Grant Collier, Jason West, and Vince Zampella, who had previously worked together at Activision on the Medal of Honor series."
+                },
+                {
+                    "question": "What is the location of Infinity Ward, the video game developer responsible for creating the Call of Duty series?",
+                    "answer": "Los Angeles",
+                    "explanation": "Infinity Ward was founded by Grant Collier, Jason West, and Vince Zampella, who had previously worked together at Activision on the Medal of Honor series. Evidence Sentence: Grant Collier, Jason West, and Vince Zampella founded Infinity Ward, where they had previously worked together at Activision on the Medal of Honor series."
+                },
+                {
+                    "question": "Who was one of the co-founders of Infinity Ward, the American video game developer known for creating the Call of Duty series of first-person shooter games?",
+                    "answer": "Jason West",
+                    "explanation": "Infinity Ward was founded by Grant Collier, Jason West, and Vince Zampella, who had previously worked together at Activision on the Medal of Honor series."
+                }
+            ],
+            "hops": [
+                "Call of Duty",
+                "Infinity Ward"
+            ]
+        },
+        "macOS": {
+            "term": "macOS",
+            "passage": "macOS (previously Mac OS X and later OS X) is a series of graphical operating systems developed and marketed by Apple Inc. since 2001. It is the primary operating system for Apple's Mac computers. Within the market of desktop, laptop and home computers, macOS is the second most widely used desktop operating system after Microsoft Windows, and the third most widely used overall after Android and iOS. macOS is based on technologies developed at NeXT between 1985 and 1997, when Apple acquired the company.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the company that developed and markets macOS?",
+                    "answer": "Apple Inc",
+                    "explanation": "macOS (previously Mac OS X and later OS X) is a series of graphical operating systems developed and marketed by Apple Inc. since 2001."
+                },
+                {
+                    "question": "What year did macOS (previously Mac OS X and later OS X) become the primary operating system for Apple's Mac computers?",
+                    "answer": "2001",
+                    "explanation": "macOS (previously Mac OS X and later OS X) is a series of graphical operating systems developed and marketed by Apple Inc. since 2001."
+                }
+            ],
+            "hops": [
+                "Fortnite",
+                "macOS"
+            ]
+        },
+        "Epic Games": {
+            "term": "Epic Games",
+            "passage": "Epic Games is an American video game development company based in Cary, North Carolina. It was founded in 1991 by Tim Sweeney as Potomac Computer Systems, later changing its name to Epic MegaGames, and then Epic Games. The company is best known for its Unreal Engine game engine technology, which has been used in many popular video games, including the Gears of War, Mass Effect, and Unreal series. Epic Games also develops and publishes its own video games, such as the Fortnite series and the Infinity Blade series. In addition to video games, Epic Games has also developed digital distribution platforms, such as the Epic Games Store, which offers games for Windows, macOS, and Linux.",
+            "qae_pairs": [
+                {
+                    "question": "What operating system does Epic Games support for its digital distribution platform, the Epic Games Store?",
+                    "answer": "Linux",
+                    "explanation": "Epic Games is best known for its Unreal Engine game engine technology, which has been used in many popular video games, including the Gears of War, Mass Effect, and Unreal series."
+                },
+                {
+                    "question": "What is the location of Epic Games?",
+                    "answer": "Cary",
+                    "explanation": "Epic Games is an American video game development company based in Cary, North Carolina."
+                },
+                {
+                    "question": "What is the location of Epic Games' headquarters?",
+                    "answer": "North Carolina",
+                    "explanation": "Epic Games is an American video game development company based in Cary, North Carolina."
+                },
+                {
+                    "question": "What is the name of the founder of Epic Games?",
+                    "answer": "Tim Sweeney",
+                    "explanation": "It was founded in 1991 by Tim Sweeney as Potomac Computer Systems, later changing its name to Epic MegaGames, and then Epic Games."
+                },
+                {
+                    "question": "What video game series developed by Epic Games is known for its intense action and third-person shooter gameplay, and is set in a science fiction universe?",
+                    "answer": "the Gears of War",
+                    "explanation": "Epic Games is best known for its Unreal Engine game engine technology, which has been used in many popular video games, including the Gears of War, Mass Effect, and Unreal series."
+                }
+            ],
+            "hops": [
+                "Fortnite",
+                "Epic Games"
+            ]
+        },
+        "Battle Pass": {
+            "term": "Battle Pass",
+            "passage": "Battle Pass is a feature in the game Fortnite Battle Royale that allows players to earn rewards by completing challenges and leveling up their Battle Pass. The Battle Pass is available for purchase during the season and provides access to exclusive cosmetic items, such as skins, emotes, and pickaxes. Players can earn Battle Stars and XP by completing daily and weekly challenges, as well as by playing the game and leveling up their Battle Pass. The more Battle Stars and XP a player earns, the higher their Battle Pass level will be, unlocking new rewards along the way. The Battle Pass is a popular feature in Fortnite Battle Royale and has become a staple of the game's seasonal content.",
+            "qae_pairs": [
+                {
+                    "question": "What is the duration of the Battle Pass season in Fortnite Battle Royale?",
+                    "answer": "the season",
+                    "explanation": "The Battle Pass is available for purchase during the season and provides access to exclusive cosmetic items, such as skins, emotes, and pickaxes."
+                }
+            ],
+            "hops": [
+                "Fortnite",
+                "Battle Pass"
+            ]
+        },
+        "Azeroth": {
+            "term": "Azeroth",
+            "passage": "Azeroth is a fictional continent in the Warcraft universe, primarily featured in the World of Warcraft MMORPG. It is the setting for much of the series' storyline, and is home to several playable races, including humans, dwarves, and orcs. The continent is divided into several kingdoms and territories, each with its own unique culture and history. The world of Azeroth is also home to a variety of dangerous creatures, including dragons, giants, and undead. The continent is also known for its vast oceans and numerous islands, which are home to a variety of sea creatures and pirates. Azeroth is also known for its rich natural resources, including gold, silver, and magical crystals. The continent is also home to several powerful artifacts, including the legendary sword, Excalibur.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the legendary sword that is said to have been forged on the continent of Azeroth?",
+                    "answer": "Excalibur",
+                    "explanation": "The continent of Azeroth is primarily featured in the World of Warcraft MMORPG and is home to several playable races, including humans, dwarves, and orcs. This sentence explains that the continent of Azeroth is a fictional place that is featured in the World of Warcraft MMORPG and is the setting for much of the series' storyline. It also mentions that the continent is home to several playable races, including humans, dwarves, and orcs."
+                }
+            ],
+            "hops": [
+                "World of Warcraft",
+                "Azeroth"
+            ]
+        },
+        "Blizzard Entertainment": {
+            "term": "Blizzard Entertainment",
+            "passage": "Blizzard Entertainment, Inc. is an American video game developer and publisher based in Irvine, California. The company was founded on February 8, 1991, by three former employees of the gaming company Synergistic Software: Michael Morhaime, Frank Pearce, and Allen Adham. The company is best known for creating some of the most popular and critically acclaimed video games in history, including the Warcraft, StarCraft, and Diablo series. Blizzard Entertainment has been praised for its focus on creating high-quality games with intricate storylines and immersive gameplay, as well as its commitment to supporting its games with ongoing updates and expansions. The company has won numerous awards for its games and has been recognized as one of the leading developers and publishers in the video game industry.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the co-founder of Blizzard Entertainment who is not Michael Morhaime or Allen Adham?",
+                    "answer": "Frank Pearce",
+                    "explanation": "The company was founded on February 8, 1991, by three former employees of the gaming company Synergistic Software: Michael Morhaime, Frank Pearce, and Allen Adham. This sentence provides evidence that Frank Pearce was a co-founder of Blizzard Entertainment, along with Michael Morhaime and Allen Adham."
+                },
+                {
+                    "question": "What game did Blizzard Entertainment release in 1998 that is set in the distant future and features three unique races fighting for control of the galaxy?",
+                    "answer": "StarCraft",
+                    "explanation": "Blizzard Entertainment is best known for creating some of the most popular and critically acclaimed video games in history, including the Warcraft, StarCraft, and Diablo series."
+                }
+            ],
+            "hops": [
+                "World of Warcraft",
+                "Blizzard Entertainment"
+            ]
+        },
+        "Ezio Auditore da Firenze": {
+            "term": "Ezio Auditore da Firenze",
+            "passage": "Ezio Auditore da Firenze was an Italian nobleman and one of the main characters in the Assassin's Creed video game series. He was born in Florence, Italy in 1459 and was a member of the Auditore family, a wealthy and influential family in the city. Ezio became an assassin after his family was betrayed by one of their allies, and he dedicated his life to fighting against the Templar Order, a rival organization that sought to control the world through power and greed. Throughout the series, Ezio travels to various locations across Italy and beyond, using his skills as an assassin and his knowledge of the city to complete missions and gather information. Ezio is known for his charisma and leadership skills, as well as his mastery of various weapons and combat techniques. He is also a skilled diplomat and negotiator, able to navigate complex political situations and build alliances with other factions. Despite his successes, Ezio is haunted by the loss of his family and the betrayal that led to their downfall. He is also plagued by visions of his ancestor, Altair, who serves as a mentor and guide throughout the series. Ezio's story concludes in Assassin's Creed Revelations, where he passes on his knowledge and legacy to his apprentice, Desmond Miles, in order to prevent the Templars from unleashing a deadly virus upon the world.",
+            "qae_pairs": [
+                {
+                    "question": "What was the profession of Ezio Auditore da Firenze?",
+                    "answer": "Assassin",
+                    "explanation": "Ezio Auditore da Firenze was an Italian nobleman and one of the main characters in the Assassin's Creed video game series. He became an assassin after his family was betrayed by one of their allies, and he dedicated his life to fighting against the Templar Order, a rival organization that sought to control the world through power and greed."
+                },
+                {
+                    "question": "What was the name of the game in which Ezio Auditore da Firenze passed on his knowledge and legacy to his apprentice, Desmond Miles, in order to prevent the Templars from unleashing a deadly virus upon the world?",
+                    "answer": "Creed Revelations",
+                    "explanation": "Ezio Auditore da Firenze became an assassin after his family was betrayed by one of their allies, and he dedicated his life to fighting against the Templar Order, a rival organization that sought to control the world through power and greed."
+                }
+            ],
+            "hops": [
+                "Assassin's Creed",
+                "Ezio Auditore da Firenze"
+            ]
+        },
+        "Renaissance": {
+            "term": "Renaissance",
+            "passage": "The Renaissance was a period of European history, from the 14th to the 17th century, that marked the transition from the Middle Ages to modern times. It began in Italy, in the city of Florence, in the late 13th century and spread to the rest of Europe over the next two centuries. The Renaissance was characterized by a renewed interest in the classical culture of ancient Greece and Rome, and by a new emphasis on humanism, which placed human beings and their achievements at the center of attention. This led to a flowering of the arts, literature, and science, as well as the development of new technologies and ideas that transformed European society. The Renaissance had a profound impact on the world, shaping the course of history and influencing the development of Western civilization.",
+            "qae_pairs": [
+                {
+                    "question": "What was the date of the beginning of the Renaissance?",
+                    "answer": "the late 13th century",
+                    "explanation": "The Renaissance began in Italy, in the city of Florence, in the late 13th century."
+                },
+                {
+                    "question": "What was the capital of the Roman Empire during the Renaissance?",
+                    "answer": "Rome",
+                    "explanation": "The Renaissance was characterized by a renewed interest in the classical culture of ancient Greece and Rome, and by a new emphasis on humanism, which placed human beings and their achievements at the center of attention."
+                },
+                {
+                    "question": "What was the birthplace of the Renaissance?",
+                    "answer": "Florence",
+                    "explanation": "The Renaissance began in Italy, in the city of Florence, in the late 13th century and spread to the rest of Europe over the next two centuries."
+                },
+                {
+                    "question": "What was the period of European history that preceded the Renaissance, which was characterized by a renewed interest in the classical culture of ancient Greece and Rome, and by a new emphasis on humanism, which placed human beings and their achievements at the center of attention?",
+                    "answer": "the Middle Ages",
+                    "explanation": "The Renaissance began in Italy, in the city of Florence, in the late 13th century and spread to the rest of Europe over the next two centuries."
+                }
+            ],
+            "hops": [
+                "Assassin's Creed",
+                "Renaissance"
+            ]
+        },
+        "Altaïr ibn La-Ahad": {
+            "term": "Altaïr ibn La-Ahad",
+            "passage": "Altaïr ibn La-Ahad was a fictional character in the video game Assassin's Creed, set in the Third Crusade. He was a member of the Hashshashin, a secretive and militant organization that sought to protect the Holy Land from the invading Crusaders. Altaïr was born in 1165 in Masyaf, Syria, and was trained as an assassin by his father, Al Mualim. He was known for his exceptional skills in combat and his ability to blend into his surroundings. Altaïr was also a member of the Order of the Ancients, a group of assassins who sought to overthrow the corrupt Templar Order. He was portrayed as a complex and conflicted character, torn between his loyalty to the Hashshashin and his desire for justice and freedom. Altaïr's story was continued in the sequel Assassin's Creed II, where he was portrayed as a mentor to the game's protagonist, Ezio Auditore da Firenze.",
+            "qae_pairs": [
+                {
+                    "question": "What was Altaïr ibn La-Ahad's profession?",
+                    "answer": "Assassin",
+                    "explanation": "He was known for his exceptional skills in combat and his ability to blend into his surroundings."
+                },
+                {
+                    "question": "In what country was Altaïr ibn La-Ahad born?",
+                    "answer": "Syria",
+                    "explanation": "Altaïr was born in 1165 in Masyaf, Syria, and was trained as an assassin by his father, Al Mualim."
+                },
+                {
+                    "question": "What was the name of the sequel to the video game Assassin's Creed, in which Altaïr ibn La-Ahad appeared as a mentor to the game's protagonist?",
+                    "answer": "Creed II",
+                    "explanation": "Altaïr was born in 1165 in Masyaf, Syria, and was trained as an assassin by his father, Al Mualim."
+                }
+            ],
+            "hops": [
+                "Assassin's Creed",
+                "Altaïr ibn La-Ahad"
+            ]
+        },
+        "Bethesda Game Studios": {
+            "term": "Bethesda Game Studios",
+            "passage": "Bethesda Game Studios is an American video game developer based in Rockville, Maryland, and a subsidiary of ZeniMax Media. The studio is best known for creating the Fallout and The Elder Scrolls series of games. The studio was founded in 1990 by Christopher Weaver, and has since grown to become one of the largest and most successful game development studios in the world. The studio's games are known for their open-world gameplay, richly detailed environments, and immersive storytelling. Some of the studio's most popular games include Fallout 3, The Elder Scrolls V: Skyrim, and Fallout 4. The studio's most recent game, Fallout 76, was released in 2018 and is an online multiplayer game set in the Fallout universe. The studio is currently working on several unannounced projects, which are expected to be revealed in the coming years.",
+            "qae_pairs": [
+                {
+                    "question": "What is the parent company of Bethesda Game Studios?",
+                    "answer": "ZeniMax Media",
+                    "explanation": "The studio is best known for creating the Fallout and The Elder Scrolls series of games."
+                },
+                {
+                    "question": "What is the location of Bethesda Game Studios?",
+                    "answer": "Rockville",
+                    "explanation": "The studio was founded in 1990 by Christopher Weaver, and has since grown to become one of the largest and most successful game development studios in the world."
+                },
+                {
+                    "question": "What state is Bethesda Game Studios located in?",
+                    "answer": "Maryland",
+                    "explanation": "The studio was founded in 1990 by Christopher Weaver, and has since grown to become one of the largest and most successful game development studios in the world."
+                }
+            ],
+            "hops": [
+                "The Elder Scrolls V",
+                "Bethesda Game Studios"
+            ]
+        },
+        "Alduin": {
+            "term": "Alduin",
+            "passage": "Alduin is a dragon in The Elder Scrolls V: Skyrim. He is the firstborn of Akatosh, the Dragon God of Time, and the first dragon to be born in the world of Tamriel in over a thousand years. Alduin is the main antagonist of the game, and the player character is tasked with stopping him from destroying the world. Alduin is described as a massive and powerful dragon, with the ability to fly and breathe fire. He is also said to possess immense magical powers, and is able to absorb the souls of his victims. Alduin is depicted as a ruthless and destructive force, and his arrival in Skyrim marks the beginning of a cataclysmic event known as the Dragonborn's Return.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the game in which Alduin is the main antagonist?",
+                    "answer": "Skyrim",
+                    "explanation": "Alduin is a dragon in The Elder Scrolls V: Skyrim."
+                },
+                {
+                    "question": "What is the relationship between Alduin and Time in The Elder Scrolls V?",
+                    "answer": "Time",
+                    "explanation": "Alduin is the firstborn of Akatosh, the Dragon God of Time, and the first dragon to be born in the world of Tamriel in over a thousand years."
+                },
+                {
+                    "question": "What is the name of the Dragon God of Time that Alduin, the main antagonist of The Elder Scrolls V: Skyrim, is the firstborn of?",
+                    "answer": "Akatosh",
+                    "explanation": "Alduin is the firstborn of Akatosh, the Dragon God of Time."
+                }
+            ],
+            "hops": [
+                "The Elder Scrolls V",
+                "Alduin"
+            ]
+        },
+        "Creation Engine": {
+            "term": "Creation Engine",
+            "passage": "The Creation Engine is a game engine developed by FromSoftware, the same company that created the popular Dark Souls series. It is used to power the studio's latest game, Sekiro: Shadows Die Twice. The engine is known for its ability to handle large, open-world environments, as well as its advanced physics and animation systems. It also supports multiplayer functionality, allowing players to team up or compete against each other in cooperative or competitive modes. The Creation Engine has been praised for its ability to create immersive and challenging gameplay experiences, and is considered one of the most powerful game engines currently available.",
+            "qae_pairs": [
+                {
+                    "question": "What game is powered by the Creation Engine and is set in a feudal Japan-inspired world, where the player takes on the role of a one-armed shinobi?",
+                    "answer": "Sekiro",
+                    "explanation": "The Creation Engine is a game engine developed by FromSoftware, the same company that created the popular Dark Souls series. It is used to power the studio's latest game, Sekiro: Shadows Die Twice. The evidence sentence is The Creation Engine is a game engine developed by FromSoftware, the same company that created the popular Dark Souls series."
+                }
+            ],
+            "hops": [
+                "The Elder Scrolls V",
+                "Creation Engine"
+            ]
+        },
+        "Nintendo Switch": {
+            "term": "Nintendo Switch",
+            "passage": "The Nintendo Switch is a gaming console developed by Nintendo. It was first released on March 3, 2017. The console is unique because it can be used both as a home console and as a portable console. The Switch's hybrid design allows players to switch between playing on a television and playing in handheld mode. The console's controllers, called Joy-Con, can be attached to the sides of the console for use in handheld mode, or they can be used separately as traditional controllers. The Switch has a 6.2-inch touchscreen display and supports both physical and digital game purchases. The console has been praised for its unique design and the quality of its games, including titles like The Legend of Zelda: Breath of the Wild and Super Mario Odyssey.",
+            "qae_pairs": [
+                {
+                    "question": "What was the release date of the Nintendo Switch?",
+                    "answer": "March 3, 2017",
+                    "explanation": "The console's controllers, called Joy-Con, can be attached to the sides of the console for use in handheld mode, or they can be used separately as traditional controllers."
+                },
+                {
+                    "question": "What are the controllers called for the Nintendo Switch?",
+                    "answer": "Joy-Con",
+                    "explanation": "The console's controllers, called Joy-Con, can be attached to the sides of the console for use in handheld mode, or they can be used separately as traditional controllers."
+                },
+                {
+                    "question": "What is the name of the company that developed the Nintendo Switch?",
+                    "answer": "Nintendo",
+                    "explanation": "The console's hybrid design allows players to switch between playing on a television and playing in handheld mode. This sentence explains how the Nintendo Switch can be used both as a home console and as a portable console, which is a unique feature of the console."
+                }
+            ],
+            "hops": [
+                "The Elder Scrolls V",
+                "Nintendo Switch"
+            ]
+        },
+        "Bethesda Softworks": {
+            "term": "Bethesda Softworks",
+            "passage": "Bethesda Softworks is an American video game publisher based in Rockville, Maryland. The company was founded in 1986 by Christopher Weaver, Vlatko Andonov, and John Romero, and has since become known for publishing a wide range of video games, including the popular Fallout and The Elder Scrolls series. Bethesda Softworks is a subsidiary of ZeniMax Media, which also owns other video game publishers such as id Software and Arkane Studios. The company has developed a reputation for creating open-world games with rich storytelling and immersive gameplay, and has won numerous awards for its titles. In addition to publishing games, Bethesda Softworks also provides support and updates for its titles after release, ensuring that players have the best possible experience.",
+            "qae_pairs": [
+                {
+                    "question": "What state is the headquarters of Bethesda Softworks located in?",
+                    "answer": "Maryland",
+                    "explanation": "The company was founded in 1986 by Christopher Weaver, Vlatko Andonov, and John Romero, and has since become known for publishing a wide range of video games, including the popular Fallout and The Elder Scrolls series. Explanation: This sentence provides evidence that Bethesda Softworks is an American video game publisher based in Rockville, Maryland, which was founded in 1986 by Christopher Weaver, Vlatko Andonov, and John Romero."
+                },
+                {
+                    "question": "What is the name of the parent company of Bethesda Softworks?",
+                    "answer": "ZeniMax Media",
+                    "explanation": "Bethesda Softworks is a subsidiary of ZeniMax Media, which also owns other video game publishers such as id Software and Arkane Studios."
+                }
+            ],
+            "hops": [
+                "The Elder Scrolls V",
+                "Bethesda Softworks"
+            ]
+        },
+        "Tamriel": {
+            "term": "Tamriel",
+            "passage": "Tamriel is a fictional continent in the video game series The Elder Scrolls. It is the setting for the series and features a diverse range of landscapes, cultures, and factions. The continent is divided into several provinces, each with its own unique history, geography, and inhabitants. The capital of Tamriel is the city of Imperial City, which is located in the province of Cyrodiil. The continent is home to several powerful factions, including the Imperial Legion, the Thalmor, and the Dark Brotherhood. The continent is also home to several powerful magical artifacts, including the Elder Scrolls, which are said to contain the knowledge of the ancient Aedra. The continent is known for its rich history and diverse cultures, making it a popular setting for role-playing games and other forms of media.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the powerful faction in Tamriel that is known for its assassination services and is a major antagonist in The Elder Scrolls V: Skyrim?",
+                    "answer": "the Dark Brotherhood",
+                    "explanation": "The continent is known for its rich history and diverse cultures, making it a popular setting for role-playing games and other forms of media."
+                },
+                {
+                    "question": "What is the capital of Tamriel in The Elder Scrolls V?",
+                    "answer": "Cyrodiil",
+                    "explanation": "The capital of Tamriel is the city of Imperial City, which is located in the province of Cyrodiil."
+                }
+            ],
+            "hops": [
+                "The Elder Scrolls V",
+                "Tamriel"
+            ]
+        }
+    }
+}

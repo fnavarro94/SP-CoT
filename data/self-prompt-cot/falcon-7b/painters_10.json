@@ -1,0 +1,448 @@
+{
+    "first_hops": {
+        "Leonardo da Vinci": {
+            "term": "Leonardo da Vinci",
+            "passage": "(click to access the passage)\nA few interesting items in the passage:\n1. There was a famous 1962 movie about Leonardo da Vinci that starred Leonard Nimoy. 2. Leonardo da Vinci used a mirror to paint the background for his paintings. 3. He wrote about an early childhood trauma and its effects on his life. 4. Leonardo da Vinci died in 1519 after experiencing what might have been pneumonia.",
+            "qae_pairs": [
+                {
+                    "question": "When did Leonardo da Vinci die?",
+                    "answer": "1519",
+                    "explanation": "(click to access the explanation) The passage is referring to Leonardo da Vincis death in 1519."
+                },
+                {
+                    "question": "Which year did the movie about Leonardo da Vinci come out?",
+                    "answer": "1962",
+                    "explanation": "(click to reveal) The movie about Leonardo da Vinci was released in 1962."
+                },
+                {
+                    "question": "Who played Leonardo da Vinci in the 1962 movie?",
+                    "answer": "Leonard Nimoy",
+                    "explanation": "(click to reveal) Leonard Nimoy played the character of Leonardo da Vinci in the 1962 movie The Man Who Knew Too Much."
+                }
+            ],
+            "hops": [
+                "Michelangelo",
+                "Leonardo da Vinci"
+            ]
+        },
+        "Vincent Van Gogh": {
+            "term": "Vincent Van Gogh",
+            "passage": "\"VINCENT VAN GOGH, *Vincent...\nAs a young boy, Van Gogh had a great love for art, in particular the Impressionist style of painting. He began painting in 1886 and went on to create some of the most famous paintings in the world. His work also included a range of different art forms, such as drawing, photography, and even sculpture.",
+            "qae_pairs": [
+                {
+                    "question": "When did Vincent Van Gogh start painting?",
+                    "answer": "1886",
+                    "explanation": "*Vincent Van Gogh was born in *Amsterdam, *Netherlands in *June 30, *1883. He began painting in 1886."
+                }
+            ],
+            "hops": [
+                "Vincent Van Gogh"
+            ]
+        },
+        "Claude Monet": {
+            "term": "Claude Monet",
+            "passage": "\"Claude Monet (July 4, 1869 – December 27, 1926) was a French Impressionist painter. He is widely considered one of the most influential and important artists in Western art history. His work was characterized by the color, light, air, and atmosphere. His landscapes are renowned for their impression of light and movement, and he is especially renowned for his series of paintings of the Thames Valley and the London skyline. Throughout his career, Monet explored a variety of techniques including Impressionism, Post-Impressionism and most notably Symbolism. He was an important influence on Post-Impressionist and Impressionist artists such as Henri Matisse and Pierre Bonnard. As the 20th century progressed, Monet's works were less and less sought after, and by the 1960s he had almost disappeared from the art world, although he continued to sell paintings. The majority of Monet's paintings were never exhibited while he was alive. Despite this, his reputation remained strong during his lifetime and has since spread well beyond the art world. There are numerous depictions of his work in the films and on television.\"",
+            "qae_pairs": [
+                {
+                    "question": "What is the most famous painting of Claude Monet?",
+                    "answer": "London",
+                    "explanation": "London is one of the most famous paintings of Claude Monet. It was painted in 1908 and is a view of the Thames Valley from the artists home in Giverny, France. The painting is characterized by its light, atmosphere, and movement, and is considered one of the most important works of Impressionism. The painting is also notable for its use of color, light, and atmosphere, and is considered one of the most important works of Impressionism."
+                },
+                {
+                    "question": "Who is the most famous Impressionist painter?",
+                    "answer": "Monet",
+                    "explanation": "Claude Monet (July 4, 1869 – December 27, 1926) was a French Impressionist painter. He is widely considered one of the most influential and important artists in Western art history. His work was characterized by the color, light, air, and atmosphere. His landscapes are renowned for their impression of light and movement, and he is especially renowned for his series of paintings of the Thames Valley and the London skyline. Throughout his career, Monet explored a variety of techniques including Impressionism, Post-Impressionism and most notably Symbolism. He was an important influence on Post-"
+                },
+                {
+                    "question": "What is the most famous landscape in the world?",
+                    "answer": "the Thames Valley",
+                    "explanation": "The most famous landscape in the world is the Thames Valley, which is located in England. The valley is characterized by its rolling hills, lush green fields, and picturesque villages. It has been depicted in countless works of art, including paintings by Claude Monet, who painted it extensively throughout his career. The Thames Valley is also home to the famous Oxford and Cambridge University, which are depicted in many of Monets paintings. The valley is a popular tourist destination, and is home to many famous landmarks, including the Tower Bridge and the London Eye. It is also home to many famous English writers, such as William Wordsworth, who wrote"
+                },
+                {
+                    "question": "When did Claude Monet die?",
+                    "answer": "July 4, 1869",
+                    "explanation": "Claude Monet (July 4, 1869 – December 27, 1926) was a French Impressionist painter. He is widely considered one of the most influential and important artists in Western art history. His work was characterized by the color, light, air, and atmosphere. His landscapes are renowned for their impression of light and movement, and he is especially renowned for his series of paintings of the Thames Valley and the London skyline. Throughout his career, Monet explored a variety of techniques including Impressionism, Post-Impressionism and most notably Symbolism. He was an important influence on Post-"
+                }
+            ],
+            "hops": [
+                "Claude Monet"
+            ]
+        },
+        "Pablo Picasso": {
+            "term": "Pablo Picasso",
+            "passage": "\"Pablo Picasso (Spanish: [pablo pˈʎica]; 10 October 1883 – 23 February 1973) was a Spanish painter, sculptor, and ceramicist, who had a leading role in the development of modern art.. Picasso was born in Málaga, Spain into a Catholic family of artists. He had two older brothers, José, 18 years, and Jaime, 17 years, who were already working as painters.\" The following passages were from the website \"art-in-modern-theory.com\". I. THE PICASSO'S PLETHORA OF SKILLS\nBy: Leonardo Benvenuti\nI'll have to be a bit of a bore and take up my own space here, because I can't just leave you with one article of a whole treasure trove of an art site. However, this article does cover just a small part of a much larger encyclopedia that they have put together. You will notice from this first quote that Picasso has become something of a cult in the art world (or at least on this blog). I will try to put you at least up to date with all these aspects that were covered on the website: \"Picasso was the most influential artist of the twentieth century. \"",
+            "qae_pairs": [
+                {
+                    "question": "Where did Picasso come from?",
+                    "answer": "Málaga",
+                    "explanation": "Picasso was born in Málaga, Spain, in 1883. He was born into a family of artists, and his father was a painter. Picassos father was a painter, and his mother was a seamstress. Picassos father was a painter, and his mother was a seamstress. Picassos father was a painter, and his mother was a seamstress. Picassos father was a painter, and his mother was a seamstress. Picassos father was a painter, and his mother was a seamstress. Picassos father was a painter, and his mother was a seamstress"
+                },
+                {
+                    "question": "What century is this?",
+                    "answer": "the twentieth century",
+                    "explanation": "Picasso was the most influential artist of the twentieth century. Question: What century is this? Answer: the twentieth century Explanation: Picasso was the most influential artist of the twentieth century. Question: What century is this? Answer: the twentieth century Explanation: Picasso was the most influential artist of the twentieth century. Question: What century is this? Answer: the twentieth century Explanation: Picasso was the most influential artist of the twentieth century. Question: What century is this? Answer: the twentieth century Explanation:"
+                },
+                {
+                    "question": "Who is the most influential artist of the twentieth century?",
+                    "answer": "Picasso",
+                    "explanation": "Picasso was the most influential artist of the twentieth century. He was a painter, sculptor, ceramicist, and writer. He was a major figure in the development of modern art. He was a major influence on the development of Cubism, which is a style of art that Picasso helped to create. He was also a major influence on the development of surrealism, which is a style of art that Picasso helped to create. Picasso was also a major influence on the development of abstract art, which is a style of art that Picasso helped to create. Picasso was also a major influence on the development of modern art, which is a"
+                },
+                {
+                    "question": "When did Picasso die?",
+                    "answer": "23 February 1973",
+                    "explanation": "Pablo Picasso (Spanish: [pablo pˈʎica]; 10 October 1883 – 23 February 1973) was a Spanish painter, sculptor, and ceramicist, who had a leading role in the development of modern art. He died in 1973 in Mougins, France.  Question: Who is Picassos father? Answer: Pablo Picasso (Spanish: [pablo pˈʎica]; 10 October 1883 – 23 February 1973) was a Spanish painter, sculptor, and ceramic"
+                },
+                {
+                    "question": "How old was Picasso when he started painting?",
+                    "answer": "18 years",
+                    "explanation": "Picasso was born in Málaga, Spain, on October 10, 1883. He was 18 years old when he started painting. He was born into a family of artists, and his father, a painter, was a member of the Realist movement. Picassos father was a painter, and his mother was a seamstress. Picassos father was a painter, and his mother was a seamstress. Picassos father was a painter, and his mother was a seamstress. Picassos father was a painter, and his mother was a seamstress. Picassos father was a painter"
+                }
+            ],
+            "hops": [
+                "Pablo Picasso"
+            ]
+        },
+        "Rembrandt": {
+            "term": "Rembrandt",
+            "passage": "\"In 1640, Rembrandt van Rijn left his native Leiden to move to Amsterdam. Rembrandt's artistic career was long and successful, marked by a series of stylistic changes and innovations. He created portraits, landscape paintings, and works inspired by classical subjects. His most famous works are portraits of Christ and Biblical scenes. He has also been praised for his innovations in etching and for introducing some of the first known trompe l'oeil images, as seen in his 1658 painting Self-Portrait as a Roman Emperor. He was the most famous artist of the Dutch Golden Age, and he is considered to be one of the great artists in Western art history.\" Rembrandt van Rijn was a 17th century Dutch painter and he is considered to be one of the greatest painters in art history. His paintings, drawings, and etchings have been widely exhibited and are seen in many museums throughout the world. His most famous works include paintings of biblical subjects and self portraits. Some of his innovations in etching and trompe l'oeil have been highly influential on modern art.",
+            "qae_pairs": [
+                {
+                    "question": "What year did Rembrandt van Rijn create his most famous painting, Self-Portrait as a Roman Emperor?",
+                    "answer": "1658",
+                    "explanation": "1658"
+                },
+                {
+                    "question": "What is the period of time in art history that is considered to be the most influential?",
+                    "answer": "the Dutch Golden Age",
+                    "explanation": "The Dutch Golden Age was a period in the 17th century in which the Netherlands was a world power. This period was marked by an artistic and cultural flourishing, and it was during this time that many of the greatest artists in Western art history emerged. The Dutch Golden Age was characterized by the use of perspective, realism, and the depiction of everyday life. Some of the most famous artists of this time include Rembrandt van Rijn, Johannes Vermeer, and Jan Vermeer. This period of artistic and cultural development had a lasting impact on Western art and culture, and it is still considered to be one of the most influential"
+                },
+                {
+                    "question": "What is the birthplace of Rembrandt van Rijn?",
+                    "answer": "Leiden",
+                    "explanation": "Rembrandt van Rijn was born in Leiden, the Netherlands, on July 15, 1606. He was the son of a painter and a housewife, and he was baptized on August 10, 1606. Rembrandt attended the Leiden Guild School of Painting and Drawing, where he learned the techniques of the Flemish school of painting. He was a member of the Leiden Guild of Saint Luke, and he was also a member of the Guild of Saint Luke and Saint John the Baptist. Rembrandts father was a member of the guild, and he was also a member"
+                },
+                {
+                    "question": "Which century was Rembrandt van Rijn born in?",
+                    "answer": "a 17th century",
+                    "explanation": "1640"
+                },
+                {
+                    "question": "What is Rembrandts most famous painting?",
+                    "answer": "Self-Portrait",
+                    "explanation": "Self-Portrait as a Roman Emperor is one of Rembrandts most famous paintings. It is a portrait of himself painted in 1658, when he was 38 years old. The painting is considered to be one of the most important works of art in the history of Western art. It is known for its innovative use of trompe loeil, which is a technique that creates the illusion of depth and space. The painting is also famous for its use of light and shadow, which creates a dramatic effect. The painting is considered to be one of the most important works of art in the history of"
+                },
+                {
+                    "question": "In which year did Rembrandt van Rijn move from Leiden to Amsterdam?",
+                    "answer": "1640",
+                    "explanation": "1640"
+                },
+                {
+                    "question": "What is the capital of the Netherlands?",
+                    "answer": "Amsterdam",
+                    "explanation": "Amsterdam is the capital and largest city of the Netherlands. It is located in the province of North Holland, on the Amstel River. The city is home to the Dutch Royal Palace, the Dutch Parliament, and the Dutch Stock Exchange. It is also home to the Rijksmuseum, the Dutch national museum, and the Van Gogh Museum, which is dedicated to the works of the Dutch post-Impressionist painter Vincent van Gogh. The city is home to many canals, parks, and other attractions, and is a popular tourist destination. The city is home to many museums, theaters, and other cultural venues, and is"
+                }
+            ],
+            "hops": [
+                "Rembrandt"
+            ]
+        },
+        "Michelangelo": {
+            "term": "Michelangelo",
+            "passage": "“Italian artist, sculptor, architect, and poet of the High Renaissance,. Michelangelo also had an influence on the classical period of Greek and Roman art. In the High Renaissance period, Italian artists (including such greats as Leonardo da Vinci and Raphael) were considered to be more important than painters and sculptors of the. Michelangelo's most renowned works are fresco paintings.",
+            "qae_pairs": [
+                {
+                    "question": "Who is the most famous Italian artist of the Renaissance period?",
+                    "answer": "Leonardo da Vinci",
+                    "explanation": "Leonardo da Vinci was an Italian Renaissance polymath, who had a significant impact on the fields of art, science, engineering, and many other areas. He is considered one of the most influential artists of the High Renaissance period, alongside artists such as Michelangelo and Raphael. Leonardo da Vincis most famous works include the Mona Lisa, The Last Supper, and The Vitruvian Man."
+                }
+            ],
+            "hops": [
+                "Michelangelo"
+            ]
+        },
+        "Johannes Vermeer": {
+            "term": "Johannes Vermeer",
+            "passage": "\"Johannes Vermeer (1632-1675) was a Dutch painter and draughtsman. He is known for his realistic depictions of everyday life and his use of light and shadow. He is considered one of the most important artists of the Dutch Golden Age. Vermeer was born in Delft, the Netherlands, in 1632. He was the son of a painter and a draughtsman. He was baptized on 31 October 1632. He was a pupil of the painter Pieter de Hooch. He was a member of the Delft Guild of Painters. He died in Delft on 17 October 1675. Vermeer's work is characterized by his use of light and shadow, which is often described as \"flat\". He is also known for his use of perspective, which is often described as \"realistic\". He is also known for his use of light and shadow. He is also known for his use of perspective.",
+            "qae_pairs": [
+                {
+                    "question": "What is the Dutch Republic?",
+                    "answer": "Netherlands",
+                    "explanation": "The Dutch Republic was a republic in the Netherlands that was established in 1581. It was a republic in the sense that it was a country that was ruled by a monarch, but the monarch was a stadtholder, not a king. The Dutch Republic was established after the Dutch Revolt, which was a revolt against the Spanish rule of the Netherlands. The Dutch Republic was established in 1581, and it lasted until 1790, when it was replaced by the Dutch Kingdom. The Dutch Republic was a republic in the sense that it was a country that was ruled by a monarch, but the monarch was a stadth"
+                },
+                {
+                    "question": "What guild did Vermeer belong to?",
+                    "answer": "the Delft Guild of Painters",
+                    "explanation": "Vermeer was a member of the Delft Guild of Painters."
+                },
+                {
+                    "question": "What is the name of the famous Dutch painter who was born in Delft in 1632?",
+                    "answer": "Vermeer",
+                    "explanation": "Johannes Vermeer (1632-1675) was a Dutch painter and draughtsman. He is known for his realistic depictions of everyday life and his use of light and shadow. He is considered one of the most important artists of the Dutch Golden Age."
+                },
+                {
+                    "question": "When did Johannes Vermeer die?",
+                    "answer": "17 October 1675",
+                    "explanation": "Johannes Vermeer, a Dutch painter and draughtsman, died on 17 October 1675."
+                }
+            ],
+            "hops": [
+                "Johannes Vermeer"
+            ]
+        },
+        "Vincent van Gogh": {
+            "term": "Vincent van Gogh",
+            "passage": "\"In his short life, the Dutch Post-Impressionist artist Vincent van Gogh (1853 - 1890) created over 3,000 works, the majority of which were created in just the four years preceding his death. Van Gogh had a prolific career as a painter, with a remarkable range of styles and techniques. The range of his work and his popularity as a Post-Impressionist has made him one of the most important figures in 20th century Western art. Van Gogh's works are often characterized as highly emotive, highly detailed and realistic and highly experimental and innovative. Many of his works have been highly sought after, which has made him one of the most popular artists in art history. In addition, his works have been the source of several iconic images in the cultural history, in addition to being the inspiration for many of the most popular artworks in art history. The range of his work has been widely explored, with his most popular works ranging from portraits and landscapes to religious paintings and still lifes.",
+            "qae_pairs": [
+                {
+                    "question": "Who is Vincent van Gogh?",
+                    "answer": "1853 - 1890",
+                    "explanation": "Vincent van Gogh was a Dutch Post-Impressionist painter. He is one of the most popular artists in art history and is known for his emotive and highly detailed works. His works have been highly sought after, which has made him one of the most popular artists in art history."
+                },
+                {
+                    "question": "What is the most popular art style in the world?",
+                    "answer": "Van Gogh's",
+                    "explanation": "Vincent van Gogh (1853 - 1890) is one of the most popular artists in the world. His works are highly sought after, with a range of styles and techniques that has made him one of the most important figures in 20th century Western art. Van Goghs works are often characterized as highly emotive, highly detailed and realistic and highly experimental and innovative. His works have been highly sought after, which has made him one of the most popular artists in art history. In addition, his works have been the source of several iconic images in the cultural history, in addition to being the inspiration for many"
+                }
+            ],
+            "hops": [
+                "Vincent van Gogh"
+            ]
+        },
+        "Henri Rousseau": {
+            "term": "Henri Rousseau",
+            "passage": "\"Henri Rousseau (also known as La Grenouille) is a fictional character created by French author Henri-Louis Bergson in the book, \"La Reine des Neiges\". He is the main antagonist of the story and appears as a giant frog (La Grenouille is the French word for frog). This character is based on the historical figure Henri Rousseau, a 18th century French sculptor, painter, writer, and poet. Rousseau, also known as Le Roi Est Mort! (\"The King is Dead!\") is known for his sculpture \"The Thinker\", and also for his painting \"Mona Lisa\", which was taken by Leonardo da Vinci himself as inspiration for his painting of the Mona Lisa. Henri Rousseau is a very sad character, as he is a human in the human form. He is the only character that can see the other person's true nature of a human being. Henri has the ability to become a human, and thus be capable of a normal life like the other inhabitants of his village. Henri Rousseau is also known to be \"self-invented\" by Henri-Louis Bergson. Henri has an incredible power to change the shape of his own body after being rejected by his mother and becoming a human. He also has the power to change his face's appearance and the clothing he wears, such as his beret, scarf and hat.",
+            "qae_pairs": [
+                {
+                    "question": "What century was Henri Rousseau born in?",
+                    "answer": "a 18th century",
+                    "explanation": "Henri Rousseau is based on the historical figure Henri Rousseau, a 18th century French sculptor, painter, writer, and poet. He was born in 1779, which was a 18th century."
+                },
+                {
+                    "question": "Who is Henri Rousseau?",
+                    "answer": "Henri-Louis Bergson",
+                    "explanation": "Henri Rousseau is a fictional character created by Henri-Louis Bergson in the book La Reine des Neiges. He is the main antagonist of the story and appears as a giant frog."
+                },
+                {
+                    "question": "What is the meaning of life?",
+                    "answer": "La Grenouille",
+                    "explanation": "La Grenouille is a character in Henri Rousseaus book La Reine des Neiges (The Queen of the Snow). He is a giant frog that appears in the story. The character is based on Henri Rousseau, a 18th century French sculptor, painter, writer, and poet. Henri Rousseau is known for his sculpture The Thinker and also for his painting Mona Lisa, which was taken by Leonardo da Vinci himself as inspiration for his painting of the Mona Lisa. Henri Rousseau is a very sad character, as he is a"
+                },
+                {
+                    "question": "What is the most famous painting in the world?",
+                    "answer": "the Mona Lisa",
+                    "explanation": "The Thinker by Leonardo da Vinci is one of the most famous paintings in the world. It is known for its mysterious expression and its ability to inspire artists. Leonardo da Vinci is one of the most famous artists in history, known for his work in painting, sculpture, architecture, and engineering. He is also known for his work in many other fields, such as science, mathematics, and engineering. Leonardo da Vincis work is famous for its influence on the art of painting. Leonardo da Vincis most famous painting, the Mona Lisa, is one of the most famous paintings in the world. The painting is famous for"
+                }
+            ],
+            "hops": [
+                "Henri Rousseau"
+            ]
+        }
+    },
+    "second_hops": {
+        "Leonard Nimoy": {
+            "term": "Leonard Nimoy",
+            "passage": "\"Leonard Nimoy, (born Leonard Norman Nimoy, February 8, 1931 – February 24, 2015), also known as \"Mr. Spock\" for his portrayal of the character in the 1979 film Star Trek: The Motion Picture and the subsequent series, was a singer in the 1950s. Nimoy is also the director and producer of the 1970s sci-fi series, \"Spaced\". Nimoy became a science fiction icon and will be remembered as Mr. Spock. He died on February 24, 2015 at the age of 84 in his home in Beverly Hills, California.\" I would like to point out that when he came in to the cast of Star Trek: The Motion Picture, he also played the character of \"Mr. Nimoy\", the father of George, in a role where he was a major character to the storyline. This film was one of the first films for director Robert Redford.",
+            "qae_pairs": [
+                {
+                    "question": "\nIn which year did Leonard Nimoy portray the character of Mr. Nimoy in Star Trek: The Motion Picture?",
+                    "answer": "1979",
+                    "explanation": "Leonard Nimoy portrayed the character of Mr. Nimoy in Star Trek: The Motion Picture in 1979."
+                },
+                {
+                    "question": "\nWhich famous science fiction icon, portrayed by Leonard Nimoy, was known for his role in the Star Trek films?",
+                    "answer": "Spock",
+                    "explanation": "Leonard Nimoy, born Leonard Norman Nimoy, was a singer in the 1950s. He is best known for his portrayal of the character of Mr. Spock in the Star Trek films."
+                },
+                {
+                    "question": "\nQuestion: What is the connection between Leonard Nimoy and Robert Redford in the film 'Star Trek: The Motion Picture'?",
+                    "answer": "Robert Redford",
+                    "explanation": "Robert Redford was the director of the film Star Trek: The Motion Picture. He also starred in the film as a character named Captain Redford."
+                },
+                {
+                    "question": "What date did Leonard Nimoy pass away?",
+                    "answer": "February 24, 2015",
+                    "explanation": "Leonard Nimoy, (born Leonard Norman Nimoy, February 8, 1931 – February 24, 2015), also known as Mr. Spock for his portrayal of the character in the 1979 film Star Trek: The Motion Picture and the subsequent series, was a singer in the 1950s. Nimoy is also the director and producer of the 1970s sci-fi series, Spaced. Nimoy became a science fiction icon and will be remembered as Mr. Spock. He died on February 24, 2015 at the age"
+                }
+            ],
+            "hops": [
+                "Leonardo da Vinci",
+                "Leonard Nimoy"
+            ]
+        },
+        "London": {
+            "term": "London",
+            "passage": "\"The city of London has long been associated with the British government and the City of London, and this is evident in the number of public buildings and infrastructure in the city. London's economy is driven in particular by finance and banking, and by trade and services. London is the UK's biggest centre for the entertainment and hospitality industry.... London is home to a wide variety of cultures, ethnic groups and languages; of particular importance are Jewish, French, Indian, Nigerian, Chinese and Pakistani communities.... There are three levels of government in London: local (at the level of individual neighbourhoods), regional (at the level of the London Metropolitan Area) and central (at the level of the Government of the United Kingdom).\" This sentence is important because it gives you a good idea about the government and the financial services that are central to the success of London. The British government is a \"power at a distance\". This means that we have very little direct government interference with the everyday lives of everyday people. Government is so weak that it can barely impose a \"public ban on a parade\". And yet, this government can be relied upon to provide all the necessary services and infrastructure for the nation. But what is interesting to look at now is the financial services industry in London. The city has become a \"supercenter for global finance\", and this has had all sorts of consequences.",
+            "qae_pairs": [
+                {
+                    "question": "What is the main industry in London?",
+                    "answer": "UK",
+                    "explanation": "The main industry in London is finance and banking. This is because London is home to the worlds biggest financial centre, the London Stock Exchange, and the City of London is the UKs biggest centre for the entertainment and hospitality industry. London is also home to a wide variety of cultures, ethnic groups and languages, including Jewish, French, Indian, Nigerian, Chinese and Pakistani communities. The city has become a supercenter for global finance, and this has had all sorts of consequences."
+                }
+            ],
+            "hops": [
+                "Claude Monet",
+                "London"
+            ]
+        },
+        "the Thames Valley": {
+            "term": "the Thames Valley",
+            "passage": "“The Thames Valley is the most southern area of the United Kingdom, and forms part of the South East England. It is located in the eastern part of the English Midlands, bounded by Berkshire to the west and Hertfordshire to the north-west.”\nThat’s very interesting. I have to be honest with you, I’m not from there. However, if you are, and want to get to know more about it and the surrounding areas, then go for it.",
+            "qae_pairs": [
+                {
+                    "question": "\nWhich part of the UK is the Thames Valley located in?",
+                    "answer": "the South East England",
+                    "explanation": "The Thames Valley is located in the South East England."
+                }
+            ],
+            "hops": [
+                "Claude Monet",
+                "the Thames Valley"
+            ]
+        },
+        "Málaga": {
+            "term": "Málaga",
+            "passage": "\"Málaga (/ˈməˈlɑːɡə/; /məˈlɛɡə; in Spanish, Madrid: [m'ɣaˈɣwa]),[8] officially Málaga ([ˈmɣ.lɐɣwɣ] in the Andalusian dialect), is the capital of the province of Málaga in the autonomous community of the Andalusian Autonomous Community, and of the Costa del Sol region of Spain. It is located on the shores of the Mediterranean Sea, between the towns of Torremolinos and San Pedro de Alcántara. As the third-most visited Spanish destination in 2008, it is home to 803,000 permanent residents, but also a host of millions of tourists each year. The city is known for its beaches and its Picasso Museum. Its coastline has numerous attractions, and there is also the La Mar shopping mall, the largest in Europe, and the Centro Comercial Picasso shopping centre.",
+            "qae_pairs": [
+                {
+                    "question": "What is the capital of the province of Málaga in the autonomous community of the Andalusian Autonomous Community?",
+                    "answer": "Spain",
+                    "explanation": "Málaga is a city in the Andalusian Autonomous Community of Spain. It is located on the shores of the Mediterranean Sea, between the towns of Torremolinos and San Pedro de Alcántara."
+                },
+                {
+                    "question": "What is the name of the most famous attraction in Málaga?",
+                    "answer": "Picasso Museum",
+                    "explanation": "The Picasso Museum is a museum dedicated to the works of the Spanish painter Pablo Picasso. It is located in the city of Málaga, in the south of Spain. The museum is housed in the former residence of the artist, the Casa de los Mármoles, and is the largest Picasso museum in the world. The museum is home to more than 4,000 of the artists works, including paintings, sculptures, ceramics, and drawings. The museum is open to the public from Tuesday to Sunday, from 10:00 to 18:00. Admission is free. The museum is one of the most visited"
+                }
+            ],
+            "hops": [
+                "Pablo Picasso",
+                "Málaga"
+            ]
+        },
+        "the Dutch Golden Age": {
+            "term": "the Dutch Golden Age",
+            "passage": "“Golden age Dutch society, in the years between roughly 1580 and 1710, was marked by a remarkable burst of individualism, wealth and a high level of personal freedom and individual wealth. This period saw the development of Dutch capitalism, with the Dutch economy and society growing rapidly through the Dutch Golden Age. It was also marked by the development of modern urbanization. This was one of the high points of European civilization, when the Dutch developed their own style of government (the Dutch Republic, later replaced by the Dutch Republic in the 18th century) and society (democratic). This period of Dutch success was characterized by the arts, which had a great impact on the culture of the Dutch, who had one of the greatest artistic cultures in Europe, which resulted in paintings of famous Dutch painters such as Rembrandt, Van Dyck and the famous Dutch masters of the Baroque period (also known as Dutch painting). This period also resulted in important technological developments, such as the Dutch shipyard system. In the centuries leading to the end of Dutch Golden Age, the Dutch society developed further and became part of the British Empire, which caused a great deal of Dutch resentment and resistance. This period of Dutch success was marked by many advances, as well as its decline, which resulted in the decline of Dutch power in Europe. The Dutch Golden Age saw the beginning of Dutch literature and saw Dutch colonization of the East India Company.",
+            "qae_pairs": [
+                {
+                    "question": "\nWhat were the main characteristics of the Dutch Golden Age?",
+                    "answer": "the years",
+                    "explanation": "The Dutch Golden Age was a period of Dutch success in the years between roughly 1580 and 1710. It was marked by a remarkable burst of individualism, wealth and a high level of personal freedom and individual wealth. This period saw the development of Dutch capitalism, with the Dutch economy and society growing rapidly through the Dutch Golden Age. It was also marked by the development of modern urbanization. This period of Dutch success was characterized by the arts, which had a great impact on the culture of the Dutch, who had one of the greatest artistic cultures in Europe. It was also marked by important technological developments, such as the"
+                }
+            ],
+            "hops": [
+                "Rembrandt",
+                "the Dutch Golden Age"
+            ]
+        },
+        "Leiden": {
+            "term": "Leiden",
+            "passage": "“Leiden is a city in the Dutch region of North Holland, in the Leiden University College. It has 52,000 inhabitants, living in a metropolitan area with a population of 104,000.”\nAs you can see, it’s a long passage. I wonder what Wikipedia is trying to say. I’ve been on it all afternoon and it has been difficult to make much of it so far. Wikipedia has changed the way we think about information. It has changed the way we learn, but now it is too long, it’s no longer concise. In Leiden, a small city with a population of 104,000, Wikipedia is over 1,000 words long! And the information is buried in all of the words! This is something that has come to a head in the last few years. Some of my classmates are working on a Wikipedia article. They are trying to change the way we learn information in college. Wikipedia is a good place to start, but I think it is too long. And the information is buried in so many words. I think they need to work on it.",
+            "qae_pairs": [
+                {
+                    "question": "What is the population of Leiden?",
+                    "answer": "Wikipedia",
+                    "explanation": "“Leiden is a city in the Dutch region of North Holland, in the Leiden University College. It has 52,000 inhabitants, living in a metropolitan area with a population of 104,000.”"
+                },
+                {
+                    "question": "What is the name of the region in which Leiden is located?",
+                    "answer": "North Holland",
+                    "explanation": "“North Holland is a province in the Netherlands. It is located in the western part of the country, and is bordered by the North Sea. The region is divided into three provinces: North Holland, South Holland, and Zeeland.”"
+                }
+            ],
+            "hops": [
+                "Rembrandt",
+                "Leiden"
+            ]
+        },
+        "Leonardo da Vinci": {
+            "term": "Leonardo da Vinci",
+            "passage": "(click to access the passage)\nA few interesting items in the passage:\n1. There was a famous 1962 movie about Leonardo da Vinci that starred Leonard Nimoy. 2. Leonardo da Vinci used a mirror to paint the background for his paintings. 3. He wrote about an early childhood trauma and its effects on his life. 4. Leonardo da Vinci died in 1519 after experiencing what might have been pneumonia.",
+            "qae_pairs": [
+                {
+                    "question": "When did Leonardo da Vinci die?",
+                    "answer": "1519",
+                    "explanation": "(click to access the explanation) The passage is referring to Leonardo da Vincis death in 1519."
+                },
+                {
+                    "question": "Which year did the movie about Leonardo da Vinci come out?",
+                    "answer": "1962",
+                    "explanation": "(click to reveal) The movie about Leonardo da Vinci was released in 1962."
+                },
+                {
+                    "question": "Who played Leonardo da Vinci in the 1962 movie?",
+                    "answer": "Leonard Nimoy",
+                    "explanation": "(click to reveal) Leonard Nimoy played the character of Leonardo da Vinci in the 1962 movie The Man Who Knew Too Much."
+                }
+            ],
+            "hops": [
+                "Michelangelo",
+                "Leonardo da Vinci"
+            ]
+        },
+        "the Delft Guild of Painters": {
+            "term": "the Delft Guild of Painters",
+            "passage": "\"The Delft Guild of Painters was a guild of painters' founded in 1472, as an extension of the guild of carpenters. It was one of the oldest guilds in the Netherlands and its most important task was the painting of church-ornaments. The guild was also active in many other arts. The guild was abolished in 1735 and was then reestablished on January 1, 1830.\" My dad was a member of the guild. My grandfather, \"Uncle\" Jan Rijkeboog, joined the guild in 1775, when he was 15 years old. My grandfather was the third child, I believe, and would have been a child in the school depicted in the photo. When he was about 20 years old, he painted \"delft\" on a church altar. This was a very small town in the Netherlands and it was a common practice to put the name of the town on paintings. I don't know if this is why they painted it so prominently on the altar. I was just fascinated to find this photo, because it is so different from what you might expect. I grew up in the Netherlands with a family of painters and I have been to Delft many times, but never saw this photo. The Delft Guild of Painters is still very active, as far as I know.",
+            "qae_pairs": [
+                {
+                    "question": "When was the Delft Guild of Painters founded?",
+                    "answer": "1472",
+                    "explanation": "The Delft Guild of Painters was founded in 1472, as an extension of the guild of carpenters. It was one of the oldest guilds in the Netherlands and its most important task was the painting of church-ornaments."
+                }
+            ],
+            "hops": [
+                "Johannes Vermeer",
+                "the Delft Guild of Painters"
+            ]
+        },
+        "Vermeer": {
+            "term": "Vermeer",
+            "passage": "His work is often compared with that of Rembrandt, with whom he shared an interest in using a camera obscura, or device that produces an upside-down or reversed image. He is also compared with the great Dutch masters painters of the later 17th century, Rembrandt van Rijn and Caravaggio, for their use of chiaroscuro - a system of shading in which the darker portions of the painting seem more distant, providing depth and relief to the composition. However, Vermeer is in many ways more closely related to the artists who followed him.",
+            "qae_pairs": [
+                {
+                    "question": "What famous Dutch painter was Vermeers contemporary and often compared with him?",
+                    "answer": "Rembrandt van Rijn",
+                    "explanation": "Vermeer was a contemporary of Rembrandt van Rijn, who lived in the 17th century. Both artists were known for their use of chiaroscuro, a system of shading that creates depth and relief in the painting. Rembrandt was also known for his use of a camera obscura, or device that produces an upside-down or reversed image. Vermeer was also compared with the great Dutch masters painters of the later 17th century, including Rembrandt van Rijn and Caravaggio."
+                },
+                {
+                    "question": "What artist, known for his use of chiaroscuro and interest in the Dutch masters, was often compared with Johannes Vermeer?",
+                    "answer": "Caravaggio",
+                    "explanation": "Johannes Vermeer (1632-1675) was a Dutch painter known for his use of chiaroscuro and interest in the Dutch masters. Caravaggio (1571-1613) was an Italian artist known for his use of chiaroscuro and interest in the Italian masters. Both artists were contemporaries and their works were often compared."
+                }
+            ],
+            "hops": [
+                "Johannes Vermeer",
+                "Vermeer"
+            ]
+        },
+        "Henri-Louis Bergson": {
+            "term": "Henri-Louis Bergson",
+            "passage": "Henri-Louis Bergson, French philosopher and writer, is considered to have revived the French philosophical movement in the late 19th century, after the publication of his Le Rire in 1900 ('Smiling' in English, the title was also translated as Laughter in English).",
+            "qae_pairs": [
+                {
+                    "question": "What year did Henri-Louis Bergson publish his book Le Rire?",
+                    "answer": "1900",
+                    "explanation": "Le Rire (Laughter) was published in 1900."
+                }
+            ],
+            "hops": [
+                "Henri Rousseau",
+                "Henri-Louis Bergson"
+            ]
+        },
+        "the Mona Lisa": {
+            "term": "the Mona Lisa",
+            "passage": "The famous painting of the Mona Lisa is an oil painting painted by Leonardo da Vinci, painted during the period of 1503 and 1506 in Vinci, Italy. It was completed sometime between 1504 and 1506, at the same time that Leonardo da Vinci began his most famous painting, the Last Supper. The painting is an 8 feet by 4 feet portrait of a woman standing and looking over her shoulder, who is believed to be Lisa Gherardini. It was the most important painting of Leonardo da Vinci's career, and many have said it is the most recognizable painting of all time. This passage describes the painting as \"an 8 feet by 4 feet portrait of a woman standing and looking over her shoulder, who is believed to be Lisa Gherardini.\" It also notes that it is one of Leonardo da Vinci's most famous paintings and that it was painted during the period between 1504 and 1506, at the same time as his other famous painting, The Last Supper.",
+            "qae_pairs": [
+                {
+                    "question": "Who is the woman in the painting, The Mona Lisa?",
+                    "answer": "Lisa Gherardini",
+                    "explanation": "The woman in the painting, The Mona Lisa, is believed to be Lisa Gherardini, the wife of a Florentine merchant. Leonardo da Vinci painted the painting in 1503 and 1506, during the period of 1504 and 1506. The painting is an 8 feet by 4 feet portrait of a woman standing and looking over her shoulder, who is believed to be Lisa Gherardini. The painting is one of Leonardo da Vincis most famous paintings, and it is believed to be the most recognizable painting of all time."
+                }
+            ],
+            "hops": [
+                "Henri Rousseau",
+                "the Mona Lisa"
+            ]
+        }
+    }
+}

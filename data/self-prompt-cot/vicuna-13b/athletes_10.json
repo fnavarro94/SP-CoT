@@ -1,0 +1,2056 @@
+{
+    "first_hops": {
+        "Usain Bolt": {
+            "term": "Usain Bolt",
+            "passage": "Usain Bolt (born 21 August 1986) is a Jamaican retired sprinter and world record holder in the 100m, 200m and 4 × 100 m relay. He is considered the greatest sprinter of all time. He won eight Olympic gold medals, six of which were in the 100m, 200m and 4 × 100m relay, and two in the 4 × 100m relay. He also won 11 World Championships gold medals, and is the most successful athlete in World Championships history. Bolt's personal best times of 9.58 seconds in the 100m and 19.19 seconds in the 200m are both world records.",
+            "qae_pairs": [
+                {
+                    "question": "What is the date of Usain Bolt's birth according to the passage?",
+                    "answer": "21 August 1986",
+                    "explanation": "According to the passage, Usain Bolt was born on 21 August 1986."
+                }
+            ],
+            "hops": [
+                "Usain Bolt"
+            ]
+        },
+        "Serena Williams": {
+            "term": "Serena Williams",
+            "passage": "Serena Williams is an American professional tennis player who is currently ranked world No. 1 in singles by the Women's Tennis Association (WTA). She has won 23 Grand Slam singles titles, the most in the Open Era, and has held the No. 1 ranking for a total of 319 weeks, which is the most for any player in the Open Era. Williams has also won 14 Grand Slam doubles titles, with her sister Venus Williams, and has won four Olympic gold medals, one in singles and three in doubles with Venus. Williams began playing tennis at the age of three, and by the age of six, she was training with her father, Richard Williams, who was also her coach. She turned professional in 1995, and her first WTA title came in 1999. She has won at least one Grand Slam title every year since 2002, except for 2016, and has won multiple Grand Slam titles in every season except for 2006 and 2018. Her five consecutive Wimbledon titles, from 2015 to 2019, is a record in the Open Era. Williams has been ranked world No. 1 by the WTA for a total of 319 weeks, which is the most for any player in the Open Era. She has also won the WTA Tour Championships a record-tying five times, and has won the season-ending WTA Finals a record-tying six times. Williams has also won the Laureus World Sports Award for Sportswoman of the Year five times, a record for the award.",
+            "qae_pairs": [
+                {
+                    "question": "What is the longest period of time that Serena Williams has gone without winning a Grand Slam title?",
+                    "answer": "every year",
+                    "explanation": "Serena Williams has won at least one Grand Slam title every year since 2002, except for 2016. Therefore, the longest period of time that Serena Williams has gone without winning a Grand Slam title is 2016."
+                },
+                {
+                    "question": "What organization is mentioned in the passage as being responsible for ranking Serena Williams as the world No. 1 in singles?",
+                    "answer": "the Women's Tennis Association",
+                    "explanation": "The Women's Tennis Association (WTA) is mentioned in the passage as being responsible for ranking Serena Williams as the world No. 1 in singles."
+                },
+                {
+                    "question": "What award has Serena Williams won the most number of times according to the passage?",
+                    "answer": "the Laureus World Sports Award for Sportswoman",
+                    "explanation": "According to the passage, Serena Williams has won the Laureus World Sports Award for Sportswoman of the Year the most number of times. The passage states that she has won this award five times, which is a record for the award."
+                },
+                {
+                    "question": "What is the age at which Serena Williams began playing tennis?",
+                    "answer": "the age of three",
+                    "explanation": "Serena Williams began playing tennis at the age of three."
+                },
+                {
+                    "question": "Who is the coach of Serena Williams when she was six years old?",
+                    "answer": "Richard Williams",
+                    "explanation": "Serena Williams' first coach when she was six years old was her father, Richard Williams."
+                },
+                {
+                    "question": "What year did Serena Williams not win any Grand Slam title?",
+                    "answer": "2016",
+                    "explanation": "Serena Williams did not win any Grand Slam title in the year 2016."
+                },
+                {
+                    "question": "What year did Serena Williams turn professional in?",
+                    "answer": "1995",
+                    "explanation": "Serena Williams turned professional in 1995."
+                }
+            ],
+            "hops": [
+                "Serena Williams"
+            ]
+        },
+        "Cristiano Ronaldo": {
+            "term": "Cristiano Ronaldo",
+            "passage": "Cristiano Ronaldo dos Santos Aveiro, born on 5 February 1985, is a Portuguese professional footballer who plays as a forward for Manchester United and the Portugal national team. Ronaldo first caught the attention of Manchester United manager Alex Ferguson in 2002, and he signed for the club in 2003. He has since become one of the most successful footballers in the world, winning numerous awards and accolades, including two FIFA Ballons d'Or, and four Premier League titles. Ronaldo began his career as a youth player for Andorinha, where he was recognized for his impressive dribbling, speed, and scoring abilities. He then played for Sporting CP before moving to Manchester United in 2003. Ronaldo's time at Manchester United saw him become one of the most influential players in the team, and he helped the club win three Premier League titles, one FA Cup, one Football League Cup, and one UEFA Champions League title. In 2009, Ronaldo was the subject of intense transfer speculation, with rumors linking him with a move to Real Madrid. He eventually joined Real Madrid for a then-world record transfer fee of €94 million. During his time at Real Madrid, Ronaldo won one La Liga title, two Copa del Rey titles, and two Supercopa de España titles. He also won the Ballon d'Or in 2008 and 2013 while playing for the club. Ronaldo has been a member of the Portugal national team since 2003, and he has played in two World Cups and two European Championships. He has scored a total of 81 goals for Portugal, making him the country's all-time leading scorer.",
+            "qae_pairs": [
+                {
+                    "question": "What is the date of birth of Cristiano Ronaldo?",
+                    "answer": "5 February 1985",
+                    "explanation": "The date of birth of Cristiano Ronaldo is 5 February 1985."
+                },
+                {
+                    "question": "What country does Cristiano Ronaldo play football for?",
+                    "answer": "Portugal",
+                    "explanation": "Cristiano Ronaldo plays football for Portugal."
+                },
+                {
+                    "question": "What is the full name of the footballer who played for Manchester United and the Portugal national team, and won numerous awards and accolades, including two FIFA Ballons d'Or, and four Premier League titles?",
+                    "answer": "Santos Aveiro",
+                    "explanation": "The full name of the footballer who played for Manchester United and the Portugal national team, and won numerous awards and accolades, including two FIFA Ballons d'Or, and four Premier League titles is Cristiano Ronaldo dos Santos Aveiro."
+                },
+                {
+                    "question": "What is the name of the Manchester United manager who signed Cristiano Ronaldo in 2003?",
+                    "answer": "Alex Ferguson",
+                    "explanation": "Alex Ferguson was the Manchester United manager who signed Cristiano Ronaldo in 2003."
+                },
+                {
+                    "question": "What year did Cristiano Ronaldo join Manchester United?",
+                    "answer": "2003",
+                    "explanation": "Cristiano Ronaldo joined Manchester United in the year 2003."
+                },
+                {
+                    "question": "What team does Cristiano Ronaldo currently play for?",
+                    "answer": "Manchester United",
+                    "explanation": "According to the passage, Cristiano Ronaldo currently does not play for Manchester United. He currently plays for Manchester City."
+                },
+                {
+                    "question": "What is the name of the youth team that Cristiano Ronaldo played for before joining Manchester United?",
+                    "answer": "Andorinha",
+                    "explanation": "Andorinha is the name of the youth team that Cristiano Ronaldo played for before joining Manchester United."
+                },
+                {
+                    "question": "What team did Cristiano Ronaldo play for before he joined Manchester United?",
+                    "answer": "Sporting",
+                    "explanation": "Cristiano Ronaldo played for Sporting CP before he joined Manchester United."
+                }
+            ],
+            "hops": [
+                "Cristiano Ronaldo"
+            ]
+        },
+        "LeBron James": {
+            "term": "LeBron James",
+            "passage": "LeBron James is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is often considered one of the greatest basketball players of all time. James was born on December 30, 1984, in Akron, Ohio, and was raised by his mother, Gloria James, and his grandmother, Mamie. He first started playing basketball at the age of nine, and quickly developed a passion for the sport. After graduating from St. Vincent-St. Mary High School in 2003, James was selected as the first overall pick in the 2003 NBA draft by the Cleveland Cavaliers. He quickly became one of the league's most dominant players, and in his first season, he was named the NBA Rookie of the Year. Over the course of his career, James has won four NBA championships, four NBA MVP awards, and two Olympic gold medals. He has also been named to the NBA All-Star team 17 times, and has been named All-NBA First Team 12 times. In addition to his on-court success, James is also known for his philanthropic efforts. He has established the LeBron James Family Foundation, which focuses on improving the lives of children and families in need. In 2018, James signed a four-year contract with the Los Angeles Lakers, worth $154 million. He has stated that he intends to continue playing basketball for as long as he can, and has not ruled out the possibility of playing until he is 40 years old. Overall, LeBron James is widely regarded as one of the greatest basketball players of all time, and his impact on the sport will continue to be felt for years to come.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of LeBron James' mother who raised him with the help of his grandmother?",
+                    "answer": "Mamie",
+                    "explanation": "The name of LeBron James' mother who raised him with the help of his grandmother is Mamie."
+                },
+                {
+                    "question": "What is the award that LeBron James has won the most times throughout his career?",
+                    "answer": "NBA MVP",
+                    "explanation": "LeBron James has won the NBA MVP award four times throughout his career, making it the award he has won the most times. He first won the award in 2009, and then went on to win it three more times in 2010, 2012, and 2013. James' impressive performance on the court and his ability to lead his team to success have contributed to his numerous MVP awards."
+                },
+                {
+                    "question": "What is the birthplace of LeBron James?",
+                    "answer": "Ohio",
+                    "explanation": "LeBron James was born on December 30, 1984, in Akron, Ohio."
+                },
+                {
+                    "question": "What is the name of LeBron James' mother who raised him along with his grandmother?",
+                    "answer": "Gloria James",
+                    "explanation": "The name of LeBron James' mother who raised him along with his grandmother is Gloria James."
+                },
+                {
+                    "question": "What year did LeBron James sign a four-year contract with the Los Angeles Lakers, worth $154 million?",
+                    "answer": "2018",
+                    "explanation": "LeBron James signed a four-year contract with the Los Angeles Lakers in 2018, worth $154 million."
+                },
+                {
+                    "question": "What is the birth date of LeBron James according to the passage?",
+                    "answer": "December 30, 1984",
+                    "explanation": "According to the passage, the birth date of LeBron James is December 30, 1984."
+                },
+                {
+                    "question": "What team does LeBron James currently play for in the National Basketball Association (NBA)?",
+                    "answer": "the Los Angeles Lakers",
+                    "explanation": "LeBron James currently plays for the Los Angeles Lakers in the National Basketball Association (NBA)."
+                },
+                {
+                    "question": "What is the length of LeBron James' current contract with the Los Angeles Lakers?",
+                    "answer": "four-year",
+                    "explanation": "According to the passage, LeBron James signed a four-year contract with the Los Angeles Lakers in 2018."
+                },
+                {
+                    "question": "What year did LeBron James graduate from high school?",
+                    "answer": "2003",
+                    "explanation": "LeBron James graduated from high school in 2003."
+                },
+                {
+                    "question": "What NBA team did LeBron James play for during his rookie season?",
+                    "answer": "the Cleveland Cavaliers",
+                    "explanation": "LeBron James played for the Cleveland Cavaliers during his rookie season in the NBA. He was selected as the first overall pick in the 2003 NBA draft by the Cavaliers and quickly became one of the league's most dominant players. Over the course of his career, James has played for the Miami Heat and the Cleveland Cavaliers before signing with the Los Angeles Lakers in 2018."
+                },
+                {
+                    "question": "What was the age at which LeBron James first started playing basketball?",
+                    "answer": "the age of nine",
+                    "explanation": "LeBron James first started playing basketball at the age of nine."
+                }
+            ],
+            "hops": [
+                "LeBron James"
+            ]
+        },
+        "Lionel Messi": {
+            "term": "Lionel Messi",
+            "passage": "Lionel Messi is an Argentine professional footballer who plays as a forward for Spanish club Barcelona and the Argentina national team. He is considered one of the greatest football players of all time. Messi was born on June 24, 1987, in Rosario, Argentina. He began playing football at a young age and joined the Newell's Old Boys youth team when he was six years old. He quickly rose through the ranks and made his professional debut for the team in 2003. In 2004, Messi was diagnosed with a growth hormone deficiency, which was treated with hormone replacement therapy. This treatment allowed him to grow taller and continue to develop his skills on the field. Messi's talent and success on the field have earned him numerous awards and accolades. He has won the FIFA Ballon d'Or, given to the world's best player, a record six times. He has also won the UEFA Champions League, La Liga, and the Copa America, among other titles. Messi is known for his incredible speed, dribbling ability, and scoring skills. He has set numerous records throughout his career, including the most goals scored in La Liga history. Despite his success on the field, Messi has also faced criticism and controversy. In 2019, he was convicted of tax fraud and was given a suspended sentence. He has also been criticized for his perceived lack of leadership skills and his tendency to disappear during big games. Despite these challenges, Messi remains one of the most influential and successful football players of all time. He continues to play for Barcelona and the Argentina national team, and his fans around the world continue to watch in awe as he dominates the field.",
+            "qae_pairs": [
+                {
+                    "question": "What was the year in which Lionel Messi was diagnosed with a growth hormone deficiency?",
+                    "answer": "2004",
+                    "explanation": "According to the passage, Lionel Messi was diagnosed with a growth hormone deficiency in the year 2004."
+                },
+                {
+                    "question": "What was the year in which Lionel Messi made his professional debut for Newell's Old Boys?",
+                    "answer": "2003",
+                    "explanation": "According to the passage, Lionel Messi made his professional debut for Newell's Old Boys in 2003."
+                },
+                {
+                    "question": "Which country does Lionel Messi represent in international football competitions?",
+                    "answer": "Argentina",
+                    "explanation": "Lionel Messi represents Argentina in international football competitions."
+                },
+                {
+                    "question": "What is the name of the award that Lionel Messi has won a record six times, according to the passage?",
+                    "answer": "FIFA Ballon",
+                    "explanation": "The name of the award that Lionel Messi has won a record six times, according to the passage is FIFA Ballon d'Or."
+                },
+                {
+                    "question": "What is the name of the city where Lionel Messi was born?",
+                    "answer": "Rosario",
+                    "explanation": "The name of the city where Lionel Messi was born is Rosario."
+                },
+                {
+                    "question": "What is the name of the Spanish club that Lionel Messi plays for?",
+                    "answer": "Barcelona",
+                    "explanation": "Barcelona."
+                },
+                {
+                    "question": "What is the name of the youth team that Messi joined when he was six years old?",
+                    "answer": "Newell",
+                    "explanation": "The name of the youth team that Messi joined when he was six years old is Newell."
+                },
+                {
+                    "question": "What was Lionel Messi's age when he joined the Newell's Old Boys youth team?",
+                    "answer": "six years old",
+                    "explanation": "According to the passage, Lionel Messi joined the Newell's Old Boys youth team when he was six years old."
+                },
+                {
+                    "question": "What is the date of Lionel Messi's birth as mentioned in the passage?",
+                    "answer": "June 24, 1987",
+                    "explanation": "The date of Lionel Messi's birth is mentioned in the passage as June 24, 1987."
+                },
+                {
+                    "question": "What tournament has Lionel Messi won the most in his career?",
+                    "answer": "the UEFA Champions League",
+                    "explanation": "The UEFA Champions League is the tournament that Lionel Messi has won the most in his career. He has won the tournament a total of four times, with Barcelona in 2009, 2011, 2015, and 2019. This is the most number of titles that he has won in any tournament throughout his career. Messi has also won the La Liga, the Copa America, and the FIFA Ballon d'Or, among other titles, but he has won the UEFA Champions League the most number of times."
+                }
+            ],
+            "hops": [
+                "Lionel Messi"
+            ]
+        },
+        "Michael Phelps": {
+            "term": "Michael Phelps",
+            "passage": "Michael Phelps is a retired American swimmer who is widely regarded as one of the greatest swimmers in history. He won a total of 28 Olympic medals, including 23 gold, six silver, and one bronze, spanning over four Olympic Games. In addition to his Olympic success, Phelps also holds numerous world records and is the most decorated athlete in World Aquatics Championships history, with a total of 29 medals. Phelps was born in Baltimore, Maryland, on June 30, 1985, and began swimming at an early age. He quickly showed promise in the sport, and by the age of 10, he was already swimming competitively. Phelps's natural talent and dedication to the sport earned him a spot on the US national team by the time he was 15. Phelps's first Olympics were the 2000 Sydney Olympics, where he won a gold medal as part of the 4x200-meter freestyle relay team. He followed that up with a silver medal in the 200-meter butterfly and a bronze medal in the 200-meter freestyle at the 2001 World Aquatics Championships. Phelps continued to rack up medals in the following years, including a gold medal in the 200-meter butterfly at the 2003 World Aquatics Championships and a gold medal in the 400-meter individual medley at the 2004 Athens Olympics.",
+            "qae_pairs": [
+                {
+                    "question": "What is the birthplace of Michael Phelps?",
+                    "answer": "Maryland",
+                    "explanation": "Michael Phelps, the retired American swimmer, was born in Baltimore, Maryland on June 30, 1985."
+                },
+                {
+                    "question": "What is the date of Michael Phelps' birth according to the passage?",
+                    "answer": "June 30, 1985",
+                    "explanation": "According to the passage, Michael Phelps was born on June 30, 1985."
+                },
+                {
+                    "question": "What is the age at which Michael Phelps began swimming competitively?",
+                    "answer": "the age of 10",
+                    "explanation": "According to the passage, Michael Phelps began swimming competitively at the age of 10."
+                }
+            ],
+            "hops": [
+                "Michael Phelps"
+            ]
+        },
+        "Simone Biles": {
+            "term": "Simone Biles",
+            "passage": "Simone Biles is an American artistic gymnast who has competed internationally for the United States since 2013. She is the most decorated American gymnast, with a total of 30 Olympic and World Championship medals, including 19 golds. Biles is also the first woman to win six all-around titles at the US Classic, US Nationals, and the Olympic Games. Biles was born on March 14, 1997, in Columbus, Ohio, to Shanon Biles and Kelvin Biles. She began training in gymnastics at the age of three at Bannon's Gymnastix in Houston, Texas, and was coached by Aimee Boorman. In 2010, Biles moved to the Houston suburb of Spring, Texas, to train at the World Champions Centre, where she has been coached by Boorman and former Romanian gymnast and coach, Mihai Brestyan. Biles made her international debut at the 2013 World Artistic Gymnastics Championships in Antwerp, where she won the gold medal in the team competition and the bronze medal in the all-around. She then won the all-around gold medal at the 2014 World Artistic Gymnastics Championships in Nanning, becoming the first woman to win three consecutive all-around titles at the World Championships. At the 2015 World Artistic Gymnastics Championships in Glasgow, Biles won the all-around gold medal for the fourth consecutive time, becoming the first woman to do so since the Soviet Union's Larisa Latynina in 1954 and 1955.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the parents of Simone Biles?",
+                    "answer": "Shanon Biles",
+                    "explanation": "The name of the parents of Simone Biles is Shanon Biles."
+                },
+                {
+                    "question": "What city did Simone Biles win her fourth consecutive all-around title at the World Artistic Gymnastics Championships in?",
+                    "answer": "Glasgow",
+                    "explanation": "Simone Biles won her fourth consecutive all-around title at the World Artistic Gymnastics Championships in Glasgow."
+                },
+                {
+                    "question": "What is the name of the facility where Simone Biles has been training since 2010?",
+                    "answer": "the World Champions Centre",
+                    "explanation": "The facility where Simone Biles has been training since 2010 is the World Champions Centre."
+                },
+                {
+                    "question": "What is the age at which Simone Biles began training in gymnastics?",
+                    "answer": "the age of three",
+                    "explanation": "Simone Biles began training in gymnastics at the age of three."
+                },
+                {
+                    "question": "What is the birthplace of Simone Biles?",
+                    "answer": "Columbus",
+                    "explanation": "Simone Biles was born on March 14, 1997, in Columbus, Ohio."
+                },
+                {
+                    "question": "What is the name of the town where Simone Biles currently trains?",
+                    "answer": "Spring",
+                    "explanation": "Simone Biles currently trains in Spring, Texas."
+                },
+                {
+                    "question": "What is the name of the coach who has been coaching Simone Biles since 2010?",
+                    "answer": "Mihai Brestyan",
+                    "explanation": "Mihai Brestyan is the coach who has been coaching Simone Biles since 2010."
+                },
+                {
+                    "question": "What is the year Simone Biles moved to the Houston suburb of Spring, Texas, to train at the World Champions Centre?",
+                    "answer": "2010",
+                    "explanation": "Simone Biles moved to the Houston suburb of Spring, Texas, to train at the World Champions Centre in 2010."
+                },
+                {
+                    "question": "What is the date of Simone Biles' birth according to the passage?",
+                    "answer": "March 14, 1997",
+                    "explanation": "According to the passage, Simone Biles was born on March 14, 1997."
+                },
+                {
+                    "question": "What is the location where Simone Biles won her first international medal?",
+                    "answer": "Antwerp",
+                    "explanation": "Simone Biles won her first international medal at the 2013 World Artistic Gymnastics Championships in Antwerp."
+                },
+                {
+                    "question": "What year did Simone Biles make her international debut at the World Artistic Gymnastics Championships?",
+                    "answer": "2013",
+                    "explanation": "Simone Biles made her international debut at the World Artistic Gymnastics Championships in 2013."
+                },
+                {
+                    "question": "What is the name of the city where Simone Biles began training in gymnastics at the age of three?",
+                    "answer": "Houston",
+                    "explanation": "Simone Biles began training in gymnastics at the age of three in Houston, Texas."
+                },
+                {
+                    "question": "What is the name of the coach who has coached Simone Biles since she was three years old?",
+                    "answer": "Aimee Boorman",
+                    "explanation": "Aimee Boorman is the coach who has been coaching Simone Biles since she was three years old."
+                }
+            ],
+            "hops": [
+                "Simone Biles"
+            ]
+        },
+        "Tom Brady": {
+            "term": "Tom Brady",
+            "passage": "Tom Brady is an American football quarterback who has played for the New England Patriots of the National Football League (NFL) since 2000. He is one of the most successful quarterbacks in NFL history, having won six Super Bowl championships, four Super Bowl MVP awards, and three league MVP awards. Brady was born on August 3, 1977, in San Mateo, California, and raised in a middle-class family. He played football, basketball, and baseball in high school, and was not highly recruited by college programs. He attended the University of Michigan, where he played football as a backup quarterback. After graduating from Michigan in 1999, Brady was drafted by the Patriots in the sixth round of the 2000 NFL Draft. He became the team's starting quarterback in 2001, and led the team to their first Super Bowl victory in 2002. Brady has since led the Patriots to six Super Bowl appearances, winning four times. Brady is known for his accuracy, pocket presence, and ability to read defenses. He has set numerous NFL records, including most passing yards in a single season and most touchdown passes in a single game. He has also been named to the Pro Bowl 14 times, and has been named All-Pro nine times. Brady has been married to model Gisele Bündchen since 2009, and the couple has two children together. Brady is also known for his commitment to fitness and healthy living, and has authored several books on the subject. Despite his success on the field, Brady has also faced controversy throughout his career.",
+            "qae_pairs": [
+                {
+                    "question": "What was the year in which Tom Brady won his first Super Bowl championship as a starting quarterback?",
+                    "answer": "2002",
+                    "explanation": "Tom Brady won his first Super Bowl championship as a starting quarterback in the year 2002."
+                },
+                {
+                    "question": "What is the league in which Tom Brady has played for the majority of his career?",
+                    "answer": "NFL",
+                    "explanation": "Tom Brady has played for the National Football League (NFL) for the majority of his career."
+                },
+                {
+                    "question": "What is the name of the university where Tom Brady played football as a backup quarterback?",
+                    "answer": "the University of Michigan",
+                    "explanation": "Tom Brady played football as a backup quarterback at the University of Michigan."
+                },
+                {
+                    "question": "What is the name of the model that Tom Brady is married to?",
+                    "answer": "Gisele Bündchen",
+                    "explanation": "The name of the model that Tom Brady is married to is Gisele Bündchen."
+                },
+                {
+                    "question": "What is the league in which Tom Brady has played since 2000?",
+                    "answer": "the National Football League",
+                    "explanation": "Tom Brady has played for the National Football League (NFL) since 2000."
+                },
+                {
+                    "question": "What is the award that Tom Brady has won four times according to the passage?",
+                    "answer": "Super Bowl MVP",
+                    "explanation": "According to the passage, Tom Brady has won four Super Bowl MVP awards."
+                },
+                {
+                    "question": "What is the birthplace of Tom Brady?",
+                    "answer": "California",
+                    "explanation": "Tom Brady was born on August 3, 1977, in San Mateo, California."
+                },
+                {
+                    "question": "What is the date of Tom Brady's birth according to the passage?",
+                    "answer": "August 3, 1977",
+                    "explanation": "According to the passage, Tom Brady was born on August 3, 1977, in San Mateo, California."
+                },
+                {
+                    "question": "What was the year that Tom Brady became the starting quarterback for the New England Patriots?",
+                    "answer": "2001",
+                    "explanation": "Tom Brady became the starting quarterback for the New England Patriots in the year 2001."
+                },
+                {
+                    "question": "What was the year in which Tom Brady was drafted by the New England Patriots?",
+                    "answer": "2000",
+                    "explanation": "Tom Brady was drafted by the New England Patriots in the sixth round of the 2000 NFL Draft."
+                },
+                {
+                    "question": "What is the name of the team for which Tom Brady has played as a quarterback since 2000?",
+                    "answer": "the New England Patriots",
+                    "explanation": "Tom Brady has played for the New England Patriots of the National Football League (NFL) since 2000."
+                }
+            ],
+            "hops": [
+                "Tom Brady"
+            ]
+        },
+        "Rafael Nadal": {
+            "term": "Rafael Nadal",
+            "passage": "Rafael Nadal Parera is a Spanish professional tennis player who is currently ranked world No. 1 in men's singles tennis by the Association of Tennis Professionals (ATP). He is widely regarded as one of the greatest players of all time, and is known for his physical and mental tenacity, his aggressive playing style, and his success on all surfaces. Nadal has won 18 Grand Slam singles titles, the second-most in history after Roger Federer, and has held the world No. 1 ranking a record 335 weeks. He has also won 35 ATP Tour singles titles and 10 ATP Tour doubles titles, and has won a record 12 French Open titles. Nadal was born in Manacor, Mallorca, and began playing tennis at a young age. He quickly developed a reputation as a talented player, and turned professional in 2001. He has since become one of the most successful players in tennis history, with numerous records and accolades to his name. Nadal's playing style is characterized by his powerful forehand, his quick reflexes, and his ability to move well on the court. He is also known for his mental toughness, and his ability to stay focused and determined even in the face of adversity. Nadal has been involved in several controversies throughout his career, including accusations of doping and criticism for his behavior on the court. However, he has always maintained his innocence, and has been praised for his sportsmanship and his dedication to the sport of tennis. Despite his many achievements, Nadal has also faced numerous injuries throughout his career, including knee and wrist problems.",
+            "qae_pairs": [
+                {
+                    "question": "What organization is responsible for ranking men's singles tennis players?",
+                    "answer": "the Association of Tennis Professionals",
+                    "explanation": "The organization responsible for ranking men's singles tennis players is the Association of Tennis Professionals (ATP)."
+                },
+                {
+                    "question": "What is the hometown of Rafael Nadal?",
+                    "answer": "Manacor",
+                    "explanation": "Rafael Nadal was born in Manacor, Mallorca."
+                },
+                {
+                    "question": "What is the island where Rafael Nadal was born, as mentioned in the passage?",
+                    "answer": "Mallorca",
+                    "explanation": "The island where Rafael Nadal was born is mentioned in the passage as Mallorca."
+                },
+                {
+                    "question": "What is the year that Rafael Nadal turned professional?",
+                    "answer": "2001",
+                    "explanation": "Rafael Nadal turned professional in 2001."
+                }
+            ],
+            "hops": [
+                "Rafael Nadal"
+            ]
+        },
+        "Megan Rapinoe": {
+            "term": "Megan Rapinoe",
+            "passage": "Megan Rapinoe is an American professional soccer player who currently plays as a forward for and captains both Lyon in the French Division 1 Féminine and the United States women's national team. She is known for her strong and aggressive playing style, as well as her outspokenness on social and political issues. Rapinoe was born on July 5, 1985, in Redding, California, and began playing soccer at a young age. She played for the United States under-19 team in 2004 and made her senior national team debut in 2006. She has since become a key player for the team, scoring 48 goals in 158 appearances. Rapinoe has won numerous awards during her career, including the Golden Boot and Golden Ball at the 2019 FIFA Women's World Cup, where she scored the opening goal in the final and was named the tournament's best player. She has also won two Olympic gold medals, in 2012 and 2016, and two FIFA World Cup titles, in 2015 and 2019. In addition to her success on the field, Rapinoe has been an outspoken advocate for social and political issues. She has been vocal about equal pay for women's soccer, LGBTQ+ rights, and racial injustice. In 2019, she sparked controversy by saying she would not visit the White House if the United States won the World Cup, citing her disagreement with President Donald Trump's policies.",
+            "qae_pairs": [
+                {
+                    "question": "What year did Megan Rapinoe win her first FIFA World Cup title?",
+                    "answer": "2015",
+                    "explanation": "Megan Rapinoe won her first FIFA World Cup title in 2015."
+                },
+                {
+                    "question": "What is the date of Megan Rapinoe's birth according to the passage?",
+                    "answer": "July 5, 1985",
+                    "explanation": "According to the passage, Megan Rapinoe was born on July 5, 1985."
+                },
+                {
+                    "question": "What year did Megan Rapinoe win her first Olympic gold medal?",
+                    "answer": "2012",
+                    "explanation": "Megan Rapinoe won her first Olympic gold medal in 2012."
+                },
+                {
+                    "question": "What team does Megan Rapinoe currently play for and captain in the French Division 1 Féminine?",
+                    "answer": "Lyon",
+                    "explanation": "Megan Rapinoe currently plays for and captains both Lyon in the French Division 1 Féminine and the United States women's national team."
+                },
+                {
+                    "question": "What team does Megan Rapinoe currently play for and captain?",
+                    "answer": "the United States",
+                    "explanation": "Megan Rapinoe currently plays for and captains both Lyon in the French Division 1 Féminine and the United States women's national team."
+                },
+                {
+                    "question": "What is the name of the international soccer tournament that Megan Rapinoe won the Golden Boot and Golden Ball at in 2019?",
+                    "answer": "FIFA Women's World Cup",
+                    "explanation": "The name of the international soccer tournament that Megan Rapinoe won the Golden Boot and Golden Ball at in 2019 is the FIFA Women's World Cup."
+                },
+                {
+                    "question": "What award did Megan Rapinoe win at the 2019 FIFA Women's World Cup?",
+                    "answer": "the Golden Boot",
+                    "explanation": "Megan Rapinoe won the Golden Boot and Golden Ball at the 2019 FIFA Women's World Cup."
+                },
+                {
+                    "question": "What is the birthplace of Megan Rapinoe, the American professional soccer player who currently plays as a forward for and captains both Lyon in the French Division 1 Féminine and the United States women's national team?",
+                    "answer": "California",
+                    "explanation": "Megan Rapinoe, the American professional soccer player who currently plays as a forward for and captains both Lyon in the French Division 1 Féminine and the United States women's national team, was born on July 5, 1985, in Redding, California."
+                },
+                {
+                    "question": "What year did Megan Rapinoe make her senior national team debut?",
+                    "answer": "2006",
+                    "explanation": "Megan Rapinoe made her senior national team debut in 2006."
+                },
+                {
+                    "question": "What is the year in which Megan Rapinoe won the Golden Boot and Golden Ball at the FIFA Women's World Cup?",
+                    "answer": "2019",
+                    "explanation": "Megan Rapinoe won the Golden Boot and Golden Ball at the FIFA Women's World Cup in 2019."
+                },
+                {
+                    "question": "What is the birthplace of Megan Rapinoe?",
+                    "answer": "Redding",
+                    "explanation": "Megan Rapinoe was born on July 5, 1985, in Redding, California."
+                }
+            ],
+            "hops": [
+                "Megan Rapinoe"
+            ]
+        }
+    },
+    "second_hops": {
+        "the Women's Tennis Association": {
+            "term": "the Women's Tennis Association",
+            "passage": "Women's Tennis Association (WTA) is the governing body for women's professional tennis. The WTA was founded in 1973 by Billie Jean King, who wanted to create a tour for female tennis players that was equal to the men's tour. The WTA Tour includes the four Grand Slam tournaments, the WTA Finals, and other tournaments around the world. The WTA also runs the WTA Qualifying Tournament, which is played annually in September. The WTA is headquartered in St. Petersburg, Florida, and is owned by a group of investors led by the private equity firm KSL Capital Partners. The WTA has a board of directors that includes representatives from the player council, tournament owners, sponsors, and other stakeholders. The WTA has a ranking system that is used to determine the top players in the world. The ranking system takes into account a player's performance in WTA-sanctioned tournaments over the preceding 52 weeks. The WTA also has a set of rules and regulations that govern the tour, including rules related to player conduct, drug testing, and equipment. The WTA has been instrumental in promoting women's tennis and advancing the cause of gender equality in sports. The tour has been at the forefront of efforts to increase prize money and media exposure for female athletes, and has also worked to improve the quality of playing surfaces and other aspects of the game.",
+            "qae_pairs": [
+                {
+                    "question": "What is the month when the Women's Tennis Association holds its annual tournament?  Answer: September.",
+                    "answer": "September",
+                    "explanation": "The Women's Tennis Association (WTA) holds its annual tournament in September."
+                },
+                {
+                    "question": "What is the location of the Women's Tennis Association headquarters?",
+                    "answer": "Florida",
+                    "explanation": "The Women's Tennis Association (WTA) is headquartered in St. Petersburg, Florida."
+                },
+                {
+                    "question": "What is the name of the annual women's tennis tournament organized by the Women's Tennis Association?     What is the name of the prestigious women's tennis tournament that is held annually and is organized by the Women's Tennis Association?",
+                    "answer": "the WTA Finals",
+                    "explanation": "The annual women's tennis tournament organized by the Women's Tennis Association is called the WTA Finals."
+                },
+                {
+                    "question": "What was the total number of weeks in which the Women's Tennis Association held a tournament in the preceding 52 weeks?",
+                    "answer": "the preceding 52 weeks",
+                    "explanation": "The instruction describes the Women's Tennis Association (WTA) and its various activities, including the WTA Tour, the WTA Qualifying Tournament, the ranking system, rules and regulations, and efforts to promote women's tennis and advance gender equality. However, the instruction does not provide information on the total number of weeks in which the WTA held a tournament in the preceding 52 weeks."
+                },
+                {
+                    "question": "What is the private equity firm that owns the Women's Tennis Association?",
+                    "answer": "KSL Capital Partners",
+                    "explanation": "The private equity firm that owns the Women's Tennis Association (WTA) is KSL Capital Partners."
+                },
+                {
+                    "question": "What is the name of the tournament played annually in September by the Women's Tennis Association?",
+                    "answer": "the WTA Qualifying Tournament",
+                    "explanation": "The Women's Tennis Association (WTA) Qualifying Tournament is played annually in September."
+                },
+                {
+                    "question": "What year was the Women's Tennis Association (WTA) founded?",
+                    "answer": "1973",
+                    "explanation": "The Women's Tennis Association (WTA) was founded in 1973."
+                }
+            ],
+            "hops": [
+                "Serena Williams",
+                "the Women's Tennis Association"
+            ]
+        },
+        "the Laureus World Sports Award for Sportswoman": {
+            "term": "the Laureus World Sports Award for Sportswoman",
+            "passage": "Laureus World Sports Award for Sportswoman The Laureus World Sports Award for Sportswoman is an annual award that recognizes the achievements of female athletes from around the world. The award was first presented in 2001 and is considered one of the most prestigious honors in sports. The nominees for the award are selected by a panel of experts, including former winners of the award, sports journalists, and sports executives. The winner is chosen by a global vote of the public, which can be done online or by text message. The award is named after the Laureus brand, which was founded by former Olympic champion Edwin Moses and British businessman Richard Branson. The Laureus brand is dedicated to promoting the use of sports as a means of promoting social change and improving the lives of young people around the world. The Laureus World Sports Award for Sportswoman is presented at a special ceremony held in Monaco each year. The ceremony is attended by many of the world's top athletes, as well as celebrities and sports executives from around the world. The award has been won by many of the world's top female athletes, including Serena Williams, Usain Bolt, and Simone Biles. The award has also been won by athletes from a variety of sports, including tennis, track and field, gymnastics, and swimming. In addition to the Laureus World Sports Award for Sportswoman, the Laureus World Sports Award is also presented to male athletes, teams, and action sports athletes.",
+            "qae_pairs": [
+                {
+                    "question": "What year was the Laureus World Sports Award for Sportswoman first presented?",
+                    "answer": "2001",
+                    "explanation": "The Laureus World Sports Award for Sportswoman was first presented in 2001."
+                },
+                {
+                    "question": "What is the location of the Laureus World Sports Award for Sportswoman?  Answer: Monaco.",
+                    "answer": "Monaco",
+                    "explanation": "The Laureus World Sports Award for Sportswoman is presented at a special ceremony held in Monaco each year."
+                },
+                {
+                    "question": "What is the name of the person who received the Laureus World Sports Award for Sportswoman in 2019?  Answer:  Richard Branson.",
+                    "answer": "Richard Branson",
+                    "explanation": "The Laureus World Sports Award for Sportswoman is not named after Richard Branson. The award is named after the Laureus brand, which was founded by former Olympic champion Edwin Moses and British businessman Richard Branson. The Laureus World Sports Award for Sportswoman is an annual award that recognizes the achievements of female athletes from around the world. The award was first presented in 2001 and is considered one of the most prestigious honors in sports."
+                }
+            ],
+            "hops": [
+                "Serena Williams",
+                "the Laureus World Sports Award for Sportswoman"
+            ]
+        },
+        "Richard Williams": {
+            "term": "Richard Williams",
+            "passage": "Richard Williams was a British animator and filmmaker who is best known for his work on the animated television series \"Robotech\" and the animated feature film \"The Pebble and the Penguin.\" Williams was born in London, England in 1953 and began his career in animation in the 1970s. He worked on several animated television series and films throughout his career, including \"The Transformers,\" \"The Smurfs,\" and \"The Greatest American Hero.\" Williams was also a director and producer, and his work has won numerous awards, including an Emmy Award for Outstanding Animated Program in 1987 for \"The Pebble and the Penguin.\" Williams passed away in 2019 at the age of 66.",
+            "qae_pairs": [
+                {
+                    "question": "What year did Richard Williams win an Emmy Award for Outstanding Animated Program?",
+                    "answer": "1987",
+                    "explanation": "Richard Williams won an Emmy Award for Outstanding Animated Program in 1987."
+                },
+                {
+                    "question": "What year was Richard Williams born, according to the passage?",
+                    "answer": "1953",
+                    "explanation": "According to the passage, Richard Williams was born in London, England in 1953."
+                },
+                {
+                    "question": "What year did Richard Williams pass away, according to the passage?",
+                    "answer": "2019",
+                    "explanation": "According to the passage, Richard Williams passed away in 2019."
+                },
+                {
+                    "question": "What city was Richard Williams born in and where did he begin his career in animation?",
+                    "answer": "London",
+                    "explanation": "Richard Williams was born in London, England in 1953 and began his career in animation in the 1970s."
+                },
+                {
+                    "question": "What was the age of Richard Williams when he passed away?",
+                    "answer": "the age of 66",
+                    "explanation": "Richard Williams passed away at the age of 66."
+                },
+                {
+                    "question": "What decade did Richard Williams begin his career in animation?",
+                    "answer": "the 1970s",
+                    "explanation": "According to the passage, Richard Williams began his career in animation in the 1970s."
+                }
+            ],
+            "hops": [
+                "Serena Williams",
+                "Richard Williams"
+            ]
+        },
+        "Portugal": {
+            "term": "Portugal",
+            "passage": "Portugal is a country located in southwestern Europe. It has a population of over 10 million people and a land area of 92,090 square kilometers. Portugal is bordered by the Atlantic Ocean to the west and south, and shares land borders with Spain to the north and east. The country's capital and largest city is Lisbon, and its official language is Portuguese. Portugal is a member of the European Union, the United Nations, and the Community of Portuguese Language Countries. The country's economy is based largely on services, and it is known for its high quality wines, including port wine, which is named after the city of Porto. Portugal has a rich history and culture, with notable figures such as Vasco da Gama, Fernando Pessoa, and José Saramago.",
+            "qae_pairs": [
+                {
+                    "question": "What international organization is Portugal a member of, according to the passage?",
+                    "answer": "the United Nations",
+                    "explanation": "According to the passage, Portugal is a member of the United Nations."
+                },
+                {
+                    "question": "What is the name of the city in Portugal where port wine is named after?",
+                    "answer": "Porto",
+                    "explanation": "Porto."
+                },
+                {
+                    "question": "What is the country that shares a land border with Portugal to the north and east, and is located north of Portugal?",
+                    "answer": "Spain",
+                    "explanation": "Spain is the country that shares a land border with Portugal to the north and east, and is located north of Portugal."
+                },
+                {
+                    "question": "What organization is Portugal a member of, which is known for its high quality wines, including port wine, and named after the city of Porto?",
+                    "answer": "the Community of Portuguese Language Countries",
+                    "explanation": "Portugal is a member of the Community of Portuguese Language Countries, which is known for its high quality wines, including port wine, and is named after the city of Porto."
+                },
+                {
+                    "question": "What was the name of the notable figure from Portugal who is known for his voyages and discoveries in the Indian Ocean?",
+                    "answer": "Vasco da Gama",
+                    "explanation": "Vasco da Gama was a notable figure from Portugal who is known for his voyages and discoveries in the Indian Ocean."
+                },
+                {
+                    "question": "What body of water borders Portugal to the west and south, and what is the answer to the question?",
+                    "answer": "the Atlantic Ocean",
+                    "explanation": "The body of water that borders Portugal to the west and south is the Atlantic Ocean."
+                },
+                {
+                    "question": "What is the name of the author who wrote 'Blindness' and won the Nobel Prize in Literature in 1998, and who was born in Portugal? Answer: José Saramago.",
+                    "answer": "José Saramago",
+                    "explanation": "The author who wrote 'Blindness' and won the Nobel Prize in Literature in 1998, and who was born in Portugal is José Saramago."
+                }
+            ],
+            "hops": [
+                "Cristiano Ronaldo",
+                "Portugal"
+            ]
+        },
+        "Santos Aveiro": {
+            "term": "Santos Aveiro",
+            "passage": "Santos Aveiro ------- Santos Aveiro (born 1962) is a Portuguese economist and academic who has served as the President of the European Central Bank (ECB) since 2020. He previously served as the Governor of the Bank of Portugal from 2010 to 2020. Aveiro was born in Lisbon and studied economics at the University of Lisbon, where he earned a doctorate in economics. He began his academic career at the University of Aveiro, where he taught economics and served as the Director of the Centre for Economic and Social Studies. Aveiro's academic work has focused on monetary economics and the role of central banks in stabilizing the economy. He has also written extensively on the impact of globalization on the Portuguese economy. In addition to his academic work, Aveiro has held several positions in the public sector. He served as the Secretary of State for the Economy and Finance in the Portuguese government from 1995 to 1999, and later as the Minister of Economy and Employment from 1999 to 2002. Since taking office as President of the ECB, Aveiro has focused on addressing the economic challenges facing the European Union, including the COVID-19 pandemic and the ongoing refugee crisis. He has also emphasized the importance of promoting sustainable economic growth and reducing income inequality.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the institution where Santos Aveiro served as the Governor from 2010 to 2020?",
+                    "answer": "the Bank of Portugal",
+                    "explanation": "The name of the institution where Santos Aveiro served as the Governor from 2010 to 2020 is the Bank of Portugal."
+                },
+                {
+                    "question": "What year did Santos Aveiro become the Governor of the Bank of Portugal?",
+                    "answer": "2010",
+                    "explanation": "Santos Aveiro became the Governor of the Bank of Portugal in 2010."
+                },
+                {
+                    "question": "What year did Santos Aveiro serve as the Minister of Economy and Employment?",
+                    "answer": "1999",
+                    "explanation": "Santos Aveiro served as the Minister of Economy and Employment from 1999 to 2002."
+                },
+                {
+                    "question": "What is the name of the University where Santos Aveiro earned a doctorate in economics?",
+                    "answer": "the University of Lisbon",
+                    "explanation": "The University of Lisbon is where Santos Aveiro earned a doctorate in economics."
+                },
+                {
+                    "question": "What year was Santos Aveiro born in, according to the passage?",
+                    "answer": "1962",
+                    "explanation": "Santos Aveiro was born in 1962, according to the passage."
+                },
+                {
+                    "question": "What year did Santos Aveiro become the President of the European Central Bank?",
+                    "answer": "2020",
+                    "explanation": "Santos Aveiro became the President of the European Central Bank in 2020."
+                },
+                {
+                    "question": "What is the name of the University where Santos Aveiro taught economics and served as the Director of the Centre for Economic and Social Studies?",
+                    "answer": "the University of Aveiro",
+                    "explanation": "The University of Aveiro."
+                },
+                {
+                    "question": "What year did Santos Aveiro serve as the Secretary of State for the Economy and Finance in the Portuguese government?",
+                    "answer": "1995 to",
+                    "explanation": "Santos Aveiro served as the Secretary of State for the Economy and Finance in the Portuguese government from 1995 to 1999."
+                }
+            ],
+            "hops": [
+                "Cristiano Ronaldo",
+                "Santos Aveiro"
+            ]
+        },
+        "Alex Ferguson": {
+            "term": "Alex Ferguson",
+            "passage": "Sir Alexander Chapman Ferguson (born 31 December 1941) is a Scottish former football player and manager who managed Manchester United from 1986 to 2013. He is considered one of the greatest managers in the history of the sport, having won 38 trophies during his time at Manchester United, including 13 Premier League titles, five FA Cups, and two UEFA Champions League titles. Ferguson was knighted in 1999 for his services to the game. He is also a recipient of the UEFA President's Award and the World Soccer Manager of the Year award.",
+            "qae_pairs": [
+                {
+                    "question": "What was the year when Alex Ferguson won the UEFA Champions League with Manchester United?     Answer: 1999.",
+                    "answer": "1999",
+                    "explanation": "Alex Ferguson won the UEFA Champions League with Manchester United in the year 1999."
+                },
+                {
+                    "question": "What is the name of the team that Alex Ferguson managed to win multiple championships with? Answer: Manchester United.",
+                    "answer": "Manchester United",
+                    "explanation": "Alex Ferguson is a Scottish former football player and manager who is widely regarded as one of the greatest managers in the history of the sport. He managed Manchester United from 1986 to 2013 and during his tenure, he won 38 trophies, including 13 Premier League titles, five FA Cups, and two UEFA Champions League titles. Ferguson was knighted in 1999 for his services to the game and is also a recipient of the UEFA President's Award and the World Soccer Manager of the Year award."
+                },
+                {
+                    "question": "What title did Alex Ferguson win during his time as Manchester United manager?",
+                    "answer": "Premier League",
+                    "explanation": "Alex Ferguson won 13 Premier League titles during his time as Manchester United manager."
+                },
+                {
+                    "question": "What is the birthdate of Alex Ferguson?      is the answer.",
+                    "answer": "31 December 1941",
+                    "explanation": "The birthdate of Alex Ferguson is 31 December 1941."
+                }
+            ],
+            "hops": [
+                "Cristiano Ronaldo",
+                "Alex Ferguson"
+            ]
+        },
+        "Manchester United": {
+            "term": "Manchester United",
+            "passage": "Manchester United Football Club is a professional football club based in Old Trafford, Greater Manchester, England, that competes in the Premier League, the top flight of English football. Nicknamed the \"Red Devils\", the club was founded as Newton Heath LYR Football Club in 1878, changed its name to Manchester United in 1902, and moved to its current stadium in 1910. Manchester United has a long-standing rivalry with Liverpool F.C., and the two clubs are known as the \"Big Two\" of English football. Manchester United has a large following worldwide, with fans known as \"Red Devils\". The club has won a record 20 league titles, 12 FA Cups, 5 League Cups, and 1 UEFA Champions League title. The club's most successful period was from the mid-1990s to the early 2000s, when they won the Premier League title in 1993, 1994, 1996, 1997, 1999, 2000, 2001, and 2003, as well as the UEFA Champions League in 1999 and 2008. Manchester United is one of the wealthiest and most successful clubs in the world, with an estimated revenue of £627.1 million in the 2019–20 season. The club's kit is manufactured by Adidas, and its shirt sponsor is Chevrolet. The club's manager is José Mourinho, who took over in May 2016.",
+            "qae_pairs": [
+                {
+                    "question": "What is the current manager of Manchester United Football Club, according to the passage?",
+                    "answer": "José Mourinho",
+                    "explanation": "According to the passage, the current manager of Manchester United Football Club is José Mourinho."
+                },
+                {
+                    "question": "What is the name of the stadium where Manchester United Football Club plays its home matches?",
+                    "answer": "Old Trafford",
+                    "explanation": "The name of the stadium where Manchester United Football Club plays its home matches is Old Trafford."
+                },
+                {
+                    "question": "What is the name of the sponsor of Manchester United's home stadium?  Answer: Chevrolet.",
+                    "answer": "Chevrolet",
+                    "explanation": "The name of the sponsor of Manchester United's home stadium is Chevrolet."
+                },
+                {
+                    "question": "What was the original name of Manchester United Football Club before it was renamed in 1902?",
+                    "answer": "Newton Heath LYR Football Club",
+                    "explanation": "The original name of Manchester United Football Club before it was renamed in 1902 was Newton Heath LYR Football Club."
+                },
+                {
+                    "question": "What was the time period during which Manchester United experienced its most success, according to the passage?",
+                    "answer": "the mid-1990s",
+                    "explanation": "The passage states that Manchester United's most successful period was from the mid-1990s to the early 2000s. Specifically, the club won the Premier League title in 1993, 1994, 1996, 1997, 1999, 2000, 2001, and 2003, as well as the UEFA Champions League in 1999 and 2008 during this time period."
+                },
+                {
+                    "question": "What year was Manchester United Football Club founded as Newton Heath LYR Football Club?",
+                    "answer": "1878",
+                    "explanation": "Manchester United Football Club was founded as Newton Heath LYR Football Club in 1878."
+                },
+                {
+                    "question": "What is the name of the top flight of English football in which Manchester United competes?",
+                    "answer": "the Premier League",
+                    "explanation": "The name of the top flight of English football in which Manchester United competes is the Premier League."
+                },
+                {
+                    "question": "What year did Manchester United change its name from Newton Heath LYR Football Club to Manchester United?",
+                    "answer": "1902",
+                    "explanation": "Manchester United Football Club changed its name from Newton Heath LYR Football Club in 1902."
+                },
+                {
+                    "question": "What is the location of Manchester United Football Club according to the passage?",
+                    "answer": "Greater Manchester",
+                    "explanation": "According to the passage, Manchester United Football Club is based in Old Trafford, which is located in Greater Manchester."
+                },
+                {
+                    "question": "What was the month when Manchester United's manager José Mourinho took over the team?",
+                    "answer": "May 2016",
+                    "explanation": "According to the passage, José Mourinho took over as Manchester United's manager in May 2016."
+                },
+                {
+                    "question": "What years did Manchester United win the Premier League title?",
+                    "answer": "1993, 1994, 1996",
+                    "explanation": "Manchester United won the Premier League title in 1993, 1994, and 1996."
+                },
+                {
+                    "question": "What year did Manchester United move to its current stadium?",
+                    "answer": "1910",
+                    "explanation": "Manchester United moved to its current stadium in 1910."
+                },
+                {
+                    "question": "What was the time period during which Manchester United won the most number of Premier League titles?",
+                    "answer": "the early 2000s",
+                    "explanation": "The most successful period for Manchester United was from the mid-1990s to the early 2000s, when they won the Premier League title in 1993, 1994, 1996, 1997, 1999, 2000, 2001, and 2003."
+                },
+                {
+                    "question": "What is the name of the company that manufactures Manchester United's kit according to the passage?",
+                    "answer": "Adidas",
+                    "explanation": "According to the passage, Manchester United's kit is manufactured by Adidas."
+                },
+                {
+                    "question": "What year did Manchester United win the UEFA Champions League title?",
+                    "answer": "2008",
+                    "explanation": "Manchester United won the UEFA Champions League title in 2008."
+                },
+                {
+                    "question": "What year did Manchester United win the Premier League title for the 20th time, according to the passage?",
+                    "answer": "2003",
+                    "explanation": "According to the passage, Manchester United won the Premier League title for the 20th time in 2003."
+                },
+                {
+                    "question": "What is the nickname of the Manchester United Football Club?",
+                    "answer": "the \"Red Devils",
+                    "explanation": "The nickname of the Manchester United Football Club is the \"Red Devils\"."
+                },
+                {
+                    "question": "What is the name of the football club that is Manchester United's biggest rival and the answer to the question?",
+                    "answer": "Liverpool F.C",
+                    "explanation": "The answer to the question is Liverpool F.C. Manchester United has a long-standing rivalry with Liverpool F.C., and the two clubs are known as the \"Big Two\" of English football."
+                }
+            ],
+            "hops": [
+                "Cristiano Ronaldo",
+                "Manchester United"
+            ]
+        },
+        "Andorinha": {
+            "term": "Andorinha",
+            "passage": "Andorinha is a municipality in the state of São Paulo, Brazil. It is part of the Baixada Santista metropolitan area. The population is 22,558 inhabitants, and the area is 107 km². The city is located 60 km southeast of São Paulo, and is known for its beaches, such as Praia do Itaipu, and its seafood restaurants. Andorinha is also home to the Estação Ecológica Municipal de Andorinha, a nature reserve that protects the coastal dunes and the mangrove swamps. The city has a strong economy, with industries such as textiles, food processing, and tourism.",
+            "qae_pairs": [
+                {
+                    "question": "What is the answer to the question that contains the term 'Andorinha' and asks for the name of the beach located in the municipality of Andorinha?",
+                    "answer": "Praia",
+                    "explanation": "The name of the beach located in the municipality of Andorinha is Praia do Itaipu."
+                },
+                {
+                    "question": "What is the name of the beach located in Andorinha that is known for its seafood restaurants, and where is it located?",
+                    "answer": "Itaipu",
+                    "explanation": "The name of the beach located in Andorinha that is known for its seafood restaurants is Praia do Itaipu. It is located in Andorinha, which is a municipality in the state of São Paulo, Brazil."
+                },
+                {
+                    "question": "What is the location of Andorinha?",
+                    "answer": "Brazil",
+                    "explanation": "Andorinha is a municipality in the state of São Paulo, Brazil."
+                }
+            ],
+            "hops": [
+                "Cristiano Ronaldo",
+                "Andorinha"
+            ]
+        },
+        "Sporting": {
+            "term": "Sporting",
+            "passage": "Sporting Clube de Portugal, commonly known as Sporting CP or simply Sporting, is a professional football club based in Lisbon, Portugal. The club was founded on 1 July 1906 as the result of a fusion between two existing clubs, the Casa Pia and the Campo de Ourique. Sporting is one of the most successful clubs in Portuguese football history, having won 18 league titles, 6 Portuguese Cups, 3 Portuguese Super Cups, 1 UEFA Cup Winners' Cup, 1 UEFA Super Cup, 1 Intercontinental Cup and 1 Latin Cup. The club has a long-standing rivalry with nearby club Benfica, known as the \"Derby de Lisboa\".",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the rivalry between Sporting and nearby club Benfica, according to the passage?",
+                    "answer": "the \"Derby de Lisboa",
+                    "explanation": ""
+                },
+                {
+                    "question": "What is the name of the intercontinental trophy that Sporting CP has won, according to the passage?",
+                    "answer": "Intercontinental Cup",
+                    "explanation": "According to the passage, Sporting CP has won the Intercontinental Cup."
+                },
+                {
+                    "question": "What is the name of the city where Sporting Clube de Portugal, commonly known as Sporting CP or simply Sporting, was founded?",
+                    "answer": "Lisbon",
+                    "explanation": "The name of the city where Sporting Clube de Portugal, commonly known as Sporting CP or simply Sporting, was founded is Lisbon."
+                },
+                {
+                    "question": "What date was Sporting Clube de Portugal founded, according to the passage?",
+                    "answer": "1 July 1906",
+                    "explanation": "According to the passage, Sporting Clube de Portugal was founded on 1 July 1906."
+                }
+            ],
+            "hops": [
+                "Cristiano Ronaldo",
+                "Sporting"
+            ]
+        },
+        "Mamie": {
+            "term": "Mamie",
+            "passage": "Mamie is a given name that originated in the United States. It is a shortened form of the names Mary or Margaret. The name has been popular in the United States since the late 19th century. Mamie Eisenhower, the wife of former President Dwight D. Eisenhower, was a notable bearer of the name. Other notable people who have borne the name include Mamie Gummer, an American actress, and Mamie Van Doren, an American actress and singer. Overall, Mamie is a classic and timeless name that has been popular throughout the years.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the country where the given name Mamie originated and has been popular since the late 19th century?",
+                    "answer": "the United States",
+                    "explanation": "The name Mamie originated in the United States and has been popular in the country since the late 19th century."
+                },
+                {
+                    "question": "What is the name of the person who popularized the name Mamie in the United States?",
+                    "answer": "the years",
+                    "explanation": "The name of the person who popularized the name Mamie in the United States is not provided in the given passage."
+                }
+            ],
+            "hops": [
+                "LeBron James",
+                "Mamie"
+            ]
+        },
+        "Ohio": {
+            "term": "Ohio",
+            "passage": "1. Ohio is a state in the Great Lakes region of the United States. 2. It is the 34th largest by area and the 7th most populous state in the country. 3. The state's capital and largest city is Columbus. 4. Ohio is bordered by Lake Erie to the north, Pennsylvania to the east, West Virginia to the southeast, Kentucky to the southwest, Indiana to the west, and Michigan to the northwest. 5. Ohio is home to several major sports teams, including the Cincinnati Bengals, Cleveland Browns, and the Ohio State Buckeyes. 6. The state is known for its manufacturing and agricultural industries, as well as its contributions to the music industry, including the birthplace of rock and roll. 7. Ohio is also home to several national parks, including the Cuyahoga Valley National Park and the Dayton Aviation Heritage National Historical Park. 8. The state has a diverse economy and is a leader in industries such as aviation, education, and healthcare. 9. Ohio is a swing state in presidential elections and has played a pivotal role in shaping American politics. 10. The state's economy has experienced significant growth in recent years, with a low unemployment rate and a thriving technology sector.",
+            "qae_pairs": [
+                {
+                    "question": "What is the capital city of Ohio that is also the largest city in the state?",
+                    "answer": "Columbus",
+                    "explanation": "The capital city of Ohio that is also the largest city in the state is Columbus."
+                },
+                {
+                    "question": "What state is located to the west of Ohio, and what is the answer to that question?",
+                    "answer": "Indiana",
+                    "explanation": "The state that is located to the west of Ohio is Indiana."
+                },
+                {
+                    "question": "What has been the recent economic growth rate in Ohio, according to the passage?",
+                    "answer": "recent years",
+                    "explanation": "According to the passage, Ohio has experienced significant economic growth in recent years. The passage does not provide a specific economic growth rate, but it does mention that the state's economy has experienced growth and a low unemployment rate."
+                },
+                {
+                    "question": "What is the name of the national park in Ohio that is dedicated to the history of aviation?",
+                    "answer": "the Dayton Aviation Heritage National Historical Park",
+                    "explanation": "The Dayton Aviation Heritage National Historical Park is a national park in Ohio that is dedicated to the history of aviation."
+                },
+                {
+                    "question": "What state is located to the east of Ohio and is the answer to the question?",
+                    "answer": "Pennsylvania",
+                    "explanation": "The state that is located to the east of Ohio and is the answer to the question is Pennsylvania."
+                },
+                {
+                    "question": "What body of water borders Ohio to the north?",
+                    "answer": "Lake Erie",
+                    "explanation": "Lake Erie borders Ohio to the north."
+                }
+            ],
+            "hops": [
+                "LeBron James",
+                "Ohio"
+            ]
+        },
+        "Gloria James": {
+            "term": "Gloria James",
+            "passage": "Gloria James Gloria James (born May 18, 1969) is an American retired professional basketball player who played in the Women's National Basketball Association (WNBA). She played for the Phoenix Mercury in 1997 and the Detroit Shock from 1998 to 2002. James was a four-time WNBA All-Star and won two WNBA championships with the Shock in 2002 and 2003. She is the mother of NBA superstar LeBron James.",
+            "qae_pairs": [
+                {
+                    "question": "What year did Gloria James play for the Phoenix Mercury in the Women's National Basketball Association (WNBA)?",
+                    "answer": "1997",
+                    "explanation": "Gloria James played for the Phoenix Mercury in the Women's National Basketball Association (WNBA) in the year 1997."
+                },
+                {
+                    "question": "What team did Gloria James play for in the WNBA?",
+                    "answer": "the Detroit Shock",
+                    "explanation": "Gloria James played for the Detroit Shock in the Women's National Basketball Association (WNBA) from 1998 to 2002."
+                },
+                {
+                    "question": "What is the date of birth of Gloria James?",
+                    "answer": "May 18, 1969",
+                    "explanation": "Gloria James was born on May 18, 1969."
+                },
+                {
+                    "question": "What year did Gloria James win her second WNBA championship?",
+                    "answer": "2003",
+                    "explanation": "Gloria James won her second WNBA championship in 2003."
+                },
+                {
+                    "question": "What year did Gloria James play for the Detroit Shock?",
+                    "answer": "1998",
+                    "explanation": "Gloria James played for the Detroit Shock from 1998 to 2002."
+                },
+                {
+                    "question": "What league did Gloria James play in during her professional career, and what is the name of her son who is also a basketball player?",
+                    "answer": "National Basketball Association",
+                    "explanation": "Gloria James played in the Women's National Basketball Association (WNBA) during her professional career. Her son who is also a basketball player is LeBron James."
+                }
+            ],
+            "hops": [
+                "LeBron James",
+                "Gloria James"
+            ]
+        },
+        "the Los Angeles Lakers": {
+            "term": "the Los Angeles Lakers",
+            "passage": "Los Angeles Lakers The Los Angeles Lakers are a professional basketball team based in Los Angeles, California. The Lakers compete in the National Basketball Association (NBA), as a member of the league's Western Conference in the Pacific Division. The team was founded in 1947, and is one of the most successful franchises in the NBA, having won 17 NBA championships, including five in a row from 2000 to 2002. The Lakers play their home games at the Staples Center, which they share with their local rivals, the Los Angeles Clippers. The team has a long-standing rivalry with the Boston Celtics, with the two teams having met in a record 12 NBA Finals. The Lakers have had many great players throughout their history, including Magic Johnson, Kareem Abdul-Jabbar, Shaquille O'Neal, Kobe Bryant, and LeBron James. The team has also been associated with several famous coaches, including Pat Riley, Phil Jackson, and Frank Hamblen. In addition to their success on the court, the Lakers have also been involved in various philanthropic activities, including donating to the Lakers Youth Foundation, which provides support to underprivileged children in the Los Angeles area.",
+            "qae_pairs": [
+                {
+                    "question": "What player did the Los Angeles Lakers trade to the Miami Heat in 2004, and what was the reason for the trade?",
+                    "answer": "Shaquille O'Neal",
+                    "explanation": "The Los Angeles Lakers traded Shaquille O'Neal to the Miami Heat in 2004. The reason for the trade was that Shaquille O'Neal had requested a trade, as he had become unhappy with his role on the team and wanted to play for a team that he believed had a better chance of winning a championship. The Lakers decided to trade Shaq to the Heat in a deal that also involved Lamar Odom and Brian Grant going to Miami, and Caron Butler, Lamar Odom, and Brian Grant going to Los Angeles."
+                },
+                {
+                    "question": "What city is the home court for the Los Angeles Lakers in the passage?",
+                    "answer": "California",
+                    "explanation": "The home court for the Los Angeles Lakers is in Los Angeles, California."
+                },
+                {
+                    "question": "What division do the Los Angeles Lakers compete in?",
+                    "answer": "the Pacific Division",
+                    "explanation": "The Los Angeles Lakers compete in the National Basketball Association (NBA) and are a member of the league's Western Conference. They are part of the Pacific Division."
+                },
+                {
+                    "question": "What basketball player did the Los Angeles Lakers have on their team that won 17 NBA championships, including five in a row from 2000 to 2002, and is considered one of the most successful franchises in the NBA?",
+                    "answer": "Kareem Abdul-Jabbar",
+                    "explanation": "Kareem Abdul-Jabbar is the basketball player who won 17 NBA championships, including five in a row from 2000 to 2002, and is considered one of the most successful franchises in the NBA. He played for the Los Angeles Lakers from 1975 to 1989 and is the NBA's all-time leading scorer."
+                },
+                {
+                    "question": "What team is the Los Angeles Lakers' local rival, and what is the answer to the question?",
+                    "answer": "the Los Angeles Clippers",
+                    "explanation": "The Los Angeles Lakers' local rival is the Los Angeles Clippers."
+                },
+                {
+                    "question": "What year was the Los Angeles Lakers founded?",
+                    "answer": "1947",
+                    "explanation": "The Los Angeles Lakers were founded in 1947."
+                },
+                {
+                    "question": "What team did the Los Angeles Lakers face in a record 12 NBA Finals, and what is the answer to this question?",
+                    "answer": "the Boston Celtics",
+                    "explanation": "The Los Angeles Lakers have a long-standing rivalry with the Boston Celtics, with the two teams having met in a record 12 NBA Finals."
+                },
+                {
+                    "question": "What coach led the Los Angeles Lakers to five consecutive NBA championships from 2000 to 2002?",
+                    "answer": "Phil Jackson",
+                    "explanation": "Phil Jackson led the Los Angeles Lakers to five consecutive NBA championships from 2000 to 2002."
+                }
+            ],
+            "hops": [
+                "LeBron James",
+                "the Los Angeles Lakers"
+            ]
+        },
+        "the Cleveland Cavaliers": {
+            "term": "the Cleveland Cavaliers",
+            "passage": "Cleveland Cavaliers The Cleveland Cavaliers, also known as the Cavs, are an American professional basketball team based in Cleveland, Ohio. The Cavaliers compete in the National Basketball Association (NBA) as a member of the league's Eastern Conference Central Division. Founded in 1970, the team has won six Central Division championships, four Eastern Conference championships, and one NBA championship in 2016. The Cavaliers were founded in 1970 as an expansion team. They began play in the 1970–71 season in the NBA's Eastern Conference. The team struggled in their early years, but in 1975, they drafted Austin Carr, who became the team's all-time leading scorer. In 1986, the team moved to their current home arena, Quicken Loans Arena. In 2003, the team was sold to businessman Dan Gilbert, who has owned the team since. Under Gilbert's ownership, the team has made significant improvements, including renovating Quicken Loans Arena and hiring head coach Mike Brown in 2011. The Cavaliers have had several notable players throughout their history, including LeBron James, who played for the team from 2003 to 2010 and again from 2014 to 2018, and Kyrie Irving, who played for the team from 2011 to 2017. In 2016, the Cavaliers won their first NBA championship, defeating the Golden State Warriors in the NBA Finals. LeBron James was named the NBA Finals MVP, and the team's victory parade was attended by over 1 million people.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the owner of the Cleveland Cavaliers who has been the team's owner since 2003 and has made significant improvements to the team, including renovating Quicken Loans Arena and hiring head coach Mike Brown in 2011?",
+                    "answer": "Dan Gilbert",
+                    "explanation": "The owner of the Cleveland Cavaliers who has been the team's owner since 2003 and has made significant improvements to the team, including renovating Quicken Loans Arena and hiring head coach Mike Brown in 2011 is Dan Gilbert."
+                },
+                {
+                    "question": "What division do the Cleveland Cavaliers compete in within the National Basketball Association?",
+                    "answer": "Eastern Conference Central Division",
+                    "explanation": "The Cleveland Cavaliers compete in the National Basketball Association's Eastern Conference Central Division."
+                },
+                {
+                    "question": "What league does the Cleveland Cavaliers basketball team compete in?",
+                    "answer": "the National Basketball Association",
+                    "explanation": "The Cleveland Cavaliers basketball team competes in the National Basketball Association (NBA)."
+                },
+                {
+                    "question": "What is the name of the arena where the Cleveland Cavaliers play their home games?",
+                    "answer": "Quicken Loans Arena",
+                    "explanation": "The Cleveland Cavaliers play their home games at Quicken Loans Arena."
+                },
+                {
+                    "question": "What is the nickname of the Cleveland Cavaliers?",
+                    "answer": "Cavs",
+                    "explanation": "The nickname of the Cleveland Cavaliers is Cavs."
+                },
+                {
+                    "question": "What team did the Cleveland Cavaliers play in their early years?      Answer: Their early years.      As a result of their success in the NBA finals, the Cleveland Cavaliers have become one of the most beloved teams in the league. However",
+                    "answer": "their early years",
+                    "explanation": "Their early years."
+                },
+                {
+                    "question": "What is the name of the coach who led the Cleveland Cavaliers to a 121-107 victory over the Toronto Raptors in the 2016 NBA Playoffs? Answer:  Mike Brown.",
+                    "answer": "Mike Brown",
+                    "explanation": "Mike Brown coached the Cleveland Cavaliers to a 121-107 victory over the Toronto Raptors in the 2016 NBA Playoffs."
+                },
+                {
+                    "question": "What year did the Cleveland Cavaliers draft Austin Carr, who became the team's all-time leading scorer?",
+                    "answer": "1975",
+                    "explanation": "The Cleveland Cavaliers drafted Austin Carr in 1975, who became the team's all-time leading scorer."
+                },
+                {
+                    "question": "What year did the Cleveland Cavaliers win their first NBA championship?",
+                    "answer": "2016",
+                    "explanation": "The Cleveland Cavaliers won their first NBA championship in 2016."
+                },
+                {
+                    "question": "What state is the Cleveland Cavaliers basketball team based in?",
+                    "answer": "Ohio",
+                    "explanation": "The Cleveland Cavaliers basketball team is based in the state of Ohio."
+                }
+            ],
+            "hops": [
+                "LeBron James",
+                "the Cleveland Cavaliers"
+            ]
+        },
+        "Argentina": {
+            "term": "Argentina",
+            "passage": "Language: English Para español, vea aquí: https://pastebin.com/raw/PnWG2QTv Argentina is a country located in South America. It is the second-largest country in South America, after Brazil, and the eighth-largest country in the world. Argentina is a federal presidential representative democratic republic. The country has a population of over 44 million people, with the majority living in urban areas. The capital city of Argentina is Buenos Aires, which is also the most populous city in the country. Argentina has a diverse landscape, with the Andes mountain range running through the western part of the country, and the Mesopotamia plains in the northeastern part of the country. The country also has a number of rivers, including the Paraná and Uruguay rivers, which flow into the Rio de la Plata estuary. Argentina has a rich cultural heritage, with a mix of European and indigenous influences. The country is known for its tango music and dance, which originated in Buenos Aires in the late 19th century. Argentina is also famous for its beef, wine, and football (soccer) teams. The country has a strong economy, with a GDP of over $700 billion. Argentina is a member of the G20 major economies, and its currency, the Argentine peso, is used in international trade. The country has a high standard of living, with a strong focus on education and healthcare. Despite its many strengths, Argentina has faced a number of challenges over the years. The country has experienced high inflation rates, political instability, and economic crises.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the mountain range that runs through the western part of Argentina?",
+                    "answer": "Andes",
+                    "explanation": "The name of the mountain range that runs through the western part of Argentina is Andes."
+                },
+                {
+                    "question": "What is the capital city of Argentina, where the majority of the country's population lives?",
+                    "answer": "Buenos Aires",
+                    "explanation": "Buenos Aires is the capital city of Argentina, where the majority of the country's population lives."
+                },
+                {
+                    "question": "What is the largest country in South America after Argentina?",
+                    "answer": "Brazil",
+                    "explanation": "Brazil is the largest country in South America after Argentina."
+                },
+                {
+                    "question": "What is the name of the region located in the northeastern part of Argentina, according to the passage?",
+                    "answer": "Mesopotamia",
+                    "explanation": "According to the passage, the region located in the northeastern part of Argentina is called Mesopotamia."
+                },
+                {
+                    "question": "What continent is Argentina located in, according to the passage?",
+                    "answer": "South America",
+                    "explanation": "According to the passage, Argentina is located in South America."
+                },
+                {
+                    "question": "What is the purpose of the G20 summit in Argentina?",
+                    "answer": "G20",
+                    "explanation": "The purpose of the G20 summit in Argentina is to bring together the leaders of the world's largest economies to discuss global economic issues and make decisions that can impact the global economy. The G20 summit is made up of 19 countries and the European Union, which are responsible for 80% of the world's economic output. The summit is held annually, and this year's event will take place in Buenos Aires, Argentina, from November 30 to December 1, 2018."
+                }
+            ],
+            "hops": [
+                "Lionel Messi",
+                "Argentina"
+            ]
+        },
+        "FIFA Ballon": {
+            "term": "FIFA Ballon",
+            "passage": "Dans cet article, nous allons vous parler du Ballon d'or FIFA, qui est un prix annuel décerné par la Fédération internationale de football association (FIFA) aux meilleurs joueurs de football au monde. Le prix a été créé en 1956 et est considéré comme l'un des plus prestigieux prix en football. Le gagnant du Ballon d'or FIFA est choisi par un vote organisé parmi les entraîneurs et les joueurs de football professionnels, ainsi que par les journalistes spécialisés dans le football. Le prix est généralement remis lors de la cérémonie annuelle de la FIFA Ballon d'or, qui a lieu chaque janvier. Depuis 2010, le prix est sponsorisé par le groupe de médias Qatar Sports Investments. Le Ballon d'or FIFA a été remporté par de nombreux joueurs de football de renom au fil des ans, tels que Lionel Messi, Cristiano Ronaldo, Johan Cruyff, Michel Platini et Diego Maradona. Le recordman de victoires est le joueur brésilien Pelé, qui l'a remporté trois fois. Le prix est souvent considéré comme un indicateur clé de la performance d'un joueur de football dans une saison donnée, et est souvent utilisé comme un critère de mesure pour évaluer la carrière d'un joueur. En plus du Ballon d'or FIFA, la FIFA organise également d'autres prix, tels que le Prix du meilleur joueur de la Coupe du monde de la FIFA et le Prix du meilleur entraîneur de la Coupe du monde de la FIFA. Ces prix sont également décernés chaque année et sont considérés comme étant parmi les plus prestigieux prix en football.",
+            "qae_pairs": [
+                {
+                    "question": "What year was the FIFA Ballon prize created according to the passage?",
+                    "answer": "1956",
+                    "explanation": "According to the passage, the FIFA Ballon prize was created in 1956."
+                },
+                {
+                    "question": "What is the name of the group that sponsors the FIFA Ballon d'or prize?",
+                    "answer": "Qatar Sports Investments",
+                    "explanation": "Qatar Sports Investments."
+                },
+                {
+                    "question": "What is the name of the organization that presents the FIFA Ballon d'Or?  Answer: la Fédération.",
+                    "answer": "la Fédération",
+                    "explanation": "The organization that presents the FIFA Ballon d'Or is la Fédération internationale de football association (FIFA)."
+                },
+                {
+                    "question": "What is the name of the group that will be awarded at the FIFA Ballon d'Or ceremony?  Answer: The name of the group that will be awarded at the FIFA Ballon d'Or ceremony is 'groupe de'.",
+                    "answer": "groupe de",
+                    "explanation": "The name of the group that will be awarded at the FIFA Ballon d'Or ceremony is 'groupe de'."
+                },
+                {
+                    "question": "What is the name of the trophy awarded to the winner of the FIFA Ballon d'Or?  Answer: Le Ballon.",
+                    "answer": "Le Ballon",
+                    "explanation": "The name of the trophy awarded to the winner of the FIFA Ballon d'Or is Le Ballon."
+                }
+            ],
+            "hops": [
+                "Lionel Messi",
+                "FIFA Ballon"
+            ]
+        },
+        "Rosario": {
+            "term": "Rosario",
+            "passage": "Rosario is a city located in the province of Santa Fe, Argentina. It is the second-largest city in the province, with a population of 117,407 as per the 2010 census. The city is named after the Rosary, as the city was founded by Spanish settlers who were devoted to the Virgin Mary. Rosario is located 300 km (186 mi) north of Buenos Aires, and is a major port on the Paraná River. The city is also home to the Rosario Central football club, one of the most successful clubs in Argentine football history. Rosario is known for its vibrant cultural scene, with numerous museums, theaters, and festivals throughout the year.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the river that flows through Rosario?",
+                    "answer": "the Paraná River",
+                    "explanation": "The name of the river that flows through Rosario is the Paraná River."
+                },
+                {
+                    "question": "What is the name of the city that Rosario is located in?",
+                    "answer": "Santa Fe",
+                    "explanation": "The name of the city that Rosario is located in is Santa Fe."
+                }
+            ],
+            "hops": [
+                "Lionel Messi",
+                "Rosario"
+            ]
+        },
+        "Barcelona": {
+            "term": "Barcelona",
+            "passage": "Barcelona is a city in the northeastern part of Spain, capital of the autonomous community of Catalonia, and the second-largest city in Spain, with a population of 1.6 million people within its administrative limits. Barcelona is situated on the Mediterranean coast between the mouths of the rivers Llobregat and Besòs, and is famous for its rich history, culture, and architecture, including the works of Antoni Gaudí and Luis Domènech i Montaner, which have been designated UNESCO World Heritage Sites. Barcelona is one of the world's leading tourist destinations, attracting millions of visitors every year with its museums, festivals, musical events, and sporting activities, including FC Barcelona, one of the most successful and popular football clubs in the world. The city is also known for its cuisine, which includes traditional Catalan dishes as well as international fare, and its vibrant nightlife, with countless bars, clubs, and live music venues. In addition to its cultural and recreational offerings, Barcelona is a major economic center, with a diverse range of industries, including tourism, finance, education, healthcare, and technology. The city is home to several universities and research institutions, and is a hub for innovation and entrepreneurship, with a thriving startup scene and numerous incubators and accelerators.",
+            "qae_pairs": [
+                {
+                    "question": "What river flows into Barcelona and meets the Mediterranean Sea?",
+                    "answer": "Llobregat",
+                    "explanation": "The river that flows into Barcelona and meets the Mediterranean Sea is the Llobregat."
+                },
+                {
+                    "question": "What is the purpose of the Barcelona healthcare system?",
+                    "answer": "healthcare",
+                    "explanation": "The purpose of the Barcelona healthcare system is to provide quality medical care to the residents of Barcelona and the surrounding areas. The city has a number of hospitals and healthcare facilities that offer a range of services, including primary care, specialty care, and emergency services. The healthcare system is designed to meet the needs of the community, with a focus on preventive care and early intervention to promote health and wellness. In addition to providing medical services, the healthcare system also plays an important role in research and education, with many hospitals and clinics affiliated with universities and research institutions."
+                },
+                {
+                    "question": "What is the name of the region where Barcelona is located?     Answer: Catalonia.",
+                    "answer": "Catalonia",
+                    "explanation": "The name of the region where Barcelona is located is Catalonia."
+                },
+                {
+                    "question": "What body of water is directly to the east of Barcelona according to the passage?",
+                    "answer": "Mediterranean",
+                    "explanation": "According to the passage, Barcelona is situated on the Mediterranean coast between the mouths of the rivers Llobregat and Besòs. Therefore, the body of water directly to the east of Barcelona is the Mediterranean."
+                },
+                {
+                    "question": "What is the name of the famous architect who designed some of Barcelona's most iconic buildings, including the Sagrada Familia and Park Güell, and is considered one of the most important figures in Catalan architecture?",
+                    "answer": "Antoni Gaudí",
+                    "explanation": "Antoni Gaudí is the name of the famous architect who designed some of Barcelona's most iconic buildings, including the Sagrada Familia and Park Güell, and is considered one of the most important figures in Catalan architecture."
+                }
+            ],
+            "hops": [
+                "Lionel Messi",
+                "Barcelona"
+            ]
+        },
+        "Newell": {
+            "term": "Newell",
+            "passage": "Newell -------- Newell is a city in Marion County, West Virginia, United States. The population was 2,191 at the 2010 census. It is part of the Fairmont, West Virginia Metropolitan Statistical Area. Newell was incorporated in 1906. The city is named for John Newell, a railroad executive. Newell is located at 39°34′54″N 80°17′41″W (39.58167, -80.2948). According to the United States Census Bureau, the city has a total area of 0.45 square miles (1.17 km²), all land. As of the census of 2010, there were 2,191 people, 950 households, and 571 families residing in the city. The population density was 4,850.0 inhabitants per square mile (1,870.0/km²). There were 1,148 housing units at an average density of 2,464.0 per square mile (948.1/km²). The racial makeup of the city was 97.8% White, 0.4% African American, 0.2% Native American, 0.2% Asian, 0.1% from other races, and 1.4% from two or more races. Hispanic or Latino of any race were 0.5% of the population.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the metropolitan statistical area that Newell is part of?",
+                    "answer": "West Virginia Metropolitan Statistical Area",
+                    "explanation": "The name of the metropolitan statistical area that Newell is part of is the Fairmont, West Virginia Metropolitan Statistical Area."
+                },
+                {
+                    "question": "What year was Newell incorporated according to the passage?",
+                    "answer": "1906",
+                    "explanation": "According to the passage, Newell was incorporated in 1906."
+                }
+            ],
+            "hops": [
+                "Lionel Messi",
+                "Newell"
+            ]
+        },
+        "the UEFA Champions League": {
+            "term": "the UEFA Champions League",
+            "passage": "Language model: GPT-2 The UEFA Champions League is an annual continental club football competition organized by UEFA since 1992. It was preceded by the European Cup, which was first held in 1955. The competition involves the top teams from Europe's top domestic leagues, and is considered to be the most prestigious club competition in the world. The winner of the Champions League gains qualification to the FIFA Club World Cup, and gets to keep the UEFA Champions League Trophy permanently. The tournament starts in July with a qualifying round, and ends in May of the following year with the final, which is played at a different venue each year. The most successful team in the Champions League is Real Madrid, who have won the trophy 13 times.",
+            "qae_pairs": [
+                {
+                    "question": "What month does the UEFA Champions League tournament start in, as described in the passage?",
+                    "answer": "July",
+                    "explanation": "The UEFA Champions League tournament starts in July, as described in the passage."
+                },
+                {
+                    "question": "What team has won the UEFA Champions League the most times?",
+                    "answer": "Real Madrid",
+                    "explanation": "The team that has won the UEFA Champions League the most times is Real Madrid. They have won the trophy 13 times."
+                },
+                {
+                    "question": "What is the tournament that the UEFA Champions League winner gains qualification to?",
+                    "answer": "the FIFA Club World Cup",
+                    "explanation": "The UEFA Champions League winner gains qualification to the FIFA Club World Cup."
+                },
+                {
+                    "question": "What is the UEFA Champions League?",
+                    "answer": "annual",
+                    "explanation": "The UEFA Champions League is an annual continental club football competition organized by UEFA since 1992."
+                },
+                {
+                    "question": "What year did the UEFA Champions League begin, according to the passage?",
+                    "answer": "1992",
+                    "explanation": "According to the passage, the UEFA Champions League began in 1992."
+                }
+            ],
+            "hops": [
+                "Lionel Messi",
+                "the UEFA Champions League"
+            ]
+        },
+        "Maryland": {
+            "term": "Maryland",
+            "passage": "1. Maryland is a state in the Northeastern and Mid-Atlantic regions of the United States. 2. The state's capital is Annapolis, and its largest city is Baltimore. 3. Maryland takes its name from the English queen Henrietta Maria, who was the wife of King Charles I. 4. The state is situated in the Mid-Atlantic region of the U.S., and is bordered by the Atlantic Ocean to the east, and the states of Delaware, Pennsylvania, West Virginia, Virginia, and the District of Columbia to the south and west. 5. Maryland is the 9th smallest state by area, but the 19th most populous state in the United States. 6. Maryland has a diverse economy that is heavily reliant on the service sector, particularly in the fields of education, health care, and retail. 7. The state is also home to several major military installations, including the United States Naval Academy and the United States Army's Fort Meade. 8. Maryland has a humid subtropical climate, with hot summers and cool winters. 9. The state's agricultural products include poultry, dairy products, and crops such as corn, wheat, and soybeans. 10. Maryland is also known for its seafood, particularly its blue crabs, which are a popular item on restaurant menus throughout the state.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the educational institution located in Maryland that is associated with the United States Navy?",
+                    "answer": "the United States Naval Academy",
+                    "explanation": "The educational institution located in Maryland that is associated with the United States Navy is the United States Naval Academy."
+                },
+                {
+                    "question": "What state is located to the west of Maryland and borders it to the south and west, with a capital city named Charleston?",
+                    "answer": "West Virginia",
+                    "explanation": "The state that is located to the west of Maryland and borders it to the south and west, with a capital city named Charleston, is West Virginia."
+                },
+                {
+                    "question": "What is the region where Maryland is located?",
+                    "answer": "Northeastern",
+                    "explanation": "Maryland is a state located in the Northeastern and Mid-Atlantic regions of the United States."
+                },
+                {
+                    "question": "What region of the United States is Maryland located in, as described in the passage?",
+                    "answer": "Mid-Atlantic",
+                    "explanation": "Maryland is a state located in the Northeastern and Mid-Atlantic regions of the United States, as described in the passage."
+                },
+                {
+                    "question": "What is the capital of Maryland?",
+                    "answer": "Annapolis",
+                    "explanation": "The capital of Maryland is Annapolis."
+                },
+                {
+                    "question": "What is the capital of Maryland and what is the largest city in the state?",
+                    "answer": "Baltimore",
+                    "explanation": "The capital of Maryland is Annapolis, and the largest city in the state is Baltimore."
+                },
+                {
+                    "question": "What is the name of the English queen who is the namesake of the state of Maryland?",
+                    "answer": "Henrietta Maria",
+                    "explanation": "The name of the English queen who is the namesake of the state of Maryland is Henrietta Maria."
+                },
+                {
+                    "question": "What is the state that borders Maryland to the south and west, and has a capital city named after William Penn?",
+                    "answer": "Pennsylvania",
+                    "explanation": "The state that borders Maryland to the south and west, and has a capital city named after William Penn is Pennsylvania."
+                }
+            ],
+            "hops": [
+                "Michael Phelps",
+                "Maryland"
+            ]
+        },
+        "Shanon Biles": {
+            "term": "Shanon Biles",
+            "passage": "Shanon Biles is an American artistic gymnast who was a member of the gold medal-winning US women's gymnastics team at the 2019 World Artistic Gymnastics Championships in Stuttgart, Germany. She also won the all-around silver medal at the 2019 US Classic, and finished fifth all-around at the 2019 US National Championships. Biles is known for her powerful and elegant performances, as well as her charismatic personality and engaging social media presence. She is considered one of the greatest gymnasts of all time, and has won a total of 30 Olympic and World Championship medals throughout her career.",
+            "qae_pairs": [
+                {
+                    "question": "What country did Shanon Biles compete for at the 2019 World Artistic Gymnastics Championships?",
+                    "answer": "Germany",
+                    "explanation": "Shanon Biles competed for the United States at the 2019 World Artistic Gymnastics Championships in Stuttgart, Germany."
+                },
+                {
+                    "question": "What city did Shanon Biles compete in at the 2019 World Artistic Gymnastics Championships?",
+                    "answer": "Stuttgart",
+                    "explanation": "Shanon Biles competed in the 2019 World Artistic Gymnastics Championships in Stuttgart, Germany."
+                }
+            ],
+            "hops": [
+                "Simone Biles",
+                "Shanon Biles"
+            ]
+        },
+        "Columbus": {
+            "term": "Columbus",
+            "passage": "# Columbus was an Italian explorer, navigator, and colonizer who completed four voyages across the Atlantic Ocean, led by the Catholic Monarchs of Spain. He is remembered as the person who led the European discovery of the Americas, although his legacy is controversial due to his treatment of the indigenous Taíno people of the Caribbean islands. Columbus was born in the Italian city of Genoa in 1451. He began his seafaring career at a young age, and in 1485, he convinced the Catholic Monarchs of Spain to fund his voyage to Asia via the Atlantic Ocean. After reaching the Caribbean islands, he continued to explore the coasts of South and Central America, claiming them for Spain. Columbus made three more voyages to the Americas, sponsored by the Catholic Monarchs, and during his second voyage, he founded the settlement of La Isabela on the island of Hispaniola. However, his treatment of the indigenous Taíno people was brutal, and he ordered his men to enslave them and extract gold and other resources from their land. Columbus' legacy is a subject of debate, with some viewing him as a hero and others as a villain. Many countries celebrate Columbus Day on the second Monday of October to commemorate his voyages and achievements, while others have replaced the holiday with Indigenous Peoples' Day to recognize the mistreatment of indigenous peoples by European colonizers.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the region in the Americas that Columbus explored and claimed for Spain?",
+                    "answer": "Central America",
+                    "explanation": "The region in the Americas that Columbus explored and claimed for Spain is Central America."
+                },
+                {
+                    "question": "What is the name of the indigenous people who were mistreated by Columbus and his men?",
+                    "answer": "Taíno",
+                    "explanation": "The indigenous people who were mistreated by Columbus and his men were the Taíno."
+                },
+                {
+                    "question": "What country did Columbus sail for during his voyages across the Atlantic Ocean?",
+                    "answer": "Spain",
+                    "explanation": "Columbus sailed for Spain during his voyages across the Atlantic Ocean."
+                },
+                {
+                    "question": "What year did Columbus convince the Catholic Monarchs of Spain to fund his voyage to Asia via the Atlantic Ocean?",
+                    "answer": "1485",
+                    "explanation": "According to the passage, Columbus convinced the Catholic Monarchs of Spain to fund his voyage to Asia via the Atlantic Ocean in 1485."
+                },
+                {
+                    "question": "What city was Columbus born in?",
+                    "answer": "Genoa",
+                    "explanation": "Columbus was born in the Italian city of Genoa in 1451."
+                },
+                {
+                    "question": "What was the year of Columbus' birth?",
+                    "answer": "1451",
+                    "explanation": "Columbus was born in the Italian city of Genoa in 1451."
+                },
+                {
+                    "question": "What was the name of the settlement that Columbus founded on the island of Hispaniola during his second voyage?",
+                    "answer": "La Isabela",
+                    "explanation": "La Isabela was the name of the settlement that Columbus founded on the island of Hispaniola during his second voyage."
+                },
+                {
+                    "question": "What is the name of the island where Columbus founded a settlement during his second voyage?",
+                    "answer": "Hispaniola",
+                    "explanation": "The name of the island where Columbus founded a settlement during his second voyage is Hispaniola."
+                },
+                {
+                    "question": "What day is celebrated as Columbus Day, and what is the significance of this holiday?",
+                    "answer": "the second Monday of October",
+                    "explanation": "Columbus Day is celebrated on the second Monday of October in the United States and some other countries to commemorate the arrival of Christopher Columbus in the Americas in 1492. The holiday was first celebrated in 1792, which was the 300th anniversary of Columbus' landing in the Americas. However, the holiday was not officially recognized until 1937, when President Franklin D. Roosevelt proclaimed Columbus Day as a national holiday."
+                },
+                {
+                    "question": "What was the initial purpose of Columbus' voyage sponsored by the Catholic Monarchs of Spain?",
+                    "answer": "Asia",
+                    "explanation": "The initial purpose of Columbus' voyage sponsored by the Catholic Monarchs of Spain was to reach Asia."
+                },
+                {
+                    "question": "What were the voyages of Columbus?",
+                    "answer": "Americas",
+                    "explanation": "Columbus completed four voyages across the Atlantic Ocean, led by the Catholic Monarchs of Spain. He is remembered as the person who led the European discovery of the Americas."
+                },
+                {
+                    "question": "What is the name of the person who funded Columbus' voyage to Asia via the Atlantic Ocean, and what did he claim for Spain?",
+                    "answer": "the Catholic Monarchs",
+                    "explanation": "The Catholic Monarchs funded Columbus' voyage to Asia via the Atlantic Ocean, and he claimed the coasts of South and Central America for Spain."
+                }
+            ],
+            "hops": [
+                "Simone Biles",
+                "Columbus"
+            ]
+        },
+        "Mihai Brestyan": {
+            "term": "Mihai Brestyan",
+            "passage": "Mihai Brestyan is a Romanian former football player and current coach. He played as a midfielder and made 29 appearances for the Romania national team, scoring 3 goals. He played for teams such as Steaua București, FC Barcelona, and FC Porto. After retiring from playing, he became a coach and has worked for teams such as FC Brașov and FC Vaslui.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the team for which Mihai Brestyan has worked as a coach after retiring from playing?",
+                    "answer": "Vaslui",
+                    "explanation": "Mihai Brestyan has worked as a coach for FC Vaslui after retiring from playing."
+                },
+                {
+                    "question": "What is Mihai Brestyan's nationality?",
+                    "answer": "Romania",
+                    "explanation": "Mihai Brestyan is a Romanian former football player and current coach."
+                },
+                {
+                    "question": "What team did Mihai Brestyan play for after FC Barcelona?",
+                    "answer": "FC Porto",
+                    "explanation": "Mihai Brestyan played for FC Porto after FC Barcelona."
+                }
+            ],
+            "hops": [
+                "Simone Biles",
+                "Mihai Brestyan"
+            ]
+        },
+        "Antwerp": {
+            "term": "Antwerp",
+            "passage": "1. Antwerp is a city in Belgium. 2. It is located in the northern part of the country, on the right bank of the river Scheldt, which is linked to the North Sea. 3. Antwerp is the second largest city in Belgium, with a population of more than 500,000 people. 4. The city has a rich history, dating back to the Middle Ages, and was once one of the most important ports in the world. 5. Today, Antwerp is known for its vibrant cultural scene, its trendy fashion and design shops, and its delicious cuisine. 6. Visitors can explore the city's many museums and galleries, including the Rubenshuis museum, which houses the works of the famous Baroque painter Peter Paul Rubens. 7. Antwerp is also home to the Antwerp Zoo, one of the oldest and most respected zoos in Europe. 8. The city is easily accessible by train, with a high-speed rail connection to Brussels and other major cities in Belgium. 9. Antwerp is a bustling metropolis that offers a unique combination of history, culture, and modern amenities, making it a popular destination for tourists and business travelers alike.",
+            "qae_pairs": [
+                {
+                    "question": "What famous painter's works are housed in the Rubenshuis museum in Antwerp?",
+                    "answer": "Peter Paul Rubens",
+                    "explanation": "The Rubenshuis museum in Antwerp houses the works of the famous Baroque painter Peter Paul Rubens."
+                },
+                {
+                    "question": "What is the name of the museum in Antwerp that houses the works of the famous Baroque painter Peter Paul Rubens?",
+                    "answer": "Rubenshuis",
+                    "explanation": "The name of the museum in Antwerp that houses the works of the famous Baroque painter Peter Paul Rubens is Rubenshuis."
+                }
+            ],
+            "hops": [
+                "Simone Biles",
+                "Antwerp"
+            ]
+        },
+        "Houston": {
+            "term": "Houston",
+            "passage": "Houston is the most populous city in the U.S. state of Texas and the fourth most populous city in the United States, with a census-estimated population of 2.3 million in 2020. It is the principal city of the Houston–The Woodlands–Sugar Land metropolitan area, which is the fifth most populous metropolitan area in the United States. Houston is located in Southeast Texas near the Gulf of Mexico and it is the largest city in the Houston–Sugar Land–Baytown metropolitan area—a 10-county region at the head of the Gulf Coast region. Houston was founded on August 30, 1836, by brothers Augustus Chapman Allen and John Kirby Allen on land owned by their father, George Hockley. The city was incorporated on June 5, 1837, and named after former General Sam Houston, who was the President of the Republic of Texas. Houston has a total area of 637.5 square miles (1,651 km²), of which 634.6 square miles (1,642 km²) is land and 2.9 square miles (7.5 km²) is water. The city is divided into many different neighborhoods, including Downtown, Midtown, Montrose, River Oaks, and Sugar Land. Houston has a humid subtropical climate, with hot summers and mild winters. It is also prone to tropical storms and hurricanes, as it is located in the Gulf Coast region. Houston is a diverse city with a population that includes a large number of immigrants.",
+            "qae_pairs": [
+                {
+                    "question": "What was the name of the country that Houston was a part of?     Answer: The Republic of Texas.",
+                    "answer": "the Republic of Texas",
+                    "explanation": "The city was incorporated on June 5, 1837, and named after former General Sam Houston, who was the President of the Republic of Texas."
+                },
+                {
+                    "question": "What is the name of the person who owned the land on which Houston was founded?",
+                    "answer": "George Hockley",
+                    "explanation": "The person who owned the land on which Houston was founded is George Hockley."
+                },
+                {
+                    "question": "What is the name of the person who founded Houston?",
+                    "answer": "John Kirby Allen",
+                    "explanation": "The person who founded Houston is John Kirby Allen."
+                },
+                {
+                    "question": "What is the answer to the question that contains the term 'Houston' and describes the location of the city?",
+                    "answer": "Southeast Texas",
+                    "explanation": "The answer to the question that contains the term 'Houston' and describes the location of the city is Southeast Texas."
+                },
+                {
+                    "question": "What was the date that Houston was incorporated, according to the passage?",
+                    "answer": "June 5, 1837",
+                    "explanation": "According to the passage, the date that Houston was incorporated was June 5, 1837."
+                },
+                {
+                    "question": "What date was Houston founded, according to the passage?",
+                    "answer": "August 30, 1836",
+                    "explanation": "According to the passage, Houston was founded on August 30, 1836."
+                },
+                {
+                    "question": "What is the answer to the question about Houston?",
+                    "answer": "the United States",
+                    "explanation": "The answer to the question about Houston is the United States."
+                }
+            ],
+            "hops": [
+                "Simone Biles",
+                "Houston"
+            ]
+        },
+        "Aimee Boorman": {
+            "term": "Aimee Boorman",
+            "passage": "Aimee Boorman is an American author, speaker, and advocate for people with disabilities. She is known for her work as a disability advocate and for her TEDx talk on the topic of disability and inclusion. Boorman was born with a condition called spinal muscular atrophy, which has left her unable to walk or stand. Despite this, she has become an accomplished writer and speaker, and has traveled extensively to share her message of inclusion and accessibility. Boorman has also worked as an advocate for disability rights, and has been involved in efforts to improve accessibility in public spaces and transportation systems. She is a frequent speaker at conferences and events, and has been featured in a number of media outlets, including CNN, NBC, and the New York Times.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the publication that has featured Aimee Boorman?",
+                    "answer": "the New York Times",
+                    "explanation": "The publication that has featured Aimee Boorman is the New York Times."
+                },
+                {
+                    "question": "What organization has featured Aimee Boorman in their media outlets?",
+                    "answer": "CNN",
+                    "explanation": "Aimee Boorman has been featured in a number of media outlets, including CNN, NBC, and the New York Times. Therefore, the organization that has featured Aimee Boorman in their media outlets is CNN."
+                }
+            ],
+            "hops": [
+                "Simone Biles",
+                "Aimee Boorman"
+            ]
+        },
+        "NFL": {
+            "term": "NFL",
+            "passage": "North American Football League     The North American Football League (NAFL) was a professional American football league that operated in the United States and Canada from 1960 to 1966. The league was formed in 1960 as a merger of the American Football League (AFL) and the National Football League (NFL). The NAFL was the first league to officially use the term \"Super Bowl\" to describe their championship game. However, the league struggled financially and was dissolved after the 1966 season.",
+            "qae_pairs": [
+                {
+                    "question": "What was the time period during which the NFL had the fewest teams? Answer: The answer is '1960 to 1966'.",
+                    "answer": "1960 to 1966",
+                    "explanation": "The time period during which the NFL had the fewest teams was from 1960 to 1966. This was when the North American Football League (NAFL) operated in the United States and Canada as a merger of the American Football League (AFL) and the National Football League (NFL). The NAFL struggled financially and was dissolved after the 1966 season, leaving the NFL with the fewest teams during this time period."
+                },
+                {
+                    "question": "What was the year that the NFL's championship game was played in the Superdome?  Answer: The answer is 'the 1966 season'.",
+                    "answer": "the 1966 season",
+                    "explanation": "The NFL's championship game, also known as the Super Bowl, was played in the Superdome during the 1966 season."
+                },
+                {
+                    "question": "What league was formed in 1960 as a merger of the American Football League (AFL) and the National Football League (NFL), and officially used the term \"Super Bowl\" to describe their championship game, but struggled financially and was dissolved after the 1966",
+                    "answer": "NAFL",
+                    "explanation": "The North American Football League (NAFL) was formed in 1960 as a merger of the American Football League (AFL) and the National Football League (NFL), and officially used the term \"Super Bowl\" to describe their championship game. However, the league struggled financially and was dissolved after the 1966 season."
+                }
+            ],
+            "hops": [
+                "Tom Brady",
+                "NFL"
+            ]
+        },
+        "the University of Michigan": {
+            "term": "the University of Michigan",
+            "passage": "1. The University of Michigan, commonly referred to as U-M, is a public research university located in Ann Arbor, Michigan, United States. 2. It was founded in 1817 in Detroit, Michigan as the Catholepistemiad, or University of Michigania,  3. and moved to its current location in Ann Arbor in 1837. 4. Today, the university is composed of 19 schools and colleges, and is one of the largest universities in the country by enrollment. 5. The university is also a member of the Big Ten Conference and has a strong athletic program, with teams competing in sports such as football, basketball, and hockey. 6. The university is known for its research in various fields, including medicine, engineering, and social sciences. 7. Notable alumni include Gerald Ford, the 38th President of the United States, and J.K. Rowling, the author of the Harry Potter series. 8. The university has a strong commitment to sustainability, and has implemented various initiatives to reduce its carbon footprint and promote sustainable practices. 9. The university's campus is known for its beautiful architecture and is a popular destination for visitors to Ann Arbor. 10. The University of Michigan is a prestigious institution that continues to be a leader in education, research, and innovation.",
+            "qae_pairs": [
+                {
+                    "question": "What year was the University of Michigan founded?",
+                    "answer": "1817",
+                    "explanation": "The University of Michigan was founded in 1817 in Detroit, Michigan as the Catholepistemiad, or University of Michigania. However, it moved to its current location in Ann Arbor in 1837."
+                },
+                {
+                    "question": "What is the location of the University of Michigan?",
+                    "answer": "Ann Arbor",
+                    "explanation": "The University of Michigan is located in Ann Arbor, Michigan, United States."
+                },
+                {
+                    "question": "What is the answer to the question \"What is the University of Michigan commonly referred to as?\"",
+                    "answer": "U-M",
+                    "explanation": "The University of Michigan is commonly referred to as U-M."
+                },
+                {
+                    "question": "What year was the University of Michigan founded in Ann Arbor?",
+                    "answer": "1837",
+                    "explanation": "The University of Michigan was founded in 1817 in Detroit, Michigan as the Catholepistemiad, or University of Michigania. However, it moved to its current location in Ann Arbor in 1837. Therefore, the correct answer to the question is 1837."
+                },
+                {
+                    "question": "What conference is the University of Michigan a member of, and what is the answer to that question?",
+                    "answer": "the Big Ten Conference",
+                    "explanation": "The University of Michigan is a member of the Big Ten Conference."
+                },
+                {
+                    "question": "What is the name of the author of the Harry Potter series according to the passage about the University of Michigan?",
+                    "answer": "J.K. Rowling",
+                    "explanation": "According to the passage about the University of Michigan, the author of the Harry Potter series is J.K. Rowling."
+                },
+                {
+                    "question": "What city was the University of Michigan founded in?",
+                    "answer": "Detroit",
+                    "explanation": "The University of Michigan was founded in Detroit in 1817."
+                }
+            ],
+            "hops": [
+                "Tom Brady",
+                "the University of Michigan"
+            ]
+        },
+        "Gisele Bündchen": {
+            "term": "Gisele Bündchen",
+            "passage": "Gisele Bündchen is a Brazilian model, actress, and producer. She is one of the most successful models in the world, having been a Victoria's Secret Angel since 2000, and has been the highest-paid model in the world since 2004. Bündchen has been married to American football quarterback Tom Brady since 2009. Bündchen was born in Três de Maio, a small town in the state of Rio Grande do Sul, Brazil. She was discovered by a modeling scout while shopping with her sister in a São Paulo shopping mall in 1993. Bündchen has since been on the cover of numerous magazines, including Vogue, Rolling Stone, and Harper's Bazaar. Bündchen has also ventured into acting, with roles in the films Taxi (2004) and The Devil Wears Prada (2006). She has also been a UN Environmental Ambassador since 2009. Bündchen has been married to Tom Brady since 2009, and the couple has two children together. She has spoken openly about her struggles with anxiety and depression, and has been a vocal advocate for mental health awareness.",
+            "qae_pairs": [
+                {
+                    "question": "What was the name of the film in which Gisele Bündchen appeared in 2004?",
+                    "answer": "Taxi",
+                    "explanation": "The name of the film in which Gisele Bündchen appeared in 2004 is Taxi."
+                },
+                {
+                    "question": "What is the name of the model who is often compared to Gisele Bündchen?  Answer: Victoria.",
+                    "answer": "Victoria",
+                    "explanation": "The name of the model who is often compared to Gisele Bündchen is not mentioned in the passage. The passage only mentions Gisele Bündchen's success as a model and her achievements, including being a Victoria's Secret Angel and the highest-paid model in the world, as well as her marriage to Tom Brady and her work as a UN Environmental Ambassador and advocate for mental health awareness."
+                },
+                {
+                    "question": "What year did Gisele Bündchen appear in the film 'The Devil Wears Prada'?",
+                    "answer": "2006",
+                    "explanation": "Gisele Bündchen appeared in the film 'The Devil Wears Prada' in the year 2006."
+                },
+                {
+                    "question": "What year did Gisele Bündchen marry Tom Brady, according to the passage?",
+                    "answer": "2009",
+                    "explanation": "According to the passage, Gisele Bündchen married Tom Brady in 2009."
+                },
+                {
+                    "question": "What city did Gisele Bündchen, a Brazilian model, actress, and producer, first start modeling in after being discovered by a scout while shopping with her sister in 1993?",
+                    "answer": "São Paulo",
+                    "explanation": "São Paulo."
+                },
+                {
+                    "question": "What magazine has Gisele Bündchen been on the cover of, according to the passage?",
+                    "answer": "Vogue",
+                    "explanation": "According to the passage, Gisele Bündchen has been on the cover of numerous magazines, including Vogue."
+                },
+                {
+                    "question": "What is the name of the Brazilian state where Gisele Bündchen was born?",
+                    "answer": "Rio Grande",
+                    "explanation": "The name of the Brazilian state where Gisele Bündchen was born is Rio Grande."
+                },
+                {
+                    "question": "What magazine did Gisele Bündchen appear on the cover of, according to the passage?",
+                    "answer": "Rolling Stone",
+                    "explanation": "According to the passage, Gisele Bündchen has been on the cover of numerous magazines, including Vogue, Rolling Stone, and Harper's Bazaar."
+                },
+                {
+                    "question": "What year did Gisele Bündchen become a Victoria's Secret Angel?",
+                    "answer": "2000",
+                    "explanation": "Gisele Bündchen became a Victoria's Secret Angel in the year 2000."
+                },
+                {
+                    "question": "What is the name of the film in which Gisele Bündchen appeared in 2006?",
+                    "answer": "The Devil Wears Prada",
+                    "explanation": "The film in which Gisele Bündchen appeared in 2006 is The Devil Wears Prada."
+                },
+                {
+                    "question": "What year did Gisele Bündchen become the highest-paid model in the world, according to the passage?",
+                    "answer": "2004",
+                    "explanation": "According to the passage, Gisele Bündchen became the highest-paid model in the world in 2004."
+                },
+                {
+                    "question": "What is the name of the town where Gisele Bündchen was born, according to the passage?",
+                    "answer": "Brazil",
+                    "explanation": "According to the passage, Gisele Bündchen was born in Três de Maio, a small town in the state of Rio Grande do Sul, Brazil."
+                },
+                {
+                    "question": "What is the name of the town in Brazil where Gisele Bündchen was born?",
+                    "answer": "Três de Maio",
+                    "explanation": "The town in Brazil where Gisele Bündchen was born is Três de Maio."
+                },
+                {
+                    "question": "What year was Gisele Bündchen discovered by a modeling scout?",
+                    "answer": "1993",
+                    "explanation": "Gisele Bündchen was discovered by a modeling scout in 1993 while shopping with her sister in a São Paulo shopping mall."
+                }
+            ],
+            "hops": [
+                "Tom Brady",
+                "Gisele Bündchen"
+            ]
+        },
+        "the National Football League": {
+            "term": "the National Football League",
+            "passage": "1. The National Football League (NFL) is the professional American football league in the United States. 2. It was founded on August 20, 1920, and consists of 32 teams, divided equally between the National Football Conference (NFC) and the American Football Conference (AFC). 3. The NFL is the highest professional level of American football in the world. 4. The league's championship game, the Super Bowl, is one of the biggest sporting events in the world, attracting millions of viewers annually. 5. The NFL is also known for its high-profile players, including Tom Brady, Peyton Manning, and Aaron Rodgers. 6. The league has a complex system of rules and regulations, which are designed to ensure fair play and safety for all players. 7. The NFL has a long and storied history, with many iconic moments and players that have become part of American culture. 8. The league has undergone many changes over the years, including the addition of new teams and the implementation of new rules and technologies. 9. Despite its many successes, the NFL has also faced controversy and criticism, particularly regarding player safety and concussions. 10. Despite these challenges, the NFL remains one of the most popular and profitable sports leagues in the world, with a dedicated fan base and a rich history of excellence.",
+            "qae_pairs": [
+                {
+                    "question": "What term is used to refer to 'the National Football League' in the passage?",
+                    "answer": "NFL",
+                    "explanation": "The term used to refer to 'the National Football League' in the passage is NFL."
+                },
+                {
+                    "question": "What is the name of the quarterback who has won the most Super Bowls in the history of the National Football League? Answer: Aaron Rodgers.",
+                    "answer": "Aaron Rodgers",
+                    "explanation": "The quarterback who has won the most Super Bowls in the history of the National Football League is Tom Brady, with six victories under his belt. Aaron Rodgers, on the other hand, has won one Super Bowl."
+                },
+                {
+                    "question": "What is the name of the player who holds the record for most touchdown passes in the National Football League?     Answer: Peyton Manning.",
+                    "answer": "Peyton Manning",
+                    "explanation": "The player who holds the record for most touchdown passes in the National Football League is Peyton Manning."
+                },
+                {
+                    "question": "What was the date when the National Football League (NFL) was founded?",
+                    "answer": "August 20, 1920",
+                    "explanation": "The National Football League (NFL) was founded on August 20, 1920."
+                },
+                {
+                    "question": "What organization is known as 'the National Football League' in the United States?  Answer: The National Football League is known as the NFL in the United States.",
+                    "answer": "the United States",
+                    "explanation": "The National Football League (NFL) is known as the NFL in the United States."
+                },
+                {
+                    "question": "What is the name of the conference that the National Football League is divided into?",
+                    "answer": "the National Football Conference",
+                    "explanation": "The National Football League is divided into two conferences: the National Football Conference (NFC) and the American Football Conference (AFC)."
+                }
+            ],
+            "hops": [
+                "Tom Brady",
+                "the National Football League"
+            ]
+        },
+        "Super Bowl MVP": {
+            "term": "Super Bowl MVP",
+            "passage": "Super Bowl MVP (Most Valuable Player) is an award given to the player who has the best performance during the Super Bowl, the championship game of the National Football League (NFL). The award is chosen by a panel of journalists who cover the game, and is announced at the end of the game. The Super Bowl MVP award has been presented since the first Super Bowl in 1967. The award is considered one of the highest honors in American sports, and is often referred to as the \"ultimate prize\" for players. Many Super Bowl MVPs have gone on to become legends in the sport, and their performances in the Super Bowl are often cited as some of the greatest in NFL history.",
+            "qae_pairs": [
+                {
+                    "question": "What year did the Super Bowl MVP award first become available?",
+                    "answer": "1967",
+                    "explanation": "The Super Bowl MVP award first became available in 1967."
+                }
+            ],
+            "hops": [
+                "Tom Brady",
+                "Super Bowl MVP"
+            ]
+        },
+        "California": {
+            "term": "California",
+            "passage": "California is a state in the Pacific Region of the United States. With a total area of 163,696 square miles (423,970 km²), California is the third-largest state in the United States, and the largest state in the contiguous United States. It has a population of over 39 million people, which makes it the most populous state in the United States. The state capital is Sacramento, and the largest city is Los Angeles. California is known for its diverse landscape, which includes coastal beaches, mountains, and deserts. It is also home to several national parks, including Yosemite National Park, Sequoia and Kings Canyon National Parks, and Joshua Tree National Park. California is a global leader in the technology and entertainment industries, and is home to many of the world's largest technology companies, including Apple, Google, and Facebook.",
+            "qae_pairs": [
+                {
+                    "question": "What national park in California is known for its diverse landscape and is a popular tourist destination?",
+                    "answer": "Yosemite National Park",
+                    "explanation": "Yosemite National Park is a popular tourist destination in California that is known for its diverse landscape. It is located in the Sierra Nevada mountain range and is home to several iconic landmarks, including Half Dome, Yosemite Falls, and El Capitan. The park covers an area of over 750,000 acres (3,000 km²) and is a UNESCO World Heritage Site. Visitors to Yosemite National Park can participate in a variety of activities, including hiking, camping, and rock climbing."
+                },
+                {
+                    "question": "What city in California is the largest in the state and is known for its diverse landscape, technology and entertainment industries, and national parks?",
+                    "answer": "Los Angeles",
+                    "explanation": "Los Angeles is the largest city in California and is known for its diverse landscape, technology and entertainment industries, and national parks."
+                },
+                {
+                    "question": "What national park in California is home to the largest tree in the world, and what is the name of the tree?",
+                    "answer": "Sequoia",
+                    "explanation": "The national park in California that is home to the largest tree in the world is Sequoia National Park. The name of the tree is General Sherman, which is a giant sequoia tree located in the Giant Forest of Sequoia National Park. It is estimated to be around 2,200 years old and is considered one of the most massive and largest living organisms on Earth."
+                },
+                {
+                    "question": "What is the capital city of California where the population is over 39 million people?",
+                    "answer": "Sacramento",
+                    "explanation": "The capital city of California where the population is over 39 million people is Sacramento."
+                },
+                {
+                    "question": "What company is known for its technology and entertainment industries and is based in California?",
+                    "answer": "Google",
+                    "explanation": "The company known for its technology and entertainment industries and is based in California is Google."
+                },
+                {
+                    "question": "What region of the United States is California a part of?",
+                    "answer": "the Pacific Region",
+                    "explanation": "California is a state in the Pacific Region of the United States."
+                },
+                {
+                    "question": "What company is headquartered in California and has a logo consisting of a blue and white 'F'?  Answer: Facebook.",
+                    "answer": "Facebook",
+                    "explanation": "The company headquartered in California and has a logo consisting of a blue and white 'F' is Facebook."
+                }
+            ],
+            "hops": [
+                "Megan Rapinoe",
+                "California"
+            ]
+        },
+        "the Association of Tennis Professionals": {
+            "term": "the Association of Tennis Professionals",
+            "passage": "Language model: GPT-2 The Association of Tennis Professionals (ATP) is the governing body for men's professional tennis. It was founded in 1972 by Donald Dell, Jack Kramer, and Cliff Drysdale, and is headquartered in London, United Kingdom. The ATP sanctions all ATP Tour tournaments, the ATP Challenger Tour, and the ATP Champions Tour. It also manages the ATP Rankings, which are used to determine the world's top-ranked players. The ATP operates in partnership with the Women's Tennis Association (WTA), which is the governing body for women's professional tennis. The ATP and WTA jointly run four Grand Slam tournaments: the Australian Open, the French Open, Wimbledon, and the US Open. The ATP also organizes the Davis Cup, a team competition between nations.",
+            "qae_pairs": [
+                {
+                    "question": "What country is the headquarters of the Association of Tennis Professionals?",
+                    "answer": "United Kingdom",
+                    "explanation": "The headquarters of the Association of Tennis Professionals (ATP) is located in London, United Kingdom."
+                },
+                {
+                    "question": "What is the name of the person who founded the Association of Tennis Professionals?",
+                    "answer": "Donald Dell",
+                    "explanation": "The person who founded the Association of Tennis Professionals (ATP) is Donald Dell."
+                },
+                {
+                    "question": "What is the name of the organization that sponsors the ATP Tour?  Answer: The Association of Tennis Professionals (ATP) sponsors the ATP Tour.",
+                    "answer": "ATP Tour",
+                    "explanation": "The ATP Tour is sponsored by the Association of Tennis Professionals (ATP)."
+                },
+                {
+                    "question": "What is the name of the organization that sponsors the Grand Slam tournaments?  Answer: The Association of Tennis Professionals.",
+                    "answer": "Grand Slam",
+                    "explanation": "The organization that sponsors the Grand Slam tournaments is the Association of Tennis Professionals (ATP)."
+                },
+                {
+                    "question": "What is the name of the individual who co-founded the Association of Tennis Professionals with Donald Dell and Jack Kramer?",
+                    "answer": "Cliff Drysdale",
+                    "explanation": "Cliff Drysdale is the individual who co-founded the Association of Tennis Professionals with Donald Dell and Jack Kramer."
+                },
+                {
+                    "question": "What is the name of the person who co-founded the Association of Tennis Professionals along with Donald Dell and Cliff Drysdale?",
+                    "answer": "Jack Kramer",
+                    "explanation": "Jack Kramer co-founded the Association of Tennis Professionals along with Donald Dell and Cliff Drysdale."
+                },
+                {
+                    "question": "What is the location of the headquarters of the Association of Tennis Professionals?",
+                    "answer": "London",
+                    "explanation": "The location of the headquarters of the Association of Tennis Professionals (ATP) is London, United Kingdom."
+                },
+                {
+                    "question": "What organization is responsible for the women's professional tennis tour?  Answer: The Association of Tennis Professionals (ATP) is responsible for the women's professional tennis tour, which is known as the Women's Tennis Association (WTA).",
+                    "answer": "WTA",
+                    "explanation": "The Women's Tennis Association (WTA) is responsible for the women's professional tennis tour."
+                },
+                {
+                    "question": "What year was the Association of Tennis Professionals (ATP) founded?",
+                    "answer": "1972",
+                    "explanation": "The Association of Tennis Professionals (ATP) was founded in 1972."
+                }
+            ],
+            "hops": [
+                "Rafael Nadal",
+                "the Association of Tennis Professionals"
+            ]
+        },
+        "Manacor": {
+            "term": "Manacor",
+            "passage": "Manacor is a town and municipality on the island of Mallorca, in the Spanish autonomous community of the Balearic Islands. It is the second-largest town in Mallorca, with a population of 50,000 people. The town is located in the southeastern part of the island, and is known for its agricultural production, particularly of oranges and lemons. Manacor is also the birthplace of famous tennis player Rafael Nadal, who was born in the town in 1986. The town has a rich history, with evidence of human settlement dating back to the Roman Empire. Today, Manacor is a popular destination for tourists, offering a variety of cultural and recreational activities.",
+            "qae_pairs": [
+                {
+                    "question": "What was the year of birth of Rafael Nadal, who was born in Manacor and is known for his achievements in tennis?",
+                    "answer": "1986",
+                    "explanation": "Rafael Nadal, a famous tennis player, was born in Manacor in 1986."
+                }
+            ],
+            "hops": [
+                "Rafael Nadal",
+                "Manacor"
+            ]
+        },
+        "Mallorca": {
+            "term": "Mallorca",
+            "passage": "Mallorca is the largest island in the Balearic Islands, which are located in the Mediterranean Sea. The island is known for its natural beauty, including its beaches, mountains, and forests. It is also a popular tourist destination, with over 10 million visitors annually. The capital of Mallorca is Palma, which is home to numerous historic landmarks, including the Gothic cathedral of Santa Maria of Palma. Other popular attractions on the island include the beaches of Magaluf and Palma Nova, the mountain range of Serra de Tramuntana, and the historic town of Pollensa. The island has a rich cultural heritage, with influences from the Romans, Moors, and Catalans. The local cuisine is heavily influenced by the sea, with dishes such as paella and fresh seafood being popular choices. Overall, Mallorca is a diverse and beautiful island with something for everyone to enjoy.",
+            "qae_pairs": [
+                {
+                    "question": "What was the name of the group that ruled over Mallorca during the Moorish period?",
+                    "answer": "Moors",
+                    "explanation": "During the Moorish period, the group that ruled over Mallorca was the Moors."
+                },
+                {
+                    "question": "What is the name of the historic town in Mallorca that is a popular tourist destination and is known for its natural beauty and rich cultural heritage?",
+                    "answer": "Pollensa",
+                    "explanation": "The historic town in Mallorca that is a popular tourist destination and is known for its natural beauty and rich cultural heritage is Pollensa."
+                },
+                {
+                    "question": "What is the name of the body of water that surrounds Mallorca?",
+                    "answer": "the Mediterranean Sea",
+                    "explanation": "The body of water that surrounds Mallorca is the Mediterranean Sea."
+                },
+                {
+                    "question": "What is the name of the mountain range located in Mallorca?",
+                    "answer": "Serra de Tramuntana",
+                    "explanation": "Serra de Tramuntana is the name of the mountain range located in Mallorca."
+                }
+            ],
+            "hops": [
+                "Rafael Nadal",
+                "Mallorca"
+            ]
+        },
+        "the United States": {
+            "term": "the United States",
+            "passage": "1. The United States of America is a federal republic consisting of 50 states, a federal district, five major territories, and various minor islands. 2. The country was first colonized by Europeans in the late 16th century, with the British and French establishing colonies in North America. 3. After the American Revolution, the thirteen British colonies declared independence in 1776, forming the United States of America. 4. The U.S. Constitution was adopted in 1787, establishing a federal system of government with power divided between the federal government and the states. 5. The country expanded westward in the 19th century, acquiring new territories and states, and eventually becoming a superpower following World War II. 6. Today, the United States is the world's largest economy and a leader in technological innovation, with a diverse population and a strong commitment to democracy and individual rights.",
+            "qae_pairs": [
+                {
+                    "question": "What was the time period during which the United States acquired new territories and states, ultimately becoming a superpower following World War II?",
+                    "answer": "the 19th century",
+                    "explanation": "The time period during which the United States acquired new territories and states, ultimately becoming a superpower following World War II, was the 19th century."
+                },
+                {
+                    "question": "What was the date of the first European colonization of the United States, according to the passage?",
+                    "answer": "the late 16th century",
+                    "explanation": "According to the passage, the United States was first colonized by Europeans in the late 16th century."
+                },
+                {
+                    "question": "What year did the thirteen British colonies declare independence in the United States, according to the passage?",
+                    "answer": "1776",
+                    "explanation": "According to the passage, the thirteen British colonies declared independence in 1776."
+                },
+                {
+                    "question": "What year was the United States Constitution adopted, according to the passage?",
+                    "answer": "1787",
+                    "explanation": "According to the passage, the United States Constitution was adopted in 1787."
+                }
+            ],
+            "hops": [
+                "Megan Rapinoe",
+                "the United States"
+            ]
+        },
+        "FIFA Women's World Cup": {
+            "term": "FIFA Women's World Cup",
+            "passage": "Language: English The FIFA Women's World Cup is an international football tournament contested by the women's national teams of the members of Fédération Internationale de Football Association (FIFA). It has been held every four years since 1991, except for a break in 2003 due to the lack of international participation. The tournament is played in a similar format to the men's World Cup, with 32 teams competing in a series of knockout matches. The first Women's World Cup was held in China in 1991, and was won by the United States. Since then, the tournament has been held in several countries, including Sweden, Norway, the United States, and Canada. The most successful team in the tournament's history is the United States, who have won the trophy three times, in 1991, 1999, and 2015. The tournament has grown in popularity over the years, with more countries participating and more fans tuning in to watch. In 2019, the tournament was held in France, and was won by the United States, who beat the Netherlands 2–0 in the final. The tournament is expected to continue to grow in popularity, as more and more countries invest in women's football and more fans tune in to watch the world's best players compete.",
+            "qae_pairs": [
+                {
+                    "question": "What year did the FIFA Women's World Cup first take place?",
+                    "answer": "1991",
+                    "explanation": "The FIFA Women's World Cup first took place in 1991."
+                },
+                {
+                    "question": "What organization is responsible for the FIFA Women's World Cup?",
+                    "answer": "Fédération Internationale de Football Association",
+                    "explanation": "The FIFA Women's World Cup is organized by Fédération Internationale de Football Association (FIFA)."
+                },
+                {
+                    "question": "What country hosted the first FIFA Women's World Cup in 1991?",
+                    "answer": "China",
+                    "explanation": "The first FIFA Women's World Cup was held in China in 1991."
+                },
+                {
+                    "question": "What is the frequency of the FIFA Women's World Cup?",
+                    "answer": "every four years",
+                    "explanation": "The FIFA Women's World Cup is held every four years, except for a break in 2003 due to the lack of international participation."
+                },
+                {
+                    "question": "What team won the FIFA Women's World Cup in 2019?",
+                    "answer": "the United States",
+                    "explanation": "The FIFA Women's World Cup is an international football tournament contested by the women's national teams of the members of Fédération Internationale de Football Association (FIFA). It has been held every four years since 1991, except for a break in 2003 due to the lack of international participation. The tournament is played in a similar format to the men's World Cup, with 32 teams competing in a series of knockout matches. The first Women's World Cup was held in China in 1991, and was won by the United States."
+                },
+                {
+                    "question": "What year did the FIFA Women's World Cup tournament take a break due to the lack of international participation?",
+                    "answer": "2003",
+                    "explanation": "The FIFA Women's World Cup tournament took a break in 2003 due to the lack of international participation."
+                }
+            ],
+            "hops": [
+                "Megan Rapinoe",
+                "FIFA Women's World Cup"
+            ]
+        },
+        "the Golden Boot": {
+            "term": "the Golden Boot",
+            "passage": "Golden Boot ======= The Golden Boot is a trophy awarded to the top scorer at the FIFA World Cup. It was first awarded in 1930, at the inaugural World Cup tournament in Uruguay, and has been awarded at every World Cup tournament since. The trophy is made of gold and depicts a boot, with the winner's name and the year of their victory engraved on the base. The Golden Boot is highly sought after by players, who see it as a symbol of their success and achievement in the sport. The winner of the Golden Boot is not only recognized for their individual performance, but also for their contribution to their team's success in the tournament. Throughout the history of the World Cup, there have been many memorable winners of the Golden Boot, including Brazil's Ronaldo, who won the award twice in 1994 and 1998, and Germany's Miroslav Klose, who won it in 2002 and 2006. Other notable winners include Brazil's Pele, who won the award in 1958 and 1962, and Germany's Thomas Muller, who won it in 2010. The Golden Boot is not only a symbol of individual achievement, but also a symbol of the spirit of the World Cup, which brings together players from different countries and cultures to compete on the world's biggest stage.",
+            "qae_pairs": [
+                {
+                    "question": "What year did Miroslav Klose win the Golden Boot?",
+                    "answer": "2006",
+                    "explanation": "Miroslav Klose won the Golden Boot in 2002 and 2006."
+                },
+                {
+                    "question": "What player has won the Golden Boot twice, in 2002 and 2006?",
+                    "answer": "Miroslav Klose",
+                    "explanation": "Miroslav Klose."
+                },
+                {
+                    "question": "Who won the Golden Boot at the FIFA World Cup in 2010?",
+                    "answer": "Thomas Muller",
+                    "explanation": "The answer to the question is Thomas Muller."
+                },
+                {
+                    "question": "What player has won the Golden Boot twice, in 1994 and 1998?",
+                    "answer": "Ronaldo",
+                    "explanation": "Ronaldo is the player who has won the Golden Boot twice, in 1994 and 1998."
+                },
+                {
+                    "question": "What year did Ronaldo win the Golden Boot for the first time?",
+                    "answer": "1994",
+                    "explanation": "Ronaldo won the Golden Boot for the first time in 1994."
+                },
+                {
+                    "question": "What year did Thomas Muller win the Golden Boot?",
+                    "answer": "2010",
+                    "explanation": "Thomas Muller won the Golden Boot in 2010."
+                },
+                {
+                    "question": "What is the name of the trophy awarded to the winner of the World Cup?  Answer: Brazil.      The trophy is called the Golden Boot.",
+                    "answer": "Brazil",
+                    "explanation": "The trophy awarded to the winner of the FIFA World Cup is not Brazil. The correct name of the trophy is the Golden Boot. The Golden Boot is a symbol of individual achievement and contribution to the team's success in the tournament. It is made of gold and depicts a boot, with the winner's name and the year of their victory engraved on the base. Notable winners include Brazil's Ronaldo, Germany's Miroslav Klose, and Brazil's Pele."
+                },
+                {
+                    "question": "What year did Pele win the Golden Boot?",
+                    "answer": "1958",
+                    "explanation": "Pele won the Golden Boot in 1958 and 1962."
+                },
+                {
+                    "question": "What year was the Golden Boot first awarded, according to the passage?",
+                    "answer": "1930",
+                    "explanation": "The Golden Boot was first awarded in 1930, according to the passage."
+                },
+                {
+                    "question": "What player won the Golden Boot in 1958 and 1962, according to the passage?",
+                    "answer": "Pele",
+                    "explanation": "According to the passage, the player who won the Golden Boot in 1958 and 1962 is Pele."
+                },
+                {
+                    "question": "What country has won the Golden Boot at the FIFA World Cup?",
+                    "answer": "Germany",
+                    "explanation": "Germany is the country that has won the Golden Boot at the FIFA World Cup. Germany has won the Golden Boot a total of four times, with Miroslav Klose winning it twice in 2002 and 2006, and Thomas Muller winning it in 2010. Brazil is the country that has won the Golden Boot the most, with Pele winning it twice in 1958 and 1962, and Ronaldo winning it twice in 1994 and 1998."
+                }
+            ],
+            "hops": [
+                "Megan Rapinoe",
+                "the Golden Boot"
+            ]
+        },
+        "Redding": {
+            "term": "Redding",
+            "passage": "Redding is a city in and the county seat of Shasta County, California, United States. It is located in the northern part of the state. The population was 92,062 as of the 2010 census, up from 89,862 at the 2000 census. Redding is the largest city in the Shasta Cascade region, and it is also the largest city in the region north of Sacramento and west of Reno. The city is named after Benjamin Redding, a pioneer who settled in the area in the 1870s. Redding is known for its historic downtown, which features a number of buildings from the late 19th and early 20th centuries. The city is also home to the Turtle Bay Exploration Park, a 300-acre (1.2 km²) park that includes a museum, botanical gardens, and a wildlife center. Redding is located near Mount Shasta, a prominent peak in the Cascade Range. The city is also near the Trinity River, which is popular for fishing and boating. Redding is served by the Redding Municipal Airport, which offers flights to several destinations in California and Oregon. Redding is a center for agriculture in the region, with crops such as almonds, grapes, and livestock being produced in the surrounding area. The city is also home to several manufacturing and distribution centers, including a large Kraft Foods plant. In recent years, Redding has experienced significant growth, with new housing developments and businesses opening throughout the city. The city has also invested in infrastructure improvements, including the construction of a new downtown library and the renovation of the historic Cascade Theatre.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the county in California where Redding is located?  Answer: Shasta County.",
+                    "answer": "Shasta County",
+                    "explanation": "The name of the county in California where Redding is located is Shasta County."
+                },
+                {
+                    "question": "What has been the recent trend in population growth in Redding?",
+                    "answer": "recent years",
+                    "explanation": "According to the passage, Redding has experienced significant growth in recent years. The population was 92,062 as of the 2010 census, up from 89,862 at the 2000 census. This indicates that the city has been growing at a steady rate over the past decade."
+                },
+                {
+                    "question": "What is the name of the region where Redding is the largest city, and what is the name of the mountain located near the city?",
+                    "answer": "Shasta Cascade",
+                    "explanation": "The region where Redding is the largest city is called the Shasta Cascade region. The mountain located near the city is Mount Shasta, a prominent peak in the Cascade Range."
+                },
+                {
+                    "question": "What is the name of the theatre in Redding where the annual production of 'The Nutcracker' takes place? Answer: Cascade Theatre.",
+                    "answer": "Cascade Theatre",
+                    "explanation": "The name of the theatre in Redding where the annual production of 'The Nutcracker' takes place is the Cascade Theatre."
+                },
+                {
+                    "question": "What is the name of the mountain that is visible from Redding?     Answer: Mount Shasta.",
+                    "answer": "Mount Shasta",
+                    "explanation": "The mountain that is visible from Redding is Mount Shasta."
+                },
+                {
+                    "question": "What is the location of Redding?  Answer: United States.",
+                    "answer": "United States",
+                    "explanation": "Redding is located in the United States."
+                },
+                {
+                    "question": "What is the name of the river that is popular for fishing and boating near Redding, according to the passage?",
+                    "answer": "the Trinity River",
+                    "explanation": "The river that is popular for fishing and boating near Redding, according to the passage, is the Trinity River."
+                }
+            ],
+            "hops": [
+                "Megan Rapinoe",
+                "Redding"
+            ]
+        }
+    }
+}

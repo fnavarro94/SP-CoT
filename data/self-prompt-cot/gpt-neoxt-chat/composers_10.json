@@ -1,0 +1,612 @@
+{
+    "first_hops": {
+        "Johann Sebastian Bach": {
+            "term": "Johann Sebastian Bach",
+            "passage": "Johann Sebastian Bach (/ˈbɑːk/, /bæk/; German: [ˈɡoːfʁɔnt ˈseːbəɐnt ˈbax]; 21 March 1685 – 28 July 1750) was a German composer and musician of the Baroque period. He is widely regarded as one of the greatest composers of all time. Bach's prolific and wide-ranging output comprises more than 6,000 compositions, including sacred and secular vocal music, choral and orchestral works, and works for solo violin and solo keyboard. Bach wrote both sacred and secular music, including many of the standards of the German and international repertories. He was a proficient player of the viola da gamba, recorder, violin, and clavier (harpsichord), and was an important figure in the development of the piano. His music integrates elements from different musical traditions of his time, including Italian opera and French dance music. He was also greatly admired during his lifetime, and was one of the most influential musicians of the 18th century. The majority of Bach's music is published in standardized editions, making it readily available to performers and audiences today. Bach's influence on music is pervasive and transcends genres; Johann Strauss II's Waltz in A Flat Major is one of his most famous musical descendants.",
+            "qae_pairs": [
+                {
+                    "question": "When did Johann Sebastian Bach die?",
+                    "answer": "28 July 1750",
+                    "explanation": "Johann Sebastian Bach died on 28 July 1750."
+                },
+                {
+                    "question": "When was Johann Sebastian Bach born?",
+                    "answer": "21 March 1685",
+                    "explanation": "Johann Sebastian Bach was born on 21 March 1685."
+                }
+            ],
+            "hops": [
+                "Ludwig van Beethoven",
+                "Johann Sebastian Bach"
+            ]
+        },
+        "Wolfgang Amadeus Mozart": {
+            "term": "Wolfgang Amadeus Mozart",
+            "passage": "Wolfgang Amadeus Mozart ( ; 27 January 1756 -- 5 December 1791) was an Austrian composer and pianist of the Classical era. He composed mainly for the piano, but also wrote a significant amount of symphonies, concertos, operas, and chamber music. He is widely considered one of the greatest and most influential musicians of all time.",
+            "qae_pairs": [
+                {
+                    "question": "When was Wolfgang Amadeus Mozart born?",
+                    "answer": "27 January 1756",
+                    "explanation": "Wolfgang Amadeus Mozart was born on 27 January 1756."
+                }
+            ],
+            "hops": [
+                "Wolfgang Amadeus Mozart"
+            ]
+        },
+        "Ludwig van Beethoven": {
+            "term": "Ludwig van Beethoven",
+            "passage": "Ludwig van Beethoven (German: [ˈlʊdv̩tˌbɛθfən]; 1770–1827), nicknamed LvB, was a German composer and pianist who is widely regarded as a pivotal figure in the development of Western art music. He was born in Bonn into a musically active family of teachers; his father was a court musician, and his younger brothers became professional musicians as well. At an early age, he displayed a talent for music that was evident even to his teachers, and his father arranged for him to study with Antonio Salieri, the foremost composer in Vienna. Salieri recognized Beethoven's talent and dedicated his time to teaching the boy, hoping to make a professional musician out of him. In Vienna, the 17-year-old Beethoven was exposed to the music of Johann Sebastian Bach and Georg Philipp Telemann, and he began to compose his own music. He was profoundly influenced by Johann Sebastian Bach, whose music he came to regard as the pinnacle of perfection. In 1792, Beethoven's father died suddenly and his financial support ended. He was forced to leave Vienna, and he began a period of wandering during which he composed some of his best-known works, including the \"Appassionata\" and \"Waldhorn\" piano sonatas and the \"Missa Solemnis\".",
+            "qae_pairs": [
+                {
+                    "question": "Where was Beethoven born?",
+                    "answer": "Bonn",
+                    "explanation": "Ludwig van Beethoven was born in Bonn, Germany."
+                },
+                {
+                    "question": "Which year did Ludwig van Beethoven's father die?",
+                    "answer": "1792",
+                    "explanation": "Ludwig van Beethoven's father died in 1792."
+                },
+                {
+                    "question": "Which work was composed by Ludwig van Beethoven?",
+                    "answer": "the \"Missa Solemnis",
+                    "explanation": "The Missa Solemnis was composed by Ludwig van Beethoven."
+                },
+                {
+                    "question": "Who was the teacher of Ludwig van Beethoven?",
+                    "answer": "Johann Sebastian Bach",
+                    "explanation": "Johann Sebastian Bach was the teacher of Ludwig van Beethoven."
+                },
+                {
+                    "question": "What year was Ludwig van Beethoven born?",
+                    "answer": "1770–1827",
+                    "explanation": "Ludwig van Beethoven was born in 1770–1827."
+                }
+            ],
+            "hops": [
+                "Ludwig van Beethoven"
+            ]
+        },
+        "Joseph Haydn": {
+            "term": "Joseph Haydn",
+            "passage": "Joseph Haydn (1732–1809) was an Austrian composer and a prominent member of the Classical period. He is regarded as one of the most important composers in the Western classical tradition, alongside such figures as Mozart and Beethoven. Haydn was born in Rohrau, Lower Austria, to a large and musically talented family. He began his career as a child prodigy, touring throughout Europe with his brother Michael as keyboard players with the orchestra at the Viennese court. In 1759, he married Anna Maria Rosalia Bianca, the niece of his first employer, and settled in Vienna. There Haydn composed prolifically, and by 1790 was recognized as one of the most important composers of his time. He was appointed as the court composer for the Habsburg monarchy and composed many works in the service of the nobility. His most celebrated period was from 1790 to 1805, when he composed his oratorios and operas. He died in Vienna at the age of 77. Haydn's music covers a broad stylistic range. In his early years, he wrote mainly divertimentos, including symphonies, chamber music, and piano sonatas. In his middle years, he began to write more serious music in the form of string quartets, symphonies, and other large-scale forms.",
+            "qae_pairs": [
+                {
+                    "question": "What was the last year that Joseph Haydn lived?",
+                    "answer": "1790 to 1805",
+                    "explanation": "Joseph Haydn was born in 1732 and died in 1790 to 1805."
+                },
+                {
+                    "question": "Which of the following is NOT a sibling of Joseph Haydn?",
+                    "answer": "Michael",
+                    "explanation": "Joseph Haydn (1732–1809) was an Austrian composer and a prominent member of the Classical period. He is regarded as one of the most important composers in the Western classical tradition, alongside such figures as Mozart and Beethoven. Haydn was born in Rohrau, Lower Austria, to a large and musically talented family. He began his career as a child prodigy, touring throughout Europe with his brother Michael as keyboard players with the orchestra at the Viennese court. In 1759, he married Anna Maria Rosalia Bianca, the niece of his first employer, and settled in Vienna. There Hay"
+                },
+                {
+                    "question": "How old was Joseph Haydn when he died?",
+                    "answer": "the age of 77",
+                    "explanation": "Joseph Haydn was born in 1732, and died in 1809, at the age of 77."
+                },
+                {
+                    "question": "Where was Joseph Haydn born?",
+                    "answer": "Rohrau",
+                    "explanation": "Joseph Haydn was born in Rohrau, Lower Austria, to a large and musically talented family."
+                },
+                {
+                    "question": "Who was the wife of Joseph Haydn?",
+                    "answer": "Anna Maria Rosalia Bianca",
+                    "explanation": "Anna Maria Rosalia Bianca was the wife of Joseph Haydn."
+                },
+                {
+                    "question": "What year did Haydn marry?",
+                    "answer": "1759",
+                    "explanation": "Haydn married in 1759."
+                }
+            ],
+            "hops": [
+                "Joseph Haydn"
+            ]
+        },
+        "Franz Schubert": {
+            "term": "Franz Schubert",
+            "passage": "Franz Schubert (31 January 1797 – 19 November 1828) was a prolific Austrian composer. He is among the best-known and most influential of the classical era. He is also among the most frequently performed of the classical composers, and is frequently featured in classical radio and television programming. Schubert composed over 1000 works, including lieder, choral works, symphonies, piano sonatas, and a large body of instrumental music. He wrote most of his output between 1814 and his early death at age 31, but he continued to compose and revise up until a month before his death, and some of his later works have been shown to be substantially complete as early as 1822, when Schubert was only 17. Schubert's music is notable for its grace and beauty, and for its use of traditional musical forms. He was a child prodigy, able to play a wide variety of musical instruments, but he did not begin composing seriously until his late teenage years, and he did not begin to take piano lessons until he was 12. He composed prolifically throughout his short life, and he composed some of his works in a wide range of musical forms, including opera, art songs, sonatas, symphonies, masses, and choral music. Schubert's music is admired for its gentle lyricism and melodic gift, as well as its contrapuntal skill and use of traditional forms.",
+            "qae_pairs": [
+                {
+                    "question": "Which year was the composer born in?",
+                    "answer": "between 1814",
+                    "explanation": "Franz Schubert was born in 1797"
+                },
+                {
+                    "question": "How old was Franz Schubert when he died?",
+                    "answer": "age 31",
+                    "explanation": "Franz Schubert (31 January 1797 – 19 November 1828) was a prolific Austrian composer who died at age 31."
+                },
+                {
+                    "question": "What is the date of birth of the person who was a prolific Austrian composer?",
+                    "answer": "31 January 1797",
+                    "explanation": "Franz Schubert was born on 31 January 1797."
+                },
+                {
+                    "question": "What is the date of death of the composer who wrote the music that is frequently featured in classical radio and television programming?",
+                    "answer": "19 November 1828",
+                    "explanation": "Franz Schubert (31 January 1797 – 19 November 1828) was a prolific Austrian composer. He is among the best-known and most influential of the classical era. He is also among the most frequently performed of the classical composers, and is frequently featured in classical radio and television programming. Schubert composed over 1000 works, including lieder, choral works, symphonies, piano sonatas, and a large body of instrumental music. He wrote most of his output between 1814 and his early death at age 31, but he continued to compose and revise up until a month before his death, and some of his later works"
+                },
+                {
+                    "question": "How old was Franz Schubert when he began composing?",
+                    "answer": "as early as 1822",
+                    "explanation": "Franz Schubert was a child prodigy, able to play a wide variety of musical instruments, but he did not begin composing seriously until his late teenage years, and he did not begin to take piano lessons until he was 12. He composed prolifically throughout his short life, and he composed some of his works in a wide range of musical forms, including opera, art songs, sonatas, symphonies, masses, and choral music. Schubert's music is admired for its gentle lyricism and melodic gift, as well as its contrapuntal skill and use of traditional forms."
+                }
+            ],
+            "hops": [
+                "Franz Schubert"
+            ]
+        },
+        "Fr": {
+            "term": "Fr",
+            "passage": "Fr: is a programming language designed for functional and declarative programming, and it is the core language of the programming language Inferno. It is a dialect of Lisp, but with a syntax closer to that of Standard ML.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the programming language designed for functional and declarative programming?",
+                    "answer": "Inferno",
+                    "explanation": "Inferno is a programming language designed for functional and declarative programming."
+                }
+            ],
+            "hops": [
+                "Fr"
+            ]
+        },
+        "Franz Liszt": {
+            "term": "Franz Liszt",
+            "passage": "Franz Liszt (Hungarian: Ferenc Liszt, pronounced [ˈfɛ�ʁɛnt lɪʃts]; 25 September [1] 1811 – 29 September 1886) was a Hungarian composer, pianist, and conductor. He is widely regarded as one of the greatest and most prolific composers of piano music during the late Romantic era. His virtuosic piano works, which include many of the most popular pieces for the instrument, remain in high demand for concert performances, while his larger-scale works for solo piano, choral, and orchestra, including twelve symphonies, remain popular among concert-goers and recording audiences. Liszt was also an influential teacher who mentored many important composers, including Johannes Brahms, Richard Wagner, Bedřich Smetana, and Antonín Dvořák. Liszt was born in Raiding, Hungary, to a Hungarian mother and an Italian father, both of whom were teachers. He showed musical talent at a young age and began piano lessons with Carl Czerny at the age of five. At nine, he was sent to Vienna to continue his studies with Aloys Fürst, and at thirteen he entered the Royal Academy of Music, where one of his teachers was Johann Peter Pixis. He began composing from an early age, and by the age of fourteen had composed a full-scale opera.",
+            "qae_pairs": [
+                {
+                    "question": "What is the date of birth of the person who was born in Raiding, Hungary?",
+                    "answer": "25 September",
+                    "explanation": "Franz Liszt was born on 25 September 1811."
+                },
+                {
+                    "question": "What was the name of the composer who was born in the same year as Franz Liszt?",
+                    "answer": "Johannes Brahms",
+                    "explanation": "Johannes Brahms was born in 1833, the same year as Franz Liszt."
+                },
+                {
+                    "question": "Who was Franz Liszt's teacher?",
+                    "answer": "Johann Peter Pixis",
+                    "explanation": "Franz Liszt was taught by his father, Aloys Fürst, and Johann Peter Pixis."
+                },
+                {
+                    "question": "Where did Franz Liszt go to school?",
+                    "answer": "the Royal Academy of Music",
+                    "explanation": "Franz Liszt was born in Raiding, Hungary, to a Hungarian mother and an Italian father, both of whom were teachers. He showed musical talent at a young age and began piano lessons with Carl Czerny at the age of five. At nine, he was sent to Vienna to continue his studies with Aloys Fürst, and at thirteen he entered the Royal Academy of Music, where one of his teachers was Johann Peter Pixis. He began composing from an early age, and by the age of fourteen had composed a full-scale opera."
+                },
+                {
+                    "question": "Where was Franz Liszt born?",
+                    "answer": "Hungary",
+                    "explanation": "Franz Liszt was born in Hungary."
+                }
+            ],
+            "hops": [
+                "Franz Liszt"
+            ]
+        },
+        "Richard Wagner": {
+            "term": "Richard Wagner",
+            "passage": "Richard Wagner (German: [ˈʁɪçk ˈvaɪɡn̩]; 7 May 1813 – 13 February 1883) was a German composer, theatre director, and polemicist. He is widely regarded as the greatest composer of opera in the German tradition. Wagner wrote more than twenty-four operas, of which the best known is Der Ring des Nibelungen (The Ring of the Nibelung). Wagner's music is notable for its development of Romantic music traditions, use of leitmotifs and pioneering use of music drama. His works are frequently performed in concert and in opera productions around the world, especially in Germany. Wagner was a prominent German nationalist who became an outspoken critic of democracy and liberalism, and of the policies of the German Chancellor Otto von Bismarck. He was also a devout Christian and a strong advocate of German nationalism, anti-semitism, and anti-communism. Wagner's prodigious musical and literary output has had a profound influence on composers, musicologists and philosophers, and his ideas about opera and art have been influential in the 20th and 21st centuries. Wagner was born into a family of actors and travelled widely during his childhood. He received early musical education in piano and violin and, from 1831, attended the University of Leipzig, where he studied theology.",
+            "qae_pairs": [
+                {
+                    "question": "Which century was the last one in which Wagner's ideas about opera and art were influential?",
+                    "answer": "the 20th and 21st centuries",
+                    "explanation": "Wagner's ideas about opera and art were influential in the 20th and 21st centuries."
+                },
+                {
+                    "question": "What is the birth date of the person who wrote the opera \"Der Ring des Nibelungen\"?",
+                    "answer": "7 May 1813",
+                    "explanation": "Richard Wagner was born on 7 May 1813."
+                },
+                {
+                    "question": "What is the name of the opera that is the most famous of Richard Wagner's works?",
+                    "answer": "Der Ring des Nibelungen",
+                    "explanation": "Richard Wagner was a German composer, theatre director, and polemicist. He is widely regarded as the greatest composer of opera in the German tradition. Wagner wrote more than twenty-four operas, of which the best known is Der Ring des Nibelungen (The Ring of the Nibelung). Wagner's music is notable for its development of Romantic music traditions, use of leitmotifs and pioneering use of music drama. His works are frequently performed in concert and in opera productions around the world, especially in Germany. Wagner was a prominent German nationalist who became an outspoken critic of democracy and liberalism, and of the"
+                },
+                {
+                    "question": "Who was the Chancellor of Germany during the time that Richard Wagner was a prominent German nationalist?",
+                    "answer": "Otto von Bismarck",
+                    "explanation": "Otto von Bismarck"
+                },
+                {
+                    "question": "Where was Richard Wagner born?",
+                    "answer": "Germany",
+                    "explanation": "Richard Wagner was born in Germany."
+                },
+                {
+                    "question": "Where did Richard Wagner study?",
+                    "answer": "the University of Leipzig",
+                    "explanation": "Richard Wagner was born into a family of actors and travelled widely during his childhood. He received early musical education in piano and violin and, from 1831, attended the University of Leipzig, where he studied theology."
+                },
+                {
+                    "question": "What year did Richard Wagner start his studies at the University of Leipzig?",
+                    "answer": "1831",
+                    "explanation": "Richard Wagner was born into a family of actors and travelled widely during his childhood. He received early musical education in piano and violin and, from 1831, attended the University of Leipzig, where he studied theology."
+                }
+            ],
+            "hops": [
+                "Richard Wagner"
+            ]
+        },
+        "Claude Debussy": {
+            "term": "Claude Debussy",
+            "passage": "Claude Debussy (French: [klud zɑ bswi]; 25 December 1862 – 25 March 1918) was a French composer and pianist. He is considered a leading figure in the development of French musical impressionism. His work has had a significant influence on many composers, including Arnold Schoenberg and Maurice Ravel.",
+            "qae_pairs": [
+                {
+                    "question": "When was Claude Debussy born?",
+                    "answer": "25 December 1862",
+                    "explanation": "Claude Debussy was born on 25 December 1862."
+                },
+                {
+                    "question": "When was the death of Claude Debussy?",
+                    "answer": "25 March 1918",
+                    "explanation": "Claude Debussy died on 25 March 1918."
+                }
+            ],
+            "hops": [
+                "Claude Debussy"
+            ]
+        },
+        "Igor Stravinsky": {
+            "term": "Igor Stravinsky",
+            "passage": "Stravinsky was born in 1882 in Oranienbaum, Russian Empire (now Svetlogorsk, Russia) and died in 1971 in Nice. He was a Russian-French composer and pianist. He is considered one of the most influential composers of the 20th century.",
+            "qae_pairs": [
+                {
+                    "question": "What is the location of the composer who was born in 1882?",
+                    "answer": "Svetlogorsk",
+                    "explanation": "Stravinsky was born in 1882 in Svetlogorsk, Russia."
+                },
+                {
+                    "question": "When was Igor Stravinsky born?",
+                    "answer": "1971",
+                    "explanation": "Igor Stravinsky was born in 1971."
+                },
+                {
+                    "question": "What is the location of Igor Stravinsky?",
+                    "answer": "Oranienbaum",
+                    "explanation": "Igor Stravinsky was born in 1882 in Oranienbaum, Russian Empire (now Svetlogorsk, Russia) and died in 1971 in Nice."
+                },
+                {
+                    "question": "What country was Igor Stravinsky born in?",
+                    "answer": "Russian Empire",
+                    "explanation": "Igor Stravinsky was born in 1882 in Oranienbaum, Russian Empire (now Svetlogorsk, Russia) and died in 1971 in Nice."
+                },
+                {
+                    "question": "What is the name of the person who was born in 1882?",
+                    "answer": "Stravinsky",
+                    "explanation": "Stravinsky was born in 1882 in Oranienbaum, Russian Empire (now Svetlogorsk, Russia) and died in 1971 in Nice. He was a Russian-French composer and pianist. He is considered one of the most influential composers of the 20th century."
+                }
+            ],
+            "hops": [
+                "Igor Stravinsky"
+            ]
+        }
+    },
+    "second_hops": {
+        "Bonn": {
+            "term": "Bonn",
+            "passage": "Bonn (German pronunciation: [ˈbɔn̩]; German: [ˈbɔːɐ̯n̩] ) is the capital and largest city of the German federal state of North Rhine-Westphalia and the fifth-largest city in Germany with about half a million inhabitants. It is located in the Rhine-Ruhr metropolitan area and is the seat of the government of the state as well as of the Federal Republic of Germany.",
+            "qae_pairs": [
+                {
+                    "question": "What is the capital of the state that contains the city of Bonn?",
+                    "answer": "the Federal Republic of Germany",
+                    "explanation": "The city of Bonn is the capital and largest city of the German federal state of North Rhine-Westphalia and the fifth-largest city in Germany with about half a million inhabitants. It is located in the Rhine-Ruhr metropolitan area and is the seat of the government of the state as well as of the Federal Republic of Germany."
+                }
+            ],
+            "hops": [
+                "Ludwig van Beethoven",
+                "Bonn"
+            ]
+        },
+        "the \"Missa Solemnis": {
+            "term": "the \"Missa Solemnis",
+            "passage": "The Missa Solemnis is a setting of the Ordinary of the Mass, composed by Ludwig van Beethoven in 1807, on the occasion of his patron, Archduke Rudolph's, elevation to the rank of Holy Roman Emperor in the Imperial Chapel at Vienna.",
+            "qae_pairs": [
+                {
+                    "question": "Which year did Beethoven set the \"Missa Solemnis\"?",
+                    "answer": "1807",
+                    "explanation": "The Missa Solemnis was composed by Ludwig van Beethoven in 1807, on the occasion of his patron, Archduke Rudolph's, elevation to the rank of Holy Roman Emperor in the Imperial Chapel at Vienna."
+                }
+            ],
+            "hops": [
+                "Ludwig van Beethoven",
+                "the \"Missa Solemnis"
+            ]
+        },
+        "Johann Sebastian Bach": {
+            "term": "Johann Sebastian Bach",
+            "passage": "Johann Sebastian Bach (/ˈbɑːk/, /bæk/; German: [ˈɡoːfʁɔnt ˈseːbəɐnt ˈbax]; 21 March 1685 – 28 July 1750) was a German composer and musician of the Baroque period. He is widely regarded as one of the greatest composers of all time. Bach's prolific and wide-ranging output comprises more than 6,000 compositions, including sacred and secular vocal music, choral and orchestral works, and works for solo violin and solo keyboard. Bach wrote both sacred and secular music, including many of the standards of the German and international repertories. He was a proficient player of the viola da gamba, recorder, violin, and clavier (harpsichord), and was an important figure in the development of the piano. His music integrates elements from different musical traditions of his time, including Italian opera and French dance music. He was also greatly admired during his lifetime, and was one of the most influential musicians of the 18th century. The majority of Bach's music is published in standardized editions, making it readily available to performers and audiences today. Bach's influence on music is pervasive and transcends genres; Johann Strauss II's Waltz in A Flat Major is one of his most famous musical descendants.",
+            "qae_pairs": [
+                {
+                    "question": "When did Johann Sebastian Bach die?",
+                    "answer": "28 July 1750",
+                    "explanation": "Johann Sebastian Bach died on 28 July 1750."
+                },
+                {
+                    "question": "When was Johann Sebastian Bach born?",
+                    "answer": "21 March 1685",
+                    "explanation": "Johann Sebastian Bach was born on 21 March 1685."
+                }
+            ],
+            "hops": [
+                "Ludwig van Beethoven",
+                "Johann Sebastian Bach"
+            ]
+        },
+        "Michael": {
+            "term": "Michael",
+            "passage": "Michael Joseph Jackson (August 29, 1958 – June 25, 2009) was an American singer, songwriter, and dancer. He was a member of the Jackson family, the founder of the Jackson 5. Jackson was a pioneer of popular music and contemporary pop culture, and is often credited with popularizing the use of sequencers, synthesizers and digital music technology in mainstream music. He was also a major figure of 20th-century popular music and is often referred to as \"the King of Pop\". He was a figure of controversy and is considered one of the most significant cultural icons of the 20th century. Jackson's music and public performances incorporated themes of joy, love, and liberation, and he was noted for his eccentric and sometimes controversial behavior and stagecraft. He was inducted into the Rock and Roll Hall of Fame twice. Jackson was the first artist to have two number-one albums on the Billboard 200 simultaneously, as well as the first to achieve eight number-one singles on the \"Billboard\" Hot 100. He was also the first artist to have a number one single on \"Billboard\"'s Hot 100 in five different decades. Jackson was the first artist to have a Top 40 hit on the Billboard Hot 100 dated from August 1969 to June 1970, a span of nearly five and a half years, and the first to have a number one single on the UK singles chart dated from March 1976 to November 1991, a span of nearly 26 years.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the group that Michael Jackson was a member of?",
+                    "answer": "the Jackson 5",
+                    "explanation": "Michael Joseph Jackson (August 29, 1958 – June 25, 2009) was an American singer, songwriter, and dancer. He was a member of the Jackson family, the founder of the Jackson 5. Jackson was a pioneer of popular music and contemporary pop culture, and is often credited with popularizing the use of sequencers, synthesizers and digital music technology in mainstream music. He was also a major figure of 20th-century popular music and is often referred to as the King of Pop. He was a figure of controversy and is considered one of the most significant cultural icons of the 20th century. Jackson's music and"
+                },
+                {
+                    "question": "How many years did Michael Jackson have a number one single on the UK singles chart?",
+                    "answer": "nearly 26 years",
+                    "explanation": "Michael Jackson was the first artist to have a number one single on the UK singles chart dated from March 1976 to November 1991, a span of nearly 26 years."
+                },
+                {
+                    "question": "Which of the two following dates is the birthdate for Michael Jackson?\n",
+                    "answer": "August 29, 1958 – June 25, 2009",
+                    "explanation": "Michael Joseph Jackson was born on August 29, 1958 – June 25, 2009."
+                },
+                {
+                    "question": "Which country did Michael Jackson have a number one single in for the longest period of time?",
+                    "answer": "UK",
+                    "explanation": "Michael Jackson was the first artist to have a number one single on the UK singles chart dated from March 1976 to November 1991, a span of nearly 26 years."
+                }
+            ],
+            "hops": [
+                "Joseph Haydn",
+                "Michael"
+            ]
+        },
+        "Rohrau": {
+            "term": "Rohrau",
+            "passage": "The Rohrau is a breed of dog from Austria. It is a small, hardy hunting breed that is used to hunt hares and other small game. The Rohrau is a member of the gun dog family, and is closely related to the Cão de Castro Laboreiro, the Briard, the Bergamasco, the Italian Spinone, and the Pharaoh Hound.",
+            "qae_pairs": [
+                {
+                    "question": "What place is Rohrau from?\n",
+                    "answer": "Austria",
+                    "explanation": "The Rohrau is a breed of dog from Austria."
+                }
+            ],
+            "hops": [
+                "Joseph Haydn",
+                "Rohrau"
+            ]
+        },
+        "Anna Maria Rosalia Bianca": {
+            "term": "Anna Maria Rosalia Bianca",
+            "passage": "Anna Maria Rosalia \"Nono\" Bianca (18 February 1902 – 17 February 1989) was an Italian actress and singer, known for her work in the cinema of Italy and the United States. She was also a noted stage actress, and was the first wife of the Italian composer and conductor Arturo Toscanini.",
+            "qae_pairs": [
+                {
+                    "question": "Which of the following is NOT correct about Anna Maria Rosalia Bianca?",
+                    "answer": "Arturo Toscanini",
+                    "explanation": "Arturo Toscanini"
+                },
+                {
+                    "question": "How old was Anna Maria Rosalia Bianca when she died?",
+                    "answer": "17 February 1989",
+                    "explanation": "Anna Maria Rosalia Bianca was born on 18 February 1902 and died on 17 February 1989."
+                }
+            ],
+            "hops": [
+                "Joseph Haydn",
+                "Anna Maria Rosalia Bianca"
+            ]
+        },
+        "Inferno": {
+            "term": "Inferno",
+            "passage": "Inferno (Dante Alighieri) is a long narrative poem by Dante Alighieri, written in terza rima. It is an allegorical depiction of the journey of Dante through the nine circles of Hell, guided by the Roman poet Virgil. The first part of the poem, Inferno, describes Dante's journey through the nine circles of Hell, while the second part, Purgatorio, describes his ascent through Purgatory. The poem is structured as a quest, with Dante setting out from the city of Florence and guided by the character Virgil through the circles of Hell.",
+            "qae_pairs": [
+                {
+                    "question": "Who wrote Inferno?",
+                    "answer": "Dante Alighieri",
+                    "explanation": "Inferno is a long narrative poem by Dante Alighieri, written in terza rima."
+                }
+            ],
+            "hops": [
+                "Fr",
+                "Inferno"
+            ]
+        },
+        "Johannes Brahms": {
+            "term": "Johannes Brahms",
+            "passage": "Johannes Brahms (German: [hoʊˈʁɛms]; Hungarian: [brɒˈhɛms]; 8 May 1833 – 3 April 1897) was a German composer and pianist. His music, which is marked by harmonic complexity and a distinctive, often melancholy tone, has exerted an enduring influence on composers in the Romantic tradition. [note 1] He composed more than a thousand works, making him among the most prolific composers of the 19th century, and his popularity has endured, making him one of the most frequently performed and recorded of all classical composers.",
+            "qae_pairs": [
+                {
+                    "question": "What was the year of birth of Johannes Brahms?\n",
+                    "answer": "8 May 1833",
+                    "explanation": "Johannes Brahms was born on 8 May 1833."
+                }
+            ],
+            "hops": [
+                "Franz Liszt",
+                "Johannes Brahms"
+            ]
+        },
+        "Hungary": {
+            "term": "Hungary",
+            "passage": "Hungary (Hungarian: Magyarország, pronounced [ˈmɒɟaɾɔʃˠaʁtsaː], romanized: [ˈmɒɟaɾɔːʃˠaʁtsaː], lit. 'land of the Magyars'), officially the Republic of Hungary (Hungarian: Magyarországi Demokrácia, lit. \"Republic of the Hungarians\"), is a landlocked country in Central Europe. It is bordered by Slovakia to the west, Austria to the southeast, Slovenia to the southwest, Romania to the north, and Serbia to the northeast.",
+            "qae_pairs": [
+                {
+                    "question": "Which country is to the northeast of Hungary?",
+                    "answer": "Serbia",
+                    "explanation": "Serbia is to the northeast of Hungary."
+                },
+                {
+                    "question": "Which country is to the east of Hungary?\n",
+                    "answer": "Slovakia",
+                    "explanation": "Slovakia"
+                }
+            ],
+            "hops": [
+                "Franz Liszt",
+                "Hungary"
+            ]
+        },
+        "Der Ring des Nibelungen": {
+            "term": "Der Ring des Nibelungen",
+            "passage": "\"The cycle was first performed in four parts, under the direction of Richard Wagner at the Royal Opera House, Berlin, from 13 May to 7 June 1870. The first performance of the complete Ring cycle, in its entirety, was in 1876.",
+            "qae_pairs": [
+                {
+                    "question": "Which city is the home of the Der Ring des Nibelungen?\n",
+                    "answer": "Berlin",
+                    "explanation": "The cycle was first performed in four parts, under the direction of Richard Wagner at the Royal Opera House, Berlin, from 13 May to 7 June 1870. The first performance of the complete Ring cycle, in its entirety, was in 1876."
+                },
+                {
+                    "question": "What year was the first performance of Der Ring des Nibelungen?\n",
+                    "answer": "13 May to 7 June 1870",
+                    "explanation": "Der Ring des Nibelungen was first performed in four parts, under the direction of Richard Wagner at the Royal Opera House, Berlin, from 13 May to 7 June 1870. The first performance of the complete Ring cycle, in its entirety, was in 1876."
+                },
+                {
+                    "question": "Which of the following is true of the first performance of \"Der Ring des Nibelungen\"?\n",
+                    "answer": "1876",
+                    "explanation": "The first performance of the complete Ring cycle was in 1876."
+                }
+            ],
+            "hops": [
+                "Richard Wagner",
+                "Der Ring des Nibelungen"
+            ]
+        },
+        "Otto von Bismarck": {
+            "term": "Otto von Bismarck",
+            "passage": "Bismarck was born in the village of Bismarck, in the Duchy of Lauenburg, on the island of Rügen. The Bismarcks were a prominent family in Pomerania. His great-grandfather, Johann Wilhelm von Bismarck, served as Prime Minister of Prussia in the early 19th century. His grandfather, Otto Ludwig von Bismarck, was a Generalfeldmarshall and briefly Chancellor of Germany.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the island where Otto von Bismarck was born?",
+                    "answer": "Rügen",
+                    "explanation": "Otto von Bismarck was born in the village of Bismarck, on the island of Rügen."
+                },
+                {
+                    "question": "What is Otto von Bismarck's family name?\n",
+                    "answer": "Otto Ludwig von Bismarck",
+                    "explanation": "Bismarck was born in the village of Bismarck, in the Duchy of Lauenburg, on the island of Rügen. The Bismarcks were a prominent family in Pomerania. His great-grandfather, Johann Wilhelm von Bismarck, served as Prime Minister of Prussia in the early 19th century. His grandfather, Otto Ludwig von Bismarck, was a Generalfeldmarshall and briefly Chancellor of Germany."
+                }
+            ],
+            "hops": [
+                "Richard Wagner",
+                "Otto von Bismarck"
+            ]
+        },
+        "Germany": {
+            "term": "Germany",
+            "passage": "Germany (German: Deutschland [ɛ̃ˌʔltsaːn], listen), officially the Federal Republic of Germany (German: Bundesrepublik Deutschland [ˈbʊndɐʁʏlprəˌʔlʏtç ˈdʁiːʃtʁɛ̃pʊblik]), is a country in Central Europe. It includes 16 constituent states, covers an area of, and has a largely temperate seasonal climate. With about 82 million inhabitants, Germany is the most populous member state of the European Union. After the United States, it is the second-largest country in Europe. Germany's capital and largest metropolis is Berlin. Other major cities include Hamburg, Munich, Cologne, and Frankfurt. About a quarter of the population lives in urban areas, the most in any EU country. Germany's major export industries include machinery, vehicles, chemicals, pharmaceuticals, and electrical equipment. Germany also has a strong automotive industry and is a global leader in aerospace. It also has one of the largest national railway systems in the world. The country has a very high standard of living and ranks third in the world in nominal GDP (gross domestic product) per capita, behind Qatar and Luxembourg.",
+            "qae_pairs": [
+                {
+                    "question": "What country has a population greater than that of Germany?\n",
+                    "answer": "Luxembourg",
+                    "explanation": "Luxembourg"
+                },
+                {
+                    "question": "What is the capital of Germany?",
+                    "answer": "Berlin",
+                    "explanation": "The Federal Republic of Germany is a country in Central Europe. It includes 16 constituent states, covers an area of, and has a largely temperate seasonal climate. With about 82 million inhabitants, Germany is the most populous member state of the European Union. After the United States, it is the second-largest country in Europe. Germany's capital and largest metropolis is Berlin. Other major cities include Hamburg, Munich, Cologne, and Frankfurt. About a quarter of the population lives in urban areas, the most in any EU country. Germany's major export industries include machinery, vehicles, chemicals, pharmaceuticals, and electrical equipment."
+                },
+                {
+                    "question": "What is the official name of Germany?\n",
+                    "answer": "Bundesrepublik Deutschland",
+                    "explanation": "The official name of Germany is Bundesrepublik Deutschland."
+                }
+            ],
+            "hops": [
+                "Richard Wagner",
+                "Germany"
+            ]
+        },
+        "the University of Leipzig": {
+            "term": "the University of Leipzig",
+            "passage": "The University of Leipzig, founded in 1409, is the second-oldest university in Germany, after the University of Heidelberg, and the oldest in Saxony. The University of Leipzig is a public research university in Leipzig, Saxony, Germany, with an enrollment of approximately 20,000 students and 3,600 faculty and academic staff. The university was founded in 1409 and is the second-oldest university in Germany, after the University of Heidelberg, and the oldest in Saxony.",
+            "qae_pairs": [
+                {
+                    "question": "Which country is the University of Leipzig located in?",
+                    "answer": "Germany",
+                    "explanation": "The University of Leipzig is located in Leipzig, Saxony, Germany."
+                },
+                {
+                    "question": "What year was the University of Leipzig founded?",
+                    "answer": "1409",
+                    "explanation": "The University of Leipzig was founded in 1409."
+                }
+            ],
+            "hops": [
+                "Richard Wagner",
+                "the University of Leipzig"
+            ]
+        },
+        "Oranienbaum": {
+            "term": "Oranienbaum",
+            "passage": "Oranienbaum (Russian: Орани́ненба́м, tr. Oranienbaum, IPA: [ˈoˈraːnʲiːnˠbɐ̯m̩]; also transliterated Oranienburg) is a Russian town and a former summer residence of the tsars, located on the eastern shore of the Gulf of Finland in Leningrad Oblast, about 40 km (25 mi) south-east of St. Petersburg. It is a popular tourist destination, with the former imperial residences open to the public.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the body of water that is located near Oranienbaum?",
+                    "answer": "the Gulf of Finland",
+                    "explanation": "Oranienbaum is a Russian town and a former summer residence of the tsars, located on the eastern shore of the Gulf of Finland in Leningrad Oblast, about 40 km (25 mi) south-east of St. Petersburg."
+                }
+            ],
+            "hops": [
+                "Igor Stravinsky",
+                "Oranienbaum"
+            ]
+        },
+        "Russian Empire": {
+            "term": "Russian Empire",
+            "passage": "The Tsardom of Russia (Russian: Росси́йская Ца́рдмоло́дь, tr. Russkaja tsardomloĭ), also known as the Russian Empire, was a state that existed from 1721, following the end of the Russo-Persian War of 1722–1723 and the Treaty of Georgievsk, until its dissolution in 1922. It was one of the largest empires in history, at its maximum reaching from the Baltic Sea in the north to the Pacific Ocean in the east, and from the North Atlantic Ocean in the west to Central and Eastern Europe and the Caucasus in the south. The Tsardom of Russia (\"Russian Tsardom\") was established after the dissolution of the Polish–Lithuanian Commonwealth in the aftermath of the Polish-Russian-Swedish War. The Tsardom was originally a union of lands of the former Rus' principalities, with its capital in Moscow, that was established under the leadership of the House of Romanov.",
+            "qae_pairs": [
+                {
+                    "question": "What year did the Russian Empire end?",
+                    "answer": "1922",
+                    "explanation": "The Russian Empire ended in 1922."
+                },
+                {
+                    "question": "What is a question about the Russian Empire that contains the term 'the North Atlantic Ocean'?\n",
+                    "answer": "the North Atlantic Ocean",
+                    "explanation": "The North Atlantic Ocean was the largest empire in history, at its maximum reaching from the Baltic Sea in the north to the Pacific Ocean in the east, and from the North Atlantic Ocean in the west to Central and Eastern Europe and the Caucasus in the south."
+                }
+            ],
+            "hops": [
+                "Igor Stravinsky",
+                "Russian Empire"
+            ]
+        },
+        "Stravinsky": {
+            "term": "Stravinsky",
+            "passage": "Igor Stravinsky ( /ˈstrɑvɪnʃəs/;[nb 1] Russian: Игорь Стравинссы;[nb 2] Russian pronunciation: (ˈstravinsʲɪs); 25 October [O.S. 6 October] 1882 – 8 September 1971) was a Russian-born French composer of the late Romantic period, who exerted enormous influence on the development of music in the 20th century. Stravinsky was a pioneer of the music composition that came to be known as \"neoclassicism\". His works include ballets, concerti, film scores, and chamber music.",
+            "qae_pairs": [
+                {
+                    "question": "What is the type of music that Igor Stravinsky composed?",
+                    "answer": "concerti",
+                    "explanation": "Igor Stravinsky composed concerti."
+                },
+                {
+                    "question": "What is the birth date of Igor Stravinsky?\n",
+                    "answer": "October] 1882",
+                    "explanation": "Igor Stravinsky (Russian: Игорь Стравинссы; 25 October [O.S. 6 October] 1882 – 8 September 1971) was a Russian-born French composer of the late Romantic period, who exerted enormous influence on the development of music in the 20th century. Stravinsky was a pioneer of the music composition that came to be known as neoclassicism."
+                },
+                {
+                    "question": "Write a question about the following passage\n\nIgor Stravinsky was born on the 25th of October, 1882 in Russia. He moved to France with his family when he was four and grew up there. He studied at the Paris Conservatoire and became a French citizen in 1920. He died on the 8",
+                    "answer": "O.S",
+                    "explanation": "The answer is O.S."
+                },
+                {
+                    "question": "How many years did Igor Stravinsky live?\n",
+                    "answer": "the 20th century",
+                    "explanation": "Igor Stravinsky was a Russian-born French composer of the late Romantic period, who exerted enormous influence on the development of music in the 20th century. Stravinsky was a pioneer of the music composition that came to be known as neoclassicism. His works include ballets, concerti, film scores, and chamber music."
+                }
+            ],
+            "hops": [
+                "Igor Stravinsky",
+                "Stravinsky"
+            ]
+        }
+    }
+}

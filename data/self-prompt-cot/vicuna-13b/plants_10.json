@@ -1,0 +1,742 @@
+{
+    "first_hops": {
+        "Sunflower": {
+            "term": "Sunflower",
+            "passage": "Sunflower is a plant that belongs to the family Asteraceae. It is native to the North American continent and has been cultivated for thousands of years by various indigenous cultures. Sunflower seeds are commonly used as a snack food, and sunflower oil is used in cooking and as a base for salad dressings. The sunflower plant is a tall, showy annual that can grow up to 30 feet (9 meters) tall. The leaves are a deep green color and are arranged in a spiral pattern around the stem. The flowers are large and bright yellow, with petals that are highly sensitive to touch and can move in response to wind. The flower heads are typically composed of many individual flowers that bloom in a pattern from the outer petals to the inner ones. Sunflower seeds are produced in the flower head and are surrounded by a hard, woody shell. When the seeds are mature, they are harvested and dried before being shelled. The seeds can be roasted, ground into a meal, or used to make oil. Sunflower oil is extracted from the seeds by pressing them, and it is commonly used in cooking and as a base for salad dressings. Sunflower plants are also used as a source of food for humans and animals. The leaves and stems are edible and can be cooked like spinach. The roots can be roasted and used as a coffee substitute. Sunflower seeds are a popular snack and are often sold in packaged form or as a garnish on salads and sandwiches. In addition to their culinary uses, sunflowers have a number of medicinal properties.",
+            "qae_pairs": [
+                {
+                    "question": "What is the length of time that sunflower cultivation has been practiced by indigenous cultures?",
+                    "answer": "thousands of years",
+                    "explanation": "The passage states that sunflower cultivation has been practiced by indigenous cultures for thousands of years. Therefore, the length of time that sunflower cultivation has been practiced by indigenous cultures is thousands of years."
+                },
+                {
+                    "question": "What is the family of the plant that is commonly known as Sunflower?",
+                    "answer": "Asteraceae",
+                    "explanation": "The family of the plant that is commonly known as Sunflower is Asteraceae."
+                }
+            ],
+            "hops": [
+                "Sunflower"
+            ]
+        },
+        "Rose": {
+            "term": "Rose",
+            "passage": "Rose is a common name for a flowering plant, often used as a synonym for the genus Rosa, which includes over 100 species. The name \"rose\" is also used as a color, derived from the flower. Roses are native to regions in Asia, Europe, and North America, and have been cultivated for their beauty and fragrance for thousands of years. They are often associated with love and romance, and are used in various cultural and religious traditions. Roses are also used for commercial purposes, such as for perfumes, cosmetics, and food.",
+            "qae_pairs": [
+                {
+                    "question": "What is the origin of the flower commonly known as 'Rose'?",
+                    "answer": "Asia",
+                    "explanation": "The flower commonly known as 'Rose' is believed to have originated in Asia."
+                },
+                {
+                    "question": "What is the name of the flowering plant described in the passage?",
+                    "answer": "Rosa",
+                    "explanation": "The name of the flowering plant described in the passage is Rosa."
+                },
+                {
+                    "question": "What is the time frame for the cultivation of roses?",
+                    "answer": "thousands of years",
+                    "explanation": "The cultivation of roses has been ongoing for thousands of years."
+                },
+                {
+                    "question": "What is the geographical region where Roses are native to?      input: Passage about Rose: Rose is a common name for a flowering plant, often used as a synonym for the genus Rosa, which includes over 100 species. The name \"rose\" is also used",
+                    "answer": "North America",
+                    "explanation": "The geographical region where Roses are native to is North America."
+                }
+            ],
+            "hops": [
+                "Rose"
+            ]
+        },
+        "Carrot": {
+            "term": "Carrot",
+            "passage": "Carrot is a root vegetable, usually orange in color, but can also be found in yellow, red, and purple varieties. It is one of the most widely cultivated and consumed vegetables in the world. Carrots are high in fiber, vitamins, and minerals, including vitamin A, potassium, and folate. They are also a good source of antioxidants. Carrots are native to the Middle East and South Asia, and have been cultivated for thousands of years. They were first introduced to Europe in the 13th century, and have since become a staple in many cuisines around the world. Carrots can be eaten raw or cooked, and are often used in salads, stews, soups, and roasted dishes. Carrots are also used as a medicinal herb in some cultures. They are believed to have a number of health benefits, including improving digestion, boosting the immune system, and reducing the risk of heart disease. Carrots are also used in cosmetics and personal care products, due to their high content of beta-carotene, which is converted to vitamin A in the body. Overall, carrots are a versatile and nutritious vegetable that can be enjoyed in a variety of ways. Whether eaten raw or cooked, carrots are a great addition to any healthy diet.",
+            "qae_pairs": [
+                {
+                    "question": "What is the native region of Carrot?",
+                    "answer": "the Middle East",
+                    "explanation": "The native region of Carrot is the Middle East."
+                },
+                {
+                    "question": "What is the time period for which carrots have been cultivated and consumed?",
+                    "answer": "thousands of years",
+                    "explanation": "According to the passage, carrots have been cultivated and consumed for thousands of years."
+                }
+            ],
+            "hops": [
+                "Carrot"
+            ]
+        },
+        "Tomato": {
+            "term": "Tomato",
+            "passage": "Tomato is a plant that is part of the nightshade family, Solanaceae. The species Solanum lycopersicum is the most commonly grown and eaten type of tomato. The fruit is a berry that is typically red, with a soft texture and a savory flavor. Tomatoes are grown in many countries and are used in a variety of dishes, including salads, sandwiches, soups, and pasta sauces. Tomatoes are native to South America, and were first cultivated by the Aztecs. They were brought to Europe in the 16th century by Spanish explorers, and quickly became popular in Italian cuisine. Today, tomatoes are grown all over the world, with the United States being one of the largest producers. Tomatoes are a good source of vitamins A and C, as well as potassium and folate. They are also low in calories and fat, making them a healthy addition to any diet. In addition to being eaten raw, tomatoes can also be cooked in a variety of ways, including roasting, grilling, and frying. Overall, tomatoes are a versatile and nutritious food that are enjoyed by people all over the world. Whether eaten raw or cooked, they add flavor and nutrition to many different dishes.",
+            "qae_pairs": [
+                {
+                    "question": "What country is the largest producer of tomatoes?",
+                    "answer": "the United States",
+                    "explanation": "According to the passage, the United States is one of the largest producers of tomatoes. Therefore, the answer to the question is the United States."
+                },
+                {
+                    "question": "What is the scientific family name of the tomato plant?",
+                    "answer": "Solanaceae",
+                    "explanation": "The scientific family name of the tomato plant is Solanaceae."
+                },
+                {
+                    "question": "What is the scientific name of the most commonly grown and eaten type of tomato?",
+                    "answer": "Solanum lycopersicum",
+                    "explanation": "The scientific name of the most commonly grown and eaten type of tomato is Solanum lycopersicum."
+                },
+                {
+                    "question": "What is the native land of tomatoes?",
+                    "answer": "South America",
+                    "explanation": "The passage states that tomatoes are native to South America. The species Solanum lycopersicum is the most commonly grown and eaten type of tomato, and they are grown in many countries and used in a variety of dishes. Tomatoes are a good source of vitamins A and C, as well as potassium and folate. They are also low in calories and fat, making them a healthy addition to any diet. Overall, tomatoes are a versatile and nutritious food that are enjoyed by people all over the world."
+                }
+            ],
+            "hops": [
+                "Tomato"
+            ]
+        },
+        "Lettuce": {
+            "term": "Lettuce",
+            "passage": "Lettuce is a leafy vegetable that is part of the plant family Asteraceae, which includes cabbage, artichokes, and daisies. It is a cool-season crop that is grown in many parts of the world, including Europe, North America, and Asia. Lettuce is a hardy plant that can withstand a range of temperatures, but it prefers cooler weather. Lettuce is a biennial plant, which means that it takes two years to complete its life cycle. In the first year, the plant grows a rosette of leaves and stores energy in a thick root. In the second year, the plant produces a tall stem with a flower head at the top. Lettuce is a versatile vegetable that can be eaten raw or cooked. It is a good source of vitamins A and C, as well as folate and potassium. Lettuce is also low in calories and fat, making it a healthy addition to any diet. There are many different types of lettuce, including romaine, butterhead, and leaf lettuce. Each type has its own unique flavor and texture. Romaine lettuce is crisp and slightly bitter, while butterhead lettuce is mild and sweet. Leaf lettuce is a bit more bitter than butterhead lettuce and has a slightly crisper texture. Lettuce is a popular ingredient in salads, sandwiches, and wraps. It is also used in soups, stews, and stir-fries.",
+            "qae_pairs": [
+                {
+                    "question": "What is the life cycle of lettuce?",
+                    "answer": "two years",
+                    "explanation": "The life cycle of lettuce is two years. In the first year, the plant grows a rosette of leaves and stores energy in a thick root. In the second year, the plant produces a tall stem with a flower head at the top."
+                },
+                {
+                    "question": "What plant family does Lettuce belong to?",
+                    "answer": "Asteraceae",
+                    "explanation": "Lettuce belongs to the plant family Asteraceae, which includes cabbage, artichokes, and daisies."
+                }
+            ],
+            "hops": [
+                "Lettuce"
+            ]
+        },
+        "Cucumber": {
+            "term": "Cucumber",
+            "passage": "Cucumber is a widely cultivated plant in the gourd family, Cucurbitaceae. It is a creeping vine that bears fruit, usually called a cucumber, but also includes its seeds. Cucumbers are typically long, cylindrical, and green, but can be found in a variety of colors, including yellow, orange, and even striped. They are a good source of vitamin C, potassium, and fiber. Cucumbers are native to India and Southeast Asia, and have been cultivated there for thousands of years. They were introduced to Europe by the ancient Greeks and Romans, and have been grown there since the 4th century. Today, cucumbers are grown on every continent except Antarctica, and are a staple in many cuisines around the world. Cucumbers can be grown in a variety of soils and climates, but prefer well-drained soil that is rich in organic matter. They require a lot of water, and can be grown in both hot and cool climates. Cucumbers are typically grown from seed, which can be started indoors or outdoors, depending on the climate. The plants are trained to grow up trellises or other supports, and can be pruned to encourage more fruit. Cucumbers can be eaten raw or cooked, and are used in a wide variety of dishes. They are often used in salads, sandwiches, and dips, but can also be pickled, fermented, or roasted. In some cuisines, cucumbers are used as a garnish or accompaniment to meat or fish dishes.",
+            "qae_pairs": [
+                {
+                    "question": "What is the native region of cucumber?",
+                    "answer": "Southeast Asia",
+                    "explanation": "The native region of cucumber is Southeast Asia."
+                },
+                {
+                    "question": "What is the continent where cucumbers are not grown?",
+                    "answer": "Antarctica",
+                    "explanation": "Antarctica is the continent where cucumbers are not grown."
+                },
+                {
+                    "question": "What is the native land of cucumber?",
+                    "answer": "India",
+                    "explanation": "The native land of cucumber is India."
+                },
+                {
+                    "question": "What is the native region of cucumber and how long have they been cultivated there?",
+                    "answer": "thousands of years",
+                    "explanation": "The native region of cucumber is India and Southeast Asia, and they have been cultivated there for thousands of years."
+                },
+                {
+                    "question": "What is the native region of cucumber and when was it introduced to Europe?",
+                    "answer": "the 4th century",
+                    "explanation": "The native region of cucumber is India and Southeast Asia, and it was introduced to Europe by the ancient Greeks and Romans during the 4th century."
+                }
+            ],
+            "hops": [
+                "Cucumber"
+            ]
+        },
+        "Pea": {
+            "term": "Pea",
+            "passage": "Pea is a type of legume that is commonly consumed as a vegetable. It is a small, round, and green vegetable that is often boiled or steamed and served as a side dish. Peas are native to the Middle East and South Asia, and they have been cultivated for thousands of years. They are a good source of protein, fiber, vitamins, and minerals. Pea plants are easy to grow and can be planted in the spring or fall. They prefer cool weather and can be grown in most types of soil. Peas are typically planted in rows, and the seeds are spaced about an inch apart. The plants grow quickly and produce small, green pods that contain the peas. Pea pods can be eaten fresh or dried, and they are often used in soups, stews, and salads. Peas can also be frozen or canned for long-term storage. There are many different varieties of peas, including sugar snap peas, snow peas, and garden peas. In addition to being a popular vegetable, peas have a number of medicinal uses. They are often used to treat digestive problems, such as constipation and diarrhea. Peas are also used to reduce inflammation and to promote healthy skin. Overall, peas are a healthy and versatile vegetable that can be enjoyed in a variety of ways. Whether eaten fresh or cooked, peas are a delicious and nutritious addition to any meal.",
+            "qae_pairs": [
+                {
+                    "question": "What is the native region of Pea?",
+                    "answer": "South Asia",
+                    "explanation": "The native region of Pea is South Asia."
+                },
+                {
+                    "question": "What is the longest period of time that peas have been cultivated for?",
+                    "answer": "thousands of years",
+                    "explanation": "The passage states that peas have been cultivated for thousands of years, indicating that their cultivation has been ongoing for a very long period of time. Therefore, the longest period of time that peas have been cultivated for is thousands of years."
+                }
+            ],
+            "hops": [
+                "Pea"
+            ]
+        },
+        "Potato": {
+            "term": "Potato",
+            "passage": "Potatoes are a type of plant that belongs to the nightshade family, Solanaceae. They are native to South America and are now grown and consumed all over the world. Potatoes are a staple food in many cultures and are known for their versatility in cooking. They can be boiled, roasted, fried, or mashed, and are used in a variety of dishes such as soups, stews, salads, and casseroles. Potatoes are an excellent source of complex carbohydrates, vitamins, and minerals. They are low in fat and calories and are a good source of dietary fiber. Potatoes are also a good source of potassium, which is important for maintaining healthy blood pressure. There are many different varieties of potatoes, each with its own unique characteristics. Some potatoes are small and round, while others are long and thin. Some are bumpy and some are smooth. Some potatoes are yellow or red on the outside, while others are brown or white. Potatoes are easy to grow and can be planted in a variety of soils and climates. They are also resistant to pests and diseases, making them a popular crop for farmers. In addition to their culinary uses, potatoes have a number of other practical applications. They can be used as animal feed, as a source of biofuels, and as a natural source of fertilizer. Overall, potatoes are a versatile and nutritious food that have been a staple in many cultures for centuries. They are easy to grow and can be used in a variety of ways, making them a valuable crop for farmers and a delicious and healthy food for consumers.",
+            "qae_pairs": [
+                {
+                    "question": "What is the longest period of time that potatoes have been grown and consumed for?",
+                    "answer": "centuries",
+                    "explanation": "The passage states that potatoes have been a staple food in many cultures for centuries. Therefore, the longest period of time that potatoes have been grown and consumed for is centuries."
+                },
+                {
+                    "question": "What family does Potato belong to?",
+                    "answer": "Solanaceae",
+                    "explanation": "Potatoes belong to the nightshade family, Solanaceae."
+                },
+                {
+                    "question": "What is the native region of potatoes?",
+                    "answer": "South America",
+                    "explanation": "The native region of potatoes is South America."
+                }
+            ],
+            "hops": [
+                "Potato"
+            ]
+        },
+        "Bean": {
+            "term": "Bean",
+            "passage": "Bean is a common name for several different types of seeds, including: 1. Phaseolus vulgaris, also known as the common bean, is one of the most widely cultivated and consumed beans in the world. It is native to South and Central America, but is now grown in many other regions around the world. 2. Soybean, Glycine max, is a legume native to East Asia, but is now widely grown in many other regions around the world. It is an important source of protein and oil for human and animal consumption, as well as for use in industry. 3. Kidney bean, also known as the red bean, is a variety of Phaseolus vulgaris. It is named for its kidney-like shape and is a popular bean for use in soups, stews, and salads. 4. Lima bean, also known as the butter bean, is a variety of Phaseolus limensis. It is named for its resemblance to the lima lima bean, and is a popular bean for use in soups, stews, and salads. 5. Navy bean, also known as the pea bean, is a variety of Phaseolus vulgaris. It is named for its use in navy stews, and is a popular bean for use in soups, stews, and salads. 6. Cannellini bean, also known as the white kidney bean, is a variety of Phaseolus vulgaris. It is a popular bean for use in soups, stews, and salads. 7. Adzuki bean, also known as the red bean, is a variety of Phaseolus vulgaris.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the region where Phaseolus vulgaris, also known as the common bean, is native to?",
+                    "answer": "Central America",
+                    "explanation": "The region where Phaseolus vulgaris, also known as the common bean, is native to is Central America."
+                },
+                {
+                    "question": "What is the name of the bean that is a legume native to East Asia and is an important source of protein and oil for human and animal consumption, as well as for use in industry?",
+                    "answer": "Glycine max",
+                    "explanation": "Glycine max."
+                },
+                {
+                    "question": "What is the native region of the common bean, according to the passage?",
+                    "answer": "South",
+                    "explanation": "The common bean, also known as Phaseolus vulgaris, is native to South and Central America, according to the passage."
+                },
+                {
+                    "question": "What is the name of the bean that is a variety of Phaseolus limensis and is popular for use in soups, stews, and salads?",
+                    "answer": "Lima",
+                    "explanation": "The bean that is a variety of Phaseolus limensis and is popular for use in soups, stews, and salads is Lima."
+                }
+            ],
+            "hops": [
+                "Bean"
+            ]
+        }
+    },
+    "second_hops": {
+        "Asteraceae": {
+            "term": "Asteraceae",
+            "passage": "1. Asteraceae is a family of flowering plants that includes daisies, sunflowers, and asters. 2. The family is one of the largest and most diverse in the plant kingdom, with over 23,000 species. 3. Asteraceae are found on every continent except Antarctica, and are adapted to a wide range of habitats, from deserts to rainforests. 4. Many Asteraceae are herbaceous perennials, meaning they die back to the ground each year, but some are shrubs or trees. 5. The flowers of Asteraceae are typically composite, meaning they are made up of many small flowers arranged in a head or inflorescence. 6. Asteraceae are often used for ornamental purposes, and many species are grown in gardens for their showy flowers. 7. Some Asteraceae are also used for medicinal purposes, such as treating colds and fevers. 8. The family is known for its unique reproductive system, in which the pollen is transferred by wind or insects, rather than by birds or animals. 9. Asteraceae are also known for their ability to fix nitrogen in the soil, which makes them valuable for improving soil fertility. 10. The family has a long history of use in traditional medicine, and many species are still used today for a variety of purposes.",
+            "qae_pairs": [
+                {
+                    "question": "What is the one continent where Asteraceae are not found, according to the passage?",
+                    "answer": "Antarctica",
+                    "explanation": "According to the passage, Asteraceae are not found on Antarctica."
+                },
+                {
+                    "question": "What is the annual cycle of Asteraceae?",
+                    "answer": "each year",
+                    "explanation": "The annual cycle of Asteraceae is each year. The family includes herbaceous perennials, which die back to the ground each year, as well as shrubs and trees. While some species of Asteraceae may have a longer lifespan, they still follow an annual cycle of growth, flowering, and death."
+                }
+            ],
+            "hops": [
+                "Lettuce",
+                "Asteraceae"
+            ]
+        },
+        "Asia": {
+            "term": "Asia",
+            "passage": "1. Asia is the world's largest and most populous continent, with a total area of 44,579,000 square kilometers and a population of 4,641,034,766 as of 2021. 2. It is home to 60% of the world's population and is the site of some of the world's earliest civilizations, including those of Mesopotamia, Persia, India, China, and Southeast Asia. 3. Asia is divided into several subregions, including Central Asia, Eastern Asia, Southern Asia, South-Eastern Asia, and Western Asia. 4. The continent is home to many of the world's most famous landmarks, including the Great Wall of China, the Taj Mahal, and the Taj Mahal. 5. Asia is also home to many of the world's most famous and iconic animals, including the Bengal tiger, the Indian elephant, and the giant panda. 6. The continent is known for its diverse cultures and languages, with over 2,000 languages spoken in Asia. 7. Asia is a major economic hub and is home to several of the world's largest and most powerful economies, including China, Japan, India, and Indonesia. 8. The continent is also home to several of the world's most important and influential religions, including Hinduism, Buddhism, Confucianism, Taoism, Islam, Christianity, and Sikhism. 9. Asia is a continent of contrasts, with vast deserts, towering mountains, and tropical rainforests all found within its borders. 10.",
+            "qae_pairs": [
+                {
+                    "question": "What country in Asia is known for its diverse culture, traditions, and cuisine? Answer: India.",
+                    "answer": "India",
+                    "explanation": "India is a country in Asia that is known for its diverse culture, traditions, and cuisine."
+                },
+                {
+                    "question": "What country in Asia was known for its extensive use of camels in trade and commerce? Answer: Persia.",
+                    "answer": "Persia",
+                    "explanation": "The country in Asia that was known for its extensive use of camels in trade and commerce was Persia."
+                }
+            ],
+            "hops": [
+                "Rose",
+                "Asia"
+            ]
+        },
+        "North America": {
+            "term": "North America",
+            "passage": "1. North America is a continent in the Earth's northern hemisphere and western hemisphere. 2. The continent is bordered to the north by the Arctic Ocean and to the south by the Caribbean Sea. 3. North America is the third largest continent by area, following Asia and Africa. 4. It is home to approximately 579 million people, making it the fourth most populous continent after Asia, Africa, and Europe. 5. North America is home to many important countries, including Canada, the United States, and Mexico. 6. The continent has a diverse range of climates, landscapes, and cultures, ranging from the tropical rainforests of Central America to the frozen tundra of the Arctic. 7. North America has a rich history, with many indigenous cultures and European colonizers shaping its development over time. 8. Today, North America is a major economic and political powerhouse, with many of the world's largest corporations and governments based on the continent.",
+            "qae_pairs": [
+                {
+                    "question": "What country in North America is known for having the highest population?",
+                    "answer": "the United States",
+                    "explanation": "The country in North America known for having the highest population is the United States. According to the passage, North America is home to approximately 579 million people, and the United States is the most populous country in the continent, with over 330 million people."
+                },
+                {
+                    "question": "What body of water borders North America to the north?",
+                    "answer": "the Arctic Ocean",
+                    "explanation": "The body of water that borders North America to the north is the Arctic Ocean."
+                },
+                {
+                    "question": "What is the name of the region that is located between North America and South America?  Answer: Central America.",
+                    "answer": "Central America",
+                    "explanation": "The name of the region that is located between North America and South America is Central America."
+                },
+                {
+                    "question": "What is the answer to the question about North America?",
+                    "answer": "Earth",
+                    "explanation": "The answer to the question about North America is Earth."
+                },
+                {
+                    "question": "What body of water borders North America to the south and separates it from South America?",
+                    "answer": "the Caribbean Sea",
+                    "explanation": "The body of water that borders North America to the south and separates it from South America is the Caribbean Sea. This is mentioned in point 2 of the passage, which states that North America is bordered to the south by the Caribbean Sea. The Caribbean Sea is a large body of water that is part of the Atlantic Ocean and is located to the southeast of the Gulf of Mexico. It is home to many islands, including the Caribbean Islands, and is an important region for trade, tourism, and culture."
+                },
+                {
+                    "question": "What country in North America is known for being the second-largest country by land area and the largest country in North America?",
+                    "answer": "Canada",
+                    "explanation": "Canada is the country in North America that is known for being the second-largest country by land area and the largest country in North America."
+                }
+            ],
+            "hops": [
+                "Rose",
+                "North America"
+            ]
+        },
+        "the Middle East": {
+            "term": "the Middle East",
+            "passage": "1. The Middle East is a region located at the crossroads of Asia, Africa, and Europe. 2. It is home to many of the world's most influential religions, including Islam, Christianity, Judaism, and Zoroastrianism. 3. The region has a rich history dating back thousands of years, with notable civilizations such as the Babylonians, Assyrians, and Egyptians. 4. The Middle East is also known for its diverse landscape, ranging from deserts to mountains and fertile plains. 5. The oil industry has played a significant role in the region's economy, with many of the world's largest oil reserves located in countries such as Saudi Arabia and Iran. 6. The Middle East has been the site of several major conflicts in recent decades, including the Gulf War, the Iraq War, and the ongoing Syrian Civil War. 7. The region is home to many important cultural sites, such as the ancient city of Petra in Jordan and the Al-Aqsa Mosque in Jerusalem. 8. The Middle East is a complex and dynamic region with a rich history and culture, as well as ongoing political and social challenges.",
+            "qae_pairs": [
+                {
+                    "question": "What country in the Middle East is known for its ancient city of Petra?",
+                    "answer": "Jordan",
+                    "explanation": "Jordan is the country in the Middle East that is known for its ancient city of Petra."
+                },
+                {
+                    "question": "What is the name of the ancient city in Jordan that is located in the Middle East and is known for its unique rock-cut architecture?",
+                    "answer": "Petra",
+                    "explanation": "Petra is the name of the ancient city in Jordan that is located in the Middle East and is known for its unique rock-cut architecture."
+                },
+                {
+                    "question": "What is the answer to the question \"What continent is the Middle East in?\"",
+                    "answer": "Asia",
+                    "explanation": "The answer to the question \"What continent is the Middle East in?\" is Asia."
+                },
+                {
+                    "question": "What is the approximate time period for which the Middle East has been inhabited, according to the passage?",
+                    "answer": "thousands of years",
+                    "explanation": "According to the passage, the Middle East has a rich history dating back thousands of years. Therefore, the approximate time period for which the Middle East has been inhabited is thousands of years."
+                },
+                {
+                    "question": "What is the answer to the question about the location of the Al-Aqsa Mosque in the Middle East?",
+                    "answer": "Jerusalem",
+                    "explanation": "The Al-Aqsa Mosque is located in Jerusalem, which is in the Middle East."
+                },
+                {
+                    "question": "What is the religion that is associated with the term 'the Middle East' in the passage?",
+                    "answer": "Islam",
+                    "explanation": "The religion associated with the term 'the Middle East' in the passage is Islam."
+                },
+                {
+                    "question": "What religion is associated with the term 'the Middle East' in the passage?",
+                    "answer": "Judaism",
+                    "explanation": "The religion associated with the term 'the Middle East' in the passage is not specified. However, the passage mentions that the region is home to many of the world's most influential religions, including Islam, Christianity, Judaism, and Zoroastrianism. Therefore, all of these religions are associated with the Middle East."
+                },
+                {
+                    "question": "What is the name of the mosque located in Jerusalem that is mentioned in the passage as one of the important cultural sites in the Middle East?",
+                    "answer": "the Al-Aqsa Mosque",
+                    "explanation": "The Al-Aqsa Mosque is the name of the mosque located in Jerusalem that is mentioned in the passage as one of the important cultural sites in the Middle East."
+                }
+            ],
+            "hops": [
+                "Carrot",
+                "the Middle East"
+            ]
+        },
+        "the United States": {
+            "term": "the United States",
+            "passage": "United States The United States of America (commonly referred to as the United States or America) is a federal republic consisting of 50 states, a federal district, and various territories. The country is situated in North America, bordering on the north by Canada and on the south by Mexico. The United States is the world's third-largest country by total area, after Russia and Canada. It is the fourth-most populous country in the world, with a population of over 328 million people. The United States has a capitalist mixed-market economy, which is the world's largest by nominal GDP. The United States is a founding member of the United Nations, World Trade Organization, G7, G20, and NATO. The country has a diverse landscape, ranging from the Atlantic Ocean to the Pacific Ocean, and from the Gulf of Mexico to the Great Lakes. The United States is known for its cultural diversity, with a population that includes people from a wide range of ethnic, racial, and religious backgrounds.",
+            "qae_pairs": [
+                {
+                    "question": "What organization is the answer to a question that contains the term 'the United States'?",
+                    "answer": "World Trade Organization",
+                    "explanation": "The organization that is the answer to a question that contains the term 'the United States' is the World Trade Organization (WTO). The United States is a founding member of the WTO, which is an intergovernmental organization that was established to facilitate international trade and ensure that trade flows as smoothly, predictably, and freely as possible. The WTO is headquartered in Geneva, Switzerland, and has 164 member countries as of 2021."
+                },
+                {
+                    "question": "What body of water separates the United States from Canada?",
+                    "answer": "the Atlantic Ocean",
+                    "explanation": "The body of water that separates the United States from Canada is the Atlantic Ocean. The United States is located in North America, and it shares a border with Canada to the north. The Atlantic Ocean is the largest body of water that separates the two countries. The United States has a long coastline that stretches along the Atlantic Ocean, and it is home to many major ports and harbors. Canada also has a long coastline along the Atlantic Ocean, and it is home to several major ports as well."
+                },
+                {
+                    "question": "What country does the passage suggest is the world's third-largest by total area, after the United States and Canada?",
+                    "answer": "Russia",
+                    "explanation": "The passage suggests that Russia is the world's third-largest country by total area, after the United States and Canada."
+                },
+                {
+                    "question": "What body of water separates the United States from Canada and Mexico?",
+                    "answer": "the Pacific Ocean",
+                    "explanation": "The body of water that separates the United States from Canada and Mexico is the Atlantic Ocean."
+                },
+                {
+                    "question": "What organization is the answer to the question \"What international organization is the United States a founding member of?\"?",
+                    "answer": "the United Nations",
+                    "explanation": "The organization that the United States is a founding member of is the United Nations."
+                },
+                {
+                    "question": "What is the name of the group that the United States is a founding member of, and what is the answer to the question?",
+                    "answer": "G7",
+                    "explanation": "The United States is a founding member of the G7, which is a group of seven of the world's largest and most advanced economies. The other members of the G7 are Canada, France, Germany, Italy, Japan, and the United Kingdom. The G7 was formed in 1976 to coordinate policies among its members and to promote economic cooperation. The group meets annually to discuss issues related to the global economy and to coordinate their responses to major economic events."
+                },
+                {
+                    "question": "What country borders the United States to the north, and what is the answer to the question?",
+                    "answer": "Canada",
+                    "explanation": "The country that borders the United States to the north is Canada."
+                }
+            ],
+            "hops": [
+                "Tomato",
+                "the United States"
+            ]
+        },
+        "Solanum lycopersicum": {
+            "term": "Solanum lycopersicum",
+            "passage": "Solanum lycopersicum, commonly known as the tomato, is a nightshade fruit that is grown and consumed around the world. It is a member of the Solanaceae family, which also includes potatoes, peppers, and eggplants. The tomato is native to South America, but it has been cultivated and hybridized for thousands of years, resulting in a wide variety of cultivars that vary in size, shape, and color. Tomatoes are typically round or oblong, with a smooth, glossy skin that ranges in color from deep red to yellow. They are often used as a vegetable in savory dishes, but they are also used in many sweet dishes, such as tomato sauce, ketchup, and tomato paste. Tomatoes are a good source of vitamins A and C, as well as potassium and folate. Tomatoes are easy to grow and can be grown in a variety of soils and climates. They are typically grown from seed, which can be started indoors or outdoors. Tomatoes require full sun and regular watering, and they are susceptible to a variety of pests and diseases, including tomato hornworms, whiteflies, and blight. Overall, the tomato is a versatile and nutritious fruit that is enjoyed by people around the world. Its history and cultivation have made it a staple in many cuisines and cultures, and it continues to be an important crop for farmers and gardeners alike.",
+            "qae_pairs": [
+                {
+                    "question": "What is the native region of Solanum lycopersicum, according to the passage?",
+                    "answer": "South America",
+                    "explanation": "According to the passage, Solanum lycopersicum is native to South America."
+                },
+                {
+                    "question": "What is the family that Solanum lycopersicum belongs to?",
+                    "answer": "Solanaceae",
+                    "explanation": "The Solanaceae family is the family that Solanum lycopersicum belongs to. This family includes other plants such as potatoes, peppers, and eggplants."
+                },
+                {
+                    "question": "What is the approximate time frame for the cultivation and hybridization of Solanum lycopersicum?",
+                    "answer": "thousands of years",
+                    "explanation": "The passage states that Solanum lycopersicum has been cultivated and hybridized for thousands of years. Therefore, the approximate time frame for the cultivation and hybridization of Solanum lycopersicum is thousands of years."
+                }
+            ],
+            "hops": [
+                "Tomato",
+                "Solanum lycopersicum"
+            ]
+        },
+        "South America": {
+            "term": "South America",
+            "passage": "1. South America is the fourth largest continent in the world, with a total area of 17,840,000 square kilometers. 2. The continent is home to the Andes mountain range, which is the longest mountain range in the world. 3. South America is also home to the Amazon rainforest, which is the largest rainforest in the world. 4. The continent is home to many important and famous cities, including Buenos Aires, Rio de Janeiro, and Lima. 5. South America is home to many different cultures and languages, with over 3,000 languages spoken on the continent. 6. The continent is home to many important and famous landmarks, including the Iguazu Falls, Machu Picchu, and the Galapagos Islands. 7. South America is home to many different types of wildlife, including jaguars, anacondas, and macaws. 8. The continent is home to many important and famous sports teams, including the Brazilian soccer team and the Argentine polo team. 9. South America is home to many different types of cuisine, including ceviche, empanadas, and arepas. 10. The continent is home to many important and famous musicians, including Carlos Santana, Shakira, and Ana Gabriel.",
+            "qae_pairs": [
+                {
+                    "question": "What city in South America is known as the \"City of Kings\" and is located on the coast of the Pacific Ocean?",
+                    "answer": "Lima",
+                    "explanation": "The city in South America that is known as the \"City of Kings\" and is located on the coast of the Pacific Ocean is Lima."
+                },
+                {
+                    "question": "What famous musician from South America is known for playing the guitar and has had multiple Grammy Award wins?",
+                    "answer": "Carlos Santana",
+                    "explanation": "Carlos Santana is a famous musician from South America who is known for playing the guitar and has had multiple Grammy Award wins."
+                },
+                {
+                    "question": "What dish is commonly associated with South America and contains the term 'South America' in the question?",
+                    "answer": "ceviche",
+                    "explanation": "Ceviche is a dish commonly associated with South America, as it originated in the coastal regions of Peru and has become a popular dish throughout the continent. The term \"ceviche\" itself actually includes the word \"South America,\" as it comes from the Quechua word \"siwichi,\" which means \"raw fish.\" Ceviche is made by marinating raw fish in lime juice and other ingredients, such as onions, cilantro, and chili peppers, and is often served with corn or potato chips."
+                },
+                {
+                    "question": "What city in South America is known as 'Rio' and is famous for its Carnival celebrations?",
+                    "answer": "Rio de Janeiro",
+                    "explanation": "The city in South America known as 'Rio' and is famous for its Carnival celebrations is Rio de Janeiro."
+                },
+                {
+                    "question": "What famous musician from South America is known for their hit songs such as 'Whenever, Wherever' and 'Hips Don't Lie'?",
+                    "answer": "Shakira",
+                    "explanation": "Shakira is a famous musician from South America who is known for her hit songs such as 'Whenever, Wherever' and 'Hips Don't Lie'."
+                },
+                {
+                    "question": "What is the largest rainforest in South America?",
+                    "answer": "Amazon",
+                    "explanation": "The largest rainforest in South America is the Amazon rainforest."
+                },
+                {
+                    "question": "What city in South America is known as the 'Paris of South America'?",
+                    "answer": "Buenos Aires",
+                    "explanation": "Buenos Aires is the city in South America that is commonly referred to as the 'Paris of South America'. This nickname is due to its similarities with Paris in terms of its architecture, culture, and style. Buenos Aires is the capital city of Argentina and is known for its beautiful buildings, museums, and theaters. It is also famous for its tango dancing and cuisine, including its world-renowned steak houses."
+                },
+                {
+                    "question": "What is the longest mountain range in the world that is located in South America, and what is the answer to that question?",
+                    "answer": "Andes",
+                    "explanation": "The longest mountain range in the world that is located in South America is the Andes."
+                },
+                {
+                    "question": "What famous musician from South America is known for their contributions to the music industry?",
+                    "answer": "Ana Gabriel",
+                    "explanation": "Ana Gabriel is a famous musician from South America who is known for her contributions to the music industry. She is a Mexican singer and songwriter who has released over 30 albums and won numerous awards for her music. Her style combines traditional Mexican music with pop and rock influences, and she is widely regarded as one of the most important and influential musicians in Latin America."
+                }
+            ],
+            "hops": [
+                "Potato",
+                "South America"
+            ]
+        },
+        "Southeast Asia": {
+            "term": "Southeast Asia",
+            "passage": "1. Southeast Asia or Southeastern Asia is a subregion of Asia, consisting of the countries that are geographically south of China and east of India. 2. The region is bordered to the north by East Asia, to the west by the Indian subcontinent, to the east by Oceania, and to the south by the Indian Ocean and the Pacific Ocean. 3. The area covered by Southeast Asia is about 4.5 million square kilometers, and it is home to more than 640 million people. 4. Southeast Asia is home to many different ethnic groups, including the Malay, the Indonesian, the Thai, the Vietnamese, the Khmer, the Burmese, and the Filipino. 5. The region is known for its diverse cultures, languages, and religions, with Buddhism, Hinduism, Islam, and Christianity all being practiced in different parts of the region. 6. Southeast Asia is also known for its rich natural resources, including oil, gas, coal, timber, and fish. 7. The region is home to some of the world's most biodiverse ecosystems, including rainforests, coral reefs, and mangrove forests. 8. Southeast Asia has a tropical climate, with hot and humid weather throughout the year. 9. The region is prone to natural disasters, including typhoons, floods, and earthquakes. 10. Southeast Asia has a long and complex history, with evidence of human habitation in the region dating back to prehistoric times. 11.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the region that is located to the east of Southeast Asia and is also known as Oceania?  Answer: Oceania.",
+                    "answer": "Oceania",
+                    "explanation": "The name of the region that is located to the east of Southeast Asia and is also known as Oceania is Oceania."
+                },
+                {
+                    "question": "What body of water borders Southeast Asia to the south and west?",
+                    "answer": "the Indian Ocean",
+                    "explanation": "The body of water that borders Southeast Asia to the south and west is the Indian Ocean."
+                },
+                {
+                    "question": "What body of water separates the countries of Southeast Asia from Australia?",
+                    "answer": "the Pacific Ocean",
+                    "explanation": "The body of water that separates the countries of Southeast Asia from Australia is the Pacific Ocean. This is mentioned in point 6 of the passage, which states that Southeast Asia is bordered to the south by the Indian Ocean and the Pacific Ocean. Therefore, we can conclude that the Pacific Ocean separates Southeast Asia from Australia."
+                },
+                {
+                    "question": "What is the religion that is predominant in Southeast Asia, according to the passage?",
+                    "answer": "Islam",
+                    "explanation": "According to the passage, Islam is not the predominant religion in Southeast Asia. The passage mentions that Buddhism, Hinduism, Islam, and Christianity are all practiced in different parts of the region."
+                }
+            ],
+            "hops": [
+                "Cucumber",
+                "Southeast Asia"
+            ]
+        },
+        "Antarctica": {
+            "term": "Antarctica",
+            "passage": "1. Antarctica is the highest, driest, windiest, and coldest continent on Earth. 2. It is located in the Southern Hemisphere, and is the fifth largest continent, with an area of 14,000,000 square kilometers. 3. The continent is covered by a thick layer of ice, which is up to 4,800 meters thick in some places. 4. The South Pole is located in Antarctica, and is the southernmost point on Earth. 5. The first person to reach the South Pole was Norwegian explorer Roald Amundsen in 1911. 6. Antarctica is home to many species of animals, including penguins, seals, and whales. 7. The continent is also home to many research stations, where scientists study topics such as climate change and geology. 8. Tourism is not allowed in Antarctica, and visitors must be accompanied by a licensed guide. 9. The continent is governed by the Antarctic Treaty, which was signed in 1959 by 12 countries. 10. Today, there are 54 countries that have signed the treaty, which sets guidelines for scientific research and environmental protection in Antarctica.",
+            "qae_pairs": [
+                {
+                    "question": "What year did the first expedition to Antarctica take place?  Answer: 1911.",
+                    "answer": "1911",
+                    "explanation": "The first expedition to Antarctica took place in 1911, led by Norwegian explorer Roald Amundsen."
+                },
+                {
+                    "question": "What is the location of Antarctica, and what is the thickness of the layer of ice that covers the continent?",
+                    "answer": "the Southern Hemisphere",
+                    "explanation": "Antarctica is located in the Southern Hemisphere, and is the fifth largest continent, with an area of 14,000,000 square kilometers. The layer of ice that covers the continent is up to 4,800 meters thick in some places."
+                },
+                {
+                    "question": "What year was the Antarctic Treaty signed, which established guidelines for scientific research and environmental protection in Antarctica?",
+                    "answer": "1959",
+                    "explanation": "The Antarctic Treaty was signed in 1959."
+                }
+            ],
+            "hops": [
+                "Cucumber",
+                "Antarctica"
+            ]
+        },
+        "India": {
+            "term": "India",
+            "passage": "India is a country in South Asia. It is the seventh-largest country by area and with more than 1.3 billion people, it is the second-most populous country in the world. India's capital is New Delhi, and its largest city is Mumbai. India's border with Pakistan is a long-standing dispute. The Indian economy is the world's seventh-largest by nominal GDP and the third-largest by purchasing power parity (PPP). India is a federal parliamentary democratic republic and is a member of the United Nations, the World Trade Organization, the G20, BRICS, the Shanghai Cooperation Organisation, and the Commonwealth. India is known for its diverse culture, traditions, and languages. Hindi and English are the official languages of the Union Government. India is also a hub for spiritual and religious tourism, attracting millions of visitors each year.",
+            "qae_pairs": [
+                {
+                    "question": "What international organization does India belong to?",
+                    "answer": "the United Nations",
+                    "explanation": "India is a member of several international organizations, including the United Nations, the World Trade Organization, the G20, BRICS, the Shanghai Cooperation Organisation, and the Commonwealth. The United Nations is a global intergovernmental organization founded in 1945 to promote international cooperation and maintain international peace and security. India is a founding member of the United Nations and has played an active role in its operations and decision-making processes. Therefore, the correct answer to the question is the United Nations."
+                },
+                {
+                    "question": "What is the name of the international organization that India is a member of, which is also known as the Group of 20?",
+                    "answer": "G20",
+                    "explanation": "The international organization that India is a member of, which is also known as the Group of 20, is the G20."
+                },
+                {
+                    "question": "What is the name of the country that shares a long-standing dispute with India along their border?",
+                    "answer": "Pakistan",
+                    "explanation": "The country that shares a long-standing dispute with India along their border is Pakistan."
+                },
+                {
+                    "question": "What language is the official language of the Union Government in India?",
+                    "answer": "Hindi",
+                    "explanation": "The official language of the Union Government in India is Hindi."
+                },
+                {
+                    "question": "What is the largest city in India, as mentioned in the passage?",
+                    "answer": "Mumbai",
+                    "explanation": "Mumbai is the largest city in India, as mentioned in the passage."
+                },
+                {
+                    "question": "What is the name of the group that India is a member of, and what is the answer to the question?",
+                    "answer": "BRICS",
+                    "explanation": "India is a member of the BRICS group, which includes Brazil, Russia, India, China, and South Africa. The question asks for the name of the group that India is a member of, and the answer is BRICS."
+                },
+                {
+                    "question": "What is the region where India is located according to the passage?",
+                    "answer": "South Asia",
+                    "explanation": "According to the passage, India is a country located in South Asia."
+                },
+                {
+                    "question": "What organization is mentioned as a member of India's official languages?",
+                    "answer": "the Shanghai Cooperation Organisation",
+                    "explanation": "The organization mentioned as a member of India's official languages is the Shanghai Cooperation Organisation."
+                }
+            ],
+            "hops": [
+                "Cucumber",
+                "India"
+            ]
+        },
+        "South Asia": {
+            "term": "South Asia",
+            "passage": "South Asia is a region of the world that encompasses a vast array of cultures, languages, and traditions. It is home to over 1.7 billion people, making it one of the most populous regions on the planet. The region is bordered by the Indian Ocean to the south, and is home to some of the world's most iconic landmarks, including the Taj Mahal, the Great Wall of India, and the ancient city of Mohenjo-Daro. South Asia is home to several of the world's largest and most populous countries, including India, Pakistan, Bangladesh, and Sri Lanka. These countries have rich histories and cultures, with influences from ancient empires such as the Maurya and Gupta empires, as well as the British Empire. The region is also known for its diverse range of religions, including Hinduism, Islam, Buddhism, and Christianity. South Asia is home to some of the world's most sacred sites, including the Vaishno Devi Temple, the Golden Temple, and the Bodh Gaya. Despite its many strengths, South Asia faces numerous challenges, including poverty, political instability, and environmental degradation. However, the region is also home to some of the world's most innovative and forward-thinking individuals and organizations, who are working tirelessly to address these issues and create a better future for all.",
+            "qae_pairs": [
+                {
+                    "question": "What country in South Asia is known as the 'land of the arches' and has a population of over 160 million people, with the capital city being Dhaka?",
+                    "answer": "Bangladesh",
+                    "explanation": "Bangladesh is the country in South Asia that is known as the 'land of the arches' and has a population of over 160 million people, with the capital city being Dhaka."
+                },
+                {
+                    "question": "What body of water borders South Asia to the south and what is its name?",
+                    "answer": "the Indian Ocean",
+                    "explanation": "The body of water that borders South Asia to the south is the Indian Ocean."
+                },
+                {
+                    "question": "What is the name of the sacred site located in South Asia that is visited by millions of pilgrims each year?",
+                    "answer": "the Vaishno Devi Temple",
+                    "explanation": "The Vaishno Devi Temple is a sacred site located in South Asia that is visited by millions of pilgrims each year. It is one of the most revered and visited pilgrimage sites in India, and is dedicated to the Hindu goddess Vaishno Devi. The temple is located in the state of Jammu and Kashmir, and is accessible by a 13-kilometer trek through the Himalayan mountains."
+                },
+                {
+                    "question": "What empire is mentioned in the passage as having influenced the cultures and traditions of South Asia?",
+                    "answer": "Gupta",
+                    "explanation": "The passage mentions the Maurya and Gupta empires as having influenced the cultures and traditions of South Asia."
+                }
+            ],
+            "hops": [
+                "Pea",
+                "South Asia"
+            ]
+        },
+        "centuries": {
+            "term": "centuries",
+            "passage": "1. In the 16th century, the Renaissance was a cultural movement that emphasized the study of classical Greek and Roman texts. 2. The 17th century saw the rise of the Enlightenment, which promoted reason and individualism. 3. In the 18th century, the Industrial Revolution transformed the way goods were produced, leading to mass production and the growth of factories. 4. The 19th century was marked by the expansion of European empires and the development of new technologies such as the telegraph and telephone. 5. The 20th century saw two world wars, the Cold War, and the emergence of the United States as a superpower. 6. In the 21st century, the world has become increasingly interconnected through the internet and globalization.",
+            "qae_pairs": [
+                {
+                    "question": "What country has been the dominant economic power for several centuries?     Answer: the United States.",
+                    "answer": "the United States",
+                    "explanation": "The United States has been the dominant economic power for several centuries. This can be attributed to its strong economy, advanced technology, and strategic geographical location. Throughout the centuries, the United States has played a significant role in shaping global economic policies and has been a leader in international trade. Its economic dominance has allowed it to exert significant political influence on the world stage."
+                }
+            ],
+            "hops": [
+                "Potato",
+                "centuries"
+            ]
+        },
+        "Central America": {
+            "term": "Central America",
+            "passage": "Central America is the southernmost, isthmian portion of the North American continent, which connects North America with South America on the Isthmus of Panama. Central America is bordered by Mexico to the north, Colombia to the southeast, and the Caribbean Sea to the east and the Pacific Ocean to the west. Central America has a population of around 49 million people, and the main language spoken is Spanish. The region has a rich history dating back to the Maya civilization, and there are many archaeological sites throughout the area. The main countries in Central America are Belize, Costa Rica, El Salvador, Guatemala, Honduras, Nicaragua, and Panama. Each country has its own unique culture and attractions, from the beautiful beaches of Costa Rica to the ancient ruins of Tikal in Guatemala. Central America is also known for its biodiversity, with rainforests, volcanoes, and coral reefs found throughout the region. The area is home to many endangered species, including jaguars, sea turtles, and macaws. Overall, Central America is a diverse and fascinating region with a lot to offer travelers, from stunning natural landscapes to rich cultural experiences.",
+            "qae_pairs": [
+                {
+                    "question": "What is the name of the ancient Maya city located in Central America?     What is the name of the ancient Maya city located in Central America?     What is the name of the largest ancient Maya city located in Central America?     What is the name of the ancient Maya city",
+                    "answer": "Tikal",
+                    "explanation": "The name of the largest ancient Maya city located in Central America is Tikal."
+                },
+                {
+                    "question": "What is the country that borders Central America to the southeast?",
+                    "answer": "Colombia",
+                    "explanation": "Colombia borders Central America to the southeast."
+                },
+                {
+                    "question": "What country is located north of Central America and is the answer to the question?",
+                    "answer": "Mexico",
+                    "explanation": "The country located north of Central America and is the answer to the question is Mexico."
+                },
+                {
+                    "question": "What country in Central America is known for its ancient ruins of Tikal?",
+                    "answer": "Guatemala",
+                    "explanation": "The country in Central America known for its ancient ruins of Tikal is Guatemala."
+                },
+                {
+                    "question": "What country in Central America is known for its beautiful beaches and is home to the main language spoken in the region?",
+                    "answer": "Costa Rica",
+                    "explanation": "Costa Rica is the country in Central America that is known for its beautiful beaches and is home to the main language spoken in the region, which is Spanish."
+                },
+                {
+                    "question": "What is the name of the civilization that had a significant impact on Central America's history?",
+                    "answer": "Maya",
+                    "explanation": "The Maya civilization had a significant impact on Central America's history."
+                }
+            ],
+            "hops": [
+                "Bean",
+                "Central America"
+            ]
+        },
+        "Glycine max": {
+            "term": "Glycine max",
+            "passage": "Glycine max, also known as soybean, is a species of legume native to East Asia, which is widely cultivated and used for food, oil, and animal feed. It is an important crop in many countries, including the United States, Brazil, and China. Soybean is a hardy plant that can grow in a variety of soil types and climates, and it is often used as a rotation crop to prevent soil-borne diseases. The seeds are typically harvested when the pods are mature, and they can be roasted, boiled, or ground into flour. Soybean is a rich source of protein, fiber, and other nutrients, and it has been shown to have a number of health benefits, including reducing the risk of heart disease and certain types of cancer.",
+            "qae_pairs": [
+                {
+                    "question": "What is the answer to the question that contains the term 'Glycine max' and refers to the region where the plant is native?",
+                    "answer": "East Asia",
+                    "explanation": "The answer to the question that contains the term 'Glycine max' and refers to the region where the plant is native is East Asia."
+                },
+                {
+                    "question": "What country is the largest producer of Glycine max?",
+                    "answer": "China",
+                    "explanation": "China is the largest producer of Glycine max, also known as soybean. The country's vast acreage and favorable growing conditions make it a top producer of this legume, which is widely cultivated and used for food, oil, and animal feed. Soybean is an important crop in many countries, including the United States, Brazil, and China, and it is often used as a rotation crop to prevent soil-borne diseases."
+                }
+            ],
+            "hops": [
+                "Bean",
+                "Glycine max"
+            ]
+        },
+        "South": {
+            "term": "South",
+            "passage": "South is one of the four cardinal directions on a compass, and it is the direction that is in the southern hemisphere of Earth. The south direction is opposite to the north direction. In many cultures, the south is associated with concepts such as warmth, heat, and light. In Western culture, the south is often associated with the sun, while in Eastern culture, it is associated with the moon. The south is also associated with the summer season, and it is often seen as a symbol of growth and abundance. In many cultures, the south is also associated with the afterlife, as it is believed to be the direction in which the sun sets and the dead go after death.",
+            "qae_pairs": [
+                {
+                    "question": "What is the direction of the Eastern South?  Answer: The direction of the Eastern South is towards the east.",
+                    "answer": "Eastern",
+                    "explanation": "The direction of the Eastern South is towards the east."
+                }
+            ],
+            "hops": [
+                "Bean",
+                "South"
+            ]
+        },
+        "Lima": {
+            "term": "Lima",
+            "passage": "Lima is the capital and largest city of Peru. It is located in the valleys of the Chillón, Rímac and Lurín rivers, in the coastal region of the country, overlooking the Pacific Ocean. Together with the seaport of Callao, it forms a contiguous urban area known as the Lima Metropolitan Area, which has a population of over 9 million inhabitants, making it the most populous area in Peru and the second-largest city in the Americas, after São Paulo. Lima was founded by Spanish conquistador Francisco Pizarro on January 18, 1535, as Ciudad de los Reyes (City of the Kings). It became the capital of the Spanish Empire in the Americas and was the center of the Viceroyalty of Peru until its independence in 1821. Today, Lima is a major cultural and economic center in the Americas, and is home to numerous museums, universities, and cultural institutions. Its architecture, cuisine, and traditions reflect the city's rich history and cultural diversity.",
+            "qae_pairs": [
+                {
+                    "question": "What was the name of the Spanish conquistador who founded Lima on January 18, 1535?",
+                    "answer": "Francisco Pizarro",
+                    "explanation": "Francisco Pizarro was the Spanish conquistador who founded Lima on January 18, 1535."
+                },
+                {
+                    "question": "What was the name of the administrative division that included Lima during the colonial period? Answer: The Viceroyalty of Peru.",
+                    "answer": "the Viceroyalty of Peru",
+                    "explanation": "The administrative division that included Lima during the colonial period was the Viceroyalty of Peru."
+                },
+                {
+                    "question": "What date was Lima founded by Spanish conquistador Francisco Pizarro?",
+                    "answer": "January 18, 1535",
+                    "explanation": "According to the passage, Lima was founded by Spanish conquistador Francisco Pizarro on January 18, 1535."
+                },
+                {
+                    "question": "What river flows through Lima and is a source of water for the city?",
+                    "answer": "Rímac",
+                    "explanation": "The river that flows through Lima and is a source of water for the city is the Rímac."
+                },
+                {
+                    "question": "What was the year that Lima gained its independence from the Spanish Empire?",
+                    "answer": "1821",
+                    "explanation": "According to the passage, Lima gained its independence from the Spanish Empire in 1821."
+                }
+            ],
+            "hops": [
+                "Bean",
+                "Lima"
+            ]
+        }
+    }
+}
