@@ -13,7 +13,7 @@ export METHOD=self-prompt-cot
 
 
 export DATASET=grail-qa
-export GEN_FILE=data/$METHOD/pseudo_dataset_merged.json
+export GEN_FILE=data/$METHOD/pseudo_dataset.json
 python $TASK_PATH \
     --model_name=$MODEL \
     --task=$DATASET \
