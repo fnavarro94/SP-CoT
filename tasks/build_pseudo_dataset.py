@@ -931,46 +931,46 @@ if __name__ == "__main__":
 
     args = parse_argument()
 
-    # if args.do_composition:
-    #     print("Building multi-hop dataset...")
-    #     first_hop_examples, second_hop_examples = load_examples(args.data_dir)
-    #     multi_hop_datasets = build_multihop_datasets(first_hop_examples, second_hop_examples)
-    #
-    #     with open(os.path.join(args.output_dir, "all_datasets.pkl"), "wb") as f:
-    #         pickle.dump(multi_hop_datasets, f)
-    # else:
-    #     print("Loading dataset from cache ...")
-    #     multi_hop_datasets = pickle.load(open(os.path.join(args.output_dir, "all_datasets.pkl"), "rb"))
-    #
-    # if args.do_filtering:
-    #     print("Filtering and Exporting datasets to json ...")
-    #     max_duplicate_degrees = [0, 0, 1, 1, 1, 1]
-    #     filtered_datasets = {}
-    #     for i, dataset_type in enumerate(multi_hop_datasets):
-    #         filtered_dataset = filter_dataset(
-    #             dataset=multi_hop_datasets[dataset_type],
-    #             dataset_type=dataset_type,
-    #             filter_type="answer",
-    #             max_duplicate_degree=max_duplicate_degrees[i]
-    #         )
-    #         dict_dataset = export_to_dict(filtered_dataset, dataset_type)
-    #         filtered_datasets[dataset_type] = dict_dataset
-    #
-    #     total_examples = 0
-    #     for dataset_type in filtered_datasets:
-    #         total_examples += len(filtered_datasets[dataset_type])
-    #         print(f"Length of original {dataset_type} dataset: {len(multi_hop_datasets[dataset_type])}")
-    #         print(f"Length of filtered {dataset_type} dataset: {len(filtered_datasets[dataset_type])}")
-    #
-    #     print(f"Total number of examples: {total_examples}")
-    #
-    #     with open(os.path.join(args.output_dir, "pseudo_dataset_raw.json"), "w") as f:
-    #         json.dump(filtered_datasets, f, indent=4)
-    #     print(f"Exported datasets to json at {os.path.join(args.output_dir, 'pseudo_dataset_raw.json')}")
-    # else:
-    #     print("Loading filtered datasets from cache ...")
-    #     filtered_datasets = json.load(open(os.path.join(args.output_dir, "pseudo_dataset_raw.json"), "r"))
-    #
+    if args.do_composition:
+        print("Building multi-hop dataset...")
+        first_hop_examples, second_hop_examples = load_examples(args.data_dir)
+        multi_hop_datasets = build_multihop_datasets(first_hop_examples, second_hop_examples)
+
+        with open(os.path.join(args.output_dir, "all_datasets.pkl"), "wb") as f:
+            pickle.dump(multi_hop_datasets, f)
+    else:
+        print("Loading dataset from cache ...")
+        multi_hop_datasets = pickle.load(open(os.path.join(args.output_dir, "all_datasets.pkl"), "rb"))
+
+    if args.do_filtering:
+        print("Filtering and Exporting datasets to json ...")
+        max_duplicate_degrees = [0, 0, 1, 1, 1, 1]
+        filtered_datasets = {}
+        for i, dataset_type in enumerate(multi_hop_datasets):
+            filtered_dataset = filter_dataset(
+                dataset=multi_hop_datasets[dataset_type],
+                dataset_type=dataset_type,
+                filter_type="answer",
+                max_duplicate_degree=max_duplicate_degrees[i]
+            )
+            dict_dataset = export_to_dict(filtered_dataset, dataset_type)
+            filtered_datasets[dataset_type] = dict_dataset
+
+        total_examples = 0
+        for dataset_type in filtered_datasets:
+            total_examples += len(filtered_datasets[dataset_type])
+            print(f"Length of original {dataset_type} dataset: {len(multi_hop_datasets[dataset_type])}")
+            print(f"Length of filtered {dataset_type} dataset: {len(filtered_datasets[dataset_type])}")
+
+        print(f"Total number of examples: {total_examples}")
+
+        with open(os.path.join(args.output_dir, "pseudo_dataset_raw.json"), "w") as f:
+            json.dump(filtered_datasets, f, indent=4)
+        print(f"Exported datasets to json at {os.path.join(args.output_dir, 'pseudo_dataset_raw.json')}")
+    else:
+        print("Loading filtered datasets from cache ...")
+        filtered_datasets = json.load(open(os.path.join(args.output_dir, "pseudo_dataset_raw.json"), "r"))
+
     if args.do_completion:
         filtered_datasets = json.load(open(os.path.join(args.output_dir, "pseudo_dataset_raw.json"), "r"))
         demo_set = json.load(open(args.demo_path, "r"))
@@ -989,37 +989,37 @@ if __name__ == "__main__":
         with open(os.path.join(args.output_dir, "pseudo_dataset_completion.json"), "w") as f:
             json.dump(complete_dataset, f, indent=4)
 
-    # if args.do_yesno:
-    #     filtered_datasets = json.load(open(os.path.join(args.output_dir, "pseudo_dataset.json"), "r"))
-    #     demo_set = json.load(open(args.demo_path, "r"))
-    #     yesno_demo_set = json.load(open(args.yesno_demo_path, "r"))
-    #     yesno_dataset = {}
-    #     for hop_type in filtered_datasets:
-    #         yesno_dataset[hop_type] = {}
-    #         yes_dataset = random.sample(filtered_datasets[hop_type], k=int(len(filtered_datasets[hop_type]) * 0.1))
-    #         yesno_dataset[hop_type]["yes"] = generate_yes_no_questions(
-    #             dataset=yes_dataset,
-    #             demo_set=demo_set[hop_type],
-    #             yesno_demos=yesno_demo_set["yes"],
-    #             hop_type=hop_type,
-    #             num_demos=4,
-    #             model_name="gpt-3.5-turbo-0301"
-    #         )
-    #         no_dataset = random.sample(filtered_datasets[hop_type], k=int(len(filtered_datasets[hop_type]) * 0.1))
-    #         yesno_dataset[hop_type]["no"] = generate_yes_no_questions(
-    #             dataset=no_dataset,
-    #             demo_set=demo_set[hop_type],
-    #             yesno_demos=yesno_demo_set["no"],
-    #             hop_type=hop_type,
-    #             num_demos=4,
-    #             model_name="gpt-3.5-turbo-0301"
-    #         )
-    #         print(f"Length of {hop_type} yesno dataset: {len(yesno_dataset[hop_type]['yes']) + len(yesno_dataset[hop_type]['no'])}")
-    #         print(f"Length of {hop_type} original dataset: {len(filtered_datasets[hop_type]) * 0.2}")
-    #         print(f"Success rate: {(len(yesno_dataset[hop_type]['yes']) + len(yesno_dataset[hop_type]['no'])) / (len(filtered_datasets[hop_type]) * 0.2)}")
-    #
-    #     with open(os.path.join(args.output_dir, "pseudo_dataset_yesno.json"), "w") as f:
-    #         json.dump(yesno_dataset, f, indent=4)
+    if args.do_yesno:
+        filtered_datasets = json.load(open(os.path.join(args.output_dir, "pseudo_dataset.json"), "r"))
+        demo_set = json.load(open(args.demo_path, "r"))
+        yesno_demo_set = json.load(open(args.yesno_demo_path, "r"))
+        yesno_dataset = {}
+        for hop_type in filtered_datasets:
+            yesno_dataset[hop_type] = {}
+            yes_dataset = random.sample(filtered_datasets[hop_type], k=int(len(filtered_datasets[hop_type]) * 0.1))
+            yesno_dataset[hop_type]["yes"] = generate_yes_no_questions(
+                dataset=yes_dataset,
+                demo_set=demo_set[hop_type],
+                yesno_demos=yesno_demo_set["yes"],
+                hop_type=hop_type,
+                num_demos=4,
+                model_name="gpt-3.5-turbo-0301"
+            )
+            no_dataset = random.sample(filtered_datasets[hop_type], k=int(len(filtered_datasets[hop_type]) * 0.1))
+            yesno_dataset[hop_type]["no"] = generate_yes_no_questions(
+                dataset=no_dataset,
+                demo_set=demo_set[hop_type],
+                yesno_demos=yesno_demo_set["no"],
+                hop_type=hop_type,
+                num_demos=4,
+                model_name="gpt-3.5-turbo-0301"
+            )
+            print(f"Length of {hop_type} yesno dataset: {len(yesno_dataset[hop_type]['yes']) + len(yesno_dataset[hop_type]['no'])}")
+            print(f"Length of {hop_type} original dataset: {len(filtered_datasets[hop_type]) * 0.2}")
+            print(f"Success rate: {(len(yesno_dataset[hop_type]['yes']) + len(yesno_dataset[hop_type]['no'])) / (len(filtered_datasets[hop_type]) * 0.2)}")
+
+        with open(os.path.join(args.output_dir, "pseudo_dataset_yesno.json"), "w") as f:
+            json.dump(yesno_dataset, f, indent=4)
 
     if args.do_merge:
         filtered_datasets = json.load(open(os.path.join(args.output_dir, "pseudo_dataset_completion.json"), "r"))
