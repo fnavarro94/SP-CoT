@@ -42,43 +42,49 @@ import timeit
 #           }
 
 
-TOPICS = {'politicians': 10,
-          'athletes': 10,
-          'sports teams (basketball, soccer, football, baseball .etc)': 10,
-          'sports events (tournaments, leagues, cups .etc)': 10,
-          'countries': 10,
-          'cities': 10,
-          'historical figures': 10,
-          'historical events': 10,
-          'wars': 10,
-          'religions': 10,
-          'singers': 10,
-          'songs': 10,
-          'actors or actresses': 10,
-          'movies or TV series': 10,
-          'writers': 10,
-          'books': 10,
-          'painters': 10,
-          'paintings': 10,
-          'composers': 10,
-          'classical music': 10,
-          'tourist attractions (artificial and natural)': 10,
-          'scientists': 20,
-          'scientific terms': 10,
-          'video games': 10,
-          'animals': 10,
-          'plants': 10,
-          'foods': 10,
-          'enterprises': 10,
-          'international organizations': 10
-          }
+# TOPICS = {
+#           'politicians': 10,
+#           'athletes': 10,
+#           'sports teams (basketball, soccer, football, baseball .etc)': 10,
+#           'sports events (tournaments, leagues, cups .etc)': 10,
+#           'countries': 10,
+#           'cities': 10,
+#           'historical figures': 10,
+#           'historical events': 10,
+#           'wars': 10,
+#           'religions': 10,
+#           'singers': 10,
+#           'songs': 10,
+#           'actors or actresses': 10,
+#           'movies or TV series': 10,
+#           'writers': 10,
+#           'books': 10,
+#           'painters': 10,
+#           'paintings': 10,
+#           'composers': 10,
+#           'classical music': 10,
+#           'tourist attractions (artificial and natural)': 10,
+#           'scientists': 20,
+#           'scientific terms': 10,
+#           'video games': 10,
+#           'animals': 10,
+#           'plants': 10,
+#           'foods': 10,
+#           'enterprises': 10,
+#           'international organizations': 10
+#           }
+
+TOPICS = {
+
+    'newzealand transport agency and newzealand transport related topics (road, projects, safety, vehicles, personel, organization, etc)': 100,
+}
 
 
-def list_topic_terms(model: Union[APIModel, LocalModel], topic: str):
+def list_topic_terms(model: Union[APIModel, LocalModel], topic: str, already_generated = [] ):
     # prompt = f"List some {topic}, separated by '|':\n"
-    prompt = f"List some {topic} separated by '|':"
+    prompt = f"List some {topic} separated by '|', for example <topic1> | <topic2> | <topic3> , etc, in that exact format. Do not include terms alredy found in this list {already_generated}:"
     print(f"List some {topic} separated by |:")
-    response = model.get_response(prompt, temperature=1.0, max_tokens=64)
+    response = model.get_response(prompt, temperature=.5, max_tokens=64)
     print(f"Response: {response}")
     terms = [it.strip() for it in response.split('|')]
     return terms
@@ -94,14 +100,14 @@ def generate_passage_for_term(
 ):
     if template:
         example_term, example_passage = template["term"], template["passage"]
-        prompt = f"Generate a passage from Wikipedia about {example_term}:\n{example_passage}\n\n"
+        prompt = f"Generate a passage in Wikipedia style about {example_term}:\n{example_passage}\n\n Keep it relate d to to transport in new zealand as a broad category. dont worry if your infomration is outdated do not mention this. dont worry if you dont have direct access to wikipedia do not mentino this either. it is ok, just write the passage to the best of your ability without refering to this message on the paragraph. DO NOT SAY 'I''m sorry, but I cannot provide verbatim excerpts from Wikipedia':"
     else:
         prompt = ""
 
     if detailed:
-        prompt += f"Generate a detailed passage from Wikipedia about {term}:"
+        prompt += f"Generate a detailed passage from Wikipedia style about {term}. Keep it related to transport in new zealand as a broad category:"
     else:
-        prompt += f"Generate a passage from Wikipedia about {term}:"
+        prompt += f"Generate a passage in Wikipedia style about {term}. keep it related to transport iin new zealand as a broad category:"
     raw_passage = model.get_response(prompt, temperature=temperature, max_tokens=max_tokens)
 
     # remove the incomplete sentence at the end
@@ -130,8 +136,8 @@ def extract_entities_in_passage(
     # entity_source_2
     if "llm" in extractor:
         prompt_extract_entity = f"Passage:\n{passage}\n\n" \
-                                f"Extract the named entities (like date, location, organization, character, number) in the above passage, entities should be separated by '|'." \
-                                f"If no named entity in it, return 'None' only."
+                                f"Extract the named entities (like date, location, organization, character, number, people, streets, projects) in the above passage, entities should be separated by '|'. for example <entity1> | <entity2> | <entity3> , etc, in that exact format:" \
+                                f"If no named entity in it, return 'None' only. Select entities that are part of the  subject of transport in newzealand."
         raw_entities_by_llm = model.get_response(prompt_extract_entity, temperature=0.0, max_tokens=max_tokens)
 
         entities_llm = [clean_entity(ent) for ent in raw_entities_by_llm.split('|')]
@@ -827,7 +833,7 @@ def parse_arguments():
     #                     help="method name in [2-hop, 3-hop-linear, 3-hop-tree, 4-hop-linear, 4-hop-tree-balance, 4-hop-tree-unbalance]")
 
     parser.add_argument(
-        "--model_name", type=str, default="gpt-3.5-turbo-0301", help="model used for response generation.")
+        "--model_name", type=str, default="gpt-4o-mini", help="model used for response generation.")
 
     parser.add_argument("--output_path", type=str, default="data/self-prompt-cot/")
     parser.add_argument("--output_file", type=str, default=None)
@@ -889,7 +895,7 @@ def main(args):
     logger = open(args.log, "a")
 
     # init model
-    if args.model_name in ["gpt-3.5-turbo-0301", "gpt-3.5-turbo"]:
+    if args.model_name in ["gpt-3.5-turbo-0301", "gpt-3.5-turbo", "gpt-3.5-turbo-0125", "gpt-4-turbo", "gpt-4o-mini"]:
         model = ChatGPT(model_name=args.model_name)
     elif args.model_name in ["text-davinci-002", "text-davinci-003"]:
         model = CompleteGPT(model_name=args.model_name)
@@ -909,8 +915,10 @@ def main(args):
         raise ValueError(f"model {args.model_name} not supported.")
 
     all_terms = []
+    # dd a random call to the model to see if it is working
+    
     while len(all_terms) < args.max_terms:
-        terms = list_topic_terms(model, args.topic)
+        terms = list_topic_terms(model, args.topic, already_generated=all_terms)
         print(f"collected {len(all_terms)}/ {args.max_terms}")
         for term in terms:
             if term not in all_terms:
@@ -945,9 +953,12 @@ def main(args):
             title_in_question=False
         )
         if output and len(output["qae_pairs"]) > 0:
+            print("This is the output")
+            print(output)
             output["hops"] = [term]
             first_hops[term] = output
-
+    print(f"this are the first hops")
+    print(first_hops)
     dataset["first_hops"] = first_hops
     with open(args.output_file, "w") as f:
         json.dump(dataset, f, indent=4, ensure_ascii=False)
@@ -997,6 +1008,9 @@ def main(args):
 
 if __name__ == "__main__":
     args = parse_arguments()
+    print(f"Running main with args: {args}")
+    #make a random call to openai mmodel to see if it is working
+    
     main(args)
     # print("Done!")
 

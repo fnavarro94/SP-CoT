@@ -603,6 +603,9 @@ def export_to_dict(dataset, dataset_type: str):
                 "answer": remove_punc(data.answer),
                 "evidence": data.evidence,
             }
+        elif dataset_type == "type_0":
+            #skip
+            continue
         else:
             hop_1 = {
                 "context": data.context,
@@ -610,6 +613,7 @@ def export_to_dict(dataset, dataset_type: str):
                 "answer": remove_punc(data.answer),
                 "evidence": data.evidence,
             }
+            print(f"dataset_type: {dataset_type}")
             raise ValueError("Invalid dataset type")
 
         if hop_4:
@@ -731,7 +735,7 @@ def gen_question_with_demos(
 ):
     output_dataset = []
     from src.api import ChatGPT, CompleteGPT
-    if model_name.lower() in ["gpt-3.5-turbo-0301"]:
+    if model_name.lower() in ["gpt-3.5-turbo-0125"]:
         model = ChatGPT(model_name)
     elif model_name.lower() in ["text-davinci-003"]:
         model = CompleteGPT(model_name)
@@ -822,7 +826,7 @@ def generate_yes_no_questions(
 ):
     output_dataset = []
     from src.api import ChatGPT, CompleteGPT
-    if model_name.lower() in ["gpt-3.5-turbo-0301"]:
+    if model_name.lower() in ["gpt-3.5-turbo-0125"]:
         model = ChatGPT(model_name)
     elif model_name.lower() in ["text-davinci-003"]:
         model = CompleteGPT(model_name)
@@ -907,7 +911,7 @@ def generate_yes_no_questions(
 def parse_argument():
     parser = argparse.ArgumentParser()
 
-    parser.add_argument("--data_dir", type=str, default="../data/self-prompt-cot/gpt-3.5-turbo-0301/",
+    parser.add_argument("--data_dir", type=str, default="../data/self-prompt-cot/gpt-3.5-turbo-0125/",
                         help="Directory of generated data")
     parser.add_argument("--output_dir", type=str, default="../data/self-prompt-cot/",
                         help="Directory of output dataset")
@@ -935,7 +939,8 @@ if __name__ == "__main__":
         print("Building multi-hop dataset...")
         first_hop_examples, second_hop_examples = load_examples(args.data_dir)
         multi_hop_datasets = build_multihop_datasets(first_hop_examples, second_hop_examples)
-
+        # remove type_0 from multi_hop_datasets
+        multi_hop_datasets.pop("type_0")
         with open(os.path.join(args.output_dir, "all_datasets.pkl"), "wb") as f:
             pickle.dump(multi_hop_datasets, f)
     else:
@@ -946,7 +951,9 @@ if __name__ == "__main__":
         print("Filtering and Exporting datasets to json ...")
         max_duplicate_degrees = [0, 0, 1, 1, 1, 1]
         filtered_datasets = {}
+        
         for i, dataset_type in enumerate(multi_hop_datasets):
+            # if dataset_type != type_0
             filtered_dataset = filter_dataset(
                 dataset=multi_hop_datasets[dataset_type],
                 dataset_type=dataset_type,
@@ -981,7 +988,7 @@ if __name__ == "__main__":
                 demo_set=demo_set[hop_type],
                 hop_type=hop_type,
                 num_demos=4,
-                model_name="gpt-3.5-turbo-0301")
+                model_name="gpt-3.5-turbo-0125")
             print(f"Length of {hop_type} complete dataset: {len(complete_dataset[hop_type])}")
             print(f"Length of {hop_type} original dataset: {len(filtered_datasets[hop_type])}")
             print(f"Success rate: {len(complete_dataset[hop_type]) / len(filtered_datasets[hop_type])}")
@@ -1003,7 +1010,7 @@ if __name__ == "__main__":
                 yesno_demos=yesno_demo_set["yes"],
                 hop_type=hop_type,
                 num_demos=4,
-                model_name="gpt-3.5-turbo-0301"
+                model_name="gpt-3.5-turbo-0125"
             )
             no_dataset = random.sample(filtered_datasets[hop_type], k=int(len(filtered_datasets[hop_type]) * 0.1))
             yesno_dataset[hop_type]["no"] = generate_yes_no_questions(
@@ -1012,7 +1019,7 @@ if __name__ == "__main__":
                 yesno_demos=yesno_demo_set["no"],
                 hop_type=hop_type,
                 num_demos=4,
-                model_name="gpt-3.5-turbo-0301"
+                model_name="gpt-3.5-turbo-0125"
             )
             print(f"Length of {hop_type} yesno dataset: {len(yesno_dataset[hop_type]['yes']) + len(yesno_dataset[hop_type]['no'])}")
             print(f"Length of {hop_type} original dataset: {len(filtered_datasets[hop_type]) * 0.2}")
